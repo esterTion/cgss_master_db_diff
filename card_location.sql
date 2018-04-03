@@ -147,3 +147,5 @@ INSERT INTO `card_location` VALUES (/*index*/146, /*text*/"マーチングLIVE�
 INSERT INTO `card_location` VALUES (/*index*/147, /*text*/"炎のステージ");
 INSERT INTO `card_location` VALUES (/*index*/148, /*text*/"学校のプール");
 INSERT INTO `card_location` VALUES (/*index*/149, /*text*/"扉の在るステージ");
+INSERT INTO `card_location` VALUES (/*index*/150, /*text*/"クルーズ船");
+INSERT INTO `card_location` VALUES (/*index*/151, /*text*/"教会");

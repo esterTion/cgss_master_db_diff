@@ -116,6 +116,7 @@ INSERT INTO `tips` VALUES (/*id*/114, /*tips_type*/1, /*value*/119, /*index*/1, 
 INSERT INTO `tips` VALUES (/*id*/115, /*tips_type*/1, /*value*/218, /*index*/1, /*title*/"成宮由愛のウワサ", /*comment*/"いろんな習い事をやったが、\n絵以外はどれも続かなかった\nらしい。");
 INSERT INTO `tips` VALUES (/*id*/116, /*tips_type*/1, /*value*/250, /*index*/1, /*title*/"上田鈴帆のウワサ", /*comment*/"指先の傷は努力の証らしい。");
 INSERT INTO `tips` VALUES (/*id*/117, /*tips_type*/1, /*value*/213, /*index*/1, /*title*/"梅木音葉のウワサ", /*comment*/"6種類の楽器が弾けるらしい。");
+INSERT INTO `tips` VALUES (/*id*/118, /*tips_type*/1, /*value*/236, /*index*/1, /*title*/"並木芽衣子のウワサ", /*comment*/"旅先では、すべての名所に\nかならず立ち寄るらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/30001, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルを育てるには", /*comment*/"アイドルのレベルを上げるには、\nレッスンを行いましょう !");
 INSERT INTO `tips` VALUES (/*id*/30002, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルとの親愛度を上げるには", /*comment*/"LIVEを行うと、\n参加したアイドルの親愛度が上がります !");
@@ -260,3 +261,4 @@ INSERT INTO `tips` VALUES (/*id*/40116, /*tips_type*/4, /*value*/119, /*index*/1
 INSERT INTO `tips` VALUES (/*id*/40117, /*tips_type*/4, /*value*/218, /*index*/1, /*title*/"成宮由愛①　描きたい風景", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40118, /*tips_type*/4, /*value*/250, /*index*/1, /*title*/"上田鈴帆①　届くかこの想い", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40119, /*tips_type*/4, /*value*/213, /*index*/1, /*title*/"梅木音葉①　住人…？", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40120, /*tips_type*/4, /*value*/236, /*index*/1, /*title*/"並木芽衣子①　新しい目標 !", /*comment*/"");
