@@ -217,7 +217,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90104, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90104, /*img*/1, /*discription*/"レッスン大成功確率が通常の3倍になる\n「レッスン大成功確率アップキャンペーン」");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90104, /*img*/2, /*discription*/"LIVEコンティニューに必要なスタージュエルが\n「50個」から「10個」になる「LIVEチャレンジ\nキャンペーン」");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90104, /*img*/2, /*discription*/"LIVE成功時にティアラと魔法のドレスの\nドロップ率がアップする「特訓支援キャンペーン」\n期間などの詳細はお知らせよりご確認ください。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90105, /*img*/1, /*discription*/"「LIVE PARTY!!」がいつでも遊べるようになりました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90105, /*img*/1, /*discription*/"「LIVE PARTY!!」がいつでも遊べるようになります !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90105, /*img*/1, /*discription*/"専用のアイテムを集めることで、過去のイベントに登場した\nアイドルやルームアイテムを獲得できます !\n※各報酬は、LIVE PARTY!!以外でも、\n今後獲得可能になる予定です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90106, /*img*/1, /*discription*/"LIVEのMV設定に、新たに「縦画面モード」を追加予定です。\n対応楽曲では、端末を縦にしてMVを再生できます。\n※「縦画面モード」対応楽曲は順次追加予定です。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90106, /*img*/2, /*discription*/"LIVEに新モード「SMART LIVE」を追加予定です。\n対応楽曲で、端末を縦に持って片手でプレイ可能な\n新しいスタイルのリズムゲームです。\n");
