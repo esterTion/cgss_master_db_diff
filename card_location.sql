@@ -153,4 +153,7 @@ INSERT INTO `card_location` VALUES (/*index*/152, /*text*/"日菜子の部屋");
 INSERT INTO `card_location` VALUES (/*index*/153, /*text*/"舞台");
 INSERT INTO `card_location` VALUES (/*index*/154, /*text*/"カラフルステージ");
 INSERT INTO `card_location` VALUES (/*index*/155, /*text*/"公園の遊歩道");
+INSERT INTO `card_location` VALUES (/*index*/156, /*text*/"寮のキッチン");
+INSERT INTO `card_location` VALUES (/*index*/157, /*text*/"キッチン風ステージ");
+INSERT INTO `card_location` VALUES (/*index*/158, /*text*/"学園祭");
 INSERT INTO `card_location` VALUES (/*index*/159, /*text*/"収録スタジオ");
