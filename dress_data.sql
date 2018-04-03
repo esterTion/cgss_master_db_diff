@@ -8,3 +8,4 @@ INSERT INTO `dress_data` VALUES (/*id*/100, /*name*/"SSレア衣装", /*descript
 INSERT INTO `dress_data` VALUES (/*id*/7001000, /*name*/"プレゼントオブスノウ", /*description*/"赤や緑のリボンで包んだ雪のようなドレス。\n星の光が煌めく夜、季節の扉が開いて届いた\n真っ白なプレゼント。そのドレスを翼にして\nファンの元へ駆けだす少女たちは天使のよう。", /*open_type*/2);
 INSERT INTO `dress_data` VALUES (/*id*/7002000, /*name*/"フレグランスオブナイト", /*description*/"忘れられない夜を彩るドレス。\n夜のあいだにだけ咲く花たちがある。\n花びらから溢れ出すのは、魅惑の香り。\nその芳しい蜜は人を惑わし、口づけを誘う。", /*open_type*/2);
 INSERT INTO `dress_data` VALUES (/*id*/7003000, /*name*/"マーチング☆メロディーズ", /*description*/"マーチングバンド風の可愛らしいドレス。\nリズムが聞こえたら、小さな楽団が大集合。\nカラフルでゆかいな行進が始まるよ !", /*open_type*/2);
+INSERT INTO `dress_data` VALUES (/*id*/7004000, /*name*/"ヴァルキュリア・オース", /*description*/"未来を掴みとるための、戦いのドレス。\n汚れなき純白の制服に身を包み、\n己が意志を高らかに歌う姿は、\n神話に謳われた戦乙女のよう。", /*open_type*/2);
