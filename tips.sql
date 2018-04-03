@@ -283,6 +283,12 @@ INSERT INTO `tips` VALUES (/*id*/281, /*tips_type*/1, /*value*/288, /*index*/2, 
 INSERT INTO `tips` VALUES (/*id*/282, /*tips_type*/1, /*value*/210, /*index*/2, /*title*/"篠原礼のウワサ②", /*comment*/"夜は薄明かりがお好みらしい。");
 INSERT INTO `tips` VALUES (/*id*/283, /*tips_type*/1, /*value*/234, /*index*/2, /*title*/"本田未央のウワサ②", /*comment*/"握手会にいくと\nあだ名をつけてもらえるらしい。");
 INSERT INTO `tips` VALUES (/*id*/284, /*tips_type*/1, /*value*/220, /*index*/2, /*title*/"塩見周子のウワサ②", /*comment*/"トガったものが好きらしい。");
+INSERT INTO `tips` VALUES (/*id*/285, /*tips_type*/1, /*value*/118, /*index*/2, /*title*/"横山千佳のウワサ②", /*comment*/"魔法少女ごっこに、ときどき\n大人を巻き込むらしい。");
+INSERT INTO `tips` VALUES (/*id*/286, /*tips_type*/1, /*value*/200, /*index*/2, /*title*/"柊志乃のウワサ②", /*comment*/"二日酔い知らずらしい。");
+INSERT INTO `tips` VALUES (/*id*/287, /*tips_type*/1, /*value*/232, /*index*/2, /*title*/"望月聖のウワサ②", /*comment*/"ホワイトクリスマスに\n生まれたらしい。");
+INSERT INTO `tips` VALUES (/*id*/288, /*tips_type*/1, /*value*/129, /*index*/2, /*title*/"松原早耶のウワサ②", /*comment*/"ブログの文は落ち着いているので\nときどき、書いたのが本人だと\n信じてもらえないらしい。");
+INSERT INTO `tips` VALUES (/*id*/289, /*tips_type*/1, /*value*/240, /*index*/2, /*title*/"斉藤洋子のウワサ②", /*comment*/"新しい入浴剤を買った日は\n1日うきうきしているらしい。");
+INSERT INTO `tips` VALUES (/*id*/290, /*tips_type*/1, /*value*/245, /*index*/2, /*title*/"真鍋いつきのウワサ②", /*comment*/"よく食べてよく動くらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !");
@@ -572,4 +578,7 @@ INSERT INTO `tips` VALUES (/*id*/40249, /*tips_type*/4, /*value*/260, /*index*/2
 INSERT INTO `tips` VALUES (/*id*/40250, /*tips_type*/4, /*value*/249, /*index*/2, /*title*/"喜多見柚②　子供じゃないよ", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40251, /*tips_type*/4, /*value*/186, /*index*/2, /*title*/"水野翠②　流鏑馬(やぶさめ)", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40252, /*tips_type*/4, /*value*/272, /*index*/2, /*title*/"十時愛梨②　冬でも暑いです～", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40253, /*tips_type*/4, /*value*/111, /*index*/2, /*title*/"小日向美穂②　A・おつまみの話", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40254, /*tips_type*/4, /*value*/228, /*index*/2, /*title*/"大和亜季②　サバイバルちがい", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40255, /*tips_type*/4, /*value*/300, /*index*/2, /*title*/"イヴ・サンタクロース②　入りたくなるんです～", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50001, /*tips_type*/5, /*value*/1, /*index*/1, /*title*/"縦画面持ち替え説明画像", /*comment*/"");
