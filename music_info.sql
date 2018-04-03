@@ -125,6 +125,7 @@ INSERT INTO `music_info` VALUES (/*id*/3040, /*discription*/"櫻井桃華（CV�
 INSERT INTO `music_info` VALUES (/*id*/3041, /*discription*/"大槻唯（CV：山下七海）\n\n\n作詞：BNSI（MC TC）\n作曲・編曲：BNSI（Taku Inoue）\nコーラス：Mitsu（BNSI）、Interior M");
 INSERT INTO `music_info` VALUES (/*id*/3042, /*discription*/"中野有香（CV：下地紫野）\n\n\n作詞：ミズノゲンキ\n作曲・編曲：睦月周平\nギター＆プログラミング：睦月周平\nストリングス：矢野小百合ストリングス");
 INSERT INTO `music_info` VALUES (/*id*/3043, /*discription*/"二宮飛鳥（CV：青木志貴）\n\n\n作詞・作曲・編曲：烏屋茶房\nベース：プロ（ヒゲドライVAN）");
+INSERT INTO `music_info` VALUES (/*id*/3044, /*discription*/"相葉夕美（CV：木村珠莉）\n\n\n作詞・作曲・編曲：橋本由香利\nキーボード＆プログラミング：橋本由香利\nギター：宮崎誠\nベース：川島弘光\nドラム：一ノ瀬久");
 INSERT INTO `music_info` VALUES (/*id*/3045, /*discription*/"五十嵐響子（CV：種﨑敦美）\n\n\n作詞・作曲：BNSI（柿埜嘉奈子）\n編曲：BNSI（kyo）\nギター：後藤貴徳\nコーラス：美弥（BNSI）");
 INSERT INTO `music_info` VALUES (/*id*/5001, /*discription*/"CINDERELLA PROJECT\n\n島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n双葉杏（CV：五十嵐裕美）\n三村かな子（CV：大坪由佳）\n城ヶ崎莉嘉（CV：山本希望）\n神崎蘭子（CV：内田真礼）\n前川みく（CV：高森奈津美）\n諸星きらり（CV：松嵜麗）\n多田李衣菜（CV：青木瑠璃子）\n赤城みりあ（CV：黒沢ともよ）\n新田美波（CV：洲崎綾）\n緒方智絵里（CV：大空直美）\nアナスタシア（CV：上坂すみれ）\n\n\n作詞：森由里子\n作曲・編曲：田中秀和（MONACA）");
 INSERT INTO `music_info` VALUES (/*id*/5002, /*discription*/"CINDERELLA PROJECT\n\n島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n双葉杏（CV：五十嵐裕美）\n三村かな子（CV：大坪由佳）\n城ヶ崎莉嘉（CV：山本希望）\n神崎蘭子（CV：内田真礼）\n前川みく（CV：高森奈津美）\n諸星きらり（CV：松嵜麗）\n多田李衣菜（CV：青木瑠璃子）\n赤城みりあ（CV：黒沢ともよ）\n新田美波（CV：洲崎綾）\n緒方智絵里（CV：大空直美）\nアナスタシア（CV：上坂すみれ）\n\n\n作詞：遠藤フビト\n作曲：BNSI（Yoshi）\n編曲：BNSI（Yoshi）、\n滝澤俊輔（TRYTONELABO）");
