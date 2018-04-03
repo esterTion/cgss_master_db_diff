@@ -68,7 +68,7 @@ INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_3301.unity3d", /*hash*/"9
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_3302.unity3d", /*hash*/"a463a5cee8d34bafd0c8a0242b8202df", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_3304.unity3d", /*hash*/"0b359f9de3fe3f9586fce525ec8f2ece", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_9001.unity3d", /*hash*/"0ebdb4bd6312a342db8448f6a243758d", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"3d_chara_data.unity3d", /*hash*/"24ad62ce9fda5eb3306ba950dd48da29", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"3d_chara_data.unity3d", /*hash*/"d06073ca10395f249d9bd48e7f71bb7a", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0020_9001.unity3d", /*hash*/"57dacec81b933d9f9daf23e5de1efd80", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0101.unity3d", /*hash*/"cb7ed1b3713f2c92731aa65001eb46c1", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0101_1001.unity3d", /*hash*/"961159c40f8b68cb116d265927b7778d", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
@@ -105,7 +105,7 @@ INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0126_1008.unity3d", /*has
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0126_1308.unity3d", /*hash*/"cfa21c0e637ac43f0f105aaf9317a48b", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0127.unity3d", /*hash*/"003600302ef77973c0e246bd3889f805", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0127_1003.unity3d", /*hash*/"269df24eec1a134e2945f4f6c4fa865a", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0127_1303.unity3d", /*hash*/"f7479ec510eeb0469225426284a16422", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0127_1303.unity3d", /*hash*/"d802d795a4a4d845045540dd51f2d96a", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0129.unity3d", /*hash*/"e288f07d5bda93f3677caff5270d9766", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0131.unity3d", /*hash*/"79e806bba93c274ca5fc2f09d86ad5a3", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0131_1013.unity3d", /*hash*/"0b2c8bd278dab80d6fcf5574b77675a7", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
@@ -149,7 +149,7 @@ INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0167_2001.unity3d", /*has
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0167_2301.unity3d", /*hash*/"385e425184d9ceebd005b66841d91ffa", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0168.unity3d", /*hash*/"ea519b3c6b2fbcdef36f6c3ff28cbc1d", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0169.unity3d", /*hash*/"2877de28fab5d1b796353d551b03b089", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0170.unity3d", /*hash*/"79743059c4cdf282a793138a5a306e23", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0170.unity3d", /*hash*/"1e608ace7d2a301709f1348aac49f06e", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0171.unity3d", /*hash*/"0c9d20c76724dfd683a1ba8100f3aab3", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0172.unity3d", /*hash*/"1c37b326b25ac289a1457abc8248b4bb", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0173.unity3d", /*hash*/"fc2366e2f55e5141fa32453fff3a4f95", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
