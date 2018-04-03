@@ -106,6 +106,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/4, /*discription*/"特訓後のアイドルは、特訓前の状態にすることができます。\n切り替えを行うと、ホームやルームで登場するアイドルが\n特訓前の状態になります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40201, /*img*/1, /*discription*/"新3D衣装「アクロス・ザ・スターズ」登場 !\n3DLIVEでアイドルたちの衣装を\n変更することができるようになりました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40201, /*img*/2, /*discription*/"3D衣装の変更はアイドル編成と\nMVモードのユニット確認画面で\n切り替えることができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40202, /*img*/1, /*discription*/"「MVオリジナルユニット」機能を追加しました。\n各楽曲を歌唱しているアイドルのユニットを\n簡単に設定できる機能です。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40202, /*img*/1, /*discription*/"機能に対応した楽曲では、MVのユニット確認画面の上部に\n「MVオリジナル」タブが表示されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40202, /*img*/1, /*discription*/"「MVオリジナル」タブに切り替えると、楽曲に合わせた\nアイドルと衣装が自動で編成されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40202, /*img*/1, /*discription*/"アイドルをタップして自由に編成しなおすこともできます。\n「MVオリジナル」の編成状態は、各楽曲ごとに保存されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40301, /*img*/1, /*discription*/"女子寮には、アイドルを入寮させることができます。\n※入寮中のアイドルは、LIVEへの参加や、レッスン等は行えません");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40301, /*img*/2, /*discription*/"入寮中のアイドルは、直接他の寮へ移動することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40301, /*img*/3, /*discription*/"女子寮はショップからスタージュエルを使用して\n追加することができます。\n※女子寮機能公開後、第1女子寮は無条件で使用できます。");
