@@ -7,4 +7,5 @@ INSERT INTO `room_set_data` VALUES (/*id*/5, /*name*/"屋上庭園コーデ", /*
 INSERT INTO `room_set_data` VALUES (/*id*/6, /*name*/"宇宙コーデ", /*value*/245000, /*shop_start*/"2017-9-27 15:00:00", /*shop_end*/"", /*flag_new*/0, /*sort*/754001, /*bonus*/"1864,1865");
 INSERT INTO `room_set_data` VALUES (/*id*/7, /*name*/"おばけの館コーデ", /*value*/400000, /*shop_start*/"2017-10-12 15:00:00", /*shop_end*/"2017-10-31 23:59:59", /*flag_new*/0, /*sort*/751001, /*bonus*/"1913,1914");
 INSERT INTO `room_set_data` VALUES (/*id*/8, /*name*/"スポーツジムコーデ", /*value*/275000, /*shop_start*/"2017-11-14 15:00:00", /*shop_end*/"", /*flag_new*/0, /*sort*/744001, /*bonus*/"1972,1973");
-INSERT INTO `room_set_data` VALUES (/*id*/9, /*name*/"クリスマスディナーコーデ", /*value*/305000, /*shop_start*/"2017-12-7 15:00:00", /*shop_end*/"2017-12-25 23:59:59", /*flag_new*/1, /*sort*/738001, /*bonus*/"2029,2030,2031");
+INSERT INTO `room_set_data` VALUES (/*id*/9, /*name*/"クリスマスディナーコーデ", /*value*/305000, /*shop_start*/"2017-12-7 15:00:00", /*shop_end*/"2017-12-25 23:59:59", /*flag_new*/0, /*sort*/738001, /*bonus*/"2029,2030,2031");
+INSERT INTO `room_set_data` VALUES (/*id*/10, /*name*/"お正月コーデ", /*value*/305000, /*shop_start*/"2017-12-28 15:00:00", /*shop_end*/"2018-1-15 23:59:59", /*flag_new*/1, /*sort*/733001, /*bonus*/"2076,2077");
