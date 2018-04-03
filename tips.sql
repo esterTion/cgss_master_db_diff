@@ -135,6 +135,9 @@ INSERT INTO `tips` VALUES (/*id*/133, /*tips_type*/1, /*value*/210, /*index*/1, 
 INSERT INTO `tips` VALUES (/*id*/134, /*tips_type*/1, /*value*/183, /*index*/1, /*title*/"木場真奈美のウワサ", /*comment*/"なにかを失敗した日は\n一駅分走るらしい。");
 INSERT INTO `tips` VALUES (/*id*/135, /*tips_type*/1, /*value*/259, /*index*/1, /*title*/"西島櫂のウワサ", /*comment*/"髪のセットをしたことが\nないらしい。");
 INSERT INTO `tips` VALUES (/*id*/136, /*tips_type*/1, /*value*/156, /*index*/1, /*title*/"栗原ネネのウワサ", /*comment*/"たくさん食べる人が\n好きらしい。");
+INSERT INTO `tips` VALUES (/*id*/137, /*tips_type*/1, /*value*/120, /*index*/1, /*title*/"太田優のウワサ", /*comment*/"アッキーとの出会いは\n涙なしでは語れないらしい。");
+INSERT INTO `tips` VALUES (/*id*/138, /*tips_type*/1, /*value*/212, /*index*/1, /*title*/"吉岡沙紀のウワサ", /*comment*/"自由人に見られることが多いが、\n本人はしっかりしている\nつもりらしい。");
+INSERT INTO `tips` VALUES (/*id*/139, /*tips_type*/1, /*value*/244, /*index*/1, /*title*/"愛野渚のウワサ", /*comment*/"髪をくくるための\nリボンを集めていることは\n誰にも言えないらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/30001, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルを育てるには", /*comment*/"アイドルのレベルを上げるには、\nレッスンを行いましょう !");
 INSERT INTO `tips` VALUES (/*id*/30002, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルとの親愛度を上げるには", /*comment*/"LIVEを行うと、\n参加したアイドルの親愛度が上がります !");
@@ -298,3 +301,6 @@ INSERT INTO `tips` VALUES (/*id*/40135, /*tips_type*/4, /*value*/210, /*index*/1
 INSERT INTO `tips` VALUES (/*id*/40136, /*tips_type*/4, /*value*/183, /*index*/1, /*title*/"木場真奈美①　真奈美の弱点？", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40137, /*tips_type*/4, /*value*/259, /*index*/1, /*title*/"西島櫂①　水あるところに", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40138, /*tips_type*/4, /*value*/156, /*index*/1, /*title*/"栗原ネネ①　栄養第一です♪", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40139, /*tips_type*/4, /*value*/120, /*index*/1, /*title*/"太田優①　いつも抱いてる", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40140, /*tips_type*/4, /*value*/212, /*index*/1, /*title*/"吉岡沙紀①　これでどうっす？", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40141, /*tips_type*/4, /*value*/244, /*index*/1, /*title*/"愛野渚①　ゴミ箱にシュート", /*comment*/"");

@@ -46,6 +46,7 @@ INSERT INTO `music_data` VALUES (/*id*/3021, /*name*/"メルヘンデビュー !
 INSERT INTO `music_data` VALUES (/*id*/3023, /*name*/"エヴリデイドリーム", /*bpm*/157, /*composer*/"滝澤俊輔（TRYTONELABO）", /*lyricist*/"BNEI（八城雄太）", /*sound_offset*/66086, /*sound_length*/30000, /*name_sort*/8);
 INSERT INTO `music_data` VALUES (/*id*/3025, /*name*/"お散歩カメラ", /*bpm*/172, /*composer*/"イズミカワソラ", /*lyricist*/"イズミカワソラ", /*sound_offset*/38893, /*sound_length*/23000, /*name_sort*/13);
 INSERT INTO `music_data` VALUES (/*id*/3027, /*name*/"2nd SIDE", /*bpm*/133, /*composer*/"ESTi", /*lyricist*/"ESTi", /*sound_offset*/68574, /*sound_length*/32000, /*name_sort*/45);
+INSERT INTO `music_data` VALUES (/*id*/3028, /*name*/"薄荷 -ハッカ-", /*bpm*/71, /*composer*/"泉典孝", /*lyricist*/"いつきおと", /*sound_offset*/67572, /*sound_length*/37000, /*name_sort*/68);
 INSERT INTO `music_data` VALUES (/*id*/3029, /*name*/"花簪 \nHANAKANZASHI", /*bpm*/125, /*composer*/"ARM（IOSYS）", /*lyricist*/"夕野ヨシミ（IOSYS）", /*sound_offset*/57459, /*sound_length*/35000, /*name_sort*/70);
 INSERT INTO `music_data` VALUES (/*id*/3031, /*name*/"Bright Blue", /*bpm*/105, /*composer*/"BNSI（kyo）", /*lyricist*/"marhy", /*sound_offset*/75411, /*sound_length*/38000, /*name_sort*/71);
 INSERT INTO `music_data` VALUES (/*id*/3033, /*name*/"き・ま・ぐ・れ☆\nCafé au lait !", /*bpm*/148, /*composer*/"BNSI（Yoshi）", /*lyricist*/"BNSI（Mitsu）", /*sound_offset*/78599, /*sound_length*/26000, /*name_sort*/21);
