@@ -287,3 +287,4 @@ INSERT INTO `story_category` VALUES (/*id*/312, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/313, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"秋風に手を振って", /*sub_title*/"秋風に手を振って", /*disp_order*/48);
 INSERT INTO `story_category` VALUES (/*id*/315, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Trinity Field", /*sub_title*/"Trinity Field", /*disp_order*/49);
 INSERT INTO `story_category` VALUES (/*id*/316, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"恋が咲く季節", /*sub_title*/"恋が咲く季節", /*disp_order*/50);
+INSERT INTO `story_category` VALUES (/*id*/317, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"冬空プレシャス", /*sub_title*/"冬空プレシャス", /*disp_order*/51);
