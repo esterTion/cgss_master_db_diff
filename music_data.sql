@@ -29,6 +29,7 @@ INSERT INTO `music_data` VALUES (/*id*/1027, /*name*/"Near to You", /*bpm*/174, 
 INSERT INTO `music_data` VALUES (/*id*/1028, /*name*/"Near to You", /*bpm*/174, /*composer*/"AJURIKA", /*lyricist*/"AJURIKA", /*sound_offset*/72048, /*sound_length*/21000, /*name_sort*/69);
 INSERT INTO `music_data` VALUES (/*id*/1901, /*name*/"お願い ! シンデレラ", /*bpm*/175, /*composer*/"BNSI（内田哲也）", /*lyricist*/"marhy", /*sound_offset*/57508, /*sound_length*/20937, /*name_sort*/15);
 INSERT INTO `music_data` VALUES (/*id*/2001, /*name*/"ラブレター", /*bpm*/212, /*composer*/"岡野裕次郎（TRYTONELABO）", /*lyricist*/"桜アス恵（TRYTONELABO）", /*sound_offset*/57411, /*sound_length*/26300, /*name_sort*/97);
+INSERT INTO `music_data` VALUES (/*id*/2002, /*name*/"Jet to the Future", /*bpm*/180, /*composer*/"IMAJO", /*lyricist*/"磯谷佳江", /*sound_offset*/66710, /*sound_length*/37500, /*name_sort*/37);
 INSERT INTO `music_data` VALUES (/*id*/3001, /*name*/"S(mile)ING!", /*bpm*/178, /*composer*/"BNSI（Yoshi）", /*lyricist*/"BNSI（八城雄太）", /*sound_offset*/52279, /*sound_length*/18828, /*name_sort*/48);
 INSERT INTO `music_data` VALUES (/*id*/3002, /*name*/"Never say never", /*bpm*/156, /*composer*/"BNEI（遠山明孝）", /*lyricist*/"BNEI（遠山明孝・八城雄太）", /*sound_offset*/61305, /*sound_length*/11520, /*name_sort*/73);
 INSERT INTO `music_data` VALUES (/*id*/3003, /*name*/"ミツボシ☆☆★", /*bpm*/175, /*composer*/"BNSI（kyo）", /*lyricist*/"BNSI（八城雄太）", /*sound_offset*/51889, /*sound_length*/10195, /*name_sort*/87);

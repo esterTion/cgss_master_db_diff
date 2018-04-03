@@ -29,6 +29,7 @@ INSERT INTO `music_info` VALUES (/*id*/1027, /*discription*/"市原仁奈（CV�
 INSERT INTO `music_info` VALUES (/*id*/1028, /*discription*/"中野有香（CV：下地紫野）\n一ノ瀬志希（CV：藍原ことみ）\n五十嵐響子（CV：種崎敦美）\n櫻井桃華（CV：照井春佳）\n宮本フレデリカ（CV：高野麻美）\n塩見周子（CV：ルゥ ティン）\n橘ありす（CV：佐藤亜美菜）\n鷺沢文香（CV：M・A・O）\n速水奏（CV：飯田友子）\n二宮飛鳥（CV：青木志貴）\n市原仁奈（CV：久野美咲）\n大槻唯（CV：山下七海）\n片桐早苗（CV：和氣あず未）\n姫川友紀（CV：杜野まこ）\n相葉夕美（CV：木村珠莉）\n\n\n作詞・作曲・編曲：AJURIKA");
 INSERT INTO `music_info` VALUES (/*id*/1901, /*discription*/"千川ちひろ（CV：佐藤利奈）\n\n\n作詞：marhy\n作曲・編曲：BNSI（内田哲也）\nギター：後藤貴徳\nバイオリン：越川歩\nトランペット：鈴木正則\nコーラス：marhy");
 INSERT INTO `music_info` VALUES (/*id*/2001, /*discription*/"島村卯月（CV：大橋彩香）\n小日向美穂（CV：津田美波）\n五十嵐響子（CV：種崎敦美）\n\n\n作詞：桜アス恵（TRYTONELABO）\n作曲・編曲：岡野裕次郎（TRYTONELABO）");
+INSERT INTO `music_info` VALUES (/*id*/2002, /*discription*/"多田李衣菜（CV：青木瑠璃子）\n木村夏樹（CV：安野希世乃）\n\n\n作詞：磯谷佳江\n作曲・編曲：IMAJO");
 INSERT INTO `music_info` VALUES (/*id*/3001, /*discription*/"島村卯月（CV：大橋彩香）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（Yoshi）\nコーラス：Mitsu（BNSI）\nギター：後藤貴徳\nバイオリン：Bloom Quartet & Ensemble");
 INSERT INTO `music_info` VALUES (/*id*/3002, /*discription*/"渋谷凛（CV：福原綾香）\n\n\n作詞・作曲：BNEI（遠山明孝・八城雄太）\n作曲：BNEI（遠山明孝）\n編曲：関淳二郎\nギター・コーラス：関淳二郎");
 INSERT INTO `music_info` VALUES (/*id*/3003, /*discription*/"本田未央（CV：原紗友里）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（kyo）\nギター：後藤貴徳");

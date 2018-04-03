@@ -225,3 +225,4 @@ INSERT INTO `story_category` VALUES (/*id*/267, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/268, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"4thLIVE連動企画", /*sub_title*/"4thLIVE連動企画", /*disp_order*/3);
 INSERT INTO `story_category` VALUES (/*id*/269, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ラブレター", /*sub_title*/"ラブレター", /*disp_order*/21);
 INSERT INTO `story_category` VALUES (/*id*/270, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"STORY", /*sub_title*/"STORY", /*disp_order*/22);
+INSERT INTO `story_category` VALUES (/*id*/271, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Jet to the Future", /*sub_title*/"Jet to the Future", /*disp_order*/23);

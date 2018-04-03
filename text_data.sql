@@ -209,7 +209,7 @@ INSERT INTO `text_data` VALUES (/*category*/7, /*index*/65, /*text*/"<color=#2D2
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/66, /*text*/"[D33D98]{0}個[-]");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/67, /*text*/"イベント期間は終了しました。\nタイトル画面に戻ります。");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/68, /*text*/"TOP");
-INSERT INTO `text_data` VALUES (/*category*/7, /*index*/69, /*text*/"全ての報酬を獲得済みです");
+INSERT INTO `text_data` VALUES (/*category*/7, /*index*/69, /*text*/"全てのイベントpt報酬を\n獲得済みです");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/70, /*text*/"\nスターランク {0}");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/71, /*text*/"{0} × [c][D33D98]{1}[-][/c]{2}");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/72, /*text*/"結果発表");
