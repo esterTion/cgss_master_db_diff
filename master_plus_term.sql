@@ -2,3 +2,6 @@ CREATE TABLE 'master_plus_term' ('id' INTEGER NOT NULL, 'start_date' TEXT NOT NU
 INSERT INTO `master_plus_term` VALUES (/*id*/1, /*start_date*/"2017-02-13 15:00:00", /*end_date*/"2017-02-26 23:59:59", /*master_plus_group*/1);
 INSERT INTO `master_plus_term` VALUES (/*id*/2, /*start_date*/"2017-02-27 00:00:00", /*end_date*/"2017-03-12 23:59:59", /*master_plus_group*/2);
 INSERT INTO `master_plus_term` VALUES (/*id*/3, /*start_date*/"2017-03-13 00:00:00", /*end_date*/"2017-03-26 23:59:59", /*master_plus_group*/3);
+INSERT INTO `master_plus_term` VALUES (/*id*/4, /*start_date*/"2017-03-27 00:00:00", /*end_date*/"2017-04-09 23:59:59", /*master_plus_group*/1);
+INSERT INTO `master_plus_term` VALUES (/*id*/5, /*start_date*/"2017-04-10 00:00:00", /*end_date*/"2017-04-23 23:59:59", /*master_plus_group*/2);
+INSERT INTO `master_plus_term` VALUES (/*id*/6, /*start_date*/"2017-04-24 00:00:00", /*end_date*/"2017-05-07 23:59:59", /*master_plus_group*/3);
