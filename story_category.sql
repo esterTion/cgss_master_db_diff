@@ -228,7 +228,7 @@ INSERT INTO `story_category` VALUES (/*id*/243, /*type*/1, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/244, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第35話", /*sub_title*/"Easy Driver ! !", /*disp_order*/236);
 INSERT INTO `story_category` VALUES (/*id*/245, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第36話", /*sub_title*/"Voi che sapete…", /*disp_order*/237);
 INSERT INTO `story_category` VALUES (/*id*/246, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第37話", /*sub_title*/"Still up in the Air", /*disp_order*/238);
-INSERT INTO `story_category` VALUES (/*id*/247, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第38話", /*sub_title*/"Cheer You! Cheer Me!", /*disp_order*/239);
+INSERT INTO `story_category` VALUES (/*id*/247, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第38話", /*sub_title*/"Cheer You ! Cheer Me !", /*disp_order*/239);
 INSERT INTO `story_category` VALUES (/*id*/248, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第39話", /*sub_title*/"The Words for LOVE", /*disp_order*/240);
 INSERT INTO `story_category` VALUES (/*id*/249, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第40話", /*sub_title*/"coming soon", /*disp_order*/241);
 INSERT INTO `story_category` VALUES (/*id*/254, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"絶対特権主張しますっ ! ", /*sub_title*/"絶対特権主張しますっ ! ", /*disp_order*/9);

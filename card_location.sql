@@ -297,3 +297,4 @@ INSERT INTO `card_location` VALUES (/*index*/298, /*text*/"ラジオ収録ブー
 INSERT INTO `card_location` VALUES (/*index*/299, /*text*/"撮影セット");
 INSERT INTO `card_location` VALUES (/*index*/300, /*text*/"テレビ局・玄関");
 INSERT INTO `card_location` VALUES (/*index*/301, /*text*/"西部劇風セット");
+INSERT INTO `card_location` VALUES (/*index*/302, /*text*/"志保の自宅のキッチン");
