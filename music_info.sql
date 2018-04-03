@@ -174,6 +174,7 @@ INSERT INTO `music_info` VALUES (/*id*/9013, /*discription*/"アナスタシア�
 INSERT INTO `music_info` VALUES (/*id*/9014, /*discription*/"五十嵐響子（CV：種﨑敦美）\n乙倉悠貴（CV：中島由貴）\n水本ゆかり（CV：藤田茜）\n諸星きらり（CV：松嵜麗）\n姫川友紀（CV：杜野まこ）\n\n\n作詞：絵伊子\n作曲・編曲：渡部チェル");
 INSERT INTO `music_info` VALUES (/*id*/9015, /*discription*/"双葉杏（CV：五十嵐裕美）\n城ヶ崎莉嘉（CV：山本希望）\n二宮飛鳥（CV：青木志貴）\n白坂小梅（CV：桜咲千依）\n早坂美玲（CV：朝井彩加）\n\n\n作詞：ミズノゲンキ\n作曲・編曲：睦月周平");
 INSERT INTO `music_info` VALUES (/*id*/9016, /*discription*/"本田未央（CV：原紗友里）\n佐久間まゆ（CV：牧野由依）\n鷺沢文香（CV：M・A・O）\n輿水幸子（CV：竹達彩奈）\n新田美波（CV：洲崎綾）\n\n\n作詞：八城雄太\n作曲・編曲：田中秀和（MONACA）");
+INSERT INTO `music_info` VALUES (/*id*/9017, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n佐藤心（CV：花守ゆみり）\n三村かな子（CV：大坪由佳）\n\n\n作詞：八城雄太\n作曲：高取ヒデアキ\n編曲：籠島裕昌");
 INSERT INTO `music_info` VALUES (/*id*/9901, /*discription*/"佐々木千枝（CV：今井麻夏）\n龍崎薫（CV：春瀬なつみ）\n櫻井桃華（CV：照井春佳）\n赤城みりあ（CV：黒沢ともよ）\n市原仁奈（CV：久野美咲）\n\n\n作詞・作曲：俊龍\n編曲：Sizuk");
 INSERT INTO `music_info` VALUES (/*id*/9902, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n赤城みりあ（CV：黒沢ともよ）\n安部菜々（CV：三宅麻理恵）\n\n\n作詞・作曲：俊龍\n編曲：Sizuk");
 INSERT INTO `music_info` VALUES (/*id*/90001, /*discription*/"？");
