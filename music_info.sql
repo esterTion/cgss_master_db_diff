@@ -93,6 +93,7 @@ INSERT INTO `music_info` VALUES (/*id*/3012, /*discription*/"赤城みりあ（C
 INSERT INTO `music_info` VALUES (/*id*/3013, /*discription*/"三村かな子（CV：大坪由佳）\n\n\n作詞：古屋真\n作曲・編曲：BNEI（kyo）\nギター：後藤貴徳");
 INSERT INTO `music_info` VALUES (/*id*/3014, /*discription*/"多田李衣菜（CV：青木瑠璃子）\n\n\n作詞・作曲・編曲：BNSI（渡辺量）\nギター・ベース：後藤貴徳");
 INSERT INTO `music_info` VALUES (/*id*/3015, /*discription*/"城ヶ崎美嘉（CV：佳村はるか）\n\n\n作詞：marhy\n作曲・編曲：BNSI（内田哲也）");
+INSERT INTO `music_info` VALUES (/*id*/3016, /*discription*/"高垣楓（CV：早見沙織）\n\n\n作詞：貝田由里子\n作曲・編曲：BNSI（椎名豪）\nコーラス：貝田由里子\n合唱：森千紗、山口詩織、\n中川澪、牛窪彩乃（ひまわりキッズ）\nバイオリン、ビオラ：真部裕\nチェロ：古川麻生\nピッコロ、オーボエ、ファゴット、\nコントラファゴット：谷本浩一\nピアノ、ベース：ただすけ\nホルン：佐々木歩美");
 INSERT INTO `music_info` VALUES (/*id*/3017, /*discription*/"小日向美穂（CV：津田美波）\n\n\n作詞・作曲・編曲：BNSI（遠山明孝）\nギター：後藤貴徳");
 INSERT INTO `music_info` VALUES (/*id*/3018, /*discription*/"十時愛梨（CV：原田ひとみ）\n\n\n作詞：BNSI（MC TC・おおくぼひろし）\n作曲・編曲：BNSI（おおくぼひろし）\nギター：豊嶋健太郎（バリウスカプセルズ）\nテナーサックス、バリトンサックス、\nトランペット、トロンボーン：Jesahm（BNSI）\nコーラス：Mitsu（BNSI）\nかけ声：ナムコサウンドシスターズ");
 INSERT INTO `music_info` VALUES (/*id*/3019, /*discription*/"川島瑞樹（CV：東山奈央）\n\n\n作詞：高瀬愛虹\n作曲・編曲：百引一\nコーラス：A.m.u.（ZIZZ STUDIO）\nギター：伊藤ヒロム");
