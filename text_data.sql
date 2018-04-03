@@ -515,12 +515,12 @@ INSERT INTO `text_data` VALUES (/*category*/12, /*index*/18, /*text*/"エラー�
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/19, /*text*/"スターシャイン不足エラー");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/20, /*text*/"スターシャインが\nスカウト必要数より不足しているため\nタイトル画面に戻ります");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/21, /*text*/"これ以上交換できません");
-INSERT INTO `text_data` VALUES (/*category*/12, /*index*/22, /*text*/"エラー");
-INSERT INTO `text_data` VALUES (/*category*/12, /*index*/23, /*text*/"エラー");
-INSERT INTO `text_data` VALUES (/*category*/12, /*index*/24, /*text*/"エラー");
-INSERT INTO `text_data` VALUES (/*category*/12, /*index*/25, /*text*/"エラー");
-INSERT INTO `text_data` VALUES (/*category*/12, /*index*/26, /*text*/"エラー");
-INSERT INTO `text_data` VALUES (/*category*/12, /*index*/27, /*text*/"エラー");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/22, /*text*/"[FF3434]{0}がスカウト可能数に\n達しているため、{0}を\n使用してアイドルをスカウトをするまで、\nプレミアムオーディションガシャをご利用\nいただくことはできません。[-]");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/23, /*text*/"各提供割合は、以下のタブをご覧ください。\n・1～9人目は、「{0}」\n・10人目は、「{1}」");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/24, /*text*/"ガシャ購入確認");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/25, /*text*/"　有償スタージュエルを[D33D98]{0}[-]個使用して\nガシャを購入しますか？");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/26, /*text*/"　期間中、1度のみ購入できます");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/27, /*text*/"購入する");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/1, /*text*/"エクストラコミュ解放");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/2, /*text*/"新たなエクストラコミュが解放されました");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/3, /*text*/"事務所");
