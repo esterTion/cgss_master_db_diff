@@ -636,7 +636,7 @@ INSERT INTO `text_data` VALUES (/*category*/18, /*index*/10, /*text*/"マニー�
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/11, /*text*/"{0}を\n獲得しました");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/12, /*text*/"{0}を\n獲得しました");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/13, /*text*/"宝くじ景品一覧");
-INSERT INTO `text_data` VALUES (/*category*/18, /*index*/14, /*text*/"詳しい内容は詳細をご覧ください");
+INSERT INTO `text_data` VALUES (/*category*/18, /*index*/14, /*text*/"景品内容");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/15, /*text*/"以下の景品を獲得しました ! ");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/16, /*text*/"[FF7A7A]景品はプレゼント一覧にてお受け取りください[-]");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/17, /*text*/"スタージュエル[D33D98]{0}[-]個 X {1}");

@@ -180,6 +180,9 @@ INSERT INTO `tips` VALUES (/*id*/178, /*tips_type*/1, /*value*/232, /*index*/1, 
 INSERT INTO `tips` VALUES (/*id*/179, /*tips_type*/1, /*value*/166, /*index*/1, /*title*/"池袋晶葉のウワサ", /*comment*/"初めての友達は\nもらったロボだったらしい。");
 INSERT INTO `tips` VALUES (/*id*/180, /*tips_type*/1, /*value*/110, /*index*/1, /*title*/"間中美里のウワサ", /*comment*/"経験上、\n迷ったら、現地の人に\n聞くのが一番らしい。");
 INSERT INTO `tips` VALUES (/*id*/181, /*tips_type*/1, /*value*/128, /*index*/1, /*title*/"赤西瑛梨華のウワサ", /*comment*/"靴を選ぶときに\n一番大切なポイントは、\n滑らないことらしい。");
+INSERT INTO `tips` VALUES (/*id*/182, /*tips_type*/1, /*value*/140, /*index*/1, /*title*/"丹羽仁美のウワサ", /*comment*/"日本史は\n得意科目ではないらしい。");
+INSERT INTO `tips` VALUES (/*id*/183, /*tips_type*/1, /*value*/193, /*index*/1, /*title*/"ヘレンのウワサ", /*comment*/"世界レベルらしい。");
+INSERT INTO `tips` VALUES (/*id*/184, /*tips_type*/1, /*value*/296, /*index*/1, /*title*/"冴島清美のウワサ", /*comment*/"何事もまずは形から\n入ってみるタイプらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/30001, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルを育てるには", /*comment*/"アイドルのレベルを上げるには、\nレッスンを行いましょう !");
 INSERT INTO `tips` VALUES (/*id*/30002, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルとの親愛度を上げるには", /*comment*/"LIVEを行うと、\n参加したアイドルの親愛度が上がります !");
@@ -388,3 +391,6 @@ INSERT INTO `tips` VALUES (/*id*/40180, /*tips_type*/4, /*value*/245, /*index*/1
 INSERT INTO `tips` VALUES (/*id*/40181, /*tips_type*/4, /*value*/166, /*index*/1, /*title*/"池袋晶葉①　力が欲しいのか？", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40182, /*tips_type*/4, /*value*/110, /*index*/1, /*title*/"間中美里①　あっ旅行の話♪", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40183, /*tips_type*/4, /*value*/128, /*index*/1, /*title*/"赤西瑛梨華①　路線変更？", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40184, /*tips_type*/4, /*value*/296, /*index*/1, /*title*/"冴島清美①　事務所の風紀を…", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40185, /*tips_type*/4, /*value*/140, /*index*/1, /*title*/"丹羽仁美①　アタシの憧れは", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40186, /*tips_type*/4, /*value*/193, /*index*/1, /*title*/"ヘレン①　1コマおみくじ？", /*comment*/"");
