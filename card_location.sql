@@ -434,3 +434,5 @@ INSERT INTO `card_location` VALUES (/*index*/435, /*text*/"ウィーンの街角
 INSERT INTO `card_location` VALUES (/*index*/436, /*text*/"採掘場");
 INSERT INTO `card_location` VALUES (/*index*/437, /*text*/"イタリア・トレビの泉");
 INSERT INTO `card_location` VALUES (/*index*/438, /*text*/"LIVE会場・ゴンドラ");
+INSERT INTO `card_location` VALUES (/*index*/439, /*text*/"駅前広場");
+INSERT INTO `card_location` VALUES (/*index*/440, /*text*/"臨海公園");
