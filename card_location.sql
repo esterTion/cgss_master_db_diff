@@ -328,3 +328,8 @@ INSERT INTO `card_location` VALUES (/*index*/329, /*text*/"ステージ最前線
 INSERT INTO `card_location` VALUES (/*index*/330, /*text*/"アジト風ダイナー");
 INSERT INTO `card_location` VALUES (/*index*/331, /*text*/"歩道橋");
 INSERT INTO `card_location` VALUES (/*index*/332, /*text*/"海底神殿風セット");
+INSERT INTO `card_location` VALUES (/*index*/333, /*text*/"駅の改札");
+INSERT INTO `card_location` VALUES (/*index*/334, /*text*/"学校の校門前");
+INSERT INTO `card_location` VALUES (/*index*/335, /*text*/"洋館の一室");
+INSERT INTO `card_location` VALUES (/*index*/336, /*text*/"洋館の地下室");
+INSERT INTO `card_location` VALUES (/*index*/337, /*text*/"海辺の撮影セット");
