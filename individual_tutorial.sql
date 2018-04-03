@@ -171,6 +171,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60019, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60019, /*img*/3, /*discription*/"バースデーカードに表示させるイラストやコメントは、\nスワイプすることで位置を自由に調整できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60019, /*img*/4, /*discription*/"作ったバースデーカードは、あなたのTwitterに投稿する事が\nできます。バースデーカードページ左下のTwitterアイコンから\n投稿できます。\n※画像の投稿には、公式のTwitterアプリが必要となります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60019, /*img*/5, /*discription*/"誕生日アイドルをユニットに入れてLIVEをクリアすると、\nファンからプレゼントが貰えます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60020, /*img*/1, /*discription*/"「フォトスタジオ」を追加しました。\n自由にカメラを操作しながら、楽曲にあわせたダンスや\nポーズをアイドルに「オーダー」できる機能です。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60020, /*img*/1, /*discription*/"プロデュースノートからアイドルを選び\n右下の「フォトスタジオ」ボタンをタップ、\n撮影スポットを選択します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60020, /*img*/2, /*discription*/"フォトスタジオでは、画面が縦方向になります。\n画面をスワイプでカメラの移動、\nピンチイン・アウトでズームができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60020, /*img*/2, /*discription*/"画面を連続タップするとメニューが開き、\n「オーダー」でアイドルに呼びかけたり、\n「衣装変更」することができます。\n「撮影終了」でフォトスタジオを終了します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/1, /*discription*/"「LIVE PARTY!!」では、協力LIVEを行うことで、\n「スターエンブレム」が獲得できます。\n「スターエンブレム」を集めると、過去イベントの報酬や、\nアイテムとの交換ができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。\n楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/3, /*discription*/"本機能では、専用ユニットでLIVEを行います。ユニットには5つの「ポジション」があります。\n各プロデューサーのアイドルが、ポジションを1つずつ担当し、5人の共通ユニットが編成されます。\n※自分のアイドルがどのポジションを担当するかはランダムで決定されます。\n※楽曲タイプとポジションごとにアイドルを設定できます。");
