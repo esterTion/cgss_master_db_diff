@@ -290,3 +290,4 @@ INSERT INTO `story_category` VALUES (/*id*/315, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/316, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"恋が咲く季節", /*sub_title*/"恋が咲く季節", /*disp_order*/50);
 INSERT INTO `story_category` VALUES (/*id*/317, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"冬空プレシャス", /*sub_title*/"冬空プレシャス", /*disp_order*/51);
 INSERT INTO `story_category` VALUES (/*id*/318, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Happy New Yeah ! ", /*sub_title*/"Happy New Yeah ! ", /*disp_order*/52);
+INSERT INTO `story_category` VALUES (/*id*/320, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"美に入り彩を穿つ", /*sub_title*/"美に入り彩を穿つ", /*disp_order*/53);
