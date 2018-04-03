@@ -279,6 +279,8 @@ INSERT INTO `tips` VALUES (/*id*/277, /*tips_type*/1, /*value*/110, /*index*/2, 
 INSERT INTO `tips` VALUES (/*id*/278, /*tips_type*/1, /*value*/172, /*index*/2, /*title*/"相川千夏のウワサ②", /*comment*/"パーソナルスペースは\n広いつもりらしい。");
 INSERT INTO `tips` VALUES (/*id*/279, /*tips_type*/1, /*value*/224, /*index*/2, /*title*/"大石泉のウワサ②", /*comment*/"友だちいわく、\n意外とスキンシップは\n嫌いじゃないらしい。");
 INSERT INTO `tips` VALUES (/*id*/280, /*tips_type*/1, /*value*/215, /*index*/2, /*title*/"岸部彩華のウワサ②", /*comment*/"パパへのおねだりテクは\nママ仕込みらしい。");
+INSERT INTO `tips` VALUES (/*id*/281, /*tips_type*/1, /*value*/288, /*index*/2, /*title*/"小松伊吹のウワサ②", /*comment*/"1に優しさ、2に頼りがい、\n3、4はなくて、5にダンス力。\n好きなタイプの条件、らしい。");
+INSERT INTO `tips` VALUES (/*id*/282, /*tips_type*/1, /*value*/210, /*index*/2, /*title*/"篠原礼のウワサ②", /*comment*/"夜は薄灯りがお好みらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !");
@@ -562,4 +564,7 @@ INSERT INTO `tips` VALUES (/*id*/40243, /*tips_type*/4, /*value*/250, /*index*/2
 INSERT INTO `tips` VALUES (/*id*/40244, /*tips_type*/4, /*value*/165, /*index*/2, /*title*/"原田美世②　メカ最強 ! ？", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40245, /*tips_type*/4, /*value*/190, /*index*/2, /*title*/"八神マキノ②　興味ありませんか ! ？", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40246, /*tips_type*/4, /*value*/267, /*index*/2, /*title*/"城ヶ崎美嘉②　ギャルオケの１コマ", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40247, /*tips_type*/4, /*value*/150, /*index*/2, /*title*/"輿水幸子②　どれでもどうぞ", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40248, /*tips_type*/4, /*value*/173, /*index*/2, /*title*/"川島瑞樹②　時の止め方", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40249, /*tips_type*/4, /*value*/260, /*index*/2, /*title*/"的場梨沙②　最近パパとPが…", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50001, /*tips_type*/5, /*value*/1, /*index*/1, /*title*/"縦画面持ち替え説明画像", /*comment*/"");
