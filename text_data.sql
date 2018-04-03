@@ -404,6 +404,13 @@ INSERT INTO `text_data` VALUES (/*category*/10, /*index*/84, /*text*/"ルーム�
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/85, /*text*/"入室済みのルームに戻ります");
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/86, /*text*/"ルーム入室確認");
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/87, /*text*/"入室済みのルームに戻ります");
+INSERT INTO `text_data` VALUES (/*category*/10, /*index*/88, /*text*/"難易度、タイプは後から変更できます");
+INSERT INTO `text_data` VALUES (/*category*/10, /*index*/89, /*text*/"ルーム設定");
+INSERT INTO `text_data` VALUES (/*category*/10, /*index*/90, /*text*/"選択した難易度、タイプで、ランダム選曲LIVEを行います");
+INSERT INTO `text_data` VALUES (/*category*/10, /*index*/91, /*text*/"ホストがルーム設定を変更したため\n準備状態が解除されました。");
+INSERT INTO `text_data` VALUES (/*category*/10, /*index*/92, /*text*/"ホストがルーム設定を変更しました");
+INSERT INTO `text_data` VALUES (/*category*/10, /*index*/93, /*text*/"タイプは後から変更できます");
+INSERT INTO `text_data` VALUES (/*category*/10, /*index*/94, /*text*/"タイプ");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/1, /*text*/"メダル交換所");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/2, /*text*/"アイドル");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/3, /*text*/"アイテム");

@@ -192,6 +192,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60102, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60102, /*img*/1, /*discription*/"まず「セット中スタンプ」の中から、変更したいスタンプを選択し、\n次にスタンプの一覧から、設定したいスタンプを選択しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60102, /*img*/2, /*discription*/"スタンプの設定が済んだら、最後に「保存」ボタンを押しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60102, /*img*/2, /*discription*/"スタンプの設定を初期状態に戻したい場合は、\n「初期設定」ボタンを押しましょう。\nおすすめのスタンプ設定が適用されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60103, /*img*/1, /*discription*/"マッチングルームでホストが楽曲タイプを選択できるように\nなりました。楽曲タイプの変更は、マッチングルーム内\n「ルーム設定」からも行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/1, /*discription*/"「イベントptランキング報酬」、「達成pt報酬」、\n「ハイスコアランキング報酬」で、イベント限定の\nSレアアイドルやルームアイテムを手にいれましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/2, /*discription*/"イベントptランキングで50万位に入賞すると、\n自分の順位が入ったイベント称号を獲得できます。\n各称号のデザインは順位によって異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/3, /*discription*/"通常楽曲をプレイすると、Triad Primusエンブレムと\nイベントptを獲得できます。\nTriad Primusエンブレムは、スタミナ消費量と\nSCOREランクが高いほど多く獲得できます。");
