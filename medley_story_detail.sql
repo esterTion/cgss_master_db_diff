@@ -89,3 +89,10 @@ INSERT INTO `medley_story_detail` VALUES (/*id*/2695, /*event_id*/3013, /*type*/
 INSERT INTO `medley_story_detail` VALUES (/*id*/2696, /*event_id*/3013, /*type*/2, /*open_event_point*/0, /*next_detail_id*/0);
 INSERT INTO `medley_story_detail` VALUES (/*id*/2697, /*event_id*/3013, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
 INSERT INTO `medley_story_detail` VALUES (/*id*/2698, /*event_id*/3013, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
+INSERT INTO `medley_story_detail` VALUES (/*id*/2792, /*event_id*/3014, /*type*/1, /*open_event_point*/0, /*next_detail_id*/2793);
+INSERT INTO `medley_story_detail` VALUES (/*id*/2793, /*event_id*/3014, /*type*/0, /*open_event_point*/500, /*next_detail_id*/2794);
+INSERT INTO `medley_story_detail` VALUES (/*id*/2794, /*event_id*/3014, /*type*/0, /*open_event_point*/1000, /*next_detail_id*/2795);
+INSERT INTO `medley_story_detail` VALUES (/*id*/2795, /*event_id*/3014, /*type*/0, /*open_event_point*/3000, /*next_detail_id*/2796);
+INSERT INTO `medley_story_detail` VALUES (/*id*/2796, /*event_id*/3014, /*type*/0, /*open_event_point*/7000, /*next_detail_id*/2797);
+INSERT INTO `medley_story_detail` VALUES (/*id*/2797, /*event_id*/3014, /*type*/0, /*open_event_point*/10000, /*next_detail_id*/2798);
+INSERT INTO `medley_story_detail` VALUES (/*id*/2798, /*event_id*/3014, /*type*/2, /*open_event_point*/0, /*next_detail_id*/0);

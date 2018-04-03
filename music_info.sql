@@ -103,4 +103,5 @@ INSERT INTO `music_info` VALUES (/*id*/9008, /*discription*/"川島瑞樹（CV�
 INSERT INTO `music_info` VALUES (/*id*/9009, /*discription*/"城ヶ崎莉嘉（CV：山本希望）\n緒方智絵里（CV：大空直美）\n北条加蓮（CV：渕上舞）\n川島瑞樹（CV：東山奈央）\n大槻唯（CV：山下七海）\n\n\n作詞：八城雄太\n作曲・編曲：石濱翔（MONACA）");
 INSERT INTO `music_info` VALUES (/*id*/9010, /*discription*/"高垣楓（CV：早見沙織）\n佐藤心（CV：花守ゆみり）\n三船美優（CV：原田彩楓）\n安部菜々（CV：三宅麻理恵）\n片桐早苗（CV：和氣あず未）\n\n\n作詞：森由里子\n作曲・編曲：TAKT（TRYTONELABO）");
 INSERT INTO `music_info` VALUES (/*id*/9011, /*discription*/"三村かな子（CV：大坪由佳）\n十時愛梨（CV：原田ひとみ）\n森久保乃々（CV：高橋花林）\n椎名法子（CV：都丸ちよ）\n及川雫（CV：のぐちゆり）\n\n\n作詞・作曲：角本麻衣\n編曲：八木篤史（SUPA LOVE）");
+INSERT INTO `music_info` VALUES (/*id*/9012, /*discription*/"依田芳乃（CV：高田憂希）\n小早川紗枝（CV：立花理香）\n道明寺歌鈴（CV：新田ひより）\n浜口あやめ（CV：田澤茉純）\n脇山珠美（CV：嘉山未紗）\n\n\n作詞：桜アス恵（TRYTONELABO）\n作曲：隠田遼平\n編曲：坪田修平（TRYTONELABO）");
 INSERT INTO `music_info` VALUES (/*id*/90001, /*discription*/"？");
