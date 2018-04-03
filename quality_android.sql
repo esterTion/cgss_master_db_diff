@@ -3,6 +3,7 @@ INSERT INTO `quality_android` VALUES (/*raw*/"gpu,name,level
 Adreno,Adreno (TM) 2,0
 Adreno,Adreno (TM) 3,2
 Adreno,Adreno (TM) 4,3
+Adreno,Adreno (TM) 5,3
 Mali,400,1
 Mali,450,1
 Mali,T6,2

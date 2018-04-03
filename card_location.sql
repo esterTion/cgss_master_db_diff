@@ -168,3 +168,4 @@ INSERT INTO `card_location` VALUES (/*index*/169, /*text*/"ショッピング通
 INSERT INTO `card_location` VALUES (/*index*/170, /*text*/"事務所・衣装部屋");
 INSERT INTO `card_location` VALUES (/*index*/171, /*text*/"お寺の廊下");
 INSERT INTO `card_location` VALUES (/*index*/172, /*text*/"山奥の滝行の地");
+INSERT INTO `card_location` VALUES (/*index*/173, /*text*/"海");
