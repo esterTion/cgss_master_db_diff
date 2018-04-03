@@ -443,3 +443,4 @@ INSERT INTO `card_location` VALUES (/*index*/444, /*text*/"イギリス・ホテ
 INSERT INTO `card_location` VALUES (/*index*/445, /*text*/"雪のロッジ前");
 INSERT INTO `card_location` VALUES (/*index*/446, /*text*/"雪美の家");
 INSERT INTO `card_location` VALUES (/*index*/447, /*text*/"事務所・食堂");
+INSERT INTO `card_location` VALUES (/*index*/448, /*text*/"新幹線・車内");
