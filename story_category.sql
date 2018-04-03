@@ -132,3 +132,4 @@ INSERT INTO `story_category` VALUES (/*id*/227, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/228, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第21話", /*sub_title*/"With or Without You", /*disp_order*/222);
 INSERT INTO `story_category` VALUES (/*id*/229, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Tulip", /*sub_title*/"Tulip", /*disp_order*/7);
 INSERT INTO `story_category` VALUES (/*id*/230, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第22話", /*sub_title*/"coming soon", /*disp_order*/223);
+INSERT INTO `story_category` VALUES (/*id*/231, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"オルゴールの小箱", /*sub_title*/"オルゴールの小箱", /*disp_order*/8);
