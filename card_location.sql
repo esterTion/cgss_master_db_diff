@@ -189,3 +189,12 @@ INSERT INTO `card_location` VALUES (/*index*/190, /*text*/"海沿いの遊歩道
 INSERT INTO `card_location` VALUES (/*index*/191, /*text*/"ライブハウス");
 INSERT INTO `card_location` VALUES (/*index*/192, /*text*/"ラスベガス・噴水広場前");
 INSERT INTO `card_location` VALUES (/*index*/193, /*text*/"ナイトショー風ステージ");
+INSERT INTO `card_location` VALUES (/*index*/194, /*text*/"南の海");
+INSERT INTO `card_location` VALUES (/*index*/195, /*text*/"メルヘン風スタジオ");
+INSERT INTO `card_location` VALUES (/*index*/196, /*text*/"海水浴場");
+INSERT INTO `card_location` VALUES (/*index*/197, /*text*/"サマーLIVEステージ");
+INSERT INTO `card_location` VALUES (/*index*/198, /*text*/"小川");
+INSERT INTO `card_location` VALUES (/*index*/199, /*text*/"異国の街風セット");
+INSERT INTO `card_location` VALUES (/*index*/200, /*text*/"離島のビーチ");
+INSERT INTO `card_location` VALUES (/*index*/201, /*text*/"マリンドーム・ステージ");
+INSERT INTO `card_location` VALUES (/*index*/202, /*text*/"西洋の古城");

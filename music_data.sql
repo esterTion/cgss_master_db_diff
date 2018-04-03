@@ -71,3 +71,4 @@ INSERT INTO `music_data` VALUES (/*id*/9003, /*name*/"Tulip", /*bpm*/154, /*comp
 INSERT INTO `music_data` VALUES (/*id*/9004, /*name*/"ハイファイ☆デイズ", /*bpm*/191, /*composer*/"宮崎誠", /*lyricist*/"宮崎誠", /*sound_offset*/62341, /*sound_length*/23000, /*name_sort*/66);
 INSERT INTO `music_data` VALUES (/*id*/9005, /*name*/"生存本能\nヴァルキュリア", /*bpm*/178, /*composer*/"渡部チェル", /*lyricist*/"朝倉路", /*sound_offset*/63688, /*sound_length*/26500, /*name_sort*/44);
 INSERT INTO `music_data` VALUES (/*id*/9006, /*name*/"純情Midnight伝説", /*bpm*/171, /*composer*/"小野貴光", /*lyricist*/"磯谷佳江", /*sound_offset*/60160, /*sound_length*/13000, /*name_sort*/34);
+INSERT INTO `music_data` VALUES (/*id*/9007, /*name*/"Love∞Destiny", /*bpm*/115, /*composer*/"BNSI（kyo）", /*lyricist*/"磯谷佳江", /*sound_offset*/51531, /*sound_length*/22000, /*name_sort*/84);

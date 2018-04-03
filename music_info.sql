@@ -71,3 +71,4 @@ INSERT INTO `music_info` VALUES (/*id*/9003, /*discription*/"速水奏（CV：�
 INSERT INTO `music_info` VALUES (/*id*/9004, /*discription*/"佐々木千枝（CV：今井麻夏）\n櫻井桃華（CV：照井春佳）\n市原仁奈（CV：久野美咲）\n龍崎薫（CV：春瀬なつみ）\n赤城みりあ（CV：黒沢ともよ）\n\n\n作詞：宮崎誠\n作曲・編曲：宮崎誠");
 INSERT INTO `music_info` VALUES (/*id*/9005, /*discription*/"新田美波（CV：洲崎綾）\n鷺沢文香（CV：M・A・O）\n橘ありす（CV：佐藤亜美菜）\n高森藍子（CV：金子有希）\n相葉夕美（CV：木村珠莉）\n\n\n作詞：朝倉路\n作曲・編曲：渡部チェル");
 INSERT INTO `music_info` VALUES (/*id*/9006, /*discription*/"向井拓海（CV：原優子）\n藤本里奈（CV：金子真由美）\n松永涼（CV：千菅春香）\n大和亜季（CV：村中知）\n木村夏樹（CV：安野希世乃）\n\n\n作詞：磯谷佳江\n作曲：小野貴光\n編曲：玉木千尋");
+INSERT INTO `music_info` VALUES (/*id*/9007, /*discription*/"佐久間まゆ（CV：牧野由依）\n北条加蓮（CV：渕上舞）\n小日向美穂（CV：津田美波）\n多田李衣菜（CV：青木瑠璃子）\n緒方智絵里（CV：大空直美）\n\n\n作詞：磯谷佳江\n作曲・編曲：BNSI（kyo）");
