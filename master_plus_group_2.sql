@@ -6,3 +6,6 @@ INSERT INTO `master_plus_group_2` VALUES (/*id*/4, /*live_data_id*/45, /*live_de
 INSERT INTO `master_plus_group_2` VALUES (/*id*/5, /*live_data_id*/61, /*live_detail_id*/632);
 INSERT INTO `master_plus_group_2` VALUES (/*id*/6, /*live_data_id*/302, /*live_detail_id*/633);
 INSERT INTO `master_plus_group_2` VALUES (/*id*/7, /*live_data_id*/25, /*live_detail_id*/634);
+INSERT INTO `master_plus_group_2` VALUES (/*id*/8, /*live_data_id*/304, /*live_detail_id*/667);
+INSERT INTO `master_plus_group_2` VALUES (/*id*/9, /*live_data_id*/313, /*live_detail_id*/668);
+INSERT INTO `master_plus_group_2` VALUES (/*id*/10, /*live_data_id*/28, /*live_detail_id*/669);
