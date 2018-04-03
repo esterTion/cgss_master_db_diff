@@ -105,6 +105,9 @@ INSERT INTO `tips` VALUES (/*id*/103, /*tips_type*/1, /*value*/224, /*index*/1, 
 INSERT INTO `tips` VALUES (/*id*/104, /*tips_type*/1, /*value*/289, /*index*/1, /*title*/"三好紗南のウワサ", /*comment*/"じっとしていても、\n指や足が、自然に動くらしい。");
 INSERT INTO `tips` VALUES (/*id*/105, /*tips_type*/1, /*value*/294, /*index*/1, /*title*/"土屋亜子のウワサ", /*comment*/"亜子にとって友情とは、\nお金で買えないものらしい。");
 INSERT INTO `tips` VALUES (/*id*/106, /*tips_type*/1, /*value*/160, /*index*/1, /*title*/"村松さくらのウワサ", /*comment*/"さくらにとって友情とは、\nいつでもそこにあるものらしい。");
+INSERT INTO `tips` VALUES (/*id*/107, /*tips_type*/1, /*value*/107, /*index*/1, /*title*/"持田亜里沙のウワサ", /*comment*/"童謡以外の曲も\nそこそこ弾けるらしい。");
+INSERT INTO `tips` VALUES (/*id*/108, /*tips_type*/1, /*value*/177, /*index*/1, /*title*/"東郷あいのウワサ", /*comment*/"小さなバーのステージで\nたまにサックス演奏するらしい。");
+INSERT INTO `tips` VALUES (/*id*/109, /*tips_type*/1, /*value*/295, /*index*/1, /*title*/"首藤葵のウワサ", /*comment*/"いつか、事務所に\n社員食堂をつくりたいらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/30001, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルを育てるには", /*comment*/"アイドルのレベルを上げるには、\nレッスンを行いましょう !");
 INSERT INTO `tips` VALUES (/*id*/30002, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルとの親愛度を上げるには", /*comment*/"LIVEを行うと、\n参加したアイドルの親愛度が上がります !");
@@ -129,6 +132,7 @@ INSERT INTO `tips` VALUES (/*id*/30020, /*tips_type*/3, /*value*/0, /*index*/1, 
 INSERT INTO `tips` VALUES (/*id*/30021, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"データ引き継ぎについて", /*comment*/"データ引き継ぎを行うと今まで遊んだ\nデータを他の端末に\n引き継ぐことができます !");
 INSERT INTO `tips` VALUES (/*id*/30022, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"ログインボーナスについて", /*comment*/"ゲームにログインするだけで、\n毎日アイテムやスタージュエルが\nGETできます !");
 INSERT INTO `tips` VALUES (/*id*/30023, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルの特技", /*comment*/"特技を持っているアイドルは、\nLIVEが有利になる特技を\n発動することがあります !");
+INSERT INTO `tips` VALUES (/*id*/30024, /*tips_type*/3, /*value*/1, /*index*/1, /*title*/"マッチング中", /*comment*/"現在マッチングを行っています。\nしばらくお待ちください。");
 INSERT INTO `tips` VALUES (/*id*/40001, /*tips_type*/4, /*value*/101, /*index*/1, /*title*/"島村卯月①　がんばりすぎ？", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40002, /*tips_type*/4, /*value*/102, /*index*/1, /*title*/"中野有香①　リボンをギュっと !", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40003, /*tips_type*/4, /*value*/103, /*index*/1, /*title*/"水本ゆかり①　私って天然ですか？", /*comment*/"");
@@ -237,3 +241,6 @@ INSERT INTO `tips` VALUES (/*id*/40105, /*tips_type*/4, /*value*/224, /*index*/1
 INSERT INTO `tips` VALUES (/*id*/40106, /*tips_type*/4, /*value*/289, /*index*/1, /*title*/"三好紗南①　一日一時間…", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40107, /*tips_type*/4, /*value*/294, /*index*/1, /*title*/"土屋亜子①　初見の感想", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40108, /*tips_type*/4, /*value*/160, /*index*/1, /*title*/"村松さくら①　マスコット", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40109, /*tips_type*/4, /*value*/107, /*index*/1, /*title*/"持田亜里沙①　起こしてウサコ", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40110, /*tips_type*/4, /*value*/177, /*index*/1, /*title*/"東郷あい①　趣味はサックス", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40111, /*tips_type*/4, /*value*/295, /*index*/1, /*title*/"首藤葵①　料理人のプライド", /*comment*/"");

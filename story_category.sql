@@ -5,6 +5,7 @@ INSERT INTO `story_category` VALUES (/*id*/3, /*type*/2, /*chara_type*/1, /*char
 INSERT INTO `story_category` VALUES (/*id*/4, /*type*/2, /*chara_type*/1, /*chara_id*/104, /*title*/"福山舞", /*sub_title*/"", /*disp_order*/4);
 INSERT INTO `story_category` VALUES (/*id*/5, /*type*/2, /*chara_type*/1, /*chara_id*/105, /*title*/"椎名法子", /*sub_title*/"", /*disp_order*/5);
 INSERT INTO `story_category` VALUES (/*id*/6, /*type*/2, /*chara_type*/1, /*chara_id*/106, /*title*/"今井加奈", /*sub_title*/"", /*disp_order*/6);
+INSERT INTO `story_category` VALUES (/*id*/7, /*type*/2, /*chara_type*/1, /*chara_id*/107, /*title*/"持田亜里沙", /*sub_title*/"", /*disp_order*/7);
 INSERT INTO `story_category` VALUES (/*id*/8, /*type*/2, /*chara_type*/1, /*chara_id*/108, /*title*/"三村かな子", /*sub_title*/"", /*disp_order*/8);
 INSERT INTO `story_category` VALUES (/*id*/9, /*type*/2, /*chara_type*/1, /*chara_id*/109, /*title*/"奥山沙織", /*sub_title*/"", /*disp_order*/9);
 INSERT INTO `story_category` VALUES (/*id*/11, /*type*/2, /*chara_type*/1, /*chara_id*/111, /*title*/"小日向美穂", /*sub_title*/"", /*disp_order*/11);
@@ -41,6 +42,7 @@ INSERT INTO `story_category` VALUES (/*id*/73, /*type*/2, /*chara_type*/2, /*cha
 INSERT INTO `story_category` VALUES (/*id*/74, /*type*/2, /*chara_type*/2, /*chara_id*/174, /*title*/"神谷奈緒", /*sub_title*/"", /*disp_order*/74);
 INSERT INTO `story_category` VALUES (/*id*/75, /*type*/2, /*chara_type*/2, /*chara_id*/175, /*title*/"上条春菜", /*sub_title*/"", /*disp_order*/75);
 INSERT INTO `story_category` VALUES (/*id*/76, /*type*/2, /*chara_type*/2, /*chara_id*/176, /*title*/"荒木比奈", /*sub_title*/"", /*disp_order*/76);
+INSERT INTO `story_category` VALUES (/*id*/77, /*type*/2, /*chara_type*/2, /*chara_id*/177, /*title*/"東郷あい", /*sub_title*/"", /*disp_order*/77);
 INSERT INTO `story_category` VALUES (/*id*/78, /*type*/2, /*chara_type*/2, /*chara_id*/178, /*title*/"多田李衣菜", /*sub_title*/"", /*disp_order*/78);
 INSERT INTO `story_category` VALUES (/*id*/79, /*type*/2, /*chara_type*/2, /*chara_id*/179, /*title*/"水木聖來", /*sub_title*/"", /*disp_order*/79);
 INSERT INTO `story_category` VALUES (/*id*/80, /*type*/2, /*chara_type*/2, /*chara_id*/180, /*title*/"佐々木千枝", /*sub_title*/"", /*disp_order*/80);
@@ -104,6 +106,7 @@ INSERT INTO `story_category` VALUES (/*id*/191, /*type*/2, /*chara_type*/3, /*ch
 INSERT INTO `story_category` VALUES (/*id*/192, /*type*/2, /*chara_type*/3, /*chara_id*/292, /*title*/"浜口あやめ", /*sub_title*/"", /*disp_order*/192);
 INSERT INTO `story_category` VALUES (/*id*/193, /*type*/2, /*chara_type*/3, /*chara_id*/293, /*title*/"村上巴", /*sub_title*/"", /*disp_order*/193);
 INSERT INTO `story_category` VALUES (/*id*/194, /*type*/2, /*chara_type*/3, /*chara_id*/294, /*title*/"土屋亜子", /*sub_title*/"", /*disp_order*/194);
+INSERT INTO `story_category` VALUES (/*id*/195, /*type*/2, /*chara_type*/3, /*chara_id*/295, /*title*/"首藤葵", /*sub_title*/"", /*disp_order*/195);
 INSERT INTO `story_category` VALUES (/*id*/201, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第1話", /*sub_title*/"Stage, We climb the stairs.", /*disp_order*/202);
 INSERT INTO `story_category` VALUES (/*id*/202, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第2話", /*sub_title*/"Wish upon a Star ! !", /*disp_order*/203);
 INSERT INTO `story_category` VALUES (/*id*/203, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第3話", /*sub_title*/"SING, Smile, S(mile)ING !", /*disp_order*/204);
@@ -135,4 +138,5 @@ INSERT INTO `story_category` VALUES (/*id*/228, /*type*/1, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/229, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Tulip", /*sub_title*/"Tulip", /*disp_order*/7);
 INSERT INTO `story_category` VALUES (/*id*/230, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第22話", /*sub_title*/"Out of the Page", /*disp_order*/223);
 INSERT INTO `story_category` VALUES (/*id*/231, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"オルゴールの小箱", /*sub_title*/"オルゴールの小箱", /*disp_order*/8);
-INSERT INTO `story_category` VALUES (/*id*/232, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第23話", /*sub_title*/"coming soon", /*disp_order*/224);
+INSERT INTO `story_category` VALUES (/*id*/232, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第23話", /*sub_title*/"Because You are You", /*disp_order*/224);
+INSERT INTO `story_category` VALUES (/*id*/233, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第24話", /*sub_title*/"coming soon", /*disp_order*/225);
