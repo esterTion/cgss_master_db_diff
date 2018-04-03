@@ -11,7 +11,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"caravan_data", /*idx*/"caravan_data_0
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"caravan_data", /*idx*/"caravan_data_0_event_id", /*stat*/"87 8");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"atapon_point_rank_disp", /*idx*/"", /*stat*/8);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"event_beta_data", /*idx*/"event_beta_data_0_type", /*stat*/"2 2");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"individual_tutorial", /*idx*/"individual_tutorial_0_id", /*stat*/"202 3");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"individual_tutorial", /*idx*/"individual_tutorial_0_id", /*stat*/"204 3");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"loading_data", /*idx*/"loading_data_0_group_id", /*stat*/"1 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"quality_android", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"stamp_data", /*idx*/"", /*stat*/41);
@@ -48,7 +48,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"event_data", /*idx*/"event_data_0_typ
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_announcement", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"atapon_story_detail", /*idx*/"atapon_story_detail_0_event_id_1_type", /*stat*/"169 9 3");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_effect", /*idx*/"", /*stat*/16);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"el_live_data", /*idx*/"", /*stat*/1);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"el_live_data", /*idx*/"", /*stat*/135);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"title_pattern", /*idx*/"", /*stat*/135);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"limited_mission", /*idx*/"limited_mission_0_limited_mission_id", /*stat*/"735 2");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_offset", /*idx*/"sqlite_autoindex_room_item_offset_1", /*stat*/"687 2 2 1");
@@ -58,7 +58,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"music_vocalist", /*idx*/"music_vocali
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"music_vocalist", /*idx*/"music_vocalist_0_music_data_id", /*stat*/"440 5");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"music_vocalist", /*idx*/"sqlite_autoindex_music_vocalist_1", /*stat*/"440 5 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"master_plus_term", /*idx*/"", /*stat*/6);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"music_info", /*idx*/"", /*stat*/111);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"music_info", /*idx*/"", /*stat*/148);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"medley_vibration_rank", /*idx*/"medley_vibration_rank_0_event_id_1_difficulty_type", /*stat*/"195 195 49");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gacha_sp_effect", /*idx*/"gacha_sp_effect_0_card_id", /*stat*/"10 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gacha_sp_effect", /*idx*/"gacha_sp_effect_0_gacha_id", /*stat*/"10 3");
@@ -66,10 +66,10 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gacha_sp_effect", /*idx*/"sqlite_auto
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"live_drop_reward", /*idx*/"", /*stat*/53);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"party_data", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gacha_step", /*idx*/"sqlite_autoindex_gacha_step_1", /*stat*/"3 3 1");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"live_data", /*idx*/"sqlite_autoindex_live_data_4", /*stat*/"148 1");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"live_data", /*idx*/"sqlite_autoindex_live_data_3", /*stat*/"148 1");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"live_data", /*idx*/"sqlite_autoindex_live_data_2", /*stat*/"148 1");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"live_data", /*idx*/"sqlite_autoindex_live_data_1", /*stat*/"148 1");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"live_data", /*idx*/"sqlite_autoindex_live_data_4", /*stat*/"185 1");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"live_data", /*idx*/"sqlite_autoindex_live_data_3", /*stat*/"185 1");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"live_data", /*idx*/"sqlite_autoindex_live_data_2", /*stat*/"185 1");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"live_data", /*idx*/"sqlite_autoindex_live_data_1", /*stat*/"185 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"live_bg_replace", /*idx*/"live_bg_replace_0_season_id", /*stat*/"1 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"medley_get_point_encore_rate", /*idx*/"sqlite_autoindex_medley_get_point_encore_rate_1", /*stat*/"5 5 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"master_plus_group_2", /*idx*/"", /*stat*/7);
@@ -95,10 +95,10 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"exchange_shop_item", /*idx*/"", /*sta
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"item_data", /*idx*/"", /*stat*/88);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_category", /*idx*/"", /*stat*/15);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"leader_skill_data", /*idx*/"", /*stat*/76);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"el_department", /*idx*/"", /*stat*/1);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"el_department", /*idx*/"", /*stat*/2);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"medley_detail", /*idx*/"sqlite_autoindex_medley_detail_1", /*stat*/"12 4 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"weekly_mission", /*idx*/"weekly_mission_0_weekly_mission_id", /*stat*/"6 1");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"text_data", /*idx*/"sqlite_autoindex_text_data_1", /*stat*/"696 37 1");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"text_data", /*idx*/"sqlite_autoindex_text_data_1", /*stat*/"721 37 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_idol_present", /*idx*/"", /*stat*/2);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"potential_condition_fan", /*idx*/"", /*stat*/25);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"tour_trend_live", /*idx*/"tour_trend_live_0_event_id", /*stat*/"8 8");
@@ -119,7 +119,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_theme", /*idx*/"", /*stat*/
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"card_comments", /*idx*/"sqlite_autoindex_card_comments_1", /*stat*/"33025 28 6 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"tour_area", /*idx*/"tour_area_0_event_id", /*stat*/"7 7");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"leader_boost_rate", /*idx*/"leader_boost_rate_0_event_id", /*stat*/"21 21");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"banner", /*idx*/"", /*stat*/203);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"banner", /*idx*/"", /*stat*/204);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"available_time_type", /*idx*/"", /*stat*/5);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"skill_boost_type", /*idx*/"skill_boost_type_0_skill_value_1_target_type", /*stat*/"21 21 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"story_category", /*idx*/"sqlite_autoindex_story_category_1", /*stat*/"265 67 1");
@@ -142,7 +142,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"potential_value_li", /*idx*/"", /*sta
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"login_bonus_data", /*idx*/"", /*stat*/22);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_gift", /*idx*/"room_item_gift_0_id_1_room_item_id", /*stat*/"3 1 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_gift", /*idx*/"room_item_gift_0_room_item_id", /*stat*/"3 1");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"music_data", /*idx*/"sqlite_autoindex_music_data_1", /*stat*/"111 1");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"music_data", /*idx*/"sqlite_autoindex_music_data_1", /*stat*/"148 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"card_rarity", /*idx*/"", /*stat*/8);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"tour_score_rank_reward", /*idx*/"tour_score_rank_reward_0_event_id", /*stat*/"3 3");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"leader_skill_boost_rate", /*idx*/"leader_skill_boost_rate_0_position", /*stat*/"63 13");
@@ -191,7 +191,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"onetime_story", /*idx*/"sqlite_autoin
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_idol_extension", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"story_exchange_data", /*idx*/"", /*stat*/288);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"party_detail", /*idx*/"party_detail_0_event_id", /*stat*/"16 16");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"live_detail", /*idx*/"", /*stat*/638);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"live_detail", /*idx*/"", /*stat*/786);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"cyalume_color", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"user_rank", /*idx*/"", /*stat*/8);
 CREATE INDEX 'card_data_0_solo_live' on 'card_data'('solo_live')CREATE INDEX 'card_data_0_chara_id' on 'card_data'('chara_id')CREATE INDEX 'skill_boost_type_0_skill_value_1_target_type' on 'skill_boost_type'('skill_value','target_type')CREATE INDEX 'potential_growth_condition_0_potential_level' on 'potential_growth_condition'('potential_level')CREATE INDEX 'potential_growth_condition_0_attribute' on 'potential_growth_condition'('attribute')CREATE INDEX 'story_detail_0_open_chara_id_1_chapter' on 'story_detail'('open_chara_id','chapter')CREATE INDEX 'story_detail_0_story_detail_type' on 'story_detail'('story_detail_type')CREATE INDEX 'story_detail_0_category_id' on 'story_detail'('category_id')CREATE INDEX 'onetime_story_0_story_id' on 'onetime_story'('story_id')CREATE INDEX 'live_achievement_reward_0_type_id' on 'live_achievement_reward'('type_id')CREATE INDEX 'live_bg_replace_0_season_id' on 'live_bg_replace'('season_id')CREATE INDEX 'music_vocalist_0_music_data_id' on 'music_vocalist'('music_data_id')CREATE INDEX 'music_vocalist_0_chara_id' on 'music_vocalist'('chara_id')CREATE INDEX 'room_item_gift_0_room_item_id' on 'room_item_gift'('room_item_id')CREATE INDEX 'room_item_gift_0_id_1_room_item_id' on 'room_item_gift'('id','room_item_id')CREATE INDEX 'room_item_preset_0_event_id' on 'room_item_preset'('event_id')CREATE INDEX 'gacha_available_0_gacha_id' on 'gacha_available'('gacha_id')CREATE INDEX 'gacha_data_0_base_id' on 'gacha_data'('base_id')CREATE INDEX 'premium_sc_list_0_cost_id' on 'premium_sc_list'('cost_id')CREATE INDEX 'premium_sc_detail_0_jewel_shop_id' on 'premium_sc_detail'('jewel_shop_id')CREATE INDEX 'gacha_sp_effect_0_gacha_id' on 'gacha_sp_effect'('gacha_id')CREATE INDEX 'gacha_sp_effect_0_card_id' on 'gacha_sp_effect'('card_id')CREATE INDEX 'login_bonus_detail_0_campaign_id_1_rap_2_count' on 'login_bonus_detail'('campaign_id','rap','count')CREATE INDEX 'sp_login_bonus_detail_0_type' on 'sp_login_bonus_detail'('type')CREATE INDEX 'sp_campaign_reward_0_campaign_id' on 'sp_campaign_reward'('campaign_id')CREATE INDEX 'sp_campaign_reward_0_campaign_id_1_rank' on 'sp_campaign_reward'('campaign_id','rank')CREATE INDEX 'jewel_shop_0_view_value' on 'jewel_shop'('view_value')CREATE INDEX 'individual_tutorial_0_id' on 'individual_tutorial'('id')CREATE INDEX 'event_available_0_event_id' on 'event_available'('event_id')CREATE INDEX 'event_data_0_type' on 'event_data'('type')CREATE INDEX 'event_beta_data_0_type' on 'event_beta_data'('type')CREATE INDEX 'leader_boost_rate_0_event_id' on 'leader_boost_rate'('event_id')CREATE INDEX 'caravan_data_0_event_id' on 'caravan_data'('event_id')CREATE INDEX 'caravan_data_0_event_id_1_date_order' on 'caravan_data'('event_id','date_order')CREATE INDEX 'caravan_main_idol_0_main_idol' on 'caravan_main_idol'('main_idol')CREATE INDEX 'daily_mission_0_daily_mission_id' on 'daily_mission'('daily_mission_id')CREATE INDEX 'weekly_mission_0_weekly_mission_id' on 'weekly_mission'('weekly_mission_id')CREATE INDEX 'normal_mission_0_step_group_id_1_step_order' on 'normal_mission'('step_group_id','step_order')CREATE INDEX 'normal_mission_0_normal_mission_id' on 'normal_mission'('normal_mission_id')CREATE INDEX 'limited_mission_0_limited_mission_id' on 'limited_mission'('limited_mission_id')CREATE INDEX 'panel_mission_comp_reward_0_campaign_id' on 'panel_mission_comp_reward'('campaign_id')CREATE INDEX 'panel_mission_comp_reward_0_campaign_id_1_rap' on 'panel_mission_comp_reward'('campaign_id','rap')CREATE INDEX 'panel_mission_detail_0_campaign_id' on 'panel_mission_detail'('campaign_id')CREATE INDEX 'panel_mission_detail_0_campaign_id_1_rap' on 'panel_mission_detail'('campaign_id','rap')CREATE INDEX 'atapon_bet_rate_0_bet_type_id' on 'atapon_bet_rate'('bet_type_id')CREATE INDEX 'atapon_detail_0_event_id' on 'atapon_detail'('event_id')CREATE INDEX 'atapon_detail_0_event_id_1_live_detail_id' on 'atapon_detail'('event_id','live_detail_id')CREATE INDEX 'atapon_point_rank_reward_0_event_id' on 'atapon_point_rank_reward'('event_id')CREATE INDEX 'atapon_point_reward_0_event_id' on 'atapon_point_reward'('event_id')CREATE INDEX 'atapon_score_rank_reward_0_event_id' on 'atapon_score_rank_reward'('event_id')CREATE INDEX 'atapon_story_detail_0_event_id_1_type' on 'atapon_story_detail'('event_id','type')CREATE INDEX 'medley_point_rank_reward_0_event_id' on 'medley_point_rank_reward'('event_id')CREATE INDEX 'medley_point_reward_0_event_id' on 'medley_point_reward'('event_id')CREATE INDEX 'medley_score_rank_reward_0_event_id' on 'medley_score_rank_reward'('event_id')CREATE INDEX 'medley_story_detail_0_event_id_1_type' on 'medley_story_detail'('event_id','type')CREATE INDEX 'medley_vibration_change_0_event_id_1_difficulty_type' on 'medley_vibration_change'('event_id','difficulty_type')CREATE INDEX 'medley_vibration_rank_0_event_id_1_difficulty_type' on 'medley_vibration_rank'('event_id','difficulty_type')CREATE INDEX 'party_detail_0_event_id' on 'party_detail'('event_id')CREATE INDEX 'party_main_idol_0_main_idol' on 'party_main_idol'('main_idol')CREATE INDEX 'party_point_reward_0_event_id' on 'party_point_reward'('event_id')CREATE INDEX 'leader_skill_boost_rate_0_position' on 'leader_skill_boost_rate'('position')CREATE INDEX 'tour_point_reward_0_event_id' on 'tour_point_reward'('event_id')CREATE INDEX 'tour_audience_reward_0_event_id' on 'tour_audience_reward'('event_id')CREATE INDEX 'tour_live_correction_0_event_id_1_difficulty' on 'tour_live_correction'('event_id','difficulty')CREATE INDEX 'tour_story_detail_0_event_id_1_type' on 'tour_story_detail'('event_id','type')CREATE INDEX 'tour_area_0_event_id' on 'tour_area'('event_id')CREATE INDEX 'tour_live_detail_0_event_id' on 'tour_live_detail'('event_id')CREATE INDEX 'tour_live_detail_0_event_id_1_area_id_2_area_index' on 'tour_live_detail'('event_id','area_id','area_index')CREATE INDEX 'tour_trend_live_0_event_id' on 'tour_trend_live'('event_id')CREATE INDEX 'tour_live_exclude_0_event_id' on 'tour_live_exclude'('event_id')CREATE INDEX 'tour_score_rank_reward_0_event_id' on 'tour_score_rank_reward'('event_id')CREATE INDEX 'tour_live_item_0_event_id' on 'tour_live_item'('event_id')CREATE INDEX 'announce_anim_detail_data_0_id' on 'announce_anim_detail_data'('id')CREATE INDEX 'loading_data_0_group_id' on 'loading_data'('group_id')
