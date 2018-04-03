@@ -5,3 +5,4 @@ INSERT INTO `party_main_idol` VALUES (/*event_id*/4003, /*main_idol*/300289);
 INSERT INTO `party_main_idol` VALUES (/*event_id*/4004, /*main_idol*/200339);
 INSERT INTO `party_main_idol` VALUES (/*event_id*/4005, /*main_idol*/100355);
 INSERT INTO `party_main_idol` VALUES (/*event_id*/4006, /*main_idol*/300373);
+INSERT INTO `party_main_idol` VALUES (/*event_id*/4007, /*main_idol*/200407);

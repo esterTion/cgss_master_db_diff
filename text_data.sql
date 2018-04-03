@@ -391,6 +391,15 @@ INSERT INTO `text_data` VALUES (/*category*/10, /*index*/75, /*text*/"マッチ�
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/76, /*text*/"ルームへ");
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/77, /*text*/"マッチングに失敗しました\nルームに戻ります");
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/78, /*text*/"ホストが難易度を変更しました");
+INSERT INTO `text_data` VALUES (/*category*/10, /*index*/79, /*text*/"メッセージボード");
+INSERT INTO `text_data` VALUES (/*category*/10, /*index*/80, /*text*/"作成したルーム内にメッセージを表示します。");
+INSERT INTO `text_data` VALUES (/*category*/10, /*index*/81, /*text*/"メッセージボード編集");
+INSERT INTO `text_data` VALUES (/*category*/10, /*index*/82, /*text*/"新しいメッセージを入力してください");
+INSERT INTO `text_data` VALUES (/*category*/10, /*index*/83, /*text*/"デレステ協力");
+INSERT INTO `text_data` VALUES (/*category*/10, /*index*/84, /*text*/"ルーム入室確認");
+INSERT INTO `text_data` VALUES (/*category*/10, /*index*/85, /*text*/"入室済みのルームに戻ります");
+INSERT INTO `text_data` VALUES (/*category*/10, /*index*/86, /*text*/"ルーム入室確認");
+INSERT INTO `text_data` VALUES (/*category*/10, /*index*/87, /*text*/"入室済みのルームに戻ります");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/1, /*text*/"メダル交換所");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/2, /*text*/"アイドル");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/3, /*text*/"アイテム");
