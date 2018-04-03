@@ -24,3 +24,8 @@ INSERT INTO `potential_condition_fan` VALUES (/*id*/22, /*condition_fan*/3000000
 INSERT INTO `potential_condition_fan` VALUES (/*id*/23, /*condition_fan*/3500000);
 INSERT INTO `potential_condition_fan` VALUES (/*id*/24, /*condition_fan*/4000000);
 INSERT INTO `potential_condition_fan` VALUES (/*id*/25, /*condition_fan*/5000000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/26, /*condition_fan*/6000000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/27, /*condition_fan*/7000000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/28, /*condition_fan*/8000000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/29, /*condition_fan*/9000000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/30, /*condition_fan*/10000000);
