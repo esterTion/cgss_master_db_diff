@@ -202,3 +202,4 @@ INSERT INTO `story_category` VALUES (/*id*/262, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/263, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Love∞Destiny", /*sub_title*/"Love∞Destiny", /*disp_order*/16);
 INSERT INTO `story_category` VALUES (/*id*/264, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"きみにいっぱい☆", /*sub_title*/"きみにいっぱい☆", /*disp_order*/17);
 INSERT INTO `story_category` VALUES (/*id*/265, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"サマカニ ! !", /*sub_title*/"サマカニ ! !", /*disp_order*/18);
+INSERT INTO `story_category` VALUES (/*id*/266, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Near to You", /*sub_title*/"Near to You", /*disp_order*/19);
