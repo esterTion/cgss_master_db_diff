@@ -220,6 +220,8 @@ INSERT INTO `tips` VALUES (/*id*/218, /*tips_type*/1, /*value*/246, /*index*/2, 
 INSERT INTO `tips` VALUES (/*id*/219, /*tips_type*/1, /*value*/212, /*index*/2, /*title*/"吉岡沙紀のウワサ②", /*comment*/"言葉より、アートの方が\n思いは伝わるものらしい。");
 INSERT INTO `tips` VALUES (/*id*/220, /*tips_type*/1, /*value*/145, /*index*/2, /*title*/"柳清良のウワサ②", /*comment*/"緊張している人を\nリラックスさせるのが得意らしい。");
 INSERT INTO `tips` VALUES (/*id*/221, /*tips_type*/1, /*value*/154, /*index*/2, /*title*/"安部菜々のウワサ②", /*comment*/"徹夜は苦手だが、早起きは得意らしい。");
+INSERT INTO `tips` VALUES (/*id*/222, /*tips_type*/1, /*value*/187, /*index*/2, /*title*/"古澤頼子のウワサ②", /*comment*/"名画を家に飾るのが夢だが\nいまはポストカードを飾って\n我慢しているらしい。");
+INSERT INTO `tips` VALUES (/*id*/223, /*tips_type*/1, /*value*/191, /*index*/2, /*title*/"ライラのウワサ②", /*comment*/"ロケ弁が余ったときは\n持って帰るようにスタッフから\n押しつけられるらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !");
@@ -467,3 +469,6 @@ INSERT INTO `tips` VALUES (/*id*/40207, /*tips_type*/4, /*value*/179, /*index*/2
 INSERT INTO `tips` VALUES (/*id*/40208, /*tips_type*/4, /*value*/291, /*index*/2, /*title*/"難波笑美②　ツッコミ待ち", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40209, /*tips_type*/4, /*value*/171, /*index*/2, /*title*/"高橋礼子②　女豹のきもち", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40210, /*tips_type*/4, /*value*/162, /*index*/2, /*title*/"早坂美玲②　趣味はぬいぐるみ集め", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40211, /*tips_type*/4, /*value*/265, /*index*/2, /*title*/"浜川愛結奈②　鞭の扱い", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40212, /*tips_type*/4, /*value*/204, /*index*/2, /*title*/"綾瀬穂乃香②　やわらかい", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40213, /*tips_type*/4, /*value*/126, /*index*/2, /*title*/"一ノ瀬志希②　いつのまにか", /*comment*/"");
