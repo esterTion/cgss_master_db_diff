@@ -153,4 +153,6 @@ INSERT INTO `music_info` VALUES (/*id*/9011, /*discription*/"三村かな子（C
 INSERT INTO `music_info` VALUES (/*id*/9012, /*discription*/"依田芳乃（CV：高田憂希）\n小早川紗枝（CV：立花理香）\n道明寺歌鈴（CV：新田ひより）\n浜口あやめ（CV：田澤茉純）\n脇山珠美（CV：嘉山未紗）\n\n\n作詞：桜アス恵（TRYTONELABO）\n作曲：隠田遼平\n編曲：坪田修平（TRYTONELABO）");
 INSERT INTO `music_info` VALUES (/*id*/9013, /*discription*/"アナスタシア（CV：上坂すみれ）\n神谷奈緒（CV：松井恵理子）\n中野有香（CV：下地紫野）\n前川みく（CV：高森奈津美）\n星輝子（CV：松田颯水）\n\n\n作詞・作曲・編曲：AJURIKA");
 INSERT INTO `music_info` VALUES (/*id*/9014, /*discription*/"五十嵐響子（CV：種﨑敦美）\n乙倉悠貴（CV：中島由貴）\n水本ゆかり（CV：藤田茜）\n諸星きらり（CV：松嵜麗）\n姫川友紀（CV：杜野まこ）\n\n\n作詞：絵伊子\n作曲・編曲：渡部チェル");
+INSERT INTO `music_info` VALUES (/*id*/9901, /*discription*/"佐々木千枝（CV：今井麻夏）\n龍崎薫（CV：春瀬なつみ）\n櫻井桃華（CV：照井春佳）\n赤城みりあ（CV：黒沢ともよ）\n市原仁奈（CV：久野美咲）\n\n\n作詞・作曲：俊龍\n編曲：Sizuk");
+INSERT INTO `music_info` VALUES (/*id*/9902, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n赤城みりあ（CV：黒沢ともよ）\n安部菜々（CV：三宅麻理恵）\n\n\n作詞・作曲：俊龍\n編曲：Sizuk");
 INSERT INTO `music_info` VALUES (/*id*/90001, /*discription*/"？");
