@@ -1,1 +1,27 @@
 CREATE TABLE 'rail_card_comment' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'comment_id' INTEGER NOT NULL, 'use_type' INTEGER NOT NULL, 'index' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'insert_word_type' INTEGER NOT NULL, PRIMARY KEY('id'))
+INSERT INTO `rail_card_comment` VALUES (/*id*/1, /*event_id*/6001, /*comment_id*/300475, /*use_type*/0, /*index*/1, /*description*/"芸の道は遠いっちゃ。一歩一歩、がんばろーっ !", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/2, /*event_id*/6001, /*comment_id*/300475, /*use_type*/0, /*index*/2, /*description*/"お仕事をするたびに、成長してる気がするっちゃね !", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/3, /*event_id*/6001, /*comment_id*/300475, /*use_type*/0, /*index*/3, /*description*/"みんなを楽しませる芸、見つけてみせるよ !", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/4, /*event_id*/6001, /*comment_id*/300475, /*use_type*/1, /*index*/1, /*description*/"なんだか、可愛い曲を歌いたいっちゃね !", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/5, /*event_id*/6001, /*comment_id*/300475, /*use_type*/2, /*index*/1, /*description*/"いまは、格好いい曲を歌いたい気分っちゃ", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/6, /*event_id*/6001, /*comment_id*/300475, /*use_type*/3, /*index*/1, /*description*/"よーし、元気な曲で盛り上げるっちゃ !", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/7, /*event_id*/6001, /*comment_id*/300475, /*use_type*/4, /*index*/1, /*description*/"みんなで歌う曲を歌いたいな !", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/8, /*event_id*/6001, /*comment_id*/300475, /*use_type*/5, /*index*/1, /*description*/"とにかくLIVEがしたいっちゃ ! はやくはやく !", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/9, /*event_id*/6001, /*comment_id*/300475, /*use_type*/100, /*index*/1, /*description*/"もう少しでゴールっちゃね。あと一息、気合いれるっちゃ !", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/10, /*event_id*/6001, /*comment_id*/300475, /*use_type*/101, /*index*/1, /*description*/"課題がでとるよ。次のステップ目指してチャレンジやねっ !", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/11, /*event_id*/6001, /*comment_id*/300475, /*use_type*/102, /*index*/1, /*description*/"よーっし !\n次は、看板娘の真骨頂みせちゃるけんね !\nプロデューサー、よう見とき !", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/12, /*event_id*/6001, /*comment_id*/300475, /*use_type*/102, /*index*/2, /*description*/"むむっ ! \n芸の神髄、見えた気がするっちゃ !\n次は大成功、間違いなしっ !", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/13, /*event_id*/6001, /*comment_id*/300475, /*use_type*/102, /*index*/3, /*description*/"すーはーすーはー。\n集中して……よしっ !\nいまなら、全力を発揮できる !", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/14, /*event_id*/6001, /*comment_id*/100503, /*use_type*/0, /*index*/1, /*description*/"ここはー…まだ、ゆめのなかー…？", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/15, /*event_id*/6001, /*comment_id*/100503, /*use_type*/0, /*index*/2, /*description*/"つぎはどんなばしょ…？たのしみー…", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/16, /*event_id*/6001, /*comment_id*/100503, /*use_type*/0, /*index*/3, /*description*/"ふわぁ…そろそろ、すすむー？", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/17, /*event_id*/6001, /*comment_id*/100503, /*use_type*/1, /*index*/1, /*description*/"かわいい…おうたー…るんるん♪", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/18, /*event_id*/6001, /*comment_id*/100503, /*use_type*/2, /*index*/1, /*description*/"こずえもーかっこういい、おうたー", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/19, /*event_id*/6001, /*comment_id*/100503, /*use_type*/3, /*index*/1, /*description*/"たのしいおうたー…わーい…わぁーい", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/20, /*event_id*/6001, /*comment_id*/100503, /*use_type*/4, /*index*/1, /*description*/"みんなでー…いっしょー…うたおー", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/21, /*event_id*/6001, /*comment_id*/100503, /*use_type*/5, /*index*/1, /*description*/"どんなおうたもーたのしいよー…？", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/22, /*event_id*/6001, /*comment_id*/100503, /*use_type*/100, /*index*/1, /*description*/"そろそろ、おきるじかんー？", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/23, /*event_id*/6001, /*comment_id*/100503, /*use_type*/101, /*index*/1, /*description*/"みんなー…がんばれー…がんばろー…", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/24, /*event_id*/6001, /*comment_id*/100503, /*use_type*/102, /*index*/1, /*description*/"おうた……うたってたら、\nたのしくなってきたー。\nこずえ、もっとたくさんうたうー。", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/25, /*event_id*/6001, /*comment_id*/100503, /*use_type*/102, /*index*/2, /*description*/"ぷろでゅーさー、がんばってる……？\nじゃあ、こずえも、いっぱいがんばるー……。\nいっしょに、いこー？", /*insert_word_type*/0);
+INSERT INTO `rail_card_comment` VALUES (/*id*/26, /*event_id*/6001, /*comment_id*/100503, /*use_type*/102, /*index*/3, /*description*/"なんだか……。\nとってもはやくなるゆめ、みたきがするー……。\nいまが、ちゃんす……？", /*insert_word_type*/0);

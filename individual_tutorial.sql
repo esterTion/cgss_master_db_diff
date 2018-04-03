@@ -245,6 +245,14 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/4, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/5, /*discription*/"日替わりで切り替わる「流行曲」を含めて公演を行ったり、\nマニーを使用して「LIVEオプション」を設定すると、\nエリアの観客動員数がさらにアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/5, /*discription*/"また観客動員数の多いエリアで公演を行うと、\n獲得できるファン数がアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/6, /*discription*/"イベント設定では、公演の準備画面の「おすすめ設定」で\n選曲される楽曲のLvを調整できます。\nまたツアーのタイトルを自由に変更できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/1, /*discription*/"「イベント参加ボーナス」、「MAP報酬」、「課題クリア報酬」\nで、イベント限定のSレアアイドルやルームアイテムを\n手にいれましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"本イベントでは、LIVEを行うことでアイドルたちが\nMAPを進んでいきます。楽曲の難易度やLIVEの\n結果に応じて、進行できるマス数が変化します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"また、ルートはイベント限定アイドルごとに分かれており、\nそれぞれストーリーや報酬が異なります。\n※「首藤葵」ルートのMAP1をクリアすると、\n「遊佐こずえ」ルートが解放されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/3, /*discription*/"MAPやマスごとの条件を満たしてLIVEを行うと、\nMAP進行ボーナスが発生し、進行できるマス数がアップします。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/3, /*discription*/"MAP進行ボーナスは、MAPにあわせたアイドルを編成したり、\n現在止まっているマスの色に応じた楽曲でLIVEを行うことで発生します。\nボーナス条件はイベントTOPや楽曲の選択画面等で確認できます。\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/4, /*discription*/"ゴールに到着すると、トレーナーからMAPごとの課題が出されます。\n※課題の達成状況は累積でカウントされるため、1回のLIVEでクリアできない場合、\n複数回LIVEをすることで達成できます。\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/5, /*discription*/"MAPを進行していると、たまに「進行2倍ボーナス」が\n発生することがあります。進行2倍ボーナスが発生すると、\n次回のLIVEクリア時に進行できるマス数が2倍になります。\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/6, /*discription*/"楽曲選択画面の並べ替えメニューで「イベントボーナス」を\n選択すると、現在止まっているマスに適した楽曲を\n簡単に絞り込むことができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90101, /*img*/1, /*discription*/"アイドルのファン数を増やすことで、ポテンシャルを解放し、\nアイドルのステータスを強化することができる機能です。\n（ポテンシャル解放では特訓アイテムを消費します）\n※各数値は開発中のものです。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90102, /*img*/1, /*discription*/"PランクSS、PRP1000以上のプロデューサーのみ参加可能な\nランキングで、上位入賞することで、PランクSSSに昇格します。\n（PランクSSSは、1ヶ月の任期制となります）\n    ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90103, /*img*/1, /*discription*/"新3D衣装「アクロス・ザ・スターズ」登場 !\n3DLIVEでアイドルたちの衣装を\n変更することができるようになりました !");
@@ -288,6 +296,5 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90301, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90301, /*img*/3, /*discription*/"受賞楽曲は、\nmobage「アイドルマスター シンデレラガールズ」\n第6回シンデレラガール総選挙と連動して楽曲化 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/1, /*discription*/"オールスターカウントダウンLIVE開催 !\n開催期間は2017年12月31日0時～24時です。\nみんなでLIVEを楽しみながら1年を締めくくりましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/2, /*discription*/"全プロデューサーで対象楽曲をクリアして、「全体ミッション」を達成しま\nしょう ! 対象楽曲がクリアされた回数によって獲得できる報酬が決定します !\n※全体ミッションの達成報酬は、\n1月1日12時にまとめて配布されます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/3, /*discription*/"「全体ミッション」の対象楽曲は、3時間ごとに変更されます。\n対象の楽曲タイプを選んでLIVEしましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/4, /*discription*/"「オールスターカウントダウンLIVE」には、「全体ミッション」のほかに\n「個人ミッション」があります。「宝くじチケット」や\n「イベント限定アイドルスカウトチケット」などを含む、\n豪華景品をご用意しておりますので忘れずにチェックしてくださいね !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/5, /*discription*/"特設ページ内「次のコミュ解放」横に表示されている時間になると、\nアイドルたちがMCを務めるコミュが解放されます。\n後半には「あの曲」も登場・・・ ! ？");
