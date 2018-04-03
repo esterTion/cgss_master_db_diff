@@ -20,8 +20,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20004, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20005, /*img*/1, /*discription*/"「ルーム効果」では、現在発動しているルーム効果を\n確認できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20005, /*img*/1, /*discription*/"「詳細」タブでは、効果を発揮しているルームアイテムを\n見る事ができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20006, /*img*/1, /*discription*/"VIEWモードでは、ルームが拡大して表示され、\nガイド線より手前のルームアイテムが見えなくなります。\n重なったルームアイテムを操作する場合などに便利です。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20007, /*img*/1, /*discription*/"ギフトアイテムをアイドルに渡すと親愛度が上がります。\nそのアイドルに合ったギフトアイテムを渡すと、\nより多くの親愛度が上がります。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"学校机や黒板などのアイテムを追加 !\nルームを学校風に飾りつけちゃおう ! !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20007, /*img*/1, /*discription*/"「設置」ボタンを押せば、倉庫内のルームアイテムを\nルームに設置できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"ひな壇やぼんぼりなどの限定アイテムを追加 !!\nルームをひなまつり風に飾りつけちゃおう ! !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEでは、ミュージックセレクタ右上の動作設定ボタンから\nLIVEの背景演出を変更することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEプレイ中のSE再生設定もここから変更できます。\nSEをオフにすることで、動作が軽くなる場合があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30002, /*img*/1, /*discription*/"ユニット確認画面では、右上のLIVE設定ボタンから\nリズムゲームプレイ中の設定をカスタマイズできます。");
@@ -80,12 +80,3 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/3, /*discription*/"LIVE中、盛り上がりに応じて「ハコユレLv」が計測されます。\n3曲合わせた「ハコユレLv」が17以上になると、\nアンコールが発生します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/4, /*discription*/"難易度がMASTERで、ハコユレLvが21以上の場合、\nアンコール楽曲の難易度で「MASTER+」が選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/5, /*discription*/"LIVE Groove Vocal burstでは、ボーカルのアピール値が\n通常よりアップします。\nボーカルアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/1, /*discription*/"説明テキスト1");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/2, /*discription*/"説明テキスト2");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/3, /*discription*/"説明テキスト3");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80401, /*img*/1, /*discription*/"説明テキスト1");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80401, /*img*/2, /*discription*/"説明テキスト2");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80401, /*img*/3, /*discription*/"説明テキスト3");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80501, /*img*/1, /*discription*/"説明テキスト1");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80501, /*img*/2, /*discription*/"説明テキスト2");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80501, /*img*/3, /*discription*/"説明テキスト3");
