@@ -365,3 +365,5 @@ INSERT INTO `card_location` VALUES (/*index*/367, /*text*/"家具店・寝具コ
 INSERT INTO `card_location` VALUES (/*index*/368, /*text*/"ハワイの海辺");
 INSERT INTO `card_location` VALUES (/*index*/369, /*text*/"ハワイの野外ステージ");
 INSERT INTO `card_location` VALUES (/*index*/370, /*text*/"ロッジ");
+INSERT INTO `card_location` VALUES (/*index*/371, /*text*/"亜季の部屋");
+INSERT INTO `card_location` VALUES (/*index*/372, /*text*/"西部劇風セット・店内");
