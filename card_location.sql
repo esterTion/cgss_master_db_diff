@@ -251,3 +251,5 @@ INSERT INTO `card_location` VALUES (/*index*/252, /*text*/"夕暮れの土手");
 INSERT INTO `card_location` VALUES (/*index*/253, /*text*/"ライブハウスのステージ");
 INSERT INTO `card_location` VALUES (/*index*/254, /*text*/"事務所・休憩室");
 INSERT INTO `card_location` VALUES (/*index*/255, /*text*/"ライブハウスの裏路地");
+INSERT INTO `card_location` VALUES (/*index*/256, /*text*/"かな子の部屋");
+INSERT INTO `card_location` VALUES (/*index*/257, /*text*/"礼子の自宅");
