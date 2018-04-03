@@ -5,4 +5,7 @@ INSERT INTO `campaign_bonus` VALUES (/*id*/3, /*type*/1, /*value_1*/20000, /*val
 INSERT INTO `campaign_bonus` VALUES (/*id*/4, /*type*/1, /*value_1*/20000, /*value_2*/0, /*value_3*/0, /*icon_img*/1, /*day*/127, /*start_date*/"2015/11/28 00:00:00", /*end_date*/"2015/12/07 23:59:59");
 INSERT INTO `campaign_bonus` VALUES (/*id*/5, /*type*/1, /*value_1*/20000, /*value_2*/0, /*value_3*/0, /*icon_img*/1, /*day*/127, /*start_date*/"2015/12/22 15:00:00", /*end_date*/"2016/01/12 14:59:59");
 INSERT INTO `campaign_bonus` VALUES (/*id*/6, /*type*/1, /*value_1*/30000, /*value_2*/0, /*value_3*/0, /*icon_img*/1, /*day*/127, /*start_date*/"2016/02/01 15:00:00", /*end_date*/"2016/02/29 14:59:59");
+INSERT INTO `campaign_bonus` VALUES (/*id*/7, /*type*/1, /*value_1*/30000, /*value_2*/0, /*value_3*/0, /*icon_img*/1, /*day*/127, /*start_date*/"2016/04/01 00:00:00", /*end_date*/"2016/04/14 23:59:59");
+INSERT INTO `campaign_bonus` VALUES (/*id*/8, /*type*/61, /*value_1*/10, /*value_2*/0, /*value_3*/0, /*icon_img*/1, /*day*/127, /*start_date*/"2016/04/01 00:00:00", /*end_date*/"2016/04/14 23:59:59");
+INSERT INTO `campaign_bonus` VALUES (/*id*/9, /*type*/71, /*value_1*/7101, /*value_2*/0, /*value_3*/0, /*icon_img*/1, /*day*/127, /*start_date*/"2016/04/01 00:00:00", /*end_date*/"2016/04/14 23:59:59");
 INSERT INTO `campaign_bonus` VALUES (/*id*/99999, /*type*/99999, /*value_1*/0, /*value_2*/0, /*value_3*/0, /*icon_img*/99999, /*day*/127, /*start_date*/"2015/09/01 00:00:00", /*end_date*/"2030/08/15 14:59:00");

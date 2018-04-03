@@ -19,6 +19,7 @@ INSERT INTO `music_data` VALUES (/*id*/1017, /*name*/"ゴキゲンParty Night", 
 INSERT INTO `music_data` VALUES (/*id*/1018, /*name*/"ゴキゲンParty Night", /*bpm*/175, /*composer*/"小野貴光", /*lyricist*/"森由⾥⼦", /*sound_offset*/63768, /*sound_length*/26000, /*name_sort*/27);
 INSERT INTO `music_data` VALUES (/*id*/1019, /*name*/"ゴキゲンParty Night", /*bpm*/175, /*composer*/"小野貴光", /*lyricist*/"森由⾥⼦", /*sound_offset*/63768, /*sound_length*/26000, /*name_sort*/28);
 INSERT INTO `music_data` VALUES (/*id*/1020, /*name*/"Absolute NIne", /*bpm*/175, /*composer*/"hisakuni", /*lyricist*/"hisakuni", /*sound_offset*/66904, /*sound_length*/39000, /*name_sort*/3);
+INSERT INTO `music_data` VALUES (/*id*/1901, /*name*/"お願い ! シンデレラ", /*bpm*/175, /*composer*/"BNSI（内田哲也）", /*lyricist*/"marhy", /*sound_offset*/57508, /*sound_length*/20937, /*name_sort*/14);
 INSERT INTO `music_data` VALUES (/*id*/3001, /*name*/"S(mile)ING!", /*bpm*/178, /*composer*/"BNSI（Yoshi）", /*lyricist*/"BNSI（八城雄太）", /*sound_offset*/52279, /*sound_length*/18828, /*name_sort*/39);
 INSERT INTO `music_data` VALUES (/*id*/3002, /*name*/"Never say never", /*bpm*/156, /*composer*/"BNEI（遠山明孝）", /*lyricist*/"BNEI（遠山明孝・八城雄太）", /*sound_offset*/61305, /*sound_length*/11520, /*name_sort*/58);
 INSERT INTO `music_data` VALUES (/*id*/3003, /*name*/"ミツボシ☆☆★", /*bpm*/175, /*composer*/"BNSI（kyo）", /*lyricist*/"BNSI（八城雄太）", /*sound_offset*/51889, /*sound_length*/10195, /*name_sort*/70);

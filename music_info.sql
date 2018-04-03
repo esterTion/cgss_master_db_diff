@@ -19,6 +19,7 @@ INSERT INTO `music_info` VALUES (/*id*/1017, /*discription*/"十時愛梨（CV�
 INSERT INTO `music_info` VALUES (/*id*/1018, /*discription*/"三村かな子（CV：大坪由佳）\n輿水幸子（CV：竹達彩奈）\n佐久間まゆ（CV：牧野由依）\n緒方智絵里（CV：大空直美）\n小早川紗枝（CV：立花理香）\n川島瑞樹（CV：東山奈央）\n白坂小梅（CV：桜咲千依）\nアナスタシア（CV：上坂すみれ）\n神谷奈緒（CV：松井恵理子）\n北条加蓮（CV：渕上舞）\n十時愛梨（CV：原田ひとみ）\n日野茜（CV：赤崎千夏）\n高森藍子（CV：金子有希）\n星輝子（CV：松田颯水）\n堀裕子（CV：鈴木絵理）\n\n\n作詞：森由⾥⼦\n作曲：小野貴光\n編曲：玉木千尋");
 INSERT INTO `music_info` VALUES (/*id*/1019, /*discription*/"本田未央（CV：原紗友里）\n多田李衣菜（CV：青木瑠璃子）\n渋谷凛（CV：福原綾香）\n安部菜々（CV：三宅麻理恵）\n姫川友紀（CV：杜野まこ）\n\n\n作詞：森由⾥⼦\n作曲：小野貴光\n編曲：玉木千尋");
 INSERT INTO `music_info` VALUES (/*id*/1020, /*discription*/"THE IDOLM@STER CINDERELLA GIRLS!!\n\n塩見周子（CV：ルゥ ティン）\n高垣楓（CV：早見沙織）\n渋谷凛（CV：福原綾香）\n前川みく（CV：高森奈津美）\n一ノ瀬志希（CV：藍原ことみ）\n島村卯月（CV：大橋彩香）\n相葉夕美（CV：木村珠莉）\n城ヶ崎美嘉（CV：佳村はるか）\n向井拓海（CV：原優子）\n\n\n作詞・作曲・編曲：hisakuni");
+INSERT INTO `music_info` VALUES (/*id*/1901, /*discription*/"千川ちひろ（CV：佐藤利奈）\n\n\n作詞：marhy\n作曲・編曲：BNSI（内田哲也）\nギター：後藤貴徳\nバイオリン：越川歩\nトランペット：鈴木正則\nコーラス：marhy");
 INSERT INTO `music_info` VALUES (/*id*/3001, /*discription*/"島村卯月（CV：大橋彩香）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（Yoshi）\nコーラス：Mitsu（BNSI）\nギター：後藤貴徳\nバイオリン：Bloom Quartet & Ensemble");
 INSERT INTO `music_info` VALUES (/*id*/3002, /*discription*/"渋谷凛（CV：福原綾香）\n\n\n作詞・作曲：BNEI（遠山明孝・八城雄太）\n作曲：BNEI（遠山明孝）\n編曲：関淳二郎\nギター・コーラス：関淳二郎");
 INSERT INTO `music_info` VALUES (/*id*/3003, /*discription*/"本田未央（CV：原紗友里）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（kyo）\nギター：後藤貴徳");

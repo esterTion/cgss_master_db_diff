@@ -1,2 +1,2 @@
 CREATE TABLE 'onetime_story' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'story_id' INTEGER NOT NULL, 'transition' INTEGER NOT NULL, 'page_index' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'))
-INSERT INTO `onetime_story` VALUES (/*id*/0, /*name*/"", /*story_id*/0, /*transition*/0, /*page_index*/0, /*start_date*/"1970-01-01 00:00:00", /*end_date*/"1970-01-01 23:59:59");
+INSERT INTO `onetime_story` VALUES (/*id*/1, /*name*/"エイプリル", /*story_id*/1610, /*transition*/0, /*page_index*/0, /*start_date*/"2016-04-01 00:00:00", /*end_date*/"2016-04-01 23:59:59");

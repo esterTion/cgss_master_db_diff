@@ -106,6 +106,7 @@ INSERT INTO `card_comments` VALUES (/*id*/15, /*use_type*/5, /*index*/13, /*voic
 INSERT INTO `card_comments` VALUES (/*id*/15, /*use_type*/5, /*index*/14, /*voice_flag*/1, /*discription*/"ごくろう", /*insert_word_type*/0, /*story_cue_id*/0);
 INSERT INTO `card_comments` VALUES (/*id*/15, /*use_type*/5, /*index*/15, /*voice_flag*/1, /*discription*/"宜しくたのむ", /*insert_word_type*/0, /*story_cue_id*/0);
 INSERT INTO `card_comments` VALUES (/*id*/15, /*use_type*/5, /*index*/16, /*voice_flag*/1, /*discription*/"専務の美城だ", /*insert_word_type*/0, /*story_cue_id*/0);
+INSERT INTO `card_comments` VALUES (/*id*/20, /*use_type*/1, /*index*/1, /*voice_flag*/0, /*discription*/"", /*insert_word_type*/0, /*story_cue_id*/0);
 INSERT INTO `card_comments` VALUES (/*id*/101, /*use_type*/1, /*index*/1, /*voice_flag*/1, /*discription*/"おはようございます ! 朝は和食、ちゃんと食べてきました♪", /*insert_word_type*/0, /*story_cue_id*/0);
 INSERT INTO `card_comments` VALUES (/*id*/101, /*use_type*/1, /*index*/2, /*voice_flag*/1, /*discription*/"お昼ですね。私も、お日様に負けないくらい、輝きたいです !", /*insert_word_type*/0, /*story_cue_id*/0);
 INSERT INTO `card_comments` VALUES (/*id*/101, /*use_type*/1, /*index*/3, /*voice_flag*/1, /*discription*/"プロデューサーさん、こんな遅い時間まで…？私、尊敬します !", /*insert_word_type*/0, /*story_cue_id*/0);
