@@ -140,3 +140,8 @@ INSERT INTO `card_location` VALUES (/*index*/139, /*text*/"ボウリング場");
 INSERT INTO `card_location` VALUES (/*index*/140, /*text*/"京都の寺院");
 INSERT INTO `card_location` VALUES (/*index*/141, /*text*/"花舞うステージ");
 INSERT INTO `card_location` VALUES (/*index*/142, /*text*/"街中");
+INSERT INTO `card_location` VALUES (/*index*/143, /*text*/"花園ステージ");
+INSERT INTO `card_location` VALUES (/*index*/144, /*text*/"駅のホーム");
+INSERT INTO `card_location` VALUES (/*index*/145, /*text*/"ご当地グルメフェス");
+INSERT INTO `card_location` VALUES (/*index*/146, /*text*/"マーチングLIVEステージ");
+INSERT INTO `card_location` VALUES (/*index*/147, /*text*/"炎のステージ");

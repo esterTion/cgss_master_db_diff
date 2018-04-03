@@ -26,6 +26,7 @@ INSERT INTO `story_category` VALUES (/*id*/38, /*type*/2, /*chara_type*/1, /*cha
 INSERT INTO `story_category` VALUES (/*id*/39, /*type*/2, /*chara_type*/1, /*chara_id*/139, /*title*/"兵藤レナ", /*sub_title*/"", /*disp_order*/39);
 INSERT INTO `story_category` VALUES (/*id*/41, /*type*/2, /*chara_type*/1, /*chara_id*/141, /*title*/"道明寺歌鈴", /*sub_title*/"", /*disp_order*/41);
 INSERT INTO `story_category` VALUES (/*id*/47, /*type*/2, /*chara_type*/1, /*chara_id*/147, /*title*/"井村雪菜", /*sub_title*/"", /*disp_order*/47);
+INSERT INTO `story_category` VALUES (/*id*/49, /*type*/2, /*chara_type*/1, /*chara_id*/149, /*title*/"榊原里美", /*sub_title*/"", /*disp_order*/49);
 INSERT INTO `story_category` VALUES (/*id*/50, /*type*/2, /*chara_type*/1, /*chara_id*/150, /*title*/"輿水幸子", /*sub_title*/"", /*disp_order*/50);
 INSERT INTO `story_category` VALUES (/*id*/54, /*type*/2, /*chara_type*/1, /*chara_id*/154, /*title*/"安部菜々", /*sub_title*/"", /*disp_order*/54);
 INSERT INTO `story_category` VALUES (/*id*/55, /*type*/2, /*chara_type*/1, /*chara_id*/155, /*title*/"工藤忍", /*sub_title*/"", /*disp_order*/55);
@@ -145,3 +146,4 @@ INSERT INTO `story_category` VALUES (/*id*/232, /*type*/1, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/233, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第24話", /*sub_title*/"Sakura Bloom", /*disp_order*/225);
 INSERT INTO `story_category` VALUES (/*id*/234, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第25話", /*sub_title*/"coming soon", /*disp_order*/226);
 INSERT INTO `story_category` VALUES (/*id*/254, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"絶対特権主張しますっ ! ", /*sub_title*/"絶対特権主張しますっ ! ", /*disp_order*/9);
+INSERT INTO `story_category` VALUES (/*id*/255, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ハイファイ☆デイズ", /*sub_title*/"ハイファイ☆デイズ", /*disp_order*/10);
