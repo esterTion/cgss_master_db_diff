@@ -139,6 +139,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60014, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60014, /*img*/2, /*discription*/"ゲスト参戦アイドルを設定できるようになりました。\n他プロデューサーのゲストとして参加するアイドルを、\n楽曲タイプごとに設定することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60015, /*img*/1, /*discription*/"ドレスショップがオープンしました！島村卯月、本田未央、\n渋谷凛、上条春菜、大槻唯が着用できる新3D衣装\n「プレゼントオブスノウ」を販売中！");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60015, /*img*/2, /*discription*/"ドレスショップで購入した3D衣装は、アイドル編成と\nMVモードのユニット確認画面から選択することがで\nきます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60016, /*img*/1, /*discription*/"マニーショップにアイテム売却機能が追加されました。\n画面右上のボタンから売却画面に切り替えることができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60016, /*img*/1, /*discription*/"所持アイテムを売却することで、マニーを獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/1, /*discription*/"「イベントptランキング報酬」、「達成pt報酬」、\n「ハイスコアランキング報酬」で、イベント限定の\nSレアアイドルやルームアイテムを手にいれましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/2, /*discription*/"イベントptランキングで50万位に入賞すると、\n自分の順位が入ったイベント称号を獲得できます。\n各称号のデザインは順位によって異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/3, /*discription*/"通常楽曲をプレイすると、individualsエンブレムと\nイベントptを獲得できます。\nindividualsエンブレムは、スタミナ消費量と\nSCOREランクが高いほど多く獲得できます。");
