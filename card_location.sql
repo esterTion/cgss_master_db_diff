@@ -282,3 +282,5 @@ INSERT INTO `card_location` VALUES (/*index*/283, /*text*/"スペインの広場
 INSERT INTO `card_location` VALUES (/*index*/284, /*text*/"女子寮");
 INSERT INTO `card_location` VALUES (/*index*/285, /*text*/"設営中のステージ");
 INSERT INTO `card_location` VALUES (/*index*/286, /*text*/"ランウェイ");
+INSERT INTO `card_location` VALUES (/*index*/287, /*text*/"きらりの部屋");
+INSERT INTO `card_location` VALUES (/*index*/288, /*text*/"CDリリース記念LIVE");
