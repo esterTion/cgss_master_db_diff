@@ -14612,7 +14612,7 @@ INSERT INTO `manifests` VALUES (/*name*/"c/story_2100231.acb", /*hash*/"76194d59
 INSERT INTO `manifests` VALUES (/*name*/"c/story_2100241.acb", /*hash*/"e45c668c6ff0d83dd6f51a3e09609b81", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"c/story_2100251.acb", /*hash*/"3e486f4de55b56241994e23e7ca63bee", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"c/story_2100253.acb", /*hash*/"7f145d6690adf16c984822aae0753389", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"c/story_2100255.acb", /*hash*/"d1bf0cec288d989cf060a8bc47e797a9", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"c/story_2100255.acb", /*hash*/"c64fb7f034ae46285008cc8839c915cf", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"c/story_2200001.acb", /*hash*/"b83b049f122f01972ab0a09fb75043a5", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"c/story_2200007.acb", /*hash*/"b679a9bc55ac62237f1302aeb3da249f", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"c/story_2200009.acb", /*hash*/"f581dce541ca2cdfab3be21679acc564", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
@@ -14744,7 +14744,7 @@ INSERT INTO `manifests` VALUES (/*name*/"c/story_2320225.acb", /*hash*/"f57d681e
 INSERT INTO `manifests` VALUES (/*name*/"c/story_3010101.acb", /*hash*/"e62868b03df9751ef2d15aef681d642d", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"c/story_3010102.acb", /*hash*/"06c561c6e01d981e96701bf0bddf653d", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"c/story_3010103.acb", /*hash*/"631f2b7e508269a742fc6f39860b4bd8", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"c/story_3010104.acb", /*hash*/"9651caa05b028bfc2f629237e6ce0ed7", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"c/story_3010104.acb", /*hash*/"778c7fb864dbe7281d070d04a4708869", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"c/story_3010201.acb", /*hash*/"39e7c623cf93f48779b287704087394f", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"c/story_3010202.acb", /*hash*/"7441a1ae4c86372fa25e99e2ef5d9cd9", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"c/story_3010203.acb", /*hash*/"c07dd56c01016cb9f1cbbe231005da73", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
