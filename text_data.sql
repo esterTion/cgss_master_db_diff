@@ -313,6 +313,9 @@ INSERT INTO `text_data` VALUES (/*category*/9, /*index*/75, /*text*/"[E13939]{0}
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/76, /*text*/"リハーサルチケットを1枚使用して、リハーサルLIVEを開始します。");
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/77, /*text*/"リハーサルLIVEでは、LIVE報酬の獲得ができません。");
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/78, /*text*/"リハーサルを開始します");
+INSERT INTO `text_data` VALUES (/*category*/9, /*index*/79, /*text*/"リハーサルチケットの代わりに{0}マニー使用してリハーサルLIVEを開始します。");
+INSERT INTO `text_data` VALUES (/*category*/9, /*index*/80, /*text*/"[E13939]{0}[-]");
+INSERT INTO `text_data` VALUES (/*category*/9, /*index*/81, /*text*/"所持マニーが不足しています。");
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/1, /*text*/"メンバー確認");
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/2, /*text*/"このユニットでLIVEを開催します");
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/3, /*text*/"準備完了");
@@ -696,6 +699,8 @@ INSERT INTO `text_data` VALUES (/*category*/17, /*index*/183, /*text*/"{0}曲目
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/184, /*text*/"準備画面へ");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/185, /*text*/"続けてセット");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/186, /*text*/"リズム\nアイコン数");
+INSERT INTO `text_data` VALUES (/*category*/17, /*index*/187, /*text*/"リハーサルチケットの代わりに{0}マニー使用してリハーサルLIVEを開始します。");
+INSERT INTO `text_data` VALUES (/*category*/17, /*index*/188, /*text*/"所持マニーが不足しています。");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/1, /*text*/"宝くじ獲得可能期間");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/2, /*text*/"　当選結果発表期間");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/3, /*text*/"ミッション");
