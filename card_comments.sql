@@ -13276,7 +13276,7 @@ INSERT INTO `card_comments` VALUES (/*id*/200146, /*use_type*/2, /*index*/4, /*v
 INSERT INTO `card_comments` VALUES (/*id*/200146, /*use_type*/2, /*index*/5, /*voice_flag*/0, /*discription*/"{0}Pの的確さがほしいなって思って…参考にさせて", /*insert_word_type*/100, /*story_cue_id*/0);
 INSERT INTO `card_comments` VALUES (/*id*/200146, /*use_type*/2, /*index*/6, /*voice_flag*/0, /*discription*/"知らないことって怖いけど…試してみたいって思えたの", /*insert_word_type*/0, /*story_cue_id*/0);
 INSERT INTO `card_comments` VALUES (/*id*/200146, /*use_type*/2, /*index*/7, /*voice_flag*/0, /*discription*/"まずは合格ラインを示して。そこに到達することから始めようかなって", /*insert_word_type*/0, /*story_cue_id*/0);
-INSERT INTO `card_comments` VALUES (/*id*/200146, /*use_type*/2, /*index*/8, /*voice_flag*/0, /*discription*/"帽子はピンでキュッと止めて…万全を期してるよ", /*insert_word_type*/0, /*story_cue_id*/0);
+INSERT INTO `card_comments` VALUES (/*id*/200146, /*use_type*/2, /*index*/8, /*voice_flag*/0, /*discription*/"帽子はピンでキュッと留めて…万全を期してるよ", /*insert_word_type*/0, /*story_cue_id*/0);
 INSERT INTO `card_comments` VALUES (/*id*/200146, /*use_type*/2, /*index*/9, /*voice_flag*/0, /*discription*/"答えは…ええーと…。も、もう少し時間をちょうだい !", /*insert_word_type*/0, /*story_cue_id*/0);
 INSERT INTO `card_comments` VALUES (/*id*/200146, /*use_type*/2, /*index*/10, /*voice_flag*/0, /*discription*/"スカートが少し短いような…もしかして、これも戦略…？", /*insert_word_type*/0, /*story_cue_id*/0);
 INSERT INTO `card_comments` VALUES (/*id*/200146, /*use_type*/2, /*index*/11, /*voice_flag*/0, /*discription*/"{0}Pにアップデートしてもらった部分もあるよ", /*insert_word_type*/100, /*story_cue_id*/0);
