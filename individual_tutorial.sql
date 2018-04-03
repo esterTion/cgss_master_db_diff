@@ -43,7 +43,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/4, /*discription*/"「お気に入り編成」から、事務所とフリールームに\n登場するアイドルを個別に設定できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20011, /*img*/1, /*discription*/"「一括収納」ボタンで設置中のルームアイテムを\nまとめて倉庫に収納することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20012, /*img*/1, /*discription*/"ルームのレイアウトをマイセットに保存することができます。\n保存したマイセットはいつでも配置することができます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"ニコニコ生放送「デレステNIGHT☆☆☆☆☆☆☆」にて、\n制作が決定した「難波さん家のたこやき機」が登場 ! !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"ひなまつりをテーマにしたアイテムが登場 !\nルームを飾り付けて桃の節句をお祝いしよう ! !\n過去のひなまつりテーマアイテムも復刻販売中 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、\n様々な効果を発揮する物があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -71,9 +71,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30004, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30004, /*img*/2, /*discription*/"表示されるポップアップで、遊びたい楽曲のタイプを選択し\n「条件決定」をタップすると、DJぴにゃがプレイ楽曲を決定します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30004, /*img*/2, /*discription*/"スタミナは条件決定をしたタイミングで消費されます。\n楽曲決定後に選曲画面に戻ることはできませんのでご注意ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30004, /*img*/3, /*discription*/"リクエストされた楽曲を見事クリアすると、\n通常のLIVE報酬に追加で、特別な報酬が獲得できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「バレンタインスペシャルLIVEキャンペーン」開催中 !\n期間中にLIVEをクリアすると、\nバレンタイン限定のアイテムを獲得できます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「LIVEチャレンジキャンペーン」開催中 ! !\nLIVEコンティニューに必要なスタージュエルが\n「50個」から「10個」になります !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「LIVEチャレンジキャンペーン」開催中 ! !\nLIVEコンティニューに必要なスタージュエルが\n「50個」から「10個」になります !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");
