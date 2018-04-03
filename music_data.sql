@@ -32,6 +32,7 @@ INSERT INTO `music_data` VALUES (/*id*/1030, /*name*/"Treasure☆", /*bpm*/128, 
 INSERT INTO `music_data` VALUES (/*id*/1031, /*name*/"Take me☆Take you", /*bpm*/180, /*composer*/"坂部剛", /*lyricist*/"渡部紫緒", /*sound_offset*/56517, /*sound_length*/35000, /*name_sort*/78);
 INSERT INTO `music_data` VALUES (/*id*/1032, /*name*/"Take me☆Take you", /*bpm*/180, /*composer*/"坂部剛", /*lyricist*/"渡部紫緒", /*sound_offset*/56517, /*sound_length*/35000, /*name_sort*/79);
 INSERT INTO `music_data` VALUES (/*id*/1033, /*name*/"キミのそばでずっと", /*bpm*/95, /*composer*/"坪田修平（TRYTONELABO）", /*lyricist*/"荘野ジュリ", /*sound_offset*/61669, /*sound_length*/22000, /*name_sort*/36);
+INSERT INTO `music_data` VALUES (/*id*/1034, /*name*/"Halloween♥Code", /*bpm*/201, /*composer*/"岡野裕次郎（TRYTONELABO）", /*lyricist*/"磯谷佳江", /*sound_offset*/65810, /*sound_length*/23000, /*name_sort*/108);
 INSERT INTO `music_data` VALUES (/*id*/1901, /*name*/"お願い ! シンデレラ", /*bpm*/175, /*composer*/"BNSI（内田哲也）", /*lyricist*/"marhy", /*sound_offset*/57508, /*sound_length*/20937, /*name_sort*/137);
 INSERT INTO `music_data` VALUES (/*id*/1902, /*name*/"BEYOND \nTHE STARLIGHT", /*bpm*/175, /*composer*/"石濱翔（MONACA）", /*lyricist*/"八城雄太", /*sound_offset*/69811, /*sound_length*/31000, /*name_sort*/139);
 INSERT INTO `music_data` VALUES (/*id*/1911, /*name*/"こいかぜ", /*bpm*/1, /*composer*/"", /*lyricist*/"", /*sound_offset*/0, /*sound_length*/26181, /*name_sort*/1911);
