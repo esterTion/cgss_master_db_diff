@@ -204,6 +204,8 @@ INSERT INTO `atapon_story_detail` VALUES (/*id*/2989, /*event_id*/1023, /*type*/
 INSERT INTO `atapon_story_detail` VALUES (/*id*/2990, /*event_id*/1023, /*type*/0, /*open_event_point*/7000, /*next_detail_id*/2991);
 INSERT INTO `atapon_story_detail` VALUES (/*id*/2991, /*event_id*/1023, /*type*/0, /*open_event_point*/10000, /*next_detail_id*/2992);
 INSERT INTO `atapon_story_detail` VALUES (/*id*/2992, /*event_id*/1023, /*type*/2, /*open_event_point*/0, /*next_detail_id*/0);
+INSERT INTO `atapon_story_detail` VALUES (/*id*/2993, /*event_id*/1023, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
+INSERT INTO `atapon_story_detail` VALUES (/*id*/2994, /*event_id*/1023, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
 INSERT INTO `atapon_story_detail` VALUES (/*id*/3021, /*event_id*/1024, /*type*/1, /*open_event_point*/0, /*next_detail_id*/3022);
 INSERT INTO `atapon_story_detail` VALUES (/*id*/3022, /*event_id*/1024, /*type*/0, /*open_event_point*/500, /*next_detail_id*/3023);
 INSERT INTO `atapon_story_detail` VALUES (/*id*/3023, /*event_id*/1024, /*type*/0, /*open_event_point*/1000, /*next_detail_id*/3024);

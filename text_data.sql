@@ -543,6 +543,12 @@ INSERT INTO `text_data` VALUES (/*category*/16, /*index*/111, /*text*/"えへへ
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/112, /*text*/"行きましょう !\nなんなら\n今からでもっ !");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/113, /*text*/"ショーコ、今日は\nキノコって言っとか\nなくていいのか？");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/114, /*text*/"え？じゃあせっかく\nなので…オホン…\nキノコォーッ !…フヒ");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/115, /*text*/"アーニャ、記念日って\nロシア語で\n何て言うんだ？");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/116, /*text*/"ガダフシーナ、\nですね。いっしょに\n言ってみましょう♪");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/117, /*text*/"雫ちゃんの実家、\nどんどん有名に\nなってますねっ");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/118, /*text*/"うふふー、全部\nみなさんの\nおかげですー♪");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/119, /*text*/"次に花嫁衣裳を\n着るのは、いつに\nなるかなぁ…");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/120, /*text*/"お仕事なのか、\nそれとも…ドキドキ\nしちゃいますっ");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/1, /*text*/"公演設定");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/2, /*text*/"公演情報");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/3, /*text*/"LIVE曲数");

@@ -6,3 +6,6 @@ INSERT INTO `sp_login_bonus_before` VALUES (/*id*/4, /*count*/4, /*chara_max*/15
 INSERT INTO `sp_login_bonus_before` VALUES (/*id*/5, /*count*/5, /*chara_max*/15, /*reward_type*/4, /*reward_id*/0, /*reward_num*/50);
 INSERT INTO `sp_login_bonus_before` VALUES (/*id*/6, /*count*/6, /*chara_max*/14, /*reward_type*/4, /*reward_id*/0, /*reward_num*/50);
 INSERT INTO `sp_login_bonus_before` VALUES (/*id*/7, /*count*/7, /*chara_max*/13, /*reward_type*/4, /*reward_id*/0, /*reward_num*/50);
+INSERT INTO `sp_login_bonus_before` VALUES (/*id*/8, /*count*/8, /*chara_max*/14, /*reward_type*/4, /*reward_id*/0, /*reward_num*/50);
+INSERT INTO `sp_login_bonus_before` VALUES (/*id*/9, /*count*/9, /*chara_max*/14, /*reward_type*/4, /*reward_id*/0, /*reward_num*/50);
+INSERT INTO `sp_login_bonus_before` VALUES (/*id*/10, /*count*/10, /*chara_max*/12, /*reward_type*/4, /*reward_id*/0, /*reward_num*/50);

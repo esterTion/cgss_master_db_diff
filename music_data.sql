@@ -133,6 +133,7 @@ INSERT INTO `music_data` VALUES (/*id*/5009, /*name*/"LET'S GO HAPPY!!", /*bpm*/
 INSERT INTO `music_data` VALUES (/*id*/5010, /*name*/"Shine!!", /*bpm*/174, /*composer*/"滝澤俊輔（TRYTONELABO）", /*lyricist*/"森由里子", /*sound_offset*/64645, /*sound_length*/24133, /*name_sort*/54);
 INSERT INTO `music_data` VALUES (/*id*/5011, /*name*/"夢色ハーモニー", /*bpm*/178, /*composer*/"BNSI（内田哲也）", /*lyricist*/"遠藤フビト", /*sound_offset*/61665, /*sound_length*/25000, /*name_sort*/122);
 INSERT INTO `music_data` VALUES (/*id*/5015, /*name*/"Rockin' Emotion", /*bpm*/177, /*composer*/"小野貴光", /*lyricist*/"磯谷佳江", /*sound_offset*/61564, /*sound_length*/32000, /*name_sort*/130);
+INSERT INTO `music_data` VALUES (/*id*/5017, /*name*/"Wonder goes on!!", /*bpm*/178, /*composer*/"小野貴光", /*lyricist*/"磯谷佳江", /*sound_offset*/61242, /*sound_length*/26500, /*name_sort*/133);
 INSERT INTO `music_data` VALUES (/*id*/5018, /*name*/"この空の下", /*bpm*/150, /*composer*/"Funta7", /*lyricist*/"Funta3", /*sound_offset*/60593, /*sound_length*/32000, /*name_sort*/49);
 INSERT INTO `music_data` VALUES (/*id*/5021, /*name*/"Trancing Pulse", /*bpm*/143, /*composer*/"上松範康（Elements Garden）", /*lyricist*/"AJURIKA", /*sound_offset*/76089, /*sound_length*/28000, /*name_sort*/85);
 INSERT INTO `music_data` VALUES (/*id*/5024, /*name*/"流れ星キセキ", /*bpm*/174, /*composer*/"渡部チェル", /*lyricist*/"小金井つくも", /*sound_offset*/52397, /*sound_length*/27000, /*name_sort*/88);

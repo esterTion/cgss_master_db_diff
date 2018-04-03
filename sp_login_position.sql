@@ -13,3 +13,9 @@ INSERT INTO `sp_login_position` VALUES (/*day_count*/6, /*chara_index*/1, /*fram
 INSERT INTO `sp_login_position` VALUES (/*day_count*/6, /*chara_index*/2, /*frame_type*/5, /*frame_position_x*/0, /*frame_position_y*/0, /*text_data*/"行きましょう !\nなんなら\n今からでもっ !");
 INSERT INTO `sp_login_position` VALUES (/*day_count*/7, /*chara_index*/1, /*frame_type*/3, /*frame_position_x*/0, /*frame_position_y*/-20, /*text_data*/"ショーコ、今日は\nキノコって言っとか\nなくていいのか？");
 INSERT INTO `sp_login_position` VALUES (/*day_count*/7, /*chara_index*/2, /*frame_type*/5, /*frame_position_x*/0, /*frame_position_y*/-20, /*text_data*/"え？じゃあせっかく\nなので…オホン…\nキノコォーッ !…フヒ");
+INSERT INTO `sp_login_position` VALUES (/*day_count*/8, /*chara_index*/1, /*frame_type*/4, /*frame_position_x*/0, /*frame_position_y*/0, /*text_data*/"アーニャ、記念日って\nロシア語で\n何て言うんだ？");
+INSERT INTO `sp_login_position` VALUES (/*day_count*/8, /*chara_index*/2, /*frame_type*/4, /*frame_position_x*/0, /*frame_position_y*/0, /*text_data*/"ガダフシーナ、\nですね。いっしょに\n言ってみましょう♪");
+INSERT INTO `sp_login_position` VALUES (/*day_count*/9, /*chara_index*/1, /*frame_type*/5, /*frame_position_x*/0, /*frame_position_y*/0, /*text_data*/"雫ちゃんの実家、\nどんどん有名に\nなってますねっ");
+INSERT INTO `sp_login_position` VALUES (/*day_count*/9, /*chara_index*/2, /*frame_type*/5, /*frame_position_x*/0, /*frame_position_y*/0, /*text_data*/"うふふー、全部\nみなさんの\nおかげですー♪");
+INSERT INTO `sp_login_position` VALUES (/*day_count*/10, /*chara_index*/1, /*frame_type*/3, /*frame_position_x*/0, /*frame_position_y*/0, /*text_data*/"次に花嫁衣裳を\n着るのは、いつに\nなるかなぁ…");
+INSERT INTO `sp_login_position` VALUES (/*day_count*/10, /*chara_index*/2, /*frame_type*/3, /*frame_position_x*/0, /*frame_position_y*/0, /*text_data*/"お仕事なのか、\nそれとも…ドキドキ\nしちゃいますっ");
