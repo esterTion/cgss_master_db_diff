@@ -283,3 +283,4 @@ INSERT INTO `story_category` VALUES (/*id*/309, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/310, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Twin☆くるっ★テール", /*sub_title*/"Twin☆くるっ★テール", /*disp_order*/45);
 INSERT INTO `story_category` VALUES (/*id*/311, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"キミのそばでずっと", /*sub_title*/"キミのそばでずっと", /*disp_order*/46);
 INSERT INTO `story_category` VALUES (/*id*/312, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Halloween♥Code", /*sub_title*/"Halloween♥Code", /*disp_order*/47);
+INSERT INTO `story_category` VALUES (/*id*/313, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"秋風に手を振って", /*sub_title*/"秋風に手を振って", /*disp_order*/48);

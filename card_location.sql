@@ -425,3 +425,6 @@ INSERT INTO `card_location` VALUES (/*index*/426, /*text*/"月夜の草原");
 INSERT INTO `card_location` VALUES (/*index*/427, /*text*/"時代村・茶屋");
 INSERT INTO `card_location` VALUES (/*index*/428, /*text*/"庭園");
 INSERT INTO `card_location` VALUES (/*index*/429, /*text*/"VRアトラクション施設");
+INSERT INTO `card_location` VALUES (/*index*/430, /*text*/"ロシア・百貨店");
+INSERT INTO `card_location` VALUES (/*index*/431, /*text*/"ロシア・ムルマンスク");
+INSERT INTO `card_location` VALUES (/*index*/432, /*text*/"秋のハウススタジオ");

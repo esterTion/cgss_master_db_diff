@@ -316,6 +316,7 @@ INSERT INTO `text_data` VALUES (/*category*/9, /*index*/78, /*text*/"リハー�
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/79, /*text*/"リハーサルチケットの代わりに{0}マニー使用してリハーサルLIVEを開始します。");
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/80, /*text*/"[E13939]{0}[-]");
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/81, /*text*/"所持マニーが不足しています。");
+INSERT INTO `text_data` VALUES (/*category*/9, /*index*/82, /*text*/"MASTER+のセットリストで獲得できるイベントptはMASTERと同じです");
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/1, /*text*/"メンバー確認");
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/2, /*text*/"このユニットでLIVEを開催します");
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/3, /*text*/"準備完了");
