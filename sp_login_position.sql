@@ -1,0 +1,2 @@
+CREATE TABLE 'sp_login_position' ('day_count' INTEGER NOT NULL, 'chara_index' INTEGER NOT NULL, 'frame_type' INTEGER NOT NULL, 'frame_position_x' INTEGER NOT NULL, 'frame_position_y' INTEGER NOT NULL, 'text_data' TEXT NOT NULL, PRIMARY KEY('day_count','chara_index'))
+INSERT INTO `sp_login_position` VALUES (/*day_count*/1, /*chara_index*/1, /*frame_type*/3, /*frame_position_x*/0, /*frame_position_y*/0, /*text_data*/"　\n　");

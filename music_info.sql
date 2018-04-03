@@ -29,6 +29,8 @@ INSERT INTO `music_info` VALUES (/*id*/1027, /*discription*/"市原仁奈（CV�
 INSERT INTO `music_info` VALUES (/*id*/1028, /*discription*/"中野有香（CV：下地紫野）\n一ノ瀬志希（CV：藍原ことみ）\n五十嵐響子（CV：種﨑敦美）\n櫻井桃華（CV：照井春佳）\n宮本フレデリカ（CV：高野麻美）\n塩見周子（CV：ルゥ ティン）\n橘ありす（CV：佐藤亜美菜）\n鷺沢文香（CV：M・A・O）\n速水奏（CV：飯田友子）\n二宮飛鳥（CV：青木志貴）\n市原仁奈（CV：久野美咲）\n大槻唯（CV：山下七海）\n片桐早苗（CV：和氣あず未）\n姫川友紀（CV：杜野まこ）\n相葉夕美（CV：木村珠莉）\n\n\n作詞・作曲・編曲：AJURIKA");
 INSERT INTO `music_info` VALUES (/*id*/1029, /*discription*/"城ヶ崎美嘉（CV：佳村はるか）\n神崎蘭子（CV：内田真礼）\n前川みく（CV：高森奈津美）\n二宮飛鳥（CV：青木志貴）\n一ノ瀬志希（CV：藍原ことみ）\n\n\n作詞：森由里子\n作曲・編曲：田中秀和（MONACA）・\n滝澤俊輔（TRYTONELABO）");
 INSERT INTO `music_info` VALUES (/*id*/1030, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n城ヶ崎美嘉（CV：佳村はるか）\n多田李衣菜（CV：青木瑠璃子）\n\n\n作詞：デレパジ（福原綾香、大橋彩香、\n佳村はるか、原紗友里、青木瑠璃子）\n作曲・編曲：滝澤俊輔（TRYTONELABO）");
+INSERT INTO `music_info` VALUES (/*id*/1031, /*discription*/"前川みく（CV：高森奈津美）\n依田芳乃（CV：高田憂希）\n森久保乃々（CV：高橋花林）\n佐藤心（CV：花守ゆみり）\n三船美優（CV：原田彩楓）\n\n\n作詞：渡部紫緒\n作曲・編曲：坂部剛");
+INSERT INTO `music_info` VALUES (/*id*/1032, /*discription*/"THE IDOLM@STER CINDERELLA GIRLS!!\n\n高垣楓（CV：早見沙織）\n三船美優（CV：原田彩楓）\n森久保乃々（CV：高橋花林）\n島村卯月（CV：大橋彩香）\n安部菜々（CV：三宅麻理恵）\n前川みく（CV：高森奈津美）\n依田芳乃（CV：高田憂希）\n本田未央（CV：原紗友里）\n佐藤心（CV：花守ゆみり）\n\n\n作詞：渡部紫緒\n作曲・編曲：坂部剛");
 INSERT INTO `music_info` VALUES (/*id*/1901, /*discription*/"千川ちひろ（CV：佐藤利奈）\n\n\n作詞：marhy\n作曲・編曲：BNSI（内田哲也）\nギター：後藤貴徳\nバイオリン：越川歩\nトランペット：鈴木正則\nコーラス：marhy");
 INSERT INTO `music_info` VALUES (/*id*/1902, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n\n\n作詞：八城雄太\n作曲・編曲：石濱翔（MONACA）");
 INSERT INTO `music_info` VALUES (/*id*/1911, /*discription*/"？");

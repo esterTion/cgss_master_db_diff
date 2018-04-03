@@ -235,7 +235,7 @@ INSERT INTO `tips` VALUES (/*id*/233, /*tips_type*/1, /*value*/219, /*index*/2, 
 INSERT INTO `tips` VALUES (/*id*/234, /*tips_type*/1, /*value*/262, /*index*/2, /*title*/"依田芳乃のウワサ②", /*comment*/"お年寄りのファンに会うと\n拝まれるらしい。");
 INSERT INTO `tips` VALUES (/*id*/235, /*tips_type*/1, /*value*/128, /*index*/2, /*title*/"赤西瑛梨華のウワサ②", /*comment*/"通っている女子高の文化祭で\n一発ギャグを披露したら\n一発で人気者になったらしい。");
 INSERT INTO `tips` VALUES (/*id*/236, /*tips_type*/1, /*value*/216, /*index*/2, /*title*/"氏家むつみのウワサ②", /*comment*/"食べ物で冒険するのは\nおすすめできないらしい。");
-INSERT INTO `tips` VALUES (/*id*/237, /*tips_type*/1, /*value*/222, /*index*/2, /*title*/"岡崎泰葉のウワサ②", /*comment*/"人前で読むのは古典文学だが、\n子供向けの絵本を集めているらしい。");
+INSERT INTO `tips` VALUES (/*id*/237, /*tips_type*/1, /*value*/222, /*index*/2, /*title*/"岡崎泰葉のウワサ②", /*comment*/"人前で読むのは古典文学だが、\n子供向けの絵本を集めている\nらしい。");
 INSERT INTO `tips` VALUES (/*id*/238, /*tips_type*/1, /*value*/237, /*index*/2, /*title*/"龍崎薫のウワサ②", /*comment*/"共演者全員と友達になるのが\nいつもの目標らしい。");
 INSERT INTO `tips` VALUES (/*id*/239, /*tips_type*/1, /*value*/285, /*index*/2, /*title*/"杉坂海のウワサ②", /*comment*/"アネキと呼ばれるのはOKだが\nアネゴと呼ばれるのはNGらしい。");
 INSERT INTO `tips` VALUES (/*id*/240, /*tips_type*/1, /*value*/274, /*index*/2, /*title*/"相馬夏美のウワサ②", /*comment*/"20kgくらい軽く落とせるわ\nが持論らしい。");
