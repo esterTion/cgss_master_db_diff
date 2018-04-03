@@ -11,6 +11,7 @@ INSERT INTO `music_info` VALUES (/*id*/1009, /*discription*/"双葉杏（CV：�
 INSERT INTO `music_info` VALUES (/*id*/1010, /*discription*/"渋谷凛（CV：福原綾香）\n高垣楓（CV：早見沙織）\n神崎蘭子（CV：内田真礼）\n多田李衣菜（CV：青木瑠璃子）\n新田美波（CV：洲崎綾）\n\n\n作詞・作曲・編曲：遠山明孝");
 INSERT INTO `music_info` VALUES (/*id*/1011, /*discription*/"城ヶ崎莉嘉（CV：山本希望）\n諸星きらり（CV：松嵜麗）\n城ヶ崎美嘉（CV：佳村はるか）\n本田未央（CV：原紗友里）\n赤城みりあ（CV：黒沢ともよ）\n\n\n作詞：Funta3\n作曲・編曲：Funta7");
 INSERT INTO `music_info` VALUES (/*id*/1012, /*discription*/"川島瑞樹（CV：東山奈央）\n白坂小梅（CV：桜咲千依）\nアナスタシア（CV：上坂すみれ）\n神谷奈緒（CV：松井恵理子）\n北条加蓮（CV：渕上舞）\n\n\n作詞：森由里子\n作曲・編曲：高橋浩平");
+INSERT INTO `music_info` VALUES (/*id*/1013, /*discription*/"十時愛梨（CV：原田ひとみ）\n日野茜（CV：赤崎千夏）\n高森藍子（CV：金子有希）\n星輝子（CV：松田颯水）\n堀裕子（CV：鈴木絵理）\n\n\n作詞：坂井⻯⼆\n作曲・編曲：山崎真吾");
 INSERT INTO `music_info` VALUES (/*id*/1014, /*discription*/"三村かな子（CV：大坪由佳）\n輿水幸子（CV：竹達彩奈）\n佐久間まゆ（CV：牧野由依）\n緒方智絵里（CV：大空直美）\n小早川紗枝（CV：立花理香）\n\n\n作詞：marhy\n作曲・編曲：BNSI（内田哲也）");
 INSERT INTO `music_info` VALUES (/*id*/1015, /*discription*/"三村かな子（CV：大坪由佳）\n輿水幸子（CV：竹達彩奈）\n佐久間まゆ（CV：牧野由依）\n緒方智絵里（CV：大空直美）\n小早川紗枝（CV：立花理香）\n\n\n作詞：森由⾥⼦\n作曲：小野貴光\n編曲：玉木千尋");
 INSERT INTO `music_info` VALUES (/*id*/1016, /*discription*/"川島瑞樹（CV：東山奈央）\n白坂小梅（CV：桜咲千依）\nアナスタシア（CV：上坂すみれ）\n神谷奈緒（CV：松井恵理子）\n北条加蓮（CV：渕上舞）\n\n\n作詞：森由⾥⼦\n作曲：小野貴光\n編曲：玉木千尋");

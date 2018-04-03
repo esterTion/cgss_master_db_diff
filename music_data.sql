@@ -11,6 +11,7 @@ INSERT INTO `music_data` VALUES (/*id*/1009, /*name*/"アタシポンコツ\nア
 INSERT INTO `music_data` VALUES (/*id*/1010, /*name*/"Nation Blue", /*bpm*/157, /*composer*/"遠山明孝", /*lyricist*/"遠山明孝", /*sound_offset*/80190, /*sound_length*/25000);
 INSERT INTO `music_data` VALUES (/*id*/1011, /*name*/"Orange Sapphire", /*bpm*/162, /*composer*/"Funta7", /*lyricist*/"Funta3", /*sound_offset*/81413, /*sound_length*/27000);
 INSERT INTO `music_data` VALUES (/*id*/1012, /*name*/"オルゴールの小箱", /*bpm*/186, /*composer*/"高橋浩平", /*lyricist*/"森由里子", /*sound_offset*/74731, /*sound_length*/29000);
+INSERT INTO `music_data` VALUES (/*id*/1013, /*name*/"絶対特権\n主張しますっ !", /*bpm*/200, /*composer*/"山崎真吾", /*lyricist*/"坂井⻯⼆", /*sound_offset*/46487, /*sound_length*/25000);
 INSERT INTO `music_data` VALUES (/*id*/1014, /*name*/"パステルピンクな恋", /*bpm*/175, /*composer*/"BNSI（内田哲也）", /*lyricist*/"marhy", /*sound_offset*/61676, /*sound_length*/16000);
 INSERT INTO `music_data` VALUES (/*id*/1015, /*name*/"ゴキゲンParty Night", /*bpm*/175, /*composer*/"小野貴光", /*lyricist*/"森由⾥⼦", /*sound_offset*/63768, /*sound_length*/26000);
 INSERT INTO `music_data` VALUES (/*id*/1016, /*name*/"ゴキゲンParty Night", /*bpm*/175, /*composer*/"小野貴光", /*lyricist*/"森由⾥⼦", /*sound_offset*/63768, /*sound_length*/26000);

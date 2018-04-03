@@ -142,3 +142,4 @@ INSERT INTO `story_category` VALUES (/*id*/230, /*type*/1, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/231, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"オルゴールの小箱", /*sub_title*/"オルゴールの小箱", /*disp_order*/8);
 INSERT INTO `story_category` VALUES (/*id*/232, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第23話", /*sub_title*/"Because You are You", /*disp_order*/224);
 INSERT INTO `story_category` VALUES (/*id*/233, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第24話", /*sub_title*/"coming soon", /*disp_order*/225);
+INSERT INTO `story_category` VALUES (/*id*/254, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"絶対特権主張しますっ ! ", /*sub_title*/"絶対特権主張しますっ ! ", /*disp_order*/246);
