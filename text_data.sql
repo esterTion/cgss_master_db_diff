@@ -533,6 +533,16 @@ INSERT INTO `text_data` VALUES (/*category*/16, /*index*/101, /*text*/"私はP.C
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/102, /*text*/"3人で教室で\n踊っていたよね。\n可愛いMVだったよ");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/103, /*text*/"Jet to the \nAnniversary ! !");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/104, /*text*/"準備はOK？\nプロデューサーさん !");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/105, /*text*/"美嘉チャンって、\nはじめてのステージは\n憶えてる？");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/106, /*text*/"あったりまえじゃん★\n大切な思い出は\n忘れないよ");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/107, /*text*/"なんかさ、アンカケ\n食べたくなって\nこない～？");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/108, /*text*/"ん？\nアンキモじゃないの？\n杏ちゃん !");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/109, /*text*/"乃々ちゃん、\nクッキー食べる？\nはい、どうぞ♪");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/110, /*text*/"有無を言わさずぅ…\nもぐ…おいしいぃ…♪");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/111, /*text*/"えへへ、また、みんなで\nどこか遊びに\n行きたいねっ");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/112, /*text*/"行きましょう !\nなんなら\n今からでもっ !");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/113, /*text*/"ショーコ、今日は\nキノコって言っとか\nなくていいのか？");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/114, /*text*/"え？じゃあせっかく\nなので…オホン…\nキノコォーッ !…フヒ");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/1, /*text*/"公演設定");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/2, /*text*/"公演情報");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/3, /*text*/"LIVE曲数");
