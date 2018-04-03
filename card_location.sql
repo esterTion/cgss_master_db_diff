@@ -240,3 +240,6 @@ INSERT INTO `card_location` VALUES (/*index*/241, /*text*/"ステージ裏");
 INSERT INTO `card_location` VALUES (/*index*/242, /*text*/"繁華街");
 INSERT INTO `card_location` VALUES (/*index*/243, /*text*/"ファミレス");
 INSERT INTO `card_location` VALUES (/*index*/244, /*text*/"ハロウィンLIVEステージ");
+INSERT INTO `card_location` VALUES (/*index*/245, /*text*/"高台の展望公園");
+INSERT INTO `card_location` VALUES (/*index*/246, /*text*/"忍者屋敷風ステージ");
+INSERT INTO `card_location` VALUES (/*index*/247, /*text*/"旅館");
