@@ -145,7 +145,7 @@ INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0157.unity3d", /*hash*/"8
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0158.unity3d", /*hash*/"99e351286ace45b04cb2802a2d38e8d2", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0159.unity3d", /*hash*/"c45665c805f512fb62730feeda8c39b8", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0159_1009.unity3d", /*hash*/"99d39609fe95c5e6aafadab158cc17e8", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0159_1309.unity3d", /*hash*/"27f076c0289488e6911006e41d48c48d", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0159_1309.unity3d", /*hash*/"c8c16dcd1fca20d5f147d9b31fd50d71", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0160.unity3d", /*hash*/"3be2bb4f4348e1b085a37654a1cd66b5", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0161.unity3d", /*hash*/"4bdcdc47cb1db8b1d290d8edd3a5ff8b", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_head_0162.unity3d", /*hash*/"835829582071bacbe45c97190793c086", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
