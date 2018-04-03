@@ -214,3 +214,4 @@ INSERT INTO `card_location` VALUES (/*index*/215, /*text*/"川辺");
 INSERT INTO `card_location` VALUES (/*index*/216, /*text*/"雨のターミナル駅前");
 INSERT INTO `card_location` VALUES (/*index*/217, /*text*/"川");
 INSERT INTO `card_location` VALUES (/*index*/218, /*text*/"水辺の撮影場所");
+INSERT INTO `card_location` VALUES (/*index*/219, /*text*/"ドイツの街");
