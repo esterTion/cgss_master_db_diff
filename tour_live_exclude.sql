@@ -39,3 +39,4 @@ INSERT INTO `tour_live_exclude` VALUES (/*event_id*/5004, /*live_id*/534);
 INSERT INTO `tour_live_exclude` VALUES (/*event_id*/5004, /*live_id*/535);
 INSERT INTO `tour_live_exclude` VALUES (/*event_id*/5004, /*live_id*/536);
 INSERT INTO `tour_live_exclude` VALUES (/*event_id*/5004, /*live_id*/901);
+INSERT INTO `tour_live_exclude` VALUES (/*event_id*/5004, /*live_id*/902);
