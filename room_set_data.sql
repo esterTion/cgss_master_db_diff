@@ -5,3 +5,4 @@ INSERT INTO `room_set_data` VALUES (/*id*/3, /*name*/"カフェコーデ", /*val
 INSERT INTO `room_set_data` VALUES (/*id*/4, /*name*/"おうちコーデ", /*value*/385000, /*shop_start*/"2017-9-3 15:00:00", /*shop_end*/"", /*flag_new*/0, /*sort*/758004, /*bonus*/"1894,1895");
 INSERT INTO `room_set_data` VALUES (/*id*/5, /*name*/"屋上庭園コーデ", /*value*/395000, /*shop_start*/"2017-9-3 15:00:00", /*shop_end*/"", /*flag_new*/0, /*sort*/758005, /*bonus*/"1896,1897");
 INSERT INTO `room_set_data` VALUES (/*id*/6, /*name*/"宇宙コーデ", /*value*/245000, /*shop_start*/"2017-9-27 15:00:00", /*shop_end*/"", /*flag_new*/1, /*sort*/754001, /*bonus*/"1864,1865");
+INSERT INTO `room_set_data` VALUES (/*id*/7, /*name*/"おばけの館コーデ", /*value*/400000, /*shop_start*/"2017-10-12 15:00:00", /*shop_end*/"2017-10-31 23:59:59", /*flag_new*/1, /*sort*/751001, /*bonus*/"1913,1914");
