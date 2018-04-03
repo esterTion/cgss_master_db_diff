@@ -213,6 +213,13 @@ INSERT INTO `tips` VALUES (/*id*/211, /*tips_type*/1, /*value*/243, /*index*/2, 
 INSERT INTO `tips` VALUES (/*id*/212, /*tips_type*/1, /*value*/263, /*index*/2, /*title*/"相葉夕美のウワサ②", /*comment*/"野菜を育てたこともあるが\n実より花を優先してしまい\nうまく育たなかったらしい。");
 INSERT INTO `tips` VALUES (/*id*/213, /*tips_type*/1, /*value*/101, /*index*/2, /*title*/"島村卯月のウワサ②", /*comment*/"自分をほめられるのは\nシューズに穴が空いたとき\nらしい。");
 INSERT INTO `tips` VALUES (/*id*/214, /*tips_type*/1, /*value*/275, /*index*/2, /*title*/"槙原志保のウワサ②", /*comment*/"飲食店のアンケート用紙は\n必ず書くようにしているらしい。");
+INSERT INTO `tips` VALUES (/*id*/215, /*tips_type*/1, /*value*/294, /*index*/2, /*title*/"土屋亜子のウワサ②", /*comment*/"友達いわく、\n力強いハグが最高に\n元気づけられるらしい。");
+INSERT INTO `tips` VALUES (/*id*/216, /*tips_type*/1, /*value*/148, /*index*/2, /*title*/"日下部若葉のウワサ②", /*comment*/"七夕の短冊には毎年\n『大きくなれますように』\nと書いているらしい。");
+INSERT INTO `tips` VALUES (/*id*/217, /*tips_type*/1, /*value*/241, /*index*/2, /*title*/"沢田麻理菜のウワサ②", /*comment*/"どんなバイト先に行っても\n初日から先輩扱いされてしまうらしい。");
+INSERT INTO `tips` VALUES (/*id*/218, /*tips_type*/1, /*value*/246, /*index*/2, /*title*/"大槻唯のウワサ②", /*comment*/"人からもらったプレゼントは\nすべてとってあるらしい。");
+INSERT INTO `tips` VALUES (/*id*/219, /*tips_type*/1, /*value*/212, /*index*/2, /*title*/"吉岡沙紀のウワサ②", /*comment*/"言葉より、アートの方が\n思いは伝わるものらしい。");
+INSERT INTO `tips` VALUES (/*id*/220, /*tips_type*/1, /*value*/145, /*index*/2, /*title*/"柳清良のウワサ②", /*comment*/"緊張している人を\nリラックスさせるのが得意らしい。");
+INSERT INTO `tips` VALUES (/*id*/221, /*tips_type*/1, /*value*/154, /*index*/2, /*title*/"安部菜々のウワサ②", /*comment*/"徹夜は苦手だが、早起きは得意らしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !");
@@ -457,3 +464,6 @@ INSERT INTO `tips` VALUES (/*id*/40204, /*tips_type*/4, /*value*/198, /*index*/2
 INSERT INTO `tips` VALUES (/*id*/40205, /*tips_type*/4, /*value*/261, /*index*/2, /*title*/"財前時子②　豚の調理法", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40206, /*tips_type*/4, /*value*/161, /*index*/2, /*title*/"白菊ほたる②　ポジティブ？ネガティブ？", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40207, /*tips_type*/4, /*value*/179, /*index*/2, /*title*/"水木聖來②　ストリートも大好き", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40208, /*tips_type*/4, /*value*/291, /*index*/2, /*title*/"難波笑美②　ツッコミ待ち", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40209, /*tips_type*/4, /*value*/171, /*index*/2, /*title*/"高橋礼子②　女豹のきもち", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40210, /*tips_type*/4, /*value*/162, /*index*/2, /*title*/"早坂美玲②　趣味はぬいぐるみ集め", /*comment*/"");

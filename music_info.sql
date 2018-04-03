@@ -110,6 +110,7 @@ INSERT INTO `music_info` VALUES (/*id*/3037, /*discription*/"片桐早苗（CV�
 INSERT INTO `music_info` VALUES (/*id*/3038, /*discription*/"一ノ瀬志希（CV：藍原ことみ）\n\n\n作詞・作曲・編曲：ササキトモコ");
 INSERT INTO `music_info` VALUES (/*id*/3039, /*discription*/"塩見周子（CV：ルゥ ティン）\n\n\n作詞：夕野ヨシミ（IOSYS）\n作曲・編曲：ARM（IOSYS）\nギター：コバヤシユウヤ（IOSYS）\nベース：john=hive\n尺八：狐夢想（COOL&CREATE）");
 INSERT INTO `music_info` VALUES (/*id*/3040, /*discription*/"櫻井桃華（CV：照井春佳）\n\n\n作詞：小金井つくも\n作曲・編曲：渡部チェル\nギター：川瀬智\nオール・インストゥルメンツ＆コーラス\n渡部チェル\nコーラス：くゆり");
+INSERT INTO `music_info` VALUES (/*id*/3041, /*discription*/"大槻唯（CV：山下七海）\n\n\n作詞：BNSI（MC TC）\n作曲・編曲：BNSI（Taku Inoue）\nコーラス：Mitsu（BNSI）、Interior M");
 INSERT INTO `music_info` VALUES (/*id*/3042, /*discription*/"中野有香（CV：下地紫野）\n\n\n作詞：ミズノゲンキ\n作曲・編曲：睦月周平\nギター＆プログラミング：睦月周平\nストリングス：矢野小百合ストリングス");
 INSERT INTO `music_info` VALUES (/*id*/3043, /*discription*/"二宮飛鳥（CV：青木志貴）\n\n\n作詞・作曲・編曲：烏屋茶房\nベース：プロ（ヒゲドライVAN）");
 INSERT INTO `music_info` VALUES (/*id*/3045, /*discription*/"五十嵐響子（CV：種﨑敦美）\n\n\n作詞・作曲：BNSI（柿埜嘉奈子）\n編曲：BNSI（kyo）\nギター：後藤貴徳\nコーラス：美弥（BNSI）");
