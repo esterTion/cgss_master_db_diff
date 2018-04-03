@@ -323,3 +323,4 @@ INSERT INTO `card_location` VALUES (/*index*/324, /*text*/"茶屋");
 INSERT INTO `card_location` VALUES (/*index*/325, /*text*/"桜の咲く夜道");
 INSERT INTO `card_location` VALUES (/*index*/326, /*text*/"神社の参道");
 INSERT INTO `card_location` VALUES (/*index*/327, /*text*/"和風の家屋");
+INSERT INTO `card_location` VALUES (/*index*/328, /*text*/"レコーディングスタジオ");
