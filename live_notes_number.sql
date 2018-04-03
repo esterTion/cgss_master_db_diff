@@ -47,6 +47,7 @@ INSERT INTO `live_notes_number` VALUES (/*live_id*/10, /*difficulty*/1, /*notes_
 INSERT INTO `live_notes_number` VALUES (/*live_id*/10, /*difficulty*/2, /*notes_number*/216);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/10, /*difficulty*/3, /*notes_number*/371);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/10, /*difficulty*/4, /*notes_number*/611);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/10, /*difficulty*/5, /*notes_number*/774);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/11, /*difficulty*/1, /*notes_number*/122);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/11, /*difficulty*/2, /*notes_number*/189);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/11, /*difficulty*/3, /*notes_number*/391);
@@ -119,6 +120,7 @@ INSERT INTO `live_notes_number` VALUES (/*live_id*/29, /*difficulty*/1, /*notes_
 INSERT INTO `live_notes_number` VALUES (/*live_id*/29, /*difficulty*/2, /*notes_number*/145);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/29, /*difficulty*/3, /*notes_number*/310);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/29, /*difficulty*/4, /*notes_number*/481);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/29, /*difficulty*/5, /*notes_number*/658);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/30, /*difficulty*/1, /*notes_number*/127);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/30, /*difficulty*/2, /*notes_number*/215);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/30, /*difficulty*/3, /*notes_number*/376);
@@ -169,6 +171,7 @@ INSERT INTO `live_notes_number` VALUES (/*live_id*/42, /*difficulty*/1, /*notes_
 INSERT INTO `live_notes_number` VALUES (/*live_id*/42, /*difficulty*/2, /*notes_number*/219);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/42, /*difficulty*/3, /*notes_number*/368);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/42, /*difficulty*/4, /*notes_number*/708);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/42, /*difficulty*/5, /*notes_number*/835);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/43, /*difficulty*/1, /*notes_number*/116);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/43, /*difficulty*/2, /*notes_number*/214);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/43, /*difficulty*/3, /*notes_number*/411);
@@ -181,6 +184,7 @@ INSERT INTO `live_notes_number` VALUES (/*live_id*/45, /*difficulty*/1, /*notes_
 INSERT INTO `live_notes_number` VALUES (/*live_id*/45, /*difficulty*/2, /*notes_number*/150);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/45, /*difficulty*/3, /*notes_number*/378);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/45, /*difficulty*/4, /*notes_number*/596);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/45, /*difficulty*/5, /*notes_number*/814);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/46, /*difficulty*/1, /*notes_number*/123);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/46, /*difficulty*/2, /*notes_number*/206);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/46, /*difficulty*/3, /*notes_number*/416);
@@ -309,6 +313,10 @@ INSERT INTO `live_notes_number` VALUES (/*live_id*/78, /*difficulty*/1, /*notes_
 INSERT INTO `live_notes_number` VALUES (/*live_id*/78, /*difficulty*/2, /*notes_number*/147);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/78, /*difficulty*/3, /*notes_number*/276);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/78, /*difficulty*/4, /*notes_number*/403);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/79, /*difficulty*/1, /*notes_number*/116);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/79, /*difficulty*/2, /*notes_number*/223);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/79, /*difficulty*/3, /*notes_number*/412);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/79, /*difficulty*/4, /*notes_number*/695);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/301, /*difficulty*/1, /*notes_number*/109);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/301, /*difficulty*/2, /*notes_number*/166);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/301, /*difficulty*/3, /*notes_number*/325);

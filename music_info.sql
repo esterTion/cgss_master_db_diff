@@ -61,6 +61,7 @@ INSERT INTO `music_info` VALUES (/*id*/3026, /*discription*/"星輝子（CV：�
 INSERT INTO `music_info` VALUES (/*id*/3027, /*discription*/"神谷奈緒（CV：松井恵理子）\n\n\n作詞・作曲・編曲：ESTi\nコーラス：Sanch");
 INSERT INTO `music_info` VALUES (/*id*/3028, /*discription*/"北条加蓮（CV：渕上舞）\n\n\n作詞：いつきおと\n作曲・編曲：泉典孝\nギター：須藤直也\nピアノ：Mari Ishida\nキーボード＆プログラミング：泉典孝\nバイオリン：伊藤友馬、法常奈緒子\nビオラ：舘泉礼一\nチェロ：原口梓");
 INSERT INTO `music_info` VALUES (/*id*/3029, /*discription*/"小早川紗枝（CV：立花理香）\n\n\n作詞：夕野ヨシミ（IOSYS）\n作曲・編曲：ARM（IOSYS）\nギター：ジュクチョー（アドレナ義塾）");
+INSERT INTO `music_info` VALUES (/*id*/3030, /*discription*/"堀裕子（CV：鈴木絵理）\n\n\n作詞・作曲・編曲：日暮裕紀\nギター：芥田貴弘");
 INSERT INTO `music_info` VALUES (/*id*/3031, /*discription*/"鷺沢文香（CV：M・A・O）\n\n\n作詞：marhy\n作曲・編曲：BNSI（kyo）");
 INSERT INTO `music_info` VALUES (/*id*/3032, /*discription*/"姫川友紀（CV：杜野まこ）\n\n\n作詞：Funta3\n作曲・編曲：Funta7\nギター：Funta7\nトランペット：鈴木正則\nトロンボーン：鹿討奏\nテナーサックス：鈴木直樹\nコーラス：仁科薫理");
 INSERT INTO `music_info` VALUES (/*id*/3033, /*discription*/"宮本フレデリカ（CV：高野麻美）\n\n\n作詞：BNSI（Mitsu）\n作曲：BNSI（Yoshi）\n編曲：BNSI（Yoshi）、\n平清⼗郎（TRYTONELABO）\nベース：平清⼗郎（TRYTONELABO）\nコーラス：本橋愛美");

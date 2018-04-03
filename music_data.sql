@@ -61,6 +61,7 @@ INSERT INTO `music_data` VALUES (/*id*/3026, /*name*/"毒茸伝説", /*bpm*/178,
 INSERT INTO `music_data` VALUES (/*id*/3027, /*name*/"2nd SIDE", /*bpm*/133, /*composer*/"ESTi", /*lyricist*/"ESTi", /*sound_offset*/68574, /*sound_length*/32000, /*name_sort*/59);
 INSERT INTO `music_data` VALUES (/*id*/3028, /*name*/"薄荷 -ハッカ-", /*bpm*/71, /*composer*/"泉典孝", /*lyricist*/"いつきおと", /*sound_offset*/67572, /*sound_length*/37000, /*name_sort*/87);
 INSERT INTO `music_data` VALUES (/*id*/3029, /*name*/"花簪 \nHANAKANZASHI", /*bpm*/125, /*composer*/"ARM（IOSYS）", /*lyricist*/"夕野ヨシミ（IOSYS）", /*sound_offset*/57459, /*sound_length*/35000, /*name_sort*/89);
+INSERT INTO `music_data` VALUES (/*id*/3030, /*name*/"ミラクルテレパシー", /*bpm*/173, /*composer*/"日暮裕紀", /*lyricist*/"日暮裕紀", /*sound_offset*/94274, /*sound_length*/36000, /*name_sort*/98);
 INSERT INTO `music_data` VALUES (/*id*/3031, /*name*/"Bright Blue", /*bpm*/105, /*composer*/"BNSI（kyo）", /*lyricist*/"marhy", /*sound_offset*/75411, /*sound_length*/38000, /*name_sort*/92);
 INSERT INTO `music_data` VALUES (/*id*/3032, /*name*/"気持ちいいよね　\n一等賞 !", /*bpm*/183, /*composer*/"Funta7", /*lyricist*/"Funta3", /*sound_offset*/72899, /*sound_length*/27500, /*name_sort*/29);
 INSERT INTO `music_data` VALUES (/*id*/3033, /*name*/"き・ま・ぐ・れ☆\nCafé au lait !", /*bpm*/148, /*composer*/"BNSI（Yoshi）", /*lyricist*/"BNSI（Mitsu）", /*sound_offset*/78599, /*sound_length*/26000, /*name_sort*/26);
