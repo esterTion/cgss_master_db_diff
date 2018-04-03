@@ -832,6 +832,7 @@ INSERT INTO `text_data` VALUES (/*category*/17, /*index*/186, /*text*/"リズム
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/187, /*text*/"リハーサルチケットの代わりに{0}マニー使用してリハーサルLIVEを開始します。");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/188, /*text*/"所持マニーが不足しています。");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/189, /*text*/"MASTER+の楽曲を含める");
+INSERT INTO `text_data` VALUES (/*category*/17, /*index*/190, /*text*/"LIVEオプションは1度の公演で2つ使用することは出来ません\nLIVE開始時にアイテムを消費します");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/1, /*text*/"宝くじ獲得可能期間");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/2, /*text*/"　当選結果発表期間");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/3, /*text*/"ミッション");

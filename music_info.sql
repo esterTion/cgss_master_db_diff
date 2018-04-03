@@ -186,4 +186,5 @@ INSERT INTO `music_info` VALUES (/*id*/9016, /*discription*/"本田未央（CV�
 INSERT INTO `music_info` VALUES (/*id*/9017, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n佐藤心（CV：花守ゆみり）\n三村かな子（CV：大坪由佳）\n\n\n作詞：八城雄太\n作曲：高取ヒデアキ\n編曲：籠島裕昌");
 INSERT INTO `music_info` VALUES (/*id*/9901, /*discription*/"佐々木千枝（CV：今井麻夏）\n龍崎薫（CV：春瀬なつみ）\n櫻井桃華（CV：照井春佳）\n赤城みりあ（CV：黒沢ともよ）\n市原仁奈（CV：久野美咲）\n\n\n作詞・作曲：俊龍\n編曲：Sizuk");
 INSERT INTO `music_info` VALUES (/*id*/9902, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n赤城みりあ（CV：黒沢ともよ）\n安部菜々（CV：三宅麻理恵）\n\n\n作詞・作曲：俊龍\n編曲：Sizuk");
+INSERT INTO `music_info` VALUES (/*id*/9903, /*discription*/"緒方智絵里（CV：大空直美）\n白坂小梅（CV：桜咲千依）\n堀裕子（CV：鈴木絵理）\n双葉杏（CV：五十嵐裕美）\n諸星きらり（CV：松嵜麗）\n\n\n作詞：eNu\n作曲・編曲：設楽哲也");
 INSERT INTO `music_info` VALUES (/*id*/90001, /*discription*/"？");
