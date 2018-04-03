@@ -183,6 +183,8 @@ INSERT INTO `tips` VALUES (/*id*/181, /*tips_type*/1, /*value*/128, /*index*/1, 
 INSERT INTO `tips` VALUES (/*id*/182, /*tips_type*/1, /*value*/140, /*index*/1, /*title*/"丹羽仁美のウワサ", /*comment*/"日本史は\n得意科目ではないらしい。");
 INSERT INTO `tips` VALUES (/*id*/183, /*tips_type*/1, /*value*/193, /*index*/1, /*title*/"ヘレンのウワサ", /*comment*/"世界レベルらしい。");
 INSERT INTO `tips` VALUES (/*id*/184, /*tips_type*/1, /*value*/296, /*index*/1, /*title*/"冴島清美のウワサ", /*comment*/"何事もまずは形から\n入ってみるタイプらしい。");
+INSERT INTO `tips` VALUES (/*id*/185, /*tips_type*/1, /*value*/104, /*index*/2, /*title*/"福山舞のウワサ②", /*comment*/"日直が回ってくるとワクワクするらしい。");
+INSERT INTO `tips` VALUES (/*id*/186, /*tips_type*/1, /*value*/239, /*index*/2, /*title*/"松山久美子のウワサ②", /*comment*/"月に一度、誰にも会わず、\nすっぴんで過ごすらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/30001, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルを育てるには", /*comment*/"アイドルのレベルを上げるには、\nレッスンを行いましょう !");
 INSERT INTO `tips` VALUES (/*id*/30002, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルとの親愛度を上げるには", /*comment*/"LIVEを行うと、\n参加したアイドルの親愛度が上がります !");
@@ -394,3 +396,6 @@ INSERT INTO `tips` VALUES (/*id*/40183, /*tips_type*/4, /*value*/128, /*index*/1
 INSERT INTO `tips` VALUES (/*id*/40184, /*tips_type*/4, /*value*/296, /*index*/1, /*title*/"冴島清美①　事務所の風紀を…", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40185, /*tips_type*/4, /*value*/140, /*index*/1, /*title*/"丹羽仁美①　アタシの憧れは", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40186, /*tips_type*/4, /*value*/193, /*index*/1, /*title*/"ヘレン①　1コマおみくじ？", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40187, /*tips_type*/4, /*value*/133, /*index*/2, /*title*/"西園寺琴歌②　心強い表情", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40188, /*tips_type*/4, /*value*/287, /*index*/2, /*title*/"メアリー・コクラン②　レディーのトーク", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40189, /*tips_type*/4, /*value*/120, /*index*/2, /*title*/"太田優②　あたしにおまかせぇ♪", /*comment*/"");
