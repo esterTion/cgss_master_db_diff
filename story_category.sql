@@ -214,3 +214,4 @@ INSERT INTO `story_category` VALUES (/*id*/265, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/266, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Near to You", /*sub_title*/"Near to You", /*disp_order*/19);
 INSERT INTO `story_category` VALUES (/*id*/267, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"BEYOND THE STARLIGHT", /*sub_title*/"BEYOND THE STARLIGHT", /*disp_order*/20);
 INSERT INTO `story_category` VALUES (/*id*/268, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"4thLIVE連動企画", /*sub_title*/"4thLIVE連動企画", /*disp_order*/3);
+INSERT INTO `story_category` VALUES (/*id*/269, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ラブレター", /*sub_title*/"ラブレター", /*disp_order*/21);
