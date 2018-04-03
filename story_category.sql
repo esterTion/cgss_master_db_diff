@@ -232,7 +232,8 @@ INSERT INTO `story_category` VALUES (/*id*/247, /*type*/1, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/248, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第39話", /*sub_title*/"The Words for LOVE", /*disp_order*/240);
 INSERT INTO `story_category` VALUES (/*id*/249, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第40話", /*sub_title*/"Be honest with yourself", /*disp_order*/241);
 INSERT INTO `story_category` VALUES (/*id*/250, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第41話", /*sub_title*/"Go ! Go ! Super Girl !", /*disp_order*/242);
-INSERT INTO `story_category` VALUES (/*id*/251, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第42話", /*sub_title*/"coming soon", /*disp_order*/243);
+INSERT INTO `story_category` VALUES (/*id*/251, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第42話", /*sub_title*/"Home is where the heart is", /*disp_order*/243);
+INSERT INTO `story_category` VALUES (/*id*/252, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第43話", /*sub_title*/"coming soon", /*disp_order*/244);
 INSERT INTO `story_category` VALUES (/*id*/254, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"絶対特権主張しますっ ! ", /*sub_title*/"絶対特権主張しますっ ! ", /*disp_order*/9);
 INSERT INTO `story_category` VALUES (/*id*/255, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ハイファイ☆デイズ", /*sub_title*/"ハイファイ☆デイズ", /*disp_order*/10);
 INSERT INTO `story_category` VALUES (/*id*/256, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"とある事務員の一日", /*sub_title*/"とある事務員の一日", /*disp_order*/1);
