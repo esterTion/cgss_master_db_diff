@@ -152,3 +152,5 @@ INSERT INTO `card_location` VALUES (/*index*/151, /*text*/"教会");
 INSERT INTO `card_location` VALUES (/*index*/152, /*text*/"日菜子の部屋");
 INSERT INTO `card_location` VALUES (/*index*/153, /*text*/"舞台");
 INSERT INTO `card_location` VALUES (/*index*/154, /*text*/"カラフルステージ");
+INSERT INTO `card_location` VALUES (/*index*/155, /*text*/"公園の遊歩道");
+INSERT INTO `card_location` VALUES (/*index*/159, /*text*/"収録スタジオ");
