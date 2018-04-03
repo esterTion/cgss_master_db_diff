@@ -123,3 +123,4 @@ INSERT INTO `gift_message` VALUES (/*id*/20013, /*discription*/"「2周年記念
 INSERT INTO `gift_message` VALUES (/*id*/20014, /*discription*/"「デレステ2周年記念 ! レッツプレゼントキャンペーン」開催記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20015, /*discription*/"「2周年記念ログインボーナス」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20016, /*discription*/"「Twitterフォロワー数500,000人突破キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20017, /*discription*/"「レッツプレゼントキャンペーン」スタージュエル賞のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
