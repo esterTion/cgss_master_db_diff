@@ -64,6 +64,7 @@ INSERT INTO `story_category` VALUES (/*id*/83, /*type*/2, /*chara_type*/2, /*cha
 INSERT INTO `story_category` VALUES (/*id*/84, /*type*/2, /*chara_type*/2, /*chara_id*/184, /*title*/"藤原肇", /*sub_title*/"", /*disp_order*/84);
 INSERT INTO `story_category` VALUES (/*id*/85, /*type*/2, /*chara_type*/2, /*chara_id*/185, /*title*/"新田美波", /*sub_title*/"", /*disp_order*/85);
 INSERT INTO `story_category` VALUES (/*id*/86, /*type*/2, /*chara_type*/2, /*chara_id*/186, /*title*/"水野翠", /*sub_title*/"", /*disp_order*/86);
+INSERT INTO `story_category` VALUES (/*id*/87, /*type*/2, /*chara_type*/2, /*chara_id*/187, /*title*/"古澤頼子", /*sub_title*/"", /*disp_order*/87);
 INSERT INTO `story_category` VALUES (/*id*/88, /*type*/2, /*chara_type*/2, /*chara_id*/188, /*title*/"橘ありす", /*sub_title*/"", /*disp_order*/88);
 INSERT INTO `story_category` VALUES (/*id*/89, /*type*/2, /*chara_type*/2, /*chara_id*/189, /*title*/"鷺沢文香", /*sub_title*/"", /*disp_order*/89);
 INSERT INTO `story_category` VALUES (/*id*/90, /*type*/2, /*chara_type*/2, /*chara_id*/190, /*title*/"八神マキノ", /*sub_title*/"", /*disp_order*/90);
@@ -194,3 +195,4 @@ INSERT INTO `story_category` VALUES (/*id*/261, /*type*/4, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/262, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"咲いてJewel", /*sub_title*/"咲いてJewel", /*disp_order*/15);
 INSERT INTO `story_category` VALUES (/*id*/263, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Love∞Destiny", /*sub_title*/"Love∞Destiny", /*disp_order*/16);
 INSERT INTO `story_category` VALUES (/*id*/264, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"きみにいっぱい☆", /*sub_title*/"きみにいっぱい☆", /*disp_order*/17);
+INSERT INTO `story_category` VALUES (/*id*/265, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"サマカニ ! !", /*sub_title*/"サマカニ ! !", /*disp_order*/18);

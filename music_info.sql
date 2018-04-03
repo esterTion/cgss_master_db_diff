@@ -75,3 +75,4 @@ INSERT INTO `music_info` VALUES (/*id*/9004, /*discription*/"佐々木千枝（C
 INSERT INTO `music_info` VALUES (/*id*/9005, /*discription*/"新田美波（CV：洲崎綾）\n鷺沢文香（CV：M・A・O）\n橘ありす（CV：佐藤亜美菜）\n高森藍子（CV：金子有希）\n相葉夕美（CV：木村珠莉）\n\n\n作詞：朝倉路\n作曲・編曲：渡部チェル");
 INSERT INTO `music_info` VALUES (/*id*/9006, /*discription*/"向井拓海（CV：原優子）\n藤本里奈（CV：金子真由美）\n松永涼（CV：千菅春香）\n大和亜季（CV：村中知）\n木村夏樹（CV：安野希世乃）\n\n\n作詞：磯谷佳江\n作曲：小野貴光\n編曲：玉木千尋");
 INSERT INTO `music_info` VALUES (/*id*/9007, /*discription*/"佐久間まゆ（CV：牧野由依）\n北条加蓮（CV：渕上舞）\n小日向美穂（CV：津田美波）\n多田李衣菜（CV：青木瑠璃子）\n緒方智絵里（CV：大空直美）\n\n\n作詞：磯谷佳江\n作曲・編曲：BNSI（kyo）");
+INSERT INTO `music_info` VALUES (/*id*/9008, /*discription*/"川島瑞樹（CV：東山奈央）\n日野茜（CV：赤崎千夏）\n堀裕子（CV：鈴木絵理）\n上田鈴帆（CV：春野ななみ）\n難波笑美（CV：伊達朱里紗）\n\n\n作詞：宮崎誠\n作曲・編曲：宮崎誠");

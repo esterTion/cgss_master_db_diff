@@ -205,3 +205,9 @@ INSERT INTO `card_location` VALUES (/*index*/206, /*text*/"スペイン料理店
 INSERT INTO `card_location` VALUES (/*index*/207, /*text*/"友紀の部屋");
 INSERT INTO `card_location` VALUES (/*index*/208, /*text*/"ランニングコース");
 INSERT INTO `card_location` VALUES (/*index*/209, /*text*/"パワースポット");
+INSERT INTO `card_location` VALUES (/*index*/210, /*text*/"夏祭り");
+INSERT INTO `card_location` VALUES (/*index*/211, /*text*/"真夏のビーチ");
+INSERT INTO `card_location` VALUES (/*index*/212, /*text*/"港町近くの浜辺");
+INSERT INTO `card_location` VALUES (/*index*/213, /*text*/"水上ステージ");
+INSERT INTO `card_location` VALUES (/*index*/214, /*text*/"土産屋");
+INSERT INTO `card_location` VALUES (/*index*/215, /*text*/"川辺");
