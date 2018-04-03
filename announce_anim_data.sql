@@ -1,0 +1,1 @@
+CREATE TABLE 'announce_anim_data' ('id' INTEGER NOT NULL, 'asset_name' TEXT NOT NULL, 'prefab_name' TEXT NOT NULL, 'bgm_name' TEXT NOT NULL, 'se_name' TEXT NOT NULL, 'reset_node_list' TEXT NOT NULL, PRIMARY KEY('id'))

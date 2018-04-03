@@ -1,0 +1,2 @@
+CREATE TABLE 'exchange_shop_term' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'description' TEXT NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'))
+INSERT INTO `exchange_shop_term` VALUES (/*id*/82001, /*name*/"イベント限定アイドルスカウト", /*description*/"イベント限定アイドルスカウトチケットを1枚使用することで、過去のイベントに登場したアイドルを1人スカウト出来ます。", /*start_date*/"2017/09/20 15:00:00", /*end_date*/"2030/04/01 14:00:00");

@@ -1,0 +1,22 @@
+CREATE TABLE 'event_access_reward' ('event_id' INTEGER NOT NULL, 'event_type' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_value' INTEGER NOT NULL, 'add_value_1' INTEGER NOT NULL, 'add_value_2' INTEGER NOT NULL, 'add_value_3' INTEGER NOT NULL, PRIMARY KEY('event_id'))
+INSERT INTO `event_access_reward` VALUES (/*event_id*/1004, /*event_type*/1, /*reward_type*/5, /*reward_id*/50004, /*reward_value*/150, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `event_access_reward` VALUES (/*event_id*/1005, /*event_type*/1, /*reward_type*/5, /*reward_id*/50005, /*reward_value*/150, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `event_access_reward` VALUES (/*event_id*/1006, /*event_type*/1, /*reward_type*/5, /*reward_id*/50006, /*reward_value*/150, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `event_access_reward` VALUES (/*event_id*/1007, /*event_type*/1, /*reward_type*/5, /*reward_id*/50007, /*reward_value*/150, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `event_access_reward` VALUES (/*event_id*/2001, /*event_type*/2, /*reward_type*/7, /*reward_id*/252, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `event_access_reward` VALUES (/*event_id*/2002, /*event_type*/2, /*reward_type*/7, /*reward_id*/340, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `event_access_reward` VALUES (/*event_id*/2003, /*event_type*/2, /*reward_type*/7, /*reward_id*/460, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `event_access_reward` VALUES (/*event_id*/2004, /*event_type*/2, /*reward_type*/7, /*reward_id*/540, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `event_access_reward` VALUES (/*event_id*/2005, /*event_type*/2, /*reward_type*/7, /*reward_id*/380, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `event_access_reward` VALUES (/*event_id*/2006, /*event_type*/2, /*reward_type*/7, /*reward_id*/640, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `event_access_reward` VALUES (/*event_id*/2007, /*event_type*/2, /*reward_type*/7, /*reward_id*/700, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `event_access_reward` VALUES (/*event_id*/2008, /*event_type*/2, /*reward_type*/7, /*reward_id*/810, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `event_access_reward` VALUES (/*event_id*/2009, /*event_type*/2, /*reward_type*/7, /*reward_id*/910, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `event_access_reward` VALUES (/*event_id*/2010, /*event_type*/2, /*reward_type*/7, /*reward_id*/1100, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `event_access_reward` VALUES (/*event_id*/2011, /*event_type*/2, /*reward_type*/7, /*reward_id*/1250, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `event_access_reward` VALUES (/*event_id*/2012, /*event_type*/2, /*reward_type*/7, /*reward_id*/1360, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `event_access_reward` VALUES (/*event_id*/2013, /*event_type*/2, /*reward_type*/7, /*reward_id*/1530, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `event_access_reward` VALUES (/*event_id*/2014, /*event_type*/2, /*reward_type*/7, /*reward_id*/1680, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `event_access_reward` VALUES (/*event_id*/2015, /*event_type*/2, /*reward_type*/7, /*reward_id*/1840, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `event_access_reward` VALUES (/*event_id*/2016, /*event_type*/2, /*reward_type*/7, /*reward_id*/2000, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `event_access_reward` VALUES (/*event_id*/2017, /*event_type*/2, /*reward_type*/7, /*reward_id*/1950, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);

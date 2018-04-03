@@ -1,0 +1,26 @@
+CREATE TABLE 'potential_condition_fan' ('id' INTEGER NOT NULL, 'condition_fan' INTEGER NOT NULL, PRIMARY KEY('id'))
+INSERT INTO `potential_condition_fan` VALUES (/*id*/1, /*condition_fan*/10000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/2, /*condition_fan*/30000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/3, /*condition_fan*/50000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/4, /*condition_fan*/100000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/5, /*condition_fan*/150000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/6, /*condition_fan*/200000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/7, /*condition_fan*/250000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/8, /*condition_fan*/300000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/9, /*condition_fan*/400000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/10, /*condition_fan*/500000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/11, /*condition_fan*/600000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/12, /*condition_fan*/700000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/13, /*condition_fan*/800000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/14, /*condition_fan*/900000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/15, /*condition_fan*/1000000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/16, /*condition_fan*/1200000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/17, /*condition_fan*/1400000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/18, /*condition_fan*/1600000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/19, /*condition_fan*/1800000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/20, /*condition_fan*/2000000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/21, /*condition_fan*/2500000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/22, /*condition_fan*/3000000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/23, /*condition_fan*/3500000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/24, /*condition_fan*/4000000);
+INSERT INTO `potential_condition_fan` VALUES (/*id*/25, /*condition_fan*/5000000);

@@ -1,0 +1,1 @@
+CREATE TABLE 'cookie_swap_schedule' ('id' INTEGER NOT NULL, 'campaign_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'bg_id' INTEGER NOT NULL, 'bgm_group_id' INTEGER NOT NULL, 'motion_id' INTEGER NOT NULL, 'disp' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'))

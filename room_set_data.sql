@@ -1,0 +1,9 @@
+CREATE TABLE 'room_set_data' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'value' INTEGER NOT NULL, 'shop_start' TEXT NOT NULL, 'shop_end' TEXT NOT NULL, 'flag_new' INTEGER NOT NULL, 'sort' INTEGER NOT NULL, 'bonus' TEXT NOT NULL, PRIMARY KEY('id'))
+INSERT INTO `room_set_data` VALUES (/*id*/1, /*name*/"2nd Anniversary コーデ", /*value*/510000, /*shop_start*/"2017-9-3 15:00:00", /*shop_end*/"", /*flag_new*/0, /*sort*/758001, /*bonus*/"1781,1782,1783,1784,1785,1786,1787,1788,1789,1790,1791,1792");
+INSERT INTO `room_set_data` VALUES (/*id*/2, /*name*/"和風コーデ", /*value*/370000, /*shop_start*/"2017-9-3 15:00:00", /*shop_end*/"", /*flag_new*/0, /*sort*/758002, /*bonus*/"1890,1891");
+INSERT INTO `room_set_data` VALUES (/*id*/3, /*name*/"カフェコーデ", /*value*/480000, /*shop_start*/"2017-9-3 15:00:00", /*shop_end*/"", /*flag_new*/0, /*sort*/758003, /*bonus*/"1893,1892");
+INSERT INTO `room_set_data` VALUES (/*id*/4, /*name*/"おうちコーデ", /*value*/385000, /*shop_start*/"2017-9-3 15:00:00", /*shop_end*/"", /*flag_new*/0, /*sort*/758004, /*bonus*/"1894,1895");
+INSERT INTO `room_set_data` VALUES (/*id*/5, /*name*/"屋上庭園コーデ", /*value*/395000, /*shop_start*/"2017-9-3 15:00:00", /*shop_end*/"", /*flag_new*/0, /*sort*/758005, /*bonus*/"1896,1897");
+INSERT INTO `room_set_data` VALUES (/*id*/6, /*name*/"宇宙コーデ", /*value*/245000, /*shop_start*/"2017-9-27 15:00:00", /*shop_end*/"", /*flag_new*/0, /*sort*/754001, /*bonus*/"1864,1865");
+INSERT INTO `room_set_data` VALUES (/*id*/7, /*name*/"おばけの館コーデ", /*value*/400000, /*shop_start*/"2017-10-12 15:00:00", /*shop_end*/"2017-10-31 23:59:59", /*flag_new*/0, /*sort*/751001, /*bonus*/"1913,1914");
+INSERT INTO `room_set_data` VALUES (/*id*/8, /*name*/"スポーツジムコーデ", /*value*/275000, /*shop_start*/"2017-11-14 15:00:00", /*shop_end*/"", /*flag_new*/1, /*sort*/744001, /*bonus*/"1972,1973");
