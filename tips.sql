@@ -532,3 +532,4 @@ INSERT INTO `tips` VALUES (/*id*/40231, /*tips_type*/4, /*value*/259, /*index*/2
 INSERT INTO `tips` VALUES (/*id*/40232, /*tips_type*/4, /*value*/201, /*index*/2, /*title*/"北条加蓮②　髪型は変えるけど", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40233, /*tips_type*/4, /*value*/159, /*index*/2, /*title*/"佐久間まゆ②　いろいろ深い", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40234, /*tips_type*/4, /*value*/298, /*index*/2, /*title*/"南条光②　ファンの年齢層", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/50001, /*tips_type*/5, /*value*/1, /*index*/1, /*title*/"縦画面持ち替え説明画像", /*comment*/"");

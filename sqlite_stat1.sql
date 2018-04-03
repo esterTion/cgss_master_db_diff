@@ -173,7 +173,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"potential_growth_condition", /*idx*/"
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"potential_growth_condition", /*idx*/"potential_growth_condition_0_potential_level", /*stat*/"30 3");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"atapon_point_reward", /*idx*/"atapon_point_reward_0_event_id", /*stat*/"51 51");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"live_achievement_reward", /*idx*/"live_achievement_reward_0_type_id", /*stat*/"108 12");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"tips", /*idx*/"", /*stat*/533);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"tips", /*idx*/"", /*stat*/534);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"potential_value_da", /*idx*/"", /*stat*/10);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"potential_value_li", /*idx*/"", /*stat*/10);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"login_bonus_data", /*idx*/"", /*stat*/26);
