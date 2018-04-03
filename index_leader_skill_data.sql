@@ -7,3 +7,5 @@ INSERT INTO `index_leader_skill_data` VALUES (/*id*/5, /*name*/"ライフ\nア�
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/6, /*name*/"特技アップ", /*skill_id*/"21,22,23,44,45,46,67,68,69");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/7, /*name*/"トリコロー\nル", /*skill_id*/"70,71,72,73");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/8, /*name*/"プリンセス", /*skill_id*/"74,75,76");
+INSERT INTO `index_leader_skill_data` VALUES (/*id*/9, /*name*/"チアー", /*skill_id*/"77,78,79");
+INSERT INTO `index_leader_skill_data` VALUES (/*id*/10, /*name*/"フォーチュン\nプレゼント", /*skill_id*/80);
