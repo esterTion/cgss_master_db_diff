@@ -2,6 +2,7 @@ CREATE TABLE sqlite_stat1(tbl,idx,stat)
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"party_point_reward", /*idx*/"party_point_reward_0_event_id", /*stat*/"1 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"medley_point_reward", /*idx*/"medley_point_reward_0_event_id", /*stat*/"56 56");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"medley_point_rank_disp", /*idx*/"", /*stat*/8);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"medley_help_category", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"medley_groove_change", /*idx*/"sqlite_autoindex_medley_groove_change_1", /*stat*/"3 3 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"medley_data", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"atapon_detail", /*idx*/"atapon_detail_0_event_id_1_live_detail_id", /*stat*/"4 4 1");
@@ -76,6 +77,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"story_category", /*idx*/"sqlite_autoi
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"user_level", /*idx*/"", /*stat*/150);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"emblem", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"card_location", /*idx*/"", /*stat*/130);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"medley_help", /*idx*/"sqlite_autoindex_medley_help_1", /*stat*/"20 20 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"atapon_score_rank_disp", /*idx*/"", /*stat*/3);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"daily_mission", /*idx*/"daily_mission_0_daily_mission_id", /*stat*/"4 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"probability_type", /*idx*/"", /*stat*/5);
