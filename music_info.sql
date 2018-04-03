@@ -17,6 +17,7 @@ INSERT INTO `music_info` VALUES (/*id*/1016, /*discription*/"川島瑞樹（CV�
 INSERT INTO `music_info` VALUES (/*id*/1017, /*discription*/"十時愛梨（CV：原田ひとみ）\n日野茜（CV：赤崎千夏）\n高森藍子（CV：金子有希）\n星輝子（CV：松田颯水）\n堀裕子（CV：鈴木絵理）\n\n\n作詞：森由⾥⼦\n作曲：小野貴光\n編曲：玉木千尋");
 INSERT INTO `music_info` VALUES (/*id*/1018, /*discription*/"三村かな子（CV：大坪由佳）\n輿水幸子（CV：竹達彩奈）\n佐久間まゆ（CV：牧野由依）\n緒方智絵里（CV：大空直美）\n小早川紗枝（CV：立花理香）\n川島瑞樹（CV：東山奈央）\n白坂小梅（CV：桜咲千依）\nアナスタシア（CV：上坂すみれ）\n神谷奈緒（CV：松井恵理子）\n北条加蓮（CV：渕上舞）\n十時愛梨（CV：原田ひとみ）\n日野茜（CV：赤崎千夏）\n高森藍子（CV：金子有希）\n星輝子（CV：松田颯水）\n堀裕子（CV：鈴木絵理）\n\n\n作詞：森由⾥⼦\n作曲：小野貴光\n編曲：玉木千尋");
 INSERT INTO `music_info` VALUES (/*id*/1019, /*discription*/"本田未央（CV：原紗友里）\n多田李衣菜（CV：青木瑠璃子）\n渋谷凛（CV：福原綾香）\n安部菜々（CV：三宅麻理恵）\n姫川友紀（CV：杜野まこ）\n\n\n作詞：森由⾥⼦\n作曲：小野貴光\n編曲：玉木千尋");
+INSERT INTO `music_info` VALUES (/*id*/1020, /*discription*/"THE IDOLM@STER CINDERELLA GIRLS!!\n\n塩見周子（CV：ルゥ ティン）\n高垣楓（CV：早見沙織）\n渋谷凛（CV：福原綾香）\n前川みく（CV：高森奈津美）\n一ノ瀬志希（CV：藍原ことみ）\n島村卯月（CV：大橋彩香）\n相葉夕美（CV：木村珠莉）\n城ヶ崎美嘉（CV：佳村はるか）\n向井拓海（CV：原優子）\n\n\n作詞・作曲・編曲：hisakuni");
 INSERT INTO `music_info` VALUES (/*id*/3001, /*discription*/"島村卯月（CV：大橋彩香）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（Yoshi）\nコーラス：Mitsu（BNSI）\nギター：後藤貴徳\nバイオリン：Bloom Quartet & Ensemble");
 INSERT INTO `music_info` VALUES (/*id*/3002, /*discription*/"渋谷凛（CV：福原綾香）\n\n\n作詞・作曲：BNEI（遠山明孝・八城雄太）\n作曲：BNEI（遠山明孝）\n編曲：関淳二郎\nギター・コーラス：関淳二郎");
 INSERT INTO `music_info` VALUES (/*id*/3003, /*discription*/"本田未央（CV：原紗友里）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（kyo）\nギター：後藤貴徳");
@@ -30,7 +31,7 @@ INSERT INTO `music_info` VALUES (/*id*/3010, /*discription*/"前川みく（CV�
 INSERT INTO `music_info` VALUES (/*id*/3011, /*discription*/"新田美波（CV：洲崎綾）\n\n\n作詞：古屋真\n作曲・編曲：BNSI（kyo）\nギター：後藤貴徳\nコーラス：kyo（BNSI）");
 INSERT INTO `music_info` VALUES (/*id*/3012, /*discription*/"赤城みりあ（CV：黒沢ともよ）\n\n\n作詞：BNSI（MC TC）\n作曲・編曲：BNSI（Taku Inoue）\nコーラス：Shoko（BNSI）、Taku Inoue（BNSI）\nかけ声：ナムコサウンドシスターズ（BNSI）");
 INSERT INTO `music_info` VALUES (/*id*/3013, /*discription*/"三村かな子（CV：大坪由佳）\n\n\n作詞：古屋真\n作曲・編曲：BNEI（kyo）\nギター：後藤貴徳");
-INSERT INTO `music_info` VALUES (/*id*/3014, /*discription*/"多田李衣菜（CV：青木瑠璃子）\n\n\n作詩・作曲・編曲：BNSI（渡辺量）\nギター・ベース：後藤貴徳");
+INSERT INTO `music_info` VALUES (/*id*/3014, /*discription*/"多田李衣菜（CV：青木瑠璃子）\n\n\n作詞・作曲・編曲：BNSI（渡辺量）\nギター・ベース：後藤貴徳");
 INSERT INTO `music_info` VALUES (/*id*/3015, /*discription*/"城ヶ崎美嘉（CV：佳村はるか）\n\n\n作詞：marhy\n作曲・編曲：BNSI（内田哲也）");
 INSERT INTO `music_info` VALUES (/*id*/3017, /*discription*/"小日向美穂（CV：津田美波）\n\n\n作詞・作曲・編曲：BNSI（遠山明孝）\nギター：後藤貴徳");
 INSERT INTO `music_info` VALUES (/*id*/3018, /*discription*/"十時愛梨（CV：原田ひとみ）\n\n\n作詞：BNSI（MC TC・おおくぼひろし）\n作曲・編曲：BNSI（おおくぼひろし）\nギター：豊嶋健太郎（バリウスカプセルズ）\nテナーサックス、バリトンサックス、\nトランペット、トロンボーン：Jesahm（BNSI）\nコーラス：Mitsu（BNSI）\nかけ声：ナムコサウンドシスターズ");
@@ -48,6 +49,7 @@ INSERT INTO `music_info` VALUES (/*id*/5008, /*discription*/"＊(Asterisk)\n\n�
 INSERT INTO `music_info` VALUES (/*id*/5009, /*discription*/"凸レーション\n\n城ヶ崎莉嘉（CV：山本希望）\n諸星きらり（CV：松嵜麗）\n赤城みりあ（CV：黒沢ともよ）\n\n\n作詞：夕野ヨシミ（IOSYS）\n作曲・編曲：ARM（IOSYS）");
 INSERT INTO `music_info` VALUES (/*id*/5010, /*discription*/"CINDERELLA PROJECT\n\n島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n双葉杏（CV：五十嵐裕美）\n三村かな子（CV：大坪由佳）\n城ヶ崎莉嘉（CV：山本希望）\n神崎蘭子（CV：内田真礼）\n前川みく（CV：高森奈津美）\n諸星きらり（CV：松嵜麗）\n多田李衣菜（CV：青木瑠璃子）\n赤城みりあ（CV：黒沢ともよ）\n新田美波（CV：洲崎綾）\n緒方智絵里（CV：大空直美）\nアナスタシア（CV：上坂すみれ）\n\n\n作詞：森由里子\n作曲・編曲：滝澤俊輔 （TRYTONELABO）");
 INSERT INTO `music_info` VALUES (/*id*/5011, /*discription*/"CINDERELLA PROJECT\n\n島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n双葉杏（CV：五十嵐裕美）\n三村かな子（CV：大坪由佳）\n城ヶ崎莉嘉（CV：山本希望）\n神崎蘭子（CV：内田真礼）\n前川みく（CV：高森奈津美）\n諸星きらり（CV：松嵜麗）\n多田李衣菜（CV：青木瑠璃子）\n赤城みりあ（CV：黒沢ともよ）\n新田美波（CV：洲崎綾）\n緒方智絵里（CV：大空直美）\nアナスタシア（CV：上坂すみれ）\n\n\n作詞：遠藤フビト\n作曲：BNSI（内田哲也）\n編曲：滝澤俊輔（TRYTONELABO）");
+INSERT INTO `music_info` VALUES (/*id*/5015, /*discription*/"木村夏樹（CV：安野希世乃）\n\n\n作詞：磯谷佳江\n作曲：小野貴光\n編曲：玉木千尋\nギター：IMAJO（PSYCHIC LOVER）");
 INSERT INTO `music_info` VALUES (/*id*/5021, /*discription*/"Triad Primus\n\n渋谷凛（CV：福原綾香）\n神谷奈緒（CV：松井恵理子）\n北条加蓮（CV：渕上舞）\n\n\n作詞：AJURIKA\n作曲：上松範康（Elements Garden）\n編曲：藤永龍太郎（Elements Garden）");
 INSERT INTO `music_info` VALUES (/*id*/5024, /*discription*/"new generations\n\n島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n\n\n作詞：小金井つくも\n作曲・編曲：渡部チェル");
 INSERT INTO `music_info` VALUES (/*id*/5025, /*discription*/"CINDERELLA PROJECT\n\n島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n双葉杏（CV：五十嵐裕美）\n三村かな子（CV：大坪由佳）\n城ヶ崎莉嘉（CV：山本希望）\n神崎蘭子（CV：内田真礼）\n前川みく（CV：高森奈津美）\n諸星きらり（CV：松嵜麗）\n多田李衣菜（CV：青木瑠璃子）\n赤城みりあ（CV：黒沢ともよ）\n新田美波（CV：洲崎綾）\n緒方智絵里（CV：大空直美）\nアナスタシア（CV：上坂すみれ）\n\n\n作詞：森由里子\n作曲・編曲：田中秀和（MONACA）");
