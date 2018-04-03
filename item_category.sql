@@ -5,3 +5,4 @@ INSERT INTO `item_category` VALUES (/*category_type*/3, /*category_name*/"ガシ
 INSERT INTO `item_category` VALUES (/*category_type*/4, /*category_name*/"トレーナー");
 INSERT INTO `item_category` VALUES (/*category_type*/5, /*category_name*/"イベントアイテム");
 INSERT INTO `item_category` VALUES (/*category_type*/6, /*category_name*/"リハーサルチケット");
+INSERT INTO `item_category` VALUES (/*category_type*/7, /*category_name*/"ギフトアイテム");

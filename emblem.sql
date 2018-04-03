@@ -1,0 +1,2 @@
+CREATE TABLE 'emblem' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'discription' TEXT NOT NULL, 'info_disp' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, 'category' INTEGER NOT NULL, 'small_text' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'))
+INSERT INTO `emblem` VALUES (/*id*/1000001, /*name*/"プロダクション所属", /*discription*/"「プロダクション所属」の入手方法テキスト", /*info_disp*/1, /*disp_order*/1, /*category*/1, /*small_text*/0, /*start_date*/"2015-01-01 15:00:00", /*end_date*/"2029-04-01 15:00:00");

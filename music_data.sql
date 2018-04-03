@@ -36,6 +36,7 @@ INSERT INTO `music_data` VALUES (/*id*/3017, /*name*/"Naked Romance", /*bpm*/168
 INSERT INTO `music_data` VALUES (/*id*/3018, /*name*/"アップルパイ・\nプリンセス", /*bpm*/178, /*composer*/"BNSI（おおくぼひろし）", /*lyricist*/"BNSI（MC TC・おおくぼひろし）", /*sound_offset*/52636, /*sound_length*/22000);
 INSERT INTO `music_data` VALUES (/*id*/3019, /*name*/"Angel Breeze", /*bpm*/150, /*composer*/"百引一", /*lyricist*/"高瀬愛虹", /*sound_offset*/57539, /*sound_length*/27000);
 INSERT INTO `music_data` VALUES (/*id*/3023, /*name*/"エヴリデイドリーム", /*bpm*/157, /*composer*/"滝澤俊輔（TRYTONELABO）", /*lyricist*/"BNEI（八城雄太）", /*sound_offset*/66086, /*sound_length*/30000);
+INSERT INTO `music_data` VALUES (/*id*/3031, /*name*/"Bright Blue", /*bpm*/105, /*composer*/"BNSI（kyo）", /*lyricist*/"marhy", /*sound_offset*/75411, /*sound_length*/38000);
 INSERT INTO `music_data` VALUES (/*id*/5001, /*name*/"Star!!", /*bpm*/178, /*composer*/"田中秀和（MONACA）", /*lyricist*/"森由里子", /*sound_offset*/63785, /*sound_length*/24412);
 INSERT INTO `music_data` VALUES (/*id*/5002, /*name*/"夕映えプレゼント", /*bpm*/175, /*composer*/"BNSI（Yoshi）", /*lyricist*/"遠藤フビト", /*sound_offset*/52767, /*sound_length*/27386);
 INSERT INTO `music_data` VALUES (/*id*/5003, /*name*/"GOIN'!!!", /*bpm*/178, /*composer*/"宮崎まゆ", /*lyricist*/"森由里子", /*sound_offset*/80700, /*sound_length*/23314);

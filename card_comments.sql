@@ -10584,7 +10584,7 @@ INSERT INTO `card_comments` VALUES (/*id*/100126, /*use_type*/1, /*index*/11, /*
 INSERT INTO `card_comments` VALUES (/*id*/100126, /*use_type*/1, /*index*/12, /*voice_flag*/1, /*discription*/"{0}さん、つかまって。ナナと一緒にウサミンフライ !", /*insert_word_type*/100, /*story_cue_id*/0);
 INSERT INTO `card_comments` VALUES (/*id*/100126, /*use_type*/2, /*index*/1, /*voice_flag*/1, /*discription*/"ウサミン大使、友好を深めにきましたっ", /*insert_word_type*/0, /*story_cue_id*/0);
 INSERT INTO `card_comments` VALUES (/*id*/100126, /*use_type*/2, /*index*/2, /*voice_flag*/1, /*discription*/"地球のアイドル、興味アリマース。なんちゃって♪", /*insert_word_type*/0, /*story_cue_id*/0);
-INSERT INTO `card_comments` VALUES (/*id*/100126, /*use_type*/2, /*index*/3, /*voice_flag*/1, /*discription*/"この家具 ! ウサミン星で在庫ないって言われたやつ !", /*insert_word_type*/0, /*story_cue_id*/0);
+INSERT INTO `card_comments` VALUES (/*id*/100126, /*use_type*/2, /*index*/3, /*voice_flag*/1, /*discription*/"この家具 ! ウサミン星で在庫ないって言われてたやつ !", /*insert_word_type*/0, /*story_cue_id*/0);
 INSERT INTO `card_comments` VALUES (/*id*/100126, /*use_type*/2, /*index*/4, /*voice_flag*/1, /*discription*/"この部屋の守護神みたいなもんですから。ナナは。お局さまじゃないっ", /*insert_word_type*/0, /*story_cue_id*/0);
 INSERT INTO `card_comments` VALUES (/*id*/100126, /*use_type*/2, /*index*/5, /*voice_flag*/1, /*discription*/"{0}さんに呼ばれて、星の海を越えて来ました♪", /*insert_word_type*/100, /*story_cue_id*/0);
 INSERT INTO `card_comments` VALUES (/*id*/100126, /*use_type*/2, /*index*/6, /*voice_flag*/1, /*discription*/"{0}さん、あのー、ウサミン語とか…覚えません？", /*insert_word_type*/100, /*story_cue_id*/0);

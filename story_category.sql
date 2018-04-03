@@ -1,4 +1,4 @@
-CREATE TABLE 'story_category' ('id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'chara_type' INTEGER NOT NULL, 'chara_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'story_category' ('id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'chara_type' INTEGER NOT NULL, 'chara_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('id'), UNIQUE('type','disp_order'))
 INSERT INTO `story_category` VALUES (/*id*/1, /*type*/2, /*chara_type*/1, /*chara_id*/101, /*title*/"島村卯月", /*sub_title*/"", /*disp_order*/1);
 INSERT INTO `story_category` VALUES (/*id*/2, /*type*/2, /*chara_type*/1, /*chara_id*/102, /*title*/"中野有香", /*sub_title*/"", /*disp_order*/2);
 INSERT INTO `story_category` VALUES (/*id*/3, /*type*/2, /*chara_type*/1, /*chara_id*/103, /*title*/"水本ゆかり", /*sub_title*/"", /*disp_order*/3);
@@ -131,5 +131,6 @@ INSERT INTO `story_category` VALUES (/*id*/226, /*type*/1, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/227, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"パステルピンクな恋", /*sub_title*/"パステルピンクな恋", /*disp_order*/6);
 INSERT INTO `story_category` VALUES (/*id*/228, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第21話", /*sub_title*/"With or Without You", /*disp_order*/222);
 INSERT INTO `story_category` VALUES (/*id*/229, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Tulip", /*sub_title*/"Tulip", /*disp_order*/7);
-INSERT INTO `story_category` VALUES (/*id*/230, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第22話", /*sub_title*/"coming soon", /*disp_order*/223);
+INSERT INTO `story_category` VALUES (/*id*/230, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第22話", /*sub_title*/"Out of the Page", /*disp_order*/223);
 INSERT INTO `story_category` VALUES (/*id*/231, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"オルゴールの小箱", /*sub_title*/"オルゴールの小箱", /*disp_order*/8);
+INSERT INTO `story_category` VALUES (/*id*/232, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第23話", /*sub_title*/"coming soon", /*disp_order*/224);

@@ -1,0 +1,1 @@
+CREATE TABLE 'item_give_present' ('item_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'type_effect' INTEGER NOT NULL, 'add_love' INTEGER NOT NULL, 'type_bonus' INTEGER NOT NULL, 'birthday_bonus' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('item_id'))
