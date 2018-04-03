@@ -156,7 +156,7 @@ INSERT INTO `tips` VALUES (/*id*/154, /*tips_type*/1, /*value*/241, /*index*/1, 
 INSERT INTO `tips` VALUES (/*id*/155, /*tips_type*/1, /*value*/203, /*index*/1, /*title*/"瀬名詩織のウワサ", /*comment*/"悩んだときに、\n海を散歩していると、\n海風が背中を押してくれるらしい。");
 INSERT INTO `tips` VALUES (/*id*/156, /*tips_type*/1, /*value*/182, /*index*/1, /*title*/"服部瞳子のウワサ", /*comment*/"一人の夜には\n熱帯魚から\n勇気をもらっているらしい。");
 INSERT INTO `tips` VALUES (/*id*/157, /*tips_type*/1, /*value*/264, /*index*/1, /*title*/"野々村そらのウワサ", /*comment*/"「はっぴー来い来い\nすまいるげーと」らしい。");
-INSERT INTO `tips` VALUES (/*id*/158, /*tips_type*/1, /*value*/137, /*index*/1, /*title*/"涼宮星花のウワサ", /*comment*/"ウィーンに留学中、\n毎晩電話をかけたせいで\n電話代が大変なことになったらしい。");
+INSERT INTO `tips` VALUES (/*id*/158, /*tips_type*/1, /*value*/137, /*index*/1, /*title*/"涼宮星花のウワサ", /*comment*/"ウィーンに留学中、\n毎晩電話をかけたせいで電話代が\n大変なことになったらしい。");
 INSERT INTO `tips` VALUES (/*id*/159, /*tips_type*/1, /*value*/261, /*index*/1, /*title*/"財前時子のウワサ", /*comment*/"大学はお嬢様学校で、\n心理学を専攻しているらしい。");
 INSERT INTO `tips` VALUES (/*id*/160, /*tips_type*/1, /*value*/117, /*index*/1, /*title*/"長富蓮実のウワサ", /*comment*/"白いバルコニーのある家を\n買うのが夢らしい。");
 INSERT INTO `tips` VALUES (/*id*/161, /*tips_type*/1, /*value*/215, /*index*/1, /*title*/"岸部彩華のウワサ", /*comment*/"パパにもらったおこづかいは\nおこづかい帳につけて\nママに渡しているらしい。");
