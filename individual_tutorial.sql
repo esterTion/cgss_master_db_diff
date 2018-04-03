@@ -118,12 +118,13 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。\n楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/3, /*discription*/"本イベントは、専用ユニットでLIVEを行います。ユニットには5つの「ポジション」があります。\n各プロデューサーのアイドルが、ポジションを1つずつ担当し、5人の共通ユニットが編成されます。\n※自分のアイドルがどのポジションを担当するかはランダムで決定されます。\n※楽曲タイプとポジションごとにアイドルを設定できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/4, /*discription*/"各メンバーの状況はLIVE画面の左側のエリアで確認できます。\nまた本イベントでは、ライフが0になった場合も、LIVEは継続となります。\n\n");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/4, /*discription*/"獲得できるptは「メンバー全員の合計スコア」と「LIVEでの貢献度」によって\n変化します。メンバー全員で高スコアを目指しましょう !\n貢献度は、「LIVEに参加した自分のアイドルの能力」と、\n「自分のスコア」によって決定されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/4, /*discription*/"獲得できるptは「メンバー全員の合計スコア」と「LIVEでの貢献度」\nによって変化します。メンバー全員で高スコアを目指しましょう !\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/4, /*discription*/"貢献度は、自身が獲得したスコアのほか、LIVEに出演したアイドルの\n「アピール値の高さ」、「特技」をもとに算出します。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/5, /*discription*/"本イベントのLIVE報酬では、「協力報酬」と「個人報酬」が獲得できます。\n協力報酬は、メンバー全員のスコアの合計が高いほど、\n良い報酬が出現しやすくなります。\n獲得できる協力報酬は全メンバー共通で、必ず全員が獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/5, /*discription*/"個人報酬は、自分の貢献度が高いほど、良い報酬が出現しやすくなります。\n※個人報酬は、一定の確率で1～2個出現します。\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/6, /*discription*/"LIVEの開始前と終了後には、マッチングされたメンバーと\nチャットスタンプでコミュニケーションがとれます。\n使用するスタンプはイベントページ内の「チャット設定」で\n設定できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80401, /*img*/1, /*discription*/"イベント編成では、イベントのLIVEを行うアイドルの設定をします。\n楽曲のタイプごとに1つずつ、合計4つの設定が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80501, /*img*/1, /*discription*/"チャット設定では、LIVE開始前と終了後に使用する\nスタンプの設定が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80501, /*img*/1, /*discription*/"まず「セット中スタンプ」の中から、変更したいスタンプを選択し、\n次にスタンプの一覧から、設定したいスタンプを選択しましょう。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80501, /*img*/2, /*discription*/"スタンプの設定が済んだら、最後に「保存」ボタンを押しましょう。\n※LIVE開始前、終了後の設定を変更した場合、それぞれのページで\n保存を行ってください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80501, /*img*/2, /*discription*/"スタンプの設定が済んだら、最後に「保存」ボタンを押しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80501, /*img*/2, /*discription*/"スタンプの設定を初期状態に戻したい場合は、\n「初期設定」ボタンを押しましょう。\nイベント開始時のおすすめのスタンプ設定が適用されます。");
