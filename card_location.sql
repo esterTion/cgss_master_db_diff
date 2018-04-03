@@ -474,3 +474,5 @@ INSERT INTO `card_location` VALUES (/*index*/475, /*text*/"境内・ステージ
 INSERT INTO `card_location` VALUES (/*index*/476, /*text*/"スノーフェスティバル会場");
 INSERT INTO `card_location` VALUES (/*index*/477, /*text*/"白樺の森");
 INSERT INTO `card_location` VALUES (/*index*/478, /*text*/"北海道・公園");
+INSERT INTO `card_location` VALUES (/*index*/479, /*text*/"ネネの家・リビング");
+INSERT INTO `card_location` VALUES (/*index*/480, /*text*/"陽光の差す庭園");
