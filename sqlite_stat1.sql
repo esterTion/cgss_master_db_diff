@@ -40,13 +40,13 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"medley_music_random_rate", /*idx*/"",
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"panel_mission_comp_reward", /*idx*/"panel_mission_comp_reward_0_campaign_id_1_rap", /*stat*/"3 3 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"panel_mission_comp_reward", /*idx*/"panel_mission_comp_reward_0_campaign_id", /*stat*/"3 3");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gacha_data", /*idx*/"", /*stat*/122);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_detail", /*idx*/"sqlite_autoindex_room_item_detail_1", /*stat*/"582 2 1");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_detail", /*idx*/"sqlite_autoindex_room_item_detail_1", /*stat*/"621 2 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"medley_live_exclude", /*idx*/"sqlite_autoindex_medley_live_exclude_1", /*stat*/"21 21 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_collision", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"event_data", /*idx*/"event_data_0_type", /*stat*/"27 7");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_announcement", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"total_login_bonus", /*idx*/"", /*stat*/31);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_anime", /*idx*/"sqlite_autoindex_room_item_anime_1", /*stat*/"690 6 1");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_anime", /*idx*/"sqlite_autoindex_room_item_anime_1", /*stat*/"722 6 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"atapon_story_detail", /*idx*/"atapon_story_detail_0_event_id_1_type", /*stat*/"88 9 3");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_effect", /*idx*/"", /*stat*/14);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"music_vocalist", /*idx*/"music_vocalist_0_chara_id", /*stat*/"313 7");
