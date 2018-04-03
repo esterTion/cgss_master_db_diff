@@ -34,6 +34,8 @@ INSERT INTO `gift_message` VALUES (/*id*/35, /*discription*/"2ndパネルクリ�
 INSERT INTO `gift_message` VALUES (/*id*/36, /*discription*/"3rdパネル「{0}」で獲得した報酬です。", /*type_1*/14, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/37, /*discription*/"3rdパネルクリアで獲得した報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/38, /*discription*/"ルームアイテムで獲得した報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/39, /*discription*/"「{0}」でスカウトしたアイドルです。", /*type_1*/29, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/40, /*discription*/"「{0}」で獲得した報酬です。", /*type_1*/29, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/41, /*discription*/"エクストラコミュ「{0}」で加入したアイドルです。", /*type_1*/13, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/42, /*discription*/"エクストラコミュ「{0}」で獲得した報酬です。", /*type_1*/13, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1001, /*discription*/"イベント「{0}」{1}イベントpt達成報酬です。", /*type_1*/19, /*type_2*/20, /*type_3*/0, /*type_4*/0);

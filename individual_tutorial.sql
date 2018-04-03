@@ -5,6 +5,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/10001, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/10001, /*img*/2, /*discription*/"さらに、SSレアアイドルは特別な衣装で\n3DLIVEのパフォーマンスを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10001, /*img*/3, /*discription*/"特定のSレア以上のアイドルをユニット編成で\nセンターに設定することで、LIVEの「お願い ! シンデレラ」を\nソロ歌唱で楽しめます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10003, /*img*/1, /*discription*/"ローカルオーディションガシャは友情ptを消費して、\nアイドルやトレーニングチケットを獲得できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/1, /*discription*/"スペシャルガシャセットは期間限定販売です。\n購入すると「スカウトチケット」と「プラチナ10連ガシャ\nチケット」を1枚ずつ獲得できます。\n※有償スタージュエルでのみ購入することができます");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/2, /*discription*/"「スカウトチケット」はレア、Sレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で出現します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20001, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20001, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、\n様々な効果を発揮する物があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20001, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");

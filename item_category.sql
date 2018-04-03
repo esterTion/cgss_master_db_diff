@@ -6,3 +6,4 @@ INSERT INTO `item_category` VALUES (/*category_type*/4, /*category_name*/"トレ
 INSERT INTO `item_category` VALUES (/*category_type*/5, /*category_name*/"イベントアイテム");
 INSERT INTO `item_category` VALUES (/*category_type*/6, /*category_name*/"リハーサルチケット");
 INSERT INTO `item_category` VALUES (/*category_type*/7, /*category_name*/"ギフトアイテム");
+INSERT INTO `item_category` VALUES (/*category_type*/8, /*category_name*/"スカウトチケット");
