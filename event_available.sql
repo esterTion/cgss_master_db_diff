@@ -122,3 +122,5 @@ INSERT INTO `event_available` VALUES (/*event_id*/5004, /*reward_id*/100375, /*r
 INSERT INTO `event_available` VALUES (/*event_id*/5004, /*reward_id*/300369, /*recommend_order*/11);
 INSERT INTO `event_available` VALUES (/*event_id*/4006, /*reward_id*/300373, /*recommend_order*/7);
 INSERT INTO `event_available` VALUES (/*event_id*/4006, /*reward_id*/100379, /*recommend_order*/8);
+INSERT INTO `event_available` VALUES (/*event_id*/1020, /*reward_id*/200383, /*recommend_order*/1);
+INSERT INTO `event_available` VALUES (/*event_id*/1020, /*reward_id*/200385, /*recommend_order*/2);

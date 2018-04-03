@@ -339,3 +339,4 @@ INSERT INTO `card_location` VALUES (/*index*/340, /*text*/"朝の通学路");
 INSERT INTO `card_location` VALUES (/*index*/341, /*text*/"夕暮れの教室");
 INSERT INTO `card_location` VALUES (/*index*/342, /*text*/"校庭のLIVEステージ");
 INSERT INTO `card_location` VALUES (/*index*/343, /*text*/"南の島");
+INSERT INTO `card_location` VALUES (/*index*/344, /*text*/"屋外コート");
