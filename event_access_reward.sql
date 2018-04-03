@@ -4,3 +4,4 @@ INSERT INTO `event_access_reward` VALUES (/*event_id*/1005, /*event_type*/1, /*r
 INSERT INTO `event_access_reward` VALUES (/*event_id*/2001, /*event_type*/2, /*reward_type*/7, /*reward_id*/252, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `event_access_reward` VALUES (/*event_id*/2002, /*event_type*/2, /*reward_type*/7, /*reward_id*/340, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `event_access_reward` VALUES (/*event_id*/2003, /*event_type*/2, /*reward_type*/7, /*reward_id*/460, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `event_access_reward` VALUES (/*event_id*/2004, /*event_type*/2, /*reward_type*/7, /*reward_id*/540, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);

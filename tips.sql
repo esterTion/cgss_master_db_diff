@@ -100,6 +100,8 @@ INSERT INTO `tips` VALUES (/*id*/98, /*tips_type*/1, /*value*/254, /*index*/1, /
 INSERT INTO `tips` VALUES (/*id*/99, /*tips_type*/1, /*value*/121, /*index*/1, /*title*/"棟方愛海のウワサ", /*comment*/"ものすごく寂しがり屋らしい。");
 INSERT INTO `tips` VALUES (/*id*/100, /*tips_type*/1, /*value*/179, /*index*/1, /*title*/"水木聖來のウワサ", /*comment*/"聖來の『來』の字を\n間違えられるのに慣れすぎて、\nたまに自分でも間違えるらしい。");
 INSERT INTO `tips` VALUES (/*id*/101, /*tips_type*/1, /*value*/260, /*index*/1, /*title*/"的場梨沙のウワサ", /*comment*/"本人いわく、梨沙のファンは、\nすべてロリコンらしい。");
+INSERT INTO `tips` VALUES (/*id*/102, /*tips_type*/1, /*value*/219, /*index*/1, /*title*/"藤居朋のウワサ", /*comment*/"たまにパワースポットで\n変なポーズをしているらしい。");
+INSERT INTO `tips` VALUES (/*id*/103, /*tips_type*/1, /*value*/224, /*index*/1, /*title*/"大石泉のウワサ", /*comment*/"泉にとって友情とは\n計算がいらないものらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/30001, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルを育てるには", /*comment*/"アイドルのレベルを上げるには、\nレッスンを行いましょう !");
 INSERT INTO `tips` VALUES (/*id*/30002, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルとの親愛度を上げるには", /*comment*/"LIVEを行うと、\n参加したアイドルの親愛度が上がります !");
@@ -227,3 +229,5 @@ INSERT INTO `tips` VALUES (/*id*/40100, /*tips_type*/4, /*value*/254, /*index*/1
 INSERT INTO `tips` VALUES (/*id*/40101, /*tips_type*/4, /*value*/121, /*index*/1, /*title*/"棟方愛海①　されるよりする側", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40102, /*tips_type*/4, /*value*/179, /*index*/1, /*title*/"水木聖來①　うちのわんこ", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40103, /*tips_type*/4, /*value*/260, /*index*/1, /*title*/"的場梨沙①　大きな目標 !", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40104, /*tips_type*/4, /*value*/219, /*index*/1, /*title*/"藤居朋①　どうすれば ! ？", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40105, /*tips_type*/4, /*value*/224, /*index*/1, /*title*/"大石泉①　ノってきた !", /*comment*/"");

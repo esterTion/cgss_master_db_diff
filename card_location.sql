@@ -113,3 +113,7 @@ INSERT INTO `card_location` VALUES (/*index*/112, /*text*/"テレビ局・収録
 INSERT INTO `card_location` VALUES (/*index*/113, /*text*/"イベント会場");
 INSERT INTO `card_location` VALUES (/*index*/114, /*text*/"ショッピング後のカフェ");
 INSERT INTO `card_location` VALUES (/*index*/115, /*text*/"衣装部屋");
+INSERT INTO `card_location` VALUES (/*index*/116, /*text*/"畳の部屋");
+INSERT INTO `card_location` VALUES (/*index*/117, /*text*/"かまくらの中");
+INSERT INTO `card_location` VALUES (/*index*/118, /*text*/"ケミカル・ステージ");
+INSERT INTO `card_location` VALUES (/*index*/119, /*text*/"大阪の街");
