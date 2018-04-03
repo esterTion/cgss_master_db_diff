@@ -468,3 +468,6 @@ INSERT INTO `card_location` VALUES (/*index*/469, /*text*/"草原");
 INSERT INTO `card_location` VALUES (/*index*/470, /*text*/"比奈の家");
 INSERT INTO `card_location` VALUES (/*index*/471, /*text*/"サッカースタジアム");
 INSERT INTO `card_location` VALUES (/*index*/472, /*text*/"的場家・リビング");
+INSERT INTO `card_location` VALUES (/*index*/473, /*text*/"渋谷");
+INSERT INTO `card_location` VALUES (/*index*/474, /*text*/"渋谷・スクランブル交差点");
+INSERT INTO `card_location` VALUES (/*index*/475, /*text*/"境内・ステージ");

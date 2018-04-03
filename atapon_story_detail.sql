@@ -258,3 +258,5 @@ INSERT INTO `atapon_story_detail` VALUES (/*id*/3220, /*event_id*/1029, /*type*/
 INSERT INTO `atapon_story_detail` VALUES (/*id*/3221, /*event_id*/1029, /*type*/0, /*open_event_point*/7000, /*next_detail_id*/3222);
 INSERT INTO `atapon_story_detail` VALUES (/*id*/3222, /*event_id*/1029, /*type*/0, /*open_event_point*/10000, /*next_detail_id*/3223);
 INSERT INTO `atapon_story_detail` VALUES (/*id*/3223, /*event_id*/1029, /*type*/2, /*open_event_point*/0, /*next_detail_id*/0);
+INSERT INTO `atapon_story_detail` VALUES (/*id*/3224, /*event_id*/1029, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
+INSERT INTO `atapon_story_detail` VALUES (/*id*/3225, /*event_id*/1029, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);

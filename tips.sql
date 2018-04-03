@@ -1,5 +1,5 @@
 CREATE TABLE 'tips' ('id' INTEGER NOT NULL, 'tips_type' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'index' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'comment' TEXT NOT NULL, PRIMARY KEY('id'))
-INSERT INTO `tips` VALUES (/*id*/1, /*tips_type*/1, /*value*/2, /*index*/1, /*title*/"千川ちひろのウワサ①", /*comment*/"制服は夏服・冬服など\n５着あるらしい。");
+INSERT INTO `tips` VALUES (/*id*/1, /*tips_type*/1, /*value*/2, /*index*/1, /*title*/"千川ちひろのウワサ①", /*comment*/"制服は夏服・冬服など\n5着あるらしい。");
 INSERT INTO `tips` VALUES (/*id*/2, /*tips_type*/1, /*value*/101, /*index*/1, /*title*/"島村卯月のウワサ①", /*comment*/"クラスメイトの誰もが\n「卯月ちゃんは友だち ! 」\nと言うらしい。");
 INSERT INTO `tips` VALUES (/*id*/3, /*tips_type*/1, /*value*/102, /*index*/1, /*title*/"中野有香のウワサ①", /*comment*/"髪の2本縛りをほどくと\nとても照れるらしい。");
 INSERT INTO `tips` VALUES (/*id*/4, /*tips_type*/1, /*value*/103, /*index*/1, /*title*/"水本ゆかりのウワサ①", /*comment*/"自分の吹くフルートの音色で\n眠ったことがあるらしい。");
@@ -126,7 +126,7 @@ INSERT INTO `tips` VALUES (/*id*/124, /*tips_type*/1, /*value*/286, /*index*/1, 
 INSERT INTO `tips` VALUES (/*id*/125, /*tips_type*/1, /*value*/129, /*index*/1, /*title*/"松原早耶のウワサ①", /*comment*/"鏡の前に立つと、ポーズを\nとらなければいけない気に\nなるらしい。");
 INSERT INTO `tips` VALUES (/*id*/126, /*tips_type*/1, /*value*/163, /*index*/1, /*title*/"有浦柑奈のウワサ①", /*comment*/"ラブ＆ピースを広めるための歌を\n作詞・作曲する予定らしい。");
 INSERT INTO `tips` VALUES (/*id*/127, /*tips_type*/1, /*value*/171, /*index*/1, /*title*/"高橋礼子のウワサ①", /*comment*/"お酒を飲むと、\n真面目に将来のことを\n語りだすらしい。");
-INSERT INTO `tips` VALUES (/*id*/128, /*tips_type*/1, /*value*/275, /*index*/1, /*title*/"槙原志保のウワサ①", /*comment*/"深夜のパフェは月に３回までと\n決めているが、昼間のパフェは\nノーカウントらしい。");
+INSERT INTO `tips` VALUES (/*id*/128, /*tips_type*/1, /*value*/275, /*index*/1, /*title*/"槙原志保のウワサ①", /*comment*/"深夜のパフェは月に3回までと\n決めているが、昼間のパフェは\nノーカウントらしい。");
 INSERT INTO `tips` VALUES (/*id*/129, /*tips_type*/1, /*value*/123, /*index*/1, /*title*/"大原みちるのウワサ①", /*comment*/"登校中は、パンをくわえながら\n走っているが、人をちゃんと\n避けてしまうらしい。");
 INSERT INTO `tips` VALUES (/*id*/130, /*tips_type*/1, /*value*/192, /*index*/1, /*title*/"浅利七海のウワサ①", /*comment*/"昔、海で溺れたときに、\n大きな魚のような何かに\n助けられたらしい。");
 INSERT INTO `tips` VALUES (/*id*/131, /*tips_type*/1, /*value*/240, /*index*/1, /*title*/"斉藤洋子のウワサ①", /*comment*/"通販で健康器具を買っても、\n一回しか使わなかったものが\n数多くあるらしい。");
@@ -296,6 +296,13 @@ INSERT INTO `tips` VALUES (/*id*/294, /*tips_type*/1, /*value*/292, /*index*/2, 
 INSERT INTO `tips` VALUES (/*id*/295, /*tips_type*/1, /*value*/287, /*index*/2, /*title*/"メアリー・コクランのウワサ②", /*comment*/"ダイワナデコ\nも目指しているらしい。");
 INSERT INTO `tips` VALUES (/*id*/296, /*tips_type*/1, /*value*/133, /*index*/2, /*title*/"西園寺琴歌のウワサ②", /*comment*/"カードの色は\n黒じゃなくピンクがいいらしい。");
 INSERT INTO `tips` VALUES (/*id*/297, /*tips_type*/1, /*value*/120, /*index*/2, /*title*/"太田優のウワサ②", /*comment*/"夕陽の見える土手で\nアッキーと心を通わせたらしい。");
+INSERT INTO `tips` VALUES (/*id*/298, /*tips_type*/1, /*value*/177, /*index*/2, /*title*/"東郷あいのウワサ②", /*comment*/"誰かと一緒のときは、\n車道側を歩くらしい。");
+INSERT INTO `tips` VALUES (/*id*/299, /*tips_type*/1, /*value*/283, /*index*/2, /*title*/"市原仁奈のウワサ②", /*comment*/"洗濯は得意らしい。");
+INSERT INTO `tips` VALUES (/*id*/300, /*tips_type*/1, /*value*/152, /*index*/2, /*title*/"浅野風香のウワサ②", /*comment*/"クラスでは\nアイドルと同姓同名だと\n思われているらしい。");
+INSERT INTO `tips` VALUES (/*id*/301, /*tips_type*/1, /*value*/286, /*index*/2, /*title*/"北川真尋のウワサ②", /*comment*/"遅刻ギリの廊下ダッシュで\n怒られて遅刻するらしい。");
+INSERT INTO `tips` VALUES (/*id*/302, /*tips_type*/1, /*value*/124, /*index*/2, /*title*/"遊佐こずえのウワサ②", /*comment*/"かんたんじゃないことは\nあんまりないらしい。");
+INSERT INTO `tips` VALUES (/*id*/303, /*tips_type*/1, /*value*/127, /*index*/3, /*title*/"前川みくのウワサ③", /*comment*/"誕生日は好きだが\n星座は好きではないらしい。");
+INSERT INTO `tips` VALUES (/*id*/304, /*tips_type*/1, /*value*/231, /*index*/2, /*title*/"桐生つかさのウワサ②", /*comment*/"裏取りもしてない話を\n信じてるようじゃ\nまだ半人前だな、らしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !");
@@ -594,4 +601,10 @@ INSERT INTO `tips` VALUES (/*id*/40258, /*tips_type*/4, /*value*/151, /*index*/2
 INSERT INTO `tips` VALUES (/*id*/40259, /*tips_type*/4, /*value*/203, /*index*/2, /*title*/"瀬名詩織②　海はいかがです？", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40260, /*tips_type*/4, /*value*/104, /*index*/2, /*title*/"福山舞②　私たちの共通点", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40261, /*tips_type*/4, /*value*/239, /*index*/2, /*title*/"松山久美子②　分かってるけど… !", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40262, /*tips_type*/4, /*value*/230, /*index*/2, /*title*/"二宮飛鳥②　片翼の観測者", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40263, /*tips_type*/4, /*value*/116, /*index*/2, /*title*/"江上椿②　沼の話", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40264, /*tips_type*/4, /*value*/131, /*index*/2, /*title*/"宮本フレデリカ②　新しい歌だよ～", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40265, /*tips_type*/4, /*value*/130, /*index*/2, /*title*/"相原雪乃②　三つ編みの謎", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40266, /*tips_type*/4, /*value*/181, /*index*/2, /*title*/"三船美優②　お静かに…(楓)", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40267, /*tips_type*/4, /*value*/168, /*index*/2, /*title*/"黒川千秋②　一言リベンジ !", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50001, /*tips_type*/5, /*value*/1, /*index*/1, /*title*/"縦画面持ち替え説明画像", /*comment*/"");
