@@ -1,0 +1,11 @@
+CREATE TABLE 'login_bonus_data' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'type' INTEGER NOT NULL, 'count_num' INTEGER NOT NULL, 'rap' INTEGER NOT NULL, 'img' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'))
+INSERT INTO `login_bonus_data` VALUES (/*id*/1, /*name*/"継続ログインボーナス", /*type*/1, /*count_num*/0, /*rap*/0, /*img*/0, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
+INSERT INTO `login_bonus_data` VALUES (/*id*/2, /*name*/"スタートダッシュログインボーナス", /*type*/2, /*count_num*/5, /*rap*/1, /*img*/0, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2019-04-01 14:00:00");
+INSERT INTO `login_bonus_data` VALUES (/*id*/3, /*name*/"スタンプログインボーナス", /*type*/3, /*count_num*/7, /*rap*/1, /*img*/1, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2019-04-01 14:00:00");
+INSERT INTO `login_bonus_data` VALUES (/*id*/4, /*name*/"リハーサルチケット配布", /*type*/5, /*count_num*/0, /*rap*/0, /*img*/0, /*start_date*/"2016-01-21 00:00:00", /*end_date*/"2030-04-01 14:00:00");
+INSERT INTO `login_bonus_data` VALUES (/*id*/9000, /*name*/"CM放映記念ログインボーナス第1弾", /*type*/4, /*count_num*/12, /*rap*/1, /*img*/0, /*start_date*/"2015-10-02 00:00:00", /*end_date*/"2015-10-13 23:59:59");
+INSERT INTO `login_bonus_data` VALUES (/*id*/9001, /*name*/"CM放映記念ログインボーナス第2弾", /*type*/4, /*count_num*/13, /*rap*/1, /*img*/0, /*start_date*/"2015-10-14 00:00:00", /*end_date*/"2015-10-26 23:59:59");
+INSERT INTO `login_bonus_data` VALUES (/*id*/9002, /*name*/"シンデレラガールズ4周年記念キャンペーン", /*type*/4, /*count_num*/10, /*rap*/1, /*img*/0, /*start_date*/"2015-11-28 00:00:00", /*end_date*/"2015-12-07 23:59:59");
+INSERT INTO `login_bonus_data` VALUES (/*id*/9003, /*name*/"1000万DL&CM放送記念ログインボーナス", /*type*/4, /*count_num*/10, /*rap*/1, /*img*/0, /*start_date*/"2015-12-22 00:00:00", /*end_date*/"2015-12-31 23:59:59");
+INSERT INTO `login_bonus_data` VALUES (/*id*/9004, /*name*/"お正月&CM放送記念ログインボーナス", /*type*/4, /*count_num*/11, /*rap*/1, /*img*/0, /*start_date*/"2016-01-01 00:00:00", /*end_date*/"2016-01-11 23:59:59");
+INSERT INTO `login_bonus_data` VALUES (/*id*/9005, /*name*/"バレンタイン&CM放送記念ログインボーナス", /*type*/4, /*count_num*/14, /*rap*/1, /*img*/0, /*start_date*/"2016-02-01 00:00:00", /*end_date*/"2016-02-14 23:59:59");

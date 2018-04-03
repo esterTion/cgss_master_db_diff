@@ -1,0 +1,21 @@
+CREATE TABLE 'gacha_rate' ('id' INTEGER NOT NULL, 'step' INTEGER NOT NULL, 'nomal_ratio' INTEGER NOT NULL, 'rare_ratio' INTEGER NOT NULL, 'sr_ratio' INTEGER NOT NULL, 'ssr_ratio' INTEGER NOT NULL, PRIMARY KEY('id','step'))
+INSERT INTO `gacha_rate` VALUES (/*id*/20001, /*step*/0, /*nomal_ratio*/0, /*rare_ratio*/8850, /*sr_ratio*/1000, /*ssr_ratio*/150);
+INSERT INTO `gacha_rate` VALUES (/*id*/30001, /*step*/0, /*nomal_ratio*/0, /*rare_ratio*/8850, /*sr_ratio*/1000, /*ssr_ratio*/150);
+INSERT INTO `gacha_rate` VALUES (/*id*/20002, /*step*/0, /*nomal_ratio*/0, /*rare_ratio*/8850, /*sr_ratio*/1000, /*ssr_ratio*/150);
+INSERT INTO `gacha_rate` VALUES (/*id*/30002, /*step*/0, /*nomal_ratio*/0, /*rare_ratio*/8850, /*sr_ratio*/1000, /*ssr_ratio*/150);
+INSERT INTO `gacha_rate` VALUES (/*id*/20003, /*step*/0, /*nomal_ratio*/0, /*rare_ratio*/8850, /*sr_ratio*/1000, /*ssr_ratio*/150);
+INSERT INTO `gacha_rate` VALUES (/*id*/30003, /*step*/0, /*nomal_ratio*/0, /*rare_ratio*/8850, /*sr_ratio*/1000, /*ssr_ratio*/150);
+INSERT INTO `gacha_rate` VALUES (/*id*/30004, /*step*/0, /*nomal_ratio*/0, /*rare_ratio*/8850, /*sr_ratio*/1000, /*ssr_ratio*/150);
+INSERT INTO `gacha_rate` VALUES (/*id*/30005, /*step*/0, /*nomal_ratio*/0, /*rare_ratio*/8850, /*sr_ratio*/1000, /*ssr_ratio*/150);
+INSERT INTO `gacha_rate` VALUES (/*id*/30006, /*step*/0, /*nomal_ratio*/0, /*rare_ratio*/8850, /*sr_ratio*/1000, /*ssr_ratio*/150);
+INSERT INTO `gacha_rate` VALUES (/*id*/30007, /*step*/0, /*nomal_ratio*/0, /*rare_ratio*/8850, /*sr_ratio*/1000, /*ssr_ratio*/150);
+INSERT INTO `gacha_rate` VALUES (/*id*/30008, /*step*/0, /*nomal_ratio*/0, /*rare_ratio*/8850, /*sr_ratio*/1000, /*ssr_ratio*/150);
+INSERT INTO `gacha_rate` VALUES (/*id*/30009, /*step*/0, /*nomal_ratio*/0, /*rare_ratio*/8850, /*sr_ratio*/1000, /*ssr_ratio*/150);
+INSERT INTO `gacha_rate` VALUES (/*id*/30010, /*step*/0, /*nomal_ratio*/0, /*rare_ratio*/8850, /*sr_ratio*/1000, /*ssr_ratio*/150);
+INSERT INTO `gacha_rate` VALUES (/*id*/30011, /*step*/0, /*nomal_ratio*/0, /*rare_ratio*/8850, /*sr_ratio*/1000, /*ssr_ratio*/150);
+INSERT INTO `gacha_rate` VALUES (/*id*/30012, /*step*/0, /*nomal_ratio*/0, /*rare_ratio*/8700, /*sr_ratio*/1000, /*ssr_ratio*/300);
+INSERT INTO `gacha_rate` VALUES (/*id*/30013, /*step*/0, /*nomal_ratio*/0, /*rare_ratio*/8850, /*sr_ratio*/1000, /*ssr_ratio*/150);
+INSERT INTO `gacha_rate` VALUES (/*id*/30014, /*step*/0, /*nomal_ratio*/0, /*rare_ratio*/8850, /*sr_ratio*/1000, /*ssr_ratio*/150);
+INSERT INTO `gacha_rate` VALUES (/*id*/30015, /*step*/0, /*nomal_ratio*/0, /*rare_ratio*/8850, /*sr_ratio*/1000, /*ssr_ratio*/150);
+INSERT INTO `gacha_rate` VALUES (/*id*/30016, /*step*/0, /*nomal_ratio*/0, /*rare_ratio*/8850, /*sr_ratio*/1000, /*ssr_ratio*/150);
+INSERT INTO `gacha_rate` VALUES (/*id*/30017, /*step*/0, /*nomal_ratio*/0, /*rare_ratio*/8850, /*sr_ratio*/1000, /*ssr_ratio*/150);

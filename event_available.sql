@@ -1,0 +1,27 @@
+CREATE TABLE 'event_available' ('event_id' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'recommend_order' INTEGER NOT NULL)
+INSERT INTO `event_available` VALUES (/*event_id*/1001, /*reward_id*/100095, /*recommend_order*/1);
+INSERT INTO `event_available` VALUES (/*event_id*/1001, /*reward_id*/100093, /*recommend_order*/2);
+INSERT INTO `event_available` VALUES (/*event_id*/2001, /*reward_id*/300091, /*recommend_order*/4);
+INSERT INTO `event_available` VALUES (/*event_id*/2001, /*reward_id*/200109, /*recommend_order*/5);
+INSERT INTO `event_available` VALUES (/*event_id*/1002, /*reward_id*/200099, /*recommend_order*/1);
+INSERT INTO `event_available` VALUES (/*event_id*/1002, /*reward_id*/200097, /*recommend_order*/2);
+INSERT INTO `event_available` VALUES (/*event_id*/3001, /*reward_id*/100115, /*recommend_order*/1);
+INSERT INTO `event_available` VALUES (/*event_id*/3001, /*reward_id*/300097, /*recommend_order*/2);
+INSERT INTO `event_available` VALUES (/*event_id*/2002, /*reward_id*/200063, /*recommend_order*/4);
+INSERT INTO `event_available` VALUES (/*event_id*/2002, /*reward_id*/100117, /*recommend_order*/5);
+INSERT INTO `event_available` VALUES (/*event_id*/2002, /*reward_id*/300113, /*recommend_order*/6);
+INSERT INTO `event_available` VALUES (/*event_id*/1003, /*reward_id*/300111, /*recommend_order*/1);
+INSERT INTO `event_available` VALUES (/*event_id*/1003, /*reward_id*/300109, /*recommend_order*/2);
+INSERT INTO `event_available` VALUES (/*event_id*/3002, /*reward_id*/200113, /*recommend_order*/1);
+INSERT INTO `event_available` VALUES (/*event_id*/3002, /*reward_id*/100061, /*recommend_order*/2);
+INSERT INTO `event_available` VALUES (/*event_id*/1004, /*reward_id*/300111, /*recommend_order*/1);
+INSERT INTO `event_available` VALUES (/*event_id*/1004, /*reward_id*/300109, /*recommend_order*/2);
+INSERT INTO `event_available` VALUES (/*event_id*/3003, /*reward_id*/300139, /*recommend_order*/1);
+INSERT INTO `event_available` VALUES (/*event_id*/3003, /*reward_id*/200133, /*recommend_order*/2);
+INSERT INTO `event_available` VALUES (/*event_id*/2003, /*reward_id*/200139, /*recommend_order*/4);
+INSERT INTO `event_available` VALUES (/*event_id*/2003, /*reward_id*/300171, /*recommend_order*/5);
+INSERT INTO `event_available` VALUES (/*event_id*/2003, /*reward_id*/300145, /*recommend_order*/6);
+INSERT INTO `event_available` VALUES (/*event_id*/1005, /*reward_id*/100167, /*recommend_order*/1);
+INSERT INTO `event_available` VALUES (/*event_id*/1005, /*reward_id*/100169, /*recommend_order*/2);
+INSERT INTO `event_available` VALUES (/*event_id*/3004, /*reward_id*/100157, /*recommend_order*/1);
+INSERT INTO `event_available` VALUES (/*event_id*/3004, /*reward_id*/200169, /*recommend_order*/2);
