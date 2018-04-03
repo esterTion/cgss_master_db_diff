@@ -128,6 +128,7 @@ INSERT INTO `story_category` VALUES (/*id*/157, /*type*/2, /*chara_type*/3, /*ch
 INSERT INTO `story_category` VALUES (/*id*/158, /*type*/2, /*chara_type*/3, /*chara_id*/258, /*title*/"堀裕子", /*sub_title*/"", /*disp_order*/158);
 INSERT INTO `story_category` VALUES (/*id*/159, /*type*/2, /*chara_type*/3, /*chara_id*/259, /*title*/"西島櫂", /*sub_title*/"", /*disp_order*/159);
 INSERT INTO `story_category` VALUES (/*id*/160, /*type*/2, /*chara_type*/3, /*chara_id*/260, /*title*/"的場梨沙", /*sub_title*/"", /*disp_order*/160);
+INSERT INTO `story_category` VALUES (/*id*/161, /*type*/2, /*chara_type*/3, /*chara_id*/261, /*title*/"財前時子", /*sub_title*/"", /*disp_order*/161);
 INSERT INTO `story_category` VALUES (/*id*/162, /*type*/2, /*chara_type*/3, /*chara_id*/262, /*title*/"依田芳乃", /*sub_title*/"", /*disp_order*/162);
 INSERT INTO `story_category` VALUES (/*id*/163, /*type*/2, /*chara_type*/3, /*chara_id*/263, /*title*/"相葉夕美", /*sub_title*/"", /*disp_order*/163);
 INSERT INTO `story_category` VALUES (/*id*/164, /*type*/2, /*chara_type*/3, /*chara_id*/264, /*title*/"野々村そら", /*sub_title*/"", /*disp_order*/164);
@@ -217,3 +218,4 @@ INSERT INTO `story_category` VALUES (/*id*/266, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/267, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"BEYOND THE STARLIGHT", /*sub_title*/"BEYOND THE STARLIGHT", /*disp_order*/20);
 INSERT INTO `story_category` VALUES (/*id*/268, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"4thLIVE連動企画", /*sub_title*/"4thLIVE連動企画", /*disp_order*/3);
 INSERT INTO `story_category` VALUES (/*id*/269, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ラブレター", /*sub_title*/"ラブレター", /*disp_order*/21);
+INSERT INTO `story_category` VALUES (/*id*/270, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"STORY", /*sub_title*/"STORY", /*disp_order*/22);

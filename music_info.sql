@@ -76,6 +76,7 @@ INSERT INTO `music_info` VALUES (/*id*/5015, /*discription*/"木村夏樹（CV�
 INSERT INTO `music_info` VALUES (/*id*/5021, /*discription*/"Triad Primus\n\n渋谷凛（CV：福原綾香）\n神谷奈緒（CV：松井恵理子）\n北条加蓮（CV：渕上舞）\n\n\n作詞：AJURIKA\n作曲：上松範康（Elements Garden）\n編曲：藤永龍太郎（Elements Garden）");
 INSERT INTO `music_info` VALUES (/*id*/5024, /*discription*/"new generations\n\n島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n\n\n作詞：小金井つくも\n作曲・編曲：渡部チェル");
 INSERT INTO `music_info` VALUES (/*id*/5025, /*discription*/"CINDERELLA PROJECT\n\n島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n双葉杏（CV：五十嵐裕美）\n三村かな子（CV：大坪由佳）\n城ヶ崎莉嘉（CV：山本希望）\n神崎蘭子（CV：内田真礼）\n前川みく（CV：高森奈津美）\n諸星きらり（CV：松嵜麗）\n多田李衣菜（CV：青木瑠璃子）\n赤城みりあ（CV：黒沢ともよ）\n新田美波（CV：洲崎綾）\n緒方智絵里（CV：大空直美）\nアナスタシア（CV：上坂すみれ）\n\n\n作詞：森由里子\n作曲・編曲：田中秀和（MONACA）");
+INSERT INTO `music_info` VALUES (/*id*/5028, /*discription*/"渋谷凛（CV：福原綾香）\n島村卯月（CV：大橋彩香）\n本田未央（CV：原紗友里）\n神谷奈緒（CV：松井恵理子）\n北条加蓮（CV：渕上舞）\n\n\n作詞：森由里子\n作曲・編曲：田中秀和（MONACA）");
 INSERT INTO `music_info` VALUES (/*id*/9001, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n双葉杏（CV：五十嵐裕美）\n諸星きらり（CV：松嵜麗）\n\n\n作詞：marhy\n作曲・編曲：BNSI（内田哲也）");
 INSERT INTO `music_info` VALUES (/*id*/9002, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n大槻唯（CV：山下七海）\n上条春菜（CV：長島光那）\n\n\n作詞：俊龍\n作曲：俊龍\n編曲：Sizuk");
 INSERT INTO `music_info` VALUES (/*id*/9003, /*discription*/"速水奏（CV：飯田友子）\n塩見周子（CV：ルゥ ティン）\n城ヶ崎美嘉（CV：佳村はるか）\n宮本フレデリカ（CV：高野麻美）\n一ノ瀬志希（CV：藍原ことみ）\n\n\n作詞：森由⾥⼦\n作曲・編曲：石濱翔（MONACA）");

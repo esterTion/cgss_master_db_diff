@@ -157,6 +157,7 @@ INSERT INTO `tips` VALUES (/*id*/155, /*tips_type*/1, /*value*/203, /*index*/1, 
 INSERT INTO `tips` VALUES (/*id*/156, /*tips_type*/1, /*value*/182, /*index*/1, /*title*/"服部瞳子のウワサ", /*comment*/"一人の夜には\n熱帯魚から\n勇気をもらっているらしい。");
 INSERT INTO `tips` VALUES (/*id*/157, /*tips_type*/1, /*value*/264, /*index*/1, /*title*/"野々村そらのウワサ", /*comment*/"「はっぴー来い来い\nすまいるげーと」らしい。");
 INSERT INTO `tips` VALUES (/*id*/158, /*tips_type*/1, /*value*/137, /*index*/1, /*title*/"涼宮星花のウワサ", /*comment*/"ウィーンに留学中、\n毎晩電話をかけたせいで\n電話代が大変なことになったらしい。");
+INSERT INTO `tips` VALUES (/*id*/159, /*tips_type*/1, /*value*/261, /*index*/1, /*title*/"財前時子のウワサ", /*comment*/"大学はお嬢様学校で、\n心理学を専攻しているらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/30001, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルを育てるには", /*comment*/"アイドルのレベルを上げるには、\nレッスンを行いましょう !");
 INSERT INTO `tips` VALUES (/*id*/30002, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルとの親愛度を上げるには", /*comment*/"LIVEを行うと、\n参加したアイドルの親愛度が上がります !");
@@ -342,3 +343,4 @@ INSERT INTO `tips` VALUES (/*id*/40157, /*tips_type*/4, /*value*/203, /*index*/1
 INSERT INTO `tips` VALUES (/*id*/40158, /*tips_type*/4, /*value*/182, /*index*/1, /*title*/"服部瞳子①　昔デビューした時の…", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40159, /*tips_type*/4, /*value*/264, /*index*/1, /*title*/"野々村そら①　れっつしんぐ♪", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40160, /*tips_type*/4, /*value*/137, /*index*/1, /*title*/"涼宮星花①　A・ネイル無理繋がり", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40161, /*tips_type*/4, /*value*/261, /*index*/1, /*title*/"財前時子①　時子様のお言葉", /*comment*/"");

@@ -76,6 +76,7 @@ INSERT INTO `music_data` VALUES (/*id*/5015, /*name*/"Rockin' Emotion", /*bpm*/1
 INSERT INTO `music_data` VALUES (/*id*/5021, /*name*/"Trancing Pulse", /*bpm*/143, /*composer*/"上松範康（Elements Garden）", /*lyricist*/"AJURIKA", /*sound_offset*/76089, /*sound_length*/28000, /*name_sort*/61);
 INSERT INTO `music_data` VALUES (/*id*/5024, /*name*/"流れ星キセキ", /*bpm*/174, /*composer*/"渡部チェル", /*lyricist*/"小金井つくも", /*sound_offset*/52397, /*sound_length*/27000, /*name_sort*/63);
 INSERT INTO `music_data` VALUES (/*id*/5025, /*name*/"M@GIC☆", /*bpm*/178, /*composer*/"田中秀和（MONACA）", /*lyricist*/"森由里子", /*sound_offset*/60948, /*sound_length*/22000, /*name_sort*/83);
+INSERT INTO `music_data` VALUES (/*id*/5028, /*name*/"STORY", /*bpm*/148, /*composer*/"田中秀和（MONACA）", /*lyricist*/"森由里子", /*sound_offset*/80670, /*sound_length*/36100, /*name_sort*/44);
 INSERT INTO `music_data` VALUES (/*id*/9001, /*name*/"とどけ ! アイドル", /*bpm*/180, /*composer*/"BNSI（内田哲也）", /*lyricist*/"marhy", /*sound_offset*/60650, /*sound_length*/24250, /*name_sort*/60);
 INSERT INTO `music_data` VALUES (/*id*/9002, /*name*/"Snow Wings", /*bpm*/167, /*composer*/"俊龍", /*lyricist*/"俊龍", /*sound_offset*/65785, /*sound_length*/30000, /*name_sort*/45);
 INSERT INTO `music_data` VALUES (/*id*/9003, /*name*/"Tulip", /*bpm*/154, /*composer*/"石濱翔（MONACA）", /*lyricist*/"森由里子", /*sound_offset*/52929, /*sound_length*/25000, /*name_sort*/52);

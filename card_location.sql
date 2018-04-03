@@ -235,3 +235,8 @@ INSERT INTO `card_location` VALUES (/*index*/236, /*text*/"温泉旅館・宴会
 INSERT INTO `card_location` VALUES (/*index*/237, /*text*/"温泉旅館・橋の上");
 INSERT INTO `card_location` VALUES (/*index*/238, /*text*/"ニューヨーク・シティホテル");
 INSERT INTO `card_location` VALUES (/*index*/239, /*text*/"ニューヨーク・ブルックリン橋");
+INSERT INTO `card_location` VALUES (/*index*/240, /*text*/"ハロウィンパーティー会場");
+INSERT INTO `card_location` VALUES (/*index*/241, /*text*/"ステージ裏");
+INSERT INTO `card_location` VALUES (/*index*/242, /*text*/"繁華街");
+INSERT INTO `card_location` VALUES (/*index*/243, /*text*/"ファミレス");
+INSERT INTO `card_location` VALUES (/*index*/244, /*text*/"ハロウィンLIVEステージ");
