@@ -91,3 +91,4 @@ INSERT INTO `banner` VALUES (/*banner_id*/89, /*type*/1, /*img_id*/0, /*transiti
 INSERT INTO `banner` VALUES (/*banner_id*/91, /*type*/2, /*img_id*/1011, /*transition*/0, /*page_index*/0, /*order_num*/3, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
 INSERT INTO `banner` VALUES (/*banner_id*/92, /*type*/1, /*img_id*/0, /*transition*/0, /*page_index*/0, /*order_num*/2, /*start_date*/"2016-07-19 15:00:00", /*end_date*/"2016-07-25 14:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/93, /*type*/1, /*img_id*/0, /*transition*/0, /*page_index*/0, /*order_num*/2, /*start_date*/"2016-07-25 15:00:00", /*end_date*/"2016-07-31 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/94, /*type*/2, /*img_id*/3010, /*transition*/0, /*page_index*/0, /*order_num*/3, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");

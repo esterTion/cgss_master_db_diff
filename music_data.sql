@@ -46,6 +46,7 @@ INSERT INTO `music_data` VALUES (/*id*/3020, /*name*/"熱血乙女A", /*bpm*/174
 INSERT INTO `music_data` VALUES (/*id*/3021, /*name*/"メルヘンデビュー !", /*bpm*/170, /*composer*/"ARM（IOSYS）", /*lyricist*/"夕野ヨシミ（IOSYS）", /*sound_offset*/73375, /*sound_length*/31000, /*name_sort*/81);
 INSERT INTO `music_data` VALUES (/*id*/3023, /*name*/"エヴリデイドリーム", /*bpm*/157, /*composer*/"滝澤俊輔（TRYTONELABO）", /*lyricist*/"BNEI（八城雄太）", /*sound_offset*/66086, /*sound_length*/30000, /*name_sort*/8);
 INSERT INTO `music_data` VALUES (/*id*/3025, /*name*/"お散歩カメラ", /*bpm*/172, /*composer*/"イズミカワソラ", /*lyricist*/"イズミカワソラ", /*sound_offset*/38893, /*sound_length*/23000, /*name_sort*/13);
+INSERT INTO `music_data` VALUES (/*id*/3026, /*name*/"毒茸伝説", /*bpm*/178, /*composer*/"BNSI（LindaAI-CUE）", /*lyricist*/"BNSI（LindaAI-CUE）、桜アス恵", /*sound_offset*/84955, /*sound_length*/21000, /*name_sort*/56);
 INSERT INTO `music_data` VALUES (/*id*/3027, /*name*/"2nd SIDE", /*bpm*/133, /*composer*/"ESTi", /*lyricist*/"ESTi", /*sound_offset*/68574, /*sound_length*/32000, /*name_sort*/46);
 INSERT INTO `music_data` VALUES (/*id*/3028, /*name*/"薄荷 -ハッカ-", /*bpm*/71, /*composer*/"泉典孝", /*lyricist*/"いつきおと", /*sound_offset*/67572, /*sound_length*/37000, /*name_sort*/69);
 INSERT INTO `music_data` VALUES (/*id*/3029, /*name*/"花簪 \nHANAKANZASHI", /*bpm*/125, /*composer*/"ARM（IOSYS）", /*lyricist*/"夕野ヨシミ（IOSYS）", /*sound_offset*/57459, /*sound_length*/35000, /*name_sort*/71);
