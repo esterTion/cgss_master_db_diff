@@ -41,9 +41,9 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gift_message", /*idx*/"", /*stat*/136
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"login_bonus_detail", /*idx*/"login_bonus_detail_0_campaign_id_1_rap_2_count", /*stat*/"381 13 13 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gacha_l_group", /*idx*/"", /*stat*/53);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"medley_vibration_rank", /*idx*/"medley_vibration_rank_0_event_id_1_difficulty_type", /*stat*/"370 370 74");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gacha_sp_effect", /*idx*/"gacha_sp_effect_0_card_id", /*stat*/"15 1");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gacha_sp_effect", /*idx*/"gacha_sp_effect_0_gacha_id", /*stat*/"15 2");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gacha_sp_effect", /*idx*/"sqlite_autoindex_gacha_sp_effect_1", /*stat*/"15 2 1");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gacha_sp_effect", /*idx*/"gacha_sp_effect_0_card_id", /*stat*/"16 1");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gacha_sp_effect", /*idx*/"gacha_sp_effect_0_gacha_id", /*stat*/"16 2");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gacha_sp_effect", /*idx*/"sqlite_autoindex_gacha_sp_effect_1", /*stat*/"16 2 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"premium_sc_list", /*idx*/"premium_sc_list_0_cost_id", /*stat*/"3312 237");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_set_data", /*idx*/"", /*stat*/12);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_set_detail00012", /*idx*/"room_set_detail00012_0_set_id", /*stat*/"29 29");
