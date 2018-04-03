@@ -21,6 +21,7 @@ INSERT INTO `music_info` VALUES (/*id*/1019, /*discription*/"本田未央（CV�
 INSERT INTO `music_info` VALUES (/*id*/1020, /*discription*/"THE IDOLM@STER CINDERELLA GIRLS!!\n\n塩見周子（CV：ルゥ ティン）\n高垣楓（CV：早見沙織）\n渋谷凛（CV：福原綾香）\n前川みく（CV：高森奈津美）\n一ノ瀬志希（CV：藍原ことみ）\n島村卯月（CV：大橋彩香）\n相葉夕美（CV：木村珠莉）\n城ヶ崎美嘉（CV：佳村はるか）\n向井拓海（CV：原優子）\n\n\n作詞・作曲・編曲：hisakuni");
 INSERT INTO `music_info` VALUES (/*id*/1021, /*discription*/"THE IDOLM@STER CINDERELLA GIRLS for BEST5!\n\n塩見周子（CV：ルゥ ティン）\n前川みく（CV：高森奈津美）\n高垣楓（CV：早見沙織）\n相葉夕美（CV：木村珠莉）\n一ノ瀬志希（CV：藍原ことみ）\n\n\n作詞：桜アス恵\n作曲・編曲：滝澤俊輔（TRYTONELABO）");
 INSERT INTO `music_info` VALUES (/*id*/1022, /*discription*/"中野有香（CV：下地紫野）\n一ノ瀬志希（CV：藍原ことみ）\n五十嵐響子（CV：種崎敦美）\n櫻井桃華（CV：照井春佳）\n宮本フレデリカ（CV：高野麻美）\n\n\n作詞：Funta3\n作曲・編曲：Funta7");
+INSERT INTO `music_info` VALUES (/*id*/1023, /*discription*/"塩見周子（CV：ルゥ ティン）\n橘ありす（CV：佐藤亜美菜）\n鷺沢文香（CV：M・A・O）\n速水奏（CV：飯田友子）\n二宮飛鳥（CV：青木志貴）\n\n\n作詞・作曲：俊龍\n編曲：Sizuk");
 INSERT INTO `music_info` VALUES (/*id*/1901, /*discription*/"千川ちひろ（CV：佐藤利奈）\n\n\n作詞：marhy\n作曲・編曲：BNSI（内田哲也）\nギター：後藤貴徳\nバイオリン：越川歩\nトランペット：鈴木正則\nコーラス：marhy");
 INSERT INTO `music_info` VALUES (/*id*/3001, /*discription*/"島村卯月（CV：大橋彩香）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（Yoshi）\nコーラス：Mitsu（BNSI）\nギター：後藤貴徳\nバイオリン：Bloom Quartet & Ensemble");
 INSERT INTO `music_info` VALUES (/*id*/3002, /*discription*/"渋谷凛（CV：福原綾香）\n\n\n作詞・作曲：BNEI（遠山明孝・八城雄太）\n作曲：BNEI（遠山明孝）\n編曲：関淳二郎\nギター・コーラス：関淳二郎");
