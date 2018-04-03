@@ -43,6 +43,7 @@ INSERT INTO `music_data` VALUES (/*id*/3019, /*name*/"Angel Breeze", /*bpm*/150,
 INSERT INTO `music_data` VALUES (/*id*/3021, /*name*/"メルヘンデビュー !", /*bpm*/170, /*composer*/"ARM（IOSYS）", /*lyricist*/"夕野ヨシミ（IOSYS）", /*sound_offset*/73375, /*sound_length*/31000, /*name_sort*/78);
 INSERT INTO `music_data` VALUES (/*id*/3023, /*name*/"エヴリデイドリーム", /*bpm*/157, /*composer*/"滝澤俊輔（TRYTONELABO）", /*lyricist*/"BNEI（八城雄太）", /*sound_offset*/66086, /*sound_length*/30000, /*name_sort*/8);
 INSERT INTO `music_data` VALUES (/*id*/3025, /*name*/"お散歩カメラ", /*bpm*/172, /*composer*/"イズミカワソラ", /*lyricist*/"イズミカワソラ", /*sound_offset*/38893, /*sound_length*/23000, /*name_sort*/13);
+INSERT INTO `music_data` VALUES (/*id*/3027, /*name*/"2nd SIDE", /*bpm*/133, /*composer*/"ESTi", /*lyricist*/"ESTi", /*sound_offset*/68574, /*sound_length*/32000, /*name_sort*/43);
 INSERT INTO `music_data` VALUES (/*id*/3029, /*name*/"花簪 \nHANAKANZASHI", /*bpm*/125, /*composer*/"ARM（IOSYS）", /*lyricist*/"夕野ヨシミ（IOSYS）", /*sound_offset*/57459, /*sound_length*/35000, /*name_sort*/68);
 INSERT INTO `music_data` VALUES (/*id*/3031, /*name*/"Bright Blue", /*bpm*/105, /*composer*/"BNSI（kyo）", /*lyricist*/"marhy", /*sound_offset*/75411, /*sound_length*/38000, /*name_sort*/69);
 INSERT INTO `music_data` VALUES (/*id*/3034, /*name*/"Hotel Moonside", /*bpm*/129, /*composer*/"BNSI（Taku Inoue）", /*lyricist*/"BNSI（MC TC）", /*sound_offset*/72552, /*sound_length*/33000, /*name_sort*/70);
