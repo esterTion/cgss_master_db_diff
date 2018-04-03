@@ -260,3 +260,4 @@ INSERT INTO `story_category` VALUES (/*id*/277, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/278, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Sweet Witches' Night", /*sub_title*/"Sweet Witches' Night", /*disp_order*/30);
 INSERT INTO `story_category` VALUES (/*id*/279, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"情熱ファンファンファーレ", /*sub_title*/"情熱ファンファンファーレ", /*disp_order*/31);
 INSERT INTO `story_category` VALUES (/*id*/281, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"桜の頃", /*sub_title*/"桜の頃", /*disp_order*/32);
+INSERT INTO `story_category` VALUES (/*id*/282, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"∀NSWER", /*sub_title*/"∀NSWER", /*disp_order*/33);
