@@ -56,7 +56,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20012, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/"レイアウト済みのルームアイテムがセットになった\n「コーデ」をルームショップにて販売開始 !\n購入した「コーデ」はそのまま配置することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/"既に所持しているルームアイテムがコーデに含まれる場合、\nそのルームアイテムは購入されず、コーデの販売価格から\n差し引かれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/"購入したコーデはレイアウトの「テーマ」に保存され、\nいつでも自由に配置することができます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"宇宙をテーマにしたアイテムとコーデが登場 !\nルームを宇宙ステーション風に !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「凸レーション with 城ヶ崎美嘉」が歌う\n「私色ギフト」をサウンドブースに追加 !\n購入するとLIVEでプレイできるようになります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、\n様々な効果を発揮する物があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -84,6 +84,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30004, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30004, /*img*/2, /*discription*/"表示されるポップアップで、遊びたい楽曲のタイプを選択し\n「条件決定」をタップすると、DJぴにゃがプレイ楽曲を決定します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30004, /*img*/2, /*discription*/"スタミナは条件決定をしたタイミングで消費されます。\n楽曲決定後に選曲画面に戻ることはできませんのでご注意ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30004, /*img*/3, /*discription*/"リクエストされた楽曲を見事クリアすると、\n通常のLIVE報酬に追加で、特別な報酬が獲得できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30005, /*img*/1, /*discription*/"LIVEに新モード「SMART LIVE」を追加しました。\n対応楽曲で、端末を縦に持って片手でプレイできる、新しいスタイルの\nリズムゲームです。まずは練習してみましょう ! ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30006, /*img*/1, /*discription*/"「MVプレイリスト機能」を追加しました。\n実際に開催されたLIVEのセットリストに沿って、\n楽曲のMVを続けて鑑賞することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30006, /*img*/1, /*discription*/"「リピート」はプレイリストの最後のMVが終了した時、\nプレイリストの最初からもう一度再生します。\n「シャッフル」はプレイリストの楽曲順を\nランダムに並び替える機能です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30006, /*img*/2, /*discription*/"「リスト選択」ボタンをタップすると\n公演名が記載されたプレイリストの一覧が表示されます。\n一覧からプレイリストを選択し、公演を振り返りましょう！");
