@@ -177,6 +177,7 @@ INSERT INTO `tips` VALUES (/*id*/175, /*tips_type*/1, /*value*/116, /*index*/1, 
 INSERT INTO `tips` VALUES (/*id*/176, /*tips_type*/1, /*value*/233, /*index*/1, /*title*/"鷹富士茄子のウワサ", /*comment*/"生きていることが\n何よりの幸運らしい。");
 INSERT INTO `tips` VALUES (/*id*/177, /*tips_type*/1, /*value*/245, /*index*/1, /*title*/"真鍋いつきのウワサ", /*comment*/"大学時代には\nスポーツ教育を\n専攻していたらしい。");
 INSERT INTO `tips` VALUES (/*id*/178, /*tips_type*/1, /*value*/232, /*index*/1, /*title*/"望月聖のウワサ", /*comment*/"歌は好きだが、\n楽譜は読めないらしい。");
+INSERT INTO `tips` VALUES (/*id*/179, /*tips_type*/1, /*value*/166, /*index*/1, /*title*/"池袋晶葉のウワサ", /*comment*/"初めての友達は\nもらったロボだったらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/30001, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルを育てるには", /*comment*/"アイドルのレベルを上げるには、\nレッスンを行いましょう !");
 INSERT INTO `tips` VALUES (/*id*/30002, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルとの親愛度を上げるには", /*comment*/"LIVEを行うと、\n参加したアイドルの親愛度が上がります !");
@@ -382,3 +383,4 @@ INSERT INTO `tips` VALUES (/*id*/40177, /*tips_type*/4, /*value*/232, /*index*/1
 INSERT INTO `tips` VALUES (/*id*/40178, /*tips_type*/4, /*value*/116, /*index*/1, /*title*/"江上椿①　趣味は写真です♪", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40179, /*tips_type*/4, /*value*/233, /*index*/1, /*title*/"鷹富士茄子①　1コマおみくじ", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40180, /*tips_type*/4, /*value*/245, /*index*/1, /*title*/"真鍋いつき①　再スカウト？", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40181, /*tips_type*/4, /*value*/166, /*index*/1, /*title*/"池袋晶葉①　力が欲しいのか？", /*comment*/"");

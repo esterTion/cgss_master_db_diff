@@ -278,3 +278,4 @@ INSERT INTO `card_location` VALUES (/*index*/279, /*text*/"メモリアルLIVE�
 INSERT INTO `card_location` VALUES (/*index*/280, /*text*/"思い出のLIVE会場前");
 INSERT INTO `card_location` VALUES (/*index*/281, /*text*/"食堂");
 INSERT INTO `card_location` VALUES (/*index*/282, /*text*/"運動場");
+INSERT INTO `card_location` VALUES (/*index*/283, /*text*/"スペインの広場");
