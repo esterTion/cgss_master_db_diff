@@ -11,3 +11,6 @@ INSERT INTO `master_plus_term` VALUES (/*id*/9, /*start_date*/"2017-06-05 00:00:
 INSERT INTO `master_plus_term` VALUES (/*id*/10, /*start_date*/"2017-06-19 00:00:00", /*end_date*/"2017-07-02 23:59:59", /*master_plus_group*/1, /*notice_start_date*/"2017-06-16 14:30:00");
 INSERT INTO `master_plus_term` VALUES (/*id*/11, /*start_date*/"2017-07-03 00:00:00", /*end_date*/"2017-07-16 23:59:59", /*master_plus_group*/2, /*notice_start_date*/"2017-06-16 14:30:00");
 INSERT INTO `master_plus_term` VALUES (/*id*/12, /*start_date*/"2017-07-17 00:00:00", /*end_date*/"2017-07-30 23:59:59", /*master_plus_group*/3, /*notice_start_date*/"2017-06-19 00:00:00");
+INSERT INTO `master_plus_term` VALUES (/*id*/13, /*start_date*/"2017-07-31 00:00:00", /*end_date*/"2017-08-13 23:59:59", /*master_plus_group*/1, /*notice_start_date*/"2017-07-28 14:30:00");
+INSERT INTO `master_plus_term` VALUES (/*id*/14, /*start_date*/"2017-08-14 00:00:00", /*end_date*/"2017-08-27 23:59:59", /*master_plus_group*/2, /*notice_start_date*/"2017-07-28 14:30:00");
+INSERT INTO `master_plus_term` VALUES (/*id*/15, /*start_date*/"2017-08-28 00:00:00", /*end_date*/"2017-09-10 23:59:59", /*master_plus_group*/3, /*notice_start_date*/"2017-07-31 00:00:00");

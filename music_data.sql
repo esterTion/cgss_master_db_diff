@@ -108,6 +108,7 @@ INSERT INTO `music_data` VALUES (/*id*/3031, /*name*/"Bright Blue", /*bpm*/105, 
 INSERT INTO `music_data` VALUES (/*id*/3032, /*name*/"気持ちいいよね　\n一等賞 !", /*bpm*/183, /*composer*/"Funta7", /*lyricist*/"Funta3", /*sound_offset*/72899, /*sound_length*/27500, /*name_sort*/35);
 INSERT INTO `music_data` VALUES (/*id*/3033, /*name*/"き・ま・ぐ・れ☆\nCafé au lait !", /*bpm*/148, /*composer*/"BNSI（Yoshi）", /*lyricist*/"BNSI（Mitsu）", /*sound_offset*/78599, /*sound_length*/26000, /*name_sort*/32);
 INSERT INTO `music_data` VALUES (/*id*/3034, /*name*/"Hotel Moonside", /*bpm*/129, /*composer*/"BNSI（Taku Inoue）", /*lyricist*/"BNSI（MC TC）", /*sound_offset*/72552, /*sound_length*/33000, /*name_sort*/108);
+INSERT INTO `music_data` VALUES (/*id*/3035, /*name*/"みんなのきもち", /*bpm*/143, /*composer*/"BNSI（佐藤貴文）", /*lyricist*/"BNSI（佐藤貴文）", /*sound_offset*/80590, /*sound_length*/27300, /*name_sort*/113);
 INSERT INTO `music_data` VALUES (/*id*/3036, /*name*/"in fact", /*bpm*/82, /*composer*/"Maiko Fujita", /*lyricist*/"Maiko Fujita", /*sound_offset*/65909, /*sound_length*/28000, /*name_sort*/13);
 INSERT INTO `music_data` VALUES (/*id*/3037, /*name*/"Can't Stop!!", /*bpm*/168, /*composer*/"小野貴光", /*lyricist*/"磯谷佳江", /*sound_offset*/42639, /*sound_length*/25000, /*name_sort*/36);
 INSERT INTO `music_data` VALUES (/*id*/3038, /*name*/"秘密のトワレ", /*bpm*/143, /*composer*/"ササキトモコ", /*lyricist*/"ササキトモコ", /*sound_offset*/77238, /*sound_length*/28200, /*name_sort*/104);
