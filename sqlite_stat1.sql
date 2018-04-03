@@ -39,7 +39,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"medley_music_random_rate", /*idx*/"",
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"panel_mission_comp_reward", /*idx*/"panel_mission_comp_reward_0_campaign_id_1_rap", /*stat*/"3 3 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"panel_mission_comp_reward", /*idx*/"panel_mission_comp_reward_0_campaign_id", /*stat*/"3 3");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gacha_data", /*idx*/"gacha_data_0_base_id", /*stat*/"174 2");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_detail", /*idx*/"sqlite_autoindex_room_item_detail_1", /*stat*/"730 2 1");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_detail", /*idx*/"sqlite_autoindex_room_item_detail_1", /*stat*/"731 2 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"medley_live_exclude", /*idx*/"sqlite_autoindex_medley_live_exclude_1", /*stat*/"25 25 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_collision", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"tour_live_detail", /*idx*/"tour_live_detail_0_event_id_1_area_id_2_area_index", /*stat*/"35 35 5 1");
@@ -70,7 +70,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"live_daily_bonus_drop", /*idx*/"", /*
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"card_level_table", /*idx*/"", /*stat*/100);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"tour_live_correction", /*idx*/"tour_live_correction_0_event_id_1_difficulty", /*stat*/"5 5 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"total_login_bonus", /*idx*/"", /*stat*/31);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_anime", /*idx*/"sqlite_autoindex_room_item_anime_1", /*stat*/"859 6 1");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_anime", /*idx*/"sqlite_autoindex_room_item_anime_1", /*stat*/"862 6 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"potential_value_vi", /*idx*/"", /*stat*/10);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_grid_data", /*idx*/"sqlite_autoindex_room_item_grid_data_1", /*stat*/"1 1 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item", /*idx*/"", /*stat*/1);
