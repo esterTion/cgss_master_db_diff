@@ -1,0 +1,2 @@
+CREATE TABLE 'sp_campaign_data' ('id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'notice_start' TEXT NOT NULL, 'campaign_start' TEXT NOT NULL, 'second_half_start' TEXT NOT NULL, 'campaign_end' TEXT NOT NULL, 'calc_start' TEXT NOT NULL, 'result_start' TEXT NOT NULL, 'result_end' TEXT NOT NULL, PRIMARY KEY('id'))
+INSERT INTO `sp_campaign_data` VALUES (/*id*/0, /*type*/0, /*notice_start*/"", /*campaign_start*/"", /*second_half_start*/"", /*campaign_end*/"", /*calc_start*/"", /*result_start*/"", /*result_end*/"");

@@ -39,7 +39,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/3, /*discription*/"別のルームに設置中のアイテムは、\nルームアイテム一覧から直接移動できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/4, /*discription*/"「お気に入り編成」から、事務所とフリールームに\n登場するアイドルを個別に設定できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20011, /*img*/1, /*discription*/"「一括収納」ボタンで設置中のルームアイテムを\nまとめて倉庫に収納することができます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"秋の旅館をテーマにしたアイテムを追加 !\nルームを素敵な旅館に ! !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"クリスマスをテーマにしたアイテムを追加 !\nルームをクリスマス風に ! !\n過去のクリスマスアイテムも復刻販売中 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、\n様々な効果を発揮する物があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -112,6 +112,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60009, /*img*/5, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60011, /*img*/1, /*discription*/"PランクSS以上かつPRP1000以上のプロデューサーのみ\n参加可能な「月間獲得ファン数ランキング」で1000位内に\n入賞することで、PランクSSSに昇格できます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60011, /*img*/2, /*discription*/"PランクSSまでとは異なり、PランクSSSは、1ヶ月の任期制となり、\n毎月1日の 0:00 に、PランクSSSのプロデューサーも\n全員ランクSSに戻ります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60011, /*img*/2, /*discription*/"集計後、ランキングの上位1000人が、新たにPランクSSSに\n昇格します。沢山のファンを獲得し、「アイドルマスター」を\n目指しましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60012, /*img*/1, /*discription*/"特訓アイテム交換では、所持している特訓アイテムを\n他の特訓アイテムに交換することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60013, /*img*/1, /*discription*/"マニーショップでは、マニーを消費して\nアイテムを購入することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60013, /*img*/1, /*discription*/"アイテムは、それぞれ購入できる上限数が決まっています。\nなお、一部のアイテムは一定期間で購入制限がリセットされます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/1, /*discription*/"「イベントptランキング報酬」、「達成pt報酬」、\n「ハイスコアランキング報酬」で、イベント限定の\nSレアアイドルやルームアイテムを手にいれましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/2, /*discription*/"イベントptランキングで50万位に入賞すると、\n自分の順位が入ったイベント称号を獲得できます。\n各称号のデザインは順位によって異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/3, /*discription*/"通常楽曲をプレイすると、パタパタイコとイベントptを獲得\nできます。パタパタイコは、スタミナ消費量と\nSCOREランクが高いほど多く獲得できます。");
