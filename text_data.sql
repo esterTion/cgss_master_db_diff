@@ -829,7 +829,7 @@ INSERT INTO `text_data` VALUES (/*category*/18, /*index*/29, /*text*/"{0}");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/30, /*text*/"詳細");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/31, /*text*/"景品詳細");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/32, /*text*/"[D33D98]{0}[-]本");
-INSERT INTO `text_data` VALUES (/*category*/18, /*index*/33, /*text*/"祝2周年 ! プラチナ宝くじ特設ページ");
+INSERT INTO `text_data` VALUES (/*category*/18, /*index*/33, /*text*/"新春 ! プラチナ宝くじ特設ページ");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/34, /*text*/"宝くじに関する情報が確認できます");
 INSERT INTO `text_data` VALUES (/*category*/19, /*index*/1, /*text*/"マニーショップ・購入");
 INSERT INTO `text_data` VALUES (/*category*/19, /*index*/2, /*text*/"アイテム売却");
