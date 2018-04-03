@@ -28,3 +28,4 @@ INSERT INTO `gacha_rate` VALUES (/*id*/30023, /*step*/0, /*nomal_ratio*/0, /*rar
 INSERT INTO `gacha_rate` VALUES (/*id*/30024, /*step*/0, /*nomal_ratio*/0, /*rare_ratio*/8850, /*sr_ratio*/1000, /*ssr_ratio*/150);
 INSERT INTO `gacha_rate` VALUES (/*id*/30025, /*step*/0, /*nomal_ratio*/0, /*rare_ratio*/8700, /*sr_ratio*/1000, /*ssr_ratio*/300);
 INSERT INTO `gacha_rate` VALUES (/*id*/30026, /*step*/0, /*nomal_ratio*/0, /*rare_ratio*/8850, /*sr_ratio*/1000, /*ssr_ratio*/150);
+INSERT INTO `gacha_rate` VALUES (/*id*/30027, /*step*/0, /*nomal_ratio*/0, /*rare_ratio*/8850, /*sr_ratio*/1000, /*ssr_ratio*/150);
