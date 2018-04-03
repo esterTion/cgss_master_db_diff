@@ -1,0 +1,1 @@
+CREATE TABLE 'idel_vote_idol' ('id' INTEGER NOT NULL, 'campaign_id' INTEGER NOT NULL, 'card_id' INTEGER NOT NULL, 'use_type' INTEGER NOT NULL, 'index' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'insert_word_type' INTEGER NOT NULL, PRIMARY KEY('card_id'))
