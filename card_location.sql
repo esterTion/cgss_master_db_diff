@@ -408,3 +408,7 @@ INSERT INTO `card_location` VALUES (/*index*/409, /*text*/"バラ園・噴水前
 INSERT INTO `card_location` VALUES (/*index*/410, /*text*/"ホテル・ナイトプール");
 INSERT INTO `card_location` VALUES (/*index*/411, /*text*/"イリュージョン・ステージ");
 INSERT INTO `card_location` VALUES (/*index*/412, /*text*/"リムジンパーティー・車内");
+INSERT INTO `card_location` VALUES (/*index*/413, /*text*/"緑豊かな街の小道");
+INSERT INTO `card_location` VALUES (/*index*/414, /*text*/"レストラン・ステージ");
+INSERT INTO `card_location` VALUES (/*index*/415, /*text*/"名古屋城前");
+INSERT INTO `card_location` VALUES (/*index*/416, /*text*/"青森の海辺");

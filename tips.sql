@@ -256,6 +256,11 @@ INSERT INTO `tips` VALUES (/*id*/254, /*tips_type*/1, /*value*/158, /*index*/2, 
 INSERT INTO `tips` VALUES (/*id*/255, /*tips_type*/1, /*value*/147, /*index*/2, /*title*/"井村雪菜のウワサ②", /*comment*/"知人と会わない日は\nメイクの実験日らしい。");
 INSERT INTO `tips` VALUES (/*id*/256, /*tips_type*/1, /*value*/149, /*index*/2, /*title*/"榊原里美のウワサ②", /*comment*/"利きハチミツができるらしい。");
 INSERT INTO `tips` VALUES (/*id*/257, /*tips_type*/1, /*value*/266, /*index*/2, /*title*/"若林智香のウワサ②", /*comment*/"レッスンの休憩時間中、\n他のアイドルを\n応援しているらしい。");
+INSERT INTO `tips` VALUES (/*id*/258, /*tips_type*/1, /*value*/169, /*index*/2, /*title*/"松本沙理奈のウワサ②", /*comment*/"毎朝の豆乳は欠かさないらしい。");
+INSERT INTO `tips` VALUES (/*id*/259, /*tips_type*/1, /*value*/271, /*index*/2, /*title*/"諸星きらりのウワサ②", /*comment*/"少女漫画を読むときは\n1ページごとに大騒ぎらしい。");
+INSERT INTO `tips` VALUES (/*id*/260, /*tips_type*/1, /*value*/134, /*index*/2, /*title*/"双葉杏のウワサ②", /*comment*/"「うさぎ」は誰かが\n定期的に洗っているが\n杏は気づいていないらしい。");
+INSERT INTO `tips` VALUES (/*id*/261, /*tips_type*/1, /*value*/156, /*index*/2, /*title*/"栗原ネネのウワサ②", /*comment*/"毎日、必要な栄養を\n必ず摂っているらしい。");
+INSERT INTO `tips` VALUES (/*id*/262, /*tips_type*/1, /*value*/247, /*index*/2, /*title*/"姫川友紀のウワサ②", /*comment*/"野球選手のモノマネが\n細かすぎると評判らしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !");
@@ -524,3 +529,6 @@ INSERT INTO `tips` VALUES (/*id*/40228, /*tips_type*/4, /*value*/251, /*index*/2
 INSERT INTO `tips` VALUES (/*id*/40229, /*tips_type*/4, /*value*/119, /*index*/2, /*title*/"関裕美②　本人は知らない", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40230, /*tips_type*/4, /*value*/137, /*index*/2, /*title*/"涼宮星花②　夢の一つ", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40231, /*tips_type*/4, /*value*/259, /*index*/2, /*title*/"西島櫂②　ウワサについて", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40232, /*tips_type*/4, /*value*/201, /*index*/2, /*title*/"北条加蓮②　髪型は変えるけど", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40233, /*tips_type*/4, /*value*/159, /*index*/2, /*title*/"佐久間まゆ②　いろいろ深い", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40234, /*tips_type*/4, /*value*/298, /*index*/2, /*title*/"南条光②　ファンの年齢層", /*comment*/"");
