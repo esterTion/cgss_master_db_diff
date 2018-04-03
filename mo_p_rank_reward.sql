@@ -1,2 +1,4 @@
 CREATE TABLE 'mo_p_rank_reward' ('id' INTEGER NOT NULL, 'month' INTEGER NOT NULL, 'rank_min' INTEGER NOT NULL, 'rank_max' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_value' INTEGER NOT NULL, 'add_value_1' INTEGER NOT NULL, 'add_value_2' INTEGER NOT NULL, 'add_value_3' INTEGER NOT NULL, PRIMARY KEY('id'))
-INSERT INTO `mo_p_rank_reward` VALUES (/*id*/1, /*month*/0, /*rank_min*/0, /*rank_max*/0, /*reward_type*/0, /*reward_id*/0, /*reward_value*/0, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `mo_p_rank_reward` VALUES (/*id*/9001, /*month*/9, /*rank_min*/1, /*rank_max*/1000, /*reward_type*/7, /*reward_id*/80001, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `mo_p_rank_reward` VALUES (/*id*/9002, /*month*/9, /*rank_min*/1, /*rank_max*/1000, /*reward_type*/11, /*reward_id*/4080001, /*reward_value*/7, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `mo_p_rank_reward` VALUES (/*id*/9003, /*month*/9, /*rank_min*/1, /*rank_max*/1000, /*reward_type*/4, /*reward_id*/0, /*reward_value*/250, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);

@@ -150,6 +150,10 @@ INSERT INTO `tips` VALUES (/*id*/148, /*tips_type*/1, /*value*/297, /*index*/1, 
 INSERT INTO `tips` VALUES (/*id*/149, /*tips_type*/1, /*value*/145, /*index*/1, /*title*/"柳清良のウワサ", /*comment*/"ピトッとするアレと\nチクッとするアレを\nバッグに忍ばせているらしい。");
 INSERT INTO `tips` VALUES (/*id*/150, /*tips_type*/1, /*value*/231, /*index*/1, /*title*/"桐生つかさのウワサ", /*comment*/"ウワサで判断されるとか\n勘弁だし、アポとってくんない？\nらしい。");
 INSERT INTO `tips` VALUES (/*id*/151, /*tips_type*/1, /*value*/124, /*index*/1, /*title*/"遊佐こずえのウワサ", /*comment*/"みんなのはなしを\nきいているだけで\nしあわせなきもちになるらしい。");
+INSERT INTO `tips` VALUES (/*id*/152, /*tips_type*/1, /*value*/157, /*index*/1, /*title*/"古賀小春のウワサ", /*comment*/"虫は苦手じゃない\nらしい。");
+INSERT INTO `tips` VALUES (/*id*/153, /*tips_type*/1, /*value*/225, /*index*/1, /*title*/"松尾千鶴のウワサ", /*comment*/"それなりにうまくやっている\nつもりらしい。");
+INSERT INTO `tips` VALUES (/*id*/154, /*tips_type*/1, /*value*/241, /*index*/1, /*title*/"沢田麻理菜のウワサ", /*comment*/"一年中サマーソングを\n聴いているらしい。");
+INSERT INTO `tips` VALUES (/*id*/155, /*tips_type*/1, /*value*/203, /*index*/1, /*title*/"瀬名詩織のウワサ", /*comment*/"悩んだときに、\n海を散歩していると、\n海風が背中を押してくれるらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/30001, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルを育てるには", /*comment*/"アイドルのレベルを上げるには、\nレッスンを行いましょう !");
 INSERT INTO `tips` VALUES (/*id*/30002, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルとの親愛度を上げるには", /*comment*/"LIVEを行うと、\n参加したアイドルの親愛度が上がります !");
@@ -328,3 +332,7 @@ INSERT INTO `tips` VALUES (/*id*/40150, /*tips_type*/4, /*value*/297, /*index*/1
 INSERT INTO `tips` VALUES (/*id*/40151, /*tips_type*/4, /*value*/145, /*index*/1, /*title*/"柳清良①　体調を心配して", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40152, /*tips_type*/4, /*value*/231, /*index*/1, /*title*/"桐生つかさ①　本気ってわかる？", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40153, /*tips_type*/4, /*value*/124, /*index*/1, /*title*/"遊佐こずえ①　猫のように", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40154, /*tips_type*/4, /*value*/157, /*index*/1, /*title*/"古賀小春①　(…仲間かな？)", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40155, /*tips_type*/4, /*value*/225, /*index*/1, /*title*/"松尾千鶴①　渾身の書 !", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40156, /*tips_type*/4, /*value*/241, /*index*/1, /*title*/"沢田麻理菜①　よかったこと", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40157, /*tips_type*/4, /*value*/203, /*index*/1, /*title*/"瀬名詩織①　…分かります…", /*comment*/"");

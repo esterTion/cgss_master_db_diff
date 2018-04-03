@@ -73,6 +73,11 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40003, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40004, /*img*/1, /*discription*/"スターレッスンを行うとスターランクが上がります。\nスターランクが上がるとLIVEでの獲得マニー量が増加したり、\nLIVEでレア報酬を獲得できる確率が上がります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40004, /*img*/1, /*discription*/"スターランクの効果は、使用中ユニットの\nセンターアイドルの効果が適用されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40004, /*img*/2, /*discription*/"スターレッスンは、同じエピソード同士のアイドルで\n行うことができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40005, /*img*/1, /*discription*/"アイドルのポテンシャルを解放すると、\nLIVEで発揮されるアイドルの能力をアップできます！");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40005, /*img*/1, /*discription*/"ポテンシャルは「ボーカル」「ダンス」「ビジュアル」「ライフ」\n4種類あり、解放するには、「プロデュースpt」と\n「特訓アイテム」が必要になります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40005, /*img*/1, /*discription*/"プロデュースptは、アイドルのファン数を増やすことで、\n最大 25 まで獲得できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40005, /*img*/2, /*discription*/"ポテンシャル解放による能力アップは、そのアイドルの\n全てのエピソードに適用され、また、アップする能力値は、\nレアリティによって異なります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40005, /*img*/2, /*discription*/"お気に入りのアイドルのファンを集めて、\nポテンシャルを解放し、LIVEで大活躍させましょう！");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/3, /*discription*/"お気に入りのアイドルを編成することができます。\nお気に入りのアイドルはホームとルームに登場します。");
@@ -100,6 +105,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60009, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60009, /*img*/3, /*discription*/"フルサイズ表示の場合、イラストをスワイプすることで名刺に\n表示させる位置を調整できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60009, /*img*/4, /*discription*/"作った名刺は他のプロデューサーと交換する事ができます。\n名刺の交換は名刺ページの名刺交換画面や、他のプロデューサーの\nプロフィールページから行う事ができます。\n※自分と相手のいずれかが名刺を作成していない場合、\n交換依頼は行えません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60009, /*img*/5, /*discription*/"作った名刺は、あなたのTwitterに投稿する事ができます。\n名刺ページ左下のTwitterアイコンから投稿できます。\n※Twitterアイコンは名刺を作成済みの場合のみ表示されます。\n※画像の投稿には、公式のTwitterアプリが必要となります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60011, /*img*/1, /*discription*/"PランクSS以上かつPRP1000以上のプロデューサーのみ\n参加可能な「月間獲得ファン数ランキング」で1000位内に\n入賞することで、PランクSSSに昇格できます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60011, /*img*/2, /*discription*/"PランクSSまでとは異なり、PランクSSSは、1ヶ月の任期制となり、\n毎月1日の 0:00 に、PランクSSSのプロデューサーも\n全員ランクSSに戻ります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60011, /*img*/2, /*discription*/"集計後、ランキングの上位1000人が、新たにPランクSSSに\n昇格します。沢山のファンを獲得し、「アイドルマスター」を\n目指しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/1, /*discription*/"「イベントptランキング報酬」、「達成pt報酬」、\n「ハイスコアランキング報酬」で、イベント限定の\nSレアアイドルやルームアイテムを手にいれましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/2, /*discription*/"イベントptランキングで50万位に入賞すると、\n自分の順位が入ったイベント称号を獲得できます。\n各称号のデザインは順位によって異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/3, /*discription*/"通常楽曲をプレイすると、にじのくつとイベントptを獲得\nできます。にじのくつは、スタミナ消費量と\nSCOREランクが高いほど多く獲得できます。");
@@ -138,7 +146,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80501, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80501, /*img*/1, /*discription*/"まず「セット中スタンプ」の中から、変更したいスタンプを選択し、\n次にスタンプの一覧から、設定したいスタンプを選択しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80501, /*img*/2, /*discription*/"スタンプの設定が済んだら、最後に「保存」ボタンを押しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80501, /*img*/2, /*discription*/"スタンプの設定を初期状態に戻したい場合は、\n「初期設定」ボタンを押しましょう。\nイベント開始時のおすすめのスタンプ設定が適用されます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90101, /*img*/1, /*discription*/"アイドルのファン数を増やすことで、ポテンシャルを解放し、\nアイドルのステータスを強化することができる機能です。\n（ポテンシャル解放では特訓アイテムを消費します）\n※各数値は開発中のものです。 ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90101, /*img*/1, /*discription*/"アイドルのファン数を増やすことで、ポテンシャルを解放し、\nアイドルのステータスを強化することができる機能です。\n（ポテンシャル解放では特訓アイテムを消費します）\n※各数値は開発中のものです。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90102, /*img*/1, /*discription*/"PランクSS、PRP1000以上のプロデューサーのみ参加可能な\nランキングで、上位入賞することで、PランクSSSに昇格します。\n（PランクSSSは、1ヶ月の任期制となります）\n    ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90103, /*img*/1, /*discription*/"新3D衣装「アクロス・ザ・スターズ」登場 !\n3DLIVEでアイドルたちの衣装を\n変更することができるようになりました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90103, /*img*/2, /*discription*/"3D衣装の変更はアイドル編成と\nMVモードのユニット確認画面で\n切り替えることができます。");
