@@ -181,3 +181,4 @@ INSERT INTO `card_location` VALUES (/*index*/182, /*text*/"美玲お気に入り
 INSERT INTO `card_location` VALUES (/*index*/183, /*text*/"おいかわ牧場");
 INSERT INTO `card_location` VALUES (/*index*/184, /*text*/"牧場風ステージ");
 INSERT INTO `card_location` VALUES (/*index*/185, /*text*/"スーパー");
+INSERT INTO `card_location` VALUES (/*index*/186, /*text*/"ジャズバー");
