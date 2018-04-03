@@ -150,6 +150,11 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60015, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60015, /*img*/2, /*discription*/"ドレスショップで購入した3D衣装は、アイドル編成と\nMVモードのユニット確認画面から選択することがで\nきます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60016, /*img*/1, /*discription*/"マニーショップにアイテム売却機能が追加されました。\n画面右上のボタンから売却画面に切り替えることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60016, /*img*/1, /*discription*/"所持アイテムを売却することで、マニーを獲得できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60019, /*img*/1, /*discription*/"誕生日特設ページでは、アイドルの誕生日を\nお祝いすることができます。\n誕生日アイドルがいない日は誕生日の確認などができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60019, /*img*/2, /*discription*/"バースデーカード作成ボタンを押すと、誕生日アイドルの\nバースデーカードを作ることができます。\nバースデーカード編集から、好きなデザインを選んで、\nオリジナルのバースデーカードを作りましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60019, /*img*/3, /*discription*/"バースデーカードに表示させるイラストやコメントは、\nスワイプすることで位置を自由に調整できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60019, /*img*/4, /*discription*/"作ったバースデーカードは、あなたのTwitterに投稿する事が\nできます。バースデーカードページ左下のTwitterアイコンから\n投稿できます。\n※画像の投稿には、公式のTwitterアプリが必要となります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60019, /*img*/5, /*discription*/"誕生日アイドルをユニットに入れてLIVEをクリアすると、\nファンからプレゼントが貰えます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/1, /*discription*/"「イベントptランキング報酬」、「達成pt報酬」、\n「ハイスコアランキング報酬」で、イベント限定の\nSレアアイドルやルームアイテムを手にいれましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/2, /*discription*/"イベントptランキングで50万位に入賞すると、\n自分の順位が入ったイベント称号を獲得できます。\n各称号のデザインは順位によって異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/3, /*discription*/"通常楽曲をプレイすると、セクシーギルティエンブレムと\nイベントptを獲得できます。\nセクシーギルティエンブレムは、スタミナ消費量と\nSCOREランクが高いほど多く獲得できます。");
