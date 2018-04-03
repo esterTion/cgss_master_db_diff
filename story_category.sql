@@ -297,3 +297,4 @@ INSERT INTO `story_category` VALUES (/*id*/321, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/323, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Frost", /*sub_title*/"Frost", /*disp_order*/56);
 INSERT INTO `story_category` VALUES (/*id*/324, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ツインテールの風", /*sub_title*/"ツインテールの風", /*disp_order*/57);
 INSERT INTO `story_category` VALUES (/*id*/325, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"小松伊吹 / 安斎都", /*sub_title*/"小松伊吹 / 安斎都", /*disp_order*/58);
+INSERT INTO `story_category` VALUES (/*id*/326, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"キラッ ! 満開スマイル", /*sub_title*/"キラッ ! 満開スマイル", /*disp_order*/59);
