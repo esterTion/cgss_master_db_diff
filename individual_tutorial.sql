@@ -28,7 +28,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20008, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20008, /*img*/2, /*discription*/"表示領域はミニウィンドウ上で移動することができます。\nミニウィンドウでルーム全体を見渡しながら\n編集したい箇所に表示領域を合わせることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20008, /*img*/3, /*discription*/"ミニウィンドウは左側に収納したり、\n上側に移動したりすることができます。\n編集箇所に応じてミニウィンドウを移動させましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20008, /*img*/4, /*discription*/"「－」、「＋」ボタンで表示領域のサイズを\n変更することができます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「木」をテーマにしたアイテムを追加 !\n木の温もり溢れる素敵なルームに ! !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「エレガント」をテーマにしたアイテムを追加 !\n気品ある素敵なルームに ! !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEでは、ミュージックセレクタ右上の動作設定ボタンから\nLIVEの背景演出を変更することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEプレイ中のSE再生設定もここから変更できます。\nSEをオフにすることで、動作が軽くなる場合があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30002, /*img*/1, /*discription*/"ユニット確認画面では、右上のLIVE設定ボタンから\nリズムゲームプレイ中の設定をカスタマイズできます。");

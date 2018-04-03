@@ -40,6 +40,7 @@ INSERT INTO `music_info` VALUES (/*id*/3015, /*discription*/"城ヶ崎美嘉（C
 INSERT INTO `music_info` VALUES (/*id*/3017, /*discription*/"小日向美穂（CV：津田美波）\n\n\n作詞・作曲・編曲：BNSI（遠山明孝）\nギター：後藤貴徳");
 INSERT INTO `music_info` VALUES (/*id*/3018, /*discription*/"十時愛梨（CV：原田ひとみ）\n\n\n作詞：BNSI（MC TC・おおくぼひろし）\n作曲・編曲：BNSI（おおくぼひろし）\nギター：豊嶋健太郎（バリウスカプセルズ）\nテナーサックス、バリトンサックス、\nトランペット、トロンボーン：Jesahm（BNSI）\nコーラス：Mitsu（BNSI）\nかけ声：ナムコサウンドシスターズ");
 INSERT INTO `music_info` VALUES (/*id*/3019, /*discription*/"川島瑞樹（CV：東山奈央）\n\n\n作詞：高瀬愛虹\n作曲・編曲：百引一\nコーラス：A.m.u.（ZIZZ STUDIO）\nギター：伊藤ヒロム");
+INSERT INTO `music_info` VALUES (/*id*/3020, /*discription*/"日野茜（CV：赤崎千夏）\n\n\n作詞：mft\n作曲：BNSI（Jesahm）\n編曲：日比野裕史\nAll Instruments：日比野裕史");
 INSERT INTO `music_info` VALUES (/*id*/3021, /*discription*/"安部菜々（CV：三宅麻理恵）\n\n\n作詞：夕野ヨシミ（IOSYS）\n作曲・編曲：ARM（IOSYS）");
 INSERT INTO `music_info` VALUES (/*id*/3023, /*discription*/"佐久間まゆ（CV：牧野由依）\n\n\n作詞：BNEI（八城雄太）\n作曲・編曲：滝澤俊輔（TRYTONELABO）\nギター＆ベース：岡野裕次郎（TRYTONELABO）\nバイオリン：伊藤友馬、張大赫\nビオラ：舘泉礼一\nチェロ：田草川亮太");
 INSERT INTO `music_info` VALUES (/*id*/3025, /*discription*/"高森藍子（CV：金子有希）\n\n\n作詞・作曲：イズミカワソラ\n編曲：今泉洋\nギター：今泉洋");

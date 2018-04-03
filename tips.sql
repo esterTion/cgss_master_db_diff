@@ -127,6 +127,10 @@ INSERT INTO `tips` VALUES (/*id*/125, /*tips_type*/1, /*value*/129, /*index*/1, 
 INSERT INTO `tips` VALUES (/*id*/126, /*tips_type*/1, /*value*/163, /*index*/1, /*title*/"有浦柑奈のウワサ", /*comment*/"ラブ＆ピースを広めるための歌を\n作詞・作曲する予定らしい。");
 INSERT INTO `tips` VALUES (/*id*/127, /*tips_type*/1, /*value*/171, /*index*/1, /*title*/"高橋礼子のウワサ", /*comment*/"お酒を飲むと、\n真面目に将来のことを\n語りだすらしい。");
 INSERT INTO `tips` VALUES (/*id*/128, /*tips_type*/1, /*value*/275, /*index*/1, /*title*/"槙原志保のウワサ", /*comment*/"深夜のパフェは月に３回までと\n決めているが、昼間のパフェは\nノーカウントらしい。");
+INSERT INTO `tips` VALUES (/*id*/129, /*tips_type*/1, /*value*/123, /*index*/1, /*title*/"大原みちるのウワサ", /*comment*/"登校中は、パンをくわえながら\n走っているが、人をちゃんと\n避けてしまうらしい。");
+INSERT INTO `tips` VALUES (/*id*/130, /*tips_type*/1, /*value*/192, /*index*/1, /*title*/"浅利七海のウワサ", /*comment*/"昔、海で溺れたときに、\n大きな魚のような何かに\n助けられたらしい。");
+INSERT INTO `tips` VALUES (/*id*/131, /*tips_type*/1, /*value*/240, /*index*/1, /*title*/"斉藤洋子のウワサ", /*comment*/"通販で健康器具を買っても、\n一回しか使わなかったものが\n数多くあるらしい。");
+INSERT INTO `tips` VALUES (/*id*/132, /*tips_type*/1, /*value*/153, /*index*/1, /*title*/"大西由里子のウワサ", /*comment*/"部屋の本棚に収まりきらない\n本の、新たな隠し場所を\n探し回っているらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/30001, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルを育てるには", /*comment*/"アイドルのレベルを上げるには、\nレッスンを行いましょう !");
 INSERT INTO `tips` VALUES (/*id*/30002, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルとの親愛度を上げるには", /*comment*/"LIVEを行うと、\n参加したアイドルの親愛度が上がります !");
@@ -282,3 +286,7 @@ INSERT INTO `tips` VALUES (/*id*/40127, /*tips_type*/4, /*value*/129, /*index*/1
 INSERT INTO `tips` VALUES (/*id*/40128, /*tips_type*/4, /*value*/163, /*index*/1, /*title*/"有浦柑奈①　ここで一曲", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40129, /*tips_type*/4, /*value*/171, /*index*/1, /*title*/"高橋礼子①　夢と希望を", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40130, /*tips_type*/4, /*value*/275, /*index*/1, /*title*/"槙原志保①　何つながりか…わかる", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40131, /*tips_type*/4, /*value*/123, /*index*/1, /*title*/"大原みちる①　みちるチャレンジ ! ？", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40132, /*tips_type*/4, /*value*/192, /*index*/1, /*title*/"浅利七海①　心静かにれす", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40133, /*tips_type*/4, /*value*/240, /*index*/1, /*title*/"斉藤洋子①　何のポーズ？", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40134, /*tips_type*/4, /*value*/153, /*index*/1, /*title*/"大西由里子①　得意なハナシ !", /*comment*/"");
