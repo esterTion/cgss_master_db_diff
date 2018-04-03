@@ -448,3 +448,4 @@ INSERT INTO `card_location` VALUES (/*index*/449, /*text*/"並木道");
 INSERT INTO `card_location` VALUES (/*index*/450, /*text*/"公園・バザー会場");
 INSERT INTO `card_location` VALUES (/*index*/451, /*text*/"公園・ジャングルジムの上");
 INSERT INTO `card_location` VALUES (/*index*/452, /*text*/"クリスマスイベントステージ");
+INSERT INTO `card_location` VALUES (/*index*/453, /*text*/"あんきらパーク");
