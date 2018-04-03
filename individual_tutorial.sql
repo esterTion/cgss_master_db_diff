@@ -90,6 +90,11 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60007, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60007, /*img*/1, /*discription*/"デイリーは毎日0時、ウィークリーは毎週月曜の0時に\n更新されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60008, /*img*/1, /*discription*/"ミッションで称号を手に入れたら、自由に変更させることが\nできます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60008, /*img*/1, /*discription*/"獲得方法を確認し、たくさんの称号を集めましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60009, /*img*/1, /*discription*/"名刺機能は、オリジナルの名刺を作ることができる機能です。\n\n名刺編集から、好きなデザインを選んで保存することで、\nあなたのプロデューサーとしての名刺を作ることができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60009, /*img*/2, /*discription*/"名刺編集では、Sレア以上のアイドルを設定していると、\n名刺の背景をアイドルのフルサイズイラストに設定できます。\nフルサイズ表示は、アイドル全画面設定からフルサイズ表示をONに\nすることにより設定できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60009, /*img*/3, /*discription*/"フルサイズ表示の場合、イラストをスワイプすることで名刺に\n表示させる位置を調整できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60009, /*img*/4, /*discription*/"作った名刺は他のプロデューサーと交換する事ができます。\n名刺の交換は名刺ページの名刺交換画面や、他のプロデューサーの\nプロフィールページから行う事ができます。\n※自分と相手のいずれかが名刺を作成していない場合、\n交換依頼は行えません。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60009, /*img*/5, /*discription*/"作った名刺は、あなたのTwitterに投稿する事ができます。\n名刺ページ左下のTwitterアイコンから投稿できます。\n※Twitterアイコンは名刺を作成済みの場合のみ表示されます。\n※画像の投稿には、公式のTwitterアプリが必要となります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/1, /*discription*/"「イベントptランキング報酬」、「達成pt報酬」、\n「ハイスコアランキング報酬」で、イベント限定の\nSレアアイドルやルームアイテムを手にいれましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/2, /*discription*/"イベントptランキングで50万位に入賞すると、\n自分の順位が入ったイベント称号を獲得できます。\n各称号のデザインは順位によって異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/3, /*discription*/"通常楽曲をプレイすると、サンバリンとイベントptを獲得\nできます。サンバリンは、スタミナ消費量と\nSCOREランクが高いほど多く獲得できます。");

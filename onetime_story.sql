@@ -1,3 +1,4 @@
 CREATE TABLE 'onetime_story' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'story_id' INTEGER NOT NULL, 'transition' INTEGER NOT NULL, 'page_index' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, 'play_order' INTEGER NOT NULL, PRIMARY KEY('id'), UNIQUE('play_order'))
-INSERT INTO `onetime_story` VALUES (/*id*/1, /*name*/"エイプリル", /*story_id*/1610, /*transition*/0, /*page_index*/0, /*start_date*/"2016-04-01 00:00:00", /*end_date*/"2016-04-01 23:59:59", /*play_order*/0);
-INSERT INTO `onetime_story` VALUES (/*id*/2, /*name*/"ルーム追加", /*story_id*/1971, /*transition*/201, /*page_index*/0, /*start_date*/"2016-06-27 11:00:00", /*end_date*/"2099-04-01 23:59:59", /*play_order*/1);
+INSERT INTO `onetime_story` VALUES (/*id*/1, /*name*/"エイプリル", /*story_id*/1610, /*transition*/0, /*page_index*/0, /*start_date*/"2016-04-01 00:00:00", /*end_date*/"2016-04-01 23:59:59", /*play_order*/100);
+INSERT INTO `onetime_story` VALUES (/*id*/2, /*name*/"ルーム追加", /*story_id*/1971, /*transition*/201, /*page_index*/0, /*start_date*/"2016-06-27 11:00:00", /*end_date*/"2099-04-01 23:59:59", /*play_order*/200);
+INSERT INTO `onetime_story` VALUES (/*id*/3, /*name*/"キャンペーンコミュ", /*story_id*/2205, /*transition*/6, /*page_index*/0, /*start_date*/"2016-08-17 15:00:00", /*end_date*/"2016-08-23 23:59:59", /*play_order*/300);
