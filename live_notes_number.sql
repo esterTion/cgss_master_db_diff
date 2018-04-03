@@ -1054,3 +1054,10 @@ INSERT INTO `live_notes_number` VALUES (/*live_id*/902, /*difficulty*/1, /*notes
 INSERT INTO `live_notes_number` VALUES (/*live_id*/902, /*difficulty*/2, /*notes_number*/199);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/902, /*difficulty*/3, /*notes_number*/346);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/902, /*difficulty*/4, /*notes_number*/600);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/903, /*difficulty*/1, /*notes_number*/81);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/904, /*difficulty*/1, /*notes_number*/70);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/904, /*difficulty*/2, /*notes_number*/333);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/905, /*difficulty*/1, /*notes_number*/70);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/905, /*difficulty*/2, /*notes_number*/333);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/906, /*difficulty*/1, /*notes_number*/70);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/906, /*difficulty*/2, /*notes_number*/333);

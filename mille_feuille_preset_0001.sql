@@ -1,1 +1,26 @@
 CREATE TABLE 'mille_feuille_preset_0001' ('id' INTEGER NOT NULL, 'serial_id' INTEGER NOT NULL, 'item_id' INTEGER NOT NULL, 'item_type' INTEGER NOT NULL, 'level' INTEGER NOT NULL, 'dir_type' INTEGER NOT NULL, 'pos_no' INTEGER NOT NULL, PRIMARY KEY('id'))
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/1, /*serial_id*/1, /*item_id*/2291, /*item_type*/5, /*level*/1, /*dir_type*/0, /*pos_no*/0);
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/2, /*serial_id*/2, /*item_id*/2290, /*item_type*/3, /*level*/1, /*dir_type*/0, /*pos_no*/1);
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/3, /*serial_id*/3, /*item_id*/2289, /*item_type*/4, /*level*/1, /*dir_type*/0, /*pos_no*/2);
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/4, /*serial_id*/4, /*item_id*/2270, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/56);
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/5, /*serial_id*/5, /*item_id*/2271, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/104);
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/6, /*serial_id*/6, /*item_id*/2272, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/152);
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/7, /*serial_id*/7, /*item_id*/2276, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/1);
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/8, /*serial_id*/8, /*item_id*/2277, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/4);
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/9, /*serial_id*/9, /*item_id*/2278, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/7);
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/10, /*serial_id*/10, /*item_id*/2286, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/15);
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/11, /*serial_id*/11, /*item_id*/2299, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/79);
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/12, /*serial_id*/12, /*item_id*/2285, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/127);
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/13, /*serial_id*/13, /*item_id*/2286, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/159);
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/14, /*serial_id*/14, /*item_id*/2299, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/223);
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/15, /*serial_id*/15, /*item_id*/2305, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/225);
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/16, /*serial_id*/16, /*item_id*/2305, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/228);
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/17, /*serial_id*/17, /*item_id*/2305, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/231);
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/18, /*serial_id*/18, /*item_id*/2287, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/63);
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/19, /*serial_id*/19, /*item_id*/2287, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/207);
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/20, /*serial_id*/20, /*item_id*/2274, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/100);
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/21, /*serial_id*/21, /*item_id*/2282, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/38);
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/22, /*serial_id*/22, /*item_id*/2280, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/32);
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/23, /*serial_id*/23, /*item_id*/2281, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/35);
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/24, /*serial_id*/24, /*item_id*/2283, /*item_type*/2, /*level*/1, /*dir_type*/1, /*pos_no*/10);
+INSERT INTO `mille_feuille_preset_0001` VALUES (/*id*/25, /*serial_id*/25, /*item_id*/2288, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/125);
