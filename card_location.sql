@@ -160,3 +160,5 @@ INSERT INTO `card_location` VALUES (/*index*/161, /*text*/"牧場");
 INSERT INTO `card_location` VALUES (/*index*/162, /*text*/"ショッピングモール");
 INSERT INTO `card_location` VALUES (/*index*/163, /*text*/"カフェテラス前");
 INSERT INTO `card_location` VALUES (/*index*/164, /*text*/"花畑");
+INSERT INTO `card_location` VALUES (/*index*/165, /*text*/"ホラーハウス風ステージ");
+INSERT INTO `card_location` VALUES (/*index*/166, /*text*/"花園");
