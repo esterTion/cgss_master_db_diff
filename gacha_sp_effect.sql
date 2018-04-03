@@ -10,3 +10,4 @@ INSERT INTO `gacha_sp_effect` VALUES (/*gacha_id*/30097, /*card_id*/200345, /*ga
 INSERT INTO `gacha_sp_effect` VALUES (/*gacha_id*/30097, /*card_id*/300335, /*gacha_effect_type*/1);
 INSERT INTO `gacha_sp_effect` VALUES (/*gacha_id*/30121, /*card_id*/200377, /*gacha_effect_type*/1);
 INSERT INTO `gacha_sp_effect` VALUES (/*gacha_id*/30146, /*card_id*/100395, /*gacha_effect_type*/1);
+INSERT INTO `gacha_sp_effect` VALUES (/*gacha_id*/30163, /*card_id*/300411, /*gacha_effect_type*/1);

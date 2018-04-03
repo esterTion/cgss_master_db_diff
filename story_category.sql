@@ -278,3 +278,4 @@ INSERT INTO `story_category` VALUES (/*id*/305, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/306, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Kawaii make MY day !", /*sub_title*/"Kawaii make MY day !", /*disp_order*/41);
 INSERT INTO `story_category` VALUES (/*id*/307, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Take me☆Take you", /*sub_title*/"Take me☆Take you", /*disp_order*/42);
 INSERT INTO `story_category` VALUES (/*id*/308, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"双翼の独奏歌", /*sub_title*/"双翼の独奏歌", /*disp_order*/43);
+INSERT INTO `story_category` VALUES (/*id*/309, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"イリュージョニスタ !", /*sub_title*/"イリュージョニスタ !", /*disp_order*/44);

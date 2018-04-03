@@ -19,3 +19,7 @@ INSERT INTO `sp_login_position` VALUES (/*day_count*/9, /*chara_index*/1, /*fram
 INSERT INTO `sp_login_position` VALUES (/*day_count*/9, /*chara_index*/2, /*frame_type*/5, /*frame_position_x*/0, /*frame_position_y*/0, /*text_data*/"うふふー、全部\nみなさんの\nおかげですー♪");
 INSERT INTO `sp_login_position` VALUES (/*day_count*/10, /*chara_index*/1, /*frame_type*/3, /*frame_position_x*/0, /*frame_position_y*/0, /*text_data*/"次に花嫁衣裳を\n着るのは、いつに\nなるかなぁ…");
 INSERT INTO `sp_login_position` VALUES (/*day_count*/10, /*chara_index*/2, /*frame_type*/3, /*frame_position_x*/0, /*frame_position_y*/0, /*text_data*/"お仕事なのか、\nそれとも…ドキドキ\nしちゃいますっ");
+INSERT INTO `sp_login_position` VALUES (/*day_count*/11, /*chara_index*/1, /*frame_type*/3, /*frame_position_x*/0, /*frame_position_y*/0, /*text_data*/"有香ちゃん、\nこないだ新しい服\n買ったんだって !");
+INSERT INTO `sp_login_position` VALUES (/*day_count*/11, /*chara_index*/2, /*frame_type*/3, /*frame_position_x*/0, /*frame_position_y*/0, /*text_data*/"あれからも、\n私たちのカワイイ道は\n続いています♪");
+INSERT INTO `sp_login_position` VALUES (/*day_count*/12, /*chara_index*/1, /*frame_type*/4, /*frame_position_x*/0, /*frame_position_y*/0, /*text_data*/"我が友よ、\n甘美な祝盃を ! ");
+INSERT INTO `sp_login_position` VALUES (/*day_count*/12, /*chara_index*/2, /*frame_type*/4, /*frame_position_x*/0, /*frame_position_y*/0, /*text_data*/"記念日にキミは何を\n想う。歓喜？感慨？\nそれとも…フフ");

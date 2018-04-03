@@ -161,6 +161,7 @@ INSERT INTO `music_data` VALUES (/*id*/9012, /*name*/"桜の頃", /*bpm*/82, /*c
 INSERT INTO `music_data` VALUES (/*id*/9013, /*name*/"Nothing but You", /*bpm*/167, /*composer*/"AJURIKA", /*lyricist*/"AJURIKA", /*sound_offset*/68328, /*sound_length*/22000, /*name_sort*/89);
 INSERT INTO `music_data` VALUES (/*id*/9014, /*name*/"With Love", /*bpm*/154, /*composer*/"渡部チェル", /*lyricist*/"絵伊子", /*sound_offset*/45947, /*sound_length*/28000, /*name_sort*/17);
 INSERT INTO `music_data` VALUES (/*id*/9015, /*name*/"リトルリドル", /*bpm*/132, /*composer*/"睦月周平", /*lyricist*/"ミズノゲンキ", /*sound_offset*/63162, /*sound_length*/33000, /*name_sort*/126);
+INSERT INTO `music_data` VALUES (/*id*/9016, /*name*/"イリュージョニスタ !", /*bpm*/216, /*composer*/"田中秀和（MONACA）", /*lyricist*/"八城雄太", /*sound_offset*/68727, /*sound_length*/23000, /*name_sort*/13);
 INSERT INTO `music_data` VALUES (/*id*/9901, /*name*/"Yes! Party Time!!", /*bpm*/148, /*composer*/"俊龍", /*lyricist*/"俊龍", /*sound_offset*/54477, /*sound_length*/25000, /*name_sort*/10);
 INSERT INTO `music_data` VALUES (/*id*/9902, /*name*/"Yes! Party Time!!", /*bpm*/148, /*composer*/"俊龍", /*lyricist*/"俊龍", /*sound_offset*/54477, /*sound_length*/25000, /*name_sort*/11);
 INSERT INTO `music_data` VALUES (/*id*/90001, /*name*/"ぴにゃリクエスト", /*bpm*/1, /*composer*/"?", /*lyricist*/"?", /*sound_offset*/0, /*sound_length*/70000, /*name_sort*/999);

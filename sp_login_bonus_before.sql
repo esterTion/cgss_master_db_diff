@@ -9,3 +9,5 @@ INSERT INTO `sp_login_bonus_before` VALUES (/*id*/7, /*count*/7, /*chara_max*/13
 INSERT INTO `sp_login_bonus_before` VALUES (/*id*/8, /*count*/8, /*chara_max*/14, /*reward_type*/4, /*reward_id*/0, /*reward_num*/50);
 INSERT INTO `sp_login_bonus_before` VALUES (/*id*/9, /*count*/9, /*chara_max*/14, /*reward_type*/4, /*reward_id*/0, /*reward_num*/50);
 INSERT INTO `sp_login_bonus_before` VALUES (/*id*/10, /*count*/10, /*chara_max*/12, /*reward_type*/4, /*reward_id*/0, /*reward_num*/50);
+INSERT INTO `sp_login_bonus_before` VALUES (/*id*/11, /*count*/11, /*chara_max*/15, /*reward_type*/4, /*reward_id*/0, /*reward_num*/50);
+INSERT INTO `sp_login_bonus_before` VALUES (/*id*/12, /*count*/12, /*chara_max*/14, /*reward_type*/4, /*reward_id*/0, /*reward_num*/50);

@@ -549,6 +549,10 @@ INSERT INTO `text_data` VALUES (/*category*/16, /*index*/117, /*text*/"雫ちゃ
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/118, /*text*/"うふふー、全部\nみなさんの\nおかげですー♪");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/119, /*text*/"次に花嫁衣裳を\n着るのは、いつに\nなるかなぁ…");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/120, /*text*/"お仕事なのか、\nそれとも…ドキドキ\nしちゃいますっ");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/121, /*text*/"有香ちゃん、\nこないだ新しい服\n買ったんだって !");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/122, /*text*/"あれからも、\n私たちのカワイイ道は\n続いています♪");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/123, /*text*/"我が友よ、\n甘美な祝盃を !");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/124, /*text*/"記念日にキミは何を\n想う。歓喜？感慨？\nそれとも…フフ");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/1, /*text*/"公演設定");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/2, /*text*/"公演情報");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/3, /*text*/"LIVE曲数");
