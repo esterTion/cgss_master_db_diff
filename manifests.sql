@@ -4594,7 +4594,7 @@ INSERT INTO `manifests` VALUES (/*name*/"card_spine_100002.unity3d", /*hash*/"13
 INSERT INTO `manifests` VALUES (/*name*/"card_spine_100003.unity3d", /*hash*/"a1bc9cbb5464958f6c31c0483cd7a545", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"card_spine_100004.unity3d", /*hash*/"daa2f17a853c9e9c131c386eb77bf26b", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"card_spine_100005.unity3d", /*hash*/"3ef7fb2a62a2294cf22515d93e7d63ee", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"card_spine_100006.unity3d", /*hash*/"e953c68248148ceff9011bb14e00b1fb", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"card_spine_100006.unity3d", /*hash*/"b19f90daa630cfdfe69c86334321f417", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"card_spine_100007.unity3d", /*hash*/"6e1db5f13c463c0120df0fc12db4aef1", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"card_spine_100008.unity3d", /*hash*/"5f89dcb832157815a0fe1db3e54eac12", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"card_spine_100009.unity3d", /*hash*/"99db5075f19c30bf1a5ade5664093f08", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
