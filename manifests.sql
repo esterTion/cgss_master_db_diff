@@ -16162,7 +16162,7 @@ INSERT INTO `manifests` VALUES (/*name*/"r/se_roomitem_000019.acb", /*hash*/"f0e
 INSERT INTO `manifests` VALUES (/*name*/"r/se_roomitem_0008.acb", /*hash*/"7207eb96bf36156a5ada6870ffef2f02", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"s/se_atapon_result.acb", /*hash*/"e2326a9ac7dd65040fd2975d5bd9b4fe", /*attr*/0, /*category*/"common", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"s/se_caravan.acb", /*hash*/"cc34059e68618e4cc258d2ebf5f4eff7", /*attr*/0, /*category*/"common", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"s/se_common_dl.acb", /*hash*/"eea2a10959fc20b8d1c59c0490979caf", /*attr*/0, /*category*/"tutorial_g1", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"s/se_common_dl.acb", /*hash*/"895595ef9052cec60c7d26e58afcf2bd", /*attr*/0, /*category*/"tutorial_g1", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"s/se_commu.acb", /*hash*/"e8be028b2c828004b781dd1ba4e966cd", /*attr*/0, /*category*/"tutorial_g1", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"s/se_evolution.acb", /*hash*/"6e3946e84ed8aed6cd78a35e636a18bb", /*attr*/0, /*category*/"tutorial_g1", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"s/se_gacha.acb", /*hash*/"49670616dd2c7b57bf78e291c8513c9f", /*attr*/0, /*category*/"tutorial_g1", /*decrypt_key*/"");
