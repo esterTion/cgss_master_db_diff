@@ -317,6 +317,9 @@ INSERT INTO `text_data` VALUES (/*category*/9, /*index*/79, /*text*/"リハー�
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/80, /*text*/"[E13939]{0}[-]");
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/81, /*text*/"所持マニーが不足しています。");
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/82, /*text*/"MASTER+のセットリストで獲得できるイベントptはMASTERと同じです");
+INSERT INTO `text_data` VALUES (/*category*/9, /*index*/83, /*text*/"決定ボタンを押した時点でスタミナが消費されます");
+INSERT INTO `text_data` VALUES (/*category*/9, /*index*/84, /*text*/"スタミナの消費量が多いほど\nイベントptが多く獲得できます");
+INSERT INTO `text_data` VALUES (/*category*/9, /*index*/85, /*text*/"{0}倍");
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/1, /*text*/"メンバー確認");
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/2, /*text*/"このユニットでLIVEを開催します");
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/3, /*text*/"準備完了");
@@ -512,6 +515,12 @@ INSERT INTO `text_data` VALUES (/*category*/12, /*index*/18, /*text*/"エラー�
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/19, /*text*/"スターシャイン不足エラー");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/20, /*text*/"スターシャインが\nスカウト必要数より不足しているため\nタイトル画面に戻ります");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/21, /*text*/"これ以上交換できません");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/22, /*text*/"エラー");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/23, /*text*/"エラー");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/24, /*text*/"エラー");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/25, /*text*/"エラー");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/26, /*text*/"エラー");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/27, /*text*/"エラー");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/1, /*text*/"エクストラコミュ解放");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/2, /*text*/"新たなエクストラコミュが解放されました");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/3, /*text*/"事務所");

@@ -5,7 +5,8 @@ INSERT INTO `index_leader_skill_data` VALUES (/*id*/3, /*name*/"ビジュアル\
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/4, /*name*/"全アピール\nアップ", /*skill_id*/"4,9,14,19,27,32,37,42,50,55,60,65");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/5, /*name*/"ライフ\nアップ", /*skill_id*/"5,10,15,20,28,33,38,43,51,56,61,66");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/6, /*name*/"特技アップ", /*skill_id*/"21,22,23,44,45,46,67,68,69");
-INSERT INTO `index_leader_skill_data` VALUES (/*id*/7, /*name*/"トリコロー\nル", /*skill_id*/"70,71,72,73");
+INSERT INTO `index_leader_skill_data` VALUES (/*id*/7, /*name*/"トリコロー\nル", /*skill_id*/"70,71,72,73,82,83,84");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/8, /*name*/"プリンセス", /*skill_id*/"74,75,76");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/9, /*name*/"チアー", /*skill_id*/"77,78,79");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/10, /*name*/"フォーチュン\nプレゼント", /*skill_id*/80);
+INSERT INTO `index_leader_skill_data` VALUES (/*id*/11, /*name*/"シンデレラ\nチャーム", /*skill_id*/81);
