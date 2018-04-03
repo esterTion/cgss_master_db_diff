@@ -24,6 +24,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/11006, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/11007, /*img*/1, /*discription*/"スペシャルガシャセットは期間限定販売です。\n購入すると2種類の「スカウトチケット」と「プラチナ\n10連ガシャチケット」を1枚ずつ獲得できます。\n※有償スタージュエルでのみ購入することができます");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11007, /*img*/2, /*discription*/"「スカウトチケット」はアイドルをスカウトできるチケット\nです。スカウトできるアイドルは、「対象アイドル」ボタン\nからご確認ください。※スカウトチケットの種類によって\nスカウトできるアイドルは異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11007, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で出現します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11010, /*img*/1, /*discription*/"スペシャルガシャセットは期間限定販売です。\n購入すると2種類の「スカウトチケット」と「プラチナ\n10連ガシャチケット」を1枚ずつ獲得できます。\n※有償スタージュエルでのみ購入することができます");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11010, /*img*/2, /*discription*/"「スカウトチケット」はアイドルをスカウトできるチケット\nです。スカウトできるアイドルは、「対象アイドル」ボタン\nからご確認ください。※スカウトチケットの種類によって\nスカウトできるアイドルは異なります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11010, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で出現します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20001, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20001, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、\n様々な効果を発揮する物があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20001, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -90,7 +93,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30006, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30006, /*img*/2, /*discription*/"「リスト選択」ボタンをタップすると\n公演名が記載されたプレイリストの一覧が表示されます。\n一覧からプレイリストを選択し、公演を振り返りましょう！");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30006, /*img*/3, /*discription*/"MV再生中に画面をタップするとポーズメニューが表示されます。\nポーズメニューでは「リスト」タブと「メニュー」タブを\n切り替えることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30006, /*img*/3, /*discription*/"「リスト」タブではプレイリストの楽曲を選択して再生できます。\n「メニュー」タブでは楽曲情報を確認できる他、\n「リピート」や「シャッフル」のON/OFFを設定できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「クリスマススペシャルLIVEキャンペーン」\n開催中 ! 期間中にLIVEをクリアすると、\n期間限定のアイテムを獲得できます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「新春 ! ハッピーニューイヤースペシャルLIVEキャンペーン」\n開催中 ! 期間中にLIVEをクリアすると、\n期間限定のアイテムを獲得できます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");
@@ -284,6 +288,5 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90301, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90301, /*img*/3, /*discription*/"受賞楽曲は、\nmobage「アイドルマスター シンデレラガールズ」\n第6回シンデレラガール総選挙と連動して楽曲化 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/1, /*discription*/"オールスターカウントダウンLIVE開催 !\n開催期間は2017年12月31日0時～24時です。\nみんなでLIVEを楽しみながら1年を締めくくりましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/2, /*discription*/"全プロデューサーで対象楽曲をクリアして、「全体ミッション」を達成しま\nしょう ! 対象楽曲がクリアされた回数によって獲得できる報酬が決定します !\n※全体ミッションの達成報酬は、\n1月1日12時にまとめて配布されます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/3, /*discription*/"「全体ミッション」の対象楽曲は、3時間ごとに変更されます。\n対象の楽曲タイプを選んでLIVEしましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/4, /*discription*/"「オールスターカウントダウンLIVE」には、「全体ミッション」のほかに\n「個人ミッション」があります。「宝くじチケット」や\n「イベント限定アイドルスカウトチケット」などを含む、\n豪華景品をご用意しておりますので忘れずにチェックしてくださいね !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/5, /*discription*/"特設ページ内「次のコミュ解放」横に表示されている時間になると、\nアイドルたちがMCを務めるコミュが解放されます。\n後半には「あの曲」も登場・・・ ! ？");
