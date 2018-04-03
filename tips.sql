@@ -261,6 +261,11 @@ INSERT INTO `tips` VALUES (/*id*/259, /*tips_type*/1, /*value*/271, /*index*/2, 
 INSERT INTO `tips` VALUES (/*id*/260, /*tips_type*/1, /*value*/134, /*index*/2, /*title*/"双葉杏のウワサ②", /*comment*/"「うさぎ」は誰かが\n定期的に洗っているが\n杏は気づいていないらしい。");
 INSERT INTO `tips` VALUES (/*id*/261, /*tips_type*/1, /*value*/156, /*index*/2, /*title*/"栗原ネネのウワサ②", /*comment*/"毎日、必要な栄養を\n必ず摂っているらしい。");
 INSERT INTO `tips` VALUES (/*id*/262, /*tips_type*/1, /*value*/247, /*index*/2, /*title*/"姫川友紀のウワサ②", /*comment*/"野球選手のモノマネが\n細かすぎると評判らしい。");
+INSERT INTO `tips` VALUES (/*id*/263, /*tips_type*/1, /*value*/174, /*index*/2, /*title*/"神谷奈緒のウワサ②", /*comment*/"翌朝の天気が\n髪の毛でわかるらしい。");
+INSERT INTO `tips` VALUES (/*id*/264, /*tips_type*/1, /*value*/221, /*index*/2, /*title*/"脇山珠美のウワサ②", /*comment*/"事務所にはMY脚立を\n持ち込んでいるらしい。");
+INSERT INTO `tips` VALUES (/*id*/265, /*tips_type*/1, /*value*/199, /*index*/2, /*title*/"伊集院惠のウワサ②", /*comment*/"一度行った国はなるべく行かず、\nいつでも次の国を\n探しているらしい。");
+INSERT INTO `tips` VALUES (/*id*/266, /*tips_type*/1, /*value*/296, /*index*/2, /*title*/"冴島清美のウワサ②", /*comment*/"整理整頓は趣味であって、\n習慣ではないらしい。");
+INSERT INTO `tips` VALUES (/*id*/267, /*tips_type*/1, /*value*/205, /*index*/2, /*title*/"佐城雪美のウワサ②", /*comment*/"ゲームは得意ではないが、\n人がプレイしているのを\n見るのは好きらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !");
@@ -532,4 +537,7 @@ INSERT INTO `tips` VALUES (/*id*/40231, /*tips_type*/4, /*value*/259, /*index*/2
 INSERT INTO `tips` VALUES (/*id*/40232, /*tips_type*/4, /*value*/201, /*index*/2, /*title*/"北条加蓮②　髪型は変えるけど", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40233, /*tips_type*/4, /*value*/159, /*index*/2, /*title*/"佐久間まゆ②　いろいろ深い", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40234, /*tips_type*/4, /*value*/298, /*index*/2, /*title*/"南条光②　ファンの年齢層", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40235, /*tips_type*/4, /*value*/135, /*index*/2, /*title*/"楊菲菲②　実はお嬢様ヨー", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40236, /*tips_type*/4, /*value*/227, /*index*/2, /*title*/"アナスタシア②　訳：落ち着く", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40237, /*tips_type*/4, /*value*/290, /*index*/2, /*title*/"キャシー・グラハム②　江戸っ子は…", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50001, /*tips_type*/5, /*value*/1, /*index*/1, /*title*/"縦画面持ち替え説明画像", /*comment*/"");
