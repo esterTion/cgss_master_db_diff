@@ -13,6 +13,7 @@ INSERT INTO `story_category` VALUES (/*id*/12, /*type*/2, /*chara_type*/1, /*cha
 INSERT INTO `story_category` VALUES (/*id*/13, /*type*/2, /*chara_type*/1, /*chara_id*/113, /*title*/"五十嵐響子", /*sub_title*/"", /*disp_order*/13);
 INSERT INTO `story_category` VALUES (/*id*/14, /*type*/2, /*chara_type*/1, /*chara_id*/114, /*title*/"柳瀬美由紀", /*sub_title*/"", /*disp_order*/14);
 INSERT INTO `story_category` VALUES (/*id*/15, /*type*/2, /*chara_type*/1, /*chara_id*/115, /*title*/"櫻井桃華", /*sub_title*/"", /*disp_order*/15);
+INSERT INTO `story_category` VALUES (/*id*/16, /*type*/2, /*chara_type*/1, /*chara_id*/116, /*title*/"江上椿", /*sub_title*/"", /*disp_order*/16);
 INSERT INTO `story_category` VALUES (/*id*/17, /*type*/2, /*chara_type*/1, /*chara_id*/117, /*title*/"長富蓮実", /*sub_title*/"", /*disp_order*/17);
 INSERT INTO `story_category` VALUES (/*id*/18, /*type*/2, /*chara_type*/1, /*chara_id*/118, /*title*/"横山千佳", /*sub_title*/"", /*disp_order*/18);
 INSERT INTO `story_category` VALUES (/*id*/19, /*type*/2, /*chara_type*/1, /*chara_id*/119, /*title*/"関裕美", /*sub_title*/"", /*disp_order*/19);
@@ -116,6 +117,8 @@ INSERT INTO `story_category` VALUES (/*id*/128, /*type*/2, /*chara_type*/2, /*ch
 INSERT INTO `story_category` VALUES (/*id*/129, /*type*/2, /*chara_type*/2, /*chara_id*/229, /*title*/"結城晴", /*sub_title*/"", /*disp_order*/129);
 INSERT INTO `story_category` VALUES (/*id*/130, /*type*/2, /*chara_type*/2, /*chara_id*/230, /*title*/"二宮飛鳥", /*sub_title*/"", /*disp_order*/130);
 INSERT INTO `story_category` VALUES (/*id*/131, /*type*/2, /*chara_type*/2, /*chara_id*/231, /*title*/"桐生つかさ", /*sub_title*/"", /*disp_order*/131);
+INSERT INTO `story_category` VALUES (/*id*/132, /*type*/2, /*chara_type*/2, /*chara_id*/232, /*title*/"望月聖", /*sub_title*/"", /*disp_order*/132);
+INSERT INTO `story_category` VALUES (/*id*/133, /*type*/2, /*chara_type*/2, /*chara_id*/233, /*title*/"鷹富士茄子", /*sub_title*/"", /*disp_order*/133);
 INSERT INTO `story_category` VALUES (/*id*/134, /*type*/2, /*chara_type*/3, /*chara_id*/234, /*title*/"本田未央", /*sub_title*/"", /*disp_order*/134);
 INSERT INTO `story_category` VALUES (/*id*/135, /*type*/2, /*chara_type*/3, /*chara_id*/235, /*title*/"高森藍子", /*sub_title*/"", /*disp_order*/135);
 INSERT INTO `story_category` VALUES (/*id*/136, /*type*/2, /*chara_type*/3, /*chara_id*/236, /*title*/"並木芽衣子", /*sub_title*/"", /*disp_order*/136);
@@ -127,6 +130,7 @@ INSERT INTO `story_category` VALUES (/*id*/141, /*type*/2, /*chara_type*/3, /*ch
 INSERT INTO `story_category` VALUES (/*id*/142, /*type*/2, /*chara_type*/3, /*chara_id*/242, /*title*/"矢口美羽", /*sub_title*/"", /*disp_order*/142);
 INSERT INTO `story_category` VALUES (/*id*/143, /*type*/2, /*chara_type*/3, /*chara_id*/243, /*title*/"赤城みりあ", /*sub_title*/"", /*disp_order*/143);
 INSERT INTO `story_category` VALUES (/*id*/144, /*type*/2, /*chara_type*/3, /*chara_id*/244, /*title*/"愛野渚", /*sub_title*/"", /*disp_order*/144);
+INSERT INTO `story_category` VALUES (/*id*/145, /*type*/2, /*chara_type*/3, /*chara_id*/245, /*title*/"真鍋いつき", /*sub_title*/"", /*disp_order*/145);
 INSERT INTO `story_category` VALUES (/*id*/146, /*type*/2, /*chara_type*/3, /*chara_id*/246, /*title*/"大槻唯", /*sub_title*/"", /*disp_order*/146);
 INSERT INTO `story_category` VALUES (/*id*/147, /*type*/2, /*chara_type*/3, /*chara_id*/247, /*title*/"姫川友紀", /*sub_title*/"", /*disp_order*/147);
 INSERT INTO `story_category` VALUES (/*id*/149, /*type*/2, /*chara_type*/3, /*chara_id*/249, /*title*/"喜多見柚", /*sub_title*/"", /*disp_order*/149);
@@ -218,7 +222,8 @@ INSERT INTO `story_category` VALUES (/*id*/243, /*type*/1, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/244, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第35話", /*sub_title*/"Easy Driver ! !", /*disp_order*/236);
 INSERT INTO `story_category` VALUES (/*id*/245, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第36話", /*sub_title*/"Voi che sapete…", /*disp_order*/237);
 INSERT INTO `story_category` VALUES (/*id*/246, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第37話", /*sub_title*/"Still up in the Air", /*disp_order*/238);
-INSERT INTO `story_category` VALUES (/*id*/247, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第38話", /*sub_title*/"coming soon", /*disp_order*/239);
+INSERT INTO `story_category` VALUES (/*id*/247, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第38話", /*sub_title*/"Cheer You! Cheer Me!", /*disp_order*/239);
+INSERT INTO `story_category` VALUES (/*id*/248, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第39話", /*sub_title*/"coming soon", /*disp_order*/240);
 INSERT INTO `story_category` VALUES (/*id*/254, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"絶対特権主張しますっ ! ", /*sub_title*/"絶対特権主張しますっ ! ", /*disp_order*/9);
 INSERT INTO `story_category` VALUES (/*id*/255, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ハイファイ☆デイズ", /*sub_title*/"ハイファイ☆デイズ", /*disp_order*/10);
 INSERT INTO `story_category` VALUES (/*id*/256, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"とある事務員の一日", /*sub_title*/"とある事務員の一日", /*disp_order*/1);

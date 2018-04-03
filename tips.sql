@@ -173,6 +173,10 @@ INSERT INTO `tips` VALUES (/*id*/171, /*tips_type*/1, /*value*/290, /*index*/1, 
 INSERT INTO `tips` VALUES (/*id*/172, /*tips_type*/1, /*value*/199, /*index*/1, /*title*/"伊集院惠のウワサ", /*comment*/"二ヶ月に一度は\n旅に出るらしい。");
 INSERT INTO `tips` VALUES (/*id*/173, /*tips_type*/1, /*value*/195, /*index*/1, /*title*/"小室千奈美のウワサ", /*comment*/"強気は本気の証らしい。");
 INSERT INTO `tips` VALUES (/*id*/174, /*tips_type*/1, /*value*/130, /*index*/1, /*title*/"相原雪乃のウワサ", /*comment*/"高校生のとき、紅茶の道を\n極められると思い、茶道部に\n入部し、そのまま卒業したらしい。");
+INSERT INTO `tips` VALUES (/*id*/175, /*tips_type*/1, /*value*/116, /*index*/1, /*title*/"江上椿のウワサ", /*comment*/"写真を整理しようとしても、\n見入ってしまって、\nまったく捗らないらしい。");
+INSERT INTO `tips` VALUES (/*id*/176, /*tips_type*/1, /*value*/233, /*index*/1, /*title*/"鷹富士茄子のウワサ", /*comment*/"生きていることが\n何よりの幸運らしい。");
+INSERT INTO `tips` VALUES (/*id*/177, /*tips_type*/1, /*value*/245, /*index*/1, /*title*/"真鍋いつきのウワサ", /*comment*/"大学時代には\nスポーツ教育を\n専攻していたらしい。");
+INSERT INTO `tips` VALUES (/*id*/178, /*tips_type*/1, /*value*/232, /*index*/1, /*title*/"望月聖のウワサ", /*comment*/"歌は好きだが、\n楽譜は読めないらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/30001, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルを育てるには", /*comment*/"アイドルのレベルを上げるには、\nレッスンを行いましょう !");
 INSERT INTO `tips` VALUES (/*id*/30002, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルとの親愛度を上げるには", /*comment*/"LIVEを行うと、\n参加したアイドルの親愛度が上がります !");
@@ -374,3 +378,7 @@ INSERT INTO `tips` VALUES (/*id*/40173, /*tips_type*/4, /*value*/290, /*index*/1
 INSERT INTO `tips` VALUES (/*id*/40174, /*tips_type*/4, /*value*/199, /*index*/1, /*title*/"伊集院惠①　楽しむコツ", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40175, /*tips_type*/4, /*value*/195, /*index*/1, /*title*/"小室千奈美①　ダーツで言うと？", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40176, /*tips_type*/4, /*value*/130, /*index*/1, /*title*/"相原雪乃①　A・お茶(紅茶、緑茶、珈琲)", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40177, /*tips_type*/4, /*value*/232, /*index*/1, /*title*/"望月聖①　天使の宴", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40178, /*tips_type*/4, /*value*/116, /*index*/1, /*title*/"江上椿①　趣味は写真です♪", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40179, /*tips_type*/4, /*value*/233, /*index*/1, /*title*/"鷹富士茄子①　1コマおみくじ", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40180, /*tips_type*/4, /*value*/245, /*index*/1, /*title*/"真鍋いつき①　再スカウト？", /*comment*/"");

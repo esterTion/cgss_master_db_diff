@@ -60,6 +60,7 @@ INSERT INTO `music_data` VALUES (/*id*/3027, /*name*/"2nd SIDE", /*bpm*/133, /*c
 INSERT INTO `music_data` VALUES (/*id*/3028, /*name*/"薄荷 -ハッカ-", /*bpm*/71, /*composer*/"泉典孝", /*lyricist*/"いつきおと", /*sound_offset*/67572, /*sound_length*/37000, /*name_sort*/83);
 INSERT INTO `music_data` VALUES (/*id*/3029, /*name*/"花簪 \nHANAKANZASHI", /*bpm*/125, /*composer*/"ARM（IOSYS）", /*lyricist*/"夕野ヨシミ（IOSYS）", /*sound_offset*/57459, /*sound_length*/35000, /*name_sort*/85);
 INSERT INTO `music_data` VALUES (/*id*/3031, /*name*/"Bright Blue", /*bpm*/105, /*composer*/"BNSI（kyo）", /*lyricist*/"marhy", /*sound_offset*/75411, /*sound_length*/38000, /*name_sort*/88);
+INSERT INTO `music_data` VALUES (/*id*/3032, /*name*/"気持ちいいよね　\n一等賞 !", /*bpm*/183, /*composer*/"Funta7", /*lyricist*/"Funta3", /*sound_offset*/72899, /*sound_length*/27500, /*name_sort*/27);
 INSERT INTO `music_data` VALUES (/*id*/3033, /*name*/"き・ま・ぐ・れ☆\nCafé au lait !", /*bpm*/148, /*composer*/"BNSI（Yoshi）", /*lyricist*/"BNSI（Mitsu）", /*sound_offset*/78599, /*sound_length*/26000, /*name_sort*/24);
 INSERT INTO `music_data` VALUES (/*id*/3034, /*name*/"Hotel Moonside", /*bpm*/129, /*composer*/"BNSI（Taku Inoue）", /*lyricist*/"BNSI（MC TC）", /*sound_offset*/72552, /*sound_length*/33000, /*name_sort*/90);
 INSERT INTO `music_data` VALUES (/*id*/3037, /*name*/"Can't Stop!!", /*bpm*/168, /*composer*/"小野貴光", /*lyricist*/"磯谷佳江", /*sound_offset*/42639, /*sound_length*/25000, /*name_sort*/28);
