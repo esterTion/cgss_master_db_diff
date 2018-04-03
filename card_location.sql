@@ -486,3 +486,4 @@ INSERT INTO `card_location` VALUES (/*index*/487, /*text*/"河原");
 INSERT INTO `card_location` VALUES (/*index*/488, /*text*/"バリ島・ヴィラ");
 INSERT INTO `card_location` VALUES (/*index*/489, /*text*/"バリ島・LIVEステージ");
 INSERT INTO `card_location` VALUES (/*index*/490, /*text*/"観光バス前");
+INSERT INTO `card_location` VALUES (/*index*/491, /*text*/"事務所・秘密基地");

@@ -72,6 +72,15 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20103, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20103, /*img*/3, /*discription*/"いらなくなったルームアイテムは「売却」ボタンで、\n売却してマニーに変える事ができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20104, /*img*/1, /*discription*/"Like情報ではLikeの履歴を確認できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20104, /*img*/1, /*discription*/"「ルーム訪問」から、いろいろな人のルームに\n遊びに行ってみましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20201, /*img*/1, /*discription*/"全国各地で営業を行い、\nアイドルたちの魅力を全国に広めましょう。\n営業は最大３種類まで同時に行えます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20201, /*img*/2, /*discription*/"獲得できる報酬、必要時間、実行可能な回数などは\n営業ごとに異なります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20201, /*img*/2, /*discription*/"営業には、解放条件のない「通常営業」と\n特定の条件を満たすと解放される「スペシャル営業」\nがあります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20201, /*img*/3, /*discription*/"営業へ送り出すアイドルは1人から5人まで編成できます。\n営業中のアイドルは、他の営業では編成できません。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20201, /*img*/4, /*discription*/"営業ごとの目標アピール値を達成できるように\nアイドルを編成しましょう。\n3つの目標を全て達成して、営業を大成功させましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20201, /*img*/4, /*discription*/"営業結果には「成功」、「大成功」、「超成功」の3つがあり、\n獲得できる報酬が変化します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20201, /*img*/5, /*discription*/"営業は、開始後に一定の時間が経過すると完了します。\nスタミナを消費することで、営業完了までの時間を\n短縮することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20201, /*img*/6, /*discription*/"営業が完了すると、報酬を獲得できます。\n報酬では、プロデューサー経験値やファン、\n特訓アイテムなど、様々な報酬を獲得することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20201, /*img*/7, /*discription*/"営業完了時の通知設定は、\n「システム設定」から変更することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEでは、ミュージックセレクタ右上の動作設定ボタンから\nLIVEの背景演出を変更することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEプレイ中のSE再生設定もここから変更できます。\nSEをオフにすることで、動作が軽くなる場合があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30002, /*img*/1, /*discription*/"ユニット確認画面では、右上のLIVE設定ボタンから\nリズムゲームプレイ中の設定をカスタマイズできます。");
@@ -93,6 +102,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30006, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30006, /*img*/2, /*discription*/"「リスト選択」ボタンをタップすると\n公演名が記載されたプレイリストの一覧が表示されます。\n一覧からプレイリストを選択し、公演を振り返りましょう！");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30006, /*img*/3, /*discription*/"MV再生中に画面をタップするとポーズメニューが表示されます。\nポーズメニューでは「リスト」タブと「メニュー」タブを\n切り替えることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30006, /*img*/3, /*discription*/"「リスト」タブではプレイリストの楽曲を選択して再生できます。\n「メニュー」タブでは楽曲情報を確認できる他、\n「リピート」や「シャッフル」のON/OFFを設定できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30008, /*img*/1, /*discription*/"LIVEの楽曲選択画面をリニューアルしました !\n「WIDE（横画面）」「SMART（縦画面）」の\n2種類のモードを切り替えて使用します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30008, /*img*/2, /*discription*/"選曲画面のジャケットをタップすることで、\nタイル状に並んだジャケット画像から\n選曲することもできます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30009, /*img*/1, /*discription*/"SMART LIVE設定の判定ライン設定に「下」を追加しました。\n「下」に設定すると、横画面のLIVEのように、\nリズムアイコンが縦に流れてくるようになります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
