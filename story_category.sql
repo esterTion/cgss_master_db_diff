@@ -273,3 +273,4 @@ INSERT INTO `story_category` VALUES (/*id*/288, /*type*/1, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/302, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"モーレツ★世直しギルティ ! ", /*sub_title*/"モーレツ★世直しギルティ ! ", /*disp_order*/37);
 INSERT INTO `story_category` VALUES (/*id*/303, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"With Love", /*sub_title*/"With Love", /*disp_order*/38);
 INSERT INTO `story_category` VALUES (/*id*/304, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Yes ! Party Time ! ! ", /*sub_title*/"Yes ! Party Time ! ! ", /*disp_order*/39);
+INSERT INTO `story_category` VALUES (/*id*/305, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"リトルリドル", /*sub_title*/"リトルリドル", /*disp_order*/40);
