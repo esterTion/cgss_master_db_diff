@@ -408,6 +408,8 @@ INSERT INTO `text_data` VALUES (/*category*/12, /*index*/2, /*text*/"{0}のレ�
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/3, /*text*/"{0}の提供アイドル一覧");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/4, /*text*/"各提供割合は、以下のタブをご覧ください。\n・「1回引く」および、10連ガシャの1～9人目は、「{0}」\n・10連ガシャの10人目は、「{1}」");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/5, /*text*/"アイドルごとに表示している出現率は、表示上小数第4位にて切り捨てしているため、\n全てを合算しても100%にならない場合があります。");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/6, /*text*/"提供割合");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/7, /*text*/"アイドルごとに表示している提供割合は、表示上小数第4位にて切り捨てしているため\n全てを合算しても100%にならない場合があります。");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/1, /*text*/"エクストラコミュ解放");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/2, /*text*/"新たなエクストラコミュが解放されました");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/3, /*text*/"事務所");

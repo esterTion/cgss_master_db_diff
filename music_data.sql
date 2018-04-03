@@ -90,6 +90,7 @@ INSERT INTO `music_data` VALUES (/*id*/5015, /*name*/"Rockin' Emotion", /*bpm*/1
 INSERT INTO `music_data` VALUES (/*id*/5021, /*name*/"Trancing Pulse", /*bpm*/143, /*composer*/"上松範康（Elements Garden）", /*lyricist*/"AJURIKA", /*sound_offset*/76089, /*sound_length*/28000, /*name_sort*/76);
 INSERT INTO `music_data` VALUES (/*id*/5024, /*name*/"流れ星キセキ", /*bpm*/174, /*composer*/"渡部チェル", /*lyricist*/"小金井つくも", /*sound_offset*/52397, /*sound_length*/27000, /*name_sort*/79);
 INSERT INTO `music_data` VALUES (/*id*/5025, /*name*/"M@GIC☆", /*bpm*/178, /*composer*/"田中秀和（MONACA）", /*lyricist*/"森由里子", /*sound_offset*/60948, /*sound_length*/22000, /*name_sort*/100);
+INSERT INTO `music_data` VALUES (/*id*/5027, /*name*/"shabon song", /*bpm*/145, /*composer*/"滝澤俊輔（TRYTONELABO）", /*lyricist*/"木村有希", /*sound_offset*/57097, /*sound_length*/41000, /*name_sort*/49);
 INSERT INTO `music_data` VALUES (/*id*/5028, /*name*/"STORY", /*bpm*/148, /*composer*/"田中秀和（MONACA）", /*lyricist*/"森由里子", /*sound_offset*/80670, /*sound_length*/36100, /*name_sort*/59);
 INSERT INTO `music_data` VALUES (/*id*/5029, /*name*/"あいくるしい", /*bpm*/84, /*composer*/"田村歩美", /*lyricist*/"田村歩美", /*sound_offset*/75638, /*sound_length*/40000, /*name_sort*/1);
 INSERT INTO `music_data` VALUES (/*id*/5030, /*name*/"Flip Flop", /*bpm*/240, /*composer*/"ミト", /*lyricist*/"ミト", /*sound_offset*/67774, /*sound_length*/29000, /*name_sort*/98);

@@ -263,3 +263,4 @@ INSERT INTO `story_category` VALUES (/*id*/279, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/280, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"The STARLIGHT Dream", /*sub_title*/"The STARLIGHT Dream", /*disp_order*/4);
 INSERT INTO `story_category` VALUES (/*id*/281, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"桜の頃", /*sub_title*/"桜の頃", /*disp_order*/32);
 INSERT INTO `story_category` VALUES (/*id*/282, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"∀NSWER", /*sub_title*/"∀NSWER", /*disp_order*/33);
+INSERT INTO `story_category` VALUES (/*id*/284, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"shabon song", /*sub_title*/"shabon song", /*disp_order*/34);
