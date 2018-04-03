@@ -300,3 +300,9 @@ INSERT INTO `card_location` VALUES (/*index*/301, /*text*/"西部劇風セット
 INSERT INTO `card_location` VALUES (/*index*/302, /*text*/"志保の自宅のキッチン");
 INSERT INTO `card_location` VALUES (/*index*/303, /*text*/"車内");
 INSERT INTO `card_location` VALUES (/*index*/304, /*text*/"休憩室");
+INSERT INTO `card_location` VALUES (/*index*/305, /*text*/"キッチンスタジオ");
+INSERT INTO `card_location` VALUES (/*index*/306, /*text*/"ゴシック風カフェ");
+INSERT INTO `card_location` VALUES (/*index*/307, /*text*/"おおはらベーカリー");
+INSERT INTO `card_location` VALUES (/*index*/308, /*text*/"空港");
+INSERT INTO `card_location` VALUES (/*index*/309, /*text*/"格納庫前");
+INSERT INTO `card_location` VALUES (/*index*/310, /*text*/"森のお菓子屋風セット");
