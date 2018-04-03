@@ -38,7 +38,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/2, /*discription*/"ルーム名変更ボタンから\nメインに設定するルームを設定することができます。\n自分や同僚がルームに入った際に、\nメイン設定を行っているルームが最初に表示されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/3, /*discription*/"別のルームに設置中のアイテムは、\nルームアイテム一覧から直接移動できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/4, /*discription*/"「お気に入り編成」から、事務所とフリールームに\n登場するアイドルを個別に設定できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20011, /*img*/1, /*discription*/"「一括受取」ボタンで宅配ボックスや\nチケットボードに届いているアイテムを\nまとめて受け取ることができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20011, /*img*/1, /*discription*/"「一括収納」ボタンで設置中のルームアイテムを\nまとめて倉庫に収納することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"カフェをテーマにしたアイテムを追加 !\nルームを素敵なカフェに ! !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、\n様々な効果を発揮する物があります。");
@@ -85,6 +85,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/4, /*discription*/"特訓後のアイドルは、特訓前の状態にすることができます。\n切り替えを行うと、ホームやルームで登場するアイドルが\n特訓前の状態になります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40201, /*img*/1, /*discription*/"新3D衣装「アクロス・ザ・スターズ」登場 !\n3DLIVEでアイドルたちの衣装を\n変更することができるようになりました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40201, /*img*/2, /*discription*/"3D衣装の変更はアイドル編成と\nMVモードのユニット確認画面で\n切り替えることができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40301, /*img*/1, /*discription*/"女子寮には、アイドルを入寮させることができます。\n※入寮中のアイドルは、LIVEへの参加や、レッスン等は行えません");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40301, /*img*/2, /*discription*/"入寮中のアイドルは、直接他の寮へ移動することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40301, /*img*/3, /*discription*/"女子寮はショップからスタージュエルを使用して\n追加することができます。\n※女子寮機能公開後、第1女子寮は無条件で使用できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50001, /*img*/1, /*discription*/"ストーリーコミュでは、アイドルたちが\n織り成すストーリーが描かれています。\n解放条件を達成することで解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50001, /*img*/1, /*discription*/"ストーリー中に行われるコミュLIVEでは、\n新たなコミュは解放されません。\nLIVEで特定の難易度でのクリアが必要となります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50002, /*img*/1, /*discription*/"メモリアルコミュでは、アイドル一人ひとりの\nアイドルとしての活動の軌跡が描かれています。\nLIVEでファン数を増やすことで解放されます。");
