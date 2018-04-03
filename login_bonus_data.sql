@@ -24,4 +24,5 @@ INSERT INTO `login_bonus_data` VALUES (/*id*/9017, /*name*/"CM放送記念ログ
 INSERT INTO `login_bonus_data` VALUES (/*id*/9018, /*name*/"GW&CM放送記念ログインボーナス", /*type*/4, /*count_num*/10, /*rap*/1, /*img*/0, /*start_date*/"2017-04-29 00:00:00", /*end_date*/"2017-05-08 23:59:59");
 INSERT INTO `login_bonus_data` VALUES (/*id*/9019, /*name*/"サマーバケーションログインボーナス", /*type*/4, /*count_num*/16, /*rap*/1, /*img*/0, /*start_date*/"2017-08-01 00:00:00", /*end_date*/"2017-08-16 23:59:59");
 INSERT INTO `login_bonus_data` VALUES (/*id*/9020, /*name*/"「祝2周年！プラチナ宝くじ」キャンペーン", /*type*/6, /*count_num*/20, /*rap*/1, /*img*/0, /*start_date*/"2017-08-22 00:00:00", /*end_date*/"2017-09-10 23:59:59");
+INSERT INTO `login_bonus_data` VALUES (/*id*/9021, /*name*/"シンデレラガールズ6周年カウントダウンキャンペーン", /*type*/4, /*count_num*/14, /*rap*/1, /*img*/0, /*start_date*/"2017-11-14 00:00:00", /*end_date*/"2017-11-27 23:59:59");
 INSERT INTO `login_bonus_data` VALUES (/*id*/9100, /*name*/"「新春！プラチナ宝くじ」キャンペーン", /*type*/6, /*count_num*/10, /*rap*/1, /*img*/0, /*start_date*/"2016-12-26 00:00:00", /*end_date*/"2017-01-04 23:59:59");
