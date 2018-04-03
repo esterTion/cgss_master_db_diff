@@ -1,0 +1,2 @@
+CREATE TABLE 'title_pattern' ('id' INTEGER NOT NULL, 'group_id' INTEGER NOT NULL, 'bg' INTEGER NOT NULL, 'bgm' TEXT NOT NULL, 'voice_file' TEXT NOT NULL, 'voice_key' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'))
+INSERT INTO `title_pattern` VALUES (/*id*/1, /*group_id*/0, /*bg*/0, /*bgm*/"", /*voice_file*/"", /*voice_key*/0, /*start_date*/"", /*end_date*/"");

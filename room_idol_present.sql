@@ -1,0 +1,1 @@
+CREATE TABLE 'room_idol_present' ('id' INTEGER NOT NULL, 'reward_date' TEXT NOT NULL, 'receive_limit_date' TEXT NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_num' INTEGER NOT NULL, 'image' TEXT NOT NULL, PRIMARY KEY('id'))
