@@ -1,2 +1,5 @@
 CREATE TABLE 'sp_login_position' ('day_count' INTEGER NOT NULL, 'chara_index' INTEGER NOT NULL, 'frame_type' INTEGER NOT NULL, 'frame_position_x' INTEGER NOT NULL, 'frame_position_y' INTEGER NOT NULL, 'text_data' TEXT NOT NULL, PRIMARY KEY('day_count','chara_index'))
-INSERT INTO `sp_login_position` VALUES (/*day_count*/1, /*chara_index*/1, /*frame_type*/3, /*frame_position_x*/0, /*frame_position_y*/0, /*text_data*/"　\n　");
+INSERT INTO `sp_login_position` VALUES (/*day_count*/1, /*chara_index*/1, /*frame_type*/3, /*frame_position_x*/0, /*frame_position_y*/0, /*text_data*/"私はP.C.Sのみんなと\n『ラブレター』を\n歌いました♪");
+INSERT INTO `sp_login_position` VALUES (/*day_count*/1, /*chara_index*/2, /*frame_type*/4, /*frame_position_x*/0, /*frame_position_y*/0, /*text_data*/"3人で教室で\n踊っていたよね。\n可愛いMVだったよ");
+INSERT INTO `sp_login_position` VALUES (/*day_count*/2, /*chara_index*/1, /*frame_type*/4, /*frame_position_x*/0, /*frame_position_y*/0, /*text_data*/"Jet to the \nAnniversary ! !");
+INSERT INTO `sp_login_position` VALUES (/*day_count*/2, /*chara_index*/2, /*frame_type*/5, /*frame_position_x*/0, /*frame_position_y*/0, /*text_data*/"準備はOK？\nプロデューサーさん !");

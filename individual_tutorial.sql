@@ -220,6 +220,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90104, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90104, /*img*/2, /*discription*/"LIVE成功時にティアラと魔法のドレスの\nドロップ率がアップする「特訓支援キャンペーン」\n期間などの詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/1, /*discription*/"本キャンペーンは宝くじ獲得可能期間に「宝くじチケット」を\n集めることで参加できます ! 獲得可能期間終了後に\n獲得した「宝くじチケット」毎に景品の抽選を行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/2, /*discription*/"抽選の結果によって、「スカウトチケット」など豪華景品を\nGETできます ! ※1等から8等までは抽選条件があります。\n詳しくはヘルプをご覧ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90202, /*img*/1, /*discription*/"本キャンペーンは宝くじ獲得可能期間に「宝くじチケット」を\n集めることで参加できます ! 獲得可能期間終了後に\n獲得した「宝くじチケット」毎に景品の抽選を行います。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90202, /*img*/2, /*discription*/"抽選の結果によって、「スカウトチケット」など豪華景品を\nGETできます ! ※1等から8等までは抽選条件があります。\n詳しくはヘルプをご覧ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90301, /*img*/1, /*discription*/"「楽曲総選挙」が始まりました !\nお気に入りの楽曲に投票しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90301, /*img*/2, /*discription*/"投票できるのは、ソロ楽曲部門とユニット楽曲部門の2部門 !\n各部門1日1回投票できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90301, /*img*/3, /*discription*/"受賞楽曲は、\nmobage「アイドルマスター シンデレラガールズ」\n第6回シンデレラガール総選挙と連動して楽曲化 !");
