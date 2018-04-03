@@ -3646,10 +3646,10 @@ INSERT INTO `manifests` VALUES (/*name*/"card_100317_m.unity3d", /*hash*/"649238
 INSERT INTO `manifests` VALUES (/*name*/"card_100317_s.unity3d", /*hash*/"8f65ec5362806015b09151d0ce9a1228", /*attr*/1, /*category*/"common", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"card_100317_xl.unity3d", /*hash*/"e111e9c1d59a261cca4826f9d12f96bb", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"card_100318_circle.unity3d", /*hash*/"d550aa3f135b91f7549f84a2f1647495", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"card_100318_l.unity3d", /*hash*/"bc4483469b2c07dfade7df60ec6356fb", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"card_100318_l.unity3d", /*hash*/"50fe8ec5c354171120ee0db711d66591", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"card_100318_m.unity3d", /*hash*/"7051df706919afa31e94357c789e0570", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"card_100318_s.unity3d", /*hash*/"20761efc97b076db37c2ed26caead9b5", /*attr*/1, /*category*/"common", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"card_100318_xl.unity3d", /*hash*/"71dc889bb22322864c208fb605919823", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"card_100318_xl.unity3d", /*hash*/"4f8dae3b9bc86dc7faa0e28f57fca4a5", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"card_200001_circle.unity3d", /*hash*/"d195200531c74472db5022115e0a0d6e", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"card_200001_l.unity3d", /*hash*/"a3c49e57b7abb9aabaf6052093c90d9e", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"card_200001_m.unity3d", /*hash*/"1b3e3c1d3aeb318f99d3c885f36e83aa", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
