@@ -3,5 +3,7 @@ INSERT INTO `premium_sc_detail` VALUES (/*item_id*/80001, /*jewel_shop_id*/1, /*
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/80002, /*jewel_shop_id*/2, /*use_period_day*/7, /*all_user_use_end_date*/"");
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/80003, /*jewel_shop_id*/3, /*use_period_day*/7, /*all_user_use_end_date*/"");
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/80004, /*jewel_shop_id*/6, /*use_period_day*/7, /*all_user_use_end_date*/"");
+INSERT INTO `premium_sc_detail` VALUES (/*item_id*/80005, /*jewel_shop_id*/7, /*use_period_day*/7, /*all_user_use_end_date*/"");
+INSERT INTO `premium_sc_detail` VALUES (/*item_id*/80006, /*jewel_shop_id*/7, /*use_period_day*/7, /*all_user_use_end_date*/"");
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/81001, /*jewel_shop_id*/4, /*use_period_day*/0, /*all_user_use_end_date*/"2017-02-28 23:59:59");
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/81002, /*jewel_shop_id*/5, /*use_period_day*/0, /*all_user_use_end_date*/"2017-02-28 23:59:59");

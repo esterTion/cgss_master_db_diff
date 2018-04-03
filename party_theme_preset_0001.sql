@@ -1,2 +1,22 @@
 CREATE TABLE 'party_theme_preset_0001' ('id' INTEGER NOT NULL, 'serial_id' INTEGER NOT NULL, 'item_id' INTEGER NOT NULL, 'item_type' INTEGER NOT NULL, 'level' INTEGER NOT NULL, 'dir_type' INTEGER NOT NULL, 'pos_no' INTEGER NOT NULL, PRIMARY KEY('id'))
-INSERT INTO `party_theme_preset_0001` VALUES (/*id*/1, /*serial_id*/0, /*item_id*/0, /*item_type*/0, /*level*/0, /*dir_type*/0, /*pos_no*/0);
+INSERT INTO `party_theme_preset_0001` VALUES (/*id*/1, /*serial_id*/1, /*item_id*/1322, /*item_type*/5, /*level*/1, /*dir_type*/0, /*pos_no*/0);
+INSERT INTO `party_theme_preset_0001` VALUES (/*id*/2, /*serial_id*/2, /*item_id*/1321, /*item_type*/3, /*level*/1, /*dir_type*/0, /*pos_no*/1);
+INSERT INTO `party_theme_preset_0001` VALUES (/*id*/3, /*serial_id*/3, /*item_id*/1320, /*item_type*/4, /*level*/1, /*dir_type*/0, /*pos_no*/2);
+INSERT INTO `party_theme_preset_0001` VALUES (/*id*/4, /*serial_id*/4, /*item_id*/1310, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/199);
+INSERT INTO `party_theme_preset_0001` VALUES (/*id*/5, /*serial_id*/5, /*item_id*/1317, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/96);
+INSERT INTO `party_theme_preset_0001` VALUES (/*id*/6, /*serial_id*/6, /*item_id*/1314, /*item_type*/1, /*level*/1, /*dir_type*/1, /*pos_no*/1);
+INSERT INTO `party_theme_preset_0001` VALUES (/*id*/7, /*serial_id*/7, /*item_id*/1310, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/86);
+INSERT INTO `party_theme_preset_0001` VALUES (/*id*/8, /*serial_id*/8, /*item_id*/1310, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/88);
+INSERT INTO `party_theme_preset_0001` VALUES (/*id*/9, /*serial_id*/9, /*item_id*/1312, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/228);
+INSERT INTO `party_theme_preset_0001` VALUES (/*id*/10, /*serial_id*/10, /*item_id*/1312, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/106);
+INSERT INTO `party_theme_preset_0001` VALUES (/*id*/11, /*serial_id*/11, /*item_id*/1312, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/90);
+INSERT INTO `party_theme_preset_0001` VALUES (/*id*/12, /*serial_id*/12, /*item_id*/1312, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/99);
+INSERT INTO `party_theme_preset_0001` VALUES (/*id*/13, /*serial_id*/13, /*item_id*/1312, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/196);
+INSERT INTO `party_theme_preset_0001` VALUES (/*id*/14, /*serial_id*/14, /*item_id*/1312, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/212);
+INSERT INTO `party_theme_preset_0001` VALUES (/*id*/15, /*serial_id*/15, /*item_id*/1312, /*item_type*/1, /*level*/1, /*dir_type*/1, /*pos_no*/115);
+INSERT INTO `party_theme_preset_0001` VALUES (/*id*/16, /*serial_id*/16, /*item_id*/1312, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/122);
+INSERT INTO `party_theme_preset_0001` VALUES (/*id*/17, /*serial_id*/17, /*item_id*/1312, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/83);
+INSERT INTO `party_theme_preset_0001` VALUES (/*id*/18, /*serial_id*/18, /*item_id*/1311, /*item_type*/1, /*level*/1, /*dir_type*/1, /*pos_no*/7);
+INSERT INTO `party_theme_preset_0001` VALUES (/*id*/19, /*serial_id*/19, /*item_id*/1311, /*item_type*/1, /*level*/1, /*dir_type*/1, /*pos_no*/10);
+INSERT INTO `party_theme_preset_0001` VALUES (/*id*/20, /*serial_id*/20, /*item_id*/1314, /*item_type*/1, /*level*/1, /*dir_type*/1, /*pos_no*/3);
+INSERT INTO `party_theme_preset_0001` VALUES (/*id*/21, /*serial_id*/21, /*item_id*/1319, /*item_type*/2, /*level*/1, /*dir_type*/1, /*pos_no*/7);

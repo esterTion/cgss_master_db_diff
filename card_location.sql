@@ -402,6 +402,9 @@ INSERT INTO `card_location` VALUES (/*index*/403, /*text*/"西部劇風セット
 INSERT INTO `card_location` VALUES (/*index*/404, /*text*/"女子寮・蘭子の部屋");
 INSERT INTO `card_location` VALUES (/*index*/405, /*text*/"イタリア・隠れ家的ビーチ");
 INSERT INTO `card_location` VALUES (/*index*/406, /*text*/"イタリア・アドリア海の船上");
+INSERT INTO `card_location` VALUES (/*index*/407, /*text*/"天空レストラン");
+INSERT INTO `card_location` VALUES (/*index*/408, /*text*/"宮殿・シャンデリア前");
+INSERT INTO `card_location` VALUES (/*index*/409, /*text*/"バラ園・噴水前");
 INSERT INTO `card_location` VALUES (/*index*/410, /*text*/"ホテル・ナイトプール");
 INSERT INTO `card_location` VALUES (/*index*/411, /*text*/"イリュージョン・ステージ");
 INSERT INTO `card_location` VALUES (/*index*/412, /*text*/"リムジンパーティー・車内");

@@ -68,6 +68,12 @@ INSERT INTO `gift_message` VALUES (/*id*/1019, /*discription*/"イベント「{0
 INSERT INTO `gift_message` VALUES (/*id*/1020, /*discription*/"イベント「{0}」累計観客動員数{1}人の達成報酬です。", /*type_1*/19, /*type_2*/20, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1021, /*discription*/"イベント「{0}」公演クリアで加入したアイドルです。", /*type_1*/19, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1022, /*discription*/"イベント「{0}」公演クリア報酬です。", /*type_1*/19, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/1023, /*discription*/"「{0}」のスターエンブレム交換所で獲得した報酬です。", /*type_1*/33, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/1024, /*discription*/"「{0}」のスターエンブレム交換所でスカウトしたアイドルです。", /*type_1*/33, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/1025, /*discription*/"「{0}」の協力報酬で獲得した報酬です。", /*type_1*/33, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/1026, /*discription*/"「{0}」の個人報酬で獲得した報酬です。", /*type_1*/33, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/1027, /*discription*/"「{0}」の協力報酬で加入したアイドルです。", /*type_1*/33, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/1028, /*discription*/"「{0}」の個人報酬で加入したアイドルです。", /*type_1*/33, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1999, /*discription*/"協力LIVE βテスト {0}イベントpt達成報酬です。", /*type_1*/20, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2001, /*discription*/"デイリーミッション「{0}」で獲得した報酬です。", /*type_1*/25, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2002, /*discription*/"デイリーミッション「{0}」で加入したアイドルです。", /*type_1*/25, /*type_2*/0, /*type_3*/0, /*type_4*/0);

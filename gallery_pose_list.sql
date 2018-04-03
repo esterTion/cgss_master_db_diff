@@ -1,0 +1,1 @@
+CREATE TABLE 'gallery_pose_list' ('id' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, 'disp_name' TEXT NOT NULL, 'motion_id' INTEGER NOT NULL, 'fade_msec' INTEGER NOT NULL, 'cutt_name' TEXT NOT NULL, PRIMARY KEY('id'))

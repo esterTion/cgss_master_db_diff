@@ -1,0 +1,1 @@
+CREATE TABLE 'gallery_music_list' ('id' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, 'live_id' INTEGER NOT NULL, 'motion_id' INTEGER NOT NULL, 'fade_msec' INTEGER NOT NULL, 'cutt_name' TEXT NOT NULL, PRIMARY KEY('id'))
