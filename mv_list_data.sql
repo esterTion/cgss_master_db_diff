@@ -1,2 +1,24 @@
 CREATE TABLE 'mv_list_data' ('stage_id' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, 'stage_group_id' INTEGER NOT NULL, 'day' INTEGER NOT NULL, 'name' TEXT NOT NULL, PRIMARY KEY('stage_id'))
-INSERT INTO `mv_list_data` VALUES (/*stage_id*/1, /*start_date*/"", /*end_date*/"", /*stage_group_id*/0, /*day*/0, /*name*/"");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/1, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/1, /*day*/1, /*name*/"1stLIVE WONDERFUL M@GIC!! \n1日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/2, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/1, /*day*/2, /*name*/"1stLIVE WONDERFUL M@GIC!! \n2日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/3, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/2, /*day*/1, /*name*/"2ndLIVE PARTY M@GIC!!");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/4, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/3, /*day*/1, /*name*/"3rdLIVE シンデレラの舞踏会 -Power of Smile- \n1日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/5, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/3, /*day*/2, /*name*/"3rdLIVE シンデレラの舞踏会 -Power of Smile- \n2日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/6, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/4, /*day*/1, /*name*/"4thLIVE TriCastle Story \n神戸公演 1日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/7, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/4, /*day*/2, /*name*/"4thLIVE TriCastle Story \n神戸公演 2日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/8, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/5, /*day*/1, /*name*/"4thLIVE TriCastle Story \nSSA公演 1日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/9, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/5, /*day*/2, /*name*/"4thLIVE TriCastle Story \nSSA公演 2日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/10, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/6, /*day*/1, /*name*/"5thLIVE TOUR Serendipity Parade!!! \n宮城公演 1日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/11, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/6, /*day*/2, /*name*/"5thLIVE TOUR Serendipity Parade!!! \n宮城公演 2日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/12, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/7, /*day*/1, /*name*/"5thLIVE TOUR Serendipity Parade!!! \n石川公演 1日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/13, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/7, /*day*/2, /*name*/"5thLIVE TOUR Serendipity Parade!!! \n石川公演 2日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/14, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/8, /*day*/1, /*name*/"5thLIVE TOUR Serendipity Parade!!! \n大阪公演 1日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/15, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/8, /*day*/2, /*name*/"5thLIVE TOUR Serendipity Parade!!! \n大阪公演 2日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/16, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/9, /*day*/1, /*name*/"5thLIVE TOUR Serendipity Parade!!! \n静岡公演 1日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/17, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/9, /*day*/2, /*name*/"5thLIVE TOUR Serendipity Parade!!! \n静岡公演 2日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/18, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/10, /*day*/1, /*name*/"5thLIVE TOUR Serendipity Parade!!! \n幕張公演 1日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/19, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/10, /*day*/2, /*name*/"5thLIVE TOUR Serendipity Parade!!! \n幕張公演 2日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/20, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/11, /*day*/1, /*name*/"5thLIVE TOUR Serendipity Parade!!! \n福岡公演 1日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/21, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/11, /*day*/2, /*name*/"5thLIVE TOUR Serendipity Parade!!! \n福岡公演 2日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/22, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/12, /*day*/1, /*name*/"5thLIVE TOUR Serendipity Parade!!! \nSSA公演 1日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/23, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/12, /*day*/2, /*name*/"5thLIVE TOUR Serendipity Parade!!! \nSSA公演 2日目");

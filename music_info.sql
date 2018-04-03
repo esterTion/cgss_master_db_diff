@@ -78,6 +78,7 @@ INSERT INTO `music_info` VALUES (/*id*/2005, /*discription*/"早坂美玲（CV�
 INSERT INTO `music_info` VALUES (/*id*/2006, /*discription*/"堀裕子（CV：鈴木絵理）\n片桐早苗（CV：和氣あず未）\n及川雫（CV：のぐちゆり）\n\n\n作詞：fumi\n作曲：小野貴光\n編曲：玉木千尋");
 INSERT INTO `music_info` VALUES (/*id*/2007, /*discription*/"中野有香（CV：下地紫野）\n水本ゆかり（CV：藤田茜）\n椎名法子（CV：都丸ちよ）\n\n\n作詞：八城雄太\n作曲・編曲：石濱翔（MONACA）");
 INSERT INTO `music_info` VALUES (/*id*/2008, /*discription*/"神崎蘭子（CV：内田真礼）\n二宮飛鳥（CV：青木志貴）\n\n\n作詞：マチゲリータ、烏屋茶房\n作曲・編曲：Powerless");
+INSERT INTO `music_info` VALUES (/*id*/2009, /*discription*/"城ヶ崎美嘉（CV：佳村はるか）\n城ヶ崎莉嘉（CV：山本希望）\n\n\n作詞：八城雄太\n作曲：内海孝彰（TRYTONELABO）\n編曲：Lucas（TRYTONELABO）、\n内海孝彰（TRYTONELABO）");
 INSERT INTO `music_info` VALUES (/*id*/3001, /*discription*/"島村卯月（CV：大橋彩香）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（Yoshi）\nコーラス：Mitsu（BNSI）\nギター：後藤貴徳\nバイオリン：Bloom Quartet & Ensemble");
 INSERT INTO `music_info` VALUES (/*id*/3002, /*discription*/"渋谷凛（CV：福原綾香）\n\n\n作詞・作曲：BNEI（遠山明孝・八城雄太）\n作曲：BNEI（遠山明孝）\n編曲：関淳二郎\nギター・コーラス：関淳二郎");
 INSERT INTO `music_info` VALUES (/*id*/3003, /*discription*/"本田未央（CV：原紗友里）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（kyo）\nギター：後藤貴徳");
