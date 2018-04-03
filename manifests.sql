@@ -15171,7 +15171,7 @@ INSERT INTO `manifests` VALUES (/*name*/"l/song_3025.acb", /*hash*/"eba493a09f66
 INSERT INTO `manifests` VALUES (/*name*/"l/song_3027.acb", /*hash*/"dca811d0e26facfd59529c7e8698e82c", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"l/song_3029.acb", /*hash*/"0cce6a321ea648925a3d0a4794c84d54", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"l/song_3031.acb", /*hash*/"03eea4a15fd5b2eea2a31945312e8305", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"l/song_3033.acb", /*hash*/"c3119025a10e04a80c2a8e21117cc004", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"l/song_3033.acb", /*hash*/"9989e711a0a013cb3b77a68c474cf5bd", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"l/song_3034.acb", /*hash*/"66ab866f1782ba1469b5947aebd3e8e5", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"l/song_5001.acb", /*hash*/"f4638158c2361934b93803a28874ea6b", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"l/song_5002.acb", /*hash*/"08b890c81f566c4c7c26090018247f9f", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
