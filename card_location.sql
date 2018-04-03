@@ -490,3 +490,7 @@ INSERT INTO `card_location` VALUES (/*index*/491, /*text*/"事務所・秘密基
 INSERT INTO `card_location` VALUES (/*index*/492, /*text*/"桜の木の下");
 INSERT INTO `card_location` VALUES (/*index*/493, /*text*/"公園・ドッグラン");
 INSERT INTO `card_location` VALUES (/*index*/494, /*text*/"桜の木の上");
+INSERT INTO `card_location` VALUES (/*index*/495, /*text*/"CDショップ");
+INSERT INTO `card_location` VALUES (/*index*/496, /*text*/"軽音楽部・部室");
+INSERT INTO `card_location` VALUES (/*index*/497, /*text*/"学校の渡り廊下");
+INSERT INTO `card_location` VALUES (/*index*/498, /*text*/"駄菓子屋");
