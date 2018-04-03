@@ -1,1 +1,0 @@
-CREATE TABLE 'skill_life_value' ('id' INTEGER NOT NULL, 'life_value' INTEGER NOT NULL, 'type_01_value' INTEGER NOT NULL, 'type_02_value' INTEGER NOT NULL, 'type_03_value' INTEGER NOT NULL, 'type_04_value' INTEGER NOT NULL, 'type_05_value' INTEGER NOT NULL, 'type_06_value' INTEGER NOT NULL, PRIMARY KEY('id'))

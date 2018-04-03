@@ -1,9 +1,0 @@
-CREATE TABLE 'card_rarity' ('rarity' INTEGER NOT NULL, 'base_max_level' INTEGER NOT NULL, 'add_max_level' INTEGER NOT NULL, 'max_love' INTEGER NOT NULL, 'base_give_money' INTEGER NOT NULL, 'base_give_exp' INTEGER NOT NULL, 'add_param' INTEGER NOT NULL, 'max_star_rank' INTEGER NOT NULL, PRIMARY KEY('rarity'))
-INSERT INTO `card_rarity` VALUES (/*rarity*/1, /*base_max_level*/20, /*add_max_level*/0, /*max_love*/20, /*base_give_money*/200, /*base_give_exp*/20, /*add_param*/0, /*max_star_rank*/20);
-INSERT INTO `card_rarity` VALUES (/*rarity*/2, /*base_max_level*/30, /*add_max_level*/0, /*max_love*/60, /*base_give_money*/300, /*base_give_exp*/30, /*add_param*/0, /*max_star_rank*/20);
-INSERT INTO `card_rarity` VALUES (/*rarity*/3, /*base_max_level*/40, /*add_max_level*/0, /*max_love*/50, /*base_give_money*/1000, /*base_give_exp*/500, /*add_param*/0, /*max_star_rank*/20);
-INSERT INTO `card_rarity` VALUES (/*rarity*/4, /*base_max_level*/50, /*add_max_level*/0, /*max_love*/150, /*base_give_money*/1500, /*base_give_exp*/750, /*add_param*/0, /*max_star_rank*/20);
-INSERT INTO `card_rarity` VALUES (/*rarity*/5, /*base_max_level*/60, /*add_max_level*/0, /*max_love*/100, /*base_give_money*/5000, /*base_give_exp*/1000, /*add_param*/0, /*max_star_rank*/20);
-INSERT INTO `card_rarity` VALUES (/*rarity*/6, /*base_max_level*/70, /*add_max_level*/0, /*max_love*/300, /*base_give_money*/7500, /*base_give_exp*/1500, /*add_param*/0, /*max_star_rank*/20);
-INSERT INTO `card_rarity` VALUES (/*rarity*/7, /*base_max_level*/80, /*add_max_level*/0, /*max_love*/200, /*base_give_money*/10000, /*base_give_exp*/3000, /*add_param*/0, /*max_star_rank*/20);
-INSERT INTO `card_rarity` VALUES (/*rarity*/8, /*base_max_level*/90, /*add_max_level*/0, /*max_love*/600, /*base_give_money*/15000, /*base_give_exp*/4500, /*add_param*/0, /*max_star_rank*/20);

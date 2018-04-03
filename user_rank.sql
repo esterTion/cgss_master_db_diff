@@ -1,9 +1,0 @@
-CREATE TABLE 'user_rank' ('id' INTEGER NOT NULL, 'rank_name' TEXT NOT NULL, 'condition' INTEGER NOT NULL, 'reward_type_1' INTEGER NOT NULL, 'reward_1' INTEGER NOT NULL, 'reward_num_1' INTEGER NOT NULL, 'reward_type_2' INTEGER NOT NULL, 'reward_2' INTEGER NOT NULL, 'reward_num_2' INTEGER NOT NULL, PRIMARY KEY('id'))
-INSERT INTO `user_rank` VALUES (/*id*/1, /*rank_name*/"見習いプロデューサー", /*condition*/0, /*reward_type_1*/0, /*reward_1*/0, /*reward_num_1*/0, /*reward_type_2*/0, /*reward_2*/0, /*reward_num_2*/0);
-INSERT INTO `user_rank` VALUES (/*id*/2, /*rank_name*/"駆け出しプロデューサー", /*condition*/1500, /*reward_type_1*/7, /*reward_1*/124, /*reward_num_1*/1, /*reward_type_2*/0, /*reward_2*/0, /*reward_num_2*/0);
-INSERT INTO `user_rank` VALUES (/*id*/3, /*rank_name*/"新米プロデューサー", /*condition*/30000, /*reward_type_1*/7, /*reward_1*/125, /*reward_num_1*/1, /*reward_type_2*/10, /*reward_2*/2, /*reward_num_2*/15);
-INSERT INTO `user_rank` VALUES (/*id*/4, /*rank_name*/"普通プロデューサー", /*condition*/150000, /*reward_type_1*/7, /*reward_1*/126, /*reward_num_1*/1, /*reward_type_2*/0, /*reward_2*/0, /*reward_num_2*/0);
-INSERT INTO `user_rank` VALUES (/*id*/5, /*rank_name*/"中堅プロデューサー", /*condition*/600000, /*reward_type_1*/7, /*reward_1*/127, /*reward_num_1*/1, /*reward_type_2*/0, /*reward_2*/0, /*reward_num_2*/0);
-INSERT INTO `user_rank` VALUES (/*id*/6, /*rank_name*/"敏腕プロデューサー", /*condition*/1500000, /*reward_type_1*/7, /*reward_1*/128, /*reward_num_1*/1, /*reward_type_2*/0, /*reward_2*/0, /*reward_num_2*/0);
-INSERT INTO `user_rank` VALUES (/*id*/7, /*rank_name*/"売れっ子プロデューサー", /*condition*/6000000, /*reward_type_1*/7, /*reward_1*/129, /*reward_num_1*/1, /*reward_type_2*/0, /*reward_2*/0, /*reward_num_2*/0);
-INSERT INTO `user_rank` VALUES (/*id*/8, /*rank_name*/"超売れっ子プロデューサー", /*condition*/15000000, /*reward_type_1*/7, /*reward_1*/130, /*reward_num_1*/1, /*reward_type_2*/0, /*reward_2*/0, /*reward_num_2*/0);

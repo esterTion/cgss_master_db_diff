@@ -1,2 +1,0 @@
-CREATE TABLE 'room_item_grid_data' ('grid_x' INTEGER NOT NULL, 'grid_y' INTEGER NOT NULL, 'is_move' INTEGER NOT NULL, 'move_up' INTEGER NOT NULL, 'move_down' INTEGER NOT NULL, 'move_left' INTEGER NOT NULL, 'move_right' INTEGER NOT NULL, PRIMARY KEY('grid_x','grid_y'))
-INSERT INTO `room_item_grid_data` VALUES (/*grid_x*/0, /*grid_y*/0, /*is_move*/0, /*move_up*/0, /*move_down*/0, /*move_left*/0, /*move_right*/0);

@@ -1,3 +1,0 @@
-CREATE TABLE 'room_idol_present' ('id' INTEGER NOT NULL, 'reward_date' TEXT NOT NULL, 'receive_limit_date' TEXT NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_num' INTEGER NOT NULL, 'image' TEXT NOT NULL, PRIMARY KEY('id'))
-INSERT INTO `room_idol_present` VALUES (/*id*/1, /*reward_date*/"2016-9-3 15:00:00", /*receive_limit_date*/"2016-9-30 23:59:59", /*reward_type*/5, /*reward_id*/102, /*reward_num*/1, /*image*/"item_00102_s");
-INSERT INTO `room_idol_present` VALUES (/*id*/2, /*reward_date*/"2017-2-14 00:00:00", /*receive_limit_date*/"2017-3-1 00:00:00", /*reward_type*/5, /*reward_id*/103, /*reward_num*/1, /*image*/"item_00103_s");
