@@ -72,3 +72,10 @@ INSERT INTO `caravan_data` VALUES (/*event_id*/2010, /*date*/"2016/11/14", /*dat
 INSERT INTO `caravan_data` VALUES (/*event_id*/2010, /*date*/"2016/11/15", /*date_order*/5, /*bonus_type*/2, /*disp*/2);
 INSERT INTO `caravan_data` VALUES (/*event_id*/2010, /*date*/"2016/11/16", /*date_order*/6, /*bonus_type*/1, /*disp*/2);
 INSERT INTO `caravan_data` VALUES (/*event_id*/2010, /*date*/"2016/11/17", /*date_order*/7, /*bonus_type*/5, /*disp*/2);
+INSERT INTO `caravan_data` VALUES (/*event_id*/2011, /*date*/"2017/01/12", /*date_order*/1, /*bonus_type*/2, /*disp*/1);
+INSERT INTO `caravan_data` VALUES (/*event_id*/2011, /*date*/"2017/01/13", /*date_order*/2, /*bonus_type*/3, /*disp*/1);
+INSERT INTO `caravan_data` VALUES (/*event_id*/2011, /*date*/"2017/01/14", /*date_order*/3, /*bonus_type*/1, /*disp*/1);
+INSERT INTO `caravan_data` VALUES (/*event_id*/2011, /*date*/"2017/01/15", /*date_order*/4, /*bonus_type*/2, /*disp*/1);
+INSERT INTO `caravan_data` VALUES (/*event_id*/2011, /*date*/"2017/01/16", /*date_order*/5, /*bonus_type*/3, /*disp*/2);
+INSERT INTO `caravan_data` VALUES (/*event_id*/2011, /*date*/"2017/01/17", /*date_order*/6, /*bonus_type*/1, /*disp*/2);
+INSERT INTO `caravan_data` VALUES (/*event_id*/2011, /*date*/"2017/01/18", /*date_order*/7, /*bonus_type*/5, /*disp*/2);
