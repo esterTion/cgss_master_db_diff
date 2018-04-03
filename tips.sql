@@ -271,6 +271,9 @@ INSERT INTO `tips` VALUES (/*id*/269, /*tips_type*/1, /*value*/192, /*index*/2, 
 INSERT INTO `tips` VALUES (/*id*/270, /*tips_type*/1, /*value*/105, /*index*/2, /*title*/"椎名法子のウワサ②", /*comment*/"ドーナツのデコレーションが、\nファッションのお手本らしい。");
 INSERT INTO `tips` VALUES (/*id*/271, /*tips_type*/1, /*value*/182, /*index*/2, /*title*/"服部瞳子のウワサ②", /*comment*/"将来の夢を書いた\n小学校の卒業アルバムを、\n捨てられずに持っているらしい。");
 INSERT INTO `tips` VALUES (/*id*/272, /*tips_type*/1, /*value*/122, /*index*/2, /*title*/"藤本里奈のウワサ②", /*comment*/"アイドルになってから、\n200円台のカップ麺やスイーツを\n買うようになり、ヤバいらしい。");
+INSERT INTO `tips` VALUES (/*id*/273, /*tips_type*/1, /*value*/132, /*index*/2, /*title*/"小早川紗枝のウワサ②", /*comment*/"持っている洋服には\nどれも思い出があるらしい。");
+INSERT INTO `tips` VALUES (/*id*/274, /*tips_type*/1, /*value*/217, /*index*/2, /*title*/"西川保奈美のウワサ②", /*comment*/"舞台を観た日は、\n憧れのスターについて、\n学友と夜まで語り合うらしい。");
+INSERT INTO `tips` VALUES (/*id*/275, /*tips_type*/1, /*value*/138, /*index*/2, /*title*/"月宮雅のウワサ②", /*comment*/"パパは、ママ好きの\n良きライバルらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !");
@@ -548,4 +551,7 @@ INSERT INTO `tips` VALUES (/*id*/40237, /*tips_type*/4, /*value*/290, /*index*/2
 INSERT INTO `tips` VALUES (/*id*/40238, /*tips_type*/4, /*value*/164, /*index*/2, /*title*/"乙倉悠貴②　冒険なんですっ", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40239, /*tips_type*/4, /*value*/194, /*index*/2, /*title*/"松永涼②　路上ライブを見て", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40240, /*tips_type*/4, /*value*/236, /*index*/2, /*title*/"並木芽衣子②　ビーチサンダル", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40241, /*tips_type*/4, /*value*/103, /*index*/2, /*title*/"水本ゆかり②　ゆかりフルーティー", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40242, /*tips_type*/4, /*value*/189, /*index*/2, /*title*/"鷺沢文香②　電子書籍勧めてみた", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40243, /*tips_type*/4, /*value*/250, /*index*/2, /*title*/"上田鈴帆②　バレない人", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50001, /*tips_type*/5, /*value*/1, /*index*/1, /*title*/"縦画面持ち替え説明画像", /*comment*/"");
