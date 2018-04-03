@@ -46,6 +46,7 @@ INSERT INTO `music_info` VALUES (/*id*/3019, /*discription*/"川島瑞樹（CV�
 INSERT INTO `music_info` VALUES (/*id*/3020, /*discription*/"日野茜（CV：赤崎千夏）\n\n\n作詞：mft\n作曲：BNSI（Jesahm）\n編曲：日比野裕史\nAll Instruments：日比野裕史");
 INSERT INTO `music_info` VALUES (/*id*/3021, /*discription*/"安部菜々（CV：三宅麻理恵）\n\n\n作詞：夕野ヨシミ（IOSYS）\n作曲・編曲：ARM（IOSYS）");
 INSERT INTO `music_info` VALUES (/*id*/3023, /*discription*/"佐久間まゆ（CV：牧野由依）\n\n\n作詞：BNEI（八城雄太）\n作曲・編曲：滝澤俊輔（TRYTONELABO）\nギター＆ベース：岡野裕次郎（TRYTONELABO）\nバイオリン：伊藤友馬、張大赫\nビオラ：舘泉礼一\nチェロ：田草川亮太");
+INSERT INTO `music_info` VALUES (/*id*/3024, /*discription*/"白坂小梅（CV：桜咲千依）\n\n\n作詞：BNEI（八城雄太）・BNSI（佐藤貴文）\n作曲・編曲：BNSI（佐藤貴文）\nギター＆ベース：後藤貴徳");
 INSERT INTO `music_info` VALUES (/*id*/3025, /*discription*/"高森藍子（CV：金子有希）\n\n\n作詞・作曲：イズミカワソラ\n編曲：今泉洋\nギター：今泉洋");
 INSERT INTO `music_info` VALUES (/*id*/3026, /*discription*/"星輝子（CV：松田颯水）\n\n\n作詞：BNSI（LindaAI-CUE）、桜アス恵\n作曲・編曲：BNSI（LindaAI-CUE）\nギター：後藤貴徳\nベース：濱本理央（BNSI）\nコーラス：平野瑶子、ある☆まじろう（BNSI）、\n大槻博信（BNSI）、戸塚秀一（BNSI）、\nLindaAI-CUE（BNSI）");
 INSERT INTO `music_info` VALUES (/*id*/3027, /*discription*/"神谷奈緒（CV：松井恵理子）\n\n\n作詞・作曲・編曲：ESTi\nコーラス：Sanch");
