@@ -138,6 +138,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60013, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60013, /*img*/1, /*discription*/"アイテムは、それぞれ購入できる上限数が決まっています。\nなお、一部のアイテムは一定期間で購入制限がリセットされます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60014, /*img*/1, /*discription*/"リーダーアイドルを自由に設定できるようになりました。\nリーダーアイドルは、同僚リストなどで\n代表して表示されるアイドルです。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60014, /*img*/2, /*discription*/"ゲスト参戦アイドルを設定できるようになりました。\n他プロデューサーのゲストとして参加するアイドルを、\n楽曲タイプごとに設定することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60015, /*img*/1, /*discription*/"ドレスショップがオープンしました！島村卯月、渋谷凛、\n上条春菜、本田未央、大槻唯が着用できる新3D衣装\n「プレゼントオブスノウ」を販売中！");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60015, /*img*/2, /*discription*/"ドレスショップで購入した3D衣装は、アイドル編成と\nMVモードのユニット確認画面から選択することがで\nきます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/1, /*discription*/"「イベントptランキング報酬」、「達成pt報酬」、\n「ハイスコアランキング報酬」で、イベント限定の\nSレアアイドルやルームアイテムを手にいれましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/2, /*discription*/"イベントptランキングで50万位に入賞すると、\n自分の順位が入ったイベント称号を獲得できます。\n各称号のデザインは順位によって異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/3, /*discription*/"通常楽曲をプレイすると、ゾンビートと\nイベントptを獲得できます。\nゾンビートは、スタミナ消費量と\nSCOREランクが高いほど多く獲得できます。");
