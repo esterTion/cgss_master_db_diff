@@ -81,6 +81,7 @@ INSERT INTO `music_data` VALUES (/*id*/5024, /*name*/"流れ星キセキ", /*bpm
 INSERT INTO `music_data` VALUES (/*id*/5025, /*name*/"M@GIC☆", /*bpm*/178, /*composer*/"田中秀和（MONACA）", /*lyricist*/"森由里子", /*sound_offset*/60948, /*sound_length*/22000, /*name_sort*/89);
 INSERT INTO `music_data` VALUES (/*id*/5028, /*name*/"STORY", /*bpm*/148, /*composer*/"田中秀和（MONACA）", /*lyricist*/"森由里子", /*sound_offset*/80670, /*sound_length*/36100, /*name_sort*/49);
 INSERT INTO `music_data` VALUES (/*id*/5029, /*name*/"あいくるしい", /*bpm*/84, /*composer*/"田村歩美", /*lyricist*/"田村歩美", /*sound_offset*/75638, /*sound_length*/40000, /*name_sort*/1);
+INSERT INTO `music_data` VALUES (/*id*/5030, /*name*/"Flip Flop", /*bpm*/240, /*composer*/"ミト", /*lyricist*/"ミト", /*sound_offset*/67774, /*sound_length*/29000, /*name_sort*/87);
 INSERT INTO `music_data` VALUES (/*id*/8001, /*name*/"キミとボクのミライ", /*bpm*/178, /*composer*/"UEMATSU NOBUO / NARITA TSUTOMU", /*lyricist*/"Cygames / maimie", /*sound_offset*/66538, /*sound_length*/31000, /*name_sort*/24);
 INSERT INTO `music_data` VALUES (/*id*/9001, /*name*/"とどけ ! アイドル", /*bpm*/180, /*composer*/"BNSI（内田哲也）", /*lyricist*/"marhy", /*sound_offset*/60650, /*sound_length*/24250, /*name_sort*/65);
 INSERT INTO `music_data` VALUES (/*id*/9002, /*name*/"Snow Wings", /*bpm*/167, /*composer*/"俊龍", /*lyricist*/"俊龍", /*sound_offset*/65785, /*sound_length*/30000, /*name_sort*/50);
