@@ -192,6 +192,9 @@ INSERT INTO `tips` VALUES (/*id*/190, /*tips_type*/1, /*value*/130, /*index*/2, 
 INSERT INTO `tips` VALUES (/*id*/191, /*tips_type*/1, /*value*/127, /*index*/2, /*title*/"前川みくのウワサ②", /*comment*/"猫の毛を取るためのブラシを\n持ち歩いているらしい。");
 INSERT INTO `tips` VALUES (/*id*/192, /*tips_type*/1, /*value*/181, /*index*/2, /*title*/"三船美優のウワサ②", /*comment*/"OL時代の服や靴を、\nいまだに捨てられていないらしい。");
 INSERT INTO `tips` VALUES (/*id*/193, /*tips_type*/1, /*value*/168, /*index*/2, /*title*/"黒川千秋のウワサ②", /*comment*/"歩いていて抜かされると、\n抜かし返すらしい。");
+INSERT INTO `tips` VALUES (/*id*/194, /*tips_type*/1, /*value*/163, /*index*/2, /*title*/"有浦柑奈のウワサ②", /*comment*/"切ないバラードも弾き語りを\nしていると、いつの間にか\n陽気になってしまうらしい。");
+INSERT INTO `tips` VALUES (/*id*/195, /*tips_type*/1, /*value*/257, /*index*/2, /*title*/"片桐早苗のウワサ②", /*comment*/"栄養ドリンクに頼るのは、\n負けた感じがするらしい。");
+INSERT INTO `tips` VALUES (/*id*/196, /*tips_type*/1, /*value*/155, /*index*/2, /*title*/"工藤忍のウワサ②", /*comment*/"目標を書いた紙を壁に貼って\nいったら、壁が埋まって\n困ったらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/30001, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルを育てるには", /*comment*/"アイドルのレベルを上げるには、\nレッスンを行いましょう !");
 INSERT INTO `tips` VALUES (/*id*/30002, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルとの親愛度を上げるには", /*comment*/"LIVEを行うと、\n参加したアイドルの親愛度が上がります !");
@@ -411,4 +414,7 @@ INSERT INTO `tips` VALUES (/*id*/40191, /*tips_type*/4, /*value*/283, /*index*/2
 INSERT INTO `tips` VALUES (/*id*/40192, /*tips_type*/4, /*value*/152, /*index*/2, /*title*/"浅野風香②　鞄につけてます", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40193, /*tips_type*/4, /*value*/286, /*index*/2, /*title*/"北川真尋②　インターバルの使い道", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40194, /*tips_type*/4, /*value*/124, /*index*/2, /*title*/"遊佐こずえ②　寝る子は育つ…？", /*comment*/"");
-INSERT INTO `tips` VALUES (/*id*/40195, /*tips_type*/4, /*value*/231, /*index*/2, /*title*/"桐生つかさ②　社長に学べ！", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40195, /*tips_type*/4, /*value*/231, /*index*/2, /*title*/"桐生つかさ②　社長に学べ !", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40196, /*tips_type*/4, /*value*/106, /*index*/2, /*title*/"今井加奈②　おのぼりさんが通る道", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40197, /*tips_type*/4, /*value*/254, /*index*/2, /*title*/"小関麗奈②　説明書を読むであります !", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40198, /*tips_type*/4, /*value*/258, /*index*/2, /*title*/"堀裕子②　最終回直前でよくある…", /*comment*/"");
