@@ -529,6 +529,10 @@ INSERT INTO `text_data` VALUES (/*category*/15, /*index*/22, /*text*/"アイド�
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/1, /*text*/"9月3日をもって、アイドルマスターシンデレラガールズスターライトステージは、1周年を迎えました !");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/9, /*text*/"2周年カウントダウン");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/10, /*text*/"1年間の思い出を振り返りましょう");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/11, /*text*/"レッツプレゼントキャンペーン");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/12, /*text*/"　");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/13, /*text*/"応募期間　09/01 15:00 ～ 09/30 23:59");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/14, /*text*/"特設サイトよりご応募ください。　　");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/101, /*text*/"私はP.C.Sのみんなと\n『ラブレター』を\n歌いました♪");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/102, /*text*/"3人で教室で\n踊っていたよね。\n可愛いMVだったよ");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/103, /*text*/"Jet to the \nAnniversary ! !");
