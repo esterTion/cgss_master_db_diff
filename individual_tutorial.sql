@@ -258,6 +258,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90111, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90112, /*img*/1, /*discription*/"2周年を記念して、\n宝くじキャンペーンを開催中です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90112, /*img*/1, /*discription*/"ログインやミッションで宝くじを集めて\n豪華な景品を獲得しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90113, /*img*/1, /*discription*/"宝くじの配布は終了しました。\n結果発表までお楽しみに !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90114, /*img*/1, /*discription*/"現在抽選結果を発表中です。\n配布期間中に宝くじを獲得した方は\n抽選結果を確認しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90115, /*img*/1, /*discription*/"デレステ2周年記念 ! 「レッツプレゼントキャンペーン」開催中 !\n最大賞金1000万円ほか、豪華賞品プレゼントが抽選で当たる !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90115, /*img*/2, /*discription*/"さらに、キャンペーン開催を記念して、\nルームアイテム「純金ぴにゃ像」をプレゼント !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90115, /*img*/2, /*discription*/"キャンペーンはキャンペーンページからアクセスできる、\n特設サイトよりご応募ください。");
