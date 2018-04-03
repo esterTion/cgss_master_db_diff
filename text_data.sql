@@ -275,8 +275,8 @@ INSERT INTO `text_data` VALUES (/*category*/9, /*index*/37, /*text*/"集計中")
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/38, /*text*/"圏外");
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/39, /*text*/"---");
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/40, /*text*/"ボーカルアピール[D33D98]{0}%[-]アップ !");
-INSERT INTO `text_data` VALUES (/*category*/9, /*index*/41, /*text*/"ダンスアピール[D33D98]{0}%[-][2D2D2D]アップ !");
-INSERT INTO `text_data` VALUES (/*category*/9, /*index*/42, /*text*/"ビジュアルアピール[D33D98]{0}%[-][2D2D2D]アップ !");
+INSERT INTO `text_data` VALUES (/*category*/9, /*index*/41, /*text*/"ダンスアピール[D33D98]{0}%[-]アップ !");
+INSERT INTO `text_data` VALUES (/*category*/9, /*index*/42, /*text*/"ビジュアルアピール[D33D98]{0}%[-]アップ !");
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/43, /*text*/"本イベントではゲストを呼べません");
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/44, /*text*/"イベント");
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/45, /*text*/"+{0}%");

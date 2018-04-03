@@ -29,8 +29,8 @@ INSERT INTO `music_data` VALUES (/*id*/1027, /*name*/"Near to You", /*bpm*/174, 
 INSERT INTO `music_data` VALUES (/*id*/1028, /*name*/"Near to You", /*bpm*/174, /*composer*/"AJURIKA", /*lyricist*/"AJURIKA", /*sound_offset*/72048, /*sound_length*/21000, /*name_sort*/85);
 INSERT INTO `music_data` VALUES (/*id*/1029, /*name*/"EVERMORE", /*bpm*/180, /*composer*/"田中秀和（MONACA）・滝澤俊輔（TRYTONELABO）", /*lyricist*/"森由里子", /*sound_offset*/81375, /*sound_length*/39000, /*name_sort*/15);
 INSERT INTO `music_data` VALUES (/*id*/1030, /*name*/"Treasure☆", /*bpm*/128, /*composer*/"滝澤俊輔（TRYTONELABO）", /*lyricist*/"デレパジ", /*sound_offset*/83796, /*sound_length*/34000, /*name_sort*/78);
-INSERT INTO `music_data` VALUES (/*id*/1901, /*name*/"お願い ! シンデレラ", /*bpm*/175, /*composer*/"BNSI（内田哲也）", /*lyricist*/"marhy", /*sound_offset*/57508, /*sound_length*/20937, /*name_sort*/123);
-INSERT INTO `music_data` VALUES (/*id*/1902, /*name*/"BEYOND \nTHE STARLIGHT", /*bpm*/175, /*composer*/"石濱翔（MONACA）", /*lyricist*/"八城雄太", /*sound_offset*/69811, /*sound_length*/31000, /*name_sort*/125);
+INSERT INTO `music_data` VALUES (/*id*/1901, /*name*/"お願い ! シンデレラ", /*bpm*/175, /*composer*/"BNSI（内田哲也）", /*lyricist*/"marhy", /*sound_offset*/57508, /*sound_length*/20937, /*name_sort*/124);
+INSERT INTO `music_data` VALUES (/*id*/1902, /*name*/"BEYOND \nTHE STARLIGHT", /*bpm*/175, /*composer*/"石濱翔（MONACA）", /*lyricist*/"八城雄太", /*sound_offset*/69811, /*sound_length*/31000, /*name_sort*/126);
 INSERT INTO `music_data` VALUES (/*id*/1911, /*name*/"こいかぜ", /*bpm*/1, /*composer*/"", /*lyricist*/"", /*sound_offset*/0, /*sound_length*/26181, /*name_sort*/1911);
 INSERT INTO `music_data` VALUES (/*id*/1912, /*name*/"To my darling...", /*bpm*/1, /*composer*/"", /*lyricist*/"", /*sound_offset*/0, /*sound_length*/31865, /*name_sort*/1912);
 INSERT INTO `music_data` VALUES (/*id*/1913, /*name*/"みんなのきもち", /*bpm*/1, /*composer*/"", /*lyricist*/"", /*sound_offset*/0, /*sound_length*/27115, /*name_sort*/1913);
@@ -84,7 +84,7 @@ INSERT INTO `music_data` VALUES (/*id*/3008, /*name*/"You're stars \nshine on me
 INSERT INTO `music_data` VALUES (/*id*/3009, /*name*/"DOKIDOKIリズム", /*bpm*/180, /*composer*/"BNEI（佐藤貴文）", /*lyricist*/"BNEI（佐藤貴文）", /*sound_offset*/54450, /*sound_length*/26189, /*name_sort*/73);
 INSERT INTO `music_data` VALUES (/*id*/3010, /*name*/"おねだり\nShall We ～?", /*bpm*/148, /*composer*/"BNSI（佐藤貴文）", /*lyricist*/"BNSI（佐藤貴文）", /*sound_offset*/64586, /*sound_length*/16065, /*name_sort*/23);
 INSERT INTO `music_data` VALUES (/*id*/3011, /*name*/"ヴィーナス\nシンドローム", /*bpm*/151, /*composer*/"BNSI（kyo）", /*lyricist*/"古屋真", /*sound_offset*/53134, /*sound_length*/28000, /*name_sort*/13);
-INSERT INTO `music_data` VALUES (/*id*/3012, /*name*/"Romantic Now", /*bpm*/170, /*composer*/"BNSI（Taku Inoue）", /*lyricist*/"BNSI（MC TC）", /*sound_offset*/81183, /*sound_length*/26000, /*name_sort*/120);
+INSERT INTO `music_data` VALUES (/*id*/3012, /*name*/"Romantic Now", /*bpm*/170, /*composer*/"BNSI（Taku Inoue）", /*lyricist*/"BNSI（MC TC）", /*sound_offset*/81183, /*sound_length*/26000, /*name_sort*/121);
 INSERT INTO `music_data` VALUES (/*id*/3013, /*name*/"ショコラ・ティアラ", /*bpm*/133, /*composer*/"BNEI（kyo）", /*lyricist*/"古屋真", /*sound_offset*/93588, /*sound_length*/16660, /*name_sort*/53);
 INSERT INTO `music_data` VALUES (/*id*/3014, /*name*/"Twilight Sky", /*bpm*/176, /*composer*/"BNSI（渡辺量）", /*lyricist*/"BNSI（渡辺量）", /*sound_offset*/59652, /*sound_length*/18549, /*name_sort*/79);
 INSERT INTO `music_data` VALUES (/*id*/3015, /*name*/"TOKIMEKI\nエスカレート", /*bpm*/140, /*composer*/"BNSI（内田哲也）", /*lyricist*/"marhy", /*sound_offset*/68119, /*sound_length*/29000, /*name_sort*/74);
@@ -124,7 +124,7 @@ INSERT INTO `music_data` VALUES (/*id*/5008, /*name*/"ØωØver!!", /*bpm*/180, 
 INSERT INTO `music_data` VALUES (/*id*/5009, /*name*/"LET'S GO HAPPY!!", /*bpm*/192, /*composer*/"ARM（IOSYS）", /*lyricist*/"夕野ヨシミ（IOSYS）", /*sound_offset*/49784, /*sound_length*/11667, /*name_sort*/118);
 INSERT INTO `music_data` VALUES (/*id*/5010, /*name*/"Shine!!", /*bpm*/174, /*composer*/"滝澤俊輔（TRYTONELABO）", /*lyricist*/"森由里子", /*sound_offset*/64645, /*sound_length*/24133, /*name_sort*/49);
 INSERT INTO `music_data` VALUES (/*id*/5011, /*name*/"夢色ハーモニー", /*bpm*/178, /*composer*/"BNSI（内田哲也）", /*lyricist*/"遠藤フビト", /*sound_offset*/61665, /*sound_length*/25000, /*name_sort*/113);
-INSERT INTO `music_data` VALUES (/*id*/5015, /*name*/"Rockin' Emotion", /*bpm*/177, /*composer*/"小野貴光", /*lyricist*/"磯谷佳江", /*sound_offset*/61564, /*sound_length*/32000, /*name_sort*/119);
+INSERT INTO `music_data` VALUES (/*id*/5015, /*name*/"Rockin' Emotion", /*bpm*/177, /*composer*/"小野貴光", /*lyricist*/"磯谷佳江", /*sound_offset*/61564, /*sound_length*/32000, /*name_sort*/120);
 INSERT INTO `music_data` VALUES (/*id*/5021, /*name*/"Trancing Pulse", /*bpm*/143, /*composer*/"上松範康（Elements Garden）", /*lyricist*/"AJURIKA", /*sound_offset*/76089, /*sound_length*/28000, /*name_sort*/77);
 INSERT INTO `music_data` VALUES (/*id*/5024, /*name*/"流れ星キセキ", /*bpm*/174, /*composer*/"渡部チェル", /*lyricist*/"小金井つくも", /*sound_offset*/52397, /*sound_length*/27000, /*name_sort*/80);
 INSERT INTO `music_data` VALUES (/*id*/5025, /*name*/"M@GIC☆", /*bpm*/178, /*composer*/"田中秀和（MONACA）", /*lyricist*/"森由里子", /*sound_offset*/60948, /*sound_length*/22000, /*name_sort*/103);
@@ -148,4 +148,5 @@ INSERT INTO `music_data` VALUES (/*id*/9009, /*name*/"BEYOND \nTHE STARLIGHT", /
 INSERT INTO `music_data` VALUES (/*id*/9010, /*name*/"命燃やして恋せよ乙女", /*bpm*/112, /*composer*/"TAKT（TRYTONELABO）", /*lyricist*/"森由里子", /*sound_offset*/82782, /*sound_length*/22000, /*name_sort*/10);
 INSERT INTO `music_data` VALUES (/*id*/9011, /*name*/"Sweet Witches' Night \n～6人目はだぁれ～", /*bpm*/152, /*composer*/"角本麻衣", /*lyricist*/"角本麻衣", /*sound_offset*/95950, /*sound_length*/26000, /*name_sort*/54);
 INSERT INTO `music_data` VALUES (/*id*/9012, /*name*/"桜の頃", /*bpm*/82, /*composer*/"隠田遼平", /*lyricist*/"桜アス恵（TRYTONELABO）", /*sound_offset*/56900, /*sound_length*/34000, /*name_sort*/46);
+INSERT INTO `music_data` VALUES (/*id*/9013, /*name*/"Nothing but You", /*bpm*/167, /*composer*/"AJURIKA", /*lyricist*/"AJURIKA", /*sound_offset*/67569, /*sound_length*/23800, /*name_sort*/81);
 INSERT INTO `music_data` VALUES (/*id*/90001, /*name*/"ぴにゃリクエスト", /*bpm*/1, /*composer*/"?", /*lyricist*/"?", /*sound_offset*/0, /*sound_length*/70000, /*name_sort*/999);

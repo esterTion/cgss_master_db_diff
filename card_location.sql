@@ -341,3 +341,9 @@ INSERT INTO `card_location` VALUES (/*index*/342, /*text*/"校庭のLIVEステ�
 INSERT INTO `card_location` VALUES (/*index*/343, /*text*/"南の島");
 INSERT INTO `card_location` VALUES (/*index*/344, /*text*/"屋外コート");
 INSERT INTO `card_location` VALUES (/*index*/345, /*text*/"工事現場");
+INSERT INTO `card_location` VALUES (/*index*/346, /*text*/"遊園地跡");
+INSERT INTO `card_location` VALUES (/*index*/347, /*text*/"小春の家");
+INSERT INTO `card_location` VALUES (/*index*/348, /*text*/"沖縄の海");
+INSERT INTO `card_location` VALUES (/*index*/349, /*text*/"沖縄の野外ステージ");
+INSERT INTO `card_location` VALUES (/*index*/350, /*text*/"小樽運河");
+INSERT INTO `card_location` VALUES (/*index*/351, /*text*/"MVセット");

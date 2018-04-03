@@ -266,3 +266,4 @@ INSERT INTO `story_category` VALUES (/*id*/281, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/282, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"∀NSWER", /*sub_title*/"∀NSWER", /*disp_order*/33);
 INSERT INTO `story_category` VALUES (/*id*/284, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"shabon song", /*sub_title*/"shabon song", /*disp_order*/34);
 INSERT INTO `story_category` VALUES (/*id*/285, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Nocturne", /*sub_title*/"Nocturne", /*disp_order*/35);
+INSERT INTO `story_category` VALUES (/*id*/286, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Nothing but You", /*sub_title*/"Nothing but You", /*disp_order*/36);
