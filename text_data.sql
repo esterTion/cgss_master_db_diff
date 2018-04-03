@@ -1049,3 +1049,15 @@ INSERT INTO `text_data` VALUES (/*category*/26, /*index*/5, /*text*/"撮影終�
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/6, /*text*/"楽曲");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/7, /*text*/"ポーズ");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/8, /*text*/"変更する");
+INSERT INTO `text_data` VALUES (/*category*/29, /*index*/1, /*text*/"ノーマル");
+INSERT INTO `text_data` VALUES (/*category*/29, /*index*/2, /*text*/"アナザー");
+INSERT INTO `text_data` VALUES (/*category*/29, /*index*/3, /*text*/"スケジュール");
+INSERT INTO `text_data` VALUES (/*category*/29, /*index*/4, /*text*/"結果発表は1/1 12:00に行われます");
+INSERT INTO `text_data` VALUES (/*category*/29, /*index*/5, /*text*/"{0}〜{1}");
+INSERT INTO `text_data` VALUES (/*category*/29, /*index*/6, /*text*/"オールスターカウントダウンLIVE");
+INSERT INTO `text_data` VALUES (/*category*/29, /*index*/7, /*text*/"ミッションクリアで報酬が獲得できます");
+INSERT INTO `text_data` VALUES (/*category*/29, /*index*/8, /*text*/"全体ミッション");
+INSERT INTO `text_data` VALUES (/*category*/29, /*index*/9, /*text*/"個人ミッション");
+INSERT INTO `text_data` VALUES (/*category*/29, /*index*/10, /*text*/"ミッションを\n達成しよう");
+INSERT INTO `text_data` VALUES (/*category*/29, /*index*/11, /*text*/"-");
+INSERT INTO `text_data` VALUES (/*category*/29, /*index*/12, /*text*/"達成報酬は結果発表後に獲得できます。");

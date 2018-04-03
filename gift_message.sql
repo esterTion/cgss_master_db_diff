@@ -84,6 +84,8 @@ INSERT INTO `gift_message` VALUES (/*id*/2011, /*discription*/"ノーマルミ�
 INSERT INTO `gift_message` VALUES (/*id*/2012, /*discription*/"ノーマルミッション「{0}」で加入したアイドルです。", /*type_1*/27, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2013, /*discription*/"期間限定ミッション「{0}」で獲得した報酬です。", /*type_1*/28, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2014, /*discription*/"期間限定ミッション「{0}」で加入したアイドルです。", /*type_1*/28, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/2015, /*discription*/"オールスター カウントダウンLIVEのミッション「{0}」で獲得した報酬です。", /*type_1*/34, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/2016, /*discription*/"オールスター カウントダウンLIVEのミッション「{0}」で加入したアイドルです。", /*type_1*/34, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9000, /*discription*/"運営からのお詫びです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9001, /*discription*/"運営からの補てんです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9002, /*discription*/"運営からのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
