@@ -1,9 +1,9 @@
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_0001.unity3d", /*hash*/"d5bed254733b7f5cebd79250b278841f", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_1001.unity3d", /*hash*/"f8b62d23dc8fa97d880cc44104cb88d1", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_1002.unity3d", /*hash*/"a07f3919431ef2a66e42e4e08b497c12", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_1003.unity3d", /*hash*/"b605ade42878c1e66c96a91bb8c6377e", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_1003.unity3d", /*hash*/"484c372d96c9783c8c3dece33049bc15", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_1004.unity3d", /*hash*/"4c11852b0980afcf921bc65ed1de257a", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_1005.unity3d", /*hash*/"cd022f9dd3013a03a91ce7f84dddb1c8", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_1005.unity3d", /*hash*/"46808be4e75074d2ac3de81ce5847399", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_1006.unity3d", /*hash*/"c7be05fe9062f9f68047976c13f6136a", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_1007.unity3d", /*hash*/"eebf31017ebe6e2609ec03b37046e251", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_1008.unity3d", /*hash*/"2166c972ad6ce50870e31b063c402aeb", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
@@ -12,7 +12,7 @@ INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_1010.unity3d", /*hash*/"a
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_1011.unity3d", /*hash*/"814f09de5776d1983daf72e5e6ff47bc", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_1012.unity3d", /*hash*/"8c5cd2431a709442ab295b4f33ca0eb7", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_2001.unity3d", /*hash*/"ddc8b5e8dad71a75371f046d49419929", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_2002.unity3d", /*hash*/"e56926cf3eb5fda10d7d58234b5a0359", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_2002.unity3d", /*hash*/"8f9f982fdee57bc4a46eabcaec84b9dc", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_2003.unity3d", /*hash*/"c74a46aa04da66fbf88de3bd420a1091", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_2004.unity3d", /*hash*/"c5b3f1d62f654729ab49d0aad1ef6ad0", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_2005.unity3d", /*hash*/"88dc845265f9881e5c18f467ae40458c", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
@@ -29,7 +29,7 @@ INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_3003.unity3d", /*hash*/"3
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_3004.unity3d", /*hash*/"16d0bff87155b5d3071d5809662cc556", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_3005.unity3d", /*hash*/"c266d21e999856d7542100a6cdfa85a4", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_3006.unity3d", /*hash*/"12e7864ce702151e941e390700d0b5f2", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_3007.unity3d", /*hash*/"2319a7d604f294a68a6d71a2b5724935", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_3007.unity3d", /*hash*/"6b2f023ac705c3f930b1c8651319adc0", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_3008.unity3d", /*hash*/"248ffb8e0a5eeb66808315db717ed170", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_3009.unity3d", /*hash*/"7e37e7a083eff1bbf4328ed35644b51f", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_chara_body_3010.unity3d", /*hash*/"a8c766c74a711d667ac96af37171ea73", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
@@ -298,7 +298,7 @@ INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_musicbox.unity3d", /*hash*/"f81
 INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_naked.unity3d", /*hash*/"ab86c4b40952d797549c165dcfe441dc", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_nation.unity3d", /*hash*/"81ea7b8ed1ff9b58dbab99be4fb7ba8d", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_never.unity3d", /*hash*/"2e269c3fab8041753883cd486d85b013", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_oneshin.unity3d", /*hash*/"df95d392cdf1a35fad8931a283e86d59", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_oneshin.unity3d", /*hash*/"3311a02e4fdc844e855c030b745fbf33", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_oneshin_ap.unity3d", /*hash*/"4b49c835f26cd01acbf4e5c2df434da8", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_oneshin_solo.unity3d", /*hash*/"6326fdad6842ad1b1138178316af94be", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_orange.unity3d", /*hash*/"bd6e11ac941c2cbeaa356522f2a39d0a", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
@@ -322,7 +322,7 @@ INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_susume_cool.unity3d", /*hash*/"
 INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_susume_cute.unity3d", /*hash*/"7da84e95213e9f582a6b1048e8ac72db", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_susume_passion.unity3d", /*hash*/"26e11717b0cece560aa7a9d6ef90b76d", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_thubomi.unity3d", /*hash*/"afa317f5a9b920d265d39e229d12cc1f", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_todoke.unity3d", /*hash*/"a42b2e0381316dfe1ae5d442a6386998", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_todoke.unity3d", /*hash*/"917f566e54fc7de6b3a1986c726d0f98", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_tokimeki.unity3d", /*hash*/"8e84ea7c52dc53e62a52466739370bd2", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_trancing.unity3d", /*hash*/"25d09c23f21eeb940f6ff329d42eaca1", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_tulip.unity3d", /*hash*/"db504198fb833929430f6e744ef96422", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
@@ -331,7 +331,7 @@ INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_venus.unity3d", /*hash*/"685f36
 INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_werefri.unity3d", /*hash*/"0ac6f3244af9f4e397b0ed35a4590f4b", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_wing.unity3d", /*hash*/"e0b0abcabab2bdff4f20f773e761444f", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_yourestars.unity3d", /*hash*/"138f62c10e5404b0891e2068c4b58d7d", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_yumeiro.unity3d", /*hash*/"a6a74d3bc3a9107ffed7f426d2ac838c", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_yumeiro.unity3d", /*hash*/"af29236484efe64cd563e33e604e2b6c", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_cutt_zettai.unity3d", /*hash*/"b9fb05261c04db28b96c25bce52cf589", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_faceconv.unity3d", /*hash*/"a6782933ad23dffd6a24f7893f90c0e1", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"3d_live.unity3d", /*hash*/"291ac6a2e24434fd0bd17507c0b4c377", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
@@ -12312,7 +12312,7 @@ INSERT INTO `manifests` VALUES (/*name*/"l/song_5025.acb", /*hash*/"ed6b3af4ddba
 INSERT INTO `manifests` VALUES (/*name*/"l/song_9001.acb", /*hash*/"286212297ee215e2bb4699a832eeea70", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"l/song_9002.acb", /*hash*/"d8f7f657746bec8fec7e14da51bc1292", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"l/song_9003.acb", /*hash*/"6641dfde99187c9d6ed8363c88d941d3", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"l/song_9004.acb", /*hash*/"d55d398157f565801873bdbce00f3b73", /*attr*/0, /*category*/"common", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"l/song_9004.acb", /*hash*/"d55d398157f565801873bdbce00f3b73", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"r/se_roomitem.acb", /*hash*/"0553fdfa157c515a5626dec999982197", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"r/se_roomitem_000018.acb", /*hash*/"f0e48eec94092d88a5ff443a9f846d2b", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"r/se_roomitem_000019.acb", /*hash*/"f0e48eec94092d88a5ff443a9f846d2b", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
