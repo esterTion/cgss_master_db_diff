@@ -218,7 +218,7 @@ INSERT INTO `user_level` VALUES (/*level*/216, /*stamina*/87, /*max_friend*/62, 
 INSERT INTO `user_level` VALUES (/*level*/217, /*stamina*/87, /*max_friend*/62, /*total_exp*/779110);
 INSERT INTO `user_level` VALUES (/*level*/218, /*stamina*/87, /*max_friend*/62, /*total_exp*/789150);
 INSERT INTO `user_level` VALUES (/*level*/219, /*stamina*/87, /*max_friend*/62, /*total_exp*/799210);
-INSERT INTO `user_level` VALUES (/*level*/220, /*stamina*/83, /*max_friend*/62, /*total_exp*/809290);
+INSERT INTO `user_level` VALUES (/*level*/220, /*stamina*/88, /*max_friend*/62, /*total_exp*/809290);
 INSERT INTO `user_level` VALUES (/*level*/221, /*stamina*/88, /*max_friend*/63, /*total_exp*/820090);
 INSERT INTO `user_level` VALUES (/*level*/222, /*stamina*/88, /*max_friend*/63, /*total_exp*/830910);
 INSERT INTO `user_level` VALUES (/*level*/223, /*stamina*/88, /*max_friend*/63, /*total_exp*/841750);

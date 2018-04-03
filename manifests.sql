@@ -10762,7 +10762,7 @@ INSERT INTO `manifests` VALUES (/*name*/"l/song_1017.acb", /*hash*/"25d8c1992115
 INSERT INTO `manifests` VALUES (/*name*/"l/song_1018.acb", /*hash*/"804824aec91bbecd04bc3d2fce3a69e8", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"l/song_1018_another.acb", /*hash*/"b2e7e14437ec86e528300de90ef7d5de", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"l/song_1019.acb", /*hash*/"abb87af751ffd1b586d5922097577f59", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"l/song_1020.acb", /*hash*/"611ac6f7b7460802bd7dcf00a8f87f75", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"l/song_1020.acb", /*hash*/"611ac6f7b7460802bd7dcf00a8f87f75", /*attr*/0, /*category*/"common", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"l/song_3001.acb", /*hash*/"d13cc4706a4926700ead9fc7c7833904", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"l/song_3002.acb", /*hash*/"dc565ab31a95b51770fa9820d6def9e4", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"l/song_3003.acb", /*hash*/"a1a0f5f70e3f37de83bd3b3964a351d7", /*attr*/0, /*category*/"every", /*decrypt_key*/"");
@@ -11232,7 +11232,7 @@ INSERT INTO `manifests` VALUES (/*name*/"v/event_announce_3004.acb", /*hash*/"a0
 INSERT INTO `manifests` VALUES (/*name*/"master_atapon.bdb", /*hash*/"f3408508ce40f206b2196a7676f1a12a", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"master_campaign.bdb", /*hash*/"7fe45b0662fb69f039cdebffc3d0d677", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"master_caravan.bdb", /*hash*/"800ea6c009e09f9007bcf3b1f4aea822", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"master_card.bdb", /*hash*/"d9f8691b2c6596f14c67494bf09fcf4a", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"master_card.bdb", /*hash*/"4d3bbcfebfffbbc6df328e43227a5369", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"master_emblem.bdb", /*hash*/"01079f729b79443b7813b3bb25c25870", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"master_event.bdb", /*hash*/"2d3a120b4de1033a56267532a39ea074", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"master_gacha.bdb", /*hash*/"08f29564db49f74dbaf4b89472baedc8", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
@@ -11254,8 +11254,8 @@ INSERT INTO `manifests` VALUES (/*name*/"master_stamp.bdb", /*hash*/"e055f5da81f
 INSERT INTO `manifests` VALUES (/*name*/"master_story.bdb", /*hash*/"10eda169e11803f8b1fd2324fbad4697", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"master_text.bdb", /*hash*/"dc5d3eafae8dea35ecedbb1855ec62be", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"master_tips.bdb", /*hash*/"c5a0397686c4b9a3f274df50a4964948", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"master_user.bdb", /*hash*/"8ffb32b52cb6e091e2f702e320bd74ff", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"master.mdb", /*hash*/"d7a1a6fc1d4295748812a50001b03378", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"master_user.bdb", /*hash*/"37e8ff1eafa304559d955e504f06dacd", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"master.mdb", /*hash*/"ccf15e2427909ebbc21418cad56bd55e", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"musicscores_m000.bdb", /*hash*/"977af4f0e9c507cf68f01e330b370503", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"musicscores_m001.bdb", /*hash*/"33dcc5a3c06efd6347516fefc367d8d8", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"musicscores_m002.bdb", /*hash*/"65c03ee56d851ef9f69647af4a256cfc", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
