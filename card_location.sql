@@ -391,3 +391,6 @@ INSERT INTO `card_location` VALUES (/*index*/392, /*text*/"湘南の海");
 INSERT INTO `card_location` VALUES (/*index*/393, /*text*/"海の家");
 INSERT INTO `card_location` VALUES (/*index*/394, /*text*/"こんびにえんすすとあ");
 INSERT INTO `card_location` VALUES (/*index*/395, /*text*/"アイドル水泳大会・会場");
+INSERT INTO `card_location` VALUES (/*index*/396, /*text*/"女子寮・食堂");
+INSERT INTO `card_location` VALUES (/*index*/397, /*text*/"タコちゃんLIVEステージ");
+INSERT INTO `card_location` VALUES (/*index*/398, /*text*/"フラワーパーク・屋内");
