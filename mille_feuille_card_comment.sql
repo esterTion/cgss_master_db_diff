@@ -1,0 +1,2 @@
+CREATE TABLE 'mille_feuille_card_comment' ('id' INTEGER NOT NULL, 'comment_id' INTEGER NOT NULL, 'use_type' INTEGER NOT NULL, 'index' INTEGER NOT NULL, 'voice_flag' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'insert_word_type' INTEGER NOT NULL, PRIMARY KEY('id'))
+INSERT INTO `mille_feuille_card_comment` VALUES (/*id*/0, /*comment_id*/0, /*use_type*/0, /*index*/0, /*voice_flag*/0, /*description*/0, /*insert_word_type*/0);

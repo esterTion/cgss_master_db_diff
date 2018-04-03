@@ -1,0 +1,1 @@
+CREATE TABLE 'mille_feuille_preset_0003' ('id' INTEGER NOT NULL, 'serial_id' INTEGER NOT NULL, 'item_id' INTEGER NOT NULL, 'item_type' INTEGER NOT NULL, 'level' INTEGER NOT NULL, 'dir_type' INTEGER NOT NULL, 'pos_no' INTEGER NOT NULL, PRIMARY KEY('id'))

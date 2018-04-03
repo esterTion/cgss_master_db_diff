@@ -1141,6 +1141,7 @@ INSERT INTO `text_data` VALUES (/*category*/27, /*index*/43, /*text*/"合計ア�
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/44, /*text*/"ルート新規解放\n「{0}」ルート");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/45, /*text*/"Ex");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/46, /*text*/"MAP{0}");
+INSERT INTO `text_data` VALUES (/*category*/27, /*index*/47, /*text*/"課題は1回のLIVEで、全て達成する必要はありません");
 INSERT INTO `text_data` VALUES (/*category*/29, /*index*/1, /*text*/"ノーマル");
 INSERT INTO `text_data` VALUES (/*category*/29, /*index*/2, /*text*/"アナザー");
 INSERT INTO `text_data` VALUES (/*category*/29, /*index*/3, /*text*/"スケジュール");
