@@ -46,7 +46,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/4, /*discription*/"「お気に入り編成」から、事務所とフリールームに\n登場するアイドルを個別に設定できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20011, /*img*/1, /*discription*/"「一括収納」ボタンで設置中のルームアイテムを\nまとめて倉庫に収納することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20012, /*img*/1, /*discription*/"ルームのレイアウトをマイセットに保存することができます。\n保存したマイセットはいつでも配置することができます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"屋上庭園をテーマにしたアイテムが登場 !\nルームをおしゃれに飾りつけよう ! !\n過去のこどもの日テーマアイテムも復刻販売中 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"タイル造りをテーマにしたアイテムが登場 !\nタイルやあじさいをイメージしたルームアイテムを飾って\n梅雨にぴったりのルームに !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、\n様々な効果を発揮する物があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
