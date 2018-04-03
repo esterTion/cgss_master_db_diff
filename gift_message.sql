@@ -92,3 +92,4 @@ INSERT INTO `gift_message` VALUES (/*id*/12000, /*discription*/"2000万DL突破�
 INSERT INTO `gift_message` VALUES (/*id*/20001, /*discription*/"東京ゲームショウ出展記念キャンペーンのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20002, /*discription*/"特別キャンペーンのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20003, /*discription*/"ストアランキング1位初獲得記念プレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20004, /*discription*/"「1周年記念!!カウントダウンログインボーナス」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
