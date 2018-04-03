@@ -2,7 +2,7 @@ CREATE TABLE sqlite_stat1(tbl,idx,stat)
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"namecard_bg", /*idx*/"", /*stat*/13);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"normal_mission", /*idx*/"normal_mission_0_normal_mission_id", /*stat*/"780 2");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"normal_mission", /*idx*/"normal_mission_0_step_group_id_1_step_order", /*stat*/"780 5 2");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"tour_story_detail", /*idx*/"tour_story_detail_0_event_id_1_type", /*stat*/"25 9 3");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"tour_story_detail", /*idx*/"tour_story_detail_0_event_id_1_type", /*stat*/"27 9 3");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"caravan_detail", /*idx*/"sqlite_autoindex_caravan_detail_1", /*stat*/"4 4 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"tour_live_item", /*idx*/"tour_live_item_0_event_id", /*stat*/"3 3");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"tour_audience_reward", /*idx*/"tour_audience_reward_0_event_id", /*stat*/"50 50");
@@ -43,7 +43,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"medley_live_exclude", /*idx*/"sqlite_
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_collision", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"tour_live_detail", /*idx*/"tour_live_detail_0_event_id_1_area_id_2_area_index", /*stat*/"35 35 5 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"tour_live_detail", /*idx*/"tour_live_detail_0_event_id", /*stat*/"35 35");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"event_data", /*idx*/"event_data_0_type", /*stat*/"51 11");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"event_data", /*idx*/"event_data_0_type", /*stat*/"52 11");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_announcement", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"atapon_story_detail", /*idx*/"atapon_story_detail_0_event_id_1_type", /*stat*/"160 9 3");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_effect", /*idx*/"", /*stat*/16);
@@ -116,7 +116,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_theme", /*idx*/"", /*stat*/
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"card_comments", /*idx*/"sqlite_autoindex_card_comments_1", /*stat*/"32022 28 6 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"tour_area", /*idx*/"tour_area_0_event_id", /*stat*/"7 7");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"leader_boost_rate", /*idx*/"leader_boost_rate_0_event_id", /*stat*/"21 21");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"banner", /*idx*/"", /*stat*/190);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"banner", /*idx*/"", /*stat*/191);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"available_time_type", /*idx*/"", /*stat*/5);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"skill_boost_type", /*idx*/"skill_boost_type_0_skill_value_1_target_type", /*stat*/"1 1 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"story_category", /*idx*/"sqlite_autoindex_story_category_1", /*stat*/"261 66 1");
@@ -163,7 +163,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"medley_score_rate", /*idx*/"", /*stat
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"skill_data", /*idx*/"", /*stat*/414);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"medley_point_rank_reward", /*idx*/"medley_point_rank_reward_0_event_id", /*stat*/"25 25");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_guest_character", /*idx*/"", /*stat*/3);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"live_notes_number", /*idx*/"sqlite_autoindex_live_notes_number_1", /*stat*/"596 5 1");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"live_notes_number", /*idx*/"sqlite_autoindex_live_notes_number_1", /*stat*/"600 5 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"card_grow", /*idx*/"", /*stat*/600);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"chara_data", /*idx*/"", /*stat*/190);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"dress_target", /*idx*/"", /*stat*/4);
@@ -177,16 +177,16 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"live_season_data", /*idx*/"", /*stat*
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"memorial_story_open", /*idx*/"", /*stat*/10);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"star_rank_effect", /*idx*/"", /*stat*/20);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"card_level", /*idx*/"", /*stat*/90);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"story_detail", /*idx*/"story_detail_0_category_id", /*stat*/"2674 11");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"story_detail", /*idx*/"story_detail_0_story_detail_type", /*stat*/"2674 335");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"story_detail", /*idx*/"story_detail_0_open_chara_id_1_chapter", /*stat*/"2674 15 2");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"story_detail", /*idx*/"sqlite_autoindex_story_detail_1", /*stat*/"2674 1");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"story_detail", /*idx*/"story_detail_0_category_id", /*stat*/"2676 11");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"story_detail", /*idx*/"story_detail_0_story_detail_type", /*stat*/"2676 335");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"story_detail", /*idx*/"story_detail_0_open_chara_id_1_chapter", /*stat*/"2676 15 2");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"story_detail", /*idx*/"sqlite_autoindex_story_detail_1", /*stat*/"2676 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"master_plus_group_3", /*idx*/"", /*stat*/4);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"live_tutorial", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"onetime_story", /*idx*/"onetime_story_0_story_id", /*stat*/"6 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"onetime_story", /*idx*/"sqlite_autoindex_onetime_story_1", /*stat*/"6 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_idol_extension", /*idx*/"", /*stat*/1);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"story_exchange_data", /*idx*/"", /*stat*/261);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"story_exchange_data", /*idx*/"", /*stat*/270);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"party_detail", /*idx*/"party_detail_0_event_id", /*stat*/"16 16");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"live_detail", /*idx*/"", /*stat*/602);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"cyalume_color", /*idx*/"", /*stat*/1);

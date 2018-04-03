@@ -24,3 +24,5 @@ INSERT INTO `tour_story_detail` VALUES (/*id*/2760, /*event_id*/5003, /*type*/0,
 INSERT INTO `tour_story_detail` VALUES (/*id*/2761, /*event_id*/5003, /*type*/0, /*open_event_point*/7000, /*next_detail_id*/2762);
 INSERT INTO `tour_story_detail` VALUES (/*id*/2762, /*event_id*/5003, /*type*/0, /*open_event_point*/10000, /*next_detail_id*/2763);
 INSERT INTO `tour_story_detail` VALUES (/*id*/2763, /*event_id*/5003, /*type*/2, /*open_event_point*/0, /*next_detail_id*/0);
+INSERT INTO `tour_story_detail` VALUES (/*id*/2764, /*event_id*/5002, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
+INSERT INTO `tour_story_detail` VALUES (/*id*/2765, /*event_id*/5002, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
