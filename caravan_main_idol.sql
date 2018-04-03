@@ -16,3 +16,4 @@ INSERT INTO `caravan_main_idol` VALUES (/*event_id*/2014, /*main_idol*/300407);
 INSERT INTO `caravan_main_idol` VALUES (/*event_id*/2015, /*main_idol*/100443);
 INSERT INTO `caravan_main_idol` VALUES (/*event_id*/2016, /*main_idol*/200455);
 INSERT INTO `caravan_main_idol` VALUES (/*event_id*/2017, /*main_idol*/300451);
+INSERT INTO `caravan_main_idol` VALUES (/*event_id*/2018, /*main_idol*/100473);
