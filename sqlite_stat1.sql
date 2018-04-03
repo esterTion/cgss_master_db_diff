@@ -26,7 +26,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"item_give_present", /*idx*/"", /*stat
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"login_bonus_detail", /*idx*/"login_bonus_detail_0_campaign_id_1_rap_2_count", /*stat*/"123 11 11 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"medley_vibration_change", /*idx*/"medley_vibration_change_0_event_id_1_difficulty_type", /*stat*/"20 20 5");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"medley_vibration_change", /*idx*/"sqlite_autoindex_medley_vibration_change_1", /*stat*/"20 20 5 1");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gift_message", /*idx*/"", /*stat*/86);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gift_message", /*idx*/"", /*stat*/87);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"medley_detail", /*idx*/"sqlite_autoindex_medley_detail_1", /*stat*/"12 4 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"weekly_mission", /*idx*/"weekly_mission_0_weekly_mission_id", /*stat*/"2 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"text_data", /*idx*/"sqlite_autoindex_text_data_1", /*stat*/"376 35 1");
