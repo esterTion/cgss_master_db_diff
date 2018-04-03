@@ -403,6 +403,11 @@ INSERT INTO `text_data` VALUES (/*category*/11, /*index*/54, /*text*/"所属ア�
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/55, /*text*/"アイテム所持数が上限に達しているため、プレゼントに送られました。");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/56, /*text*/"マニーが上限に達しているため、プレゼントに送られました。");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/57, /*text*/"友情ptが上限に達しているため、プレゼントに送られました。");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/1, /*text*/"出現率");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/2, /*text*/"{0}のレア度別提供割合");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/3, /*text*/"{0}の提供アイドル一覧");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/4, /*text*/"各提供割合は、以下のタブをご覧ください。\n・「1回引く」および、10連ガシャの1～9人目は、「プラチナオーディションガシャ」\n・10連ガシャの10人目は、「Sレア以上確定ガシャ」");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/5, /*text*/"アイドルごとに表示している出現率は、表示上小数第4位にて切り捨てしているため、\n全てを合算しても100%にならない場合があります。");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/1, /*text*/"エクストラコミュ解放");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/2, /*text*/"新たなエクストラコミュが解放されました");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/3, /*text*/"事務所");

@@ -74,11 +74,11 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40003, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40004, /*img*/1, /*discription*/"スターレッスンを行うとスターランクが上がります。\nスターランクが上がるとLIVEでの獲得マニー量が増加したり、\nLIVEでレア報酬を獲得できる確率が上がります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40004, /*img*/1, /*discription*/"スターランクの効果は、使用中ユニットの\nセンターアイドルの効果が適用されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40004, /*img*/2, /*discription*/"スターレッスンは、同じエピソード同士のアイドルで\n行うことができます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/40005, /*img*/1, /*discription*/"アイドルのポテンシャルを解放すると、\nLIVEで発揮されるアイドルの能力をアップできます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40005, /*img*/1, /*discription*/"アイドルのポテンシャルを解放すると、\nLIVEで発揮されるアイドルの能力をアップできます！");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40005, /*img*/1, /*discription*/"ポテンシャルは「ボーカル」「ダンス」「ビジュアル」「ライフ」\n4種類あり、解放するには、「プロデュースpt」と\n「特訓アイテム」が必要になります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40005, /*img*/1, /*discription*/"プロデュースptは、アイドルのファン数を増やすことで、\n最大 25 まで獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40005, /*img*/2, /*discription*/"ポテンシャル解放による能力アップは、そのアイドルの\n全てのエピソードに適用され、また、アップする能力値は、\nレアリティによって異なります。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/40005, /*img*/2, /*discription*/"お気に入りのアイドルのファンを集めて、\nポテンシャルを解放し、LIVEで大活躍させましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40005, /*img*/2, /*discription*/"お気に入りのアイドルのファンを集めて、\nポテンシャルを解放し、LIVEで大活躍させましょう！");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/3, /*discription*/"お気に入りのアイドルを編成することができます。\nお気に入りのアイドルはホームとルームに登場します。");
