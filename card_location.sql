@@ -348,3 +348,4 @@ INSERT INTO `card_location` VALUES (/*index*/349, /*text*/"沖縄の野外ステ
 INSERT INTO `card_location` VALUES (/*index*/350, /*text*/"小樽運河");
 INSERT INTO `card_location` VALUES (/*index*/351, /*text*/"MVセット");
 INSERT INTO `card_location` VALUES (/*index*/352, /*text*/"お花畑");
+INSERT INTO `card_location` VALUES (/*index*/353, /*text*/"仲見世通り");
