@@ -995,3 +995,4 @@ INSERT INTO `text_data` VALUES (/*category*/25, /*index*/18, /*text*/"プレイ�
 INSERT INTO `text_data` VALUES (/*category*/25, /*index*/19, /*text*/"公式\nプレイリスト");
 INSERT INTO `text_data` VALUES (/*category*/25, /*index*/20, /*text*/"全楽曲から\nランダムに再生");
 INSERT INTO `text_data` VALUES (/*category*/25, /*index*/21, /*text*/"MV解放済みの全楽曲からランダムでMVを再生し続けます。\nアイドルは所属しているアイドル全てから、\n衣装は所持しているものから都度ランダムに選ばれます。");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/8, /*text*/"変更する");
