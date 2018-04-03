@@ -235,6 +235,13 @@ INSERT INTO `tips` VALUES (/*id*/233, /*tips_type*/1, /*value*/219, /*index*/2, 
 INSERT INTO `tips` VALUES (/*id*/234, /*tips_type*/1, /*value*/262, /*index*/2, /*title*/"依田芳乃のウワサ②", /*comment*/"お年寄りのファンに会うと\n拝まれるらしい。");
 INSERT INTO `tips` VALUES (/*id*/235, /*tips_type*/1, /*value*/128, /*index*/2, /*title*/"赤西瑛梨華のウワサ②", /*comment*/"通っている女子高の文化祭で\n一発ギャグを披露したら\n一発で人気者になったらしい。");
 INSERT INTO `tips` VALUES (/*id*/236, /*tips_type*/1, /*value*/216, /*index*/2, /*title*/"氏家むつみのウワサ②", /*comment*/"食べ物で冒険するのは\nおすすめできないらしい。");
+INSERT INTO `tips` VALUES (/*id*/237, /*tips_type*/1, /*value*/222, /*index*/2, /*title*/"岡崎泰葉のウワサ②", /*comment*/"人前で読むのは古典文学だが、\n子供向けの絵本を集めているらしい。");
+INSERT INTO `tips` VALUES (/*id*/238, /*tips_type*/1, /*value*/237, /*index*/2, /*title*/"龍崎薫のウワサ②", /*comment*/"共演者全員と友達になるのが\nいつもの目標らしい。");
+INSERT INTO `tips` VALUES (/*id*/239, /*tips_type*/1, /*value*/285, /*index*/2, /*title*/"杉坂海のウワサ②", /*comment*/"アネキと呼ばれるのはOKだが\nアネゴと呼ばれるのはNGらしい。");
+INSERT INTO `tips` VALUES (/*id*/240, /*tips_type*/1, /*value*/274, /*index*/2, /*title*/"相馬夏美のウワサ②", /*comment*/"20kgくらい軽く落とせるわ\nが持論らしい。");
+INSERT INTO `tips` VALUES (/*id*/241, /*tips_type*/1, /*value*/235, /*index*/2, /*title*/"高森藍子のウワサ②", /*comment*/"変装せず散歩しているとき、\n声をかけないのがファンの間でのマナーらしい。");
+INSERT INTO `tips` VALUES (/*id*/242, /*tips_type*/1, /*value*/185, /*index*/2, /*title*/"新田美波のウワサ②", /*comment*/"20歳になったら飲みましょう\nという約束が数え切れないほどあるらしい。");
+INSERT INTO `tips` VALUES (/*id*/243, /*tips_type*/1, /*value*/188, /*index*/2, /*title*/"橘ありすのウワサ②", /*comment*/"インターネット上での議論は\n建設的ではないため\nやらない主義らしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !");
@@ -494,3 +501,6 @@ INSERT INTO `tips` VALUES (/*id*/40219, /*tips_type*/4, /*value*/178, /*index*/2
 INSERT INTO `tips` VALUES (/*id*/40220, /*tips_type*/4, /*value*/223, /*index*/2, /*title*/"速水奏②　映画のジャンル!", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40221, /*tips_type*/4, /*value*/136, /*index*/2, /*title*/"桃井あずき②　大作戦なし大作戦", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40222, /*tips_type*/4, /*value*/242, /*index*/2, /*title*/"矢口美羽②　勇気の一発", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40223, /*tips_type*/4, /*value*/229, /*index*/2, /*title*/"結城晴②　狙われてる…？", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40224, /*tips_type*/4, /*value*/297, /*index*/2, /*title*/"佐藤心②　スウィーティーとは", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40225, /*tips_type*/4, /*value*/268, /*index*/2, /*title*/"城ヶ崎莉嘉②　つい喋っちゃう☆", /*comment*/"");
