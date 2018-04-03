@@ -8,3 +8,7 @@ INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/2009, /*chara_id*/230, /*d
 INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/2009, /*chara_id*/257, /*dress_id*/3017, /*head_ratio*/100, /*body_ratio*/130);
 INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/2009, /*chara_id*/230, /*dress_id*/2360, /*head_ratio*/100, /*body_ratio*/120);
 INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/2009, /*chara_id*/253, /*dress_id*/3316, /*head_ratio*/100, /*body_ratio*/120);
+INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/9901, /*chara_id*/283, /*dress_id*/3307, /*head_ratio*/100, /*body_ratio*/110);
+INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/9902, /*chara_id*/283, /*dress_id*/3307, /*head_ratio*/100, /*body_ratio*/110);
+INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/9016, /*chara_id*/283, /*dress_id*/3307, /*head_ratio*/100, /*body_ratio*/110);
+INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/2009, /*chara_id*/283, /*dress_id*/3307, /*head_ratio*/100, /*body_ratio*/120);

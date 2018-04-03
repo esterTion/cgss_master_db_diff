@@ -31,6 +31,7 @@ INSERT INTO `music_info` VALUES (/*id*/1029, /*discription*/"城ヶ崎美嘉（C
 INSERT INTO `music_info` VALUES (/*id*/1030, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n城ヶ崎美嘉（CV：佳村はるか）\n多田李衣菜（CV：青木瑠璃子）\n\n\n作詞：デレパジ（福原綾香、大橋彩香、\n佳村はるか、原紗友里、青木瑠璃子）\n作曲・編曲：滝澤俊輔（TRYTONELABO）");
 INSERT INTO `music_info` VALUES (/*id*/1031, /*discription*/"前川みく（CV：高森奈津美）\n依田芳乃（CV：高田憂希）\n森久保乃々（CV：高橋花林）\n佐藤心（CV：花守ゆみり）\n三船美優（CV：原田彩楓）\n\n\n作詞：渡部紫緒\n作曲・編曲：坂部剛");
 INSERT INTO `music_info` VALUES (/*id*/1032, /*discription*/"THE IDOLM@STER CINDERELLA GIRLS!!\n\n高垣楓（CV：早見沙織）\n三船美優（CV：原田彩楓）\n森久保乃々（CV：高橋花林）\n島村卯月（CV：大橋彩香）\n安部菜々（CV：三宅麻理恵）\n前川みく（CV：高森奈津美）\n依田芳乃（CV：高田憂希）\n本田未央（CV：原紗友里）\n佐藤心（CV：花守ゆみり）\n\n\n作詞：渡部紫緒\n作曲・編曲：坂部剛");
+INSERT INTO `music_info` VALUES (/*id*/1033, /*discription*/"浜口あやめ（CV：田澤茉純）\n道明寺歌鈴（CV：新田ひより）\n脇山珠美（CV：嘉山未紗）\n\n\n作詞：荘野ジュリ\n作曲：坪田修平（TRYTONELABO）\n編曲：宮原慶太");
 INSERT INTO `music_info` VALUES (/*id*/1901, /*discription*/"千川ちひろ（CV：佐藤利奈）\n\n\n作詞：marhy\n作曲・編曲：BNSI（内田哲也）\nギター：後藤貴徳\nバイオリン：越川歩\nトランペット：鈴木正則\nコーラス：marhy");
 INSERT INTO `music_info` VALUES (/*id*/1902, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n\n\n作詞：八城雄太\n作曲・編曲：石濱翔（MONACA）");
 INSERT INTO `music_info` VALUES (/*id*/1911, /*discription*/"？");

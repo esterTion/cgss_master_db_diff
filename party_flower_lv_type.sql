@@ -5,3 +5,9 @@ INSERT INTO `party_flower_lv_type` VALUES (/*id*/3, /*group_id*/1, /*lv*/3, /*fl
 INSERT INTO `party_flower_lv_type` VALUES (/*id*/4, /*group_id*/1, /*lv*/4, /*flower_num*/300, /*preset_type*/4);
 INSERT INTO `party_flower_lv_type` VALUES (/*id*/5, /*group_id*/1, /*lv*/5, /*flower_num*/400, /*preset_type*/5);
 INSERT INTO `party_flower_lv_type` VALUES (/*id*/6, /*group_id*/1, /*lv*/6, /*flower_num*/500, /*preset_type*/6);
+INSERT INTO `party_flower_lv_type` VALUES (/*id*/7, /*group_id*/2, /*lv*/1, /*flower_num*/0, /*preset_type*/1);
+INSERT INTO `party_flower_lv_type` VALUES (/*id*/8, /*group_id*/2, /*lv*/2, /*flower_num*/1, /*preset_type*/2);
+INSERT INTO `party_flower_lv_type` VALUES (/*id*/9, /*group_id*/2, /*lv*/3, /*flower_num*/200, /*preset_type*/3);
+INSERT INTO `party_flower_lv_type` VALUES (/*id*/10, /*group_id*/2, /*lv*/4, /*flower_num*/300, /*preset_type*/4);
+INSERT INTO `party_flower_lv_type` VALUES (/*id*/11, /*group_id*/2, /*lv*/5, /*flower_num*/400, /*preset_type*/5);
+INSERT INTO `party_flower_lv_type` VALUES (/*id*/12, /*group_id*/2, /*lv*/6, /*flower_num*/500, /*preset_type*/6);
