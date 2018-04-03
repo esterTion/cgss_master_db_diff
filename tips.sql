@@ -289,6 +289,13 @@ INSERT INTO `tips` VALUES (/*id*/287, /*tips_type*/1, /*value*/232, /*index*/2, 
 INSERT INTO `tips` VALUES (/*id*/288, /*tips_type*/1, /*value*/129, /*index*/2, /*title*/"松原早耶のウワサ②", /*comment*/"ブログの文は落ち着いているので\nときどき、書いたのが本人だと\n信じてもらえないらしい。");
 INSERT INTO `tips` VALUES (/*id*/289, /*tips_type*/1, /*value*/240, /*index*/2, /*title*/"斉藤洋子のウワサ②", /*comment*/"新しい入浴剤を買った日は\n1日うきうきしているらしい。");
 INSERT INTO `tips` VALUES (/*id*/290, /*tips_type*/1, /*value*/245, /*index*/2, /*title*/"真鍋いつきのウワサ②", /*comment*/"よく食べてよく動くらしい。");
+INSERT INTO `tips` VALUES (/*id*/291, /*tips_type*/1, /*value*/141, /*index*/2, /*title*/"道明寺歌鈴のウワサ②", /*comment*/"バナナを見ると緊張するらしい。");
+INSERT INTO `tips` VALUES (/*id*/292, /*tips_type*/1, /*value*/233, /*index*/2, /*title*/"鷹富士茄子のウワサ②", /*comment*/"ゲン担ぎで\nグッズが売れるらしい。");
+INSERT INTO `tips` VALUES (/*id*/293, /*tips_type*/1, /*value*/108, /*index*/2, /*title*/"三村かな子のウワサ②", /*comment*/"かな子のお菓子箱は\nみんなの癒しらしい。");
+INSERT INTO `tips` VALUES (/*id*/294, /*tips_type*/1, /*value*/292, /*index*/2, /*title*/"浜口あやめのウワサ②", /*comment*/"ふたつの生放送に\n同時に映ったらしい。");
+INSERT INTO `tips` VALUES (/*id*/295, /*tips_type*/1, /*value*/287, /*index*/2, /*title*/"メアリー・コクランのウワサ②", /*comment*/"ダイワナデコ\nも目指しているらしい。");
+INSERT INTO `tips` VALUES (/*id*/296, /*tips_type*/1, /*value*/133, /*index*/2, /*title*/"西園寺琴歌のウワサ②", /*comment*/"カードの色は\n黒じゃなくピンクがいいらしい。");
+INSERT INTO `tips` VALUES (/*id*/297, /*tips_type*/1, /*value*/120, /*index*/2, /*title*/"太田優のウワサ②", /*comment*/"夕陽の見える土手で\nアッキーと心を通わせたらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !");
@@ -581,4 +588,10 @@ INSERT INTO `tips` VALUES (/*id*/40252, /*tips_type*/4, /*value*/272, /*index*/2
 INSERT INTO `tips` VALUES (/*id*/40253, /*tips_type*/4, /*value*/111, /*index*/2, /*title*/"小日向美穂②　A・おつまみの話", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40254, /*tips_type*/4, /*value*/228, /*index*/2, /*title*/"大和亜季②　サバイバルちがい", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40255, /*tips_type*/4, /*value*/300, /*index*/2, /*title*/"イヴ・サンタクロース②　入りたくなるんです～", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40256, /*tips_type*/4, /*value*/293, /*index*/2, /*title*/"村上巴②　将棋の外で", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40257, /*tips_type*/4, /*value*/264, /*index*/2, /*title*/"野々村そら②　そらちんのうわさ !", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40258, /*tips_type*/4, /*value*/151, /*index*/2, /*title*/"安斎都②　その秘密知りたい", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40259, /*tips_type*/4, /*value*/203, /*index*/2, /*title*/"瀬名詩織②　海はいかがです？", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40260, /*tips_type*/4, /*value*/104, /*index*/2, /*title*/"福山舞②　私たちの共通点", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40261, /*tips_type*/4, /*value*/239, /*index*/2, /*title*/"松山久美子②　分かってるけど… !", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50001, /*tips_type*/5, /*value*/1, /*index*/1, /*title*/"縦画面持ち替え説明画像", /*comment*/"");

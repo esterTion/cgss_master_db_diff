@@ -35,3 +35,4 @@ INSERT INTO `rm_assets` VALUES (/*id*/33, /*name*/"title_bg_50035.unity3d");
 INSERT INTO `rm_assets` VALUES (/*id*/34, /*name*/"title_bg_50036.unity3d");
 INSERT INTO `rm_assets` VALUES (/*id*/35, /*name*/"title_bg_50037.unity3d");
 INSERT INTO `rm_assets` VALUES (/*id*/36, /*name*/"title_bg_50038.unity3d");
+INSERT INTO `rm_assets` VALUES (/*id*/37, /*name*/"charasplit_045_5_01.acb");

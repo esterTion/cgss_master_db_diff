@@ -93,7 +93,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30006, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30006, /*img*/2, /*discription*/"「リスト選択」ボタンをタップすると\n公演名が記載されたプレイリストの一覧が表示されます。\n一覧からプレイリストを選択し、公演を振り返りましょう！");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30006, /*img*/3, /*discription*/"MV再生中に画面をタップするとポーズメニューが表示されます。\nポーズメニューでは「リスト」タブと「メニュー」タブを\n切り替えることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30006, /*img*/3, /*discription*/"「リスト」タブではプレイリストの楽曲を選択して再生できます。\n「メニュー」タブでは楽曲情報を確認できる他、\n「リピート」や「シャッフル」のON/OFFを設定できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「新春 ! ハッピーニューイヤースペシャルLIVEキャンペーン」\n開催中 ! 期間中にLIVEをクリアすると、\n期間限定のアイテムを獲得できます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「バレンタインスペシャルLIVEキャンペーン」\n開催中 ! 期間中にLIVEをクリアすると、\n期間限定のアイテムを獲得できます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
