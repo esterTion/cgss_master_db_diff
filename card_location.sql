@@ -358,3 +358,6 @@ INSERT INTO `card_location` VALUES (/*index*/360, /*text*/"保奈美の自宅");
 INSERT INTO `card_location` VALUES (/*index*/361, /*text*/"結婚式場");
 INSERT INTO `card_location` VALUES (/*index*/362, /*text*/"結婚式場前");
 INSERT INTO `card_location` VALUES (/*index*/363, /*text*/"披露宴会場");
+INSERT INTO `card_location` VALUES (/*index*/364, /*text*/"サウンドスタジオ");
+INSERT INTO `card_location` VALUES (/*index*/365, /*text*/"野外ロックフェスステージ");
+INSERT INTO `card_location` VALUES (/*index*/366, /*text*/"スポーツジム");
