@@ -5,6 +5,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/10001, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/10001, /*img*/2, /*discription*/"さらに、SSレアアイドルは特別な衣装で\n3DLIVEのパフォーマンスを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10001, /*img*/3, /*discription*/"特定のSレア以上のアイドルをユニット編成で\nセンターに設定することで、LIVEの「お願い ! シンデレラ」を\nソロ歌唱で楽しめます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10003, /*img*/1, /*discription*/"ローカルオーディションガシャは友情ptを消費して、\nアイドルやトレーニングチケットを獲得できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/10004, /*img*/1, /*discription*/"プラチナオーディションガシャを引くと、\n『スターシャイン』が獲得できます。\n※『スターシャイン』は提供期間が決まっています。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/10004, /*img*/2, /*discription*/"期間中に『スターシャイン』を必要数獲得すると、\n対象のアイドルを1人スカウトすることができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/10004, /*img*/3, /*discription*/"提供期間を過ぎた『スターシャイン』は、\n『スターピース』に自動で変換されます。\n『スターピース』は、アイテムと交換することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/1, /*discription*/"スペシャルガシャセットは期間限定販売です。\n購入すると「スカウトチケット」と「プラチナ10連ガシャ\nチケット」を1枚ずつ獲得できます。\n※有償スタージュエルでのみ購入することができます");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/2, /*discription*/"「スカウトチケット」はレア、Sレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で出現します。");
@@ -150,6 +153,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60015, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60015, /*img*/2, /*discription*/"ドレスショップで購入した3D衣装は、アイドル編成と\nMVモードのユニット確認画面から選択することがで\nきます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60016, /*img*/1, /*discription*/"マニーショップにアイテム売却機能が追加されました。\n画面右上のボタンから売却画面に切り替えることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60016, /*img*/1, /*discription*/"所持アイテムを売却することで、マニーを獲得できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60018, /*img*/1, /*discription*/"スターピースとアイテムを交換できます。\n対象のアイテムによって必要なスターピースの数は\n異なります。 ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60019, /*img*/1, /*discription*/"誕生日特設ページでは、アイドルの誕生日を\nお祝いすることができます。\n誕生日アイドルがいない日は誕生日の確認などができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60019, /*img*/2, /*discription*/"バースデーカード作成ボタンを押すと、誕生日アイドルの\nバースデーカードを作ることができます。\nバースデーカード編集から、好きなデザインを選んで、\nオリジナルのバースデーカードを作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60019, /*img*/3, /*discription*/"バースデーカードに表示させるイラストやコメントは、\nスワイプすることで位置を自由に調整できます。");

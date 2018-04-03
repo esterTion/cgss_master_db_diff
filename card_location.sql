@@ -352,6 +352,7 @@ INSERT INTO `card_location` VALUES (/*index*/353, /*text*/"仲見世通り");
 INSERT INTO `card_location` VALUES (/*index*/354, /*text*/"中庭");
 INSERT INTO `card_location` VALUES (/*index*/355, /*text*/"巴の実家");
 INSERT INTO `card_location` VALUES (/*index*/356, /*text*/"高台の公園");
+INSERT INTO `card_location` VALUES (/*index*/357, /*text*/"夜景のベイサイド");
 INSERT INTO `card_location` VALUES (/*index*/358, /*text*/"海をのぞむ結婚式場");
 INSERT INTO `card_location` VALUES (/*index*/359, /*text*/"庭に面した結婚式場");
 INSERT INTO `card_location` VALUES (/*index*/360, /*text*/"保奈美の自宅");

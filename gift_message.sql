@@ -39,6 +39,10 @@ INSERT INTO `gift_message` VALUES (/*id*/40, /*discription*/"「{0}」で獲得�
 INSERT INTO `gift_message` VALUES (/*id*/41, /*discription*/"エクストラコミュ「{0}」で加入したアイドルです。", /*type_1*/13, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/42, /*discription*/"エクストラコミュ「{0}」で獲得した報酬です。", /*type_1*/13, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/43, /*discription*/"アイドルからのプレゼントです。", /*type_1*/31, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/44, /*discription*/"スターシャインでスカウトしたアイドルです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/45, /*discription*/"スターシャインで獲得した報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/46, /*discription*/"提供期間を過ぎたスターシャインを自動変換したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/47, /*discription*/"スターピース交換所で獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/50, /*discription*/"プロデューサーランク「SSSアイドルマスター」ランクアップで加入したアイドルです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/51, /*discription*/"プロデューサーランク「SSSアイドルマスター」ランクアップ報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/52, /*discription*/"マニーショップで購入したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
@@ -106,3 +110,4 @@ INSERT INTO `gift_message` VALUES (/*id*/20007, /*discription*/"「新春 ! プ�
 INSERT INTO `gift_message` VALUES (/*id*/20008, /*discription*/"「5th Anniversary Party ニコ生SP」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20009, /*discription*/"「Shadowverseコラボキャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20010, /*discription*/"「5thLIVEツアー連動キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20011, /*discription*/"ガシャのレア度別提供割合変更にともなう運営からのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
