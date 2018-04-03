@@ -267,3 +267,12 @@ INSERT INTO `card_location` VALUES (/*index*/268, /*text*/"高級レストラン
 INSERT INTO `card_location` VALUES (/*index*/269, /*text*/"神社・庭");
 INSERT INTO `card_location` VALUES (/*index*/270, /*text*/"小さなカフェ");
 INSERT INTO `card_location` VALUES (/*index*/271, /*text*/"鈴帆の実家");
+INSERT INTO `card_location` VALUES (/*index*/272, /*text*/"冬の街角");
+INSERT INTO `card_location` VALUES (/*index*/273, /*text*/"小さなLIVEステージ");
+INSERT INTO `card_location` VALUES (/*index*/274, /*text*/"パリ・オペラ劇場");
+INSERT INTO `card_location` VALUES (/*index*/275, /*text*/"ヴェルサイユ宮殿前");
+INSERT INTO `card_location` VALUES (/*index*/276, /*text*/"リムジン");
+INSERT INTO `card_location` VALUES (/*index*/277, /*text*/"漁船");
+INSERT INTO `card_location` VALUES (/*index*/278, /*text*/"噴水のある広場");
+INSERT INTO `card_location` VALUES (/*index*/279, /*text*/"メモリアルLIVEステージ");
+INSERT INTO `card_location` VALUES (/*index*/280, /*text*/"思い出のLIVE会場前");

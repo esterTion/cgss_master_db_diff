@@ -239,3 +239,4 @@ INSERT INTO `story_category` VALUES (/*id*/270, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/271, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Jet to the Future", /*sub_title*/"Jet to the Future", /*disp_order*/23);
 INSERT INTO `story_category` VALUES (/*id*/272, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"あいくるしい", /*sub_title*/"あいくるしい", /*disp_order*/24);
 INSERT INTO `story_category` VALUES (/*id*/273, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Flip Flop", /*sub_title*/"Flip Flop", /*disp_order*/25);
+INSERT INTO `story_category` VALUES (/*id*/274, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"EVERMORE", /*sub_title*/"EVERMORE", /*disp_order*/26);

@@ -27,6 +27,7 @@ INSERT INTO `music_data` VALUES (/*id*/1025, /*name*/"Near to You", /*bpm*/174, 
 INSERT INTO `music_data` VALUES (/*id*/1026, /*name*/"Near to You", /*bpm*/174, /*composer*/"AJURIKA", /*lyricist*/"AJURIKA", /*sound_offset*/72048, /*sound_length*/21000, /*name_sort*/72);
 INSERT INTO `music_data` VALUES (/*id*/1027, /*name*/"Near to You", /*bpm*/174, /*composer*/"AJURIKA", /*lyricist*/"AJURIKA", /*sound_offset*/72048, /*sound_length*/21000, /*name_sort*/73);
 INSERT INTO `music_data` VALUES (/*id*/1028, /*name*/"Near to You", /*bpm*/174, /*composer*/"AJURIKA", /*lyricist*/"AJURIKA", /*sound_offset*/72048, /*sound_length*/21000, /*name_sort*/74);
+INSERT INTO `music_data` VALUES (/*id*/1029, /*name*/"EVERMORE", /*bpm*/180, /*composer*/"田中秀和（MONACA）・滝澤俊輔（TRYTONELABO）", /*lyricist*/"森由里子", /*sound_offset*/81375, /*sound_length*/39000, /*name_sort*/11);
 INSERT INTO `music_data` VALUES (/*id*/1030, /*name*/"Treasure☆", /*bpm*/128, /*composer*/"滝澤俊輔（TRYTONELABO）", /*lyricist*/"デレパジ", /*sound_offset*/83796, /*sound_length*/34000, /*name_sort*/68);
 INSERT INTO `music_data` VALUES (/*id*/1901, /*name*/"お願い ! シンデレラ", /*bpm*/175, /*composer*/"BNSI（内田哲也）", /*lyricist*/"marhy", /*sound_offset*/57508, /*sound_length*/20937, /*name_sort*/18);
 INSERT INTO `music_data` VALUES (/*id*/2001, /*name*/"ラブレター", /*bpm*/212, /*composer*/"岡野裕次郎（TRYTONELABO）", /*lyricist*/"桜アス恵（TRYTONELABO）", /*sound_offset*/57411, /*sound_length*/26300, /*name_sort*/103);
