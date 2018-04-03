@@ -28,8 +28,13 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20008, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20008, /*img*/2, /*discription*/"表示領域はミニウィンドウ上で移動することができます。\nミニウィンドウでルーム全体を見渡しながら\n編集したい箇所に表示領域を合わせることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20008, /*img*/3, /*discription*/"ミニウィンドウは左側に収納したり、\n上側に移動したりすることができます。\n編集箇所に応じてミニウィンドウを移動させましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20008, /*img*/4, /*discription*/"「－」、「＋」ボタンで表示領域のサイズを\n変更することができます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20009, /*img*/1, /*discription*/"いろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/1, /*discription*/"レイアウトは無限大 ! !\nあなただけのルームをつくろう ! !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20009, /*img*/1, /*discription*/"ルーム画面のレイアウトを変更しました。\nショップや倉庫へは右側の矢印ボタンを\nタップすると表示されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20009, /*img*/2, /*discription*/"ルームに名前を付けられるようになりました。\nルーム名はいつでも自由に変更できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20009, /*img*/3, /*discription*/"「一括受取」ボタンで宅配ボックスや\nチケットボードに届いているアイテムを\nまとめて受け取ることができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/1, /*discription*/"より自由にルームアイテムの設置が行える\nフリールームが追加されました。\n「ルーム移動」ボタンをタップすると\nフリールームへ移動できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/2, /*discription*/"ルーム名変更ボタンから\nメインに設定するルームを設定することができます。\n自分や同僚がルームに入った際に、\nメイン設定を行っているルームが最初に表示されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/3, /*discription*/"別のルームに設置中のアイテムは、\nルームアイテム一覧から直接移動できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/4, /*discription*/"「お気に入り編成」から、事務所とフリールームに\n登場するアイドルを個別に設定できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「エレガント」をテーマにしたアイテムを追加 !\n気品ある素敵なルームに ! !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、\n様々な効果を発揮する物があります。");

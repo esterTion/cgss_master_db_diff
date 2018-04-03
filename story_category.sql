@@ -179,4 +179,5 @@ INSERT INTO `story_category` VALUES (/*id*/257, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/258, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"生存本能ヴァルキュリア", /*sub_title*/"生存本能ヴァルキュリア", /*disp_order*/12);
 INSERT INTO `story_category` VALUES (/*id*/259, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"明日また会えるよね", /*sub_title*/"明日また会えるよね", /*disp_order*/13);
 INSERT INTO `story_category` VALUES (/*id*/260, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"純情Midnight伝説", /*sub_title*/"純情Midnight伝説", /*disp_order*/14);
+INSERT INTO `story_category` VALUES (/*id*/261, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"ちひろのお知らせ", /*sub_title*/"ちひろのお知らせ", /*disp_order*/2);
 INSERT INTO `story_category` VALUES (/*id*/262, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"咲いてJewel", /*sub_title*/"咲いてJewel", /*disp_order*/15);
