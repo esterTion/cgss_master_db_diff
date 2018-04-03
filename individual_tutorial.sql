@@ -39,6 +39,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/3, /*discription*/"別のルームに設置中のアイテムは、\nルームアイテム一覧から直接移動できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/4, /*discription*/"「お気に入り編成」から、事務所とフリールームに\n登場するアイドルを個別に設定できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20011, /*img*/1, /*discription*/"「一括収納」ボタンで設置中のルームアイテムを\nまとめて倉庫に収納することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20012, /*img*/1, /*discription*/"ルームのレイアウトをマイセットに保存することができます。\n保存したマイセットはいつでも配置することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"ニコニコ生放送「デレステNIGHT☆☆☆☆☆☆」にて、\n制作が決定した「エンジェルウィング」が登場!!");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、\n様々な効果を発揮する物があります。");
@@ -115,6 +116,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60011, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60012, /*img*/1, /*discription*/"特訓アイテム交換では、所持している特訓アイテムを\n他の特訓アイテムに交換することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60013, /*img*/1, /*discription*/"マニーショップでは、マニーを消費して\nアイテムを購入することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60013, /*img*/1, /*discription*/"アイテムは、それぞれ購入できる上限数が決まっています。\nなお、一部のアイテムは一定期間で購入制限がリセットされます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60014, /*img*/1, /*discription*/"リーダーアイドルを自由に設定できるようになりました。\nリーダーアイドルは、同僚リストなどで\n代表して表示されるアイドルです。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60014, /*img*/2, /*discription*/"ゲスト参戦アイドルを設定できるようになりました。\n他プロデューサーのゲストとして参加するアイドルを、\n楽曲タイプごとに設定することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/1, /*discription*/"「イベントptランキング報酬」、「達成pt報酬」、\n「ハイスコアランキング報酬」で、イベント限定の\nSレアアイドルやルームアイテムを手にいれましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/2, /*discription*/"イベントptランキングで50万位に入賞すると、\n自分の順位が入ったイベント称号を獲得できます。\n各称号のデザインは順位によって異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/3, /*discription*/"通常楽曲をプレイすると、パタパタイコとイベントptを獲得\nできます。パタパタイコは、スタミナ消費量と\nSCOREランクが高いほど多く獲得できます。");
