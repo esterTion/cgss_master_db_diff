@@ -8,6 +8,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/10003, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/1, /*discription*/"スペシャルガシャセットは期間限定販売です。\n購入すると「スカウトチケット」と「プラチナ10連ガシャ\nチケット」を1枚ずつ獲得できます。\n※有償スタージュエルでのみ購入することができます");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/2, /*discription*/"「スカウトチケット」はレア、Sレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で出現します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11002, /*img*/1, /*discription*/"スペシャルガシャセットは期間限定販売です。\n購入すると「スカウトチケット」と「プラチナ10連ガシャ\nチケット」を1枚ずつ獲得できます。\n※有償スタージュエルでのみ購入することができます");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11002, /*img*/2, /*discription*/"「スカウトチケット」はレア、Sレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11002, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で出現します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20001, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20001, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、\n様々な効果を発揮する物があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20001, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -74,6 +77,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/3, /*discription*/"お気に入りのアイドルを編成することができます。\nお気に入りのアイドルはホームとルームに登場します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/4, /*discription*/"特訓後のアイドルは、特訓前の状態にすることができます。\n切り替えを行うと、ホームやルームで登場するアイドルが\n特訓前の状態になります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40201, /*img*/1, /*discription*/"新3D衣装「アクロス・ザ・スターズ」登場 !\n3DLIVEでアイドルたちの衣装を\n変更することができるようになりました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40201, /*img*/2, /*discription*/"3D衣装の変更はアイドル編成と\nMVモードのユニット確認画面で\n切り替えることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50001, /*img*/1, /*discription*/"ストーリーコミュでは、アイドルたちが\n織り成すストーリーが描かれています。\n解放条件を達成することで解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50001, /*img*/1, /*discription*/"ストーリー中に行われるコミュLIVEでは、\n新たなコミュは解放されません。\nLIVEで特定の難易度でのクリアが必要となります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50002, /*img*/1, /*discription*/"メモリアルコミュでは、アイドル一人ひとりの\nアイドルとしての活動の軌跡が描かれています。\nLIVEでファン数を増やすことで解放されます。");
