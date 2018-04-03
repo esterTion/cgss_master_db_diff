@@ -44,7 +44,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gacha_data", /*idx*/"", /*stat*/99);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_detail", /*idx*/"sqlite_autoindex_room_item_detail_1", /*stat*/"535 2 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"medley_live_exclude", /*idx*/"sqlite_autoindex_medley_live_exclude_1", /*stat*/"17 17 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_collision", /*idx*/"", /*stat*/1);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"event_data", /*idx*/"event_data_0_type", /*stat*/"22 8");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"event_data", /*idx*/"event_data_0_type", /*stat*/"23 8");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_announcement", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"total_login_bonus", /*idx*/"", /*stat*/31);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_anime", /*idx*/"sqlite_autoindex_room_item_anime_1", /*stat*/"620 6 1");
@@ -86,7 +86,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"music_vocalist", /*idx*/"music_vocali
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"music_vocalist", /*idx*/"music_vocalist_0_music_data_id", /*stat*/"290 5");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"music_vocalist", /*idx*/"sqlite_autoindex_music_vocalist_1", /*stat*/"290 5 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"leader_boost_rate", /*idx*/"leader_boost_rate_0_event_id", /*stat*/"4 4");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"banner", /*idx*/"", /*stat*/68);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"banner", /*idx*/"", /*stat*/69);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"available_time_type", /*idx*/"", /*stat*/5);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"story_category", /*idx*/"sqlite_autoindex_story_category_1", /*stat*/"166 42 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"user_level", /*idx*/"", /*stat*/300);
