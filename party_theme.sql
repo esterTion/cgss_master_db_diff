@@ -1,0 +1,2 @@
+CREATE TABLE 'party_theme' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'description' TEXT NOT NULL, 'order_num' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'))
+INSERT INTO `party_theme` VALUES (/*id*/1, /*name*/"", /*description*/"", /*order_num*/0, /*reward_type*/0, /*start_date*/"2099-07-01 15:00:00", /*end_date*/"2099-07-01 14:59:00");

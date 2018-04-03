@@ -1,0 +1,1 @@
+CREATE TABLE 'room_set_data' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'value' INTEGER NOT NULL, 'shop_start' TEXT NOT NULL, 'shop_end' TEXT NOT NULL, 'flag_new' INTEGER NOT NULL, 'sort' INTEGER NOT NULL, 'bonus' TEXT NOT NULL, PRIMARY KEY('id'))

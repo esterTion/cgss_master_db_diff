@@ -1,0 +1,2 @@
+CREATE TABLE 'party_login_detail' ('id' INTEGER NOT NULL, 'term_id' INTEGER NOT NULL, 'login_type' INTEGER NOT NULL, 'count' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_value' INTEGER NOT NULL, 'image' TEXT NOT NULL, PRIMARY KEY('id'))
+INSERT INTO `party_login_detail` VALUES (/*id*/1, /*term_id*/0, /*login_type*/0, /*count*/0, /*reward_type*/0, /*reward_id*/0, /*reward_value*/0, /*image*/"");

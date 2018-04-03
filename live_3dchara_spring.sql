@@ -1,0 +1,1 @@
+CREATE TABLE 'live_3dchara_spring' ('music_id' INTEGER NOT NULL, 'chara_id' INTEGER NOT NULL, 'dress_id' INTEGER NOT NULL, 'head_ratio' INTEGER NOT NULL, 'body_ratio' INTEGER NOT NULL, UNIQUE('music_id','chara_id','dress_id'))
