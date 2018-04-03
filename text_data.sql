@@ -306,6 +306,13 @@ INSERT INTO `text_data` VALUES (/*category*/9, /*index*/68, /*text*/"LIVE開始�
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/69, /*text*/"Groove");
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/70, /*text*/"MV再生");
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/71, /*text*/"MVモードは、アンコール楽曲を難易度MASTER以上でクリアしている場合のみ、再生できます。");
+INSERT INTO `text_data` VALUES (/*category*/9, /*index*/72, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/9, /*index*/73, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/9, /*index*/74, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/9, /*index*/75, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/9, /*index*/76, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/9, /*index*/77, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/9, /*index*/78, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/1, /*text*/"メンバー確認");
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/2, /*text*/"このユニットでLIVEを開催します");
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/3, /*text*/"準備完了");
