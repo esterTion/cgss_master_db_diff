@@ -24,7 +24,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20005, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20005, /*img*/1, /*discription*/"「詳細」タブでは、効果を発揮しているルームアイテムを\n見る事ができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20006, /*img*/1, /*discription*/"VIEWモードでは、ルームが拡大して表示され、\nガイド線より手前のルームアイテムが見えなくなります。\n重なったルームアイテムを操作する場合などに便利です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20007, /*img*/1, /*discription*/"ギフトアイテムをアイドルに渡すと親愛度が上がります。\nそのアイドルに合ったギフトアイテムを渡すと、\nより多くの親愛度が上がります。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20008, /*img*/1, /*discription*/"VIEWモードでは、ルームが拡大して表示され、\nガイド線より手前のルームアイテムが見えなくなります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20008, /*img*/1, /*discription*/"VIEWモードでは、表示領域とミニウィンドウが表示され、\n表示領域の外側のルームアイテムが見えなくなります。\n重なったルームアイテムを操作する場合などに便利です。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20008, /*img*/2, /*discription*/"表示領域はミニウィンドウ上で移動することができます。\nミニウィンドウでルーム全体を見渡しながら\n編集したい箇所に表示領域を合わせることができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20008, /*img*/3, /*discription*/"ミニウィンドウは左側に収納したり、\n上側に移動したりすることができます。\n編集箇所に応じてミニウィンドウを移動させましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20008, /*img*/4, /*discription*/"「－」、「＋」ボタンで表示領域のサイズを\n変更することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「木」をテーマにしたアイテムを追加 !\n木の温もり溢れる素敵なルームに ! !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEでは、ミュージックセレクタ右上の動作設定ボタンから\nLIVEの背景演出を変更することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEプレイ中のSE再生設定もここから変更できます。\nSEをオフにすることで、動作が軽くなる場合があります。");
@@ -84,7 +87,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/2, /*discription*/"LIVE Grooveでは、その3曲で連続してLIVEを行います。\n※3曲の間ライフは引き継がれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/3, /*discription*/"LIVE中、盛り上がりに応じて「ハコユレLv」が計測されます。\n3曲合わせた「ハコユレLv」が17以上になると、\nアンコールが発生します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/4, /*discription*/"難易度がMASTERで、ハコユレLvが21以上の場合、\nアンコール楽曲の難易度で「MASTER+」が選択できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/5, /*discription*/"LIVE Groove Visual burstでは、ビジュアルのアピール値が\n通常よりアップします。\nビジュアルアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/5, /*discription*/"LIVE Groove Vocal burstでは、ボーカルのアピール値が\n通常よりアップします。\nボーカルアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/2, /*discription*/"楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/3, /*discription*/"協力LIVEは、専用ユニットでLIVEを行います。\n専用ユニットには5つの「ポジション」があります。\n各プロデューサーのアイドルが、ポジションを1つずつ");

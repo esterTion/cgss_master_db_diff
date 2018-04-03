@@ -169,3 +169,11 @@ INSERT INTO `card_location` VALUES (/*index*/170, /*text*/"事務所・衣装部
 INSERT INTO `card_location` VALUES (/*index*/171, /*text*/"お寺の廊下");
 INSERT INTO `card_location` VALUES (/*index*/172, /*text*/"山奥の滝行の地");
 INSERT INTO `card_location` VALUES (/*index*/173, /*text*/"海");
+INSERT INTO `card_location` VALUES (/*index*/174, /*text*/"リゾート地のチャペル");
+INSERT INTO `card_location` VALUES (/*index*/175, /*text*/"聖堂・夜");
+INSERT INTO `card_location` VALUES (/*index*/176, /*text*/"チャペルのガーデン");
+INSERT INTO `card_location` VALUES (/*index*/177, /*text*/"洋館のダンスホール");
+INSERT INTO `card_location` VALUES (/*index*/178, /*text*/"高級車");
+INSERT INTO `card_location` VALUES (/*index*/179, /*text*/"チャペル");
+INSERT INTO `card_location` VALUES (/*index*/180, /*text*/"焼き肉屋");
+INSERT INTO `card_location` VALUES (/*index*/181, /*text*/"コンビニエンスストア");

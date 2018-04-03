@@ -112,6 +112,7 @@ INSERT INTO `story_category` VALUES (/*id*/170, /*type*/2, /*chara_type*/3, /*ch
 INSERT INTO `story_category` VALUES (/*id*/171, /*type*/2, /*chara_type*/3, /*chara_id*/271, /*title*/"諸星きらり", /*sub_title*/"", /*disp_order*/171);
 INSERT INTO `story_category` VALUES (/*id*/172, /*type*/2, /*chara_type*/3, /*chara_id*/272, /*title*/"十時愛梨", /*sub_title*/"", /*disp_order*/172);
 INSERT INTO `story_category` VALUES (/*id*/173, /*type*/2, /*chara_type*/3, /*chara_id*/273, /*title*/"ナターリア", /*sub_title*/"", /*disp_order*/173);
+INSERT INTO `story_category` VALUES (/*id*/175, /*type*/2, /*chara_type*/3, /*chara_id*/275, /*title*/"槙原志保", /*sub_title*/"", /*disp_order*/175);
 INSERT INTO `story_category` VALUES (/*id*/180, /*type*/2, /*chara_type*/3, /*chara_id*/280, /*title*/"向井拓海", /*sub_title*/"", /*disp_order*/180);
 INSERT INTO `story_category` VALUES (/*id*/183, /*type*/2, /*chara_type*/3, /*chara_id*/283, /*title*/"市原仁奈", /*sub_title*/"", /*disp_order*/183);
 INSERT INTO `story_category` VALUES (/*id*/184, /*type*/2, /*chara_type*/3, /*chara_id*/284, /*title*/"喜多日菜子", /*sub_title*/"", /*disp_order*/184);
@@ -169,3 +170,4 @@ INSERT INTO `story_category` VALUES (/*id*/256, /*type*/4, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/257, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"つぼみ", /*sub_title*/"つぼみ", /*disp_order*/11);
 INSERT INTO `story_category` VALUES (/*id*/258, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"生存本能ヴァルキュリア", /*sub_title*/"生存本能ヴァルキュリア", /*disp_order*/12);
 INSERT INTO `story_category` VALUES (/*id*/259, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"明日また会えるよね", /*sub_title*/"明日また会えるよね", /*disp_order*/13);
+INSERT INTO `story_category` VALUES (/*id*/260, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"純情Midnight伝説", /*sub_title*/"純情Midnight伝説", /*disp_order*/14);

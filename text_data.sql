@@ -374,4 +374,10 @@ INSERT INTO `text_data` VALUES (/*category*/11, /*index*/41, /*text*/"チャッ�
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/42, /*text*/"チャットで使用するスタンプを設定できます");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/43, /*text*/"準備完了");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/44, /*text*/"セット中スタンプ");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/45, /*text*/"コミュ解放確認");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/46, /*text*/"{0}を[FF7A7A]{1}[-]個使用して\nこのコミュを解放しますか？");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/47, /*text*/"所持{0}");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/48, /*text*/"[E13939]{0}[FFFFFF]個");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/49, /*text*/"{0}を{1}個消費");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/50, /*text*/"{0}を{1}個使用");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/51, /*text*/"イベントログインボーナス獲得 !");

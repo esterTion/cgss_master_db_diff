@@ -67,3 +67,4 @@ INSERT INTO `music_info` VALUES (/*id*/9002, /*discription*/"島村卯月（CV�
 INSERT INTO `music_info` VALUES (/*id*/9003, /*discription*/"速水奏（CV：飯田友子）\n塩見周子（CV：ルゥ ティン）\n城ヶ崎美嘉（CV：佳村はるか）\n宮本フレデリカ（CV：高野麻美）\n一ノ瀬志希（CV：藍原ことみ）\n\n\n作詞：森由⾥⼦\n作曲・編曲：石濱翔（MONACA）");
 INSERT INTO `music_info` VALUES (/*id*/9004, /*discription*/"佐々木千枝（CV：今井麻夏）\n櫻井桃華（CV：照井春佳）\n市原仁奈（CV：久野美咲）\n龍崎薫（CV：春瀬なつみ）\n赤城みりあ（CV：黒沢ともよ）\n\n\n作詞：宮崎誠\n作曲・編曲：宮崎誠");
 INSERT INTO `music_info` VALUES (/*id*/9005, /*discription*/"新田美波（CV：洲崎綾）\n鷺沢文香（CV：M・A・O）\n橘ありす（CV：佐藤亜美菜）\n高森藍子（CV：金子有希）\n相葉夕美（CV：木村珠莉）\n\n\n作詞：朝倉路\n作曲・編曲：渡部チェル");
+INSERT INTO `music_info` VALUES (/*id*/9006, /*discription*/"向井拓海（CV：原優子）\n藤本里奈（CV：金子真由美）\n松永涼（CV：千菅春香）\n大和亜季（CV：村中知）\n木村夏樹（CV：安野希世乃）\n\n\n作詞：磯谷佳江\n作曲：小野貴光\n編曲：玉木千尋");
