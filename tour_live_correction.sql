@@ -1,0 +1,1 @@
+CREATE TABLE 'tour_live_correction' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'difficulty' INTEGER NOT NULL, 'score_rate' INTEGER NOT NULL, 'ceiling_score' INTEGER NOT NULL, PRIMARY KEY('id'))

@@ -1,0 +1,1 @@
+CREATE TABLE 'tour_audience_reward' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'need_audience' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_value' INTEGER NOT NULL, 'add_value_1' INTEGER NOT NULL, 'add_value_2' INTEGER NOT NULL, 'add_value_3' INTEGER NOT NULL, PRIMARY KEY('id'))

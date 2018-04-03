@@ -223,3 +223,5 @@ INSERT INTO `card_location` VALUES (/*index*/224, /*text*/"噴水広場");
 INSERT INTO `card_location` VALUES (/*index*/225, /*text*/"洋館");
 INSERT INTO `card_location` VALUES (/*index*/226, /*text*/"パーティー会場・受付");
 INSERT INTO `card_location` VALUES (/*index*/227, /*text*/"1stアニバーサリー・TVステージ");
+INSERT INTO `card_location` VALUES (/*index*/228, /*text*/"美術館");
+INSERT INTO `card_location` VALUES (/*index*/229, /*text*/"ダンスフロア");

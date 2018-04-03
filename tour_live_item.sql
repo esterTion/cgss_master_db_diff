@@ -1,0 +1,1 @@
+CREATE TABLE 'tour_live_item' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'description' TEXT NOT NULL, 'need_money' INTEGER NOT NULL, 'effect_type' INTEGER NOT NULL, 'effect_value' INTEGER NOT NULL, PRIMARY KEY('id'))
