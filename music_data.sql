@@ -30,6 +30,7 @@ INSERT INTO `music_data` VALUES (/*id*/1028, /*name*/"Near to You", /*bpm*/174, 
 INSERT INTO `music_data` VALUES (/*id*/1029, /*name*/"EVERMORE", /*bpm*/180, /*composer*/"田中秀和（MONACA）・滝澤俊輔（TRYTONELABO）", /*lyricist*/"森由里子", /*sound_offset*/81375, /*sound_length*/39000, /*name_sort*/15);
 INSERT INTO `music_data` VALUES (/*id*/1030, /*name*/"Treasure☆", /*bpm*/128, /*composer*/"滝澤俊輔（TRYTONELABO）", /*lyricist*/"デレパジ", /*sound_offset*/83796, /*sound_length*/34000, /*name_sort*/77);
 INSERT INTO `music_data` VALUES (/*id*/1901, /*name*/"お願い ! シンデレラ", /*bpm*/175, /*composer*/"BNSI（内田哲也）", /*lyricist*/"marhy", /*sound_offset*/57508, /*sound_length*/20937, /*name_sort*/120);
+INSERT INTO `music_data` VALUES (/*id*/1902, /*name*/"BEYOND \nTHE STARLIGHT", /*bpm*/175, /*composer*/"石濱翔（MONACA）", /*lyricist*/"八城雄太", /*sound_offset*/69811, /*sound_length*/31000, /*name_sort*/121);
 INSERT INTO `music_data` VALUES (/*id*/2001, /*name*/"ラブレター", /*bpm*/212, /*composer*/"岡野裕次郎（TRYTONELABO）", /*lyricist*/"桜アス恵（TRYTONELABO）", /*sound_offset*/57411, /*sound_length*/26300, /*name_sort*/113);
 INSERT INTO `music_data` VALUES (/*id*/2002, /*name*/"Jet to the Future", /*bpm*/180, /*composer*/"IMAJO", /*lyricist*/"磯谷佳江", /*sound_offset*/66710, /*sound_length*/37500, /*name_sort*/47);
 INSERT INTO `music_data` VALUES (/*id*/2003, /*name*/"あんきら ! ？狂騒曲", /*bpm*/205, /*composer*/"ヒゲドライバー", /*lyricist*/"ヒゲドライバー", /*sound_offset*/80576, /*sound_length*/27000, /*name_sort*/7);
