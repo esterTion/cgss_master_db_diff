@@ -38,6 +38,7 @@ INSERT INTO `music_info` VALUES (/*id*/1036, /*discription*/"関裕美（CV：�
 INSERT INTO `music_info` VALUES (/*id*/1037, /*discription*/"片桐早苗（CV：和氣あず未）\n難波笑美（CV：伊達朱里紗）\n姫川友紀（CV：杜野まこ）\n\n\n作詞：朝倉路\n作曲・編曲：石濱翔（MONACA）");
 INSERT INTO `music_info` VALUES (/*id*/1038, /*discription*/"島村卯月（CV：大橋彩香）\n高垣楓（CV：早見沙織）\n三船美優（CV：原田彩楓）\n森久保乃々（CV：高橋花林）\n依田芳乃（CV：高田憂希）\n\n\n作詞：荘野ジュリ\n作曲：坪田修平（TRYTONELABO）\n編曲：宮原慶太");
 INSERT INTO `music_info` VALUES (/*id*/1039, /*discription*/"高垣楓（CV：早見沙織）\n\n\n作詞：貝田由里子\n作曲・編曲：椎名豪");
+INSERT INTO `music_info` VALUES (/*id*/1040, /*discription*/"関裕美（CV：会沢紗弥）\n荒木比奈（CV：田辺留依）\n村上巴（CV：花井美春）\n藤原肇（CV：鈴木みのり）\n喜多見柚（CV：武田羅梨沙多胡）\n\n\n作詞・作曲：藤田麻衣子\n編曲：滝澤俊輔（TRYTONELABO）");
 INSERT INTO `music_info` VALUES (/*id*/1901, /*discription*/"千川ちひろ（CV：佐藤利奈）\n\n\n作詞：marhy\n作曲・編曲：BNSI（内田哲也）\nギター：後藤貴徳\nバイオリン：越川歩\nトランペット：鈴木正則\nコーラス：marhy");
 INSERT INTO `music_info` VALUES (/*id*/1902, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n\n\n作詞：八城雄太\n作曲・編曲：石濱翔（MONACA）");
 INSERT INTO `music_info` VALUES (/*id*/1911, /*discription*/"？");

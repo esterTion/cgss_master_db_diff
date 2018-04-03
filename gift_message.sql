@@ -134,3 +134,4 @@ INSERT INTO `gift_message` VALUES (/*id*/20016, /*discription*/"「Twitterフォ
 INSERT INTO `gift_message` VALUES (/*id*/20017, /*discription*/"「レッツプレゼントキャンペーン」スタージュエル賞のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20018, /*discription*/"「アイドルマスター シンデレラガールズ 6th Anniversary Memorial Party」開催記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20019, /*discription*/"「新春 ! ハッピーニューイヤーログインボーナス」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20020, /*discription*/"「Twitterフォロワー数600,000人突破キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
