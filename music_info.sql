@@ -63,3 +63,4 @@ INSERT INTO `music_info` VALUES (/*id*/9001, /*discription*/"島村卯月（CV�
 INSERT INTO `music_info` VALUES (/*id*/9002, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n大槻唯（CV：山下七海）\n上条春菜（CV：長島光那）\n\n\n作詞：俊龍\n作曲：俊龍\n編曲：Sizuk");
 INSERT INTO `music_info` VALUES (/*id*/9003, /*discription*/"速水奏（CV：飯田友子）\n塩見周子（CV：ルゥ ティン）\n城ヶ崎美嘉（CV：佳村はるか）\n宮本フレデリカ（CV：高野麻美）\n一ノ瀬志希（CV：藍原ことみ）\n\n\n作詞：森由⾥⼦\n作曲・編曲：石濱翔（MONACA）");
 INSERT INTO `music_info` VALUES (/*id*/9004, /*discription*/"佐々木千枝（CV：今井麻夏）\n櫻井桃華（CV：照井春佳）\n市原仁奈（CV：久野美咲）\n龍崎薫（CV：春瀬なつみ）\n赤城みりあ（CV：黒沢ともよ）\n\n\n作詞：宮崎誠\n作曲・編曲：宮崎誠");
+INSERT INTO `music_info` VALUES (/*id*/9005, /*discription*/"新田美波（CV：洲崎綾）\n鷺沢文香（CV：M・A・O）\n橘ありす（CV：佐藤亜美菜）\n高森藍子（CV：金子有希）\n相葉夕美（CV：木村珠莉）\n\n\n作詞：朝倉路\n作曲・編曲：渡部チェル");

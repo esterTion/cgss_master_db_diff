@@ -63,3 +63,4 @@ INSERT INTO `music_data` VALUES (/*id*/9001, /*name*/"とどけ ! アイドル",
 INSERT INTO `music_data` VALUES (/*id*/9002, /*name*/"Snow Wings", /*bpm*/167, /*composer*/"俊龍", /*lyricist*/"俊龍", /*sound_offset*/65785, /*sound_length*/30000, /*name_sort*/38);
 INSERT INTO `music_data` VALUES (/*id*/9003, /*name*/"Tulip", /*bpm*/154, /*composer*/"石濱翔（MONACA）", /*lyricist*/"森由⾥⼦", /*sound_offset*/52929, /*sound_length*/25000, /*name_sort*/45);
 INSERT INTO `music_data` VALUES (/*id*/9004, /*name*/"ハイファイ☆デイズ", /*bpm*/191, /*composer*/"宮崎誠", /*lyricist*/"宮崎誠", /*sound_offset*/62341, /*sound_length*/23000, /*name_sort*/63);
+INSERT INTO `music_data` VALUES (/*id*/9005, /*name*/"生存本能ヴァルキュリア", /*bpm*/178, /*composer*/"渡部チェル", /*lyricist*/"朝倉路", /*sound_offset*/63688, /*sound_length*/26500, /*name_sort*/41);

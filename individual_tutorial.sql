@@ -81,7 +81,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/2, /*discription*/"LIVE Grooveでは、その3曲で連続してLIVEを行います。\n※3曲の間ライフは引き継がれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/3, /*discription*/"LIVE中、盛り上がりに応じて「ハコユレLv」が計測されます。\n3曲合わせた「ハコユレLv」が17以上になると、\nアンコールが発生します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/4, /*discription*/"難易度がMASTERで、ハコユレLvが21以上の場合、\nアンコール楽曲の難易度で「MASTER+」が選択できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/5, /*discription*/"LIVE Groove Dance burstでは、ダンスのアピール値が\n通常よりアップします。\nダンスアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/5, /*discription*/"LIVE Groove Visual burstでは、ビジュアルのアピール値が\n通常よりアップします。\nビジュアルアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/2, /*discription*/"楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/3, /*discription*/"協力LIVEは、専用ユニットでLIVEを行います。\n専用ユニットには5つの「ポジション」があります。\n各プロデューサーのアイドルが、ポジションを1つずつ");
