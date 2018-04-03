@@ -128,6 +128,7 @@ INSERT INTO `banner` VALUES (/*banner_id*/126, /*type*/1, /*img_id*/0, /*transit
 INSERT INTO `banner` VALUES (/*banner_id*/127, /*type*/1, /*img_id*/0, /*transition*/0, /*page_index*/0, /*order_num*/2, /*start_date*/"2016-10-22 15:00:00", /*end_date*/"2016-10-28 14:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/128, /*type*/1, /*img_id*/0, /*transition*/0, /*page_index*/0, /*order_num*/2, /*start_date*/"2016-10-28 15:00:00", /*end_date*/"2016-10-31 14:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/129, /*type*/2, /*img_id*/3012, /*transition*/0, /*page_index*/0, /*order_num*/5, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
+INSERT INTO `banner` VALUES (/*banner_id*/130, /*type*/1, /*img_id*/0, /*transition*/0, /*page_index*/0, /*order_num*/2, /*start_date*/"2016-10-31 15:00:00", /*end_date*/"2016-11-09 14:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/201, /*type*/10, /*img_id*/0, /*transition*/0, /*page_index*/0, /*order_num*/2, /*start_date*/"2016-08-22 00:00:00", /*end_date*/"2016-08-22 23:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/202, /*type*/10, /*img_id*/0, /*transition*/0, /*page_index*/0, /*order_num*/2, /*start_date*/"2016-08-23 00:00:00", /*end_date*/"2016-08-23 23:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/203, /*type*/10, /*img_id*/0, /*transition*/0, /*page_index*/0, /*order_num*/2, /*start_date*/"2016-08-24 00:00:00", /*end_date*/"2016-08-24 23:59:59");

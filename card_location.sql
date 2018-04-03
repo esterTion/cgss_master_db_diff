@@ -253,3 +253,9 @@ INSERT INTO `card_location` VALUES (/*index*/254, /*text*/"事務所・休憩室
 INSERT INTO `card_location` VALUES (/*index*/255, /*text*/"ライブハウスの裏路地");
 INSERT INTO `card_location` VALUES (/*index*/256, /*text*/"かな子の部屋");
 INSERT INTO `card_location` VALUES (/*index*/257, /*text*/"礼子の自宅");
+INSERT INTO `card_location` VALUES (/*index*/258, /*text*/"温泉のサウナ");
+INSERT INTO `card_location` VALUES (/*index*/259, /*text*/"東屋");
+INSERT INTO `card_location` VALUES (/*index*/260, /*text*/"ピアノのあるステージ");
+INSERT INTO `card_location` VALUES (/*index*/261, /*text*/"温泉");
+INSERT INTO `card_location` VALUES (/*index*/262, /*text*/"屋根の上");
+INSERT INTO `card_location` VALUES (/*index*/263, /*text*/"風呂場");
