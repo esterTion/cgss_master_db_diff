@@ -110,6 +110,7 @@ INSERT INTO `tips` VALUES (/*id*/108, /*tips_type*/1, /*value*/177, /*index*/1, 
 INSERT INTO `tips` VALUES (/*id*/109, /*tips_type*/1, /*value*/295, /*index*/1, /*title*/"首藤葵のウワサ", /*comment*/"いつか、事務所に\n社員食堂をつくりたいらしい。");
 INSERT INTO `tips` VALUES (/*id*/110, /*tips_type*/1, /*value*/138, /*index*/1, /*title*/"月宮雅のウワサ", /*comment*/"自分の夢は、\nママの夢をかなえてから\n考えるらしい。");
 INSERT INTO `tips` VALUES (/*id*/111, /*tips_type*/1, /*value*/186, /*index*/1, /*title*/"水野翠のウワサ", /*comment*/"行動する前に、つい\n溜めをつくるらしい。");
+INSERT INTO `tips` VALUES (/*id*/112, /*tips_type*/1, /*value*/288, /*index*/1, /*title*/"小松伊吹のウワサ", /*comment*/"恋愛映画を見ている時は\nずっと顔が真っ赤らしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/30001, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルを育てるには", /*comment*/"アイドルのレベルを上げるには、\nレッスンを行いましょう !");
 INSERT INTO `tips` VALUES (/*id*/30002, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルとの親愛度を上げるには", /*comment*/"LIVEを行うと、\n参加したアイドルの親愛度が上がります !");
@@ -248,3 +249,4 @@ INSERT INTO `tips` VALUES (/*id*/40110, /*tips_type*/4, /*value*/177, /*index*/1
 INSERT INTO `tips` VALUES (/*id*/40111, /*tips_type*/4, /*value*/295, /*index*/1, /*title*/"首藤葵①　料理人のプライド", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40112, /*tips_type*/4, /*value*/138, /*index*/1, /*title*/"月宮雅①　会員番号1番", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40113, /*tips_type*/4, /*value*/186, /*index*/1, /*title*/"水野翠①　会", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40114, /*tips_type*/4, /*value*/288, /*index*/1, /*title*/"小松伊吹①　足がいい !", /*comment*/"");

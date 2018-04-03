@@ -137,3 +137,6 @@ INSERT INTO `card_location` VALUES (/*index*/136, /*text*/"アイドル運動会
 INSERT INTO `card_location` VALUES (/*index*/137, /*text*/"女子寮・輝子の部屋");
 INSERT INTO `card_location` VALUES (/*index*/138, /*text*/"電車内");
 INSERT INTO `card_location` VALUES (/*index*/139, /*text*/"ボウリング場");
+INSERT INTO `card_location` VALUES (/*index*/140, /*text*/"京都の寺院");
+INSERT INTO `card_location` VALUES (/*index*/141, /*text*/"花舞うステージ");
+INSERT INTO `card_location` VALUES (/*index*/142, /*text*/"街中");
