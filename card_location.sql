@@ -399,3 +399,4 @@ INSERT INTO `card_location` VALUES (/*index*/400, /*text*/"住宅街");
 INSERT INTO `card_location` VALUES (/*index*/401, /*text*/"ドラマ撮影セット");
 INSERT INTO `card_location` VALUES (/*index*/402, /*text*/"温泉旅館・夜景を望む客室");
 INSERT INTO `card_location` VALUES (/*index*/403, /*text*/"西部劇風セット・酒場");
+INSERT INTO `card_location` VALUES (/*index*/404, /*text*/"女子寮・蘭子の部屋");

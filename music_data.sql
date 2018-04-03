@@ -77,6 +77,7 @@ INSERT INTO `music_data` VALUES (/*id*/2004, /*name*/"情熱\nファンファン
 INSERT INTO `music_data` VALUES (/*id*/2005, /*name*/"∀NSWER", /*bpm*/178, /*composer*/"睦月周平", /*lyricist*/"ミズノゲンキ", /*sound_offset*/48269, /*sound_length*/28000, /*name_sort*/8);
 INSERT INTO `music_data` VALUES (/*id*/2006, /*name*/"モーレツ★\n世直しギルティ !", /*bpm*/162, /*composer*/"小野貴光", /*lyricist*/"fumi", /*sound_offset*/92473, /*sound_length*/29000, /*name_sort*/119);
 INSERT INTO `music_data` VALUES (/*id*/2007, /*name*/"Kawaii \nmake MY day!", /*bpm*/133, /*composer*/"石濱翔（MONACA）", /*lyricist*/"八城雄太", /*sound_offset*/67895, /*sound_length*/35000, /*name_sort*/32);
+INSERT INTO `music_data` VALUES (/*id*/2008, /*name*/"双翼の独奏歌", /*bpm*/170, /*composer*/"Powerless", /*lyricist*/"マチゲリータ、烏屋茶房", /*sound_offset*/75035, /*sound_length*/24000, /*name_sort*/72);
 INSERT INTO `music_data` VALUES (/*id*/3001, /*name*/"S(mile)ING!", /*bpm*/178, /*composer*/"BNSI（Yoshi）", /*lyricist*/"BNSI（八城雄太）", /*sound_offset*/52279, /*sound_length*/18828, /*name_sort*/67);
 INSERT INTO `music_data` VALUES (/*id*/3002, /*name*/"Never say never", /*bpm*/156, /*composer*/"BNEI（遠山明孝）", /*lyricist*/"BNEI（遠山明孝・八城雄太）", /*sound_offset*/61305, /*sound_length*/11520, /*name_sort*/97);
 INSERT INTO `music_data` VALUES (/*id*/3003, /*name*/"ミツボシ☆☆★", /*bpm*/175, /*composer*/"BNSI（kyo）", /*lyricist*/"BNSI（八城雄太）", /*sound_offset*/51889, /*sound_length*/10195, /*name_sort*/113);
