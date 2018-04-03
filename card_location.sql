@@ -430,3 +430,7 @@ INSERT INTO `card_location` VALUES (/*index*/431, /*text*/"ロシア・ムルマ
 INSERT INTO `card_location` VALUES (/*index*/432, /*text*/"秋のハウススタジオ");
 INSERT INTO `card_location` VALUES (/*index*/433, /*text*/"高層ビル・屋上");
 INSERT INTO `card_location` VALUES (/*index*/434, /*text*/"電車");
+INSERT INTO `card_location` VALUES (/*index*/435, /*text*/"ウィーンの街角");
+INSERT INTO `card_location` VALUES (/*index*/436, /*text*/"採掘場");
+INSERT INTO `card_location` VALUES (/*index*/437, /*text*/"イタリア・トレビの泉");
+INSERT INTO `card_location` VALUES (/*index*/438, /*text*/"LIVE会場・ゴンドラ");
