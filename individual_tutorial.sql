@@ -177,3 +177,5 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90104, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90104, /*img*/1, /*discription*/"レッスン大成功確率が通常の3倍になる\n「レッスン大成功確率アップキャンペーン」");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90104, /*img*/2, /*discription*/"LIVEコンティニューに必要なスタージュエルが\n「50個」から「10個」になる「LIVEチャレンジ\nキャンペーン」");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90104, /*img*/2, /*discription*/"LIVE成功時にティアラと魔法のドレスの\nドロップ率がアップする「特訓支援キャンペーン」\n期間などの詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/1, /*discription*/"本キャンペーンは宝くじ獲得可能期間に「宝くじチケット」を\n集めることで参加できます！獲得可能期間終了後に\n獲得した「宝くじチケット」毎に景品の抽選を行います。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/2, /*discription*/"抽選の結果によって、「スカウトチケット」など豪華景品を\nGETできます！ ※1等から8等までは抽選条件があります。\n詳しくはヘルプをご覧ください。");

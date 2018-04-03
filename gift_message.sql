@@ -102,6 +102,6 @@ INSERT INTO `gift_message` VALUES (/*id*/20003, /*discription*/"ストアラン�
 INSERT INTO `gift_message` VALUES (/*id*/20004, /*discription*/"「1周年記念!!カウントダウンログインボーナス」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20005, /*discription*/"1周年記念キャンペーンのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20006, /*discription*/"CM連動キャンペーンのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/20007, /*discription*/"「{0}」で獲得した報酬です。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20007, /*discription*/"「新春！プラチナ宝くじ」{0}等当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20008, /*discription*/"「5th Anniversary Party ニコ生SP」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20009, /*discription*/"「Shadowverseコラボキャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
