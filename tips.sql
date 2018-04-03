@@ -124,6 +124,7 @@ INSERT INTO `tips` VALUES (/*id*/122, /*tips_type*/1, /*value*/216, /*index*/1, 
 INSERT INTO `tips` VALUES (/*id*/123, /*tips_type*/1, /*value*/285, /*index*/1, /*title*/"杉坂海のウワサ", /*comment*/"食べ物を人数分、均等に\n分けるのがうまいらしい。");
 INSERT INTO `tips` VALUES (/*id*/124, /*tips_type*/1, /*value*/286, /*index*/1, /*title*/"北川真尋のウワサ", /*comment*/"前髪が伸びると、\n自分で切ってしまうらしい。");
 INSERT INTO `tips` VALUES (/*id*/125, /*tips_type*/1, /*value*/129, /*index*/1, /*title*/"松原早耶のウワサ", /*comment*/"鏡の前に立つと、ポーズを\nとらなければいけない気に\nなるらしい。");
+INSERT INTO `tips` VALUES (/*id*/126, /*tips_type*/1, /*value*/163, /*index*/1, /*title*/"有浦柑奈のウワサ", /*comment*/"ラブ＆ピースを広めるための歌を\n作詞・作曲する予定らしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/30001, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルを育てるには", /*comment*/"アイドルのレベルを上げるには、\nレッスンを行いましょう !");
 INSERT INTO `tips` VALUES (/*id*/30002, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルとの親愛度を上げるには", /*comment*/"LIVEを行うと、\n参加したアイドルの親愛度が上がります !");
@@ -276,3 +277,4 @@ INSERT INTO `tips` VALUES (/*id*/40124, /*tips_type*/4, /*value*/216, /*index*/1
 INSERT INTO `tips` VALUES (/*id*/40125, /*tips_type*/4, /*value*/285, /*index*/1, /*title*/"杉坂海①　お…ねえちゃん？", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40126, /*tips_type*/4, /*value*/286, /*index*/1, /*title*/"北川真尋①　好きなことはー !", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40127, /*tips_type*/4, /*value*/129, /*index*/1, /*title*/"松原早耶①　流行好き♪", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40128, /*tips_type*/4, /*value*/163, /*index*/1, /*title*/"有浦柑奈①　ここで一曲", /*comment*/"");
