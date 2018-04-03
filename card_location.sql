@@ -288,3 +288,8 @@ INSERT INTO `card_location` VALUES (/*index*/289, /*text*/"夜のショッピン
 INSERT INTO `card_location` VALUES (/*index*/290, /*text*/"事務所・エステルーム");
 INSERT INTO `card_location` VALUES (/*index*/291, /*text*/"嵐山・屋形船");
 INSERT INTO `card_location` VALUES (/*index*/292, /*text*/"スペイン・イビサ島");
+INSERT INTO `card_location` VALUES (/*index*/293, /*text*/"事務所・和室");
+INSERT INTO `card_location` VALUES (/*index*/294, /*text*/"日本庭園の東屋");
+INSERT INTO `card_location` VALUES (/*index*/295, /*text*/"土手");
+INSERT INTO `card_location` VALUES (/*index*/296, /*text*/"料亭の庭園");
+INSERT INTO `card_location` VALUES (/*index*/297, /*text*/"料亭");

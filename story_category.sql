@@ -250,3 +250,4 @@ INSERT INTO `story_category` VALUES (/*id*/272, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/273, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Flip Flop", /*sub_title*/"Flip Flop", /*disp_order*/25);
 INSERT INTO `story_category` VALUES (/*id*/274, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"EVERMORE", /*sub_title*/"EVERMORE", /*disp_order*/26);
 INSERT INTO `story_category` VALUES (/*id*/275, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"あんきら ! ？狂騒曲", /*sub_title*/"あんきら ! ？狂騒曲", /*disp_order*/27);
+INSERT INTO `story_category` VALUES (/*id*/276, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"命燃やして恋せよ乙女", /*sub_title*/"命燃やして恋せよ乙女", /*disp_order*/28);

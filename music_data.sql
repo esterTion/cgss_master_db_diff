@@ -97,3 +97,4 @@ INSERT INTO `music_data` VALUES (/*id*/9006, /*name*/"純情Midnight伝説", /*b
 INSERT INTO `music_data` VALUES (/*id*/9007, /*name*/"Love∞Destiny", /*bpm*/115, /*composer*/"BNSI（kyo）", /*lyricist*/"磯谷佳江", /*sound_offset*/51531, /*sound_length*/22000, /*name_sort*/105);
 INSERT INTO `music_data` VALUES (/*id*/9008, /*name*/"サマカニ ! !", /*bpm*/185, /*composer*/"宮崎誠", /*lyricist*/"宮崎誠", /*sound_offset*/57000, /*sound_length*/23000, /*name_sort*/42);
 INSERT INTO `music_data` VALUES (/*id*/9009, /*name*/"BEYOND \nTHE STARLIGHT", /*bpm*/175, /*composer*/"石濱翔（MONACA）", /*lyricist*/"八城雄太", /*sound_offset*/69811, /*sound_length*/31000, /*name_sort*/89);
+INSERT INTO `music_data` VALUES (/*id*/9010, /*name*/"命燃やして恋せよ乙女", /*bpm*/112, /*composer*/"TAKT（TRYTONELABO）", /*lyricist*/"森由里子", /*sound_offset*/82782, /*sound_length*/22000, /*name_sort*/9);
