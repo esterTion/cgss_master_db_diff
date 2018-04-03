@@ -117,3 +117,5 @@ INSERT INTO `card_location` VALUES (/*index*/116, /*text*/"畳の部屋");
 INSERT INTO `card_location` VALUES (/*index*/117, /*text*/"かまくらの中");
 INSERT INTO `card_location` VALUES (/*index*/118, /*text*/"ケミカル・ステージ");
 INSERT INTO `card_location` VALUES (/*index*/119, /*text*/"大阪の街");
+INSERT INTO `card_location` VALUES (/*index*/120, /*text*/"雨上がりの歩道");
+INSERT INTO `card_location` VALUES (/*index*/121, /*text*/"桃華の家・玄関ホール");
