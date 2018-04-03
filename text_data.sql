@@ -526,7 +526,13 @@ INSERT INTO `text_data` VALUES (/*category*/15, /*index*/19, /*text*/"プレゼ�
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/20, /*text*/"---");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/21, /*text*/"{0}位");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/22, /*text*/"アイドルマスター");
-INSERT INTO `text_data` VALUES (/*category*/16, /*index*/1, /*text*/"9月3日をもって、アイドルマスターシンデレラガールズスターライトステージは、1周年を迎えました !");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/1, /*text*/"LIVE\nPARTY!!へ");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/2, /*text*/"LIVEへ");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/3, /*text*/"ガシャへ");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/4, /*text*/"ルームへ");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/5, /*text*/"宝くじ\n詳細へ");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/6, /*text*/"特設\nページへ");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/7, /*text*/" ");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/9, /*text*/"2周年カウントダウン");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/10, /*text*/"1年間の思い出を振り返りましょう");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/11, /*text*/"レッツプレゼントキャンペーン");
@@ -557,6 +563,7 @@ INSERT INTO `text_data` VALUES (/*category*/16, /*index*/121, /*text*/"有香ち
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/122, /*text*/"あれからも、\n私たちのカワイイ道は\n続いています♪");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/123, /*text*/"我が友よ、\n甘美な祝盃を !");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/124, /*text*/"記念日にキミは何を\n想う。歓喜？感慨？\nそれとも…フフ");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/125, /*text*/"アイドルマスターシンデレラガールズ\nスターライトステージが、\n2周年を迎えましたよ !");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/1, /*text*/"公演設定");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/2, /*text*/"公演情報");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/3, /*text*/"LIVE曲数");

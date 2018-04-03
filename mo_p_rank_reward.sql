@@ -3,7 +3,7 @@ INSERT INTO `mo_p_rank_reward` VALUES (/*id*/1001, /*month*/1, /*rank_min*/1, /*
 INSERT INTO `mo_p_rank_reward` VALUES (/*id*/1002, /*month*/1, /*rank_min*/1, /*rank_max*/2000, /*reward_type*/11, /*reward_id*/4080017, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `mo_p_rank_reward` VALUES (/*id*/1003, /*month*/1, /*rank_min*/1, /*rank_max*/2000, /*reward_type*/7, /*reward_id*/80017, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `mo_p_rank_reward` VALUES (/*id*/2001, /*month*/2, /*rank_min*/1, /*rank_max*/2000, /*reward_type*/4, /*reward_id*/0, /*reward_value*/250, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
-INSERT INTO `mo_p_rank_reward` VALUES (/*id*/2002, /*month*/2, /*rank_min*/1, /*rank_max*/2000, /*reward_type*/11, /*reward_id*/40800018, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `mo_p_rank_reward` VALUES (/*id*/2002, /*month*/2, /*rank_min*/1, /*rank_max*/2000, /*reward_type*/11, /*reward_id*/4080018, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `mo_p_rank_reward` VALUES (/*id*/2003, /*month*/2, /*rank_min*/1, /*rank_max*/2000, /*reward_type*/7, /*reward_id*/80018, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `mo_p_rank_reward` VALUES (/*id*/3001, /*month*/3, /*rank_min*/1, /*rank_max*/1000, /*reward_type*/4, /*reward_id*/0, /*reward_value*/250, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `mo_p_rank_reward` VALUES (/*id*/3002, /*month*/3, /*rank_min*/1, /*rank_max*/1000, /*reward_type*/11, /*reward_id*/4080007, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);

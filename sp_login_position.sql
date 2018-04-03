@@ -23,3 +23,4 @@ INSERT INTO `sp_login_position` VALUES (/*day_count*/11, /*chara_index*/1, /*fra
 INSERT INTO `sp_login_position` VALUES (/*day_count*/11, /*chara_index*/2, /*frame_type*/3, /*frame_position_x*/0, /*frame_position_y*/0, /*text_data*/"あれからも、\n私たちのカワイイ道は\n続いています♪");
 INSERT INTO `sp_login_position` VALUES (/*day_count*/12, /*chara_index*/1, /*frame_type*/4, /*frame_position_x*/0, /*frame_position_y*/0, /*text_data*/"我が友よ、\n甘美な祝盃を ! ");
 INSERT INTO `sp_login_position` VALUES (/*day_count*/12, /*chara_index*/2, /*frame_type*/4, /*frame_position_x*/0, /*frame_position_y*/0, /*text_data*/"記念日にキミは何を\n想う。歓喜？感慨？\nそれとも…フフ");
+INSERT INTO `sp_login_position` VALUES (/*day_count*/13, /*chara_index*/1, /*frame_type*/2, /*frame_position_x*/0, /*frame_position_y*/0, /*text_data*/"アイドルマスターシンデレラガールズ\nスターライトステージが、\n2周年を迎えましたよ !");

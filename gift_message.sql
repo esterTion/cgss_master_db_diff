@@ -111,5 +111,7 @@ INSERT INTO `gift_message` VALUES (/*id*/20008, /*discription*/"「5th Anniversa
 INSERT INTO `gift_message` VALUES (/*id*/20009, /*discription*/"「Shadowverseコラボキャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20010, /*discription*/"「5thLIVEツアー連動キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20011, /*discription*/"ガシャのレア度別提供割合変更にともなう運営からのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20012, /*discription*/"「祝2周年 ! プラチナ宝くじ」{0}等当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20013, /*discription*/"「2周年記念!!カウントダウンログインボーナス」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20014, /*discription*/"「デレステ2周年記念 ! レッツプレゼントキャンペーン」開催記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20015, /*discription*/"「2周年記念ログインボーナス」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
