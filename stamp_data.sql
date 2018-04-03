@@ -40,3 +40,11 @@ INSERT INTO `stamp_data` VALUES (/*id*/38, /*discription*/"差し入れです", 
 INSERT INTO `stamp_data` VALUES (/*id*/39, /*discription*/"ウチに任せて！", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2019-04-01 15:00:00");
 INSERT INTO `stamp_data` VALUES (/*id*/40, /*discription*/"協力プレイ！", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2019-04-01 15:00:00");
 INSERT INTO `stamp_data` VALUES (/*id*/41, /*discription*/"上手にできたわね", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2019-04-01 15:00:00");
+INSERT INTO `stamp_data` VALUES (/*id*/42, /*discription*/"風紀を守ります！", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2019-04-01 15:00:00");
+INSERT INTO `stamp_data` VALUES (/*id*/43, /*discription*/"ぴーす", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2019-04-01 15:00:00");
+INSERT INTO `stamp_data` VALUES (/*id*/44, /*discription*/"ドロン", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2019-04-01 15:00:00");
+INSERT INTO `stamp_data` VALUES (/*id*/45, /*discription*/"まぁまぁ眼鏡どうぞ", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2019-04-01 15:00:00");
+INSERT INTO `stamp_data` VALUES (/*id*/1000, /*discription*/"debut", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2019-04-01 15:00:00");
+INSERT INTO `stamp_data` VALUES (/*id*/1001, /*discription*/"regular", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2019-04-01 15:00:00");
+INSERT INTO `stamp_data` VALUES (/*id*/1002, /*discription*/"pro", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2019-04-01 15:00:00");
+INSERT INTO `stamp_data` VALUES (/*id*/1003, /*discription*/"master", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2019-04-01 15:00:00");
