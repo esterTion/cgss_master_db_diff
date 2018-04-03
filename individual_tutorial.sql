@@ -39,7 +39,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/3, /*discription*/"別のルームに設置中のアイテムは、\nルームアイテム一覧から直接移動できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/4, /*discription*/"「お気に入り編成」から、事務所とフリールームに\n登場するアイドルを個別に設定できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20011, /*img*/1, /*discription*/"「一括収納」ボタンで設置中のルームアイテムを\nまとめて倉庫に収納することができます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"ニコニコ生放送「デレステNIGHT☆☆☆☆」にて、\n制作が決定した「手作りアップルパイオーブン」が登場!!");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"ハロウィンをテーマにしたアイテムを追加 !\nルームをハロウィン風に ! !\n過去のハロウィンアイテムも復刻販売中 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、\n様々な効果を発揮する物があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -141,7 +141,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/3, /*discription*/"本イベントは、専用ユニットでLIVEを行います。ユニットには5つの「ポジション」があります。\n各プロデューサーのアイドルが、ポジションを1つずつ担当し、5人の共通ユニットが編成されます。\n※自分のアイドルがどのポジションを担当するかはランダムで決定されます。\n※楽曲タイプとポジションごとにアイドルを設定できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/4, /*discription*/"各メンバーの状況はLIVE画面の左側のエリアで確認できます。\nまた本イベントでは、ライフが0になった場合も、LIVEは継続となります。\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/4, /*discription*/"獲得できるptは「メンバー全員の合計スコア」と「LIVEでの貢献度」\nによって変化します。メンバー全員で高スコアを目指しましょう !\n");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/4, /*discription*/"貢献度は、自身が獲得したスコアのほか、LIVEに出演したアイドルの\n「アピール値の高さ」、「特技」をもとに算出します。\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/4, /*discription*/"貢献度は自身が獲得したスコアのほか、LIVEに出演したアイドルの\n「アピール値の高さ」、「特技」をもとに算出します。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/5, /*discription*/"本イベントのLIVE報酬では、「協力報酬」と「個人報酬」が獲得できます。\n協力報酬は、メンバー全員のスコアの合計が高いほど、\n良い報酬が出現しやすくなります。\n獲得できる協力報酬は全メンバー共通で、必ず全員が獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/5, /*discription*/"個人報酬は、自分の貢献度が高いほど、良い報酬が出現しやすくなります。\n※個人報酬は、一定の確率で1～2個出現します。\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/6, /*discription*/"LIVEの開始前と終了後には、マッチングされたメンバーと\nチャットスタンプでコミュニケーションがとれます。\n使用するスタンプはイベントページ内の「チャット設定」で\n設定できます。");

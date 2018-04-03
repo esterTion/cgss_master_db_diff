@@ -243,3 +243,5 @@ INSERT INTO `card_location` VALUES (/*index*/244, /*text*/"ハロウィンLIVE�
 INSERT INTO `card_location` VALUES (/*index*/245, /*text*/"高台の展望公園");
 INSERT INTO `card_location` VALUES (/*index*/246, /*text*/"忍者屋敷風ステージ");
 INSERT INTO `card_location` VALUES (/*index*/247, /*text*/"旅館");
+INSERT INTO `card_location` VALUES (/*index*/248, /*text*/"ファッションショー");
+INSERT INTO `card_location` VALUES (/*index*/249, /*text*/"弓道場");

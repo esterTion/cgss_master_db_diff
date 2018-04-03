@@ -398,7 +398,7 @@ INSERT INTO `text_data` VALUES (/*category*/11, /*index*/49, /*text*/"{0}を{1}�
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/50, /*text*/"{0}を{1}個使用");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/51, /*text*/"イベントログインボーナス獲得 !");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/52, /*text*/"{0}以降({1}ptごと) ");
-INSERT INTO `text_data` VALUES (/*category*/11, /*index*/53, /*text*/"上限に達しているため、一部の報酬はプレゼントに送られました。。");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/53, /*text*/"上限に達しているため、一部の報酬はプレゼントに送られました。");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/54, /*text*/"所属アイドル数が上限に達しているため、プレゼントに送られました。");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/55, /*text*/"アイテム所持数が上限に達しているため、プレゼントに送られました。");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/56, /*text*/"マニーが上限に達しているため、プレゼントに送られました。");

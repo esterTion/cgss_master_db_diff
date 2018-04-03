@@ -28,3 +28,7 @@ INSERT INTO `stamp_data` VALUES (/*id*/26, /*discription*/"　", /*use_type*/1, 
 INSERT INTO `stamp_data` VALUES (/*id*/27, /*discription*/"やばいッス", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2019-04-01 15:00:00");
 INSERT INTO `stamp_data` VALUES (/*id*/28, /*discription*/"あらあら", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2019-04-01 15:00:00");
 INSERT INTO `stamp_data` VALUES (/*id*/29, /*discription*/"ヒャッハー!!!", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2019-04-01 15:00:00");
+INSERT INTO `stamp_data` VALUES (/*id*/30, /*discription*/"あたっく！", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2019-04-01 15:00:00");
+INSERT INTO `stamp_data` VALUES (/*id*/31, /*discription*/"正射必中", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2019-04-01 15:00:00");
+INSERT INTO `stamp_data` VALUES (/*id*/32, /*discription*/"（上手にできるかな・・・）", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2019-04-01 15:00:00");
+INSERT INTO `stamp_data` VALUES (/*id*/33, /*discription*/"よろしおす", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2019-04-01 15:00:00");
