@@ -211,6 +211,8 @@ INSERT INTO `tips` VALUES (/*id*/209, /*tips_type*/1, /*value*/175, /*index*/2, 
 INSERT INTO `tips` VALUES (/*id*/210, /*tips_type*/1, /*value*/123, /*index*/2, /*title*/"大原みちるのウワサ②", /*comment*/"実家では、パン以外のおやつを\n食べたことがないらしい。");
 INSERT INTO `tips` VALUES (/*id*/211, /*tips_type*/1, /*value*/243, /*index*/2, /*title*/"赤城みりあのウワサ②", /*comment*/"跳び箱が8段まで跳べたらしい。");
 INSERT INTO `tips` VALUES (/*id*/212, /*tips_type*/1, /*value*/263, /*index*/2, /*title*/"相葉夕美のウワサ②", /*comment*/"野菜を育てたこともあるが\n実より花を優先してしまい\nうまく育たなかったらしい。");
+INSERT INTO `tips` VALUES (/*id*/213, /*tips_type*/1, /*value*/101, /*index*/2, /*title*/"島村卯月のウワサ②", /*comment*/"自分をほめられるのは\nシューズに穴が空いたとき\nらしい。");
+INSERT INTO `tips` VALUES (/*id*/214, /*tips_type*/1, /*value*/275, /*index*/2, /*title*/"槙原志保のウワサ②", /*comment*/"飲食店のアンケート用紙は\n必ず書くようにしているらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !");
@@ -452,3 +454,6 @@ INSERT INTO `tips` VALUES (/*id*/40201, /*tips_type*/4, /*value*/255, /*index*/2
 INSERT INTO `tips` VALUES (/*id*/40202, /*tips_type*/4, /*value*/157, /*index*/2, /*title*/"古賀小春②　ぺろぺろペロ…？", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40203, /*tips_type*/4, /*value*/284, /*index*/2, /*title*/"喜多日菜子②　妄想を祈りにこめて", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40204, /*tips_type*/4, /*value*/198, /*index*/2, /*title*/"神崎蘭子②　闇の眷属に手当ては不要っ !", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40205, /*tips_type*/4, /*value*/261, /*index*/2, /*title*/"財前時子②　豚の調理法", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40206, /*tips_type*/4, /*value*/161, /*index*/2, /*title*/"白菊ほたる②　ポジティブ？ネガティブ？", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40207, /*tips_type*/4, /*value*/179, /*index*/2, /*title*/"水木聖來②　ストリートも大好き", /*comment*/"");
