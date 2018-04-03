@@ -18,6 +18,7 @@ INSERT INTO `story_category` VALUES (/*id*/20, /*type*/2, /*chara_type*/1, /*cha
 INSERT INTO `story_category` VALUES (/*id*/21, /*type*/2, /*chara_type*/1, /*chara_id*/121, /*title*/"棟方愛海", /*sub_title*/"", /*disp_order*/21);
 INSERT INTO `story_category` VALUES (/*id*/22, /*type*/2, /*chara_type*/1, /*chara_id*/122, /*title*/"藤本里奈", /*sub_title*/"", /*disp_order*/22);
 INSERT INTO `story_category` VALUES (/*id*/23, /*type*/2, /*chara_type*/1, /*chara_id*/123, /*title*/"大原みちる", /*sub_title*/"", /*disp_order*/23);
+INSERT INTO `story_category` VALUES (/*id*/25, /*type*/2, /*chara_type*/1, /*chara_id*/125, /*title*/"大沼くるみ", /*sub_title*/"", /*disp_order*/25);
 INSERT INTO `story_category` VALUES (/*id*/26, /*type*/2, /*chara_type*/1, /*chara_id*/126, /*title*/"一ノ瀬志希", /*sub_title*/"", /*disp_order*/26);
 INSERT INTO `story_category` VALUES (/*id*/27, /*type*/2, /*chara_type*/1, /*chara_id*/127, /*title*/"前川みく", /*sub_title*/"", /*disp_order*/27);
 INSERT INTO `story_category` VALUES (/*id*/29, /*type*/2, /*chara_type*/1, /*chara_id*/129, /*title*/"松原早耶", /*sub_title*/"", /*disp_order*/29);
