@@ -324,7 +324,7 @@ INSERT INTO `text_data` VALUES (/*category*/10, /*index*/19, /*text*/"結果発�
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/20, /*text*/"スタミナ不足");
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/21, /*text*/"スタミナが足りないため\nLIVEを開始できません");
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/22, /*text*/"イベント編成");
-INSERT INTO `text_data` VALUES (/*category*/10, /*index*/23, /*text*/"この編成はイベントのみで使用されます");
+INSERT INTO `text_data` VALUES (/*category*/10, /*index*/23, /*text*/"この編成は協力LIVEのみで使用されます");
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/24, /*text*/"編成するアイドルを選んでください");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/1, /*text*/"メダル交換所");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/2, /*text*/"アイドル");
@@ -365,8 +365,8 @@ INSERT INTO `text_data` VALUES (/*category*/11, /*index*/36, /*text*/"チャッ�
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/37, /*text*/"チャット設定の初期化確認");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/38, /*text*/"チャット設定を初期化し、保存します\nよろしいですか？");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/39, /*text*/"チャット設定");
-INSERT INTO `text_data` VALUES (/*category*/11, /*index*/40, /*text*/"上のリストから設定したいスタンプを選択してください");
-INSERT INTO `text_data` VALUES (/*category*/11, /*index*/41, /*text*/"下のリストから交換したいスタンプを選択してください");
-INSERT INTO `text_data` VALUES (/*category*/11, /*index*/42, /*text*/"上のリストから交換したいスタンプを選択してください");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/40, /*text*/"チャットで使用するスタンプを設定できます");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/41, /*text*/"チャットで使用するスタンプを設定できます");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/42, /*text*/"チャットで使用するスタンプを設定できます");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/43, /*text*/"準備完了");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/44, /*text*/"セット中スタンプ");
