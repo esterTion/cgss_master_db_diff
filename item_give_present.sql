@@ -8,4 +8,6 @@ INSERT INTO `item_give_present` VALUES (/*item_id*/73002, /*type*/1, /*type_effe
 INSERT INTO `item_give_present` VALUES (/*item_id*/74001, /*type*/1, /*type_effect*/4, /*add_love*/100, /*type_bonus*/2000, /*birthday_bonus*/2000, /*disp_order*/7);
 INSERT INTO `item_give_present` VALUES (/*item_id*/74002, /*type*/1, /*type_effect*/4, /*add_love*/5, /*type_bonus*/2000, /*birthday_bonus*/2000, /*disp_order*/8);
 INSERT INTO `item_give_present` VALUES (/*item_id*/74003, /*type*/1, /*type_effect*/4, /*add_love*/15, /*type_bonus*/2000, /*birthday_bonus*/2000, /*disp_order*/9);
+INSERT INTO `item_give_present` VALUES (/*item_id*/74004, /*type*/1, /*type_effect*/4, /*add_love*/15, /*type_bonus*/2000, /*birthday_bonus*/2000, /*disp_order*/11);
+INSERT INTO `item_give_present` VALUES (/*item_id*/74005, /*type*/1, /*type_effect*/4, /*add_love*/25, /*type_bonus*/2000, /*birthday_bonus*/2000, /*disp_order*/12);
 INSERT INTO `item_give_present` VALUES (/*item_id*/74006, /*type*/1, /*type_effect*/4, /*add_love*/15, /*type_bonus*/2000, /*birthday_bonus*/2000, /*disp_order*/10);

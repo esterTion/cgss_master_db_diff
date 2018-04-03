@@ -43,7 +43,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/4, /*discription*/"「お気に入り編成」から、事務所とフリールームに\n登場するアイドルを個別に設定できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20011, /*img*/1, /*discription*/"「一括収納」ボタンで設置中のルームアイテムを\nまとめて倉庫に収納することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20012, /*img*/1, /*discription*/"ルームのレイアウトをマイセットに保存することができます。\n保存したマイセットはいつでも配置することができます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"バレンタインをテーマにしたアイテムが登場 !\nチョコレートの香り溢れるスウィートなルームに ! !\n過去のバレンタインテーマアイテムも復刻販売中 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"アイドルからのプレゼントがあるようです !\n※プレゼントを受け取れるのは1回のみです。\n詳細はお知らせをご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、\n様々な効果を発揮する物があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -60,6 +60,17 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEプレイ中のSE再生設定もここから変更できます。\nSEをオフにすることで、動作が軽くなる場合があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30002, /*img*/1, /*discription*/"ユニット確認画面では、右上のLIVE設定ボタンから\nリズムゲームプレイ中の設定をカスタマイズできます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30002, /*img*/1, /*discription*/"リズムアイコンの流れてくる速度や、ボイスの音量など、\nプレイしやすいように調整してみましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30003, /*img*/1, /*discription*/"LIVEの新たな難易度「MASTER+」を追加しました。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30003, /*img*/1, /*discription*/"難易度「MASTER+」は、楽曲選択画面でカテゴリタブを\n「MASTER+」に変更することでプレイできます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30003, /*img*/2, /*discription*/"「MASTER+」がプレイできる楽曲は、一定期間ごとに変化します。\n対象となる楽曲や期間は「詳細」ボタンから確認できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30003, /*img*/3, /*discription*/"「MASTER+」をプレイするには、専用の「MASTER+チケット」が必要です。\n「MASTER+チケット」はミッション達成やマニーショップなどで\n獲得することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30003, /*img*/4, /*discription*/"難易度「MASTER+」には、新たなリズムアイコン\n「スライド」が出現することがあります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30003, /*img*/4, /*discription*/"リズムアイコンがラインに重なっている間、\nタップしつづけながら、帯の流れに合わせて\n指を左右にスライドしましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30004, /*img*/1, /*discription*/"新機能「ぴにゃリクエスト」を追加しました。\nDJぴにゃが選んだ楽曲をプレイする機能です。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30004, /*img*/1, /*discription*/"楽曲選択画面の「ぴにゃリクエスト」にカーソルをあわせ、\n難易度を選択してから「決定」ボタンをタップします。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30004, /*img*/2, /*discription*/"表示されるポップアップで、遊びたい楽曲のタイプを選択し\n「条件決定」をタップすると、DJぴにゃがプレイ楽曲を決定します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30004, /*img*/2, /*discription*/"スタミナは条件決定をしたタイミングで消費されます。\n楽曲決定後に選曲画面に戻ることはできませんのでご注意ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30004, /*img*/3, /*discription*/"リクエストされた楽曲を見事クリアすると、\n通常のLIVE報酬に追加で、特別な報酬が獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「バレンタインスペシャルLIVEキャンペーン」開催中 !\n期間中にLIVEをクリアすると、\nバレンタイン限定のアイテムを獲得できます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「LIVEチャレンジキャンペーン」開催中 ! !\nLIVEコンティニューに必要なスタージュエルが\n「50個」から「10個」になります !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
@@ -95,6 +106,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40201, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40301, /*img*/1, /*discription*/"女子寮には、アイドルを入寮させることができます。\n※入寮中のアイドルは、LIVEへの参加や、レッスン等は行えません");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40301, /*img*/2, /*discription*/"入寮中のアイドルは、直接他の寮へ移動することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40301, /*img*/3, /*discription*/"女子寮はショップからスタージュエルを使用して\n追加することができます。\n※女子寮機能公開後、第1女子寮は無条件で使用できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40401, /*img*/1, /*discription*/"ユニットの編成可能数が「18」になりました。\n「切り替えボタン」を押すと表示するユニットの切り替えができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40401, /*img*/2, /*discription*/"LIVEでは、左下の「ユニットボタン」を押すことで\n表示するユニットの切り替えができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50001, /*img*/1, /*discription*/"ストーリーコミュでは、アイドルたちが\n織り成すストーリーが描かれています。\n解放条件を達成することで解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50001, /*img*/1, /*discription*/"ストーリー中に行われるコミュLIVEでは、\n新たなコミュは解放されません。\nLIVEで特定の難易度でのクリアが必要となります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50002, /*img*/1, /*discription*/"メモリアルコミュでは、アイドル一人ひとりの\nアイドルとしての活動の軌跡が描かれています。\nLIVEでファン数を増やすことで解放されます。");

@@ -101,3 +101,4 @@ INSERT INTO `music_data` VALUES (/*id*/9008, /*name*/"サマカニ ! !", /*bpm*/
 INSERT INTO `music_data` VALUES (/*id*/9009, /*name*/"BEYOND \nTHE STARLIGHT", /*bpm*/175, /*composer*/"石濱翔（MONACA）", /*lyricist*/"八城雄太", /*sound_offset*/69811, /*sound_length*/31000, /*name_sort*/90);
 INSERT INTO `music_data` VALUES (/*id*/9010, /*name*/"命燃やして恋せよ乙女", /*bpm*/112, /*composer*/"TAKT（TRYTONELABO）", /*lyricist*/"森由里子", /*sound_offset*/82782, /*sound_length*/22000, /*name_sort*/9);
 INSERT INTO `music_data` VALUES (/*id*/9011, /*name*/"Sweet Witches' Night", /*bpm*/152, /*composer*/"角本麻衣", /*lyricist*/"角本麻衣", /*sound_offset*/95950, /*sound_length*/26000, /*name_sort*/47);
+INSERT INTO `music_data` VALUES (/*id*/90001, /*name*/"ぴにゃリクエスト", /*bpm*/1, /*composer*/"?", /*lyricist*/"?", /*sound_offset*/0, /*sound_length*/70000, /*name_sort*/999);
