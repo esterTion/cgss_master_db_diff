@@ -62,6 +62,7 @@ INSERT INTO `music_info` VALUES (/*id*/3033, /*discription*/"宮本フレデリ�
 INSERT INTO `music_info` VALUES (/*id*/3034, /*discription*/"速水奏（CV：飯田友子）\n\n\n作詞：BNSI（MC TC）\n作曲・編曲：BNSI（Taku Inoue）");
 INSERT INTO `music_info` VALUES (/*id*/3037, /*discription*/"片桐早苗（CV：和氣あず未）\n\n\n作詞：磯谷佳江\n作曲：小野貴光\n編曲：玉木千尋");
 INSERT INTO `music_info` VALUES (/*id*/3038, /*discription*/"一ノ瀬志希（CV：藍原ことみ）\n\n\n作詞・作曲・編曲：ササキトモコ");
+INSERT INTO `music_info` VALUES (/*id*/3039, /*discription*/"塩見周子（CV：ルゥ ティン）\n\n\n作詞：夕野ヨシミ（IOSYS）\n作曲・編曲：ARM（IOSYS）\nギター：コバヤシユウヤ（IOSYS）\nベース：john=hive\n尺八：狐夢想（COOL&CREATE）");
 INSERT INTO `music_info` VALUES (/*id*/3042, /*discription*/"中野有香（CV：下地紫野）\n\n\n作詞：ミズノゲンキ\n作曲・編曲：睦月周平\nギター＆プログラミング：睦月周平\nストリングス：矢野小百合ストリングス");
 INSERT INTO `music_info` VALUES (/*id*/5001, /*discription*/"CINDERELLA PROJECT\n\n島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n双葉杏（CV：五十嵐裕美）\n三村かな子（CV：大坪由佳）\n城ヶ崎莉嘉（CV：山本希望）\n神崎蘭子（CV：内田真礼）\n前川みく（CV：高森奈津美）\n諸星きらり（CV：松嵜麗）\n多田李衣菜（CV：青木瑠璃子）\n赤城みりあ（CV：黒沢ともよ）\n新田美波（CV：洲崎綾）\n緒方智絵里（CV：大空直美）\nアナスタシア（CV：上坂すみれ）\n\n\n作詞：森由里子\n作曲・編曲：田中秀和（MONACA）");
 INSERT INTO `music_info` VALUES (/*id*/5002, /*discription*/"CINDERELLA PROJECT\n\n島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n双葉杏（CV：五十嵐裕美）\n三村かな子（CV：大坪由佳）\n城ヶ崎莉嘉（CV：山本希望）\n神崎蘭子（CV：内田真礼）\n前川みく（CV：高森奈津美）\n諸星きらり（CV：松嵜麗）\n多田李衣菜（CV：青木瑠璃子）\n赤城みりあ（CV：黒沢ともよ）\n新田美波（CV：洲崎綾）\n緒方智絵里（CV：大空直美）\nアナスタシア（CV：上坂すみれ）\n\n\n作詞：遠藤フビト\n作曲：BNSI（Yoshi）\n編曲：BNSI（Yoshi）、\n滝澤俊輔（TRYTONELABO）");
