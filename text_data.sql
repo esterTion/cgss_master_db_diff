@@ -503,6 +503,7 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/14, /*text*/"ALBUM C");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/15, /*text*/1);
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/16, /*text*/"[FF7A7A]MASTER+は対象外です[-]");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/17, /*text*/"MAS+");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/18, /*text*/"レガシーMASTER+がONの場合\nプレイ記録は保存されません");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/1, /*text*/"月間獲得ファン数ランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/2, /*text*/"今期のランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/3, /*text*/"前期のランキング");

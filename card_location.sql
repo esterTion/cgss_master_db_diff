@@ -378,3 +378,5 @@ INSERT INTO `card_location` VALUES (/*index*/379, /*text*/"遊園地・観覧車
 INSERT INTO `card_location` VALUES (/*index*/380, /*text*/"遊園地のパレード");
 INSERT INTO `card_location` VALUES (/*index*/381, /*text*/"海賊船・見張り台");
 INSERT INTO `card_location` VALUES (/*index*/382, /*text*/"海賊船・甲板");
+INSERT INTO `card_location` VALUES (/*index*/383, /*text*/"ディスカウントストア");
+INSERT INTO `card_location` VALUES (/*index*/384, /*text*/"クルーザー");
