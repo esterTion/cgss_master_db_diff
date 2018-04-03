@@ -1,6 +1,6 @@
 CREATE TABLE 'atapon_detail' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'live_detail_id' INTEGER NOT NULL, 'max_event_point' INTEGER NOT NULL, 'cost_type' INTEGER NOT NULL, 'cost_id' INTEGER NOT NULL, 'cost_value' INTEGER NOT NULL, 'bet_type' INTEGER NOT NULL, PRIMARY KEY('id'))
-INSERT INTO `atapon_detail` VALUES (/*id*/1, /*event_id*/1016, /*live_detail_id*/521, /*max_event_point*/130, /*cost_type*/5, /*cost_id*/50016, /*cost_value*/75, /*bet_type*/1);
-INSERT INTO `atapon_detail` VALUES (/*id*/2, /*event_id*/1016, /*live_detail_id*/522, /*max_event_point*/170, /*cost_type*/5, /*cost_id*/50016, /*cost_value*/90, /*bet_type*/1);
-INSERT INTO `atapon_detail` VALUES (/*id*/3, /*event_id*/1016, /*live_detail_id*/523, /*max_event_point*/240, /*cost_type*/5, /*cost_id*/50016, /*cost_value*/120, /*bet_type*/1);
-INSERT INTO `atapon_detail` VALUES (/*id*/4, /*event_id*/1016, /*live_detail_id*/524, /*max_event_point*/320, /*cost_type*/5, /*cost_id*/50016, /*cost_value*/150, /*bet_type*/1);
-INSERT INTO `atapon_detail` VALUES (/*id*/5, /*event_id*/1016, /*live_detail_id*/525, /*max_event_point*/320, /*cost_type*/5, /*cost_id*/50016, /*cost_value*/150, /*bet_type*/1);
+INSERT INTO `atapon_detail` VALUES (/*id*/1, /*event_id*/1017, /*live_detail_id*/543, /*max_event_point*/130, /*cost_type*/5, /*cost_id*/50017, /*cost_value*/75, /*bet_type*/1);
+INSERT INTO `atapon_detail` VALUES (/*id*/2, /*event_id*/1017, /*live_detail_id*/544, /*max_event_point*/170, /*cost_type*/5, /*cost_id*/50017, /*cost_value*/90, /*bet_type*/1);
+INSERT INTO `atapon_detail` VALUES (/*id*/3, /*event_id*/1017, /*live_detail_id*/545, /*max_event_point*/240, /*cost_type*/5, /*cost_id*/50017, /*cost_value*/120, /*bet_type*/1);
+INSERT INTO `atapon_detail` VALUES (/*id*/4, /*event_id*/1017, /*live_detail_id*/546, /*max_event_point*/320, /*cost_type*/5, /*cost_id*/50017, /*cost_value*/150, /*bet_type*/1);
+INSERT INTO `atapon_detail` VALUES (/*id*/5, /*event_id*/1017, /*live_detail_id*/547, /*max_event_point*/320, /*cost_type*/5, /*cost_id*/50017, /*cost_value*/150, /*bet_type*/1);

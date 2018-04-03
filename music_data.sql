@@ -44,7 +44,7 @@ INSERT INTO `music_data` VALUES (/*id*/3008, /*name*/"You're stars \nshine on me
 INSERT INTO `music_data` VALUES (/*id*/3009, /*name*/"DOKIDOKIリズム", /*bpm*/180, /*composer*/"BNEI（佐藤貴文）", /*lyricist*/"BNEI（佐藤貴文）", /*sound_offset*/54450, /*sound_length*/26189, /*name_sort*/65);
 INSERT INTO `music_data` VALUES (/*id*/3010, /*name*/"おねだり\nShall We ～?", /*bpm*/148, /*composer*/"BNSI（佐藤貴文）", /*lyricist*/"BNSI（佐藤貴文）", /*sound_offset*/64586, /*sound_length*/16065, /*name_sort*/21);
 INSERT INTO `music_data` VALUES (/*id*/3011, /*name*/"ヴィーナス\nシンドローム", /*bpm*/151, /*composer*/"BNSI（kyo）", /*lyricist*/"古屋真", /*sound_offset*/53134, /*sound_length*/28000, /*name_sort*/11);
-INSERT INTO `music_data` VALUES (/*id*/3012, /*name*/"Romantic Now", /*bpm*/170, /*composer*/"BNSI（Taku Inoue）", /*lyricist*/"BNSI（MC TC）", /*sound_offset*/81183, /*sound_length*/26000, /*name_sort*/109);
+INSERT INTO `music_data` VALUES (/*id*/3012, /*name*/"Romantic Now", /*bpm*/170, /*composer*/"BNSI（Taku Inoue）", /*lyricist*/"BNSI（MC TC）", /*sound_offset*/81183, /*sound_length*/26000, /*name_sort*/110);
 INSERT INTO `music_data` VALUES (/*id*/3013, /*name*/"ショコラ・ティアラ", /*bpm*/133, /*composer*/"BNEI（kyo）", /*lyricist*/"古屋真", /*sound_offset*/93588, /*sound_length*/16660, /*name_sort*/46);
 INSERT INTO `music_data` VALUES (/*id*/3014, /*name*/"Twilight Sky", /*bpm*/176, /*composer*/"BNSI（渡辺量）", /*lyricist*/"BNSI（渡辺量）", /*sound_offset*/59652, /*sound_length*/18549, /*name_sort*/71);
 INSERT INTO `music_data` VALUES (/*id*/3015, /*name*/"TOKIMEKI\nエスカレート", /*bpm*/140, /*composer*/"BNSI（内田哲也）", /*lyricist*/"marhy", /*sound_offset*/68119, /*sound_length*/29000, /*name_sort*/66);
@@ -77,16 +77,17 @@ INSERT INTO `music_data` VALUES (/*id*/5005, /*name*/"Happy×2 Days", /*bpm*/130
 INSERT INTO `music_data` VALUES (/*id*/5006, /*name*/"-LEGNE- \n仇なす剣 光の旋律", /*bpm*/189, /*composer*/"隠田遼平", /*lyricist*/"BNSI（東ノ獄彩）", /*sound_offset*/57631, /*sound_length*/22866, /*name_sort*/14);
 INSERT INTO `music_data` VALUES (/*id*/5007, /*name*/"Memories", /*bpm*/130, /*composer*/"ESTi", /*lyricist*/"貝田由里子", /*sound_offset*/69631, /*sound_length*/14729, /*name_sort*/99);
 INSERT INTO `music_data` VALUES (/*id*/5008, /*name*/"ØωØver!!", /*bpm*/180, /*composer*/"小野貴光", /*lyricist*/"前川みく（高森奈津美）、多田李衣菜（青木瑠璃子）", /*sound_offset*/56505, /*sound_length*/22483, /*name_sort*/16);
-INSERT INTO `music_data` VALUES (/*id*/5009, /*name*/"LET'S GO HAPPY!!", /*bpm*/192, /*composer*/"ARM（IOSYS）", /*lyricist*/"夕野ヨシミ（IOSYS）", /*sound_offset*/49784, /*sound_length*/11667, /*name_sort*/107);
+INSERT INTO `music_data` VALUES (/*id*/5009, /*name*/"LET'S GO HAPPY!!", /*bpm*/192, /*composer*/"ARM（IOSYS）", /*lyricist*/"夕野ヨシミ（IOSYS）", /*sound_offset*/49784, /*sound_length*/11667, /*name_sort*/108);
 INSERT INTO `music_data` VALUES (/*id*/5010, /*name*/"Shine!!", /*bpm*/174, /*composer*/"滝澤俊輔（TRYTONELABO）", /*lyricist*/"森由里子", /*sound_offset*/64645, /*sound_length*/24133, /*name_sort*/44);
 INSERT INTO `music_data` VALUES (/*id*/5011, /*name*/"夢色ハーモニー", /*bpm*/178, /*composer*/"BNSI（内田哲也）", /*lyricist*/"遠藤フビト", /*sound_offset*/61665, /*sound_length*/25000, /*name_sort*/103);
-INSERT INTO `music_data` VALUES (/*id*/5015, /*name*/"Rockin' Emotion", /*bpm*/177, /*composer*/"小野貴光", /*lyricist*/"磯谷佳江", /*sound_offset*/61564, /*sound_length*/32000, /*name_sort*/108);
+INSERT INTO `music_data` VALUES (/*id*/5015, /*name*/"Rockin' Emotion", /*bpm*/177, /*composer*/"小野貴光", /*lyricist*/"磯谷佳江", /*sound_offset*/61564, /*sound_length*/32000, /*name_sort*/109);
 INSERT INTO `music_data` VALUES (/*id*/5021, /*name*/"Trancing Pulse", /*bpm*/143, /*composer*/"上松範康（Elements Garden）", /*lyricist*/"AJURIKA", /*sound_offset*/76089, /*sound_length*/28000, /*name_sort*/69);
 INSERT INTO `music_data` VALUES (/*id*/5024, /*name*/"流れ星キセキ", /*bpm*/174, /*composer*/"渡部チェル", /*lyricist*/"小金井つくも", /*sound_offset*/52397, /*sound_length*/27000, /*name_sort*/72);
 INSERT INTO `music_data` VALUES (/*id*/5025, /*name*/"M@GIC☆", /*bpm*/178, /*composer*/"田中秀和（MONACA）", /*lyricist*/"森由里子", /*sound_offset*/60948, /*sound_length*/22000, /*name_sort*/93);
 INSERT INTO `music_data` VALUES (/*id*/5028, /*name*/"STORY", /*bpm*/148, /*composer*/"田中秀和（MONACA）", /*lyricist*/"森由里子", /*sound_offset*/80670, /*sound_length*/36100, /*name_sort*/52);
 INSERT INTO `music_data` VALUES (/*id*/5029, /*name*/"あいくるしい", /*bpm*/84, /*composer*/"田村歩美", /*lyricist*/"田村歩美", /*sound_offset*/75638, /*sound_length*/40000, /*name_sort*/1);
 INSERT INTO `music_data` VALUES (/*id*/5030, /*name*/"Flip Flop", /*bpm*/240, /*composer*/"ミト", /*lyricist*/"ミト", /*sound_offset*/67774, /*sound_length*/29000, /*name_sort*/91);
+INSERT INTO `music_data` VALUES (/*id*/5031, /*name*/"Lunatic Show", /*bpm*/290, /*composer*/"IMAJO（PSYCHIC LOVER）", /*lyricist*/"磯谷佳江", /*sound_offset*/56099, /*sound_length*/44000, /*name_sort*/107);
 INSERT INTO `music_data` VALUES (/*id*/8001, /*name*/"キミとボクのミライ", /*bpm*/178, /*composer*/"UEMATSU NOBUO / NARITA TSUTOMU", /*lyricist*/"Cygames / maimie", /*sound_offset*/66538, /*sound_length*/31000, /*name_sort*/27);
 INSERT INTO `music_data` VALUES (/*id*/9001, /*name*/"とどけ ! アイドル", /*bpm*/180, /*composer*/"BNSI（内田哲也）", /*lyricist*/"marhy", /*sound_offset*/60650, /*sound_length*/24250, /*name_sort*/68);
 INSERT INTO `music_data` VALUES (/*id*/9002, /*name*/"Snow Wings", /*bpm*/167, /*composer*/"俊龍", /*lyricist*/"俊龍", /*sound_offset*/65785, /*sound_length*/30000, /*name_sort*/53);
