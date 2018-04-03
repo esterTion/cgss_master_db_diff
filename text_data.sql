@@ -843,6 +843,8 @@ INSERT INTO `text_data` VALUES (/*category*/19, /*index*/16, /*text*/"売却可�
 INSERT INTO `text_data` VALUES (/*category*/19, /*index*/17, /*text*/"　　　所持上限を超えたマニーは破棄されました\n");
 INSERT INTO `text_data` VALUES (/*category*/19, /*index*/18, /*text*/"所持マニーが上限に達しています");
 INSERT INTO `text_data` VALUES (/*category*/19, /*index*/19, /*text*/"購入数");
+INSERT INTO `text_data` VALUES (/*category*/19, /*index*/20, /*text*/"スタミナドリンク・MAX");
+INSERT INTO `text_data` VALUES (/*category*/19, /*index*/21, /*text*/"スタミナの最大値分、上限値を超えて回復する");
 INSERT INTO `text_data` VALUES (/*category*/20, /*index*/1, /*text*/"MV再生");
 INSERT INTO `text_data` VALUES (/*category*/20, /*index*/2, /*text*/"MV再生");
 INSERT INTO `text_data` VALUES (/*category*/20, /*index*/3, /*text*/"5thLIVE TOUR Serendipity Parade!!!{0}");
