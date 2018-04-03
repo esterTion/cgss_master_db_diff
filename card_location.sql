@@ -202,3 +202,4 @@ INSERT INTO `card_location` VALUES (/*index*/203, /*text*/"衣装室");
 INSERT INTO `card_location` VALUES (/*index*/204, /*text*/"夜の学校");
 INSERT INTO `card_location` VALUES (/*index*/205, /*text*/"渓流");
 INSERT INTO `card_location` VALUES (/*index*/206, /*text*/"スペイン料理店");
+INSERT INTO `card_location` VALUES (/*index*/207, /*text*/"友紀の部屋");

@@ -139,6 +139,7 @@ INSERT INTO `story_category` VALUES (/*id*/192, /*type*/2, /*chara_type*/3, /*ch
 INSERT INTO `story_category` VALUES (/*id*/193, /*type*/2, /*chara_type*/3, /*chara_id*/293, /*title*/"村上巴", /*sub_title*/"", /*disp_order*/193);
 INSERT INTO `story_category` VALUES (/*id*/194, /*type*/2, /*chara_type*/3, /*chara_id*/294, /*title*/"土屋亜子", /*sub_title*/"", /*disp_order*/194);
 INSERT INTO `story_category` VALUES (/*id*/195, /*type*/2, /*chara_type*/3, /*chara_id*/295, /*title*/"首藤葵", /*sub_title*/"", /*disp_order*/195);
+INSERT INTO `story_category` VALUES (/*id*/198, /*type*/2, /*chara_type*/3, /*chara_id*/298, /*title*/"南条光", /*sub_title*/"", /*disp_order*/198);
 INSERT INTO `story_category` VALUES (/*id*/201, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第1話", /*sub_title*/"Stage, We climb the stairs.", /*disp_order*/202);
 INSERT INTO `story_category` VALUES (/*id*/202, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第2話", /*sub_title*/"Wish upon a Star ! !", /*disp_order*/203);
 INSERT INTO `story_category` VALUES (/*id*/203, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第3話", /*sub_title*/"SING, Smile, S(mile)ING !", /*disp_order*/204);
@@ -190,3 +191,4 @@ INSERT INTO `story_category` VALUES (/*id*/260, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/261, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"ちひろのお知らせ", /*sub_title*/"ちひろのお知らせ", /*disp_order*/2);
 INSERT INTO `story_category` VALUES (/*id*/262, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"咲いてJewel", /*sub_title*/"咲いてJewel", /*disp_order*/15);
 INSERT INTO `story_category` VALUES (/*id*/263, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Love∞Destiny", /*sub_title*/"Love∞Destiny", /*disp_order*/16);
+INSERT INTO `story_category` VALUES (/*id*/264, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"きみにいっぱい☆", /*sub_title*/"きみにいっぱい☆", /*disp_order*/17);
