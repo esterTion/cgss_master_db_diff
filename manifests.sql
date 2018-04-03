@@ -7177,8 +7177,8 @@ INSERT INTO `manifests` VALUES (/*name*/"comic_134_01_m.unity3d", /*hash*/"ff2ee
 INSERT INTO `manifests` VALUES (/*name*/"comic_134_01_s.unity3d", /*hash*/"bee82e8eb09ec805ac6c790ade622a87", /*attr*/1, /*category*/"common", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"comic_136_01_m.unity3d", /*hash*/"ba5bed83dbfefb54e3156f6acc916e0b", /*attr*/1, /*category*/"common", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"comic_136_01_s.unity3d", /*hash*/"63f849cee83673d8620d3f3d32bb85d3", /*attr*/1, /*category*/"common", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"comic_138_01_m.unity3d", /*hash*/"37b3b98b689255c0380ed8e3ea31684b", /*attr*/1, /*category*/"common", /*decrypt_key*/"");
-INSERT INTO `manifests` VALUES (/*name*/"comic_138_01_s.unity3d", /*hash*/"859af693f815639e08a262a2f7bd6057", /*attr*/1, /*category*/"common", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"comic_138_01_m.unity3d", /*hash*/"baf5de5b00366bd260bb4cbc24e3ed23", /*attr*/1, /*category*/"common", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"comic_138_01_s.unity3d", /*hash*/"b75df6a78cff0b56eb7cbac86e312fea", /*attr*/1, /*category*/"common", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"comic_139_01_m.unity3d", /*hash*/"875702b2fd5e78434ac718de0824ed60", /*attr*/1, /*category*/"common", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"comic_139_01_s.unity3d", /*hash*/"115580ae8b72df49082a0cf667ed64b8", /*attr*/1, /*category*/"common", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"comic_141_01_m.unity3d", /*hash*/"a49f482ab6a2975f4f32e358e9a677ad", /*attr*/1, /*category*/"common", /*decrypt_key*/"");
