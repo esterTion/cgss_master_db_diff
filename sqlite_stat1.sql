@@ -148,7 +148,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_set_detail00006", /*idx*/"room_s
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"el_department", /*idx*/"", /*stat*/2);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"medley_detail", /*idx*/"sqlite_autoindex_medley_detail_1", /*stat*/"15 5 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"weekly_mission", /*idx*/"weekly_mission_0_weekly_mission_id", /*stat*/"6 1");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"text_data", /*idx*/"sqlite_autoindex_text_data_1", /*stat*/"1131 41 1");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"text_data", /*idx*/"sqlite_autoindex_text_data_1", /*stat*/"1145 41 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_idol_present", /*idx*/"", /*stat*/2);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"potential_condition_fan", /*idx*/"", /*stat*/25);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"party_flower_lv_type", /*idx*/"", /*stat*/12);
