@@ -4,7 +4,6 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/10001, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/10001, /*img*/2, /*discription*/"ガシャでSSレアアイドルを獲得すると、\nルームで使用できるアイドルのポスターが\nプレゼントに送られます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10001, /*img*/2, /*discription*/"さらに、SSレアアイドルは特別な衣装で\n3DLIVEのパフォーマンスを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10001, /*img*/3, /*discription*/"特定のSレア以上のアイドルをユニット編成で\nセンターに設定することで、LIVEの「お願い ! シンデレラ」を\nソロ歌唱で楽しめます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/10001, /*img*/4, /*discription*/"ローカルオーディションガシャは友情ptを消費して、\nアイドルやトレーニングチケットを獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10003, /*img*/1, /*discription*/"ローカルオーディションガシャは友情ptを消費して、\nアイドルやトレーニングチケットを獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20001, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20001, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、\n様々な効果を発揮する物があります。");
@@ -22,7 +21,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20005, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20005, /*img*/1, /*discription*/"「詳細」タブでは、効果を発揮しているルームアイテムを\n見る事ができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20006, /*img*/1, /*discription*/"VIEWモードでは、ルームが拡大して表示され、\nガイド線より手前のルームアイテムが見えなくなります。\n重なったルームアイテムを操作する場合などに便利です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20007, /*img*/1, /*discription*/"ギフトアイテムをアイドルに渡すと親愛度が上がります。\nそのアイドルに合ったギフトアイテムを渡すと、\nより多くの親愛度が上がります。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"兜飾りやこいのぼりの壁飾りなどのアイテムを追加 !\nこどもの日の飾りつけをしちゃおう ! !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「木」をテーマにしたアイテムを追加 !\n木の温もり溢れる素敵なルームに ! !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEでは、ミュージックセレクタ右上の動作設定ボタンから\nLIVEの背景演出を変更することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEプレイ中のSE再生設定もここから変更できます。\nSEをオフにすることで、動作が軽くなる場合があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30002, /*img*/1, /*discription*/"ユニット確認画面では、右上のLIVE設定ボタンから\nリズムゲームプレイ中の設定をカスタマイズできます。");
