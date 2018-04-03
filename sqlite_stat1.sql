@@ -113,7 +113,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"party_main_idol", /*idx*/"party_main_
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"medley_score_rank_disp", /*idx*/"", /*stat*/3);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_extension", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"card_data", /*idx*/"card_data_0_chara_id", /*stat*/"1148 7");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"card_data", /*idx*/"card_data_0_solo_live", /*stat*/"1148 574");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"card_data", /*idx*/"card_data_0_solo_live", /*stat*/"1148 1148");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"tour_data", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"mission_target_live", /*idx*/"", /*stat*/7);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"special_card_skill_data", /*idx*/"", /*stat*/7);
