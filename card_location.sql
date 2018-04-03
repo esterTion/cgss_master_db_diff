@@ -307,3 +307,5 @@ INSERT INTO `card_location` VALUES (/*index*/308, /*text*/"空港");
 INSERT INTO `card_location` VALUES (/*index*/309, /*text*/"格納庫前");
 INSERT INTO `card_location` VALUES (/*index*/310, /*text*/"森のお菓子屋風セット");
 INSERT INTO `card_location` VALUES (/*index*/311, /*text*/"ダンスホール");
+INSERT INTO `card_location` VALUES (/*index*/312, /*text*/"温水プール");
+INSERT INTO `card_location` VALUES (/*index*/313, /*text*/"竜宮城風セット");

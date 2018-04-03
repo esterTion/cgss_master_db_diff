@@ -112,10 +112,11 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60007, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60008, /*img*/1, /*discription*/"ミッションで称号を手に入れたら、自由に変更させることが\nできます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60008, /*img*/1, /*discription*/"獲得方法を確認し、たくさんの称号を集めましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60009, /*img*/1, /*discription*/"名刺機能は、オリジナルの名刺を作ることができる機能です。\n\n名刺編集から、好きなデザインを選んで保存することで、\nあなたのプロデューサーとしての名刺を作ることができます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/60009, /*img*/2, /*discription*/"名刺編集では、Sレア以上のアイドルを設定していると、\n名刺の背景をアイドルのフルサイズイラストに設定できます。\nフルサイズ表示は、アイドル全画面設定からフルサイズ表示をONに\nすることにより設定できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60009, /*img*/2, /*discription*/"名刺編集では、設定しているアイドルをフルサイズで\n表示することができます。フルサイズ表示は、\n表示アイドル設定からONにすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60009, /*img*/3, /*discription*/"フルサイズ表示の場合、イラストをスワイプすることで名刺に\n表示させる位置を調整できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60009, /*img*/4, /*discription*/"作った名刺は他のプロデューサーと交換する事ができます。\n名刺の交換は名刺ページの名刺交換画面や、他のプロデューサーの\nプロフィールページから行う事ができます。\n※自分と相手のいずれかが名刺を作成していない場合、\n交換依頼は行えません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60009, /*img*/5, /*discription*/"作った名刺は、あなたのTwitterに投稿する事ができます。\n名刺ページ左下のTwitterアイコンから投稿できます。\n※Twitterアイコンは名刺を作成済みの場合のみ表示されます。\n※画像の投稿には、公式のTwitterアプリが必要となります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60010, /*img*/1, /*discription*/"簡単に名刺交換できる機能を追加しました。\n名刺交換依頼の自動設定は、名刺設定画面から、\n名刺一括交換は、同僚リスト画面から行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60011, /*img*/1, /*discription*/"PランクSS以上かつPRP1000以上のプロデューサーのみ\n参加可能な「月間獲得ファン数ランキング」で1000位内に\n入賞することで、PランクSSSに昇格できます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60011, /*img*/2, /*discription*/"PランクSSまでとは異なり、PランクSSSは、1ヶ月の任期制となり、\n毎月1日の 0:00 に、PランクSSSのプロデューサーも\n全員ランクSSに戻ります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60011, /*img*/2, /*discription*/"集計後、ランキングの上位1000人が、新たにPランクSSSに\n昇格します。沢山のファンを獲得し、「アイドルマスター」を\n目指しましょう !");
