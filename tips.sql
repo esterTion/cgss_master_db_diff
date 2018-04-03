@@ -170,6 +170,7 @@ INSERT INTO `tips` VALUES (/*id*/168, /*tips_type*/1, /*value*/148, /*index*/1, 
 INSERT INTO `tips` VALUES (/*id*/169, /*tips_type*/1, /*value*/200, /*index*/1, /*title*/"柊志乃のウワサ", /*comment*/"資源ごみ回収の日だけは\n早起きできることがあるらしい。");
 INSERT INTO `tips` VALUES (/*id*/170, /*tips_type*/1, /*value*/300, /*index*/1, /*title*/"イヴ・サンタクロースのウワサ", /*comment*/"サンタらしい。");
 INSERT INTO `tips` VALUES (/*id*/171, /*tips_type*/1, /*value*/290, /*index*/1, /*title*/"キャシー・グラハムのウワサ", /*comment*/"外国人に声をかけられたときは、\nジェスチャーで切り抜けるらしい。");
+INSERT INTO `tips` VALUES (/*id*/172, /*tips_type*/1, /*value*/199, /*index*/1, /*title*/"伊集院惠のウワサ", /*comment*/"二ヶ月に一度は\n旅に出るらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/30001, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルを育てるには", /*comment*/"アイドルのレベルを上げるには、\nレッスンを行いましょう !");
 INSERT INTO `tips` VALUES (/*id*/30002, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルとの親愛度を上げるには", /*comment*/"LIVEを行うと、\n参加したアイドルの親愛度が上がります !");
@@ -368,3 +369,4 @@ INSERT INTO `tips` VALUES (/*id*/40170, /*tips_type*/4, /*value*/148, /*index*/1
 INSERT INTO `tips` VALUES (/*id*/40171, /*tips_type*/4, /*value*/200, /*index*/1, /*title*/"柊志乃①　またおいで…♪", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40172, /*tips_type*/4, /*value*/300, /*index*/1, /*title*/"イヴ・サンタクロース①　彼女はサンタ？", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40173, /*tips_type*/4, /*value*/290, /*index*/1, /*title*/"キャシー・グラハム①　英語でどうぞ", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40174, /*tips_type*/4, /*value*/199, /*index*/1, /*title*/"伊集院惠①　楽しむコツ", /*comment*/"");
