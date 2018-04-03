@@ -57,6 +57,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEプレイ中のSE再生設定もここから変更できます。\nSEをオフにすることで、動作が軽くなる場合があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30002, /*img*/1, /*discription*/"ユニット確認画面では、右上のLIVE設定ボタンから\nリズムゲームプレイ中の設定をカスタマイズできます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30002, /*img*/1, /*discription*/"リズムアイコンの流れてくる速度や、ボイスの音量など、\nプレイしやすいように調整してみましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「LIVEチャレンジキャンペーン」開催中 ! !\nLIVEコンティニューに必要なスタージュエルが\n「50個」から「10個」になります !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");
