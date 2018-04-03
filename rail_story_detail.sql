@@ -1,0 +1,1 @@
+CREATE TABLE 'rail_story_detail' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'group_id' INTEGER NOT NULL, 'open_rap_id' INTEGER NOT NULL, 'next_detail_id' INTEGER NOT NULL, PRIMARY KEY('id'))

@@ -1,0 +1,1 @@
+CREATE TABLE 'rail_area_bonus' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'group_id' INTEGER NOT NULL, 'rap_id' INTEGER NOT NULL, 'map_type_1' INTEGER NOT NULL, 'map_value_1' INTEGER NOT NULL, 'map_type_2' INTEGER NOT NULL, 'map_value_2' INTEGER NOT NULL, 'map_bonus' INTEGER NOT NULL, PRIMARY KEY('id'))

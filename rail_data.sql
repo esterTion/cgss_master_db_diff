@@ -1,0 +1,1 @@
+CREATE TABLE 'rail_data' ('event_id' INTEGER NOT NULL, 'event_live_id' INTEGER NOT NULL, 'item_id' INTEGER NOT NULL, 'start_group_id' INTEGER NOT NULL, 'story_flag' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('event_id'))

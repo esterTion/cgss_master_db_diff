@@ -1,0 +1,1 @@
+CREATE TABLE 'rail_area_comment' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'group_id' INTEGER NOT NULL, 'rap_id' INTEGER NOT NULL, 'comment_id' INTEGER NOT NULL, 'use_type' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'insert_word_type' INTEGER NOT NULL, PRIMARY KEY('id'))

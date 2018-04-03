@@ -1,0 +1,1 @@
+CREATE TABLE 'rail_circle_data' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'area_id' INTEGER NOT NULL, 'circle_id' INTEGER NOT NULL, 'circle_type' INTEGER NOT NULL, 'bonus_type' INTEGER NOT NULL, PRIMARY KEY('id'))
