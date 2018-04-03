@@ -87,3 +87,5 @@ INSERT INTO `medley_story_detail` VALUES (/*id*/2693, /*event_id*/3013, /*type*/
 INSERT INTO `medley_story_detail` VALUES (/*id*/2694, /*event_id*/3013, /*type*/0, /*open_event_point*/7000, /*next_detail_id*/2695);
 INSERT INTO `medley_story_detail` VALUES (/*id*/2695, /*event_id*/3013, /*type*/0, /*open_event_point*/10000, /*next_detail_id*/2696);
 INSERT INTO `medley_story_detail` VALUES (/*id*/2696, /*event_id*/3013, /*type*/2, /*open_event_point*/0, /*next_detail_id*/0);
+INSERT INTO `medley_story_detail` VALUES (/*id*/2697, /*event_id*/3013, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
+INSERT INTO `medley_story_detail` VALUES (/*id*/2698, /*event_id*/3013, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
