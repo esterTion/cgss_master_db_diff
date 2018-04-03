@@ -409,3 +409,4 @@ INSERT INTO `text_data` VALUES (/*category*/13, /*index*/3, /*text*/"事務所")
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/4, /*text*/"[D33D98]PLv50[FFFFFF]達成");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/5, /*text*/"[FF7A7A]フリールームはPLv50で解放されます。[-]");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/6, /*text*/"フリールーム");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/1, /*text*/"9月3日をもって、アイドルマスターシンデレラガールズスターライトステージは、1周年を迎えました !");

@@ -133,3 +133,14 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80501, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80501, /*img*/1, /*discription*/"まず「セット中スタンプ」の中から、変更したいスタンプを選択し、\n次にスタンプの一覧から、設定したいスタンプを選択しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80501, /*img*/2, /*discription*/"スタンプの設定が済んだら、最後に「保存」ボタンを押しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80501, /*img*/2, /*discription*/"スタンプの設定を初期状態に戻したい場合は、\n「初期設定」ボタンを押しましょう。\nイベント開始時のおすすめのスタンプ設定が適用されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90101, /*img*/1, /*discription*/"アイドルのファン数を増やすことで、ポテンシャルを解放し、\nアイドルのステータスを強化することができる機能です。\n（ポテンシャル解放では特訓アイテムを消費します）\n※各数値は開発中のものです。 ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90102, /*img*/1, /*discription*/"PランクSS、PRP1000以上のプロデューサーのみ参加可能な\nランキングで、上位入賞することで、PランクSSSに昇格します。\n（PランクSSSは、1ヶ月の任期制となります）\n    ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90103, /*img*/1, /*discription*/"新3D衣装「アクロス・ザ・スターズ」登場 !\n3DLIVEでアイドルたちの衣装を\n変更することができるようになりました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90103, /*img*/2, /*discription*/"3D衣装の変更はアイドル編成と\nMVモードのユニット確認画面で\n切り替えることができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90104, /*img*/3, /*discription*/"ルームでアイドルからスタミナ回復アイテム\n「手作りショートケーキ」を受け取ろう !\n詳細はお知らせをご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90104, /*img*/4, /*discription*/"キャンペーン開催期間中の初回ログイン時に\n「スタージュエル 2500個」をプレゼント");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90104, /*img*/4, /*discription*/"さらに毎日「スタージュエル 50個」を\nプレゼントする「1周年記念ログイン\nボーナスキャンペーン」");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90104, /*img*/1, /*discription*/"ローカルオーディションガシャからレッスンに\n効果的なアイテムが出やすい「育成強化キャンペーン」");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90104, /*img*/1, /*discription*/"レッスン大成功確率が通常の3倍になる\n「レッスン大成功確率アップキャンペーン」");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90104, /*img*/2, /*discription*/"LIVEコンティニューに必要なスタージュエルが\n「50個」から「10個」になる「LIVEチャレンジ\nキャンペーン」");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90104, /*img*/2, /*discription*/"LIVE成功時にティアラと魔法のドレスの\nドロップ率がアップする「特訓支援キャンペーン」\n期間などの詳細はお知らせよりご確認ください。");

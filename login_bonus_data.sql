@@ -12,3 +12,4 @@ INSERT INTO `login_bonus_data` VALUES (/*id*/9005, /*name*/"バレンタイン&C
 INSERT INTO `login_bonus_data` VALUES (/*id*/9006, /*name*/"CM放送記念ログインボーナス", /*type*/4, /*count_num*/14, /*rap*/1, /*img*/0, /*start_date*/"2016-02-15 00:00:00", /*end_date*/"2016-02-28 23:59:59");
 INSERT INTO `login_bonus_data` VALUES (/*id*/9007, /*name*/"1200万DL突破&CM放送記念ログインボーナス", /*type*/4, /*count_num*/14, /*rap*/1, /*img*/0, /*start_date*/"2016-04-01 00:00:00", /*end_date*/"2016-04-14 23:59:59");
 INSERT INTO `login_bonus_data` VALUES (/*id*/9008, /*name*/"GW&CM放送記念ログインボーナス", /*type*/4, /*count_num*/12, /*rap*/1, /*img*/0, /*start_date*/"2016-04-28 00:00:00", /*end_date*/"2016-05-09 23:59:59");
+INSERT INTO `login_bonus_data` VALUES (/*id*/9009, /*name*/"1周年記念ログインボーナス第1弾", /*type*/4, /*count_num*/14, /*rap*/1, /*img*/0, /*start_date*/"2016-09-03 00:00:00", /*end_date*/"2016-09-16 23:59:59");
