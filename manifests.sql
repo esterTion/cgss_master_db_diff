@@ -13500,6 +13500,7 @@ INSERT INTO `manifests` VALUES (/*name*/"emblem_3101302_s.unity3d", /*hash*/"a92
 INSERT INTO `manifests` VALUES (/*name*/"emblem_3101303_l.unity3d", /*hash*/"947a4e0c1e0d4062aa015b517e7f6886", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"emblem_3101303_s.unity3d", /*hash*/"44072f21e0f2b36e01a7c9d30dbedb60", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"emblem_3101304_l.unity3d", /*hash*/"0cb17b17e34448fedbd8ccf3a8ba41fc", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
+INSERT INTO `manifests` VALUES (/*name*/"emblem_3101304_s.unity3d", /*hash*/"3da7dd749de33f65af2883d63958bca6", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"emblem_3101305_l.unity3d", /*hash*/"9cbfff2155e96b068df0c228b1014404", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"emblem_3101305_s.unity3d", /*hash*/"280971cfa4311ba428f1619e36a5b704", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
 INSERT INTO `manifests` VALUES (/*name*/"emblem_3101306_l.unity3d", /*hash*/"775726a013447b51b6a61eb9960e61b4", /*attr*/1, /*category*/"every", /*decrypt_key*/"");
