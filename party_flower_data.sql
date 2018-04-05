@@ -6,3 +6,4 @@ INSERT INTO `party_flower_data` VALUES (/*id*/4, /*name*/"フラワースタン�
 INSERT INTO `party_flower_data` VALUES (/*id*/5, /*name*/"フラワースタンド", /*consume_pt*/1, /*flower_type*/1, /*order_num*/1, /*party_term_id*/5);
 INSERT INTO `party_flower_data` VALUES (/*id*/6, /*name*/"フラワースタンド", /*consume_pt*/1, /*flower_type*/1, /*order_num*/1, /*party_term_id*/6);
 INSERT INTO `party_flower_data` VALUES (/*id*/7, /*name*/"フラワースタンド", /*consume_pt*/1, /*flower_type*/1, /*order_num*/1, /*party_term_id*/7);
+INSERT INTO `party_flower_data` VALUES (/*id*/8, /*name*/"フラワースタンド", /*consume_pt*/1, /*flower_type*/1, /*order_num*/1, /*party_term_id*/8);
