@@ -10,3 +10,4 @@ INSERT INTO `item_category` VALUES (/*category_type*/8, /*category_name*/"スカ
 INSERT INTO `item_category` VALUES (/*category_type*/9, /*category_name*/"宝くじチケット");
 INSERT INTO `item_category` VALUES (/*category_type*/10, /*category_name*/"交換アイテム");
 INSERT INTO `item_category` VALUES (/*category_type*/11, /*category_name*/"イベントスカウトチケット");
+INSERT INTO `item_category` VALUES (/*category_type*/12, /*category_name*/"総選挙の投票券");

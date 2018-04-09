@@ -41,6 +41,7 @@ INSERT INTO `music_data` VALUES (/*id*/1039, /*name*/"こいかぜ -花葉-", /*
 INSERT INTO `music_data` VALUES (/*id*/1040, /*name*/"always", /*bpm*/96, /*composer*/"藤田麻衣子", /*lyricist*/"藤田麻衣子", /*sound_offset*/75743, /*sound_length*/42000, /*name_sort*/27, /*name_kana*/"おーるうぇいず");
 INSERT INTO `music_data` VALUES (/*id*/1041, /*name*/"Frost", /*bpm*/86, /*composer*/"睦月周平", /*lyricist*/"ミズノゲンキ", /*sound_offset*/63680, /*sound_length*/41000, /*name_sort*/133, /*name_kana*/"ふろすと");
 INSERT INTO `music_data` VALUES (/*id*/1042, /*name*/"ツインテールの風", /*bpm*/170, /*composer*/"滝澤俊輔（TRYTONELABO）", /*lyricist*/"森由里子", /*sound_offset*/79795, /*sound_length*/27000, /*name_sort*/88, /*name_kana*/"ついんてーるのかぜ");
+INSERT INTO `music_data` VALUES (/*id*/1043, /*name*/"Tulip\n（SP VERSION）", /*bpm*/154, /*composer*/"石濱翔（MONACA）", /*lyricist*/"森由里子", /*sound_offset*/52800, /*sound_length*/26000, /*name_sort*/87, /*name_kana*/"ちゅーりっぷ");
 INSERT INTO `music_data` VALUES (/*id*/1047, /*name*/"恋が咲く季節", /*bpm*/160, /*composer*/"ESTi", /*lyricist*/"ESTi", /*sound_offset*/71598, /*sound_length*/23000, /*name_sort*/49, /*name_kana*/"こいがさくきせつ");
 INSERT INTO `music_data` VALUES (/*id*/1048, /*name*/"always", /*bpm*/96, /*composer*/"藤田麻衣子", /*lyricist*/"藤田麻衣子", /*sound_offset*/75743, /*sound_length*/42000, /*name_sort*/26, /*name_kana*/"おーるうぇいず");
 INSERT INTO `music_data` VALUES (/*id*/1901, /*name*/"お願い ! シンデレラ", /*bpm*/175, /*composer*/"BNSI（内田哲也）", /*lyricist*/"marhy", /*sound_offset*/57458, /*sound_length*/21000, /*name_sort*/30, /*name_kana*/"おねがいしんでれら");
