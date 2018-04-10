@@ -1,1 +1,25 @@
 CREATE TABLE 'jewel_shop_conditions' ('id' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'))
+INSERT INTO `jewel_shop_conditions` VALUES (/*id*/0, /*description*/" ");
+INSERT INTO `jewel_shop_conditions` VALUES (/*id*/1, /*description*/"マニー");
+INSERT INTO `jewel_shop_conditions` VALUES (/*id*/2, /*description*/"友情Pt");
+INSERT INTO `jewel_shop_conditions` VALUES (/*id*/3, /*description*/"有償スタージュエル");
+INSERT INTO `jewel_shop_conditions` VALUES (/*id*/4, /*description*/"スタージュエル");
+INSERT INTO `jewel_shop_conditions` VALUES (/*id*/5, /*description*/"アイテム");
+INSERT INTO `jewel_shop_conditions` VALUES (/*id*/6, /*description*/"アイドル");
+INSERT INTO `jewel_shop_conditions` VALUES (/*id*/7, /*description*/"ルーム専用アイテム");
+INSERT INTO `jewel_shop_conditions` VALUES (/*id*/8, /*description*/"楽曲");
+INSERT INTO `jewel_shop_conditions` VALUES (/*id*/9, /*description*/"コミュ");
+INSERT INTO `jewel_shop_conditions` VALUES (/*id*/10, /*description*/"楽曲");
+INSERT INTO `jewel_shop_conditions` VALUES (/*id*/11, /*description*/"称号");
+INSERT INTO `jewel_shop_conditions` VALUES (/*id*/12, /*description*/"称号");
+INSERT INTO `jewel_shop_conditions` VALUES (/*id*/13, /*description*/"ドレス");
+INSERT INTO `jewel_shop_conditions` VALUES (/*id*/14, /*description*/"フリーアイテム");
+INSERT INTO `jewel_shop_conditions` VALUES (/*id*/15, /*description*/"縦画面");
+INSERT INTO `jewel_shop_conditions` VALUES (/*id*/99, /*description*/"その他");
+INSERT INTO `jewel_shop_conditions` VALUES (/*id*/101, /*description*/"プロデューサーLv");
+INSERT INTO `jewel_shop_conditions` VALUES (/*id*/102, /*description*/"パネルミッション");
+INSERT INTO `jewel_shop_conditions` VALUES (/*id*/103, /*description*/"パネルミッションコンプ");
+INSERT INTO `jewel_shop_conditions` VALUES (/*id*/104, /*description*/"PRPランク");
+INSERT INTO `jewel_shop_conditions` VALUES (/*id*/105, /*description*/"RANK");
+INSERT INTO `jewel_shop_conditions` VALUES (/*id*/106, /*description*/"イベントアイテム");
+INSERT INTO `jewel_shop_conditions` VALUES (/*id*/1001, /*description*/"ルーム追加");

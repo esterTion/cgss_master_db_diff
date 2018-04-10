@@ -321,3 +321,11 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/4, /*discription*/"「オールスターカウントダウンLIVE」には、「全体ミッション」のほかに\n「個人ミッション」があります。「宝くじチケット」や\n「イベント限定アイドルスカウトチケット」などを含む、\n豪華景品をご用意しておりますので忘れずにチェックしてくださいね !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/5, /*discription*/"特設ページ内「次のコミュ解放」横に表示されている時間になると、\nアイドルたちがMCを務めるコミュが解放されます。\n後半には「あの曲」も登場・・・ ! ？");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90501, /*img*/1, /*discription*/"きらり博士のラボでは、うさぎロボをタップして\nミニゲームに挑戦できます。\nミニゲームでハピネシウムを集めて、\n最終決戦に挑みましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90601, /*img*/1, /*discription*/"「第7回シンデレラガール総選挙」が始まりました !\n「第7回シンデレラガール総選挙」は、mobage「アイドルマスター シンデレラガールズ」\nとの合同開催となります。\n※得票数は各アプリの合算となります");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90601, /*img*/2, /*discription*/"ログインボーナスや期間限定ミッション、\n総選挙応援セットなどで投票券を入手して、\nお気に入りのアイドルに投票しましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90601, /*img*/3, /*discription*/"全体順位上位5名のアイドルは、本アプリ内のイベントに登場 !\nさらに、イベント時の衣装を、3DLIVEで着用可能になります !\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90601, /*img*/3, /*discription*/"※報酬として獲得できるアイドルは、5名の中から選ばれます\n※衣装は「全体順位上位5名のアイドル」が着用可能となり、\n専用イベント内で条件を満たすことで獲得できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90602, /*img*/1, /*discription*/"総選挙応援セットは期間限定販売です。\n購入すると「プラチナ10連ガシャチケット」を1枚、\n「第7回シンデレラガール総選挙投票券」を10枚、");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90602, /*img*/1, /*discription*/"「スタミナドリンク50」を3個獲得できます。\n※有償スタージュエルでのみ購入することができます");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90602, /*img*/2, /*discription*/"「投票券」は好きなアイドルに投票を行えるアイテムです。\n投票はシンデレラガール総選挙のページにて、行うことができます。\n※投票終了日時である「5月9日 18:59」まで使用が可能です。\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90602, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に開催中の\nプラチナ10連ガシャを引けるチケットです。プラチナガシャと同様に、\nSレア以上のアイドル1人が確定で出現します。\n※購入してから180日後の23:59まで使用できます。");
