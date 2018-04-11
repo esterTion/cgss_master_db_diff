@@ -321,7 +321,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/4, /*discription*/"「オールスターカウントダウンLIVE」には、「全体ミッション」のほかに\n「個人ミッション」があります。「宝くじチケット」や\n「イベント限定アイドルスカウトチケット」などを含む、\n豪華景品をご用意しておりますので忘れずにチェックしてくださいね !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/5, /*discription*/"特設ページ内「次のコミュ解放」横に表示されている時間になると、\nアイドルたちがMCを務めるコミュが解放されます。\n後半には「あの曲」も登場・・・ ! ？");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90501, /*img*/1, /*discription*/"きらり博士のラボでは、うさぎロボをタップして\nミニゲームに挑戦できます。\nミニゲームでハピネシウムを集めて、\n最終決戦に挑みましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90601, /*img*/1, /*discription*/"「第7回シンデレラガール総選挙」が始まりました !\n「第7回シンデレラガール総選挙」は、mobage「アイドルマスター シンデレラガールズ」\nとの合同開催となります。\n※得票数は各アプリの合算となります");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90601, /*img*/1, /*discription*/"「第7回シンデレラガール総選挙」が始まりました !\n「第7回シンデレラガール総選挙」は、\nソーシャルゲーム「アイドルマスター シンデレラガールズ」\nとの合同開催となります。※得票数は各アプリの合算となります");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90601, /*img*/2, /*discription*/"ログインボーナスや期間限定ミッション、\n総選挙応援セットなどで投票券を入手して、\nお気に入りのアイドルに投票しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90601, /*img*/3, /*discription*/"全体順位上位5名のアイドルは、本アプリ内のイベントに登場 !\nさらに、イベント時の衣装を、3DLIVEで着用可能になります !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90601, /*img*/3, /*discription*/"※報酬として獲得できるアイドルは、5名の中から選ばれます\n※衣装は「全体順位上位5名のアイドル」が着用可能となり、\n専用イベント内で条件を満たすことで獲得できます。");
