@@ -18,3 +18,4 @@ INSERT INTO `caravan_main_idol` VALUES (/*event_id*/2016, /*main_idol*/200455);
 INSERT INTO `caravan_main_idol` VALUES (/*event_id*/2017, /*main_idol*/300451);
 INSERT INTO `caravan_main_idol` VALUES (/*event_id*/2018, /*main_idol*/100473);
 INSERT INTO `caravan_main_idol` VALUES (/*event_id*/2019, /*main_idol*/200497);
+INSERT INTO `caravan_main_idol` VALUES (/*event_id*/2020, /*main_idol*/100521);
