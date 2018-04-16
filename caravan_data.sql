@@ -1,4 +1,4 @@
-CREATE TABLE 'caravan_data' ('event_id' INTEGER NOT NULL, 'date' TEXT NOT NULL, 'date_order' INTEGER NOT NULL, 'bonus_type' INTEGER NOT NULL, 'disp' INTEGER NOT NULL)
+CREATE TABLE 'caravan_data' ('event_id' INTEGER NOT NULL, 'date' TEXT NOT NULL, 'date_order' INTEGER NOT NULL, 'bonus_type' INTEGER NOT NULL, 'disp' INTEGER NOT NULL);
 INSERT INTO `caravan_data` VALUES (/*event_id*/2001, /*date*/"2015/10/09", /*date_order*/1, /*bonus_type*/1, /*disp*/1);
 INSERT INTO `caravan_data` VALUES (/*event_id*/2001, /*date*/"2015/10/10", /*date_order*/2, /*bonus_type*/2, /*disp*/1);
 INSERT INTO `caravan_data` VALUES (/*event_id*/2001, /*date*/"2015/10/11", /*date_order*/3, /*bonus_type*/3, /*disp*/1);

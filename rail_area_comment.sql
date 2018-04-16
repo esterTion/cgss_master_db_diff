@@ -1,4 +1,4 @@
-CREATE TABLE 'rail_area_comment' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'group_id' INTEGER NOT NULL, 'rap_id' INTEGER NOT NULL, 'comment_id' INTEGER NOT NULL, 'use_type' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'insert_word_type' INTEGER NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'rail_area_comment' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'group_id' INTEGER NOT NULL, 'rap_id' INTEGER NOT NULL, 'comment_id' INTEGER NOT NULL, 'use_type' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'insert_word_type' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `rail_area_comment` VALUES (/*id*/1, /*event_id*/6002, /*group_id*/1, /*rap_id*/1, /*comment_id*/30001, /*use_type*/1, /*description*/"さぁ、まずは小手調べですよっ !", /*insert_word_type*/0);
 INSERT INTO `rail_area_comment` VALUES (/*id*/2, /*event_id*/6002, /*group_id*/1, /*rap_id*/2, /*comment_id*/30001, /*use_type*/1, /*description*/"わたしからの課題は、これですっ !", /*insert_word_type*/0);
 INSERT INTO `rail_area_comment` VALUES (/*id*/3, /*event_id*/6002, /*group_id*/1, /*rap_id*/3, /*comment_id*/30002, /*use_type*/1, /*description*/"妹よりは、厳しめにいきますよ !", /*insert_word_type*/0);

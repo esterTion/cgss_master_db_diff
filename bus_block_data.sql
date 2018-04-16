@@ -1,4 +1,4 @@
-CREATE TABLE 'bus_block_data' ('id' INTEGER NOT NULL, 'area_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'bus_block_data' ('id' INTEGER NOT NULL, 'area_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `bus_block_data` VALUES (/*id*/1, /*area_id*/1, /*name*/"北海道");
 INSERT INTO `bus_block_data` VALUES (/*id*/2, /*area_id*/1, /*name*/"青森県");
 INSERT INTO `bus_block_data` VALUES (/*id*/3, /*area_id*/1, /*name*/"岩手県");

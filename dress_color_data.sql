@@ -1,4 +1,4 @@
-CREATE TABLE 'dress_color_data' ('chara_id' INTEGER NOT NULL, 'dress_id' INTEGER NOT NULL, 'model_type' INTEGER NOT NULL, 'color_id' INTEGER NOT NULL, UNIQUE('chara_id','model_type','dress_id'))
+CREATE TABLE 'dress_color_data' ('chara_id' INTEGER NOT NULL, 'dress_id' INTEGER NOT NULL, 'model_type' INTEGER NOT NULL, 'color_id' INTEGER NOT NULL, UNIQUE('chara_id','model_type','dress_id'));
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/101, /*dress_id*/4, /*model_type*/1, /*color_id*/1);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/104, /*dress_id*/4, /*model_type*/1, /*color_id*/1);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/117, /*dress_id*/4, /*model_type*/1, /*color_id*/1);

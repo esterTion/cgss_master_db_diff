@@ -1,4 +1,4 @@
-CREATE TABLE 'potential_value_vo' ('potential_level' INTEGER NOT NULL, 'value_rare_1' INTEGER NOT NULL, 'value_rare_3' INTEGER NOT NULL, 'value_rare_5' INTEGER NOT NULL, 'value_rare_7' INTEGER NOT NULL, PRIMARY KEY('potential_level'))
+CREATE TABLE 'potential_value_vo' ('potential_level' INTEGER NOT NULL, 'value_rare_1' INTEGER NOT NULL, 'value_rare_3' INTEGER NOT NULL, 'value_rare_5' INTEGER NOT NULL, 'value_rare_7' INTEGER NOT NULL, PRIMARY KEY('potential_level'));
 INSERT INTO `potential_value_vo` VALUES (/*potential_level*/1, /*value_rare_1*/80, /*value_rare_3*/60, /*value_rare_5*/60, /*value_rare_7*/40);
 INSERT INTO `potential_value_vo` VALUES (/*potential_level*/2, /*value_rare_1*/160, /*value_rare_3*/120, /*value_rare_5*/120, /*value_rare_7*/80);
 INSERT INTO `potential_value_vo` VALUES (/*potential_level*/3, /*value_rare_1*/250, /*value_rare_3*/180, /*value_rare_5*/180, /*value_rare_7*/120);

@@ -1,4 +1,4 @@
-CREATE TABLE 'individual_tutorial' ('id' INTEGER NOT NULL, 'img' INTEGER NOT NULL, 'discription' TEXT NOT NULL)
+CREATE TABLE 'individual_tutorial' ('id' INTEGER NOT NULL, 'img' INTEGER NOT NULL, 'discription' TEXT NOT NULL);
 INSERT INTO `individual_tutorial` VALUES (/*id*/10001, /*img*/1, /*discription*/"ガシャを引くことでアイドルが新しく加入します。\nガシャには「プラチナオーディションガシャ」と\n「ローカルオーディションガシャ」の2種類があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10001, /*img*/1, /*discription*/"プラチナオーディションガシャはスタージュエルを消費して、\nレア以上の強力なアイドルを獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10001, /*img*/2, /*discription*/"ガシャでSSレアアイドルを獲得すると、\nルームで使用できるアイドルのポスターが\nプレゼントに送られます。");

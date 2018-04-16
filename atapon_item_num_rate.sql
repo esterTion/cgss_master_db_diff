@@ -1,4 +1,4 @@
-CREATE TABLE 'atapon_item_num_rate' ('cost_stamina' INTEGER NOT NULL, 'event_item_num' INTEGER NOT NULL, PRIMARY KEY('cost_stamina'))
+CREATE TABLE 'atapon_item_num_rate' ('cost_stamina' INTEGER NOT NULL, 'event_item_num' INTEGER NOT NULL, PRIMARY KEY('cost_stamina'));
 INSERT INTO `atapon_item_num_rate` VALUES (/*cost_stamina*/10, /*event_item_num*/25);
 INSERT INTO `atapon_item_num_rate` VALUES (/*cost_stamina*/11, /*event_item_num*/28);
 INSERT INTO `atapon_item_num_rate` VALUES (/*cost_stamina*/12, /*event_item_num*/31);

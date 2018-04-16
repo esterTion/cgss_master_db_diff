@@ -1,4 +1,4 @@
-CREATE TABLE 'memorial_story_open' ('chapter' INTEGER NOT NULL, 'open_fan_num' INTEGER NOT NULL, PRIMARY KEY('chapter'))
+CREATE TABLE 'memorial_story_open' ('chapter' INTEGER NOT NULL, 'open_fan_num' INTEGER NOT NULL, PRIMARY KEY('chapter'));
 INSERT INTO `memorial_story_open` VALUES (/*chapter*/1, /*open_fan_num*/0);
 INSERT INTO `memorial_story_open` VALUES (/*chapter*/2, /*open_fan_num*/2000);
 INSERT INTO `memorial_story_open` VALUES (/*chapter*/3, /*open_fan_num*/10000);

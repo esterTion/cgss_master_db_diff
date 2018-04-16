@@ -1,4 +1,4 @@
-CREATE TABLE 'room_item_category' ('id' INTEGER NOT NULL, 'category_name' TEXT NOT NULL, 'name' TEXT NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'room_item_category' ('id' INTEGER NOT NULL, 'category_name' TEXT NOT NULL, 'name' TEXT NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `room_item_category` VALUES (/*id*/101, /*category_name*/"家具", /*name*/"机");
 INSERT INTO `room_item_category` VALUES (/*id*/102, /*category_name*/"家具", /*name*/"椅子");
 INSERT INTO `room_item_category` VALUES (/*id*/103, /*category_name*/"家具", /*name*/"収納");

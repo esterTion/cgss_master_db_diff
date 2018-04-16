@@ -1,4 +1,4 @@
-CREATE TABLE 'live_notes_number' ('live_id' INTEGER NOT NULL, 'difficulty' INTEGER NOT NULL, 'notes_number' INTEGER NOT NULL, PRIMARY KEY('live_id','difficulty'))
+CREATE TABLE 'live_notes_number' ('live_id' INTEGER NOT NULL, 'difficulty' INTEGER NOT NULL, 'notes_number' INTEGER NOT NULL, PRIMARY KEY('live_id','difficulty'));
 INSERT INTO `live_notes_number` VALUES (/*live_id*/0, /*difficulty*/1, /*notes_number*/8);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/0, /*difficulty*/11, /*notes_number*/4);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/0, /*difficulty*/12, /*notes_number*/4);

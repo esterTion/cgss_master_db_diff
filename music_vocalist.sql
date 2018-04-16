@@ -1,4 +1,4 @@
-CREATE TABLE 'music_vocalist' ('music_data_id' INTEGER NOT NULL, 'chara_id' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('music_data_id','chara_id'))
+CREATE TABLE 'music_vocalist' ('music_data_id' INTEGER NOT NULL, 'chara_id' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('music_data_id','chara_id'));
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/1001, /*chara_id*/101, /*disp_order*/101);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/1001, /*chara_id*/111, /*disp_order*/111);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/1001, /*chara_id*/108, /*disp_order*/108);

@@ -1,4 +1,4 @@
-CREATE TABLE 'medley_live_exclude' ('event_id' INTEGER NOT NULL, 'live_id' INTEGER NOT NULL, PRIMARY KEY('event_id','live_id'))
+CREATE TABLE 'medley_live_exclude' ('event_id' INTEGER NOT NULL, 'live_id' INTEGER NOT NULL, PRIMARY KEY('event_id','live_id'));
 INSERT INTO `medley_live_exclude` VALUES (/*event_id*/3020, /*live_id*/353);
 INSERT INTO `medley_live_exclude` VALUES (/*event_id*/3020, /*live_id*/354);
 INSERT INTO `medley_live_exclude` VALUES (/*event_id*/3020, /*live_id*/355);

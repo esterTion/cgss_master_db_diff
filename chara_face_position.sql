@@ -1,4 +1,4 @@
-CREATE TABLE 'chara_face_position' ('chara_id' INTEGER NOT NULL, 'pose' INTEGER NOT NULL, 'position_x' INTEGER NOT NULL, 'position_y' INTEGER NOT NULL, PRIMARY KEY('chara_id','pose'))
+CREATE TABLE 'chara_face_position' ('chara_id' INTEGER NOT NULL, 'pose' INTEGER NOT NULL, 'position_x' INTEGER NOT NULL, 'position_y' INTEGER NOT NULL, PRIMARY KEY('chara_id','pose'));
 INSERT INTO `chara_face_position` VALUES (/*chara_id*/2, /*pose*/0, /*position_x*/7, /*position_y*/308);
 INSERT INTO `chara_face_position` VALUES (/*chara_id*/2, /*pose*/98, /*position_x*/7, /*position_y*/308);
 INSERT INTO `chara_face_position` VALUES (/*chara_id*/2, /*pose*/99, /*position_x*/7, /*position_y*/308);

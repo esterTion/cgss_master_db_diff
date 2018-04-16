@@ -1,4 +1,4 @@
-CREATE TABLE 'mille_feuille_card_comment' ('id' INTEGER NOT NULL, 'comment_id' INTEGER NOT NULL, 'use_type' INTEGER NOT NULL, 'index' INTEGER NOT NULL, 'voice_flag' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'insert_word_type' INTEGER NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'mille_feuille_card_comment' ('id' INTEGER NOT NULL, 'comment_id' INTEGER NOT NULL, 'use_type' INTEGER NOT NULL, 'index' INTEGER NOT NULL, 'voice_flag' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'insert_word_type' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `mille_feuille_card_comment` VALUES (/*id*/1, /*comment_id*/900015, /*use_type*/1, /*index*/1, /*voice_flag*/1, /*description*/"ハピネシウム集めにしゅっぱーつ ! グラッシー帝国に気をつけるにぃ !", /*insert_word_type*/0);
 INSERT INTO `mille_feuille_card_comment` VALUES (/*id*/2, /*comment_id*/900015, /*use_type*/1, /*index*/2, /*voice_flag*/1, /*description*/"3大幹部…手強い相手だにぃ。でも、きらりたちならきっと大丈夫 !", /*insert_word_type*/0);
 INSERT INTO `mille_feuille_card_comment` VALUES (/*id*/3, /*comment_id*/900017, /*use_type*/1, /*index*/1, /*voice_flag*/1, /*description*/"みんなの帰る場所を…取り戻して、くれ…ガクッ…zzz……", /*insert_word_type*/0);

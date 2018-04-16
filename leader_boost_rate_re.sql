@@ -1,4 +1,4 @@
-CREATE TABLE 'leader_boost_rate_re' ('id' INTEGER NOT NULL, 'term_id' INTEGER NOT NULL, 'life_max' INTEGER NOT NULL, 'life_min' INTEGER NOT NULL, 'boost_rate' INTEGER NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'leader_boost_rate_re' ('id' INTEGER NOT NULL, 'term_id' INTEGER NOT NULL, 'life_max' INTEGER NOT NULL, 'life_min' INTEGER NOT NULL, 'boost_rate' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `leader_boost_rate_re` VALUES (/*id*/1, /*term_id*/7, /*life_max*/25, /*life_min*/0, /*boost_rate*/1600);
 INSERT INTO `leader_boost_rate_re` VALUES (/*id*/2, /*term_id*/7, /*life_max*/35, /*life_min*/26, /*boost_rate*/1800);
 INSERT INTO `leader_boost_rate_re` VALUES (/*id*/3, /*term_id*/7, /*life_max*/43, /*life_min*/36, /*boost_rate*/2200);

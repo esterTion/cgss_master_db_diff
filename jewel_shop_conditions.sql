@@ -1,4 +1,4 @@
-CREATE TABLE 'jewel_shop_conditions' ('id' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'jewel_shop_conditions' ('id' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `jewel_shop_conditions` VALUES (/*id*/0, /*description*/" ");
 INSERT INTO `jewel_shop_conditions` VALUES (/*id*/1, /*description*/"マニー");
 INSERT INTO `jewel_shop_conditions` VALUES (/*id*/2, /*description*/"友情Pt");

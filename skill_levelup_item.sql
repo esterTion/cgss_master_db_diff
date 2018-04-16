@@ -1,4 +1,4 @@
-CREATE TABLE 'skill_levelup_item' ('diff_rarity' INTEGER NOT NULL, 'skill_up_value' INTEGER NOT NULL, PRIMARY KEY('diff_rarity'))
+CREATE TABLE 'skill_levelup_item' ('diff_rarity' INTEGER NOT NULL, 'skill_up_value' INTEGER NOT NULL, PRIMARY KEY('diff_rarity'));
 INSERT INTO `skill_levelup_item` VALUES (/*diff_rarity*/2, /*skill_up_value*/5000);
 INSERT INTO `skill_levelup_item` VALUES (/*diff_rarity*/4, /*skill_up_value*/25000);
 INSERT INTO `skill_levelup_item` VALUES (/*diff_rarity*/6, /*skill_up_value*/40000);

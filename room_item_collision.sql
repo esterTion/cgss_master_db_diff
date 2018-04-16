@@ -1,4 +1,4 @@
-CREATE TABLE 'room_item_collision' ('raw' TEXT NOT NULL)
+CREATE TABLE 'room_item_collision' ('raw' TEXT NOT NULL);
 INSERT INTO `room_item_collision` VALUES (/*raw*/"id,count,point_1_x,point_1_y,point_2_x,point_2_y,point_3_x,point_3_y,point_4_x,point_4_y,point_5_x,point_5_y,point_6_x,point_6_y
 1,7,-31.3200,109.2800,-11.6800,167.7200,33.6400,161.6800,30.3400,30.1300,-15.4200,8.5500,-78.0500,40.4400,-77.7200,83.6800
 2,6,-50.8900,120.1400,34.3500,112.9100,28.5900,29.6700,-15.8900,9.2900,-77.4700,40.1200,-79.5400,82.5800

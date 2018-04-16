@@ -1,4 +1,4 @@
-CREATE TABLE 'mv_list_performer' ('id' INTEGER NOT NULL, 'stage_id' INTEGER NOT NULL, 'chara_id' INTEGER NOT NULL, 'play_start' INTEGER NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'mv_list_performer' ('id' INTEGER NOT NULL, 'stage_id' INTEGER NOT NULL, 'chara_id' INTEGER NOT NULL, 'play_start' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `mv_list_performer` VALUES (/*id*/1, /*stage_id*/1, /*chara_id*/101, /*play_start*/1);
 INSERT INTO `mv_list_performer` VALUES (/*id*/2, /*stage_id*/1, /*chara_id*/167, /*play_start*/1);
 INSERT INTO `mv_list_performer` VALUES (/*id*/3, /*stage_id*/1, /*chara_id*/234, /*play_start*/1);

@@ -1,4 +1,4 @@
-CREATE TABLE 'rail_circle_data' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'area_id' INTEGER NOT NULL, 'circle_id' INTEGER NOT NULL, 'circle_type' INTEGER NOT NULL, 'bonus_type' INTEGER NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'rail_circle_data' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'area_id' INTEGER NOT NULL, 'circle_id' INTEGER NOT NULL, 'circle_type' INTEGER NOT NULL, 'bonus_type' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `rail_circle_data` VALUES (/*id*/1, /*event_id*/6002, /*area_id*/1, /*circle_id*/0, /*circle_type*/1, /*bonus_type*/1);
 INSERT INTO `rail_circle_data` VALUES (/*id*/2, /*event_id*/6002, /*area_id*/1, /*circle_id*/1, /*circle_type*/0, /*bonus_type*/1);
 INSERT INTO `rail_circle_data` VALUES (/*id*/3, /*event_id*/6002, /*area_id*/1, /*circle_id*/2, /*circle_type*/0, /*bonus_type*/0);

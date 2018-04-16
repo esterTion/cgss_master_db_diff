@@ -1,4 +1,4 @@
-CREATE TABLE 'card_grow' ('id' INTEGER NOT NULL, 'rarity' INTEGER NOT NULL, 'grow_type' INTEGER NOT NULL, 'level' INTEGER NOT NULL, 'grow' INTEGER NOT NULL, 'total_grow' INTEGER NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'card_grow' ('id' INTEGER NOT NULL, 'rarity' INTEGER NOT NULL, 'grow_type' INTEGER NOT NULL, 'level' INTEGER NOT NULL, 'grow' INTEGER NOT NULL, 'total_grow' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `card_grow` VALUES (/*id*/1, /*rarity*/1, /*grow_type*/1, /*level*/1, /*grow*/0, /*total_grow*/0);
 INSERT INTO `card_grow` VALUES (/*id*/2, /*rarity*/1, /*grow_type*/1, /*level*/2, /*grow*/600, /*total_grow*/600);
 INSERT INTO `card_grow` VALUES (/*id*/3, /*rarity*/1, /*grow_type*/1, /*level*/3, /*grow*/600, /*total_grow*/1200);

@@ -1,4 +1,4 @@
-CREATE TABLE 'cyalume_color' ('raw' TEXT NOT NULL)
+CREATE TABLE 'cyalume_color' ('raw' TEXT NOT NULL);
 INSERT INTO `cyalume_color` VALUES (/*raw*/"Name,InColorR,InColorG,InColorB,OutColorR,OutColorG,OutColorB
 Pink01,254,228,253,252,81,248
 Blue01,5,247,249,38,107,255

@@ -1,4 +1,4 @@
-CREATE TABLE 'index_leader_skill_data' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'skill_id' TEXT NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'index_leader_skill_data' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'skill_id' TEXT NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/1, /*name*/"ボーカル\nアップ", /*skill_id*/"1,6,11,16,24,29,34,39,47,52,57,62");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/2, /*name*/"ダンス\nアップ", /*skill_id*/"2,7,12,17,25,30,35,40,48,53,58,63");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/3, /*name*/"ビジュアル\nアップ", /*skill_id*/"3,8,13,18,26,31,36,41,49,54,59,64");

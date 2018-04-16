@@ -1,4 +1,4 @@
-CREATE TABLE 'caravan_main_idol' ('event_id' INTEGER NOT NULL, 'main_idol' INTEGER NOT NULL)
+CREATE TABLE 'caravan_main_idol' ('event_id' INTEGER NOT NULL, 'main_idol' INTEGER NOT NULL);
 INSERT INTO `caravan_main_idol` VALUES (/*event_id*/2001, /*main_idol*/300091);
 INSERT INTO `caravan_main_idol` VALUES (/*event_id*/2002, /*main_idol*/200063);
 INSERT INTO `caravan_main_idol` VALUES (/*event_id*/2003, /*main_idol*/200139);

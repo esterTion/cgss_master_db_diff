@@ -1,4 +1,4 @@
-CREATE TABLE 'quality_android' ('raw' TEXT NOT NULL)
+CREATE TABLE 'quality_android' ('raw' TEXT NOT NULL);
 INSERT INTO `quality_android` VALUES (/*raw*/"gpu,name,level
 Adreno,Adreno (TM) 2,0
 Adreno,Adreno (TM) 3,2

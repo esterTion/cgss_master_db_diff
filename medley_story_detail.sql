@@ -1,4 +1,4 @@
-CREATE TABLE 'medley_story_detail' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'open_event_point' INTEGER NOT NULL, 'next_detail_id' INTEGER NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'medley_story_detail' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'open_event_point' INTEGER NOT NULL, 'next_detail_id' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `medley_story_detail` VALUES (/*id*/1301, /*event_id*/3003, /*type*/1, /*open_event_point*/0, /*next_detail_id*/0);
 INSERT INTO `medley_story_detail` VALUES (/*id*/1302, /*event_id*/3003, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
 INSERT INTO `medley_story_detail` VALUES (/*id*/1303, /*event_id*/3003, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);

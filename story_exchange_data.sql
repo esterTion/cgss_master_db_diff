@@ -1,4 +1,4 @@
-CREATE TABLE 'story_exchange_data' ('id' INTEGER NOT NULL, 'story_detail_id' INTEGER NOT NULL, 'cost_type' INTEGER NOT NULL, 'cost_id' INTEGER NOT NULL, 'cost_value' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('story_detail_id'))
+CREATE TABLE 'story_exchange_data' ('id' INTEGER NOT NULL, 'story_detail_id' INTEGER NOT NULL, 'cost_type' INTEGER NOT NULL, 'cost_id' INTEGER NOT NULL, 'cost_value' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('story_detail_id'));
 INSERT INTO `story_exchange_data` VALUES (/*id*/1, /*story_detail_id*/797, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/3, /*start_date*/"2016-05-31 15:00:00", /*end_date*/"");
 INSERT INTO `story_exchange_data` VALUES (/*id*/2, /*story_detail_id*/798, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/3, /*start_date*/"2016-05-31 15:00:00", /*end_date*/"");
 INSERT INTO `story_exchange_data` VALUES (/*id*/3, /*story_detail_id*/799, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/3, /*start_date*/"2016-05-31 15:00:00", /*end_date*/"");

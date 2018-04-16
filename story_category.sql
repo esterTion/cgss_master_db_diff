@@ -1,4 +1,4 @@
-CREATE TABLE 'story_category' ('id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'chara_type' INTEGER NOT NULL, 'chara_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('id'), UNIQUE('type','disp_order'))
+CREATE TABLE 'story_category' ('id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'chara_type' INTEGER NOT NULL, 'chara_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'disp_order' INTEGER NOT NULL, PRIMARY KEY('id'), UNIQUE('type','disp_order'));
 INSERT INTO `story_category` VALUES (/*id*/1, /*type*/2, /*chara_type*/1, /*chara_id*/101, /*title*/"島村卯月", /*sub_title*/"", /*disp_order*/1);
 INSERT INTO `story_category` VALUES (/*id*/2, /*type*/2, /*chara_type*/1, /*chara_id*/102, /*title*/"中野有香", /*sub_title*/"", /*disp_order*/2);
 INSERT INTO `story_category` VALUES (/*id*/3, /*type*/2, /*chara_type*/1, /*chara_id*/103, /*title*/"水本ゆかり", /*sub_title*/"", /*disp_order*/3);

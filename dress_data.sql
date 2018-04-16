@@ -1,4 +1,4 @@
-CREATE TABLE 'dress_data' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'description' TEXT NOT NULL, 'open_type' INTEGER NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'dress_data' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'description' TEXT NOT NULL, 'open_type' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `dress_data` VALUES (/*id*/1, /*name*/"スターリースカイ・ブライト", /*description*/"", /*open_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/2, /*name*/"アクロス・ザ・スターズ", /*description*/"", /*open_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/3, /*name*/"パーティータイム・ゴールド", /*description*/"360度、光の海を泳ぐ少女たちのドレス。\nアクティブなパンツスタイルの衣装は\nアガるダンスフロアの主役にふさわしい。", /*open_type*/2);

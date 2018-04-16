@@ -1,4 +1,4 @@
-CREATE TABLE 'card_location' ('index' INTEGER NOT NULL, 'text' TEXT NOT NULL, PRIMARY KEY('index'))
+CREATE TABLE 'card_location' ('index' INTEGER NOT NULL, 'text' TEXT NOT NULL, PRIMARY KEY('index'));
 INSERT INTO `card_location` VALUES (/*index*/1, /*text*/"事務所");
 INSERT INTO `card_location` VALUES (/*index*/2, /*text*/"楽屋");
 INSERT INTO `card_location` VALUES (/*index*/4, /*text*/"LIVEステージ");

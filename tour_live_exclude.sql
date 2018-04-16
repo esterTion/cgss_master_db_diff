@@ -1,4 +1,4 @@
-CREATE TABLE 'tour_live_exclude' ('event_id' INTEGER NOT NULL, 'live_id' INTEGER NOT NULL, PRIMARY KEY('event_id','live_id'))
+CREATE TABLE 'tour_live_exclude' ('event_id' INTEGER NOT NULL, 'live_id' INTEGER NOT NULL, PRIMARY KEY('event_id','live_id'));
 INSERT INTO `tour_live_exclude` VALUES (/*event_id*/5010, /*live_id*/357);
 INSERT INTO `tour_live_exclude` VALUES (/*event_id*/5010, /*live_id*/356);
 INSERT INTO `tour_live_exclude` VALUES (/*event_id*/5010, /*live_id*/355);

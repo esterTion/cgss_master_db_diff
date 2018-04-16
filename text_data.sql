@@ -1,4 +1,4 @@
-CREATE TABLE 'text_data' ('category' INTEGER NOT NULL, 'index' INTEGER NOT NULL, 'text' TEXT NOT NULL, PRIMARY KEY('category','index'))
+CREATE TABLE 'text_data' ('category' INTEGER NOT NULL, 'index' INTEGER NOT NULL, 'text' TEXT NOT NULL, PRIMARY KEY('category','index'));
 INSERT INTO `text_data` VALUES (/*category*/1, /*index*/1, /*text*/"事務所");
 INSERT INTO `text_data` VALUES (/*category*/1, /*index*/2, /*text*/"楽屋");
 INSERT INTO `text_data` VALUES (/*category*/1, /*index*/3, /*text*/"事務所");

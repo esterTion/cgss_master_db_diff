@@ -1,4 +1,4 @@
-CREATE TABLE 'gallery_stage_list' ('id' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, 'disp_name' TEXT NOT NULL, 'bg_id' INTEGER NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'gallery_stage_list' ('id' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, 'disp_name' TEXT NOT NULL, 'bg_id' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `gallery_stage_list` VALUES (/*id*/1, /*disp_order*/1, /*disp_name*/"ステージ シンデレラ", /*bg_id*/4001);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/2, /*disp_order*/2, /*disp_name*/"ステージ キュート", /*bg_id*/1001);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/3, /*disp_order*/3, /*disp_name*/"ステージ クール", /*bg_id*/2001);

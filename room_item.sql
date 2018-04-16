@@ -1,4 +1,4 @@
-CREATE TABLE 'room_item' ('raw' TEXT NOT NULL)
+CREATE TABLE 'room_item' ('raw' TEXT NOT NULL);
 INSERT INTO `room_item` VALUES (/*raw*/"id,type,category,name,tile_size_h,tile_size_w,grid_id,flag_shop,shop_start,shop_end,cost_reward_type,cost_item_id,cost_item_num,shop_open_type,shop_open_id,shop_open_value,max_lv,flag_button_remove,flag_random_anime,flag_button_reverse,max_possession_num,effect_id_1,effect_id_2,effect_id_3,bg_1,bg_animation_1,bg_2,bg_animation_2,bg_3,bg_animation_3,hide_building,flag_new,reward_type,reward_id,reward_value,personality_anime_0,personality_anime_1,personality_anime_2,personality_anime_3,personality_anime_4,personality_anime_5,sort,sold_plice,image_group,change_id,change_start,change_end,cardcomment_id,cardcomment_num,cardcomment_play_num,RandomParam,FuncFlg
 1,1,101,\"ちひろデスク\",3,2,0,0,\"\",\"\",0,0,0,0,0,0,10,0,0,1,1,43,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,990002,0,1,90016,\"2018/02/20 15:00:00\",\"2018/03/03 23:59:59\",-1,0,0,0,0
 2,1,101,\"プロデューサーデスク\",3,2,0,0,\"\",\"\",0,0,0,0,0,0,10,0,0,0,1,44,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,1,1,1,1,990001,0,1,90017,\"2018/02/20 15:00:00\",\"2018/03/03 23:59:59\",-1,0,0,0,0

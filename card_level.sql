@@ -1,4 +1,4 @@
-CREATE TABLE 'card_level' ('level' INTEGER NOT NULL, 'rare_1_exp' INTEGER NOT NULL, 'rare_3_exp' INTEGER NOT NULL, 'rare_5_exp' INTEGER NOT NULL, 'rare_7_exp' INTEGER NOT NULL, PRIMARY KEY('level'))
+CREATE TABLE 'card_level' ('level' INTEGER NOT NULL, 'rare_1_exp' INTEGER NOT NULL, 'rare_3_exp' INTEGER NOT NULL, 'rare_5_exp' INTEGER NOT NULL, 'rare_7_exp' INTEGER NOT NULL, PRIMARY KEY('level'));
 INSERT INTO `card_level` VALUES (/*level*/1, /*rare_1_exp*/0, /*rare_3_exp*/0, /*rare_5_exp*/0, /*rare_7_exp*/0);
 INSERT INTO `card_level` VALUES (/*level*/2, /*rare_1_exp*/50, /*rare_3_exp*/70, /*rare_5_exp*/100, /*rare_7_exp*/200);
 INSERT INTO `card_level` VALUES (/*level*/3, /*rare_1_exp*/105, /*rare_3_exp*/180, /*rare_5_exp*/240, /*rare_7_exp*/450);

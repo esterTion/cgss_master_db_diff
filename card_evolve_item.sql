@@ -1,4 +1,4 @@
-CREATE TABLE 'card_evolve_item' ('evolve_type' INTEGER NOT NULL, 'evolve_item_1' INTEGER NOT NULL, 'item_num_1' INTEGER NOT NULL, 'evolve_item_2' INTEGER NOT NULL, 'item_num_2' INTEGER NOT NULL, 'evolve_item_3' INTEGER NOT NULL, 'item_num_3' INTEGER NOT NULL, PRIMARY KEY('evolve_type'))
+CREATE TABLE 'card_evolve_item' ('evolve_type' INTEGER NOT NULL, 'evolve_item_1' INTEGER NOT NULL, 'item_num_1' INTEGER NOT NULL, 'evolve_item_2' INTEGER NOT NULL, 'item_num_2' INTEGER NOT NULL, 'evolve_item_3' INTEGER NOT NULL, 'item_num_3' INTEGER NOT NULL, PRIMARY KEY('evolve_type'));
 INSERT INTO `card_evolve_item` VALUES (/*evolve_type*/1, /*evolve_item_1*/10001, /*item_num_1*/1, /*evolve_item_2*/10031, /*item_num_2*/5, /*evolve_item_3*/0, /*item_num_3*/0);
 INSERT INTO `card_evolve_item` VALUES (/*evolve_type*/2, /*evolve_item_1*/10011, /*item_num_1*/1, /*evolve_item_2*/10031, /*item_num_2*/5, /*evolve_item_3*/0, /*item_num_3*/0);
 INSERT INTO `card_evolve_item` VALUES (/*evolve_type*/3, /*evolve_item_1*/10021, /*item_num_1*/1, /*evolve_item_2*/10031, /*item_num_2*/5, /*evolve_item_3*/0, /*item_num_3*/0);

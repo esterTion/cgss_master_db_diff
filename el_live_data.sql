@@ -1,4 +1,4 @@
-CREATE TABLE 'el_live_data' ('live_data_id' INTEGER NOT NULL, 'department' INTEGER NOT NULL, PRIMARY KEY('live_data_id'))
+CREATE TABLE 'el_live_data' ('live_data_id' INTEGER NOT NULL, 'department' INTEGER NOT NULL, PRIMARY KEY('live_data_id'));
 INSERT INTO `el_live_data` VALUES (/*live_data_id*/1, /*department*/2);
 INSERT INTO `el_live_data` VALUES (/*live_data_id*/2, /*department*/2);
 INSERT INTO `el_live_data` VALUES (/*live_data_id*/3, /*department*/2);

@@ -1,4 +1,4 @@
-CREATE TABLE 'namecard_bg' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'discription' TEXT NOT NULL, 'sort' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'namecard_bg' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'discription' TEXT NOT NULL, 'sort' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `namecard_bg` VALUES (/*id*/1001, /*name*/"シンプル", /*discription*/"シンプル", /*sort*/1001, /*start_date*/"2015-01-01 15:00:00", /*end_date*/"2029-04-01 15:00:00");
 INSERT INTO `namecard_bg` VALUES (/*id*/1002, /*name*/"ペガサスA", /*discription*/"ペガサスA", /*sort*/1002, /*start_date*/"2015-01-01 15:00:00", /*end_date*/"2029-04-01 15:00:00");
 INSERT INTO `namecard_bg` VALUES (/*id*/1003, /*name*/"ペガサスB", /*discription*/"ペガサスB", /*sort*/1003, /*start_date*/"2015-01-01 15:00:00", /*end_date*/"2029-04-01 15:00:00");

@@ -1,4 +1,4 @@
-CREATE TABLE 'stamp_data' ('id' INTEGER NOT NULL, 'discription' TEXT NOT NULL, 'use_type' INTEGER NOT NULL, 'category' INTEGER NOT NULL, 'setting_type' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'stamp_data' ('id' INTEGER NOT NULL, 'discription' TEXT NOT NULL, 'use_type' INTEGER NOT NULL, 'category' INTEGER NOT NULL, 'setting_type' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `stamp_data` VALUES (/*id*/1, /*discription*/"がんばります！", /*use_type*/1, /*category*/1, /*setting_type*/1, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2019-04-01 15:00:00");
 INSERT INTO `stamp_data` VALUES (/*id*/2, /*discription*/"全力で行くよ", /*use_type*/1, /*category*/1, /*setting_type*/1, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2019-04-01 15:00:00");
 INSERT INTO `stamp_data` VALUES (/*id*/3, /*discription*/"ファイト！", /*use_type*/1, /*category*/1, /*setting_type*/1, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2019-04-01 15:00:00");

@@ -1,4 +1,4 @@
-CREATE TABLE 'rail_condition_text' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'use_type' INTEGER NOT NULL, 'condition_type' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'rail_condition_text' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'use_type' INTEGER NOT NULL, 'condition_type' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `rail_condition_text` VALUES (/*id*/1, /*event_id*/6002, /*use_type*/1, /*condition_type*/1, /*description*/"ユニットのスターランク合計値が高いほど、MAP進行数がアップ");
 INSERT INTO `rail_condition_text` VALUES (/*id*/2, /*event_id*/6002, /*use_type*/1, /*condition_type*/2, /*description*/"ユニットのボーカル合計値が高いほど、MAP進行数がアップ");
 INSERT INTO `rail_condition_text` VALUES (/*id*/3, /*event_id*/6002, /*use_type*/1, /*condition_type*/3, /*description*/"ユニットのダンス合計値が高いほど、MAP進行数がアップ");

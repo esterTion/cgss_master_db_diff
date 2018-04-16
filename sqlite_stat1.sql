@@ -1,4 +1,4 @@
-CREATE TABLE sqlite_stat1(tbl,idx,stat)
+CREATE TABLE sqlite_stat1(tbl,idx,stat);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"rail_card_comment", /*idx*/"rail_card_comment_0_event_id", /*stat*/"26 26");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"rail_area", /*idx*/"rail_area_0_event_id", /*stat*/"11 11");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_set_detail00013", /*idx*/"room_set_detail00013_0_set_id", /*stat*/"25 25");

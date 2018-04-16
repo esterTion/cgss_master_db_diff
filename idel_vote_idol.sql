@@ -1,4 +1,4 @@
-CREATE TABLE 'idel_vote_idol' ('id' INTEGER NOT NULL, 'campaign_id' INTEGER NOT NULL, 'card_id' INTEGER NOT NULL, 'use_type' INTEGER NOT NULL, 'index' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'insert_word_type' INTEGER NOT NULL, PRIMARY KEY('card_id'))
+CREATE TABLE 'idel_vote_idol' ('id' INTEGER NOT NULL, 'campaign_id' INTEGER NOT NULL, 'card_id' INTEGER NOT NULL, 'use_type' INTEGER NOT NULL, 'index' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'insert_word_type' INTEGER NOT NULL, PRIMARY KEY('card_id'));
 INSERT INTO `idel_vote_idol` VALUES (/*id*/1, /*campaign_id*/10001, /*card_id*/100001, /*use_type*/0, /*index*/1, /*description*/"{0}プロデューサーさんがくれた力で、\n次は私が魔法をかける番ですねっ。\n輝く想いと最高の笑顔を、みんなに届けます !", /*insert_word_type*/0);
 INSERT INTO `idel_vote_idol` VALUES (/*id*/2, /*campaign_id*/10001, /*card_id*/100003, /*use_type*/0, /*index*/1, /*description*/"真の強さは、信頼の心から生まれます。\n今日も明日も明後日も、{0}さんの存在が\nあたしを成長させてくれるんです !", /*insert_word_type*/0);
 INSERT INTO `idel_vote_idol` VALUES (/*id*/7, /*campaign_id*/10001, /*card_id*/100005, /*use_type*/0, /*index*/1, /*description*/"はい、ぎゅ～っ♪あたたかい応援をくれた\n{0}くんに感謝を込めて、\nウサコちゃんのハグよ。（これからもよろしくウサー♪）", /*insert_word_type*/0);

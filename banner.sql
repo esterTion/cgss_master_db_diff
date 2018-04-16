@@ -1,4 +1,4 @@
-CREATE TABLE 'banner' ('banner_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'img_id' INTEGER NOT NULL, 'transition' INTEGER NOT NULL, 'page_index' INTEGER NOT NULL, 'order_num' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('banner_id'))
+CREATE TABLE 'banner' ('banner_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'img_id' INTEGER NOT NULL, 'transition' INTEGER NOT NULL, 'page_index' INTEGER NOT NULL, 'order_num' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('banner_id'));
 INSERT INTO `banner` VALUES (/*banner_id*/1, /*type*/5, /*img_id*/0, /*transition*/0, /*page_index*/0, /*order_num*/1, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
 INSERT INTO `banner` VALUES (/*banner_id*/2, /*type*/1, /*img_id*/0, /*transition*/0, /*page_index*/0, /*order_num*/2, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2015-09-17 11:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/3, /*type*/6, /*img_id*/0, /*transition*/0, /*page_index*/0, /*order_num*/0, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");

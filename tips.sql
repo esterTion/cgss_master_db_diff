@@ -1,4 +1,4 @@
-CREATE TABLE 'tips' ('id' INTEGER NOT NULL, 'tips_type' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'index' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'comment' TEXT NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'tips' ('id' INTEGER NOT NULL, 'tips_type' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'index' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'comment' TEXT NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `tips` VALUES (/*id*/1, /*tips_type*/1, /*value*/2, /*index*/1, /*title*/"千川ちひろのウワサ①", /*comment*/"制服は夏服・冬服など\n5着あるらしい。");
 INSERT INTO `tips` VALUES (/*id*/2, /*tips_type*/1, /*value*/101, /*index*/1, /*title*/"島村卯月のウワサ①", /*comment*/"クラスメイトの誰もが\n「卯月ちゃんは友だち ! 」\nと言うらしい。");
 INSERT INTO `tips` VALUES (/*id*/3, /*tips_type*/1, /*value*/102, /*index*/1, /*title*/"中野有香のウワサ①", /*comment*/"髪の2本縛りをほどくと\nとても照れるらしい。");

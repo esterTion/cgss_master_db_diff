@@ -1,4 +1,4 @@
-CREATE TABLE 'card_level_table' ('level' INTEGER NOT NULL, 'next_exp' INTEGER NOT NULL, 'exp_total' INTEGER NOT NULL, PRIMARY KEY('level'))
+CREATE TABLE 'card_level_table' ('level' INTEGER NOT NULL, 'next_exp' INTEGER NOT NULL, 'exp_total' INTEGER NOT NULL, PRIMARY KEY('level'));
 INSERT INTO `card_level_table` VALUES (/*level*/1, /*next_exp*/20, /*exp_total*/0);
 INSERT INTO `card_level_table` VALUES (/*level*/2, /*next_exp*/30, /*exp_total*/20);
 INSERT INTO `card_level_table` VALUES (/*level*/3, /*next_exp*/40, /*exp_total*/50);

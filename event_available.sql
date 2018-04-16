@@ -1,4 +1,4 @@
-CREATE TABLE 'event_available' ('event_id' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'recommend_order' INTEGER NOT NULL, UNIQUE('event_id','recommend_order'))
+CREATE TABLE 'event_available' ('event_id' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'recommend_order' INTEGER NOT NULL, UNIQUE('event_id','recommend_order'));
 INSERT INTO `event_available` VALUES (/*event_id*/1001, /*reward_id*/100095, /*recommend_order*/1);
 INSERT INTO `event_available` VALUES (/*event_id*/1001, /*reward_id*/100093, /*recommend_order*/2);
 INSERT INTO `event_available` VALUES (/*event_id*/2001, /*reward_id*/300091, /*recommend_order*/4);

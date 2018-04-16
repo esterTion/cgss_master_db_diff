@@ -1,4 +1,4 @@
-CREATE TABLE 'room_item_extension' ('raw' TEXT NOT NULL)
+CREATE TABLE 'room_item_extension' ('raw' TEXT NOT NULL);
 INSERT INTO `room_item_extension` VALUES (/*raw*/"id,level,special_id,version,effect_name1,effect_name2,effect_name3,value1,value2,value3,value4,value5,value6,value7,value8,value9,value10,value11,value12,value13,value14,value15,effect_name1_is_draw,effect_name2_is_draw,effect_name3_is_draw
 1,0,1001,1,,,,5000,70,\"anime_2000_000_04_0\",\"anime_2000_000_02_0\",\"anime_2000_000_03_0\",,,\"anime_2000_000_01_0\",\"anime_2000_000_02_0\",\"anime_2000_000_03_0\",,,-1,0,0,1,1,1
 3,0,1003,1,,,,,,,,,,,,,,,,,,,1,1,1

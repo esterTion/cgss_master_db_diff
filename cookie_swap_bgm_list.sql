@@ -1,4 +1,4 @@
-CREATE TABLE 'cookie_swap_bgm_list' ('id' INTEGER NOT NULL, 'campaign_id' INTEGER NOT NULL, 'group_id' INTEGER NOT NULL, 'bgm' TEXT NOT NULL, 'sound_length' INTEGER NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'cookie_swap_bgm_list' ('id' INTEGER NOT NULL, 'campaign_id' INTEGER NOT NULL, 'group_id' INTEGER NOT NULL, 'bgm' TEXT NOT NULL, 'sound_length' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `cookie_swap_bgm_list` VALUES (/*id*/1, /*campaign_id*/20001, /*group_id*/1, /*bgm*/"bgm_event_1001", /*sound_length*/94000);
 INSERT INTO `cookie_swap_bgm_list` VALUES (/*id*/2, /*campaign_id*/20001, /*group_id*/1, /*bgm*/"bgm_event_1005", /*sound_length*/131000);
 INSERT INTO `cookie_swap_bgm_list` VALUES (/*id*/3, /*campaign_id*/20001, /*group_id*/1, /*bgm*/"bgm_event_1009", /*sound_length*/94000);

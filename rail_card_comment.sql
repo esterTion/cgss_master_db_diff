@@ -1,4 +1,4 @@
-CREATE TABLE 'rail_card_comment' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'comment_id' INTEGER NOT NULL, 'use_type' INTEGER NOT NULL, 'index' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'insert_word_type' INTEGER NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'rail_card_comment' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'comment_id' INTEGER NOT NULL, 'use_type' INTEGER NOT NULL, 'index' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'insert_word_type' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `rail_card_comment` VALUES (/*id*/1, /*event_id*/6002, /*comment_id*/100529, /*use_type*/0, /*index*/1, /*description*/"事件が私を呼んでいます ! さぁ、急ぎましょう !", /*insert_word_type*/0);
 INSERT INTO `rail_card_comment` VALUES (/*id*/2, /*event_id*/6002, /*comment_id*/100529, /*use_type*/0, /*index*/2, /*description*/"どんな小さな証拠も都の目は見逃しませんよ !", /*insert_word_type*/0);
 INSERT INTO `rail_card_comment` VALUES (/*id*/3, /*event_id*/6002, /*comment_id*/100529, /*use_type*/0, /*index*/3, /*description*/"この先から匂いますね…ええ、謎の匂いです !", /*insert_word_type*/0);

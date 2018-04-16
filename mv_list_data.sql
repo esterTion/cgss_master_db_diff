@@ -1,4 +1,4 @@
-CREATE TABLE 'mv_list_data' ('stage_id' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, 'stage_group_id' INTEGER NOT NULL, 'day' INTEGER NOT NULL, 'name' TEXT NOT NULL, PRIMARY KEY('stage_id'))
+CREATE TABLE 'mv_list_data' ('stage_id' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, 'stage_group_id' INTEGER NOT NULL, 'day' INTEGER NOT NULL, 'name' TEXT NOT NULL, PRIMARY KEY('stage_id'));
 INSERT INTO `mv_list_data` VALUES (/*stage_id*/1, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/1, /*day*/1, /*name*/"1stLIVE WONDERFUL M@GIC!! \n1日目");
 INSERT INTO `mv_list_data` VALUES (/*stage_id*/2, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/1, /*day*/2, /*name*/"1stLIVE WONDERFUL M@GIC!! \n2日目");
 INSERT INTO `mv_list_data` VALUES (/*stage_id*/3, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/2, /*day*/1, /*name*/"2ndLIVE PARTY M@GIC!!");

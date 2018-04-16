@@ -1,4 +1,4 @@
-CREATE TABLE 'index_skill_data' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'skill_id' TEXT NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'index_skill_data' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'skill_id' TEXT NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `index_skill_data` VALUES (/*id*/1, /*name*/"SCORE\nボーナス", /*skill_id*/"1,2");
 INSERT INTO `index_skill_data` VALUES (/*id*/2, /*name*/"COMBO\nボーナス", /*skill_id*/4);
 INSERT INTO `index_skill_data` VALUES (/*id*/3, /*name*/"PERFECT\nサポート", /*skill_id*/"5,6,7");

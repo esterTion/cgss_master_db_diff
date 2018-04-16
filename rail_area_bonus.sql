@@ -1,4 +1,4 @@
-CREATE TABLE 'rail_area_bonus' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'group_id' INTEGER NOT NULL, 'rap_id' INTEGER NOT NULL, 'map_type_1' INTEGER NOT NULL, 'map_value_1' INTEGER NOT NULL, 'map_type_2' INTEGER NOT NULL, 'map_value_2' INTEGER NOT NULL, 'map_bonus' INTEGER NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'rail_area_bonus' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'group_id' INTEGER NOT NULL, 'rap_id' INTEGER NOT NULL, 'map_type_1' INTEGER NOT NULL, 'map_value_1' INTEGER NOT NULL, 'map_type_2' INTEGER NOT NULL, 'map_value_2' INTEGER NOT NULL, 'map_bonus' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `rail_area_bonus` VALUES (/*id*/1, /*event_id*/6002, /*group_id*/1, /*rap_id*/1, /*map_type_1*/1, /*map_value_1*/6, /*map_type_2*/0, /*map_value_2*/0, /*map_bonus*/50);
 INSERT INTO `rail_area_bonus` VALUES (/*id*/2, /*event_id*/6002, /*group_id*/1, /*rap_id*/1, /*map_type_1*/1, /*map_value_1*/19, /*map_type_2*/0, /*map_value_2*/0, /*map_bonus*/100);
 INSERT INTO `rail_area_bonus` VALUES (/*id*/3, /*event_id*/6002, /*group_id*/1, /*rap_id*/1, /*map_type_1*/1, /*map_value_1*/33, /*map_type_2*/0, /*map_value_2*/0, /*map_bonus*/150);

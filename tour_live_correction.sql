@@ -1,4 +1,4 @@
-CREATE TABLE 'tour_live_correction' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'difficulty' INTEGER NOT NULL, 'score_rate' INTEGER NOT NULL, 'ceiling_score' INTEGER NOT NULL, 'need_param' INTEGER NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'tour_live_correction' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'difficulty' INTEGER NOT NULL, 'score_rate' INTEGER NOT NULL, 'ceiling_score' INTEGER NOT NULL, 'need_param' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `tour_live_correction` VALUES (/*id*/1, /*event_id*/5010, /*difficulty*/1, /*score_rate*/837, /*ceiling_score*/180000, /*need_param*/66000);
 INSERT INTO `tour_live_correction` VALUES (/*id*/2, /*event_id*/5010, /*difficulty*/2, /*score_rate*/829, /*ceiling_score*/260000, /*need_param*/82000);
 INSERT INTO `tour_live_correction` VALUES (/*id*/3, /*event_id*/5010, /*difficulty*/3, /*score_rate*/821, /*ceiling_score*/460000, /*need_param*/130000);

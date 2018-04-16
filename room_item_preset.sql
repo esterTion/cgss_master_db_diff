@@ -1,4 +1,4 @@
-CREATE TABLE 'room_item_preset' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'serial_id' INTEGER NOT NULL, 'item_id' INTEGER NOT NULL, 'item_type' INTEGER NOT NULL, 'level' INTEGER NOT NULL, 'dir_type' INTEGER NOT NULL, 'pos_no' INTEGER NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'room_item_preset' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'serial_id' INTEGER NOT NULL, 'item_id' INTEGER NOT NULL, 'item_type' INTEGER NOT NULL, 'level' INTEGER NOT NULL, 'dir_type' INTEGER NOT NULL, 'pos_no' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `room_item_preset` VALUES (/*id*/1, /*event_id*/4008, /*serial_id*/1, /*item_id*/1322, /*item_type*/5, /*level*/1, /*dir_type*/0, /*pos_no*/0);
 INSERT INTO `room_item_preset` VALUES (/*id*/2, /*event_id*/4008, /*serial_id*/2, /*item_id*/1321, /*item_type*/3, /*level*/1, /*dir_type*/0, /*pos_no*/1);
 INSERT INTO `room_item_preset` VALUES (/*id*/3, /*event_id*/4008, /*serial_id*/3, /*item_id*/1320, /*item_type*/4, /*level*/1, /*dir_type*/0, /*pos_no*/2);

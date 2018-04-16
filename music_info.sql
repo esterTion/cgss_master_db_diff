@@ -1,4 +1,4 @@
-CREATE TABLE 'music_info' ('id' INTEGER NOT NULL, 'discription' TEXT NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'music_info' ('id' INTEGER NOT NULL, 'discription' TEXT NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `music_info` VALUES (/*id*/1001, /*discription*/"THE IDOLM@STER CINDERELLA GIRLS\n\n島村卯月（CV：大橋彩香）\n小日向美穂（CV：津田美波）\n三村かな子（CV：大坪由佳）\n渋谷凛（CV：福原綾香）\n多田李衣菜（CV：青木瑠璃子）\n神崎蘭子（CV：内田真礼）\n本田未央（CV：原紗友里）\n城ヶ崎美嘉（CV：佳村はるか）\n城ヶ崎莉嘉（CV：山本希望）\n\n\n作詞：marhy\n作曲・編曲：BNSI（内田哲也）\nギター：後藤貴徳\nバイオリン：越川歩\nトランペット：鈴木正則\nコーラス：marhy");
 INSERT INTO `music_info` VALUES (/*id*/1002, /*discription*/"THE IDOLM@STER CINDERELLA GIRLS!\n\n神崎蘭子（CV：内田真礼）\nアナスタシア（CV：上坂すみれ）\n高垣楓（CV：早見沙織）\n輿水幸子（CV：竹達彩奈）\n渋谷凛（CV：福原綾香）\n\n\n作詞：yura\n作曲：小西裕子\n編曲：原田ナオ\nギター・プログラミング：原田ナオ");
 INSERT INTO `music_info` VALUES (/*id*/1003, /*discription*/"THE IDOLM@STER CINDERELLA GIRLS!!\n\n渋谷凛（CV：福原綾香）\n鷺沢文香（CV：M・A・O）\n高垣楓（CV：早見沙織）\n安部菜々（CV：三宅麻理恵）\n緒方智絵里（CV：大空直美）\n島村卯月（CV：大橋彩香）\n本田未央（CV：原紗友里）\n姫川友紀（CV：杜野まこ）\n高森藍子（CV：金子有希）\n\n\n作詞：森由里子\n作曲・編曲：藤末樹");

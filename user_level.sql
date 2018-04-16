@@ -1,4 +1,4 @@
-CREATE TABLE 'user_level' ('level' INTEGER NOT NULL, 'stamina' INTEGER NOT NULL, 'max_friend' INTEGER NOT NULL, 'total_exp' INTEGER NOT NULL, PRIMARY KEY('level'))
+CREATE TABLE 'user_level' ('level' INTEGER NOT NULL, 'stamina' INTEGER NOT NULL, 'max_friend' INTEGER NOT NULL, 'total_exp' INTEGER NOT NULL, PRIMARY KEY('level'));
 INSERT INTO `user_level` VALUES (/*level*/1, /*stamina*/40, /*max_friend*/70, /*total_exp*/0);
 INSERT INTO `user_level` VALUES (/*level*/2, /*stamina*/41, /*max_friend*/70, /*total_exp*/30);
 INSERT INTO `user_level` VALUES (/*level*/3, /*stamina*/41, /*max_friend*/70, /*total_exp*/80);

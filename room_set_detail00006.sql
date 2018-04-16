@@ -1,4 +1,4 @@
-CREATE TABLE 'room_set_detail00006' ('id' INTEGER NOT NULL, 'set_id' INTEGER NOT NULL, 'serial_id' INTEGER NOT NULL, 'item_id' INTEGER NOT NULL, 'item_type' INTEGER NOT NULL, 'level' INTEGER NOT NULL, 'dir_type' INTEGER NOT NULL, 'pos_no' INTEGER NOT NULL, 'sort' INTEGER NOT NULL, PRIMARY KEY('id'))
+CREATE TABLE 'room_set_detail00006' ('id' INTEGER NOT NULL, 'set_id' INTEGER NOT NULL, 'serial_id' INTEGER NOT NULL, 'item_id' INTEGER NOT NULL, 'item_type' INTEGER NOT NULL, 'level' INTEGER NOT NULL, 'dir_type' INTEGER NOT NULL, 'pos_no' INTEGER NOT NULL, 'sort' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `room_set_detail00006` VALUES (/*id*/1, /*set_id*/6, /*serial_id*/1, /*item_id*/1863, /*item_type*/5, /*level*/1, /*dir_type*/0, /*pos_no*/0, /*sort*/20);
 INSERT INTO `room_set_detail00006` VALUES (/*id*/2, /*set_id*/6, /*serial_id*/2, /*item_id*/1862, /*item_type*/3, /*level*/1, /*dir_type*/0, /*pos_no*/1, /*sort*/18);
 INSERT INTO `room_set_detail00006` VALUES (/*id*/3, /*set_id*/6, /*serial_id*/3, /*item_id*/1861, /*item_type*/4, /*level*/1, /*dir_type*/0, /*pos_no*/2, /*sort*/19);
