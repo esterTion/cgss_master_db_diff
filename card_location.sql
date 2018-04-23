@@ -499,3 +499,4 @@ INSERT INTO `card_location` VALUES (/*index*/500, /*text*/"大阪・新世界");
 INSERT INTO `card_location` VALUES (/*index*/501, /*text*/"オープンカフェ");
 INSERT INTO `card_location` VALUES (/*index*/502, /*text*/"オフィス");
 INSERT INTO `card_location` VALUES (/*index*/503, /*text*/"カラオケ");
+INSERT INTO `card_location` VALUES (/*index*/504, /*text*/"パンケーキカフェ");
