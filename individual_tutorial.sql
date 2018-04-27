@@ -105,7 +105,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30006, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30008, /*img*/1, /*discription*/"LIVEの楽曲選択画面をリニューアルしました !\n「WIDE（横画面）」「SMART（縦画面）」の\n2種類のモードを切り替えて使用します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30008, /*img*/2, /*discription*/"選曲画面のジャケットをタップすることで、\nタイル状に並んだジャケット画像から\n選曲することもできます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30009, /*img*/1, /*discription*/"SMART LIVE設定の判定ライン設定に「下」を追加しました。\n「下」に設定すると、横画面のLIVEのように、\nリズムアイコンが縦に流れてくるようになります。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「ゴールデンウィークスペシャルLIVEキャンペーン」\n開催中 ! 期間中にLIVEをクリアすると、\n期間限定のアイテムを獲得できます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");
@@ -189,6 +190,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60020, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60020, /*img*/1, /*discription*/"プロデュースノートからアイドルを選び\n右下の「フォトスタジオ」ボタンをタップ、\n撮影スポットを選択します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60020, /*img*/2, /*discription*/"フォトスタジオでは、画面が縦方向になります。\n画面をスワイプでカメラの移動、\nピンチイン・アウトでズームができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60020, /*img*/2, /*discription*/"画面を連続タップするとメニューが開き、\n「オーダー」でアイドルに呼びかけたり、\n「衣装変更」することができます。\n「撮影終了」でフォトスタジオを終了します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60021, /*img*/1, /*discription*/"シンデレラガールズ劇場わいど☆誕生 !\nアイドルたちの日々の活動を、\n「わいど☆」にお届けします ! !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60021, /*img*/1, /*discription*/"シンデレラガールズ劇場わいど☆は、\n横に読む形式になります。\n画面を横にスワイプしてお楽しみください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/1, /*discription*/"「LIVE PARTY!!」では、協力LIVEを行うことで、\n「スターエンブレム」が獲得できます。\n「スターエンブレム」を集めると、過去イベントの報酬や、\nアイテムとの交換ができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。\n楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/3, /*discription*/"本機能では、専用ユニットでLIVEを行います。ユニットには5つの「ポジション」があります。\n各プロデューサーのアイドルが、ポジションを1つずつ担当し、5人の共通ユニットが編成されます。\n※自分のアイドルがどのポジションを担当するかはランダムで決定されます。\n※楽曲タイプとポジションごとにアイドルを設定できます。");
