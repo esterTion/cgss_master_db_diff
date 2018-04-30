@@ -500,3 +500,8 @@ INSERT INTO `card_location` VALUES (/*index*/501, /*text*/"オープンカフェ
 INSERT INTO `card_location` VALUES (/*index*/502, /*text*/"オフィス");
 INSERT INTO `card_location` VALUES (/*index*/503, /*text*/"カラオケ");
 INSERT INTO `card_location` VALUES (/*index*/504, /*text*/"パンケーキカフェ");
+INSERT INTO `card_location` VALUES (/*index*/505, /*text*/"大聖堂");
+INSERT INTO `card_location` VALUES (/*index*/506, /*text*/"魔王城・玉座の間");
+INSERT INTO `card_location` VALUES (/*index*/507, /*text*/"小料理屋");
+INSERT INTO `card_location` VALUES (/*index*/508, /*text*/"小料理屋・2階");
+INSERT INTO `card_location` VALUES (/*index*/509, /*text*/"春のハウススタジオ");
