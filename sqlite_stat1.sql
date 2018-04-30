@@ -19,7 +19,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"caravan_data", /*idx*/"caravan_data_0
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gallery_stage_list", /*idx*/"", /*stat*/7);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"atapon_point_rank_disp", /*idx*/"", /*stat*/9);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"event_beta_data", /*idx*/"event_beta_data_0_type", /*stat*/"2 2");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"individual_tutorial", /*idx*/"individual_tutorial_0_id", /*stat*/"335 4");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"individual_tutorial", /*idx*/"individual_tutorial_0_id", /*stat*/"338 4");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"idel_vote_idol", /*idx*/"idel_vote_idol_0_campaign_id", /*stat*/"183 183");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"rail_area_comment", /*idx*/"rail_area_comment_0_group_id", /*stat*/"27 14");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"rail_area_comment", /*idx*/"rail_area_comment_0_event_id", /*stat*/"27 27");
@@ -48,7 +48,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"medley_vibration_rank", /*idx*/"medle
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gacha_sp_effect", /*idx*/"gacha_sp_effect_0_card_id", /*stat*/"17 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gacha_sp_effect", /*idx*/"gacha_sp_effect_0_gacha_id", /*stat*/"17 2");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gacha_sp_effect", /*idx*/"sqlite_autoindex_gacha_sp_effect_1", /*stat*/"17 2 1");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"premium_sc_list", /*idx*/"premium_sc_list_0_cost_id", /*stat*/"3312 237");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"premium_sc_list", /*idx*/"premium_sc_list_0_cost_id", /*stat*/"3902 244");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_set_data", /*idx*/"", /*stat*/14);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_set_detail00012", /*idx*/"room_set_detail00012_0_set_id", /*stat*/"29 29");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"party_term", /*idx*/"", /*stat*/8);
@@ -57,7 +57,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_preset", /*idx*/"room_item_
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gallery_pose_list", /*idx*/"", /*stat*/5);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"panel_mission_comp_reward", /*idx*/"panel_mission_comp_reward_0_campaign_id_1_rap", /*stat*/"3 3 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"panel_mission_comp_reward", /*idx*/"panel_mission_comp_reward_0_campaign_id", /*stat*/"3 3");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gacha_data", /*idx*/"gacha_data_0_base_id", /*stat*/"589 2");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"gacha_data", /*idx*/"gacha_data_0_base_id", /*stat*/"591 2");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_detail", /*idx*/"sqlite_autoindex_room_item_detail_1", /*stat*/"1529 2 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"rail_area_bonus", /*idx*/"rail_area_bonus_0_event_id", /*stat*/"53 53");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"live_data_elcp", /*idx*/"", /*stat*/1);
@@ -76,7 +76,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"title_pattern", /*idx*/"", /*stat*/29
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"limited_mission", /*idx*/"limited_mission_0_limited_mission_id", /*stat*/"1602 2");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_offset", /*idx*/"sqlite_autoindex_room_item_offset_1", /*stat*/"1120 2 2 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"master_plus_group_1", /*idx*/"", /*stat*/26);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"latte_art_data", /*idx*/"", /*stat*/2);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"latte_art_data", /*idx*/"", /*stat*/3);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_set_detail00003", /*idx*/"room_set_detail00003_0_set_id", /*stat*/"44 44");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"tour_point_reward", /*idx*/"tour_point_reward_0_event_id", /*stat*/"73 73");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"music_vocalist", /*idx*/"music_vocalist_0_chara_id", /*stat*/"595 9");
@@ -153,7 +153,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"live_daily_bonus_param", /*idx*/"", /
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"card_image_position", /*idx*/"", /*stat*/1440);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"card_evolve_item", /*idx*/"", /*stat*/12);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"exchange_shop_item", /*idx*/"", /*stat*/317);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"item_data", /*idx*/"item_data_0_item_category", /*stat*/"186 16");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"item_data", /*idx*/"item_data_0_item_category", /*stat*/"189 16");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_category", /*idx*/"", /*stat*/15);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"leader_skill_data", /*idx*/"", /*stat*/84);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_set_detail00006", /*idx*/"room_set_detail00006_0_set_id", /*stat*/"18 18");
@@ -194,7 +194,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"card_comments", /*idx*/"sqlite_autoin
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"stamp_data_re", /*idx*/"", /*stat*/57);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"tour_area", /*idx*/"tour_area_0_event_id", /*stat*/"7 7");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"leader_boost_rate", /*idx*/"leader_boost_rate_0_event_id", /*stat*/"21 21");
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"banner", /*idx*/"", /*stat*/405);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"banner", /*idx*/"", /*stat*/406);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"available_time_type", /*idx*/"", /*stat*/5);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_set_detail00011", /*idx*/"room_set_detail00011_0_set_id", /*stat*/"32 32");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_set_detail00008", /*idx*/"room_set_detail00008_0_set_id", /*stat*/"23 23");
@@ -227,9 +227,9 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"mille_feuille_preset_0003", /*idx*/""
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"tour_score_rank_reward", /*idx*/"tour_score_rank_reward_0_event_id", /*stat*/"3 3");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"leader_skill_boost_rate", /*idx*/"leader_skill_boost_rate_0_position", /*stat*/"69 14");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"prp_reward", /*idx*/"", /*stat*/4);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"jewel_shop", /*idx*/"jewel_shop_0_view_value", /*stat*/"13 1");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"jewel_shop", /*idx*/"jewel_shop_0_view_value", /*stat*/"14 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"item_category", /*idx*/"", /*stat*/12);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"premium_sc_detail", /*idx*/"premium_sc_detail_0_jewel_shop_id", /*stat*/"14 2");
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"premium_sc_detail", /*idx*/"premium_sc_detail_0_jewel_shop_id", /*stat*/"16 2");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"card_gallery_motion", /*idx*/"", /*stat*/1);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"rail_condition_text", /*idx*/"rail_condition_text_0_event_id", /*stat*/"20 20");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"party_detail_re", /*idx*/"party_detail_re_0_term_id", /*stat*/"32 16");
@@ -238,7 +238,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"rail_circle_data", /*idx*/"rail_circl
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"announce_data", /*idx*/"", /*stat*/101);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"exchange_data", /*idx*/"", /*stat*/288);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"cookie_swap_bgm_list", /*idx*/"", /*stat*/170);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"campaign_bonus", /*idx*/"", /*stat*/75);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"campaign_bonus", /*idx*/"", /*stat*/76);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"star_lesson_type", /*idx*/"", /*stat*/4);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"rail_story_detail", /*idx*/"rail_story_detail_0_event_id", /*stat*/"20 10");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"party_theme_preset_0001", /*idx*/"", /*stat*/21);
