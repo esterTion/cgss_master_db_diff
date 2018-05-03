@@ -505,3 +505,7 @@ INSERT INTO `card_location` VALUES (/*index*/506, /*text*/"魔王城・玉座の
 INSERT INTO `card_location` VALUES (/*index*/507, /*text*/"小料理屋");
 INSERT INTO `card_location` VALUES (/*index*/508, /*text*/"小料理屋・2階");
 INSERT INTO `card_location` VALUES (/*index*/509, /*text*/"春のハウススタジオ");
+INSERT INTO `card_location` VALUES (/*index*/510, /*text*/"サーカス会場・観客席");
+INSERT INTO `card_location` VALUES (/*index*/511, /*text*/"アイドルサーカスショー");
+INSERT INTO `card_location` VALUES (/*index*/512, /*text*/"サーカス会場・フードエリア");
+INSERT INTO `card_location` VALUES (/*index*/513, /*text*/"試着室");
