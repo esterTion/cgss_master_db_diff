@@ -19,7 +19,7 @@ INSERT INTO `total_login_bonus` VALUES (/*id*/17, /*days*/800, /*reward_type*/4,
 INSERT INTO `total_login_bonus` VALUES (/*id*/18, /*days*/850, /*reward_type*/4, /*reward_id*/0, /*reward_value*/250, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*image*/"item_90021_s_250");
 INSERT INTO `total_login_bonus` VALUES (/*id*/19, /*days*/900, /*reward_type*/4, /*reward_id*/0, /*reward_value*/250, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*image*/"item_90021_s_250");
 INSERT INTO `total_login_bonus` VALUES (/*id*/20, /*days*/950, /*reward_type*/4, /*reward_id*/0, /*reward_value*/250, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*image*/"item_90021_s_250");
-INSERT INTO `total_login_bonus` VALUES (/*id*/21, /*days*/1000, /*reward_type*/4, /*reward_id*/0, /*reward_value*/250, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*image*/"item_90021_s_250");
+INSERT INTO `total_login_bonus` VALUES (/*id*/21, /*days*/1000, /*reward_type*/4, /*reward_id*/0, /*reward_value*/1000, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*image*/"item_90021_s_1000");
 INSERT INTO `total_login_bonus` VALUES (/*id*/22, /*days*/1050, /*reward_type*/4, /*reward_id*/0, /*reward_value*/250, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*image*/"item_90021_s_250");
 INSERT INTO `total_login_bonus` VALUES (/*id*/23, /*days*/1100, /*reward_type*/4, /*reward_id*/0, /*reward_value*/250, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*image*/"item_90021_s_250");
 INSERT INTO `total_login_bonus` VALUES (/*id*/24, /*days*/1150, /*reward_type*/4, /*reward_id*/0, /*reward_value*/250, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*image*/"item_90021_s_250");
@@ -30,3 +30,13 @@ INSERT INTO `total_login_bonus` VALUES (/*id*/28, /*days*/1350, /*reward_type*/4
 INSERT INTO `total_login_bonus` VALUES (/*id*/29, /*days*/1400, /*reward_type*/4, /*reward_id*/0, /*reward_value*/250, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*image*/"item_90021_s_250");
 INSERT INTO `total_login_bonus` VALUES (/*id*/30, /*days*/1450, /*reward_type*/4, /*reward_id*/0, /*reward_value*/250, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*image*/"item_90021_s_250");
 INSERT INTO `total_login_bonus` VALUES (/*id*/31, /*days*/1500, /*reward_type*/4, /*reward_id*/0, /*reward_value*/250, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*image*/"item_90021_s_250");
+INSERT INTO `total_login_bonus` VALUES (/*id*/32, /*days*/1550, /*reward_type*/4, /*reward_id*/0, /*reward_value*/250, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*image*/"item_90021_s_250");
+INSERT INTO `total_login_bonus` VALUES (/*id*/33, /*days*/1600, /*reward_type*/4, /*reward_id*/0, /*reward_value*/250, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*image*/"item_90021_s_250");
+INSERT INTO `total_login_bonus` VALUES (/*id*/34, /*days*/1650, /*reward_type*/4, /*reward_id*/0, /*reward_value*/250, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*image*/"item_90021_s_250");
+INSERT INTO `total_login_bonus` VALUES (/*id*/35, /*days*/1700, /*reward_type*/4, /*reward_id*/0, /*reward_value*/250, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*image*/"item_90021_s_250");
+INSERT INTO `total_login_bonus` VALUES (/*id*/36, /*days*/1750, /*reward_type*/4, /*reward_id*/0, /*reward_value*/250, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*image*/"item_90021_s_250");
+INSERT INTO `total_login_bonus` VALUES (/*id*/37, /*days*/1800, /*reward_type*/4, /*reward_id*/0, /*reward_value*/250, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*image*/"item_90021_s_250");
+INSERT INTO `total_login_bonus` VALUES (/*id*/38, /*days*/1850, /*reward_type*/4, /*reward_id*/0, /*reward_value*/250, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*image*/"item_90021_s_250");
+INSERT INTO `total_login_bonus` VALUES (/*id*/39, /*days*/1900, /*reward_type*/4, /*reward_id*/0, /*reward_value*/250, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*image*/"item_90021_s_250");
+INSERT INTO `total_login_bonus` VALUES (/*id*/40, /*days*/1950, /*reward_type*/4, /*reward_id*/0, /*reward_value*/250, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*image*/"item_90021_s_250");
+INSERT INTO `total_login_bonus` VALUES (/*id*/41, /*days*/2000, /*reward_type*/4, /*reward_id*/0, /*reward_value*/1000, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*image*/"item_90021_s_1000");
