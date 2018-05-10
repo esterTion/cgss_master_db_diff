@@ -303,3 +303,4 @@ INSERT INTO `story_category` VALUES (/*id*/326, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/327, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Vast world", /*sub_title*/"Vast world", /*disp_order*/60);
 INSERT INTO `story_category` VALUES (/*id*/328, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Spring Screaming", /*sub_title*/"Spring Screaming", /*disp_order*/61);
 INSERT INTO `story_category` VALUES (/*id*/329, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"桜の風", /*sub_title*/"桜の風", /*disp_order*/62);
+INSERT INTO `story_category` VALUES (/*id*/330, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"三好紗南 / 古澤頼子", /*sub_title*/"三好紗南 / 古澤頼子", /*disp_order*/63);

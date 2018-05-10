@@ -108,8 +108,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30006, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30008, /*img*/1, /*discription*/"LIVEの楽曲選択画面をリニューアルしました !\n「WIDE（横画面）」「SMART（縦画面）」の\n2種類のモードを切り替えて使用します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30008, /*img*/2, /*discription*/"選曲画面のジャケットをタップすることで、\nタイル状に並んだジャケット画像から\n選曲することもできます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30009, /*img*/1, /*discription*/"SMART LIVE設定の判定ライン設定に「下」を追加しました。\n「下」に設定すると、横画面のLIVEのように、\nリズムアイコンが縦に流れてくるようになります。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「ゴールデンウィークスペシャルLIVEキャンペーン」\n開催中 ! 期間中にLIVEをクリアすると、\n期間限定のアイテムを獲得できます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");
@@ -277,12 +276,13 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/6, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/7, /*discription*/"イベント設定では、公演の準備画面の「おすすめ設定」で\n選曲される楽曲のLvを調整できます。\nまたツアーのタイトルを自由に変更できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/1, /*discription*/"「イベント参加ボーナス」、「MAP報酬」、「課題クリア報酬」\nで、イベント限定のSレアアイドルやルームアイテムを\n手にいれましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"本イベントでは、LIVEを行うことでアイドルたちが\nMAPを進んでいきます。楽曲の難易度やLIVEの\n結果に応じて、進行できるマス数が変化します。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"また、ルートはイベント限定アイドルごとに分かれており、\nそれぞれストーリーや報酬が異なります。\n※「安斎都」ルートのMAP1をクリアすると、\n「小松伊吹」ルートが解放されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"また、ルートはイベント限定アイドルごとに分かれており、\nそれぞれストーリーや報酬が異なります。\n※「古澤頼子」ルートのMAP1をクリアすると、\n「三好紗南」ルートが解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/3, /*discription*/"MAPやマスごとの条件を満たしてLIVEを行うと、\nMAP進行ボーナスが発生し、進行できるマス数がアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/3, /*discription*/"MAP進行ボーナスは、MAPにあわせたアイドルを編成したり、\n現在止まっているマスの色に応じた楽曲でLIVEを行うことで発生します。\nボーナス条件はイベントTOPや楽曲の選択画面等で確認できます。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/4, /*discription*/"ゴールに到着すると、トレーナーからMAPごとの課題が出されます。\n※課題の達成状況は累積でカウントされるため、1回のLIVEでクリアできない場合、\n複数回LIVEをすることで達成できます。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/5, /*discription*/"MAPを進行していると、たまに「進行2倍ボーナス」が\n発生することがあります。進行2倍ボーナスが発生すると、\n次回のLIVEクリア時に進行できるマス数が2倍になります。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/6, /*discription*/"楽曲選択画面の並べ替えメニューで「イベントボーナス」を\n選択すると、現在止まっているマスに適した楽曲を\n簡単に絞り込むことができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/7, /*discription*/"イベント限定営業で、ススメチケットを獲得できます。\nイベントTOPの「チケットを使用する」ボタンから\n使用でき、1枚につき、MAPを1マス進行可能です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90101, /*img*/1, /*discription*/"アイドルのファン数を増やすことで、ポテンシャルを解放し、\nアイドルのステータスを強化することができる機能です。\n（ポテンシャル解放では特訓アイテムを消費します）\n※各数値は開発中のものです。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90102, /*img*/1, /*discription*/"PランクSS、PRP1000以上のプロデューサーのみ参加可能な\nランキングで、上位入賞することで、PランクSSSに昇格します。\n（PランクSSSは、1ヶ月の任期制となります）\n    ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90103, /*img*/1, /*discription*/"新3D衣装「アクロス・ザ・スターズ」登場 !\n3DLIVEでアイドルたちの衣装を\n変更することができるようになりました !");

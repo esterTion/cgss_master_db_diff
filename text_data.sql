@@ -1189,7 +1189,7 @@ INSERT INTO `text_data` VALUES (/*category*/28, /*index*/40, /*text*/"所属ア�
 INSERT INTO `text_data` VALUES (/*category*/28, /*index*/41, /*text*/"アイテム所持数が上限に達しているため、受け取れませんでした。");
 INSERT INTO `text_data` VALUES (/*category*/28, /*index*/42, /*text*/"上限に達しているため、受け取れない報酬がありました。");
 INSERT INTO `text_data` VALUES (/*category*/28, /*index*/43, /*text*/"所属アイドル数が上限に達しているため、プレゼントに送られました。");
-INSERT INTO `text_data` VALUES (/*category*/28, /*index*/44, /*text*/"アイテム所持数が上限に達しているため、受け取れませんでした。");
+INSERT INTO `text_data` VALUES (/*category*/28, /*index*/44, /*text*/"一部アイテム所持数が上限に達しているため、上限を超えた分は破棄されました。");
 INSERT INTO `text_data` VALUES (/*category*/28, /*index*/45, /*text*/"マニーが上限に達しているため、受け取れませんでした。");
 INSERT INTO `text_data` VALUES (/*category*/28, /*index*/46, /*text*/"友情ptが上限に達しているため、受け取れませんでした。");
 INSERT INTO `text_data` VALUES (/*category*/28, /*index*/47, /*text*/"[2D2D2D]{0:#,0}[-]");
@@ -1239,6 +1239,8 @@ INSERT INTO `text_data` VALUES (/*category*/28, /*index*/91, /*text*/"既に完�
 INSERT INTO `text_data` VALUES (/*category*/28, /*index*/92, /*text*/"期間が終了した営業です。\n営業画面へ入り直します。");
 INSERT INTO `text_data` VALUES (/*category*/28, /*index*/93, /*text*/"データの取得に失敗しました\n※各種報酬は既に付与されています。");
 INSERT INTO `text_data` VALUES (/*category*/28, /*index*/94, /*text*/"エラーが発生しました。\n営業画面へ入り直します。");
+INSERT INTO `text_data` VALUES (/*category*/28, /*index*/95, /*text*/"所持上限");
+INSERT INTO `text_data` VALUES (/*category*/28, /*index*/96, /*text*/"以下のアイテムが上限を超える可能性があります。\n\n{0}\n上限を超えた分は破棄されますが、よろしいですか？");
 INSERT INTO `text_data` VALUES (/*category*/29, /*index*/1, /*text*/"ノーマル");
 INSERT INTO `text_data` VALUES (/*category*/29, /*index*/2, /*text*/"アナザー");
 INSERT INTO `text_data` VALUES (/*category*/29, /*index*/3, /*text*/"スケジュール");
