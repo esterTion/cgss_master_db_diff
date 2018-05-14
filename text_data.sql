@@ -1353,3 +1353,11 @@ INSERT INTO `text_data` VALUES (/*category*/35, /*index*/35, /*text*/"投票期�
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/36, /*text*/"タイプ別順位（{0}）");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/37, /*text*/"{0}が{1}に達していない場合投票できません");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/38, /*text*/"{1}{0}を解放していない場合投票できません");
+INSERT INTO `text_data` VALUES (/*category*/35, /*index*/39, /*text*/"総選挙全体順位結果");
+INSERT INTO `text_data` VALUES (/*category*/35, /*index*/40, /*text*/"総選挙の結果発表ページです");
+INSERT INTO `text_data` VALUES (/*category*/35, /*index*/41, /*text*/"演出再生");
+INSERT INTO `text_data` VALUES (/*category*/35, /*index*/42, /*text*/"順位確認");
+INSERT INTO `text_data` VALUES (/*category*/35, /*index*/43, /*text*/"コメント");
+INSERT INTO `text_data` VALUES (/*category*/35, /*index*/44, /*text*/"結果発表");
+INSERT INTO `text_data` VALUES (/*category*/35, /*index*/45, /*text*/"全体1～5");
+INSERT INTO `text_data` VALUES (/*category*/35, /*index*/46, /*text*/"全体6～10");
