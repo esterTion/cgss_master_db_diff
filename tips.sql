@@ -324,6 +324,15 @@ INSERT INTO `tips` VALUES (/*id*/322, /*tips_type*/1, /*value*/261, /*index*/2, 
 INSERT INTO `tips` VALUES (/*id*/323, /*tips_type*/1, /*value*/161, /*index*/2, /*title*/"白菊ほたるのウワサ②", /*comment*/"横断歩道についたときに\n青信号だと、幸せらしい。");
 INSERT INTO `tips` VALUES (/*id*/324, /*tips_type*/1, /*value*/101, /*index*/3, /*title*/"島村卯月のウワサ③", /*comment*/"ささいな事件があるたびに\n笑いの絶えない島村家、らしい。");
 INSERT INTO `tips` VALUES (/*id*/325, /*tips_type*/1, /*value*/179, /*index*/2, /*title*/"水木聖來のウワサ②", /*comment*/"仕事が上手くいった日は\nわんこのご飯も豪華らしい。");
+INSERT INTO `tips` VALUES (/*id*/326, /*tips_type*/1, /*value*/291, /*index*/2, /*title*/"難波笑美のウワサ②", /*comment*/"生まれて初めて喋った言葉は\n「なんでやねん」らしい。");
+INSERT INTO `tips` VALUES (/*id*/327, /*tips_type*/1, /*value*/171, /*index*/2, /*title*/"高橋礼子のウワサ②", /*comment*/"「パーティー」の発音が\nネイティブらしい。");
+INSERT INTO `tips` VALUES (/*id*/328, /*tips_type*/1, /*value*/212, /*index*/3, /*title*/"吉岡沙紀のウワサ③", /*comment*/"プロデューサーの名刺を\nデザインしたいらしい。");
+INSERT INTO `tips` VALUES (/*id*/329, /*tips_type*/1, /*value*/162, /*index*/2, /*title*/"早坂美玲のウワサ②", /*comment*/"ツメは甘くないらしい。");
+INSERT INTO `tips` VALUES (/*id*/330, /*tips_type*/1, /*value*/154, /*index*/3, /*title*/"安部菜々のウワサ③", /*comment*/"「永遠の17歳」を\n「延々と17歳」と\n間違って紹介されたらしい。");
+INSERT INTO `tips` VALUES (/*id*/331, /*tips_type*/1, /*value*/191, /*index*/3, /*title*/"ライラのウワサ③", /*comment*/"事務所で「冥土の土産」を\n配ったらしい。");
+INSERT INTO `tips` VALUES (/*id*/332, /*tips_type*/1, /*value*/265, /*index*/2, /*title*/"浜川愛結奈のウワサ②", /*comment*/"エクササイズロデオマシーンを\n愛用しているらしい。");
+INSERT INTO `tips` VALUES (/*id*/333, /*tips_type*/1, /*value*/204, /*index*/2, /*title*/"綾瀬穂乃香のウワサ②", /*comment*/"ぴにゃこら太の\n着ぐるみパジャマを\n何着ももっているらしい。");
+INSERT INTO `tips` VALUES (/*id*/334, /*tips_type*/1, /*value*/126, /*index*/2, /*title*/"一ノ瀬志希のウワサ②", /*comment*/"英語と日本語で\n名前の検索結果が違うらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !");
@@ -640,5 +649,11 @@ INSERT INTO `tips` VALUES (/*id*/40276, /*tips_type*/4, /*value*/176, /*index*/2
 INSERT INTO `tips` VALUES (/*id*/40277, /*tips_type*/4, /*value*/123, /*index*/2, /*title*/"大原みちる②　この髪が", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40278, /*tips_type*/4, /*value*/263, /*index*/2, /*title*/"相葉夕美②　夢の一つに", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40279, /*tips_type*/4, /*value*/275, /*index*/2, /*title*/"槙原志保②　パフェを食べるなら", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40280, /*tips_type*/4, /*value*/294, /*index*/2, /*title*/"土屋亜子②　あの貯金箱", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40281, /*tips_type*/4, /*value*/148, /*index*/2, /*title*/"日下部若葉②　これは奥の手です", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40282, /*tips_type*/4, /*value*/241, /*index*/2, /*title*/"沢田麻理菜②　波に乗っていこう !", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40283, /*tips_type*/4, /*value*/246, /*index*/2, /*title*/"大槻唯②　続・ギャルオケの1コマ", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40284, /*tips_type*/4, /*value*/145, /*index*/2, /*title*/"柳清良②　彼女が構えを解く時", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40285, /*tips_type*/4, /*value*/187, /*index*/2, /*title*/"古澤頼子②　この絵画の批評", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50001, /*tips_type*/5, /*value*/1, /*index*/1, /*title*/"縦画面持ち替え説明画像", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50002, /*tips_type*/5, /*value*/2, /*index*/1, /*title*/"縦画面横に持ち替え説明画像", /*comment*/"");

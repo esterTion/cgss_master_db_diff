@@ -510,3 +510,6 @@ INSERT INTO `card_location` VALUES (/*index*/511, /*text*/"アイドルサーカ
 INSERT INTO `card_location` VALUES (/*index*/512, /*text*/"サーカス会場・フードエリア");
 INSERT INTO `card_location` VALUES (/*index*/513, /*text*/"試着室");
 INSERT INTO `card_location` VALUES (/*index*/514, /*text*/"カフェバー");
+INSERT INTO `card_location` VALUES (/*index*/515, /*text*/"夕暮れの車内");
+INSERT INTO `card_location` VALUES (/*index*/516, /*text*/"パンの世界風セット");
+INSERT INTO `card_location` VALUES (/*index*/517, /*text*/"有名スイーツ店");
