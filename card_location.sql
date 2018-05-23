@@ -516,3 +516,5 @@ INSERT INTO `card_location` VALUES (/*index*/517, /*text*/"有名スイーツ店
 INSERT INTO `card_location` VALUES (/*index*/518, /*text*/"聖キャッスル女学園・教室");
 INSERT INTO `card_location` VALUES (/*index*/519, /*text*/"聖キャッスル女学園・体育館");
 INSERT INTO `card_location` VALUES (/*index*/520, /*text*/"聖キャッスル女学園・中庭");
+INSERT INTO `card_location` VALUES (/*index*/521, /*text*/"和歌山・リゾート施設");
+INSERT INTO `card_location` VALUES (/*index*/522, /*text*/"ドイツ村");
