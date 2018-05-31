@@ -518,3 +518,12 @@ INSERT INTO `card_location` VALUES (/*index*/519, /*text*/"聖キャッスル女
 INSERT INTO `card_location` VALUES (/*index*/520, /*text*/"聖キャッスル女学園・中庭");
 INSERT INTO `card_location` VALUES (/*index*/521, /*text*/"和歌山・リゾート施設");
 INSERT INTO `card_location` VALUES (/*index*/522, /*text*/"ドイツ村");
+INSERT INTO `card_location` VALUES (/*index*/523, /*text*/"森に囲まれた教会");
+INSERT INTO `card_location` VALUES (/*index*/524, /*text*/"海辺の結婚式場");
+INSERT INTO `card_location` VALUES (/*index*/525, /*text*/"ガーデンウェディング会場");
+INSERT INTO `card_location` VALUES (/*index*/526, /*text*/"バラ園・園内");
+INSERT INTO `card_location` VALUES (/*index*/527, /*text*/"夕陽の駐車場");
+INSERT INTO `card_location` VALUES (/*index*/528, /*text*/"バラエティ番組");
+INSERT INTO `card_location` VALUES (/*index*/529, /*text*/"森の中の教会");
+INSERT INTO `card_location` VALUES (/*index*/530, /*text*/"海の上の結婚式場");
+INSERT INTO `card_location` VALUES (/*index*/531, /*text*/"木漏れ日の回廊");

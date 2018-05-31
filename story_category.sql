@@ -305,3 +305,4 @@ INSERT INTO `story_category` VALUES (/*id*/328, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/329, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"桜の風", /*sub_title*/"桜の風", /*disp_order*/62);
 INSERT INTO `story_category` VALUES (/*id*/330, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"三好紗南 / 古澤頼子", /*sub_title*/"三好紗南 / 古澤頼子", /*disp_order*/63);
 INSERT INTO `story_category` VALUES (/*id*/331, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"HARURUNRUN", /*sub_title*/"HARURUNRUN", /*disp_order*/64);
+INSERT INTO `story_category` VALUES (/*id*/332, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Virgin Love", /*sub_title*/"Virgin Love", /*disp_order*/65);
