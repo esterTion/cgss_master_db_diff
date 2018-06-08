@@ -274,7 +274,8 @@ INSERT INTO `story_category` VALUES (/*id*/289, /*type*/1, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/290, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第48話", /*sub_title*/"The heart of growing flowers", /*disp_order*/249);
 INSERT INTO `story_category` VALUES (/*id*/291, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第49話", /*sub_title*/"Running toward the longing", /*disp_order*/250);
 INSERT INTO `story_category` VALUES (/*id*/292, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第50話", /*sub_title*/"That's why I'm here", /*disp_order*/251);
-INSERT INTO `story_category` VALUES (/*id*/293, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第51話", /*sub_title*/"coming soon", /*disp_order*/252);
+INSERT INTO `story_category` VALUES (/*id*/293, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第51話", /*sub_title*/"Pray for Star", /*disp_order*/252);
+INSERT INTO `story_category` VALUES (/*id*/294, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第52話", /*sub_title*/"coming soon", /*disp_order*/253);
 INSERT INTO `story_category` VALUES (/*id*/302, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"モーレツ★世直しギルティ ! ", /*sub_title*/"モーレツ★世直しギルティ ! ", /*disp_order*/37);
 INSERT INTO `story_category` VALUES (/*id*/303, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"With Love", /*sub_title*/"With Love", /*disp_order*/38);
 INSERT INTO `story_category` VALUES (/*id*/304, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Yes ! Party Time ! ! ", /*sub_title*/"Yes ! Party Time ! ! ", /*disp_order*/39);

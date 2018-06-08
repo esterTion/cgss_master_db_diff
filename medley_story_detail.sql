@@ -163,3 +163,5 @@ INSERT INTO `medley_story_detail` VALUES (/*id*/3353, /*event_id*/3021, /*type*/
 INSERT INTO `medley_story_detail` VALUES (/*id*/3354, /*event_id*/3021, /*type*/0, /*open_event_point*/7000, /*next_detail_id*/3355);
 INSERT INTO `medley_story_detail` VALUES (/*id*/3355, /*event_id*/3021, /*type*/0, /*open_event_point*/10000, /*next_detail_id*/3356);
 INSERT INTO `medley_story_detail` VALUES (/*id*/3356, /*event_id*/3021, /*type*/2, /*open_event_point*/0, /*next_detail_id*/0);
+INSERT INTO `medley_story_detail` VALUES (/*id*/3357, /*event_id*/3021, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
+INSERT INTO `medley_story_detail` VALUES (/*id*/3358, /*event_id*/3021, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
