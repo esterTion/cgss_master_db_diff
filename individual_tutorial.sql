@@ -229,7 +229,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80101, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80101, /*img*/2, /*discription*/"日によって限定アイドルの出現率がアップする楽曲が\n決まっています。キュート、クール、パッション、全タイプ楽曲の\nいずれかのタイプの全ての楽曲が対象になります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80101, /*img*/2, /*discription*/"また、全楽曲出現率アップ日には、すべての楽曲が\n出現率アップの対象になります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80101, /*img*/3, /*discription*/"イベント期間中は、センターアイドルのスターランクが\n高ければ高いほど、LIVE報酬を獲得しやすくなります。\n※ユニットに参加していても、センターアイドル以外の\nアイドルのスターランクの効果は発揮されません。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80101, /*img*/4, /*discription*/"イベント追加報酬から「キャラバンメダル」が登場します。\nイベント限定営業でもキャラバンメダルを獲得できます。\n「キャラバンメダル」を集めると、限定アイドルのスカウトや、\nアイテムとの交換ができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80101, /*img*/4, /*discription*/"イベント追加報酬から「キャラバンメダル」が登場します。\nイベント限定営業でも「キャラバンメダル」を獲得できます。\n「キャラバンメダル」を集めると、限定アイドルのスカウトや、\nアイテムとの交換ができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/1, /*discription*/"「達成pt報酬」、「イベントptランキング報酬」、\n「ハイスコアランキング報酬」で、イベント限定の\nSレアアイドルやルームアイテムが貰えるだけでなく、\nイベント限定楽曲をイベント終了後もプレイできるようになります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/1, /*discription*/"イベント限定営業で「イベントpt」を獲得できます。\nイベント限定営業はイベント期間中のみ\nプレイすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/2, /*discription*/"イベントptランキングで50万位に入賞すると、\n自分の順位が入ったイベント称号を獲得できます。\n各称号のデザインは順位によって異なります。");
