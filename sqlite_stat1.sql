@@ -77,7 +77,7 @@ INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"title_pattern", /*idx*/"", /*stat*/30
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"limited_mission", /*idx*/"limited_mission_0_limited_mission_id", /*stat*/"1679 2");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_item_offset", /*idx*/"sqlite_autoindex_room_item_offset_1", /*stat*/"1153 2 2 1");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"master_plus_group_1", /*idx*/"", /*stat*/28);
-INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"latte_art_data", /*idx*/"", /*stat*/14);
+INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"latte_art_data", /*idx*/"", /*stat*/15);
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"room_set_detail00003", /*idx*/"room_set_detail00003_0_set_id", /*stat*/"44 44");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"tour_point_reward", /*idx*/"tour_point_reward_0_event_id", /*stat*/"73 73");
 INSERT INTO `sqlite_stat1` VALUES (/*tbl*/"music_vocalist", /*idx*/"music_vocalist_0_chara_id", /*stat*/"605 9");
