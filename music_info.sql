@@ -173,6 +173,7 @@ INSERT INTO `music_info` VALUES (/*id*/5029, /*discription*/"佐久間まゆ（C
 INSERT INTO `music_info` VALUES (/*id*/5030, /*discription*/"日野茜（CV：赤﨑千夏）\n高森藍子（CV：金子有希）\n及川雫（CV：のぐちゆり）\n脇山珠美（CV：嘉山未紗）\n道明寺歌鈴（CV：新田ひより）\n\n\n作詞・作曲・編曲：ミト");
 INSERT INTO `music_info` VALUES (/*id*/5031, /*discription*/"星輝子（CV：松田颯水）\n白坂小梅（CV：桜咲千依）\n輿水幸子（CV：竹達彩奈）\n小早川紗枝（CV：立花理香）\n姫川友紀（CV：杜野まこ）\n\n\n作詞：磯谷佳江\n作曲・編曲：IMAJO（PSYCHIC LOVER）");
 INSERT INTO `music_info` VALUES (/*id*/5032, /*discription*/"島村卯月（CV：大橋彩香）\n小日向美穂（CV：津田美波）\n佐久間まゆ（CV：牧野由依）\n櫻井桃華（CV：照井春佳）\n双葉杏（CV：五十嵐裕美）\n\n\n作詞・作曲：ササキトモコ\n編曲：ササキトモコ・蓑部雄崇");
+INSERT INTO `music_info` VALUES (/*id*/5033, /*discription*/"渋谷凛（CV：福原綾香）\n上条春菜（CV：長島光那）\n神谷奈緒（CV：松井恵理子）\n神崎蘭子（CV：内田真礼）\n三船美優（CV：原田彩楓）\n\n\n作詞・作曲：俊龍\n編曲：Sizuk");
 INSERT INTO `music_info` VALUES (/*id*/8001, /*discription*/"前川みく（CV：高森奈津美）\n川島瑞樹（CV：東山奈央）\n白坂小梅（CV：桜咲千依）\n三村かな子（CV：大坪由佳）\n\n\n作詞：Cygames / maimie\n作曲：UEMATSU NOBUO / NARITA TSUTOMU\n補作曲：MAEZAWA HIDENORI（picnic）");
 INSERT INTO `music_info` VALUES (/*id*/8002, /*discription*/"緒方智絵里（CV：大空直美）\n多田李衣菜（CV：青木瑠璃子）\n城ヶ崎莉嘉（CV：山本希望）\n\n\n作詞：たかみつようこ\n作曲・編曲：岡部啓一（MONACA）");
 INSERT INTO `music_info` VALUES (/*id*/9001, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n双葉杏（CV：五十嵐裕美）\n諸星きらり（CV：松嵜麗）\n\n\n作詞：marhy\n作曲・編曲：BNSI（内田哲也）");
