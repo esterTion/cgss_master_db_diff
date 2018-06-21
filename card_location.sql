@@ -532,3 +532,4 @@ INSERT INTO `card_location` VALUES (/*index*/533, /*text*/"寄席");
 INSERT INTO `card_location` VALUES (/*index*/534, /*text*/"学校のグラウンド・体力測定");
 INSERT INTO `card_location` VALUES (/*index*/535, /*text*/"放課後の音楽室");
 INSERT INTO `card_location` VALUES (/*index*/536, /*text*/"音楽室");
+INSERT INTO `card_location` VALUES (/*index*/537, /*text*/"立ち飲み屋");
