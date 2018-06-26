@@ -1253,6 +1253,10 @@ INSERT INTO `text_data` VALUES (/*category*/29, /*index*/9, /*text*/"個人ミ�
 INSERT INTO `text_data` VALUES (/*category*/29, /*index*/10, /*text*/"ミッションを\n達成しよう");
 INSERT INTO `text_data` VALUES (/*category*/29, /*index*/11, /*text*/"-");
 INSERT INTO `text_data` VALUES (/*category*/29, /*index*/12, /*text*/"達成報酬は結果発表後に獲得できます。");
+INSERT INTO `text_data` VALUES (/*category*/30, /*index*/1, /*text*/"いつも「アイドルマスター シンデレラガールズ スターライトステージ」を\nご利用いただきありがとうございます。\nこのたび、本サービスの利用規約につき改定を予定しております。\n本改定により、本サービスには弊社サービス共通の利用規約が適用されます。");
+INSERT INTO `text_data` VALUES (/*category*/30, /*index*/2, /*text*/"改定日にあらためてお知らせいたしますが、\nあらかじめ改定内容をご確認いただくようお願いいたします。\n改定後の利用規約に同意いただけない場合、\n改定日までに本サービスの利用を停止してください。");
+INSERT INTO `text_data` VALUES (/*category*/30, /*index*/3, /*text*/"いつも「アイドルマスター シンデレラガールズ スターライトステージ」を\nご利用いただきありがとうございます。\n{0}年{1}月{2}日付で、本サービスの利用規約につき改定を予定しております。\n本改定により、本サービスには弊社サービス共通の利用規約が適用されます。");
+INSERT INTO `text_data` VALUES (/*category*/30, /*index*/4, /*text*/"いつも「アイドルマスター シンデレラガールズ スターライトステージ」を\nご利用いただきありがとうございます。\nこのたび、本サービスの利用規約を改定いたしました。\n改定後の利用規約はこちらからご確認いただけます。");
 INSERT INTO `text_data` VALUES (/*category*/32, /*index*/1, /*text*/"きらり博士のラボ☆");
 INSERT INTO `text_data` VALUES (/*category*/32, /*index*/2, /*text*/"ミニゲームをプレイしてハピネシウムを貯めよう");
 INSERT INTO `text_data` VALUES (/*category*/32, /*index*/3, /*text*/"ハピネシウム確認");
