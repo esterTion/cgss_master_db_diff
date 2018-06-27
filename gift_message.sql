@@ -48,6 +48,7 @@ INSERT INTO `gift_message` VALUES (/*id*/50, /*discription*/"プロデューサ�
 INSERT INTO `gift_message` VALUES (/*id*/51, /*discription*/"プロデューサーランク「SSSアイドルマスター」ランクアップ報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/52, /*discription*/"マニーショップで購入したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/53, /*discription*/"鋼鉄公演きらりんロボ外伝　－モロボシティS.O.S ! － で獲得した報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/54, /*discription*/"自動移籍で獲得したマニーです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/70, /*discription*/"営業「{0}」で加入したアイドルです。", /*type_1*/36, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/71, /*discription*/"営業「{0}」で獲得した報酬です。", /*type_1*/36, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1001, /*discription*/"イベント「{0}」{1}イベントpt達成報酬です。", /*type_1*/19, /*type_2*/20, /*type_3*/0, /*type_4*/0);
