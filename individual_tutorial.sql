@@ -63,7 +63,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20012, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/"レイアウト済みのルームアイテムがセットになった\n「コーデ」をルームショップにて販売開始 !\n購入した「コーデ」はそのまま配置することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/"既に所持しているルームアイテムがコーデに含まれる場合、\nそのルームアイテムは購入されず、コーデの販売価格から\n差し引かれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/"購入したコーデはレイアウトの「テーマ」に保存され、\nいつでも自由に配置することができます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"ニコニコ生放送「デレステNIGHT☆ × 15」にて、\n制作が決定した「イリュージョン☆スターセット」が登場 ! !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"After20コミックス1巻発売記念 !\nコラボルームアイテム販売 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、\n様々な効果を発揮する物があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -197,6 +197,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60020, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60020, /*img*/2, /*discription*/"画面を連続タップするとメニューが開き、\n「オーダー」でアイドルに呼びかけたり、\n「衣装変更」することができます。\n「撮影終了」でフォトスタジオを終了します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60021, /*img*/1, /*discription*/"シンデレラガールズ劇場わいど☆誕生 !\nアイドルたちの日々の活動を、\n「わいど☆」にお届けします ! !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60021, /*img*/1, /*discription*/"シンデレラガールズ劇場わいど☆は、\n横に読む形式になります。\n画面を横にスワイプしてお楽しみください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60022, /*img*/1, /*discription*/"シンデレラシアター誕生 !\nアイドルたちの動画コンテンツをお届けします !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60022, /*img*/1, /*discription*/"シンデレラシアター誕生 !\nアイドルたちのムービーコンテンツをお届けします !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60022, /*img*/1, /*discription*/"シンデレラシアターでは動画を選択した後に\n中央の再生ボタンをタップすることで\nムービーコンテンツを閲覧することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60022, /*img*/1, /*discription*/"動画を最後まで再生するか、\n動画の停止中に画面右上の「×」ボタンをタップすることで、\n動画選択画面に戻ることができます。");
