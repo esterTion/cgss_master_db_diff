@@ -198,7 +198,6 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60020, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60021, /*img*/1, /*discription*/"シンデレラガールズ劇場わいど☆誕生 !\nアイドルたちの日々の活動を、\n「わいど☆」にお届けします ! !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60021, /*img*/1, /*discription*/"シンデレラガールズ劇場わいど☆は、\n横に読む形式になります。\n画面を横にスワイプしてお楽しみください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60022, /*img*/1, /*discription*/"シンデレラシアター誕生 !\nアイドルたちの動画コンテンツをお届けします !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/60022, /*img*/1, /*discription*/"シンデレラシアター誕生 !\nアイドルたちのムービーコンテンツをお届けします !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60022, /*img*/1, /*discription*/"シンデレラシアターでは動画を選択した後に\n中央の再生ボタンをタップすることで\nムービーコンテンツを閲覧することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60022, /*img*/1, /*discription*/"動画を最後まで再生するか、\n動画の停止中に画面右上の「×」ボタンをタップすることで、\n動画選択画面に戻ることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/1, /*discription*/"「LIVE PARTY!!」では、協力LIVEを行うことで、\n「スターエンブレム」が獲得できます。\n「スターエンブレム」を集めると、過去イベントの報酬や、\nアイテムとの交換ができます。");
@@ -244,7 +243,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/3, /*discription*/"LIVE Grooveでは、その3曲で連続してLIVEを行います。\n※3曲の間ライフは引き継がれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/4, /*discription*/"LIVE中、盛り上がりに応じて「ハコユレLv」が計測されます。\n3曲合わせた「ハコユレLv」が17以上になると、\nアンコールが発生します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/5, /*discription*/"難易度がMASTER以上で、ハコユレLvが21以上の場合、\nアンコール楽曲の難易度で「MASTER+」が選択できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/6, /*discription*/"LIVE Groove Dance burstでは、ダンスのアピール値が\n通常よりアップします。\nダンスアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/6, /*discription*/"LIVE Groove Visual burstでは、ビジュアルのアピール値が\n通常よりアップします。\nビジュアルアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80202, /*img*/1, /*discription*/"スタミナの消費数を1倍、または2倍に設定する\nことができます。\n消費数に応じて、イベントptを多く獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/1, /*discription*/"「達成pt報酬」、「イベントptランキング報酬」、\n「ハイスコアランキング報酬」で、イベント限定の\nSレアアイドルやルームアイテムが貰えるだけでなく、\nイベント限定楽曲をイベント終了後もプレイできるようになります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/1, /*discription*/"イベント限定営業で「イベントpt」を獲得できます。\nイベント限定営業はイベント期間中のみ\nプレイすることができます。");
@@ -253,7 +252,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/3, /*discription*/"LIVE Grooveでは、その3曲で連続してLIVEを行います。\n※3曲の間ライフは引き継がれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/4, /*discription*/"LIVE中、盛り上がりに応じて「ハコユレLv」が計測されます。\n3曲合わせた「ハコユレLv」が17以上になると、\nアンコールが発生します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/5, /*discription*/"難易度がMASTER以上で、ハコユレLvが21以上の場合、\nアンコール楽曲の難易度で「MASTER+」が選択できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/6, /*discription*/"LIVE Groove Dance burstでは、ダンスのアピール値が\n通常よりアップします。\nダンスアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/6, /*discription*/"LIVE Groove Visual burstでは、ビジュアルのアピール値が\n通常よりアップします。\nビジュアルアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/7, /*discription*/"スタミナの消費数を1倍、または2倍に設定する\nことができます。\n消費数に応じて、イベントptを多く獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/1, /*discription*/"「達成pt報酬」で、イベント限定のSレアアイドルや\nルームアイテムを手にいれましょう。\nまた期間中にイベントのLIVEをプレイすると、\n限定のアイドルを確率で手に入れることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。\n楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");

@@ -38,7 +38,7 @@ INSERT INTO `gift_message` VALUES (/*id*/39, /*discription*/"「{0}」でスカ�
 INSERT INTO `gift_message` VALUES (/*id*/40, /*discription*/"「{0}」で獲得した報酬です。", /*type_1*/29, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/41, /*discription*/"エクストラコミュ「{0}」で加入したアイドルです。", /*type_1*/13, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/42, /*discription*/"エクストラコミュ「{0}」で獲得した報酬です。", /*type_1*/13, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/43, /*discription*/"アイドルからのプレゼントです。", /*type_1*/31, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/43, /*discription*/"アイドルからのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/44, /*discription*/"スターシャインでスカウトしたアイドルです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/45, /*discription*/"スターシャインで獲得した報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/46, /*discription*/"提供期間を過ぎたスターシャインを自動変換したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
@@ -83,6 +83,7 @@ INSERT INTO `gift_message` VALUES (/*id*/1029, /*discription*/"イベント「{0
 INSERT INTO `gift_message` VALUES (/*id*/1030, /*discription*/"イベント「{0}」{1}マスの到達報酬です。", /*type_1*/19, /*type_2*/35, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1031, /*discription*/"イベント「{0}」課題クリアで加入したアイドルです。", /*type_1*/19, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1032, /*discription*/"イベント「{0}」課題クリア報酬です。", /*type_1*/19, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/1033, /*discription*/"イベント「{0}」のLIVEクリア報酬です。", /*type_1*/19, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1999, /*discription*/"協力LIVE βテスト {0}イベントpt達成報酬です。", /*type_1*/20, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2001, /*discription*/"デイリーミッション「{0}」で獲得した報酬です。", /*type_1*/25, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2002, /*discription*/"デイリーミッション「{0}」で加入したアイドルです。", /*type_1*/25, /*type_2*/0, /*type_3*/0, /*type_4*/0);

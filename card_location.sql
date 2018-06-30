@@ -533,3 +533,7 @@ INSERT INTO `card_location` VALUES (/*index*/534, /*text*/"学校のグラウン
 INSERT INTO `card_location` VALUES (/*index*/535, /*text*/"放課後の音楽室");
 INSERT INTO `card_location` VALUES (/*index*/536, /*text*/"音楽室");
 INSERT INTO `card_location` VALUES (/*index*/537, /*text*/"立ち飲み屋");
+INSERT INTO `card_location` VALUES (/*index*/538, /*text*/"奄美大島・森の中の滝壺");
+INSERT INTO `card_location` VALUES (/*index*/539, /*text*/"朝陽が差し込む高山");
+INSERT INTO `card_location` VALUES (/*index*/540, /*text*/"水族館・イルカプール");
+INSERT INTO `card_location` VALUES (/*index*/541, /*text*/"夏のハウススタジオ");

@@ -47,6 +47,7 @@ INSERT INTO `music_info` VALUES (/*id*/1045, /*discription*/"五十嵐響子（C
 INSERT INTO `music_info` VALUES (/*id*/1046, /*discription*/"関裕美（CV：会沢紗弥）\n水本ゆかり（CV：藤田茜）\n棟方愛海（CV：藤本彩花）\n\n\n作詞・作曲・編曲：田村歩美");
 INSERT INTO `music_info` VALUES (/*id*/1047, /*discription*/"THE IDOLM@STER CINDERELLA GIRLS!!\n\n高垣楓（CV：早見沙織）\n本田未央（CV：原紗友里）\n藤原肇（CV：鈴木みのり）\n荒木比奈（CV：田辺留依）\n喜多見柚（CV：武田羅梨沙多胡）\n佐久間まゆ（CV：牧野由依）\n村上巴（CV：花井美春）\n関裕美（CV：会沢紗弥）\n緒方智絵里（CV：大空直美）\n\n\n作詞・作曲・編曲：ESTi");
 INSERT INTO `music_info` VALUES (/*id*/1048, /*discription*/"THE IDOLM@STER CINDERELLA GIRLS for BEST5!\n\n高垣楓（CV：早見沙織）\n本田未央（CV：原紗友里）\n藤原肇（CV：鈴木みのり）\n荒木比奈（CV：田辺留依）\n喜多見柚（CV：武田羅梨沙多胡）\n\n\n作詞・作曲：藤田麻衣子\n編曲：滝澤俊輔（TRYTONELABO）");
+INSERT INTO `music_info` VALUES (/*id*/1049, /*discription*/"大槻唯（CV：山下七海）\n緒方智絵里（CV：大空直美）\n新田美波（CV：洲崎綾）\n\n\n作詞：森由里子\n作曲：俊龍\n編曲：Sizuk");
 INSERT INTO `music_info` VALUES (/*id*/1901, /*discription*/"千川ちひろ（CV：佐藤利奈）\n\n\n作詞：marhy\n作曲・編曲：BNSI（内田哲也）\nギター：後藤貴徳\nバイオリン：越川歩\nトランペット：鈴木正則\nコーラス：marhy");
 INSERT INTO `music_info` VALUES (/*id*/1902, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n\n\n作詞：八城雄太\n作曲・編曲：石濱翔（MONACA）");
 INSERT INTO `music_info` VALUES (/*id*/1903, /*discription*/"諸星きらり（CV：松嵜麗）\n\n\n作詞・作曲・編曲：YOFFY（PSYCHIC LOVER）");
