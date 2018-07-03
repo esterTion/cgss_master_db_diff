@@ -537,3 +537,9 @@ INSERT INTO `card_location` VALUES (/*index*/538, /*text*/"奄美大島・森の
 INSERT INTO `card_location` VALUES (/*index*/539, /*text*/"朝陽が差し込む高山");
 INSERT INTO `card_location` VALUES (/*index*/540, /*text*/"水族館・イルカプール");
 INSERT INTO `card_location` VALUES (/*index*/541, /*text*/"夏のハウススタジオ");
+INSERT INTO `card_location` VALUES (/*index*/542, /*text*/"神社・橋の上");
+INSERT INTO `card_location` VALUES (/*index*/543, /*text*/"おばけやしき");
+INSERT INTO `card_location` VALUES (/*index*/544, /*text*/"モンスターハウス風セット");
+INSERT INTO `card_location` VALUES (/*index*/545, /*text*/"祇園・花見小路");
+INSERT INTO `card_location` VALUES (/*index*/546, /*text*/"セーフティエリア");
+INSERT INTO `card_location` VALUES (/*index*/547, /*text*/"森林フィールド");
