@@ -547,3 +547,5 @@ INSERT INTO `card_location` VALUES (/*index*/548, /*text*/"西園寺家・パー
 INSERT INTO `card_location` VALUES (/*index*/549, /*text*/"居酒屋");
 INSERT INTO `card_location` VALUES (/*index*/550, /*text*/"朝の校門前");
 INSERT INTO `card_location` VALUES (/*index*/551, /*text*/"超☆学園祭ステージ");
+INSERT INTO `card_location` VALUES (/*index*/552, /*text*/"灯台を望む浜辺");
+INSERT INTO `card_location` VALUES (/*index*/553, /*text*/"海の家SUN♡FLOWER");

@@ -11,4 +11,5 @@ INSERT INTO `item_category` VALUES (/*category_type*/9, /*category_name*/"宝く
 INSERT INTO `item_category` VALUES (/*category_type*/10, /*category_name*/"交換アイテム");
 INSERT INTO `item_category` VALUES (/*category_type*/11, /*category_name*/"イベントスカウトチケット");
 INSERT INTO `item_category` VALUES (/*category_type*/12, /*category_name*/"総選挙の投票券");
-INSERT INTO `item_category` VALUES (/*category_type*/13, /*category_name*/"");
+INSERT INTO `item_category` VALUES (/*category_type*/13, /*category_name*/"プラチナメダル");
+INSERT INTO `item_category` VALUES (/*category_type*/14, /*category_name*/"プラチナメダル専用スカウトチケット");
