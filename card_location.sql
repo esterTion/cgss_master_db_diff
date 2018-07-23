@@ -549,3 +549,5 @@ INSERT INTO `card_location` VALUES (/*index*/550, /*text*/"朝の校門前");
 INSERT INTO `card_location` VALUES (/*index*/551, /*text*/"超☆学園祭ステージ");
 INSERT INTO `card_location` VALUES (/*index*/552, /*text*/"灯台を望む浜辺");
 INSERT INTO `card_location` VALUES (/*index*/553, /*text*/"海の家SUN♡FLOWER");
+INSERT INTO `card_location` VALUES (/*index*/554, /*text*/"屋内プール");
+INSERT INTO `card_location` VALUES (/*index*/555, /*text*/"屋内プールの特設セット");
