@@ -60,11 +60,3 @@ INSERT INTO `leader_skill_boost_rate` VALUES (/*id*/58, /*position*/5, /*leader_
 INSERT INTO `leader_skill_boost_rate` VALUES (/*id*/59, /*position*/5, /*leader_skill_id*/10, /*rarity*/3, /*boost_rate*/1400);
 INSERT INTO `leader_skill_boost_rate` VALUES (/*id*/60, /*position*/5, /*leader_skill_id*/15, /*rarity*/3, /*boost_rate*/1400);
 INSERT INTO `leader_skill_boost_rate` VALUES (/*id*/61, /*position*/5, /*leader_skill_id*/20, /*rarity*/3, /*boost_rate*/1400);
-INSERT INTO `leader_skill_boost_rate` VALUES (/*id*/62, /*position*/5, /*leader_skill_id*/28, /*rarity*/5, /*boost_rate*/1400);
-INSERT INTO `leader_skill_boost_rate` VALUES (/*id*/63, /*position*/5, /*leader_skill_id*/33, /*rarity*/5, /*boost_rate*/1400);
-INSERT INTO `leader_skill_boost_rate` VALUES (/*id*/64, /*position*/5, /*leader_skill_id*/38, /*rarity*/5, /*boost_rate*/1400);
-INSERT INTO `leader_skill_boost_rate` VALUES (/*id*/65, /*position*/5, /*leader_skill_id*/43, /*rarity*/5, /*boost_rate*/1400);
-INSERT INTO `leader_skill_boost_rate` VALUES (/*id*/66, /*position*/5, /*leader_skill_id*/51, /*rarity*/7, /*boost_rate*/1400);
-INSERT INTO `leader_skill_boost_rate` VALUES (/*id*/67, /*position*/5, /*leader_skill_id*/56, /*rarity*/7, /*boost_rate*/1400);
-INSERT INTO `leader_skill_boost_rate` VALUES (/*id*/68, /*position*/5, /*leader_skill_id*/61, /*rarity*/7, /*boost_rate*/1400);
-INSERT INTO `leader_skill_boost_rate` VALUES (/*id*/69, /*position*/5, /*leader_skill_id*/66, /*rarity*/7, /*boost_rate*/1400);

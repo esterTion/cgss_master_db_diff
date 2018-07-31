@@ -63,6 +63,7 @@ INSERT INTO `music_info` VALUES (/*id*/2009, /*discription*/"城ヶ崎美嘉（C
 INSERT INTO `music_info` VALUES (/*id*/2010, /*discription*/"渋谷凛（CV：福原綾香）\n北条加蓮（CV：渕上舞）\n神谷奈緒（CV：松井恵理子）\n\n\n作詞：奥井雅美\n作曲：上松範康（Elements Garden）\n編曲：藤永龍太郎（Elements Garden）");
 INSERT INTO `music_info` VALUES (/*id*/2011, /*discription*/"小早川紗枝（CV：立花理香）\n塩見周子（CV：ルゥ ティン）\n\n\n作詞：野口圭\n作曲・編曲：渡部チェル");
 INSERT INTO `music_info` VALUES (/*id*/2012, /*discription*/"向井拓海（CV：原優子）\n藤本里奈（CV：金子真由美）\n\n\n作詞：磯谷佳江\n作曲：小野貴光\n編曲：玉木千尋");
+INSERT INTO `music_info` VALUES (/*id*/2013, /*discription*/"安部菜々（CV：三宅麻理恵）\n佐藤心（CV：花守ゆみり）\n\n\n作詞・作曲・編曲：ゆよゆっぺ");
 INSERT INTO `music_info` VALUES (/*id*/3001, /*discription*/"島村卯月（CV：大橋彩香）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（Yoshi）\nコーラス：Mitsu（BNSI）\nギター：後藤貴徳\nバイオリン：Bloom Quartet & Ensemble");
 INSERT INTO `music_info` VALUES (/*id*/3002, /*discription*/"渋谷凛（CV：福原綾香）\n\n\n作詞・作曲：BNEI（遠山明孝・八城雄太）\n作曲：BNEI（遠山明孝）\n編曲：関淳二郎\nギター・コーラス：関淳二郎");
 INSERT INTO `music_info` VALUES (/*id*/3003, /*discription*/"本田未央（CV：原紗友里）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（kyo）\nギター：後藤貴徳");

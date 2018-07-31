@@ -551,3 +551,11 @@ INSERT INTO `card_location` VALUES (/*index*/552, /*text*/"灯台を望む浜辺
 INSERT INTO `card_location` VALUES (/*index*/553, /*text*/"海の家SUN♡FLOWER");
 INSERT INTO `card_location` VALUES (/*index*/554, /*text*/"屋内プール");
 INSERT INTO `card_location` VALUES (/*index*/555, /*text*/"屋内プールの特設セット");
+INSERT INTO `card_location` VALUES (/*index*/556, /*text*/"スパリゾート");
+INSERT INTO `card_location` VALUES (/*index*/557, /*text*/"トロピカルLIVEステージ");
+INSERT INTO `card_location` VALUES (/*index*/558, /*text*/"ホテル・プール");
+INSERT INTO `card_location` VALUES (/*index*/559, /*text*/"ホテル・中庭");
+INSERT INTO `card_location` VALUES (/*index*/560, /*text*/"南国の海");
+INSERT INTO `card_location` VALUES (/*index*/561, /*text*/"楽屋裏");
+INSERT INTO `card_location` VALUES (/*index*/562, /*text*/"魔法少女☆ステージ");
+INSERT INTO `card_location` VALUES (/*index*/563, /*text*/"誓いの眼鏡橋");

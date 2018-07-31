@@ -98,3 +98,10 @@ INSERT INTO `tour_story_detail` VALUES (/*id*/3399, /*event_id*/5011, /*type*/0,
 INSERT INTO `tour_story_detail` VALUES (/*id*/3400, /*event_id*/5011, /*type*/2, /*open_event_point*/0, /*next_detail_id*/0);
 INSERT INTO `tour_story_detail` VALUES (/*id*/3401, /*event_id*/5011, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
 INSERT INTO `tour_story_detail` VALUES (/*id*/3402, /*event_id*/5011, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
+INSERT INTO `tour_story_detail` VALUES (/*id*/3467, /*event_id*/5012, /*type*/1, /*open_event_point*/0, /*next_detail_id*/3468);
+INSERT INTO `tour_story_detail` VALUES (/*id*/3468, /*event_id*/5012, /*type*/0, /*open_event_point*/500, /*next_detail_id*/3469);
+INSERT INTO `tour_story_detail` VALUES (/*id*/3469, /*event_id*/5012, /*type*/0, /*open_event_point*/1000, /*next_detail_id*/3470);
+INSERT INTO `tour_story_detail` VALUES (/*id*/3470, /*event_id*/5012, /*type*/0, /*open_event_point*/3000, /*next_detail_id*/3471);
+INSERT INTO `tour_story_detail` VALUES (/*id*/3471, /*event_id*/5012, /*type*/0, /*open_event_point*/7000, /*next_detail_id*/3472);
+INSERT INTO `tour_story_detail` VALUES (/*id*/3472, /*event_id*/5012, /*type*/0, /*open_event_point*/10000, /*next_detail_id*/3473);
+INSERT INTO `tour_story_detail` VALUES (/*id*/3473, /*event_id*/5012, /*type*/2, /*open_event_point*/0, /*next_detail_id*/0);

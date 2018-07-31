@@ -1398,7 +1398,7 @@ INSERT INTO `text_data` VALUES (/*category*/37, /*index*/13, /*text*/"　使用�
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/14, /*text*/"プロデュースptは、最大[D33D98]{0}[-]ptまで増加します");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/15, /*text*/"{0}を使用することで、\n[D33D98]{1}[-]ptまでボーナスを獲得できます");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/16, /*text*/"ファン人数を増やすことで、\n[D33D98]{0}[-]ptまでボーナスを獲得できます");
-INSERT INTO `text_data` VALUES (/*category*/37, /*index*/17, /*text*/"ポテンシャルpt詳細");
+INSERT INTO `text_data` VALUES (/*category*/37, /*index*/17, /*text*/"プロデュースpt詳細");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/18, /*text*/"アイテム使用結果");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/19, /*text*/"レシピ使用");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/1, /*text*/"近日公開予定の機能のため、現在利用できません");
