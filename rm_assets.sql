@@ -73,3 +73,4 @@ INSERT INTO `rm_assets` VALUES (/*id*/71, /*name*/"song_1944.acb");
 INSERT INTO `rm_assets` VALUES (/*id*/72, /*name*/"song_1945.acb");
 INSERT INTO `rm_assets` VALUES (/*id*/73, /*name*/"song_1946.acb");
 INSERT INTO `rm_assets` VALUES (/*id*/74, /*name*/"song_1947.acb");
+CREATE INDEX 'rm_assets_0_name' on 'rm_assets'('name');

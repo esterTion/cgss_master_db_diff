@@ -28,3 +28,4 @@ INSERT INTO `anim_event_side_on` VALUES (/*card_id*/100355, /*side_on_flag*/1);
 INSERT INTO `anim_event_side_on` VALUES (/*card_id*/300373, /*side_on_flag*/1);
 INSERT INTO `anim_event_side_on` VALUES (/*card_id*/200407, /*side_on_flag*/1);
 INSERT INTO `anim_event_side_on` VALUES (/*card_id*/300419, /*side_on_flag*/1);
+CREATE INDEX 'anim_event_side_on_0_card_id' on 'anim_event_side_on'('card_id');

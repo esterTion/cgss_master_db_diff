@@ -470,3 +470,4 @@ INSERT INTO `rail_circle_data` VALUES (/*id*/468, /*event_id*/6004, /*area_id*/1
 INSERT INTO `rail_circle_data` VALUES (/*id*/469, /*event_id*/6004, /*area_id*/11, /*circle_id*/98, /*circle_type*/0, /*bonus_type*/5);
 INSERT INTO `rail_circle_data` VALUES (/*id*/470, /*event_id*/6004, /*area_id*/11, /*circle_id*/99, /*circle_type*/0, /*bonus_type*/5);
 INSERT INTO `rail_circle_data` VALUES (/*id*/471, /*event_id*/6004, /*area_id*/11, /*circle_id*/100, /*circle_type*/2, /*bonus_type*/5);
+CREATE INDEX 'rail_circle_data_0_event_id_1_area_id' on 'rail_circle_data'('event_id','area_id');

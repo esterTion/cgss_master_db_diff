@@ -76,3 +76,4 @@ INSERT INTO `tour_live_exclude` VALUES (/*event_id*/5012, /*live_id*/903);
 INSERT INTO `tour_live_exclude` VALUES (/*event_id*/5012, /*live_id*/904);
 INSERT INTO `tour_live_exclude` VALUES (/*event_id*/5012, /*live_id*/905);
 INSERT INTO `tour_live_exclude` VALUES (/*event_id*/5012, /*live_id*/906);
+CREATE INDEX 'tour_live_exclude_0_event_id' on 'tour_live_exclude'('event_id');

@@ -41,3 +41,4 @@ INSERT INTO `dress_color_data` VALUES (/*chara_id*/275, /*dress_id*/5, /*model_t
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/283, /*dress_id*/5, /*model_type*/1, /*color_id*/1);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/287, /*dress_id*/5, /*model_type*/1, /*color_id*/1);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/297, /*dress_id*/5, /*model_type*/1, /*color_id*/1);
+CREATE INDEX 'dress_color_data_0_chara_id_1_model_type' on 'dress_color_data'('chara_id','model_type');

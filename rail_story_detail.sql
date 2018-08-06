@@ -39,3 +39,4 @@ INSERT INTO `rail_story_detail` VALUES (/*id*/3444, /*event_id*/6004, /*type*/0,
 INSERT INTO `rail_story_detail` VALUES (/*id*/3445, /*event_id*/6004, /*type*/0, /*group_id*/2, /*open_rap_id*/2, /*next_detail_id*/3446);
 INSERT INTO `rail_story_detail` VALUES (/*id*/3446, /*event_id*/6004, /*type*/0, /*group_id*/2, /*open_rap_id*/3, /*next_detail_id*/3447);
 INSERT INTO `rail_story_detail` VALUES (/*id*/3447, /*event_id*/6004, /*type*/0, /*group_id*/2, /*open_rap_id*/4, /*next_detail_id*/0);
+CREATE INDEX 'rail_story_detail_0_event_id' on 'rail_story_detail'('event_id');

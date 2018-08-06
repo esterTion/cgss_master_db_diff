@@ -72,3 +72,4 @@ INSERT INTO `tour_point_reward` VALUES (/*id*/70, /*event_id*/5012, /*need_point
 INSERT INTO `tour_point_reward` VALUES (/*id*/71, /*event_id*/5012, /*need_point*/38000, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `tour_point_reward` VALUES (/*id*/72, /*event_id*/5012, /*need_point*/39000, /*reward_type*/5, /*reward_id*/1, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `tour_point_reward` VALUES (/*id*/73, /*event_id*/5012, /*need_point*/40000, /*reward_type*/6, /*reward_id*/100563, /*reward_value*/1, /*add_value_1*/1, /*add_value_2*/0, /*add_value_3*/1);
+CREATE INDEX 'tour_point_reward_0_event_id' on 'tour_point_reward'('event_id');

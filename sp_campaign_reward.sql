@@ -88,3 +88,5 @@ INSERT INTO `sp_campaign_reward` VALUES (/*id*/88, /*campaign_id*/10003, /*rank*
 INSERT INTO `sp_campaign_reward` VALUES (/*id*/89, /*campaign_id*/10003, /*rank*/8, /*reward_type*/4, /*reward_id*/0, /*reward_value*/25, /*lot_num*/7500000, /*condition_level*/20, /*reward_limit_day*/0, /*remaining_lot_flag*/0, /*message_id*/20007);
 INSERT INTO `sp_campaign_reward` VALUES (/*id*/90, /*campaign_id*/10003, /*rank*/9, /*reward_type*/5, /*reward_id*/30002, /*reward_value*/1, /*lot_num*/0, /*condition_level*/0, /*reward_limit_day*/0, /*remaining_lot_flag*/1, /*message_id*/20007);
 INSERT INTO `sp_campaign_reward` VALUES (/*id*/91, /*campaign_id*/10003, /*rank*/9, /*reward_type*/1, /*reward_id*/0, /*reward_value*/5000, /*lot_num*/0, /*condition_level*/0, /*reward_limit_day*/0, /*remaining_lot_flag*/1, /*message_id*/20007);
+CREATE INDEX 'sp_campaign_reward_0_campaign_id' on 'sp_campaign_reward'('campaign_id');
+CREATE INDEX 'sp_campaign_reward_0_campaign_id_1_rank' on 'sp_campaign_reward'('campaign_id','rank');

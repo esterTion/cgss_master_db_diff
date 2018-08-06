@@ -446,3 +446,4 @@ INSERT INTO `mv_list_performer` VALUES (/*id*/444, /*stage_id*/25, /*chara_id*/1
 INSERT INTO `mv_list_performer` VALUES (/*id*/445, /*stage_id*/25, /*chara_id*/271, /*play_start*/1);
 INSERT INTO `mv_list_performer` VALUES (/*id*/446, /*stage_id*/25, /*chara_id*/267, /*play_start*/1);
 INSERT INTO `mv_list_performer` VALUES (/*id*/447, /*stage_id*/25, /*chara_id*/220, /*play_start*/1);
+CREATE INDEX 'mv_list_performer_0_stage_id' on 'mv_list_performer'('stage_id');

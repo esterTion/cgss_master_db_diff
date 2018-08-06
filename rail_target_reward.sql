@@ -10,3 +10,4 @@ INSERT INTO `rail_target_reward` VALUES (/*id*/8, /*event_id*/6004, /*group_id*/
 INSERT INTO `rail_target_reward` VALUES (/*id*/9, /*event_id*/6004, /*group_id*/2, /*rap_id*/3, /*reward_type*/9, /*reward_id*/3446, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `rail_target_reward` VALUES (/*id*/10, /*event_id*/6004, /*group_id*/2, /*rap_id*/4, /*reward_type*/9, /*reward_id*/3447, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `rail_target_reward` VALUES (/*id*/11, /*event_id*/6004, /*group_id*/2, /*rap_id*/4, /*reward_type*/6, /*reward_id*/100555, /*reward_value*/1, /*add_value_1*/1, /*add_value_2*/0, /*add_value_3*/1);
+CREATE INDEX 'rail_target_reward_0_event_id' on 'rail_target_reward'('event_id');

@@ -92,3 +92,4 @@ INSERT INTO `leader_boost_rate_re` VALUES (/*id*/90, /*term_id*/0, /*life_max*/1
 INSERT INTO `leader_boost_rate_re` VALUES (/*id*/91, /*term_id*/0, /*life_max*/135, /*life_min*/130, /*boost_rate*/3660);
 INSERT INTO `leader_boost_rate_re` VALUES (/*id*/92, /*term_id*/0, /*life_max*/140, /*life_min*/136, /*boost_rate*/3670);
 INSERT INTO `leader_boost_rate_re` VALUES (/*id*/93, /*term_id*/0, /*life_max*/1000, /*life_min*/141, /*boost_rate*/3680);
+CREATE INDEX 'leader_boost_rate_re_0_term_id' on 'leader_boost_rate_re'('term_id');

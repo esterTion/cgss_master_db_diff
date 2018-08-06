@@ -78,3 +78,4 @@ INSERT INTO `atapon_point_reward` VALUES (/*id*/76, /*event_id*/1035, /*need_poi
 INSERT INTO `atapon_point_reward` VALUES (/*id*/77, /*event_id*/1035, /*need_point*/48000, /*reward_type*/5, /*reward_id*/30004, /*reward_value*/2, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `atapon_point_reward` VALUES (/*id*/78, /*event_id*/1035, /*need_point*/49000, /*reward_type*/1, /*reward_id*/0, /*reward_value*/50000, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `atapon_point_reward` VALUES (/*id*/79, /*event_id*/1035, /*need_point*/50000, /*reward_type*/6, /*reward_id*/300535, /*reward_value*/1, /*add_value_1*/1, /*add_value_2*/0, /*add_value_3*/1);
+CREATE INDEX 'atapon_point_reward_0_event_id' on 'atapon_point_reward'('event_id');

@@ -348,3 +348,4 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90602, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90602, /*img*/1, /*discription*/"「スタミナドリンク50」を3個獲得できます。\n※有償スタージュエルでのみ購入することができます");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90602, /*img*/2, /*discription*/"「投票券」は好きなアイドルに投票を行えるアイテムです。\n投票はシンデレラガール総選挙のページにて、行うことができます。\n※投票終了日時である「5月9日 18:59」まで使用が可能です。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90602, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に開催中の\nプラチナ10連ガシャを引けるチケットです。プラチナガシャと同様に、\nSレア以上のアイドル1人が確定で出現します。\n※購入してから180日後の23:59まで使用できます。");
+CREATE INDEX 'individual_tutorial_0_id' on 'individual_tutorial'('id');

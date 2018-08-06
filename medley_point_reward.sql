@@ -80,3 +80,4 @@ INSERT INTO `medley_point_reward` VALUES (/*id*/102, /*event_id*/3022, /*need_po
 INSERT INTO `medley_point_reward` VALUES (/*id*/103, /*event_id*/3022, /*need_point*/48000, /*reward_type*/5, /*reward_id*/1, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `medley_point_reward` VALUES (/*id*/104, /*event_id*/3022, /*need_point*/49000, /*reward_type*/1, /*reward_id*/0, /*reward_value*/50000, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `medley_point_reward` VALUES (/*id*/105, /*event_id*/3022, /*need_point*/50000, /*reward_type*/6, /*reward_id*/200551, /*reward_value*/1, /*add_value_1*/1, /*add_value_2*/0, /*add_value_3*/1);
+CREATE INDEX 'medley_point_reward_0_event_id' on 'medley_point_reward'('event_id');

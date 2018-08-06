@@ -182,3 +182,4 @@ INSERT INTO `idel_vote_idol` VALUES (/*id*/174, /*campaign_id*/10001, /*card_id*
 INSERT INTO `idel_vote_idol` VALUES (/*id*/137, /*campaign_id*/10001, /*card_id*/300319, /*use_type*/0, /*index*/1, /*description*/"やったぁ ! 絶好のタイミングですよっ !\n{0}プロデューサーのエールで、私もリズムに\nのってきました☆まだまだ加速の余地あり !", /*insert_word_type*/0);
 INSERT INTO `idel_vote_idol` VALUES (/*id*/169, /*campaign_id*/10001, /*card_id*/320209, /*use_type*/0, /*index*/1, /*description*/"{0}さんのエールが起こした、強い風…\n頃合いだね。風は乗り時、波は走り時 !\nここで全力で行くのが杉坂海ってオンナさ !", /*insert_word_type*/0);
 INSERT INTO `idel_vote_idol` VALUES (/*id*/132, /*campaign_id*/10001, /*card_id*/320223, /*use_type*/0, /*index*/1, /*description*/"はいっ、{0}プロデューサー !\n今日の私もキレ良くフレッシュ ! 日々のケアはバッチリです。\n多くの人に私を見てもらいたいですから♪", /*insert_word_type*/0);
+CREATE INDEX 'idel_vote_idol_0_campaign_id' on 'idel_vote_idol'('campaign_id');

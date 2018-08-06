@@ -52,3 +52,4 @@ INSERT INTO `rail_area_bonus` VALUES (/*id*/50, /*event_id*/6004, /*group_id*/2,
 INSERT INTO `rail_area_bonus` VALUES (/*id*/51, /*event_id*/6004, /*group_id*/2, /*rap_id*/5, /*map_type_1*/1, /*map_value_1*/61, /*map_type_2*/0, /*map_value_2*/0, /*map_bonus*/250);
 INSERT INTO `rail_area_bonus` VALUES (/*id*/52, /*event_id*/6004, /*group_id*/2, /*rap_id*/5, /*map_type_1*/1, /*map_value_1*/75, /*map_type_2*/0, /*map_value_2*/0, /*map_bonus*/300);
 INSERT INTO `rail_area_bonus` VALUES (/*id*/53, /*event_id*/6004, /*group_id*/2, /*rap_id*/5, /*map_type_1*/1, /*map_value_1*/80, /*map_type_2*/0, /*map_value_2*/0, /*map_bonus*/500);
+CREATE INDEX 'rail_area_bonus_0_event_id' on 'rail_area_bonus'('event_id');

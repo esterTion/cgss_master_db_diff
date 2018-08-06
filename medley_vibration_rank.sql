@@ -369,3 +369,4 @@ INSERT INTO `medley_vibration_rank` VALUES (/*id*/367, /*event_id*/3022, /*diffi
 INSERT INTO `medley_vibration_rank` VALUES (/*id*/368, /*event_id*/3022, /*difficulty_type*/5, /*score_rank*/4, /*encore_type*/3, /*vibrartion_min*/95, /*vibrartion_max*/96, /*get_base_point*/503);
 INSERT INTO `medley_vibration_rank` VALUES (/*id*/369, /*event_id*/3022, /*difficulty_type*/5, /*score_rank*/4, /*encore_type*/3, /*vibrartion_min*/97, /*vibrartion_max*/98, /*get_base_point*/504);
 INSERT INTO `medley_vibration_rank` VALUES (/*id*/370, /*event_id*/3022, /*difficulty_type*/5, /*score_rank*/4, /*encore_type*/3, /*vibrartion_min*/99, /*vibrartion_max*/100, /*get_base_point*/505);
+CREATE INDEX 'medley_vibration_rank_0_event_id_1_difficulty_type' on 'medley_vibration_rank'('event_id','difficulty_type');

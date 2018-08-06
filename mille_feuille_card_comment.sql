@@ -11,3 +11,4 @@ INSERT INTO `mille_feuille_card_comment` VALUES (/*id*/9, /*comment_id*/900015, 
 INSERT INTO `mille_feuille_card_comment` VALUES (/*id*/10, /*comment_id*/900015, /*use_type*/3, /*index*/2, /*voice_flag*/1, /*description*/"みんなを助けてくれて、ありがとにぃ。きらりも、はっぴはぴ !", /*insert_word_type*/0);
 INSERT INTO `mille_feuille_card_comment` VALUES (/*id*/11, /*comment_id*/900017, /*use_type*/3, /*index*/1, /*voice_flag*/1, /*description*/"やっぱり平和が一番だよ…これが幸せ…おやすみ……", /*insert_word_type*/0);
 INSERT INTO `mille_feuille_card_comment` VALUES (/*id*/12, /*comment_id*/900017, /*use_type*/3, /*index*/2, /*voice_flag*/1, /*description*/"ま、勝てたのは杏のサポートあってこそだね。だから、ご褒美に飴を…", /*insert_word_type*/0);
+CREATE INDEX 'mille_feuille_card_comment_0_comment_id' on 'mille_feuille_card_comment'('comment_id');

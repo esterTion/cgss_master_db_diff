@@ -3,3 +3,5 @@ INSERT INTO `room_item_gift` VALUES (/*id*/1, /*room_item_id*/352, /*reward_date
 INSERT INTO `room_item_gift` VALUES (/*id*/2, /*room_item_id*/510, /*reward_date*/"2016-2-14 00:00:00", /*receive_limit_date*/"2016-2-22 00:00:00", /*reward_type*/5, /*reward_id*/101, /*reward_num*/1, /*image*/"item_00101_s", /*save_new_id*/2);
 INSERT INTO `room_item_gift` VALUES (/*id*/3, /*room_item_id*/1220, /*reward_date*/"2016-12-25 00:00:00", /*receive_limit_date*/"2017-1-5 00:00:00", /*reward_type*/7, /*reward_id*/1221, /*reward_num*/1, /*image*/"room_item_001221_s", /*save_new_id*/1);
 INSERT INTO `room_item_gift` VALUES (/*id*/4, /*room_item_id*/2032, /*reward_date*/"2017-12-25 00:00:00", /*receive_limit_date*/"2018-1-5 00:00:00", /*reward_type*/7, /*reward_id*/2033, /*reward_num*/1, /*image*/"room_item_002033_s", /*save_new_id*/1);
+CREATE INDEX 'room_item_gift_0_room_item_id' on 'room_item_gift'('room_item_id');
+CREATE INDEX 'room_item_gift_0_id_1_room_item_id' on 'room_item_gift'('id','room_item_id');

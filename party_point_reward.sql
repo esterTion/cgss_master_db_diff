@@ -21,3 +21,4 @@ INSERT INTO `party_point_reward` VALUES (/*id*/19, /*event_id*/4008, /*need_poin
 INSERT INTO `party_point_reward` VALUES (/*id*/20, /*event_id*/4008, /*need_point*/14000, /*reward_type*/5, /*reward_id*/30003, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*loop_value*/0);
 INSERT INTO `party_point_reward` VALUES (/*id*/21, /*event_id*/4008, /*need_point*/15000, /*reward_type*/6, /*reward_id*/300419, /*reward_value*/1, /*add_value_1*/1, /*add_value_2*/0, /*add_value_3*/1, /*loop_value*/0);
 INSERT INTO `party_point_reward` VALUES (/*id*/22, /*event_id*/4008, /*need_point*/20000, /*reward_type*/5, /*reward_id*/4, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*loop_value*/5000);
+CREATE INDEX 'party_point_reward_0_event_id' on 'party_point_reward'('event_id');

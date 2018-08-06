@@ -24,3 +24,4 @@ INSERT INTO `medley_vibration_change` VALUES (/*id*/22, /*event_id*/3022, /*diff
 INSERT INTO `medley_vibration_change` VALUES (/*id*/23, /*event_id*/3022, /*difficulty_type*/5, /*tap_judge*/3, /*change_type*/2, /*increase_decrease*/1, /*change_value*/0, /*rank_s_condition_adjust*/466);
 INSERT INTO `medley_vibration_change` VALUES (/*id*/24, /*event_id*/3022, /*difficulty_type*/5, /*tap_judge*/4, /*change_type*/2, /*increase_decrease*/2, /*change_value*/5000, /*rank_s_condition_adjust*/466);
 INSERT INTO `medley_vibration_change` VALUES (/*id*/25, /*event_id*/3022, /*difficulty_type*/5, /*tap_judge*/5, /*change_type*/2, /*increase_decrease*/2, /*change_value*/10000, /*rank_s_condition_adjust*/466);
+CREATE INDEX 'medley_vibration_change_0_event_id_1_difficulty_type' on 'medley_vibration_change'('event_id','difficulty_type');

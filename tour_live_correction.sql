@@ -4,3 +4,4 @@ INSERT INTO `tour_live_correction` VALUES (/*id*/2, /*event_id*/5012, /*difficul
 INSERT INTO `tour_live_correction` VALUES (/*id*/3, /*event_id*/5012, /*difficulty*/3, /*score_rate*/821, /*ceiling_score*/460000, /*need_param*/130000);
 INSERT INTO `tour_live_correction` VALUES (/*id*/4, /*event_id*/5012, /*difficulty*/4, /*score_rate*/837, /*ceiling_score*/740000, /*need_param*/170000);
 INSERT INTO `tour_live_correction` VALUES (/*id*/5, /*event_id*/5012, /*difficulty*/5, /*score_rate*/395, /*ceiling_score*/1200000, /*need_param*/200000);
+CREATE INDEX 'tour_live_correction_0_event_id_1_difficulty' on 'tour_live_correction'('event_id','difficulty');

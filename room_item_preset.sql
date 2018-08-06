@@ -26,3 +26,4 @@ INSERT INTO `room_item_preset` VALUES (/*id*/24, /*event_id*/4008, /*serial_id*/
 INSERT INTO `room_item_preset` VALUES (/*id*/25, /*event_id*/4008, /*serial_id*/25, /*item_id*/1314, /*item_type*/1, /*level*/1, /*dir_type*/1, /*pos_no*/5);
 INSERT INTO `room_item_preset` VALUES (/*id*/26, /*event_id*/4008, /*serial_id*/26, /*item_id*/1318, /*item_type*/2, /*level*/1, /*dir_type*/1, /*pos_no*/12);
 INSERT INTO `room_item_preset` VALUES (/*id*/27, /*event_id*/4008, /*serial_id*/27, /*item_id*/1319, /*item_type*/2, /*level*/1, /*dir_type*/0, /*pos_no*/24);
+CREATE INDEX 'room_item_preset_0_event_id' on 'room_item_preset'('event_id');

@@ -20,3 +20,4 @@ INSERT INTO `leader_boost_rate` VALUES (/*id*/18, /*event_id*/4008, /*life_max*/
 INSERT INTO `leader_boost_rate` VALUES (/*id*/19, /*event_id*/4008, /*life_max*/88, /*life_min*/86, /*boost_rate*/3620);
 INSERT INTO `leader_boost_rate` VALUES (/*id*/20, /*event_id*/4008, /*life_max*/90, /*life_min*/89, /*boost_rate*/3650);
 INSERT INTO `leader_boost_rate` VALUES (/*id*/21, /*event_id*/4008, /*life_max*/1000, /*life_min*/91, /*boost_rate*/3680);
+CREATE INDEX 'leader_boost_rate_0_event_id' on 'leader_boost_rate'('event_id');

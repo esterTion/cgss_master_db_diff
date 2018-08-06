@@ -63,3 +63,4 @@ INSERT INTO `tour_audience_reward` VALUES (/*id*/61, /*event_id*/5012, /*need_au
 INSERT INTO `tour_audience_reward` VALUES (/*id*/62, /*event_id*/5012, /*need_audience*/1700000, /*reward_type*/6, /*reward_id*/100563, /*reward_value*/1, /*add_value_1*/1, /*add_value_2*/0, /*add_value_3*/1);
 INSERT INTO `tour_audience_reward` VALUES (/*id*/63, /*event_id*/5012, /*need_audience*/1800000, /*reward_type*/6, /*reward_id*/100563, /*reward_value*/1, /*add_value_1*/1, /*add_value_2*/0, /*add_value_3*/1);
 INSERT INTO `tour_audience_reward` VALUES (/*id*/64, /*event_id*/5012, /*need_audience*/2000000, /*reward_type*/6, /*reward_id*/100563, /*reward_value*/1, /*add_value_1*/1, /*add_value_2*/0, /*add_value_3*/1);
+CREATE INDEX 'tour_audience_reward_0_event_id' on 'tour_audience_reward'('event_id');

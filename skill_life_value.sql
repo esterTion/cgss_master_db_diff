@@ -160,3 +160,4 @@ INSERT INTO `skill_life_value` VALUES (/*id*/158, /*life_value*/1570, /*type_01_
 INSERT INTO `skill_life_value` VALUES (/*id*/159, /*life_value*/1580, /*type_01_value*/141, /*type_02_value*/136, /*type_03_value*/0, /*type_04_value*/0, /*type_05_value*/0, /*type_06_value*/0);
 INSERT INTO `skill_life_value` VALUES (/*id*/160, /*life_value*/1590, /*type_01_value*/141, /*type_02_value*/136, /*type_03_value*/0, /*type_04_value*/0, /*type_05_value*/0, /*type_06_value*/0);
 INSERT INTO `skill_life_value` VALUES (/*id*/161, /*life_value*/1600, /*type_01_value*/141, /*type_02_value*/136, /*type_03_value*/0, /*type_04_value*/0, /*type_05_value*/0, /*type_06_value*/0);
+CREATE INDEX 'skill_life_value_0_life_value' on 'skill_life_value'('life_value');

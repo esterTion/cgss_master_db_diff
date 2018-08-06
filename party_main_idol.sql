@@ -7,3 +7,4 @@ INSERT INTO `party_main_idol` VALUES (/*event_id*/4005, /*main_idol*/100355);
 INSERT INTO `party_main_idol` VALUES (/*event_id*/4006, /*main_idol*/300373);
 INSERT INTO `party_main_idol` VALUES (/*event_id*/4007, /*main_idol*/200407);
 INSERT INTO `party_main_idol` VALUES (/*event_id*/4008, /*main_idol*/300419);
+CREATE INDEX 'party_main_idol_0_main_idol' on 'party_main_idol'('main_idol');

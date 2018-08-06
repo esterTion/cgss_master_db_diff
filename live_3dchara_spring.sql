@@ -87,3 +87,4 @@ INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/9016, /*chara_id*/189, /*d
 INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/9016, /*chara_id*/220, /*dress_id*/2022, /*head_ratio*/100, /*body_ratio*/150);
 INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/9016, /*chara_id*/230, /*dress_id*/2060, /*head_ratio*/100, /*body_ratio*/130);
 INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/9016, /*chara_id*/257, /*dress_id*/3017, /*head_ratio*/100, /*body_ratio*/140);
+CREATE INDEX 'live_3dchara_spring_0_music_id_1_chara_id' on 'live_3dchara_spring'('music_id','chara_id');

@@ -43,3 +43,4 @@ INSERT INTO `room_set_detail00003` VALUES (/*id*/41, /*set_id*/3, /*serial_id*/4
 INSERT INTO `room_set_detail00003` VALUES (/*id*/42, /*set_id*/3, /*serial_id*/42, /*item_id*/686, /*item_type*/2, /*level*/1, /*dir_type*/0, /*pos_no*/22, /*sort*/34);
 INSERT INTO `room_set_detail00003` VALUES (/*id*/43, /*set_id*/3, /*serial_id*/43, /*item_id*/935, /*item_type*/2, /*level*/1, /*dir_type*/0, /*pos_no*/23, /*sort*/40);
 INSERT INTO `room_set_detail00003` VALUES (/*id*/44, /*set_id*/3, /*serial_id*/44, /*item_id*/937, /*item_type*/2, /*level*/1, /*dir_type*/0, /*pos_no*/24, /*sort*/36);
+CREATE INDEX 'room_set_detail00003_0_set_id' on 'room_set_detail00003'('set_id');

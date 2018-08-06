@@ -495,3 +495,4 @@ INSERT INTO `login_bonus_detail` VALUES (/*id*/493, /*campaign_id*/9032, /*rap*/
 INSERT INTO `login_bonus_detail` VALUES (/*id*/494, /*campaign_id*/9032, /*rap*/1, /*count*/14, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*image*/"item_90021_s_50");
 INSERT INTO `login_bonus_detail` VALUES (/*id*/495, /*campaign_id*/9032, /*rap*/1, /*count*/15, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*image*/"item_90021_s_50");
 INSERT INTO `login_bonus_detail` VALUES (/*id*/496, /*campaign_id*/9032, /*rap*/1, /*count*/16, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0, /*image*/"item_90021_s_50");
+CREATE INDEX 'login_bonus_detail_0_campaign_id_1_rap_2_count' on 'login_bonus_detail'('campaign_id','rap','count');

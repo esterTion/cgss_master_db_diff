@@ -49,3 +49,4 @@ INSERT INTO `rail_circle_reward` VALUES (/*id*/47, /*event_id*/6004, /*group_id*
 INSERT INTO `rail_circle_reward` VALUES (/*id*/48, /*event_id*/6004, /*group_id*/2, /*rap_id*/5, /*circle_id*/80, /*reward_type*/1, /*reward_id*/0, /*reward_value*/18000, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `rail_circle_reward` VALUES (/*id*/49, /*event_id*/6004, /*group_id*/2, /*rap_id*/5, /*circle_id*/90, /*reward_type*/5, /*reward_id*/30003, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `rail_circle_reward` VALUES (/*id*/50, /*event_id*/6004, /*group_id*/2, /*rap_id*/5, /*circle_id*/100, /*reward_type*/6, /*reward_id*/100555, /*reward_value*/1, /*add_value_1*/1, /*add_value_2*/0, /*add_value_3*/1);
+CREATE INDEX 'rail_circle_reward_0_event_id' on 'rail_circle_reward'('event_id');

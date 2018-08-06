@@ -4,3 +4,5 @@ INSERT INTO `atapon_detail` VALUES (/*id*/2, /*event_id*/1035, /*live_detail_id*
 INSERT INTO `atapon_detail` VALUES (/*id*/3, /*event_id*/1035, /*live_detail_id*/1192, /*max_event_point*/240, /*cost_type*/5, /*cost_id*/50035, /*cost_value*/120, /*bet_type*/1);
 INSERT INTO `atapon_detail` VALUES (/*id*/4, /*event_id*/1035, /*live_detail_id*/1193, /*max_event_point*/320, /*cost_type*/5, /*cost_id*/50035, /*cost_value*/150, /*bet_type*/1);
 INSERT INTO `atapon_detail` VALUES (/*id*/5, /*event_id*/1035, /*live_detail_id*/1194, /*max_event_point*/320, /*cost_type*/5, /*cost_id*/50035, /*cost_value*/150, /*bet_type*/1);
+CREATE INDEX 'atapon_detail_0_event_id' on 'atapon_detail'('event_id');
+CREATE INDEX 'atapon_detail_0_event_id_1_live_detail_id' on 'atapon_detail'('event_id','live_detail_id');

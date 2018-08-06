@@ -26,3 +26,5 @@ INSERT INTO `rail_area_comment` VALUES (/*id*/24, /*event_id*/6004, /*group_id*/
 INSERT INTO `rail_area_comment` VALUES (/*id*/25, /*event_id*/6004, /*group_id*/2, /*rap_id*/2, /*comment_id*/100555, /*use_type*/3, /*description*/"失敗も学びのひとつ ! 諦めなければ、必ず達成できますわ !", /*insert_word_type*/0);
 INSERT INTO `rail_area_comment` VALUES (/*id*/26, /*event_id*/6004, /*group_id*/2, /*rap_id*/3, /*comment_id*/100555, /*use_type*/3, /*description*/"私たちのペースで参りましょう。ゆっくりでも一歩ずつ前へ !", /*insert_word_type*/0);
 INSERT INTO `rail_area_comment` VALUES (/*id*/27, /*event_id*/6004, /*group_id*/2, /*rap_id*/4, /*comment_id*/100555, /*use_type*/3, /*description*/"この悔しさを胸に、もう一度挑みましょう !", /*insert_word_type*/0);
+CREATE INDEX 'rail_area_comment_0_event_id' on 'rail_area_comment'('event_id');
+CREATE INDEX 'rail_area_comment_0_group_id' on 'rail_area_comment'('group_id');

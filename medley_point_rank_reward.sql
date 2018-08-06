@@ -37,3 +37,4 @@ INSERT INTO `medley_point_rank_reward` VALUES (/*id*/35, /*event_id*/3022, /*ran
 INSERT INTO `medley_point_rank_reward` VALUES (/*id*/36, /*event_id*/3022, /*rank_min*/300001, /*rank_max*/500000, /*reward_type*/4, /*reward_id*/0, /*reward_value*/100, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `medley_point_rank_reward` VALUES (/*id*/37, /*event_id*/3022, /*rank_min*/500001, /*rank_max*/1000000, /*reward_type*/5, /*reward_id*/30001, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `medley_point_rank_reward` VALUES (/*id*/38, /*event_id*/3022, /*rank_min*/500001, /*rank_max*/1000000, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+CREATE INDEX 'medley_point_rank_reward_0_event_id' on 'medley_point_rank_reward'('event_id');

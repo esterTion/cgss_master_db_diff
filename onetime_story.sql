@@ -28,3 +28,4 @@ INSERT INTO `onetime_story` VALUES (/*id*/27, /*name*/"MCパート2", /*story_id
 INSERT INTO `onetime_story` VALUES (/*id*/28, /*name*/"MCパート3", /*story_id*/3132, /*transition*/0, /*page_index*/0, /*start_date*/"2017-12-31 22:00:00", /*end_date*/"2017-12-31 23:59:59", /*play_order*/707, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/32, /*name*/"エンディング", /*story_id*/3136, /*transition*/6, /*page_index*/0, /*start_date*/"2018-01-01 00:00:00", /*end_date*/"2018-01-01 11:59:59", /*play_order*/708, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/33, /*name*/"エイプリル2018", /*story_id*/3243, /*transition*/203, /*page_index*/0, /*start_date*/"2018-04-01 00:00:00", /*end_date*/"2018-04-01 23:59:59", /*play_order*/709, /*notice_type*/0);
+CREATE INDEX 'onetime_story_0_story_id' on 'onetime_story'('story_id');

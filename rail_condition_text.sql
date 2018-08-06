@@ -19,3 +19,4 @@ INSERT INTO `rail_condition_text` VALUES (/*id*/17, /*event_id*/6004, /*use_type
 INSERT INTO `rail_condition_text` VALUES (/*id*/18, /*event_id*/6004, /*use_type*/3, /*condition_type*/4, /*description*/"全タイプの楽曲をプレイで、MAP進行数がアップ");
 INSERT INTO `rail_condition_text` VALUES (/*id*/19, /*event_id*/6004, /*use_type*/3, /*condition_type*/5, /*description*/"どの楽曲をプレイしても、MAP進行数がアップ");
 INSERT INTO `rail_condition_text` VALUES (/*id*/20, /*event_id*/6004, /*use_type*/4, /*condition_type*/0, /*description*/"「{0}」を編成してLIVEクリアで、MAP進行数がアップ");
+CREATE INDEX 'rail_condition_text_0_event_id' on 'rail_condition_text'('event_id');

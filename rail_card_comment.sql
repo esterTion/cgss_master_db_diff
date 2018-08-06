@@ -25,3 +25,4 @@ INSERT INTO `rail_card_comment` VALUES (/*id*/23, /*event_id*/6004, /*comment_id
 INSERT INTO `rail_card_comment` VALUES (/*id*/24, /*event_id*/6004, /*comment_id*/100555, /*use_type*/102, /*index*/1, /*description*/"私、待ちきれませんわ、プロデューサー様 !\nこの先に何が待っているのか、\n早く見に行きましょう !", /*insert_word_type*/0);
 INSERT INTO `rail_card_comment` VALUES (/*id*/25, /*event_id*/6004, /*comment_id*/100555, /*use_type*/102, /*index*/2, /*description*/"共に歩んでくださる方がいると、\n喜びも二倍になるんですの。\nエスコートはお願いしますね、プロデューサー様♪", /*insert_word_type*/0);
 INSERT INTO `rail_card_comment` VALUES (/*id*/26, /*event_id*/6004, /*comment_id*/100555, /*use_type*/102, /*index*/3, /*description*/"役作りのヒントを掴みましたわ。\n今ならもっと、人の心を動かす演技ができる気がするのです。\nどうか見ていてくださいませ、プロデューサー様。", /*insert_word_type*/0);
+CREATE INDEX 'rail_card_comment_0_event_id' on 'rail_card_comment'('event_id');

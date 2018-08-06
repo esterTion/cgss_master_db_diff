@@ -172,3 +172,4 @@ INSERT INTO `medley_story_detail` VALUES (/*id*/3428, /*event_id*/3022, /*type*/
 INSERT INTO `medley_story_detail` VALUES (/*id*/3429, /*event_id*/3022, /*type*/0, /*open_event_point*/7000, /*next_detail_id*/3430);
 INSERT INTO `medley_story_detail` VALUES (/*id*/3430, /*event_id*/3022, /*type*/0, /*open_event_point*/10000, /*next_detail_id*/3431);
 INSERT INTO `medley_story_detail` VALUES (/*id*/3431, /*event_id*/3022, /*type*/2, /*open_event_point*/0, /*next_detail_id*/0);
+CREATE INDEX 'medley_story_detail_0_event_id_1_type' on 'medley_story_detail'('event_id','type');
