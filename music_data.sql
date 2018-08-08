@@ -112,6 +112,7 @@ INSERT INTO `music_data` VALUES (/*id*/3045, /*name*/"恋のHamburg♪", /*bpm*/
 INSERT INTO `music_data` VALUES (/*id*/3046, /*name*/"追い風Running", /*bpm*/190, /*composer*/"HONY、Shouya Namai", /*lyricist*/"ミズノゲンキ", /*sound_offset*/43653, /*sound_length*/36000, /*name_sort*/0, /*name_kana*/"おいかぜらんにんぐ");
 INSERT INTO `music_data` VALUES (/*id*/3047, /*name*/"One Life", /*bpm*/177, /*composer*/"根本優樹", /*lyricist*/"ミズノゲンキ", /*sound_offset*/34457, /*sound_length*/31000, /*name_sort*/0, /*name_kana*/"わんらいふ");
 INSERT INTO `music_data` VALUES (/*id*/3048, /*name*/"祈りの花", /*bpm*/117, /*composer*/"BNSI（トリ音）", /*lyricist*/"BNSI（トリ音）", /*sound_offset*/82813, /*sound_length*/41000, /*name_sort*/0, /*name_kana*/"いのりのはな");
+INSERT INTO `music_data` VALUES (/*id*/3049, /*name*/"楽園", /*bpm*/173, /*composer*/"BNSI（渡辺量）", /*lyricist*/"BNSI（渡辺量）", /*sound_offset*/59675, /*sound_length*/30000, /*name_sort*/0, /*name_kana*/"らくえん");
 INSERT INTO `music_data` VALUES (/*id*/5001, /*name*/"Star!!", /*bpm*/178, /*composer*/"田中秀和（MONACA）", /*lyricist*/"森由里子", /*sound_offset*/63785, /*sound_length*/26000, /*name_sort*/0, /*name_kana*/"すたー");
 INSERT INTO `music_data` VALUES (/*id*/5002, /*name*/"夕映えプレゼント", /*bpm*/175, /*composer*/"BNSI（Yoshi）", /*lyricist*/"遠藤フビト", /*sound_offset*/52767, /*sound_length*/27000, /*name_sort*/0, /*name_kana*/"ゆうばえぷれぜんと");
 INSERT INTO `music_data` VALUES (/*id*/5003, /*name*/"GOIN'!!!", /*bpm*/178, /*composer*/"宮崎まゆ", /*lyricist*/"森由里子", /*sound_offset*/80700, /*sound_length*/43000, /*name_sort*/0, /*name_kana*/"ごーいん");
