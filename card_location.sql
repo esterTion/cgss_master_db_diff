@@ -559,3 +559,5 @@ INSERT INTO `card_location` VALUES (/*index*/560, /*text*/"南国の海");
 INSERT INTO `card_location` VALUES (/*index*/561, /*text*/"楽屋裏");
 INSERT INTO `card_location` VALUES (/*index*/562, /*text*/"魔法少女☆ステージ");
 INSERT INTO `card_location` VALUES (/*index*/563, /*text*/"誓いの眼鏡橋");
+INSERT INTO `card_location` VALUES (/*index*/564, /*text*/"海の近くの展示場");
+INSERT INTO `card_location` VALUES (/*index*/565, /*text*/"撮影用クルーザー");
