@@ -38,3 +38,6 @@ INSERT INTO `master_plus_term` VALUES (/*id*/36, /*start_date*/"2018-06-18 00:00
 INSERT INTO `master_plus_term` VALUES (/*id*/37, /*start_date*/"2018-07-02 00:00:00", /*end_date*/"2018-07-15 23:59:59", /*master_plus_group*/1, /*notice_start_date*/"2018-06-30 14:30:00");
 INSERT INTO `master_plus_term` VALUES (/*id*/38, /*start_date*/"2018-07-16 00:00:00", /*end_date*/"2018-07-29 23:59:59", /*master_plus_group*/2, /*notice_start_date*/"2018-06-30 14:30:00");
 INSERT INTO `master_plus_term` VALUES (/*id*/39, /*start_date*/"2018-07-30 00:00:00", /*end_date*/"2018-08-12 23:59:59", /*master_plus_group*/3, /*notice_start_date*/"2018-07-02 00:00:00");
+INSERT INTO `master_plus_term` VALUES (/*id*/40, /*start_date*/"2018-08-13 00:00:00", /*end_date*/"2018-08-26 23:59:59", /*master_plus_group*/1, /*notice_start_date*/"2018-08-11 14:30:00");
+INSERT INTO `master_plus_term` VALUES (/*id*/41, /*start_date*/"2018-08-27 00:00:00", /*end_date*/"2018-09-09 23:59:59", /*master_plus_group*/2, /*notice_start_date*/"2018-08-11 14:30:00");
+INSERT INTO `master_plus_term` VALUES (/*id*/42, /*start_date*/"2018-09-10 00:00:00", /*end_date*/"2018-09-23 23:59:59", /*master_plus_group*/3, /*notice_start_date*/"2018-08-13 00:00:00");
