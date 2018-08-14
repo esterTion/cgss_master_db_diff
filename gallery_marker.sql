@@ -1,0 +1,1 @@
+CREATE TABLE 'gallery_marker' ('id' INTEGER NOT NULL, 'marker_type' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'target_name' TEXT NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'));

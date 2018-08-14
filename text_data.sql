@@ -414,6 +414,8 @@ INSERT INTO `text_data` VALUES (/*category*/10, /*index*/91, /*text*/"ホスト�
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/92, /*text*/"ホストがルーム設定を変更しました");
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/93, /*text*/"タイプは後から変更できます");
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/94, /*text*/"タイプ");
+INSERT INTO `text_data` VALUES (/*category*/10, /*index*/95, /*text*/"現在の獲得期間");
+INSERT INTO `text_data` VALUES (/*category*/10, /*index*/96, /*text*/"現在の獲得期間");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/1, /*text*/"メダル交換所");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/2, /*text*/"アイドル");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/3, /*text*/"アイテム");

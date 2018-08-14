@@ -1,0 +1,1 @@
+CREATE TABLE 'dress_random_palette' ('id' INTEGER NOT NULL, 'dress_id' INTEGER NOT NULL, 'model_type' INTEGER NOT NULL, 'layer_id' INTEGER NOT NULL, 'cost_type' INTEGER NOT NULL, 'cost_id' INTEGER NOT NULL, 'cost_value' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'));
