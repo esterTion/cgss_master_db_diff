@@ -313,3 +313,4 @@ INSERT INTO `story_category` VALUES (/*id*/334, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/335, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"西園寺琴歌 / 篠原礼", /*sub_title*/"西園寺琴歌 / 篠原礼", /*disp_order*/68);
 INSERT INTO `story_category` VALUES (/*id*/336, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"SUN♡FLOWER", /*sub_title*/"SUN♡FLOWER", /*disp_order*/69);
 INSERT INTO `story_category` VALUES (/*id*/337, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"凸凹スピードスター", /*sub_title*/"凸凹スピードスター", /*disp_order*/70);
+INSERT INTO `story_category` VALUES (/*id*/338, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"クレイジークレイジー", /*sub_title*/"クレイジークレイジー", /*disp_order*/71);
