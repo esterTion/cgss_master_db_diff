@@ -584,7 +584,7 @@ INSERT INTO `text_data` VALUES (/*category*/16, /*index*/4, /*text*/"ルーム�
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/5, /*text*/"宝くじ\n詳細へ");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/6, /*text*/"特設\nページへ");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/7, /*text*/" ");
-INSERT INTO `text_data` VALUES (/*category*/16, /*index*/9, /*text*/"2周年カウントダウン");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/9, /*text*/"3周年カウントダウン");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/10, /*text*/"1年間の思い出を振り返りましょう");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/11, /*text*/"レッツプレゼントキャンペーン");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/12, /*text*/"　");
