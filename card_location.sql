@@ -566,3 +566,4 @@ INSERT INTO `card_location` VALUES (/*index*/567, /*text*/"縁日");
 INSERT INTO `card_location` VALUES (/*index*/568, /*text*/"舞台袖");
 INSERT INTO `card_location` VALUES (/*index*/569, /*text*/"NYの研究所");
 INSERT INTO `card_location` VALUES (/*index*/570, /*text*/"ラウンジ");
+INSERT INTO `card_location` VALUES (/*index*/571, /*text*/"カジュアルブランドショップ");
