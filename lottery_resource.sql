@@ -2,3 +2,4 @@ CREATE TABLE 'lottery_resource' ('id' INTEGER NOT NULL, 'item_id' INTEGER NOT NU
 INSERT INTO `lottery_resource` VALUES (/*id*/10001, /*item_id*/5001, /*banner_id*/100010, /*bg_id*/5912, /*campaign_anim_id*/1, /*result_anim_id*/1, /*campaign_anim_bgm*/"bgm_lottery", /*result_anim_bgm*/"bgm_lottery");
 INSERT INTO `lottery_resource` VALUES (/*id*/10002, /*item_id*/5002, /*banner_id*/100012, /*bg_id*/5912, /*campaign_anim_id*/1, /*result_anim_id*/2, /*campaign_anim_bgm*/"bgm_lottery", /*result_anim_bgm*/"bgm_lottery_1");
 INSERT INTO `lottery_resource` VALUES (/*id*/10003, /*item_id*/5003, /*banner_id*/100014, /*bg_id*/5912, /*campaign_anim_id*/1, /*result_anim_id*/1, /*campaign_anim_bgm*/"bgm_lottery", /*result_anim_bgm*/"bgm_lottery");
+INSERT INTO `lottery_resource` VALUES (/*id*/10004, /*item_id*/5004, /*banner_id*/100015, /*bg_id*/5912, /*campaign_anim_id*/1, /*result_anim_id*/1, /*campaign_anim_bgm*/"bgm_lottery", /*result_anim_bgm*/"bgm_lottery");
