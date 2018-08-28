@@ -634,12 +634,12 @@ INSERT INTO `text_data` VALUES (/*category*/16, /*index*/111, /*text*/"珠美も
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/112, /*text*/"し、仕方ないではないですか。\n真っ白な雪は、テンションが上がるものです !");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/113, /*text*/"海外のみなさんにも、会いにいけました !");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/114, /*text*/"いろんなお友だちが増えて、楽しいね。");
-INSERT INTO `text_data` VALUES (/*category*/16, /*index*/115, /*text*/"アーニャ、記念日って\nロシア語で\n何て言うんだ？");
-INSERT INTO `text_data` VALUES (/*category*/16, /*index*/116, /*text*/"ガダフシーナ、\nですね。いっしょに\n言ってみましょう♪");
-INSERT INTO `text_data` VALUES (/*category*/16, /*index*/117, /*text*/"雫ちゃんの実家、\nどんどん有名に\nなってますねっ");
-INSERT INTO `text_data` VALUES (/*category*/16, /*index*/118, /*text*/"うふふー、全部\nみなさんの\nおかげですー♪");
-INSERT INTO `text_data` VALUES (/*category*/16, /*index*/119, /*text*/"次に花嫁衣裳を\n着るのは、いつに\nなるかなぁ…");
-INSERT INTO `text_data` VALUES (/*category*/16, /*index*/120, /*text*/"お仕事なのか、\nそれとも…ドキドキ\nしちゃいますっ");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/115, /*text*/"新しいことを始めるのは、いろいろ大変だよねぇ。");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/116, /*text*/"でもその分、楽しいことがたくさんあるよっ !");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/117, /*text*/"アタシたちの道はアタシたちがつくる !");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/118, /*text*/"アクセル全開で、これからも夜露志紅ッ !");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/119, /*text*/"オトナの魅力は、どうしたら出せますかね…？");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/120, /*text*/"無理に背伸びしなくていいと思いますよ？\nいまのありのままを、大事にしましょう。");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/121, /*text*/"有香ちゃん、\nこないだ新しい服\n買ったんだって !");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/122, /*text*/"あれからも、\n私たちのカワイイ道は\n続いています♪");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/123, /*text*/"我が友よ、\n甘美な祝盃を !");
@@ -1404,3 +1404,7 @@ INSERT INTO `text_data` VALUES (/*category*/37, /*index*/17, /*text*/"プロデ�
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/18, /*text*/"アイテム使用結果");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/19, /*text*/"レシピ使用");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/1, /*text*/"近日公開予定の機能のため、現在利用できません");
+INSERT INTO `text_data` VALUES (/*category*/39, /*index*/1, /*text*/"楽曲購入");
+INSERT INTO `text_data` VALUES (/*category*/39, /*index*/2, /*text*/"確認");
+INSERT INTO `text_data` VALUES (/*category*/39, /*index*/3, /*text*/"外部サイトへ接続します。\n楽曲配信情報サイトへ移動してもよろしいですか？");
+INSERT INTO `text_data` VALUES (/*category*/39, /*index*/4, /*text*/"外部サイトへ接続します。\n楽曲配信情報サイトへ移動してもよろしいですか？");
