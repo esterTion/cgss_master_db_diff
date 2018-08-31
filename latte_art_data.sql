@@ -37,3 +37,4 @@ INSERT INTO `latte_art_data` VALUES (/*id*/35, /*title*/"第35話", /*chara_list
 INSERT INTO `latte_art_data` VALUES (/*id*/36, /*title*/"第36話", /*chara_list*/"115,126,131", /*disp_order*/36, /*start_date*/"2018-08-19 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `latte_art_data` VALUES (/*id*/37, /*title*/"第37話", /*chara_list*/"125,226,230,257,298", /*disp_order*/37, /*start_date*/"2018-08-21 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `latte_art_data` VALUES (/*id*/38, /*title*/"第38話", /*chara_list*/"131,164,174,185,267", /*disp_order*/38, /*start_date*/"2018-08-31 15:00:00", /*end_date*/"2099-12-31 23:59:59");
+INSERT INTO `latte_art_data` VALUES (/*id*/39, /*title*/"第39話", /*chara_list*/"111,162,167,220,238", /*disp_order*/39, /*start_date*/"2018-08-31 18:00:00", /*end_date*/"2099-12-31 23:59:59");
