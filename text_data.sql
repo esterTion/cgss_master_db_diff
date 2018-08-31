@@ -640,10 +640,10 @@ INSERT INTO `text_data` VALUES (/*category*/16, /*index*/117, /*text*/"アタシ
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/118, /*text*/"アクセル全開で、これからも夜露志紅ッ !");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/119, /*text*/"オトナの魅力は、どうしたら出せますかね…？");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/120, /*text*/"無理に背伸びしなくていいと思いますよ？\nいまのありのままを、大事にしましょう。");
-INSERT INTO `text_data` VALUES (/*category*/16, /*index*/121, /*text*/"有香ちゃん、\nこないだ新しい服\n買ったんだって !");
-INSERT INTO `text_data` VALUES (/*category*/16, /*index*/122, /*text*/"あれからも、\n私たちのカワイイ道は\n続いています♪");
-INSERT INTO `text_data` VALUES (/*category*/16, /*index*/123, /*text*/"我が友よ、\n甘美な祝盃を !");
-INSERT INTO `text_data` VALUES (/*category*/16, /*index*/124, /*text*/"記念日にキミは何を\n想う。歓喜？感慨？\nそれとも…フフ");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/121, /*text*/"ナナは17歳なので、乾杯はノンアルコールかおでんで……。");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/122, /*text*/"自分のキャラを貫くパイセンを、はぁとは応援してるぞ☆");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/123, /*text*/"みーんなが楽しいアニバーサリーになるといいね♪");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/124, /*text*/"面白いアニバーサリーを、見せてくれるよね♪");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/125, /*text*/"アイドルマスターシンデレラガールズ\nスターライトステージが、\n2周年を迎えましたよ !");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/1, /*text*/"公演設定");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/2, /*text*/"公演情報");

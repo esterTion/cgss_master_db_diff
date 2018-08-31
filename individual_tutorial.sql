@@ -112,6 +112,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30006, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30008, /*img*/1, /*discription*/"LIVEの楽曲選択画面をリニューアルしました !\n「WIDE（横画面）」「SMART（縦画面）」の\n2種類のモードを切り替えて使用します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30008, /*img*/2, /*discription*/"選曲画面のジャケットをタップすることで、\nタイル状に並んだジャケット画像から\n選曲することもできます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30009, /*img*/1, /*discription*/"SMART LIVE設定の判定ライン設定に「下」を追加しました。\n「下」に設定すると、横画面のLIVEのように、\nリズムアイコンが縦に流れてくるようになります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30010, /*img*/1, /*discription*/"LIVEの動作設定「表示領域設定」をアップデートしました !\n縦横比が16:9よりもワイドな画面の端末で、\n3DモードのMV表示領域を広げて表示できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30010, /*img*/1, /*discription*/"楽曲選択画面、右上の「動作設定」ポップアップの\n「オプションタブ」内、「表示領域設定」から設定変更できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「サマーバケーションスペシャルLIVEキャンペーン」\n開催中 ! 期間中にLIVEをクリアすると、\n期間限定のアイテムを獲得できます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
@@ -246,7 +248,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/3, /*discription*/"LIVE Grooveでは、その3曲で連続してLIVEを行います。\n※3曲の間ライフは引き継がれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/4, /*discription*/"LIVE中、盛り上がりに応じて「ハコユレLv」が計測されます。\n3曲合わせた「ハコユレLv」が17以上になると、\nアンコールが発生します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/5, /*discription*/"難易度がMASTER以上で、ハコユレLvが21以上の場合、\nアンコール楽曲の難易度で「MASTER+」が選択できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/6, /*discription*/"LIVE Groove Visual burstでは、ビジュアルのアピール値が\n通常よりアップします。\nビジュアルアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/6, /*discription*/"LIVE Groove Vocal burstでは、ボーカルのアピール値が\n通常よりアップします。\nボーカルアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80202, /*img*/1, /*discription*/"スタミナの消費数を1倍、または2倍に設定する\nことができます。\n消費数に応じて、イベントptを多く獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/1, /*discription*/"「達成pt報酬」、「イベントptランキング報酬」、\n「ハイスコアランキング報酬」で、イベント限定の\nSレアアイドルやルームアイテムが貰えるだけでなく、\nイベント限定楽曲をイベント終了後もプレイできるようになります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/1, /*discription*/"イベント限定営業で「イベントpt」を獲得できます。\nイベント限定営業はイベント期間中のみ\nプレイすることができます。");
@@ -255,7 +257,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/3, /*discription*/"LIVE Grooveでは、その3曲で連続してLIVEを行います。\n※3曲の間ライフは引き継がれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/4, /*discription*/"LIVE中、盛り上がりに応じて「ハコユレLv」が計測されます。\n3曲合わせた「ハコユレLv」が17以上になると、\nアンコールが発生します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/5, /*discription*/"難易度がMASTER以上で、ハコユレLvが21以上の場合、\nアンコール楽曲の難易度で「MASTER+」が選択できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/6, /*discription*/"LIVE Groove Visual burstでは、ビジュアルのアピール値が\n通常よりアップします。\nビジュアルアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/6, /*discription*/"LIVE Groove Vocal burstでは、ボーカルのアピール値が\n通常よりアップします。\nボーカルアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/7, /*discription*/"スタミナの消費数を1倍、または2倍に設定する\nことができます。\n消費数に応じて、イベントptを多く獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/1, /*discription*/"「達成pt報酬」で、イベント限定のSレアアイドルや\nルームアイテムを手にいれましょう。\nまた期間中にイベントのLIVEをプレイすると、\n限定のアイドルを確率で手に入れることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。\n楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");
