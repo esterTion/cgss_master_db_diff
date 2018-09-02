@@ -75,6 +75,8 @@ INSERT INTO `medley_live_exclude` VALUES (/*event_id*/3023, /*live_id*/570);
 INSERT INTO `medley_live_exclude` VALUES (/*event_id*/3023, /*live_id*/571);
 INSERT INTO `medley_live_exclude` VALUES (/*event_id*/3023, /*live_id*/801);
 INSERT INTO `medley_live_exclude` VALUES (/*event_id*/3023, /*live_id*/802);
+INSERT INTO `medley_live_exclude` VALUES (/*event_id*/3023, /*live_id*/803);
+INSERT INTO `medley_live_exclude` VALUES (/*event_id*/3023, /*live_id*/804);
 INSERT INTO `medley_live_exclude` VALUES (/*event_id*/3023, /*live_id*/901);
 INSERT INTO `medley_live_exclude` VALUES (/*event_id*/3023, /*live_id*/902);
 INSERT INTO `medley_live_exclude` VALUES (/*event_id*/3023, /*live_id*/903);
