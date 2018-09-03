@@ -68,7 +68,13 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20012, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/"レイアウト済みのルームアイテムがセットになった\n「コーデ」をルームショップにて販売開始 !\n購入した「コーデ」はそのまま配置することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/"既に所持しているルームアイテムがコーデに含まれる場合、\nそのルームアイテムは購入されず、コーデの販売価格から\n差し引かれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/"購入したコーデはレイアウトの「テーマ」に保存され、\nいつでも自由に配置することができます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"ニコニコ生放送「デレステNIGHT☆ × 17」にて、\n制作が決定した「ダンボールガールズ」が登場 ! !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「衣装スタンド/ネクスト・フロンティア」を\nルームショップに追加しました !\nルームに飾って3周年をお祝いしてくださいね !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"ルーム内のメニューに「アイドル編成」ボタンを追加 !\nルーム登場アイドルを直接編成できるようになりました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/3, /*discription*/"マイセットの保存数を「10」に、倉庫の収納上限を「3000」に変更しました !\nさらに、全てのプロデューサーの皆さんの倉庫の収納数を\n一律で「150」拡張しました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/4, /*discription*/"「THE IDOLM@STER CINDERELLA GIRLS SS3A　Live Sound Booth♪」\nに先駆けて、「Flip Flop ～For SS3A rearrange Mix～」\nをサウンドブースで販売開始しました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/5, /*discription*/"荒木比奈、上条春菜が歌う\n「FlipFlop」のリアレンジをお楽しみください !\n※本楽曲のLIVE演出は、2D標準・2D軽量のみとなります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/6, /*discription*/"ルームコーデを新たに9種類追加しました ! \n各コーデ購入でしか手に入らないおまけアイテムが\n付いてきますので、チェックしてみて下さいね !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/7, /*discription*/"過去に期間限定で販売していたルームアイテムを復刻販売中 !\n復刻販売のラインナップは毎週変わります ! !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、\n様々な効果を発揮する物があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -90,6 +96,12 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20201, /*img*/4, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20201, /*img*/5, /*discription*/"営業は、開始後に一定の時間が経過すると完了します。\nスタミナを消費することで、営業完了までの時間を\n短縮することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20201, /*img*/6, /*discription*/"営業が完了すると、報酬を獲得できます。\n報酬では、プロデューサー経験値やファン、特訓アイテムなど\n様々な報酬を獲得することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20201, /*img*/7, /*discription*/"営業完了時の通知設定は、\n「システム設定」から変更することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20202, /*img*/1, /*discription*/"営業を行うアイドルが、\nアルバムから選択可能になりました。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20202, /*img*/1, /*discription*/"アルバム登録済みであれば、\n現在所属していない状態のアイドルおよび衣装でも\n営業を行うことができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20202, /*img*/2, /*discription*/"営業開始時に「時間短縮」を選択できるようになりました。\n営業完了まで時間を短縮すれば、\nすぐに結果画面に移動することができます 。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20202, /*img*/3, /*discription*/"営業を完了させるだけのスタミナがなくても、スタミナを\n消費して完了までの時間を短縮できるようになりました。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20202, /*img*/3, /*discription*/"消費するスタミナは、「1」単位で選択できます。\nスタミナ「1」消費につき営業時間が「15分」短縮されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20202, /*img*/4, /*discription*/"営業結果確認画面から同じ営業への再出発が\n行えるようになりました。\n再出発時に編成を変更することもできます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\n必ず複数の特訓アイテムを獲得できる\nスペシャル営業が1日1回行えます !\n詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEでは、ミュージックセレクタ右上の動作設定ボタンから\nLIVEの背景演出を変更することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEプレイ中のSE再生設定もここから変更できます。\nSEをオフにすることで、動作が軽くなる場合があります。");
@@ -158,6 +170,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40301, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40301, /*img*/3, /*discription*/"女子寮はショップからスタージュエルを使用して\n追加することができます。\n※女子寮機能公開後、第1女子寮は無条件で使用できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40401, /*img*/1, /*discription*/"ユニットの編成可能数が「18」になりました。\n「切り替えボタン」を押すと表示するユニットの切り替えができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40401, /*img*/2, /*discription*/"LIVEでは、左下の「ユニットボタン」を押すことで\n表示するユニットの切り替えができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40501, /*img*/1, /*discription*/"「2D衣装変更機能」を追加 !\n2DLIVEやルームでアイドルたちの衣装を\n変更することができるようになりました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40501, /*img*/2, /*discription*/"2D衣装はアイドル編成、お気に入り編成、\nおよびMVモードのユニット確認画面にて変更することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50001, /*img*/1, /*discription*/"ストーリーコミュでは、アイドルたちが\n織り成すストーリーが描かれています。\n解放条件を達成することで解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50001, /*img*/1, /*discription*/"ストーリー中に行われるコミュLIVEでは、\n新たなコミュは解放されません。\nLIVEで特定の難易度でのクリアが必要となります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50002, /*img*/1, /*discription*/"メモリアルコミュでは、アイドル一人ひとりの\nアイドルとしての活動の軌跡が描かれています。\nLIVEでファン数を増やすことで解放されます。");

@@ -60,3 +60,4 @@ INSERT INTO `stamp_data_re` VALUES (/*id*/1004, /*discription*/"じゃんけん"
 INSERT INTO `stamp_data_re` VALUES (/*id*/1005, /*discription*/"グー", /*use_type*/1, /*category*/1, /*setting_type*/3, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2099-04-01 15:00:00");
 INSERT INTO `stamp_data_re` VALUES (/*id*/1006, /*discription*/"チョキ", /*use_type*/1, /*category*/1, /*setting_type*/3, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2099-04-01 15:00:00");
 INSERT INTO `stamp_data_re` VALUES (/*id*/1007, /*discription*/"パー", /*use_type*/1, /*category*/1, /*setting_type*/3, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2099-04-01 15:00:00");
+INSERT INTO `stamp_data_re` VALUES (/*id*/1008, /*discription*/"master+", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2018-09-03 15:00:00", /*end_date*/"2099-04-01 15:00:00");

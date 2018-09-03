@@ -569,3 +569,7 @@ INSERT INTO `card_location` VALUES (/*index*/570, /*text*/"ラウンジ");
 INSERT INTO `card_location` VALUES (/*index*/571, /*text*/"カジュアルブランドショップ");
 INSERT INTO `card_location` VALUES (/*index*/572, /*text*/"ブティック");
 INSERT INTO `card_location` VALUES (/*index*/573, /*text*/"江川海岸");
+INSERT INTO `card_location` VALUES (/*index*/574, /*text*/"船上の撮影場所");
+INSERT INTO `card_location` VALUES (/*index*/575, /*text*/"ガーデンパーティー会場");
+INSERT INTO `card_location` VALUES (/*index*/576, /*text*/"パーティー会場・入口");
+INSERT INTO `card_location` VALUES (/*index*/577, /*text*/"猫カフェ");
