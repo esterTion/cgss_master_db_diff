@@ -1123,6 +1123,18 @@ INSERT INTO `text_data` VALUES (/*category*/26, /*index*/19, /*text*/"リッチ"
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/20, /*text*/"解像度設定");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/21, /*text*/"画面の精細さの設定です。");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/22, /*text*/"高画質");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/23, /*text*/"スポット変更");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/24, /*text*/"対象との距離が近すぎます。");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/25, /*text*/"マーカーを探しています。");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/26, /*text*/"有効なマーカーが見つかりません。");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/27, /*text*/"平らなスペースが見つかりません。");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/28, /*text*/"ARリセット");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/29, /*text*/"AR規約確認");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/30, /*text*/"エラーが発生しました。\nプロデュースノートに戻ります。");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/31, /*text*/"ARスタジオ非対応の端末です。\nプロデュースノートに戻ります。");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/32, /*text*/"ARスタジオ オートモード非対応の端末です。\nプロデュースノートに戻ります。");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/33, /*text*/"ARスタジオの起動には\nカメラ使用の許可が必要です。");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/34, /*text*/"エラーが発生しました。\nタイトル画面に戻りますので、\nもう一度お試しください。");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/1, /*text*/"LIVEへ");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/2, /*text*/"{0}マス");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/3, /*text*/"チケットを\n使用する");

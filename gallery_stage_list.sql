@@ -6,3 +6,5 @@ INSERT INTO `gallery_stage_list` VALUES (/*id*/4, /*disp_order*/4, /*disp_name*/
 INSERT INTO `gallery_stage_list` VALUES (/*id*/5, /*disp_order*/5, /*disp_name*/"スクリーン キュート", /*bg_id*/1, /*bg_type*/1);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/6, /*disp_order*/6, /*disp_name*/"スクリーン クール", /*bg_id*/2, /*bg_type*/1);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/7, /*disp_order*/7, /*disp_name*/"スクリーン パッション", /*bg_id*/3, /*bg_type*/1);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/11, /*disp_order*/11, /*disp_name*/"ARスタジオ マーカーモード", /*bg_id*/0, /*bg_type*/3);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/12, /*disp_order*/12, /*disp_name*/"ARスタジオ オートモード", /*bg_id*/0, /*bg_type*/4);

@@ -222,6 +222,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60022, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60022, /*img*/1, /*discription*/"シンデレラシアターでは動画を選択した後に\n中央の再生ボタンをタップすることで\nムービーコンテンツを閲覧することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60022, /*img*/1, /*discription*/"動画を最後まで再生するか、\n動画の停止中に画面右上の「×」ボタンをタップすることで、\n動画選択画面に戻ることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60023, /*img*/1, /*discription*/"プラチナメダルとアイテムを交換できます。\n交換に必要なプラチナメダルの数は\nアイテムによって異なります。 ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60024, /*img*/1, /*discription*/"フォトスタジオに、「ARスタジオ」を追加しました！\nスポット一覧から選択することで利用できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60024, /*img*/1, /*discription*/"マーカーモードは、専用のARマーカーを読み込むモードです。\nオートモードでは、自動的に平面を認識してアイドルが登場します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/1, /*discription*/"「LIVE PARTY!!」では、協力LIVEを行うことで、\n「スターエンブレム」が獲得できます。\n「スターエンブレム」を集めると、過去イベントの報酬や、\nアイテムとの交換ができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。\n楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/3, /*discription*/"本機能では、専用ユニットでLIVEを行います。ユニットには5つの「ポジション」があります。\n各プロデューサーのアイドルが、ポジションを1つずつ担当し、5人の共通ユニットが編成されます。\n※自分のアイドルがどのポジションを担当するかはランダムで決定されます。\n※楽曲タイプとポジションごとにアイドルを設定できます。");
