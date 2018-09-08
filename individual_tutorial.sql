@@ -376,7 +376,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90126, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90126, /*img*/1, /*discription*/"マッチングルームでは、「スタミナ消費なし」で\nプレイすることも可能です。\nこの機会に他のメンバーと一緒に、\nMASTER+にチャレンジしてみましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90126, /*img*/1, /*discription*/"9月3日 15:00以降に獲得したスターエンブレムには、\n交換期限がありません。\n9月3日 15:00以降に更新される全ての\nスターエンブレム交換所でご利用いただけます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90127, /*img*/1, /*discription*/"フォトスタジオがアップデート !\n新たなスポット「ARスタジオ」では、日常風景に\nアイドル達が登場しちゃいますよ !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90127, /*img*/2, /*discription*/"さらに、アイドルにオーダーできる「ポーズ」と、\n撮影の「スポット」の追加配信が決定 ! お楽しみに !\n※追加第一弾は9月中旬頃を予定しております。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90127, /*img*/2, /*discription*/"さらに、アイドルにオーダーできる「ポーズ」と、\n撮影の「スポット」の追加配信が決定 ! お楽しみに !\n※追加第一弾は9月中旬頃を\n予定しております。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90128, /*img*/1, /*discription*/"営業を行うアイドルが、\nアルバムから選択可能になりました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90128, /*img*/1, /*discription*/"アルバム登録済みであれば、\n現在所属していない状態のアイドルおよび衣装でも\n営業を行うことができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90128, /*img*/2, /*discription*/"営業開始時に「時間短縮」を選択できるようになりました。\n営業完了まで時間を短縮すれば、\nすぐに結果画面に移動することができます !");
