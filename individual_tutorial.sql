@@ -68,6 +68,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20012, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/"レイアウト済みのルームアイテムがセットになった\n「コーデ」をルームショップにて販売開始 !\n購入した「コーデ」はそのまま配置することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/"既に所持しているルームアイテムがコーデに含まれる場合、\nそのルームアイテムは購入されず、コーデの販売価格から\n差し引かれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/"購入したコーデはレイアウトの「テーマ」に保存され、\nいつでも自由に配置することができます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"「輝く世界の魔法 -Magical Step Forward Remix-」\n「shabon song ～For SS3A rearrange Mix～」\nをサウンドブースで販売開始しました !\n※本楽曲のLIVE演出は、2D標準・2D軽量のみとなります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「衣装スタンド/ネクスト・フロンティア」を\nルームショップに追加しました !\nルームに飾って3周年をお祝いしてくださいね !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"ルーム内のメニューに「アイドル編成」ボタンを追加 !\nルーム登場アイドルを直接編成できるようになりました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/3, /*discription*/"マイセットの保存数を「10」に、倉庫の収納上限を「3000」に変更しました !\nさらに、全てのプロデューサーの皆さんの倉庫の収納数を\n一律で「150」拡張しました !");
@@ -306,7 +307,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/6, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/7, /*discription*/"イベント設定では、公演の準備画面の「おすすめ設定」で\n選曲される楽曲のLvを調整できます。\nまたツアーのタイトルを自由に変更できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/1, /*discription*/"「イベント参加ボーナス」、「MAP報酬」、「課題クリア報酬」\nで、イベント限定のSレアアイドルやルームアイテムを\n手にいれましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"本イベントでは、LIVEを行うことでアイドルたちが\nMAPを進んでいきます。楽曲の難易度やLIVEの\n結果に応じて、進行できるマス数が変化します。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"また、ルートはイベント限定アイドルごとに分かれており、\nそれぞれストーリーや報酬が異なります。\n※「篠原礼」ルートのMAP1をクリアすると、\n「西園寺琴歌」ルートが解放されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"また、ルートはイベント限定アイドルごとに分かれており、\nそれぞれストーリーや報酬が異なります。\n※「楊菲菲」ルートのMAP1をクリアすると、\n「堀裕子」ルートが解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/3, /*discription*/"MAPやマスごとの条件を満たしてLIVEを行うと、\nMAP進行ボーナスが発生し、進行できるマス数がアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/3, /*discription*/"MAP進行ボーナスは、MAPにあわせたアイドルを編成したり、\n現在止まっているマスの色に応じた楽曲でLIVEを行うことで発生します。\nボーナス条件はイベントTOPや楽曲の選択画面等で確認できます。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/4, /*discription*/"ゴールに到着すると、トレーナーからMAPごとの課題が出されます。\n※課題の達成状況は累積でカウントされるため、1回のLIVEでクリアできない場合、\n複数回LIVEをすることで達成できます。\n");
