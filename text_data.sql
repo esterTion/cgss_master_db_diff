@@ -1135,6 +1135,8 @@ INSERT INTO `text_data` VALUES (/*category*/26, /*index*/31, /*text*/"ARスタ�
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/32, /*text*/"ARスタジオ オートモード非対応の端末です。\nプロデュースノートに戻ります。");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/33, /*text*/"ARスタジオの起動には\nカメラ使用の許可が必要です。");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/34, /*text*/"エラーが発生しました。\nタイトル画面に戻りますので、\nもう一度お試しください。");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/35, /*text*/"ARデータ更新");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/36, /*text*/"アプリを再起動します");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/1, /*text*/"LIVEへ");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/2, /*text*/"{0}マス");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/3, /*text*/"チケットを\n使用する");
