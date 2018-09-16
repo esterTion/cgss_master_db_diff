@@ -173,6 +173,12 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40401, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40401, /*img*/2, /*discription*/"LIVEでは、左下の「ユニットボタン」を押すことで\n表示するユニットの切り替えができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40501, /*img*/1, /*discription*/"「2D衣装変更機能」を追加 !\n2DLIVEやルームでアイドルたちの衣装を\n変更することができるようになりました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40501, /*img*/2, /*discription*/"2D衣装はアイドル編成、お気に入り編成、\nおよびMVモードのユニット確認画面にて変更することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40502, /*img*/1, /*discription*/"「ドレスコーデ」では、対応衣装の\n色を自由に変更して衣装をコーディネイトできます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40502, /*img*/1, /*discription*/"コーディネイトした衣装は、LIVEや\nフォトスタジオでアイドルが着用することができます。\n※現在「LIVE PARTY!!」では使用できません");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40502, /*img*/2, /*discription*/"パーツごとに好きなカラーを選択して\n衣装をコーディネイトすることができます。\nアイドルにぴったりのコーデを探しましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40502, /*img*/3, /*discription*/"未所持のカラーは、イベントなどで入手可能な\n「魔法の生地」を使用することで選択可能になります。\n※必要数はパーツごとに異なる場合があります");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40502, /*img*/4, /*discription*/"コーデが終わったらクローゼットに保存 !\n着せたいアイドルを選択して衣装を製作しましょう。\n※衣装の製作には時間がかかる場合があります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40502, /*img*/4, /*discription*/"1つのクローゼットに登録できるコーデは1種のみです。\nスタージュエルを消費してクローゼットを増やすことで\n他の衣装を登録することが可能になります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50001, /*img*/1, /*discription*/"ストーリーコミュでは、アイドルたちが\n織り成すストーリーが描かれています。\n解放条件を達成することで解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50001, /*img*/1, /*discription*/"ストーリー中に行われるコミュLIVEでは、\n新たなコミュは解放されません。\nLIVEで特定の難易度でのクリアが必要となります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50002, /*img*/1, /*discription*/"メモリアルコミュでは、アイドル一人ひとりの\nアイドルとしての活動の軌跡が描かれています。\nLIVEでファン数を増やすことで解放されます。");

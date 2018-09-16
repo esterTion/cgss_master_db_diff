@@ -1,1 +1,11 @@
 CREATE TABLE 'dress_acc_palette' ('id' INTEGER NOT NULL, 'dress_id' INTEGER NOT NULL, 'model_type' INTEGER NOT NULL, 'layer_id' INTEGER NOT NULL, 'color_code' TEXT NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `dress_acc_palette` VALUES (/*id*/1, /*dress_id*/8, /*model_type*/3, /*layer_id*/1, /*color_code*/"4653D8");
+INSERT INTO `dress_acc_palette` VALUES (/*id*/4, /*dress_id*/8, /*model_type*/3, /*layer_id*/1, /*color_code*/"FFACD7");
+INSERT INTO `dress_acc_palette` VALUES (/*id*/5, /*dress_id*/8, /*model_type*/3, /*layer_id*/1, /*color_code*/"FF8E00");
+INSERT INTO `dress_acc_palette` VALUES (/*id*/7, /*dress_id*/8, /*model_type*/3, /*layer_id*/1, /*color_code*/"1E8E69");
+INSERT INTO `dress_acc_palette` VALUES (/*id*/8, /*dress_id*/8, /*model_type*/3, /*layer_id*/1, /*color_code*/777182);
+INSERT INTO `dress_acc_palette` VALUES (/*id*/9, /*dress_id*/8, /*model_type*/3, /*layer_id*/2, /*color_code*/"63BDFF");
+INSERT INTO `dress_acc_palette` VALUES (/*id*/10, /*dress_id*/8, /*model_type*/3, /*layer_id*/2, /*color_code*/"B0FFB7");
+INSERT INTO `dress_acc_palette` VALUES (/*id*/12, /*dress_id*/8, /*model_type*/3, /*layer_id*/2, /*color_code*/"FFE3F0");
+INSERT INTO `dress_acc_palette` VALUES (/*id*/13, /*dress_id*/8, /*model_type*/3, /*layer_id*/2, /*color_code*/"FFDD6D");
+INSERT INTO `dress_acc_palette` VALUES (/*id*/21, /*dress_id*/8, /*model_type*/3, /*layer_id*/2, /*color_code*/"FFFFFF");

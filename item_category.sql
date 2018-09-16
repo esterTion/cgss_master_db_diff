@@ -13,3 +13,5 @@ INSERT INTO `item_category` VALUES (/*category_type*/11, /*category_name*/"イ�
 INSERT INTO `item_category` VALUES (/*category_type*/12, /*category_name*/"総選挙の投票券");
 INSERT INTO `item_category` VALUES (/*category_type*/13, /*category_name*/"プラチナメダル");
 INSERT INTO `item_category` VALUES (/*category_type*/14, /*category_name*/"プラチナメダル専用スカウトチケット");
+INSERT INTO `item_category` VALUES (/*category_type*/15, /*category_name*/"フォトスタジオ・背景");
+INSERT INTO `item_category` VALUES (/*category_type*/16, /*category_name*/"フォトスタジオ・ポーズ");
