@@ -373,7 +373,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90120, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90121, /*img*/1, /*discription*/"現在抽選結果を発表中です。\n配布期間中に宝くじを獲得した方は\n抽選結果を確認しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90122, /*img*/1, /*discription*/"「＼デレステ3周年記念／\n豪華賞品が当たるTwitterフォロー&\nRTキャンペーン」開催中 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90122, /*img*/1, /*discription*/"参加方法や賞品の内容など\nキャンペーン内容の詳細は\n特設サイトよりご確認ください。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90123, /*img*/1, /*discription*/"衣装の色をコーディネートできる\n「ドレスコーデ」機能を準備中です !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90123, /*img*/1, /*discription*/"衣装の色をコーディネートできる\n「ドレスコーデ」機能を追加しました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90123, /*img*/1, /*discription*/"アイドルのために仕立て上げた衣装で、\nLIVEやフォトスタジオの\n舞台に立たせてあげましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90124, /*img*/1, /*discription*/"「2D衣装変更機能」を追加 !\n2DLIVEやルームでアイドルたちの衣装を\n変更することができるようになりました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90125, /*img*/1, /*discription*/"いつもよりお得に購入できる\n期間限定のスタージュエル販売を開始しました。");
