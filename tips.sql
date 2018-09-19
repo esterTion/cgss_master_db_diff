@@ -367,6 +367,16 @@ INSERT INTO `tips` VALUES (/*id*/365, /*tips_type*/1, /*value*/226, /*index*/3, 
 INSERT INTO `tips` VALUES (/*id*/366, /*tips_type*/1, /*value*/147, /*index*/3, /*title*/"井村雪菜のウワサ③", /*comment*/"メイクをした後は\n必ず写真を撮って\n記録しているらしい。");
 INSERT INTO `tips` VALUES (/*id*/367, /*tips_type*/1, /*value*/149, /*index*/3, /*title*/"榊原里美のウワサ③", /*comment*/"スキンケアにも\nハチミツを使っているので\nトラブル知らずらしい。");
 INSERT INTO `tips` VALUES (/*id*/368, /*tips_type*/1, /*value*/137, /*index*/2, /*title*/"涼宮星花のウワサ②", /*comment*/"愛用のバイオリンは、\nとんでもない逸品らしい。");
+INSERT INTO `tips` VALUES (/*id*/369, /*tips_type*/1, /*value*/134, /*index*/3, /*title*/"双葉杏のウワサ③", /*comment*/"アメが好きなのは\n手を動かさなくて\n良いかららしい。");
+INSERT INTO `tips` VALUES (/*id*/370, /*tips_type*/1, /*value*/201, /*index*/2, /*title*/"北条加蓮のウワサ②", /*comment*/"野菜は十分\n摂っているらしい。");
+INSERT INTO `tips` VALUES (/*id*/371, /*tips_type*/1, /*value*/159, /*index*/2, /*title*/"佐久間まゆのウワサ②", /*comment*/"ネクタイを結ぶのが\n上手いらしい。");
+INSERT INTO `tips` VALUES (/*id*/372, /*tips_type*/1, /*value*/298, /*index*/2, /*title*/"南条光のウワサ②", /*comment*/"カラフルなものを見ると\nワクワクするらしい。");
+INSERT INTO `tips` VALUES (/*id*/373, /*tips_type*/1, /*value*/174, /*index*/3, /*title*/"神谷奈緒のウワサ③", /*comment*/"部屋でしか着ない\nＴシャツがあるらしい。");
+INSERT INTO `tips` VALUES (/*id*/374, /*tips_type*/1, /*value*/227, /*index*/2, /*title*/"アナスタシアのウワサ②", /*comment*/"まつげに雪が積もるらしい。");
+INSERT INTO `tips` VALUES (/*id*/375, /*tips_type*/1, /*value*/290, /*index*/2, /*title*/"キャシー・グラハムのウワサ②", /*comment*/"「I can't speak English」\nだけは完璧らしい。");
+INSERT INTO `tips` VALUES (/*id*/376, /*tips_type*/1, /*value*/221, /*index*/3, /*title*/"脇山珠美のウワサ③", /*comment*/"子供の頃の服が\nまだ着られるらしい。");
+INSERT INTO `tips` VALUES (/*id*/377, /*tips_type*/1, /*value*/199, /*index*/3, /*title*/"伊集院惠のウワサ③", /*comment*/"ガイドブックは事前に読み込み\n現地で開くことはないらしい。");
+INSERT INTO `tips` VALUES (/*id*/378, /*tips_type*/1, /*value*/135, /*index*/2, /*title*/"楊菲菲のウワサ②", /*comment*/"無意識の鼻歌は\n日本の古いアイドルソング\nらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !");
@@ -707,5 +717,11 @@ INSERT INTO `tips` VALUES (/*id*/40300, /*tips_type*/4, /*value*/202, /*index*/2
 INSERT INTO `tips` VALUES (/*id*/40301, /*tips_type*/4, /*value*/295, /*index*/2, /*title*/"首藤葵②　水族館に行くとこうなる", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40302, /*tips_type*/4, /*value*/107, /*index*/2, /*title*/"持田亜里沙②　スカウト", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40303, /*tips_type*/4, /*value*/266, /*index*/2, /*title*/"若林智香②　お忍びライブにて", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40304, /*tips_type*/4, /*value*/169, /*index*/2, /*title*/"松本沙理奈②　美のヒケツ？", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40305, /*tips_type*/4, /*value*/271, /*index*/2, /*title*/"諸星きらり②　きらりんコラボ☆", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40306, /*tips_type*/4, /*value*/156, /*index*/2, /*title*/"栗原ネネ②　もしも私に…？", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40307, /*tips_type*/4, /*value*/247, /*index*/2, /*title*/"姫川友紀②　宣言 !", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40308, /*tips_type*/4, /*value*/296, /*index*/2, /*title*/"冴島清美②　超☆大流行", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40309, /*tips_type*/4, /*value*/205, /*index*/2, /*title*/"佐城雪美②　いつも一緒だと", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50001, /*tips_type*/5, /*value*/1, /*index*/1, /*title*/"縦画面持ち替え説明画像", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50002, /*tips_type*/5, /*value*/2, /*index*/1, /*title*/"縦画面横に持ち替え説明画像", /*comment*/"");

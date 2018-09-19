@@ -317,3 +317,4 @@ INSERT INTO `story_category` VALUES (/*id*/338, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/339, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ガールズ・イン・ザ・フロンティア", /*sub_title*/"ガールズ・イン・ザ・フロンティア", /*disp_order*/72);
 INSERT INTO `story_category` VALUES (/*id*/340, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"SS3A LIVE連動企画", /*sub_title*/"SS3A LIVE連動企画", /*disp_order*/5);
 INSERT INTO `story_category` VALUES (/*id*/341, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"堀裕子 / 楊菲菲", /*sub_title*/"堀裕子 / 楊菲菲", /*disp_order*/73);
+INSERT INTO `story_category` VALUES (/*id*/342, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Pretty Liar", /*sub_title*/"Pretty Liar", /*disp_order*/74);
