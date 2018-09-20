@@ -24,3 +24,5 @@ INSERT INTO `mv_list_data` VALUES (/*stage_id*/22, /*start_date*/"2017-09-20 15:
 INSERT INTO `mv_list_data` VALUES (/*stage_id*/23, /*start_date*/"2017-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/12, /*day*/2, /*name*/"5thLIVE TOUR Serendipity Parade!!! \nSSA公演 2日目");
 INSERT INTO `mv_list_data` VALUES (/*stage_id*/24, /*start_date*/"2018-04-19 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/13, /*day*/1, /*name*/"Initial Mess@ge \n台湾公演 1日目");
 INSERT INTO `mv_list_data` VALUES (/*stage_id*/25, /*start_date*/"2018-04-19 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/13, /*day*/2, /*name*/"Initial Mess@ge \n台湾公演 2日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/26, /*start_date*/"2018-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/14, /*day*/1, /*name*/"SS3A Live Sound Booth♪ \n1日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/27, /*start_date*/"2018-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/14, /*day*/2, /*name*/"SS3A Live Sound Booth♪ \n2日目");
