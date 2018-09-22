@@ -576,3 +576,6 @@ INSERT INTO `card_location` VALUES (/*index*/577, /*text*/"猫カフェ");
 INSERT INTO `card_location` VALUES (/*index*/578, /*text*/"旅館・パウダールーム");
 INSERT INTO `card_location` VALUES (/*index*/579, /*text*/"マジックカフェ");
 INSERT INTO `card_location` VALUES (/*index*/580, /*text*/"フランス・アパートメント");
+INSERT INTO `card_location` VALUES (/*index*/581, /*text*/"竹林");
+INSERT INTO `card_location` VALUES (/*index*/582, /*text*/"作業場");
+INSERT INTO `card_location` VALUES (/*index*/583, /*text*/"人力飛行機・機内");
