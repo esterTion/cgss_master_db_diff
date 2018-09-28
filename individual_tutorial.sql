@@ -69,13 +69,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/"既に所持しているルームアイテムがコーデに含まれる場合、\nそのルームアイテムは購入されず、コーデの販売価格から\n差し引かれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/"購入したコーデはレイアウトの「テーマ」に保存され、\nいつでも自由に配置することができます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ニコニコ生放送「デレステNIGHT★×18」にて、制作が決定した\n「もぉーもぉーソフトクリーム製造機」が登場 ! !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「衣装スタンド/ネクスト・フロンティア」を\nルームショップに追加しました !\nルームに飾って3周年をお祝いしてくださいね !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"ルーム内のメニューに「アイドル編成」ボタンを追加 !\nルーム登場アイドルを直接編成できるようになりました !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/3, /*discription*/"マイセットの保存数を「10」に、倉庫の収納上限を「3000」に変更しました !\nさらに、全てのプロデューサーの皆さんの倉庫の収納数を\n一律で「150」拡張しました !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/4, /*discription*/"「THE IDOLM@STER CINDERELLA GIRLS SS3A　Live Sound Booth♪」\nに先駆けて、「Flip Flop ～For SS3A rearrange Mix～」\nをサウンドブースで販売開始しました !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/5, /*discription*/"荒木比奈、上条春菜が歌う\n「FlipFlop」のリアレンジをお楽しみください !\n※本楽曲のLIVE演出は、2D標準・2D軽量のみとなります。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/6, /*discription*/"ルームコーデを新たに9種類追加しました ! \n各コーデ購入でしか手に入らないおまけアイテムが\n付いてきますので、チェックしてみて下さいね !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/7, /*discription*/"過去に期間限定で販売していたルームアイテムを復刻販売中 !\n復刻販売のラインナップは毎週変わります ! !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「Lunatic Show ～For SS3A rearrange Mix～」を\nサウンドブースで販売開始しました !喜多見柚、村上巴が歌う\n「Lunatic Show」のリアレンジをお楽しみください !\n※本楽曲のLIVE演出は、2D標準・2D軽量のみとなります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、\n様々な効果を発揮する物があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
