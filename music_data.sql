@@ -170,6 +170,7 @@ INSERT INTO `music_data` VALUES (/*id*/9015, /*name*/"リトルリドル", /*bpm
 INSERT INTO `music_data` VALUES (/*id*/9016, /*name*/"イリュージョニスタ !", /*bpm*/216, /*composer*/"田中秀和（MONACA）", /*lyricist*/"八城雄太", /*sound_offset*/68727, /*sound_length*/23000, /*name_sort*/0, /*name_kana*/"いりゅーじょにすた");
 INSERT INTO `music_data` VALUES (/*id*/9017, /*name*/"Happy New Yeah!", /*bpm*/172, /*composer*/"高取ヒデアキ", /*lyricist*/"八城雄太", /*sound_offset*/65746, /*sound_length*/27000, /*name_sort*/0, /*name_kana*/"はっぴーにゅーいぇー");
 INSERT INTO `music_data` VALUES (/*id*/9018, /*name*/"ガールズ・イン・\nザ・フロンティア", /*bpm*/145, /*composer*/"設楽哲也", /*lyricist*/"八城雄太", /*sound_offset*/69478, /*sound_length*/32000, /*name_sort*/0, /*name_kana*/"がーるずいんざふろんてぃあ");
+INSERT INTO `music_data` VALUES (/*id*/9019, /*name*/"ドレミファクトリー !", /*bpm*/167, /*composer*/"俊龍", /*lyricist*/"俊龍", /*sound_offset*/74686, /*sound_length*/37500, /*name_sort*/0, /*name_kana*/"どれみふぁくとりー");
 INSERT INTO `music_data` VALUES (/*id*/9021, /*name*/"ガールズ・イン・\nザ・フロンティア", /*bpm*/145, /*composer*/"設楽哲也", /*lyricist*/"八城雄太", /*sound_offset*/69478, /*sound_length*/32000, /*name_sort*/0, /*name_kana*/"がーるずいんざふろんてぃあ");
 INSERT INTO `music_data` VALUES (/*id*/9901, /*name*/"Yes! Party Time!!", /*bpm*/148, /*composer*/"俊龍", /*lyricist*/"俊龍", /*sound_offset*/54477, /*sound_length*/25000, /*name_sort*/0, /*name_kana*/"いえすぱーてぃたいむ");
 INSERT INTO `music_data` VALUES (/*id*/9902, /*name*/"Yes! Party Time!!", /*bpm*/148, /*composer*/"俊龍", /*lyricist*/"俊龍", /*sound_offset*/54477, /*sound_length*/25000, /*name_sort*/0, /*name_kana*/"いえすぱーてぃたいむ");

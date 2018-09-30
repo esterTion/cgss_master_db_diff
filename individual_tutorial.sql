@@ -299,10 +299,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/2, /*discription*/"全国各地で公演を行い、LIVEツアーを盛り上げましょう。\n公演目標を達成してLIVEをクリアすると、\n新しい公演が解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/3, /*discription*/"公演の目標が達成できるように、楽曲やユニットを選びましょう。\n公演によって消費スタミナやLIVEを行う曲数が異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/4, /*discription*/"公演を行うと、観客動員数が増加します。\n対象のエリアの観客動員数が一定値に到達すると、\n新しいエリアが解放されます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/4, /*discription*/"エリア2に到達すると、イベント楽曲のMASTER+の\n難易度が選曲可能となります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/4, /*discription*/"エリア2、3に到達すると、イベント楽曲のMASTER+の\n難易度が選曲可能となります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/5, /*discription*/"日替わりで切り替わる「流行曲」を含めて公演を行ったり、\nマニーを使用して「LIVEオプション」を設定すると、\nエリアの観客動員数がさらにアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/5, /*discription*/"また観客動員数の多いエリアで公演を行うと、\n獲得できるファン数がアップします。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/6, /*discription*/"イベント限定営業で、イベントptやLIVEオプションを\n獲得できます。LIVEオプションを使用すると、\nLIVEで獲得できる観客動員数がアップします。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/6, /*discription*/"イベント限定営業、「LIVE PARTY!!」では、\nイベントptやLIVEオプションを獲得できます。\nLIVEオプションを使用すると、LIVEで獲得できる\n観客動員数がアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/6, /*discription*/"LIVEオプションは各公演のLIVEオプション設定から設定可能です。\n※営業で獲得したLIVEオプションは、開催中のイベントが終了すると破棄されます。\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/7, /*discription*/"イベント設定では、公演の準備画面の「おすすめ設定」で\n選曲される楽曲のLvを調整できます。\nまたツアーのタイトルを自由に変更できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/1, /*discription*/"「イベント参加ボーナス」、「MAP報酬」、「課題クリア報酬」\nで、イベント限定のSレアアイドルやルームアイテムを\n手にいれましょう。");

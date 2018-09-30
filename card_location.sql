@@ -579,3 +579,10 @@ INSERT INTO `card_location` VALUES (/*index*/580, /*text*/"フランス・アパ
 INSERT INTO `card_location` VALUES (/*index*/581, /*text*/"竹林");
 INSERT INTO `card_location` VALUES (/*index*/582, /*text*/"作業場");
 INSERT INTO `card_location` VALUES (/*index*/583, /*text*/"人力飛行機・機内");
+INSERT INTO `card_location` VALUES (/*index*/584, /*text*/"ハロウィンイベント");
+INSERT INTO `card_location` VALUES (/*index*/585, /*text*/"遊園地・商店通り");
+INSERT INTO `card_location` VALUES (/*index*/586, /*text*/"ハロウィン仕様のリゾート施設");
+INSERT INTO `card_location` VALUES (/*index*/587, /*text*/"遊園地・噴水広場");
+INSERT INTO `card_location` VALUES (/*index*/588, /*text*/"幽霊の街");
+INSERT INTO `card_location` VALUES (/*index*/589, /*text*/"法廷風セット");
+INSERT INTO `card_location` VALUES (/*index*/590, /*text*/"撮影用セット");

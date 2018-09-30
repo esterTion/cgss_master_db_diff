@@ -305,7 +305,7 @@ INSERT INTO `text_data` VALUES (/*category*/9, /*index*/67, /*text*/"[D64498FF]{
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/68, /*text*/"LIVE開始確認");
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/69, /*text*/"Groove");
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/70, /*text*/"MV再生");
-INSERT INTO `text_data` VALUES (/*category*/9, /*index*/71, /*text*/"MVモードは、アンコール楽曲を難易度MASTER以上でクリアしている場合のみ、再生できます。");
+INSERT INTO `text_data` VALUES (/*category*/9, /*index*/71, /*text*/"MVモードは、アンコール楽曲をクリアしている場合のみ、再生できます。");
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/72, /*text*/"Groove選択");
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/73, /*text*/"リハーサル開始確認");
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/74, /*text*/"リハーサル");
@@ -694,7 +694,7 @@ INSERT INTO `text_data` VALUES (/*category*/17, /*index*/25, /*text*/"[E13939]{0
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/26, /*text*/"リハーサルチケットを1枚使用して、リハーサルLIVEを開始します。");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/27, /*text*/"リハーサルLIVEでは、LIVE報酬の獲得ができません。");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/28, /*text*/"MV再生");
-INSERT INTO `text_data` VALUES (/*category*/17, /*index*/29, /*text*/"MVモードは、イベント楽曲の難易度MASTER以上を含めた公演をクリアした場合のみ、再生できます。");
+INSERT INTO `text_data` VALUES (/*category*/17, /*index*/29, /*text*/"MVモードは、イベント楽曲を含めた公演をクリアした場合のみ、再生できます。");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/30, /*text*/"難易度選択");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/31, /*text*/"リハーサル・MV");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/32, /*text*/"リハーサル開始確認");
