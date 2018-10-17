@@ -149,6 +149,7 @@ INSERT INTO `music_info` VALUES (/*id*/7005, /*discription*/"荒木比奈（CV�
 INSERT INTO `music_info` VALUES (/*id*/7007, /*discription*/"喜多見柚（CV：武田羅梨沙多胡）\n村上巴（CV：花井美春）\n\n\n作詞：磯谷佳江\n作曲：IMAJO（PSYCHIC LOVER）\n編曲：烏屋茶房", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/7008, /*discription*/"作詞：yura\n作曲：小西裕子\n\nRemixed by AJURIKA", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/7009, /*discription*/"作詞：森由⾥⼦\n作曲：小野貴光\n\nRemixed by Taku Inoue", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/7010, /*discription*/"作詞・作曲：AJURIKA\n\nRimixed by ヒゲドライバー", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8001, /*discription*/"前川みく（CV：高森奈津美）\n川島瑞樹（CV：東山奈央）\n白坂小梅（CV：桜咲千依）\n三村かな子（CV：大坪由佳）\n\n\n作詞：Cygames / maimie\n作曲：UEMATSU NOBUO / NARITA TSUTOMU\n補作曲：MAEZAWA HIDENORI（picnic）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8002, /*discription*/"緒方智絵里（CV：大空直美）\n多田李衣菜（CV：青木瑠璃子）\n城ヶ崎莉嘉（CV：山本希望）\n\n\n作詞：たかみつようこ\n作曲・編曲：岡部啓一（MONACA）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8003, /*discription*/"夏色（ゆず）\n\n城ヶ崎美嘉（CV：佳村はるか）\n城ヶ崎莉嘉（CV：山本希望）\n\n\n作詞・作曲：北川悠仁", /*android_url*/"", /*ios_url*/"");
