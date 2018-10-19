@@ -377,6 +377,14 @@ INSERT INTO `tips` VALUES (/*id*/375, /*tips_type*/1, /*value*/290, /*index*/2, 
 INSERT INTO `tips` VALUES (/*id*/376, /*tips_type*/1, /*value*/221, /*index*/3, /*title*/"脇山珠美のウワサ③", /*comment*/"子供の頃の服が\nまだ着られるらしい。");
 INSERT INTO `tips` VALUES (/*id*/377, /*tips_type*/1, /*value*/199, /*index*/3, /*title*/"伊集院惠のウワサ③", /*comment*/"ガイドブックは事前に読み込み\n現地で開くことはないらしい。");
 INSERT INTO `tips` VALUES (/*id*/378, /*tips_type*/1, /*value*/135, /*index*/2, /*title*/"楊菲菲のウワサ②", /*comment*/"無意識の鼻歌は\n日本の古いアイドルソング\nらしい。");
+INSERT INTO `tips` VALUES (/*id*/379, /*tips_type*/1, /*value*/194, /*index*/2, /*title*/"松永涼のウワサ②", /*comment*/"最初に買ったギターはセール品で\n今でもちゃんと\n手入れしているらしい。");
+INSERT INTO `tips` VALUES (/*id*/380, /*tips_type*/1, /*value*/164, /*index*/2, /*title*/"乙倉悠貴のウワサ②", /*comment*/"LIVE会場に掲げられる横断幕に\n「体育祭のスター」と\n書かれていたらしい。");
+INSERT INTO `tips` VALUES (/*id*/381, /*tips_type*/1, /*value*/105, /*index*/3, /*title*/"椎名法子のウワサ③", /*comment*/"貯金箱は\n5円玉と50円玉で\nいっぱいらしい。");
+INSERT INTO `tips` VALUES (/*id*/382, /*tips_type*/1, /*value*/236, /*index*/2, /*title*/"並木芽衣子のウワサ②", /*comment*/"旅先から自分にハガキを出して\n消印を集めているらしい。");
+INSERT INTO `tips` VALUES (/*id*/383, /*tips_type*/1, /*value*/103, /*index*/2, /*title*/"水本ゆかりのウワサ②", /*comment*/"子どもの頃にした一番悪いことは\nコンサートの鑑賞中に\n寝てしまったことらしい。");
+INSERT INTO `tips` VALUES (/*id*/384, /*tips_type*/1, /*value*/132, /*index*/3, /*title*/"小早川紗枝のウワサ③", /*comment*/"写真に写るときに\nピースをしているものは\n珍しいらしい。");
+INSERT INTO `tips` VALUES (/*id*/385, /*tips_type*/1, /*value*/250, /*index*/2, /*title*/"上田鈴帆のウワサ②", /*comment*/"どんな着ぐるみも着こなすため、\n筋トレは毎日の日課らしい。");
+INSERT INTO `tips` VALUES (/*id*/386, /*tips_type*/1, /*value*/189, /*index*/2, /*title*/"鷺沢文香のウワサ②", /*comment*/"強いて言うなら\nサンドイッチが好きらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !");
@@ -723,5 +731,11 @@ INSERT INTO `tips` VALUES (/*id*/40306, /*tips_type*/4, /*value*/156, /*index*/2
 INSERT INTO `tips` VALUES (/*id*/40307, /*tips_type*/4, /*value*/247, /*index*/2, /*title*/"姫川友紀②　宣言 !", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40308, /*tips_type*/4, /*value*/296, /*index*/2, /*title*/"冴島清美②　超☆大流行", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40309, /*tips_type*/4, /*value*/205, /*index*/2, /*title*/"佐城雪美②　いつも一緒だと", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40310, /*tips_type*/4, /*value*/139, /*index*/2, /*title*/"兵藤レナ②　ゲーム勝負", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40311, /*tips_type*/4, /*value*/192, /*index*/2, /*title*/"浅利七海②　なんでも見えちゃう", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40312, /*tips_type*/4, /*value*/182, /*index*/2, /*title*/"服部瞳子②　温泉旅行仲間", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40313, /*tips_type*/4, /*value*/122, /*index*/2, /*title*/"藤本里奈②　続々・ギャルオケの1コマ", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40314, /*tips_type*/4, /*value*/217, /*index*/2, /*title*/"西川保奈美②　全員未成年です", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40315, /*tips_type*/4, /*value*/138, /*index*/2, /*title*/"月宮雅②　コスメショッピング♪", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50001, /*tips_type*/5, /*value*/1, /*index*/1, /*title*/"縦画面持ち替え説明画像", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50002, /*tips_type*/5, /*value*/2, /*index*/1, /*title*/"縦画面横に持ち替え説明画像", /*comment*/"");

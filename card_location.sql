@@ -589,3 +589,8 @@ INSERT INTO `card_location` VALUES (/*index*/590, /*text*/"撮影用セット");
 INSERT INTO `card_location` VALUES (/*index*/591, /*text*/"トーク番組ステージ");
 INSERT INTO `card_location` VALUES (/*index*/592, /*text*/"きらめきサーカスショー");
 INSERT INTO `card_location` VALUES (/*index*/593, /*text*/"トレーニングルーム");
+INSERT INTO `card_location` VALUES (/*index*/594, /*text*/"遊園地・撮影スペース");
+INSERT INTO `card_location` VALUES (/*index*/595, /*text*/"遊園地・お化け屋敷");
+INSERT INTO `card_location` VALUES (/*index*/596, /*text*/"野外の撮影セット");
+INSERT INTO `card_location` VALUES (/*index*/597, /*text*/"洗車スペース");
+INSERT INTO `card_location` VALUES (/*index*/598, /*text*/"裁縫工房");

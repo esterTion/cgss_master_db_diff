@@ -319,3 +319,4 @@ INSERT INTO `story_category` VALUES (/*id*/340, /*type*/4, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/341, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"堀裕子 / 楊菲菲", /*sub_title*/"堀裕子 / 楊菲菲", /*disp_order*/73);
 INSERT INTO `story_category` VALUES (/*id*/342, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Pretty Liar", /*sub_title*/"Pretty Liar", /*disp_order*/74);
 INSERT INTO `story_category` VALUES (/*id*/349, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ドレミファクトリー !", /*sub_title*/"ドレミファクトリー !", /*disp_order*/75);
+INSERT INTO `story_category` VALUES (/*id*/350, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"アンデッド・ダンスロック", /*sub_title*/"アンデッド・ダンスロック", /*disp_order*/76);
