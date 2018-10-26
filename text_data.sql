@@ -1498,7 +1498,7 @@ INSERT INTO `text_data` VALUES (/*category*/40, /*index*/44, /*text*/"獲得カ�
 INSERT INTO `text_data` VALUES (/*category*/40, /*index*/45, /*text*/"カラー獲得結果");
 INSERT INTO `text_data` VALUES (/*category*/40, /*index*/46, /*text*/"以下のカラーを獲得しました ! ");
 INSERT INTO `text_data` VALUES (/*category*/40, /*index*/47, /*text*/"衣装製作");
-INSERT INTO `text_data` VALUES (/*category*/40, /*index*/48, /*text*/"衣装を着用するアイドルを選択してください");
+INSERT INTO `text_data` VALUES (/*category*/40, /*index*/48, /*text*/"着用するアイドルを選択してください");
 INSERT INTO `text_data` VALUES (/*category*/40, /*index*/49, /*text*/"前回登録した\nアイドルを選択");
 INSERT INTO `text_data` VALUES (/*category*/40, /*index*/50, /*text*/"製作");
 INSERT INTO `text_data` VALUES (/*category*/40, /*index*/51, /*text*/"衣装製作");

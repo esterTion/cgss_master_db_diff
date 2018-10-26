@@ -3,9 +3,10 @@ INSERT INTO `gallery_stage_list` VALUES (/*id*/1, /*disp_order*/1, /*disp_name*/
 INSERT INTO `gallery_stage_list` VALUES (/*id*/2, /*disp_order*/2, /*disp_name*/"ステージ キュート", /*bg_id*/1001, /*bg_type*/1);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/3, /*disp_order*/3, /*disp_name*/"ステージ クール", /*bg_id*/2001, /*bg_type*/1);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/4, /*disp_order*/4, /*disp_name*/"ステージ パッション", /*bg_id*/3001, /*bg_type*/1);
-INSERT INTO `gallery_stage_list` VALUES (/*id*/5, /*disp_order*/5, /*disp_name*/"スクリーン キュート", /*bg_id*/1, /*bg_type*/1);
-INSERT INTO `gallery_stage_list` VALUES (/*id*/6, /*disp_order*/6, /*disp_name*/"スクリーン クール", /*bg_id*/2, /*bg_type*/1);
-INSERT INTO `gallery_stage_list` VALUES (/*id*/7, /*disp_order*/7, /*disp_name*/"スクリーン パッション", /*bg_id*/3, /*bg_type*/1);
-INSERT INTO `gallery_stage_list` VALUES (/*id*/11, /*disp_order*/11, /*disp_name*/"ARスタジオ マーカーモード", /*bg_id*/0, /*bg_type*/3);
-INSERT INTO `gallery_stage_list` VALUES (/*id*/12, /*disp_order*/12, /*disp_name*/"ARスタジオ オートモード", /*bg_id*/0, /*bg_type*/4);
-INSERT INTO `gallery_stage_list` VALUES (/*id*/13, /*disp_order*/13, /*disp_name*/"ステージ BEYOND THE STARLIGHT", /*bg_id*/4012, /*bg_type*/1);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/5, /*disp_order*/101, /*disp_name*/"スクリーン キュート", /*bg_id*/1, /*bg_type*/1);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/6, /*disp_order*/102, /*disp_name*/"スクリーン クール", /*bg_id*/2, /*bg_type*/1);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/7, /*disp_order*/103, /*disp_name*/"スクリーン パッション", /*bg_id*/3, /*bg_type*/1);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/11, /*disp_order*/201, /*disp_name*/"ARスタジオ マーカーモード", /*bg_id*/0, /*bg_type*/3);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/12, /*disp_order*/202, /*disp_name*/"ARスタジオ オートモード", /*bg_id*/0, /*bg_type*/4);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/13, /*disp_order*/5, /*disp_name*/"ステージ BEYOND THE STARLIGHT", /*bg_id*/4012, /*bg_type*/1);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/14, /*disp_order*/6, /*disp_name*/"ステージ EVERMORE", /*bg_id*/4017, /*bg_type*/1);
