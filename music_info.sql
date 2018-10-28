@@ -147,6 +147,7 @@ INSERT INTO `music_info` VALUES (/*id*/5034, /*discription*/"本田未央（CV�
 INSERT INTO `music_info` VALUES (/*id*/7003, /*discription*/"棟方愛海（CV：藤本彩花）\n及川雫（CV：のぐちゆり）\n\n\n作詞：木村有希\n作曲：滝澤俊輔（TRYTONELABO）\n編曲：渡部チェル", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/7004, /*discription*/"三船美優（CV：原田彩楓）\n藤原肇（CV：鈴木みのり）\n\n\n作詞・作曲：AJURIKA\n編曲：滝澤俊輔（TRYTONELABO）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/7005, /*discription*/"荒木比奈（CV：田辺留依）\n上条春菜（CV：長島光那）\n\n\n作詞・作曲：ミト\n編曲：BNSI（北谷光浩）", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/7006, /*discription*/"関裕美（CV：会沢紗弥）\n森久保乃々（CV：高橋花林）\n\n\n作詞・作曲：田村歩美\n編曲：睦月周平", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/7007, /*discription*/"喜多見柚（CV：武田羅梨沙多胡）\n村上巴（CV：花井美春）\n\n\n作詞：磯谷佳江\n作曲：IMAJO（PSYCHIC LOVER）\n編曲：烏屋茶房", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/7008, /*discription*/"作詞：yura\n作曲：小西裕子\n\nRemixed by AJURIKA", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/7009, /*discription*/"作詞：森由⾥⼦\n作曲：小野貴光\n\nRemixed by Taku Inoue", /*android_url*/"", /*ios_url*/"");

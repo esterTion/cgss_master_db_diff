@@ -68,7 +68,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20012, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/"レイアウト済みのルームアイテムがセットになった\n「コーデ」をルームショップにて販売開始 !\n購入した「コーデ」はそのまま配置することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/"既に所持しているルームアイテムがコーデに含まれる場合、\nそのルームアイテムは購入されず、コーデの販売価格から\n差し引かれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/"購入したコーデはレイアウトの「テーマ」に保存され、\nいつでも自由に配置することができます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"「Near to You - PicoPico D'n'B Remix -」を\nサウンドブースで販売開始しました !\n「Near to You 」のリミックスをお楽しみください !\n※本楽曲のLIVE演出は、2D標準・2D軽量のみとなります。 ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"「あいくるしい ～For SS3A rearrange Mix～」を\nサウンドブースで販売開始しました ! 森久保乃々、関裕美が歌う\n「あいくるしい」のリアレンジをお楽しみください !\n※本楽曲のLIVE演出は、2D標準・2D軽量のみとなります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「ローソンコラボキャンペーン」を開催しております !\n期間限定でコラボルームアイテムを販売中です !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"ハロウィンをテーマにした新作コーデを追加 !\nお好きなコーデでハロウィンを楽しみましょう !\n過去のハロウィンアイテムも復刻販売中 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
