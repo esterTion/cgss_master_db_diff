@@ -15,3 +15,4 @@ INSERT INTO `dress_data` VALUES (/*id*/7005000, /*name*/"雷舞弩麗守－炎�
 INSERT INTO `dress_data` VALUES (/*id*/7006000, /*name*/"スカーレット・ローズ", /*description*/"永遠を夢見て、愛を捧げる乙女のドレス。\n真紅の薔薇には棘があり、危うさ故に美しい。\n一途な想いと運命が編み込まれている。", /*open_type*/2, /*dress_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/7007000, /*name*/"マリンガール・カーニバル", /*description*/"太陽が映える、海に舞う者たちのドレス。\n祭りの陽気と爽やかな潮風が、\nアツい夏を盛り上げる。", /*open_type*/2, /*dress_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/7008000, /*name*/"スウィート・パティシエール", /*description*/"甘美な夢を見せる少女たちのドレス。\n彼女たちがつくりだす幻想は、\nどんなお菓子よりも甘く優しく、\n見る者の心をとらえて離さない。", /*open_type*/2, /*dress_type*/0);
+INSERT INTO `dress_data` VALUES (/*id*/7009000, /*name*/"シンセサイズ・ハーモニー", /*description*/"スタイリッシュに魅せる、クールなドレス。\n鮮やかに舞う姿は、電脳世界の歌姫のよう。\n計算されつくしたフォルムから覗く\n生身の感情が、見る者を惹きつける。", /*open_type*/2, /*dress_type*/0);

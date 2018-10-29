@@ -69,8 +69,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/"既に所持しているルームアイテムがコーデに含まれる場合、\nそのルームアイテムは購入されず、コーデの販売価格から\n差し引かれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/"購入したコーデはレイアウトの「テーマ」に保存され、\nいつでも自由に配置することができます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"「あいくるしい ～For SS3A rearrange Mix～」を\nサウンドブースで販売開始しました ! 森久保乃々、関裕美が歌う\n「あいくるしい」のリアレンジをお楽しみください !\n※本楽曲のLIVE演出は、2D標準・2D軽量のみとなります。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「ローソンコラボキャンペーン」を開催しております !\n期間限定でコラボルームアイテムを販売中です !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"ハロウィンをテーマにした新作コーデを追加 !\nお好きなコーデでハロウィンを楽しみましょう !\n過去のハロウィンアイテムも復刻販売中 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"U149コミックス4巻発売記念 !\nコラボルームアイテム「てづくりこいのぼり」を販売開始しました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、\n様々な効果を発揮する物があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -150,6 +149,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40005, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40005, /*img*/2, /*discription*/"ポテンシャル解放による能力アップは、そのアイドルの\n全てのエピソードに適用され、また、アップする能力値は、\nレアリティによって異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40005, /*img*/2, /*discription*/"お気に入りのアイドルのファンを集めて、\nポテンシャルを解放し、LIVEで大活躍させましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40006, /*img*/1, /*discription*/"レッスンパートナーにアイドルとトレーナーを\n同時に選択してレッスンすることもできます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40007, /*img*/1, /*discription*/"アイドルを一括で保護できる機能が追加されました ! \n「一括保護モード」にすると、\n保護するアイドルを一括で設定できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40007, /*img*/1, /*discription*/"「一括保護モード」を解除したり、\nほかの画面に移動すると設定内容が保存されます。\nまた、一定時間たつと自動で保存されますよ !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40007, /*img*/1, /*discription*/"電波状況が悪かったり、設定変更中にアプリを終了すると\n保存されない場合があるので気を付けてくださいね !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/3, /*discription*/"お気に入りのアイドルを編成することができます。\nお気に入りのアイドルはホームとルームに登場します。");
