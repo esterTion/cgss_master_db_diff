@@ -32,3 +32,5 @@ INSERT INTO `master_plus_group_1` VALUES (/*id*/30, /*live_data_id*/347, /*live_
 INSERT INTO `master_plus_group_1` VALUES (/*id*/32, /*live_data_id*/353, /*live_detail_id*/1241, /*term_id*/40);
 INSERT INTO `master_plus_group_1` VALUES (/*id*/33, /*live_data_id*/356, /*live_detail_id*/1282, /*term_id*/43);
 INSERT INTO `master_plus_group_1` VALUES (/*id*/34, /*live_data_id*/60, /*live_detail_id*/1283, /*term_id*/43);
+INSERT INTO `master_plus_group_1` VALUES (/*id*/35, /*live_data_id*/359, /*live_detail_id*/1346, /*term_id*/46);
+INSERT INTO `master_plus_group_1` VALUES (/*id*/36, /*live_data_id*/360, /*live_detail_id*/1347, /*term_id*/46);
