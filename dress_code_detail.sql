@@ -1,0 +1,1 @@
+CREATE TABLE 'dress_code_detail' ('dress_id' INTEGER NOT NULL, 'tab_01_icon' TEXT NOT NULL, 'tab_02_icon' TEXT NOT NULL, 'tab_03_icon' TEXT NOT NULL, 'tab_04_icon' TEXT NOT NULL, 'tab_05_icon' TEXT NOT NULL, PRIMARY KEY('dress_id'));
