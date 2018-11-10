@@ -603,3 +603,5 @@ INSERT INTO `card_location` VALUES (/*index*/604, /*text*/"ゴシック調の撮
 INSERT INTO `card_location` VALUES (/*index*/605, /*text*/"燃え盛る王座");
 INSERT INTO `card_location` VALUES (/*index*/606, /*text*/"カンフー資料館");
 INSERT INTO `card_location` VALUES (/*index*/607, /*text*/"山奥の家");
+INSERT INTO `card_location` VALUES (/*index*/608, /*text*/"街道");
+INSERT INTO `card_location` VALUES (/*index*/609, /*text*/"お城の庭園");

@@ -323,3 +323,4 @@ INSERT INTO `story_category` VALUES (/*id*/349, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/350, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"アンデッド・ダンスロック", /*sub_title*/"アンデッド・ダンスロック", /*disp_order*/76);
 INSERT INTO `story_category` VALUES (/*id*/351, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Starry-Go-Round", /*sub_title*/"Starry-Go-Round", /*disp_order*/77);
 INSERT INTO `story_category` VALUES (/*id*/352, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"6thLIVE連動企画", /*sub_title*/"6thLIVE連動企画", /*disp_order*/8);
+INSERT INTO `story_category` VALUES (/*id*/353, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ライラ / 柳瀬美由紀", /*sub_title*/"ライラ / 柳瀬美由紀", /*disp_order*/78);

@@ -215,8 +215,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60019, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60019, /*img*/3, /*discription*/"バースデーカードに表示させるイラストやコメントは、\nスワイプすることで位置を自由に調整できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60019, /*img*/4, /*discription*/"作ったバースデーカードは、あなたのTwitterに投稿する事が\nできます。バースデーカードページ左下のTwitterアイコンから\n投稿できます。\n※画像の投稿には、公式のTwitterアプリが必要となります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60019, /*img*/5, /*discription*/"誕生日アイドルをユニットに入れてLIVEをクリアすると、\nファンからプレゼントが貰えます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/60020, /*img*/1, /*discription*/"「フォトスタジオ」を追加しました。\n自由にカメラを操作しながら、楽曲にあわせたダンスや\nポーズをアイドルに「オーダー」できる機能です。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/60020, /*img*/1, /*discription*/"プロデュースノートからアイドルを選び\n右下の「フォトスタジオ」ボタンをタップ、\n撮影スポットを選択します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60020, /*img*/2, /*discription*/"「フォトスタジオ」は、\n自由にカメラを操作しながら、楽曲にあわせたダンスや\nポーズをアイドルに「オーダー」できる機能です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60020, /*img*/2, /*discription*/"フォトスタジオでは、画面が縦方向になります。\n画面をスワイプでカメラの移動、\nピンチイン・アウトでズームができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60020, /*img*/2, /*discription*/"画面を連続タップするとメニューが開き、\n「オーダー」でアイドルに呼びかけたり、\n「衣装変更」することができます。\n「撮影終了」でフォトスタジオを終了します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60021, /*img*/1, /*discription*/"シンデレラガールズ劇場わいど☆誕生 !\nアイドルたちの日々の活動を、\n「わいど☆」にお届けします ! !");
@@ -250,13 +249,13 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/2, /*discription*/"イベントptランキングで50万位に入賞すると、\n自分の順位が入ったイベント称号を獲得できます。\n各称号のデザインは順位によって異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/3, /*discription*/"通常楽曲とイベント限定営業をプレイすると、\nエルドリッチ・ロアテラーエンブレムとイベントptを獲得できます。\nエルドリッチ・ロアテラーエンブレムは、スタミナ消費量と\nSCOREランクが高いほど多く獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/4, /*discription*/"イベント楽曲は、スタミナではなく\nエルドリッチ・ロアテラーエンブレムを消費してプレイします。\n通常楽曲よりも多くイベントptを獲得できます。\nイベント楽曲は、イベント期間中のみプレイできます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/5, /*discription*/"通常楽曲とイベント限定営業でエルドリッチ・ロアテラーエンブレムを\n集め、イベント楽曲で大量にptを獲得しましょう。\nランキング入賞を目指して頑張りましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/5, /*discription*/"通常楽曲とイベント限定営業でエルドリッチ・ロアテラー\nエンブレムを集め、イベント楽曲で大量にptを獲得しましょう。\nランキング入賞を目指して頑張りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80002, /*img*/1, /*discription*/"エルドリッチ・ロアテラーエンブレム消費数を2倍、または4倍に\n設定することができます。\n消費数に応じて、イベントptを多く獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80003, /*img*/1, /*discription*/"「イベントptランキング報酬」、「達成pt報酬」、\n「ハイスコアランキング報酬」で、イベント限定の\nSレアアイドルやルームアイテムを手にいれましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80003, /*img*/2, /*discription*/"イベントptランキングで50万位に入賞すると、\n自分の順位が入ったイベント称号を獲得できます。\n各称号のデザインは順位によって異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80003, /*img*/3, /*discription*/"通常楽曲とイベント限定営業をプレイすると、\nエルドリッチ・ロアテラーエンブレムとイベントptを獲得できます。\nエルドリッチ・ロアテラーエンブレムは、スタミナ消費量と\nSCOREランクが高いほど多く獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80003, /*img*/4, /*discription*/"イベント楽曲は、スタミナではなく\nエルドリッチ・ロアテラーエンブレムを消費してプレイします。\n通常楽曲よりも多くイベントptを獲得できます。\nイベント楽曲は、イベント期間中のみプレイできます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80003, /*img*/5, /*discription*/"通常楽曲とイベント限定営業でエルドリッチ・ロアテラーエンブレムを\n集め、イベント楽曲で大量にptを獲得しましょう。\nランキング入賞を目指して頑張りましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80003, /*img*/5, /*discription*/"通常楽曲とイベント限定営業でエルドリッチ・ロアテラー\nエンブレムを集め、イベント楽曲で大量にptを獲得しましょう。\nランキング入賞を目指して頑張りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80003, /*img*/6, /*discription*/"エルドリッチ・ロアテラーエンブレム消費数を2倍、または4倍に\n設定することができます。\n消費数に応じて、イベントptを多く獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80101, /*img*/1, /*discription*/"イベント期間中にLIVEをプレイすると、\n限定のアイドルを確率で手に入れることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80101, /*img*/2, /*discription*/"日によって限定アイドルの出現率がアップする楽曲が\n決まっています。キュート、クール、パッション、全タイプ楽曲の\nいずれかのタイプの全ての楽曲が対象になります。");
@@ -309,7 +308,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/6, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/7, /*discription*/"イベント設定では、公演の準備画面の「おすすめ設定」で\n選曲される楽曲のLvを調整できます。\nまたツアーのタイトルを自由に変更できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/1, /*discription*/"「イベント参加ボーナス」、「MAP報酬」、「課題クリア報酬」\nで、イベント限定のSレアアイドルやルームアイテムを\n手にいれましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"本イベントでは、LIVEを行うことでアイドルたちが\nMAPを進んでいきます。楽曲の難易度やLIVEの\n結果に応じて、進行できるマス数が変化します。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"また、ルートはイベント限定アイドルごとに分かれており、\nそれぞれストーリーや報酬が異なります。\n※「楊菲菲」ルートのMAP1をクリアすると、\n「堀裕子」ルートが解放されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"また、ルートはイベント限定アイドルごとに分かれており、\nそれぞれストーリーや報酬が異なります。\n※「柳瀬美由紀」ルートのMAP1をクリアすると、\n「ライラ」ルートが解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/3, /*discription*/"MAPやマスごとの条件を満たしてLIVEを行うと、\nMAP進行ボーナスが発生し、進行できるマス数がアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/3, /*discription*/"MAP進行ボーナスは、MAPにあわせたアイドルを編成したり、\n現在止まっているマスの色に応じた楽曲でLIVEを行うことで発生します。\nボーナス条件はイベントTOPや楽曲の選択画面等で確認できます。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/4, /*discription*/"ゴールに到着すると、トレーナーからMAPごとの課題が出されます。\n※課題の達成状況は累積でカウントされるため、1回のLIVEでクリアできない場合、\n複数回LIVEをすることで達成できます。\n");
