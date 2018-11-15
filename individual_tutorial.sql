@@ -97,6 +97,12 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20202, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20202, /*img*/3, /*discription*/"営業を完了させるだけのスタミナがなくても、スタミナを\n消費して完了までの時間を短縮できるようになりました。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20202, /*img*/3, /*discription*/"消費するスタミナは、「1」単位で選択できます。\nスタミナ「1」消費につき営業時間が「15分」短縮されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20202, /*img*/4, /*discription*/"営業結果確認画面から同じ営業への再出発が\n行えるようになりました。\n再出発時に編成を変更することもできます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20203, /*img*/1, /*discription*/"営業コミュでは、アイドルたちが営業先で\n繰り広げるコミュを視聴することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20203, /*img*/1, /*discription*/"専用の営業を成功することで、コミュが解放されます。\n未解放のコミュをタップすると、対象の営業画面に\n遷移します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20203, /*img*/2, /*discription*/"営業コミュは、営業画面内の「コミュ」タブから\n選択できます。対象のアイドルを含んだ編成で\n営業を完了させるとコミュが解放されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20203, /*img*/3, /*discription*/"おすすめ編成ボタンをタップすると、\nその営業に適したアイドルの中から\nランダムで編成されます。\n※目標を満たす組み合わせにならない場合があります");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20203, /*img*/3, /*discription*/"コミュ営業の場合は、\nコミュの解放に必要なアイドルが編成されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20203, /*img*/4, /*discription*/"その営業が得意なアイドルに「UP」のアイコンが\n表示されるようになりました。\n営業が得意なアイドルを編成していると、\n営業結果が良くなることがあります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\n必ず複数の特訓アイテムを獲得できる\nスペシャル営業が1日1回行えます !\n詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEでは、ミュージックセレクタ右上の動作設定ボタンから\nLIVEの背景演出を変更することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEプレイ中のSE再生設定もここから変更できます。\nSEをオフにすることで、動作が軽くなる場合があります。");

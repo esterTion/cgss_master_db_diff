@@ -319,6 +319,12 @@ INSERT INTO `story_category` VALUES (/*id*/339, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/340, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"SS3A LIVE連動企画", /*sub_title*/"SS3A LIVE連動企画", /*disp_order*/5);
 INSERT INTO `story_category` VALUES (/*id*/341, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"堀裕子 / 楊菲菲", /*sub_title*/"堀裕子 / 楊菲菲", /*disp_order*/73);
 INSERT INTO `story_category` VALUES (/*id*/342, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Pretty Liar", /*sub_title*/"Pretty Liar", /*disp_order*/74);
+INSERT INTO `story_category` VALUES (/*id*/343, /*type*/6, /*chara_type*/0, /*chara_id*/0, /*title*/"北東エリア", /*sub_title*/"北東エリア", /*disp_order*/1);
+INSERT INTO `story_category` VALUES (/*id*/344, /*type*/6, /*chara_type*/0, /*chara_id*/0, /*title*/"首都エリア", /*sub_title*/"首都エリア", /*disp_order*/2);
+INSERT INTO `story_category` VALUES (/*id*/345, /*type*/6, /*chara_type*/0, /*chara_id*/0, /*title*/"中央エリア", /*sub_title*/"中央エリア", /*disp_order*/3);
+INSERT INTO `story_category` VALUES (/*id*/346, /*type*/6, /*chara_type*/0, /*chara_id*/0, /*title*/"上方エリア", /*sub_title*/"上方エリア", /*disp_order*/4);
+INSERT INTO `story_category` VALUES (/*id*/347, /*type*/6, /*chara_type*/0, /*chara_id*/0, /*title*/"西エリア", /*sub_title*/"西エリア", /*disp_order*/5);
+INSERT INTO `story_category` VALUES (/*id*/348, /*type*/6, /*chara_type*/0, /*chara_id*/0, /*title*/"南エリア", /*sub_title*/"南エリア", /*disp_order*/6);
 INSERT INTO `story_category` VALUES (/*id*/349, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ドレミファクトリー !", /*sub_title*/"ドレミファクトリー !", /*disp_order*/75);
 INSERT INTO `story_category` VALUES (/*id*/350, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"アンデッド・ダンスロック", /*sub_title*/"アンデッド・ダンスロック", /*disp_order*/76);
 INSERT INTO `story_category` VALUES (/*id*/351, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Starry-Go-Round", /*sub_title*/"Starry-Go-Round", /*disp_order*/77);

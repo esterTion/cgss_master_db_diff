@@ -1,1 +1,11 @@
 CREATE TABLE 'sterntaler_story_detail' ('id' INTEGER NOT NULL, 'data_1' INTEGER NOT NULL, 'data_2' INTEGER NOT NULL, 'data_3' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `sterntaler_story_detail` VALUES (/*id*/3560, /*data_1*/11131, /*data_2*/1, /*data_3*/0);
+INSERT INTO `sterntaler_story_detail` VALUES (/*id*/3561, /*data_1*/11132, /*data_2*/2, /*data_3*/0);
+INSERT INTO `sterntaler_story_detail` VALUES (/*id*/3562, /*data_1*/11133, /*data_2*/3, /*data_3*/0);
+INSERT INTO `sterntaler_story_detail` VALUES (/*id*/3563, /*data_1*/11134, /*data_2*/4, /*data_3*/0);
+INSERT INTO `sterntaler_story_detail` VALUES (/*id*/3564, /*data_1*/11135, /*data_2*/5, /*data_3*/0);
+INSERT INTO `sterntaler_story_detail` VALUES (/*id*/3565, /*data_1*/11136, /*data_2*/6, /*data_3*/0);
+INSERT INTO `sterntaler_story_detail` VALUES (/*id*/3566, /*data_1*/11137, /*data_2*/7, /*data_3*/0);
+INSERT INTO `sterntaler_story_detail` VALUES (/*id*/3567, /*data_1*/11138, /*data_2*/8, /*data_3*/0);
+INSERT INTO `sterntaler_story_detail` VALUES (/*id*/3568, /*data_1*/11139, /*data_2*/9, /*data_3*/0);
+INSERT INTO `sterntaler_story_detail` VALUES (/*id*/3569, /*data_1*/11140, /*data_2*/10, /*data_3*/0);
