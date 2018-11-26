@@ -181,6 +181,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40502, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40502, /*img*/3, /*discription*/"未所持のカラーは、イベントなどで入手可能な\n「魔法の生地」を使用することで選択可能になります。\n※必要数はパーツごとに異なる場合があります");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40502, /*img*/4, /*discription*/"コーデが終わったらクローゼットに保存 !\n着せたいアイドルを選択して衣装を製作しましょう。\n※衣装の製作には時間がかかる場合があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40502, /*img*/4, /*discription*/"1つのクローゼットに登録できるコーデは1種のみです。\nスタージュエルを消費してクローゼットを増やすことで\n他の衣装を登録することが可能になります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40503, /*img*/1, /*discription*/"ドレスコーデ機能をアップデートしました !\n未解放のカラーを選択したとき、\nプレビューを確認できるようになりました。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40503, /*img*/1, /*discription*/"カラーを保存するときに、各タブで未解放の\nカラーがある場合、一括で解放することも可能です。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40503, /*img*/2, /*discription*/"また、「おすすめコーデ」機能を追加しました !\nあらかじめコーディネイトされたカラーを\n反映、解放できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50001, /*img*/1, /*discription*/"ストーリーコミュでは、アイドルたちが\n織り成すストーリーが描かれています。\n解放条件を達成することで解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50001, /*img*/1, /*discription*/"ストーリー中に行われるコミュLIVEでは、\n新たなコミュは解放されません。\nLIVEで特定の難易度でのクリアが必要となります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50002, /*img*/1, /*discription*/"メモリアルコミュでは、アイドル一人ひとりの\nアイドルとしての活動の軌跡が描かれています。\nLIVEでファン数を増やすことで解放されます。");
