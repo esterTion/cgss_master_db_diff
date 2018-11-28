@@ -30,4 +30,5 @@ INSERT INTO `onetime_story` VALUES (/*id*/32, /*name*/"エンディング", /*st
 INSERT INTO `onetime_story` VALUES (/*id*/33, /*name*/"エイプリル2018", /*story_id*/3243, /*transition*/203, /*page_index*/0, /*start_date*/"2018-04-01 00:00:00", /*end_date*/"2018-04-01 23:59:59", /*play_order*/709, /*notice_type*/0);
 INSERT INTO `onetime_story` VALUES (/*id*/34, /*name*/"SS3A連動・スタート", /*story_id*/3523, /*transition*/6, /*page_index*/0, /*start_date*/"2018-09-04 15:00:00", /*end_date*/"2018-09-08 16:59:59", /*play_order*/710, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/35, /*name*/"6th連動・スタート", /*story_id*/3651, /*transition*/6, /*page_index*/0, /*start_date*/"2018-11-05 15:00:00", /*end_date*/"2018-11-10 15:59:59", /*play_order*/711, /*notice_type*/2);
+INSERT INTO `onetime_story` VALUES (/*id*/36, /*name*/"6thLIVE連動企画　ナゴヤドーム公演編", /*story_id*/3707, /*transition*/6, /*page_index*/0, /*start_date*/"2018-11-28 15:00:00", /*end_date*/"2018-12-01 15:59:59", /*play_order*/712, /*notice_type*/2);
 CREATE INDEX 'onetime_story_0_story_id' on 'onetime_story'('story_id');
