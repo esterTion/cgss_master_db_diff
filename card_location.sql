@@ -609,3 +609,7 @@ INSERT INTO `card_location` VALUES (/*index*/611, /*text*/"京都・雑貨屋");
 INSERT INTO `card_location` VALUES (/*index*/612, /*text*/"良き気あふれる泉");
 INSERT INTO `card_location` VALUES (/*index*/613, /*text*/"夕暮れのレッスン場");
 INSERT INTO `card_location` VALUES (/*index*/614, /*text*/"アスレチック広場");
+INSERT INTO `card_location` VALUES (/*index*/615, /*text*/"聖夜の街路");
+INSERT INTO `card_location` VALUES (/*index*/616, /*text*/"クリスマスの事務所");
+INSERT INTO `card_location` VALUES (/*index*/617, /*text*/"クリスマスLIVEステージ");
+INSERT INTO `card_location` VALUES (/*index*/618, /*text*/"クリスマスの駅前");

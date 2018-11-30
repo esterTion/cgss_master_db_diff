@@ -537,6 +537,10 @@ INSERT INTO `text_data` VALUES (/*category*/13, /*index*/3, /*text*/"事務所")
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/4, /*text*/"[D33D98]PLv50[FFFFFF]達成");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/5, /*text*/"[FF7A7A]フリールームはPLv50で解放されます。[-]");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/6, /*text*/"フリールーム");
+INSERT INTO `text_data` VALUES (/*category*/13, /*index*/7, /*text*/"未解放\nゲーム内マニーで\n購入でLIVEプレイ可能");
+INSERT INTO `text_data` VALUES (/*category*/13, /*index*/8, /*text*/"未解放\nPLv{0}で購入可能");
+INSERT INTO `text_data` VALUES (/*category*/13, /*index*/9, /*text*/"未解放\nルームで購入可能");
+INSERT INTO `text_data` VALUES (/*category*/13, /*index*/10, /*text*/"未解放\nPLv{0}で購入可能");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/1, /*text*/"詳細");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/2, /*text*/"{0}枚");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/3, /*text*/"ALBUM詳細");

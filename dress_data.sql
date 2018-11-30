@@ -1,6 +1,6 @@
 CREATE TABLE 'dress_data' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'description' TEXT NOT NULL, 'open_type' INTEGER NOT NULL, 'dress_type' INTEGER NOT NULL, PRIMARY KEY('id'));
-INSERT INTO `dress_data` VALUES (/*id*/1, /*name*/"スターリースカイ・ブライト", /*description*/"", /*open_type*/0, /*dress_type*/1);
-INSERT INTO `dress_data` VALUES (/*id*/2, /*name*/"アクロス・ザ・スターズ", /*description*/"", /*open_type*/0, /*dress_type*/1);
+INSERT INTO `dress_data` VALUES (/*id*/1, /*name*/"スターリースカイ・ブライト", /*description*/"新たなる舞台に立つ、少女達を祝福するドレス。\n星々の光を受けて織られたように輝いている。", /*open_type*/0, /*dress_type*/1);
+INSERT INTO `dress_data` VALUES (/*id*/2, /*name*/"アクロス・ザ・スターズ", /*description*/"扉を開け、城より出でる騎士を模したドレス。\n星辰を渡る旅路は、音楽と笑顔に彩られている。", /*open_type*/0, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/3, /*name*/"パーティータイム・ゴールド", /*description*/"360度、光の海を泳ぐ少女たちのドレス。\nアクティブなパンツスタイルの衣装は\nアガるダンスフロアの主役にふさわしい。", /*open_type*/2, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/4, /*name*/"ディープスカイ・ブレイズ", /*description*/"光の舞台に立つ、少女達を力付けるドレス。\n深淵の炎を織られたように輝いている。", /*open_type*/2, /*dress_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/5, /*name*/"ショータイム・イリュージョン", /*description*/"一夜の煌めきを楽しむためのドレス。\n今宵の出来事は、全て幻のイリュージョン。\n想い出だけが、みんなの心に残り続ける。", /*open_type*/2, /*dress_type*/0);
@@ -16,3 +16,4 @@ INSERT INTO `dress_data` VALUES (/*id*/7006000, /*name*/"スカーレット・�
 INSERT INTO `dress_data` VALUES (/*id*/7007000, /*name*/"マリンガール・カーニバル", /*description*/"太陽が映える、海に舞う者たちのドレス。\n祭りの陽気と爽やかな潮風が、\nアツい夏を盛り上げる。", /*open_type*/2, /*dress_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/7008000, /*name*/"スウィート・パティシエール", /*description*/"甘美な夢を見せる少女たちのドレス。\n彼女たちがつくりだす幻想は、\nどんなお菓子よりも甘く優しく、\n見る者の心をとらえて離さない。", /*open_type*/2, /*dress_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/7009000, /*name*/"シンセサイズ・ハーモニー", /*description*/"スタイリッシュに魅せる、クールなドレス。\n鮮やかに舞う姿は、電脳世界の歌姫のよう。\n計算されつくしたフォルムから覗く\n生身の感情が、見る者を惹きつける。", /*open_type*/2, /*dress_type*/0);
+INSERT INTO `dress_data` VALUES (/*id*/7011000, /*name*/"デイバイデイ・プレゼント", /*description*/"積み重ねた日々を讃えるドレス。\n少女たちを祝う贈り物。\n育んできた絆が、彼女たちを輝かせる。", /*open_type*/3, /*dress_type*/0);
