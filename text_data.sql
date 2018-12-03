@@ -1141,6 +1141,11 @@ INSERT INTO `text_data` VALUES (/*category*/26, /*index*/33, /*text*/"ARスタ�
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/34, /*text*/"エラーが発生しました。\nタイトル画面に戻りますので、\nもう一度お試しください。");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/35, /*text*/"ARデータ更新");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/36, /*text*/"アプリを再起動します");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/37, /*text*/"表示補間処理設定");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/38, /*text*/"アイドルの表示を滑らかにする設定です。");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/39, /*text*/"OFF");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/40, /*text*/"ON");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/41, /*text*/"端末のライト点灯");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/1, /*text*/"LIVEへ");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/2, /*text*/"{0}マス");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/3, /*text*/"チケットを\n使用する");
