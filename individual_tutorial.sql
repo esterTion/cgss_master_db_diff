@@ -68,8 +68,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20012, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/"レイアウト済みのルームアイテムがセットになった\n「コーデ」をルームショップにて販売開始 !\n購入した「コーデ」はそのまま配置することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/"既に所持しているルームアイテムがコーデに含まれる場合、\nそのルームアイテムは購入されず、コーデの販売価格から\n差し引かれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/"購入したコーデはレイアウトの「テーマ」に保存され、\nいつでも自由に配置することができます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ニコニコ生放送「デレステNIGHT★×20」にて、制作が決定した\n「何が映るかわからない ! 事務所の古いテレビ」が登場 ! !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"島村卯月がカバーする「HOT LIMIT」\nをサウンドブースで販売開始しました !\n※本楽曲のLIVE演出は、2D標準・2D軽量のみとなります\n※PLvが10以上になると購入できます");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"「おもちゃ工場」をテーマにしたアイテムとコーデを追加 !\n懐かしのあのアイテムも作られてるみたいですよ !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"クリスマスをテーマにした新作コーデを追加 !\nお好きなコーデでクリスマスを楽しみましょう !\n過去のクリスマスアイテムも復刻販売中 ! ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"堀裕子、片桐早苗、及川雫がカバーする「行くぜっ ! 怪盗少女 \n～セクシーギルティCover Version～」をサウンドブースで販売開始しました !\n※本楽曲のLIVE演出は、2D標準・2D軽量のみとなります\n※PLvが10以上になると購入できます");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、\n様々な効果を発揮する物があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -130,7 +131,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30008, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30009, /*img*/1, /*discription*/"SMART LIVE設定の判定ライン設定に「下」を追加しました。\n「下」に設定すると、横画面のLIVEのように、\nリズムアイコンが縦に流れてくるようになります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30010, /*img*/1, /*discription*/"LIVEの動作設定「表示領域設定」をアップデートしました !\n縦横比が16:9よりもワイドな画面の端末で、\n3DモードのMV表示領域を広げて表示できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30010, /*img*/1, /*discription*/"楽曲選択画面、右上の「動作設定」ポップアップの\n「オプションタブ」内、「表示領域設定」から設定変更できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「クリスマススペシャルLIVEキャンペーン」\n開催中 ! 期間中にLIVEをクリアすると、\n期間限定のアイテムを獲得できます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");
@@ -188,6 +189,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/50001, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/50001, /*img*/1, /*discription*/"ストーリー中に行われるコミュLIVEでは、\n新たなコミュは解放されません。\nLIVEで特定の難易度でのクリアが必要となります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50002, /*img*/1, /*discription*/"メモリアルコミュでは、アイドル一人ひとりの\nアイドルとしての活動の軌跡が描かれています。\nLIVEでファン数を増やすことで解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50003, /*img*/1, /*discription*/"エピソードコミュでは、アイドルたちが特訓を通じて\n成長していくエピソードが描かれています。\n特訓をすることで解放されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/50004, /*img*/1, /*discription*/"「ストーリーコミュ」、「イベントコミュ」にて、\n登場アイドルや楽曲でコミュを検索できるようになりました。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/50004, /*img*/1, /*discription*/"画面右上の「コミュ検索」ボタンからご利用いただけます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/50004, /*img*/1, /*discription*/"ポップアップ右上のタブをタップすることで、\n「アイドル名検索」と「楽曲名検索」を切り替えることができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/50004, /*img*/2, /*discription*/"登場アイドルや楽曲で検索することで、対象のコミュが表示されます。\n気になるアイドルや楽曲で検索してみましょう!");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60001, /*img*/1, /*discription*/"手に入れたアイドルはアルバムに登録され\nアイドルのプロフィール、ステータス、\n親愛度演出やコミュを確認することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60002, /*img*/1, /*discription*/"ローディング中に表示される1コマ劇場やウワサで\nアイドルの意外な一面を知ることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60002, /*img*/1, /*discription*/"一度見た1コマ劇場とウワサは、\nアイドルトピックスで確認することができます。");
