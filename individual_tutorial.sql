@@ -192,7 +192,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/50003, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/50004, /*img*/1, /*discription*/"「ストーリーコミュ」、「イベントコミュ」にて、\n登場アイドルや楽曲でコミュを検索できるようになりました。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50004, /*img*/1, /*discription*/"画面右上の「コミュ検索」ボタンからご利用いただけます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50004, /*img*/1, /*discription*/"ポップアップ右上のタブをタップすることで、\n「アイドル名検索」と「楽曲名検索」を切り替えることができます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/50004, /*img*/2, /*discription*/"登場アイドルや楽曲で検索することで、対象のコミュが表示されます。\n気になるアイドルや楽曲で検索してみましょう!");
+INSERT INTO `individual_tutorial` VALUES (/*id*/50004, /*img*/2, /*discription*/"登場アイドルや楽曲で検索することで、\n対象のコミュが表示されます。\n気になるアイドルや楽曲で検索してみましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60001, /*img*/1, /*discription*/"手に入れたアイドルはアルバムに登録され\nアイドルのプロフィール、ステータス、\n親愛度演出やコミュを確認することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60002, /*img*/1, /*discription*/"ローディング中に表示される1コマ劇場やウワサで\nアイドルの意外な一面を知ることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60002, /*img*/1, /*discription*/"一度見た1コマ劇場とウワサは、\nアイドルトピックスで確認することができます。");
