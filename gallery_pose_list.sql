@@ -19,3 +19,4 @@ INSERT INTO `gallery_pose_list` VALUES (/*id*/2681, /*disp_order*/268, /*disp_na
 INSERT INTO `gallery_pose_list` VALUES (/*id*/2691, /*disp_order*/269, /*disp_name*/"恵磨ちゃんっぽく !", /*motion_id*/2691, /*fade_msec*/1000, /*cutt_name*/"Cutt_Pose2691");
 INSERT INTO `gallery_pose_list` VALUES (/*id*/2711, /*disp_order*/271, /*disp_name*/"きらりちゃんっぽく !", /*motion_id*/2711, /*fade_msec*/1000, /*cutt_name*/"Cutt_Pose2711");
 INSERT INTO `gallery_pose_list` VALUES (/*id*/2731, /*disp_order*/273, /*disp_name*/"ナターリアちゃんっぽく !", /*motion_id*/2731, /*fade_msec*/1000, /*cutt_name*/"Cutt_Pose2731");
+INSERT INTO `gallery_pose_list` VALUES (/*id*/10001, /*disp_order*/10001, /*disp_name*/"AR用ポーズ", /*motion_id*/10001, /*fade_msec*/1000, /*cutt_name*/"Cutt_Pose10001");
