@@ -397,7 +397,7 @@ INSERT INTO `tips` VALUES (/*id*/395, /*tips_type*/1, /*value*/249, /*index*/2, 
 INSERT INTO `tips` VALUES (/*id*/396, /*tips_type*/1, /*value*/186, /*index*/2, /*title*/"水野翠のウワサ②", /*comment*/"行動した後は、\nつい余韻を残してしまうらしい。");
 INSERT INTO `tips` VALUES (/*id*/397, /*tips_type*/1, /*value*/272, /*index*/2, /*title*/"十時愛梨のウワサ②", /*comment*/"両親の結婚記念日には\n必ずケーキを作るらしい。");
 INSERT INTO `tips` VALUES (/*id*/398, /*tips_type*/1, /*value*/220, /*index*/3, /*title*/"塩見周子のウワサ③", /*comment*/"影絵を手でつくるのが\n上手らしい。");
-INSERT INTO `tips` VALUES (/*id*/399, /*tips_type*/1, /*value*/111, /*index*/2, /*title*/"小日向美穂のウワサ②", /*comment*/"血圧を計るとき\nドキドキしてしまって\nなかなか正確に測れないらしい。");
+INSERT INTO `tips` VALUES (/*id*/399, /*tips_type*/1, /*value*/111, /*index*/2, /*title*/"小日向美穂のウワサ②", /*comment*/"血圧を測るとき\nドキドキしてしまって\nなかなか正確に測れないらしい。");
 INSERT INTO `tips` VALUES (/*id*/400, /*tips_type*/1, /*value*/228, /*index*/2, /*title*/"大和亜季のウワサ②", /*comment*/"障害物競走が得意らしい。");
 INSERT INTO `tips` VALUES (/*id*/401, /*tips_type*/1, /*value*/300, /*index*/2, /*title*/"イヴ・サンタクロースのウワサ②", /*comment*/"銭湯が好きらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
