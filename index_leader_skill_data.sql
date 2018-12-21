@@ -8,5 +8,5 @@ INSERT INTO `index_leader_skill_data` VALUES (/*id*/6, /*name*/"特技アップ"
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/7, /*name*/"トリコロー\nル", /*skill_id*/"70,71,72,73,82,83,84");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/8, /*name*/"プリンセス", /*skill_id*/"74,75,76");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/9, /*name*/"チアー", /*skill_id*/"77,78,79");
-INSERT INTO `index_leader_skill_data` VALUES (/*id*/10, /*name*/"フォーチュン\nプレゼント", /*skill_id*/80);
+INSERT INTO `index_leader_skill_data` VALUES (/*id*/10, /*name*/"プレゼント", /*skill_id*/"80,85");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/11, /*name*/"シンデレラ\nチャーム", /*skill_id*/81);
