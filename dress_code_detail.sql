@@ -1,1 +1,2 @@
 CREATE TABLE 'dress_code_detail' ('dress_id' INTEGER NOT NULL, 'tab_01_icon' TEXT NOT NULL, 'tab_02_icon' TEXT NOT NULL, 'tab_03_icon' TEXT NOT NULL, 'tab_04_icon' TEXT NOT NULL, 'tab_05_icon' TEXT NOT NULL, PRIMARY KEY('dress_id'));
+INSERT INTO `dress_code_detail` VALUES (/*dress_id*/9, /*tab_01_icon*/"icon_tab_10_1", /*tab_02_icon*/"icon_tab_10_2", /*tab_03_icon*/"icon_tab_10_3", /*tab_04_icon*/"icon_tab_10_4", /*tab_05_icon*/"icon_tab_14_0");
