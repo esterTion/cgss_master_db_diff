@@ -151,3 +151,4 @@ INSERT INTO `gift_message` VALUES (/*id*/20024, /*discription*/"「祝3周年 ! 
 INSERT INTO `gift_message` VALUES (/*id*/20025, /*discription*/"「Twitterフォロー＆RTキャンペーン」スタージュエル賞のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20026, /*discription*/"「6thLIVE連動キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20027, /*discription*/"「カバー曲リクエスト」協力のお礼です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20028, /*discription*/"「ゆくM@S くるM@S 2018」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

@@ -26,5 +26,7 @@ INSERT INTO `mv_list_data` VALUES (/*stage_id*/24, /*start_date*/"2018-04-19 15:
 INSERT INTO `mv_list_data` VALUES (/*stage_id*/25, /*start_date*/"2018-04-19 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/13, /*day*/2, /*name*/"Initial Mess@ge \n台湾公演 2日目");
 INSERT INTO `mv_list_data` VALUES (/*stage_id*/26, /*start_date*/"2018-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/14, /*day*/1, /*name*/"SS3A Live Sound Booth♪ \n1日目");
 INSERT INTO `mv_list_data` VALUES (/*stage_id*/27, /*start_date*/"2018-09-20 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/14, /*day*/2, /*name*/"SS3A Live Sound Booth♪ \n2日目");
-INSERT INTO `mv_list_data` VALUES (/*stage_id*/28, /*start_date*/"2018-11-22 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/15, /*day*/1, /*name*/"6thLIVE MERRY-GO-ROUNDOME!!! \n1日目");
-INSERT INTO `mv_list_data` VALUES (/*stage_id*/29, /*start_date*/"2018-11-22 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/15, /*day*/2, /*name*/"6thLIVE MERRY-GO-ROUNDOME!!! \n2日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/28, /*start_date*/"2018-11-22 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/15, /*day*/1, /*name*/"6thLIVE MERRY-GO-ROUNDOME!!! \nメットライフドーム公演 1日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/29, /*start_date*/"2018-11-22 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/15, /*day*/2, /*name*/"6thLIVE MERRY-GO-ROUNDOME!!! \nメットライフドーム公演 2日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/30, /*start_date*/"2018-12-28 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/16, /*day*/1, /*name*/"6thLIVE MERRY-GO-ROUNDOME!!! \nナゴヤドーム公演 1日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/31, /*start_date*/"2018-12-28 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/16, /*day*/2, /*name*/"6thLIVE MERRY-GO-ROUNDOME!!! \nナゴヤドーム公演 2日目");

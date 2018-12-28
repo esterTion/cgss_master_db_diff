@@ -291,7 +291,7 @@ INSERT INTO `story_category` VALUES (/*id*/310, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/311, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"キミのそばでずっと", /*sub_title*/"キミのそばでずっと", /*disp_order*/46);
 INSERT INTO `story_category` VALUES (/*id*/312, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Halloween♥Code", /*sub_title*/"Halloween♥Code", /*disp_order*/47);
 INSERT INTO `story_category` VALUES (/*id*/313, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"秋風に手を振って", /*sub_title*/"秋風に手を振って", /*disp_order*/48);
-INSERT INTO `story_category` VALUES (/*id*/314, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"オールスターカウントダウンLIVE", /*sub_title*/"オールスターカウントダウンLIVE", /*disp_order*/4);
+INSERT INTO `story_category` VALUES (/*id*/314, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"オールスターカウントダウンLIVE2017", /*sub_title*/"オールスターカウントダウンLIVE2017", /*disp_order*/4);
 INSERT INTO `story_category` VALUES (/*id*/315, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Trinity Field", /*sub_title*/"Trinity Field", /*disp_order*/49);
 INSERT INTO `story_category` VALUES (/*id*/316, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"恋が咲く季節", /*sub_title*/"恋が咲く季節", /*disp_order*/50);
 INSERT INTO `story_category` VALUES (/*id*/317, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"冬空プレシャス", /*sub_title*/"冬空プレシャス", /*disp_order*/51);
@@ -331,6 +331,7 @@ INSERT INTO `story_category` VALUES (/*id*/350, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/351, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Starry-Go-Round", /*sub_title*/"Starry-Go-Round", /*disp_order*/77);
 INSERT INTO `story_category` VALUES (/*id*/352, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"6thLIVE連動企画", /*sub_title*/"6thLIVE連動企画", /*disp_order*/8);
 INSERT INTO `story_category` VALUES (/*id*/353, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ライラ / 柳瀬美由紀", /*sub_title*/"ライラ / 柳瀬美由紀", /*disp_order*/78);
+INSERT INTO `story_category` VALUES (/*id*/354, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"オールスターカウントダウンLIVE2018", /*sub_title*/"オールスターカウントダウンLIVE2018", /*disp_order*/9);
 INSERT INTO `story_category` VALUES (/*id*/355, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Sunshine See May", /*sub_title*/"Sunshine See May", /*disp_order*/79);
 INSERT INTO `story_category` VALUES (/*id*/356, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"君への詩", /*sub_title*/"君への詩", /*disp_order*/80);
 INSERT INTO `story_category` VALUES (/*id*/357, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Trust me", /*sub_title*/"Trust me", /*disp_order*/81);
