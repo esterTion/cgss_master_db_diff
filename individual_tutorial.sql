@@ -408,10 +408,12 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90202, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90301, /*img*/1, /*discription*/"「楽曲総選挙」が始まりました !\nお気に入りの楽曲に投票しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90301, /*img*/2, /*discription*/"投票できるのは、ソロ楽曲部門とユニット楽曲部門の2部門 !\n各部門1日1回投票できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90301, /*img*/3, /*discription*/"受賞楽曲は、\nmobage「アイドルマスター シンデレラガールズ」\n第6回シンデレラガール総選挙と連動して楽曲化 !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/1, /*discription*/"オールスターカウントダウンLIVE開催 !\n開催期間は2017年12月31日0時～24時です。\nみんなでLIVEを楽しみながら1年を締めくくりましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/1, /*discription*/"オールスターカウントダウンLIVE開催 !\n開催期間は2018年12月31日0時～24時です。\nみんなでLIVEを楽しみながら1年を締めくくりましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/2, /*discription*/"全プロデューサーで対象楽曲をクリアして、「全体ミッション」を達成しま\nしょう ! 対象楽曲がクリアされた回数によって獲得できる報酬が決定します !\n※全体ミッションの達成報酬は、\n1月1日12時にまとめて配布されます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/4, /*discription*/"「オールスターカウントダウンLIVE」には、「全体ミッション」のほかに\n「個人ミッション」があります。「宝くじチケット」や\n「イベント限定アイドルスカウトチケット」などを含む、\n豪華景品をご用意しておりますので忘れずにチェックしてくださいね !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/5, /*discription*/"特設ページ内「次のコミュ解放」横に表示されている時間になると、\nアイドルたちがMCを務めるコミュが解放されます。\n後半には「あの曲」も登場・・・ ! ？");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/3, /*discription*/"「全体ミッション」の対象楽曲は、3時間ごとに変更されます。\n対象の楽曲タイプを選んでLIVEしましょう ! ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/4, /*discription*/"「オールスターカウントダウンLIVE」には、「全体ミッション」のほかに\n「個人ミッション」があります。「宝くじチケット」や\n「イベント限定アイドルスカウトチケット」などを含む、\n豪華景品をご用意しておりますので忘れずにチェックしてくださいね!");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/5, /*discription*/"特設ページ内「次のコミュ解放」に表示されている時間になると、\nアイドルたちがMCを務めるコミュが解放されます。\n2018年の「デレステ」のデータを大公開 ! ？");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/6, /*discription*/"さらに ! 今年のカウントダウンLIVEでは、LIVEを成功すると「シンデレラドリームチケット」\nがドロップします。ドレスショップでチケット1枚を使用することで、\n好きなアイドル1人のドレスと交換できます。\n※チケットは2枚ドロップする場合があり、\n難易度が高いほど2枚ドロップする確率が上がります");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90501, /*img*/1, /*discription*/"きらり博士のラボでは、うさぎロボをタップして\nミニゲームに挑戦できます。\nミニゲームでハピネシウムを集めて、\n最終決戦に挑みましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90601, /*img*/1, /*discription*/"「第7回シンデレラガール総選挙」が始まりました !\n「第7回シンデレラガール総選挙」は、\nソーシャルゲーム「アイドルマスター シンデレラガールズ」\nとの合同開催となります。※得票数は各アプリの合算となります");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90601, /*img*/2, /*discription*/"ログインボーナスや期間限定ミッション、\n総選挙応援セットなどで投票券を入手して、\nお気に入りのアイドルに投票しましょう !");

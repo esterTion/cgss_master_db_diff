@@ -15,3 +15,4 @@ INSERT INTO `item_category` VALUES (/*category_type*/13, /*category_name*/"プ�
 INSERT INTO `item_category` VALUES (/*category_type*/14, /*category_name*/"プラチナメダル専用スカウトチケット");
 INSERT INTO `item_category` VALUES (/*category_type*/15, /*category_name*/"フォトスタジオ・背景");
 INSERT INTO `item_category` VALUES (/*category_type*/16, /*category_name*/"フォトスタジオ・ポーズ");
+INSERT INTO `item_category` VALUES (/*category_type*/17, /*category_name*/"衣装交換チケット");
