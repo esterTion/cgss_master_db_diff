@@ -600,7 +600,7 @@ INSERT INTO `text_data` VALUES (/*category*/16, /*index*/9, /*text*/"3周年カ�
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/10, /*text*/"1年間の思い出を振り返りましょう");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/11, /*text*/"Twitterフォロー＆RTキャンペーン");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/12, /*text*/"　");
-INSERT INTO `text_data` VALUES (/*category*/16, /*index*/13, /*text*/"応募期間　09/03 15:00 ～ 09/17 14:59");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/13, /*text*/"応募期間　01/01 15:00 ～ 01/15 14:59");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/14, /*text*/"詳細は、特設サイトをご覧ください。    ");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/15, /*text*/"入力期間　10/17 15:00 ～ 10/24 23:59");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/16, /*text*/"『レッツプレゼントキャンペーン』に当選しました。\nキャンペーンページから当選結果をご確認ください。\nスタージュエル賞は、送付先情報入力は不要です。\n送付先情報入力締切：\n10/24 23:59");

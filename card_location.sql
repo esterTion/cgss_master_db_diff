@@ -622,3 +622,7 @@ INSERT INTO `card_location` VALUES (/*index*/624, /*text*/"妄想トークショ
 INSERT INTO `card_location` VALUES (/*index*/625, /*text*/"クリスマス直前パーティー");
 INSERT INTO `card_location` VALUES (/*index*/626, /*text*/"クリスマスの夜空");
 INSERT INTO `card_location` VALUES (/*index*/627, /*text*/"お城の撮影場所");
+INSERT INTO `card_location` VALUES (/*index*/628, /*text*/"新春アイドルかるた大会");
+INSERT INTO `card_location` VALUES (/*index*/629, /*text*/"P.C.S単独ステージ");
+INSERT INTO `card_location` VALUES (/*index*/630, /*text*/"LIVEステージ・設営中");
+INSERT INTO `card_location` VALUES (/*index*/631, /*text*/"城の中庭");

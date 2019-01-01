@@ -335,3 +335,4 @@ INSERT INTO `story_category` VALUES (/*id*/354, /*type*/4, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/355, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Sunshine See May", /*sub_title*/"Sunshine See May", /*disp_order*/79);
 INSERT INTO `story_category` VALUES (/*id*/356, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"君への詩", /*sub_title*/"君への詩", /*disp_order*/80);
 INSERT INTO `story_category` VALUES (/*id*/357, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Trust me", /*sub_title*/"Trust me", /*disp_order*/81);
+INSERT INTO `story_category` VALUES (/*id*/358, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Palette", /*sub_title*/"Palette", /*disp_order*/82);
