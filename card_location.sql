@@ -626,3 +626,9 @@ INSERT INTO `card_location` VALUES (/*index*/628, /*text*/"新春アイドルか
 INSERT INTO `card_location` VALUES (/*index*/629, /*text*/"P.C.S単独ステージ");
 INSERT INTO `card_location` VALUES (/*index*/630, /*text*/"LIVEステージ・設営中");
 INSERT INTO `card_location` VALUES (/*index*/631, /*text*/"城の中庭");
+INSERT INTO `card_location` VALUES (/*index*/632, /*text*/"神社入り口");
+INSERT INTO `card_location` VALUES (/*index*/633, /*text*/"高台");
+INSERT INTO `card_location` VALUES (/*index*/634, /*text*/"NY・タイムズスクエア");
+INSERT INTO `card_location` VALUES (/*index*/635, /*text*/"森の中の泉");
+INSERT INTO `card_location` VALUES (/*index*/636, /*text*/"熊本城公園");
+INSERT INTO `card_location` VALUES (/*index*/637, /*text*/"インターネットカフェ");
