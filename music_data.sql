@@ -166,6 +166,7 @@ INSERT INTO `music_data` VALUES (/*id*/8005, /*name*/"LOVE & PEACH", /*bpm*/152,
 INSERT INTO `music_data` VALUES (/*id*/8007, /*name*/"HOT LIMIT", /*bpm*/138, /*composer*/"浅倉大介", /*lyricist*/"井上秋緒", /*sound_offset*/67339, /*sound_length*/32000, /*name_sort*/0, /*name_kana*/"ほっとりみっと");
 INSERT INTO `music_data` VALUES (/*id*/8008, /*name*/"行くぜっ ! 怪盗少女", /*bpm*/160, /*composer*/"前山田健一", /*lyricist*/"前山田健一", /*sound_offset*/85426, /*sound_length*/38000, /*name_sort*/0, /*name_kana*/"いくぜっかいとうしょうじょ");
 INSERT INTO `music_data` VALUES (/*id*/8009, /*name*/"友達の唄", /*bpm*/144, /*composer*/"北川悠仁", /*lyricist*/"北川悠仁", /*sound_offset*/55292, /*sound_length*/39000, /*name_sort*/0, /*name_kana*/"ともだちのうた");
+INSERT INTO `music_data` VALUES (/*id*/8010, /*name*/"虹", /*bpm*/116, /*composer*/"北川悠仁", /*lyricist*/"北川悠仁", /*sound_offset*/71108, /*sound_length*/39000, /*name_sort*/0, /*name_kana*/"にじ");
 INSERT INTO `music_data` VALUES (/*id*/9001, /*name*/"とどけ ! アイドル", /*bpm*/180, /*composer*/"BNSI（内田哲也）", /*lyricist*/"marhy", /*sound_offset*/60650, /*sound_length*/25000, /*name_sort*/0, /*name_kana*/"とどけあいどる");
 INSERT INTO `music_data` VALUES (/*id*/9002, /*name*/"Snow Wings", /*bpm*/167, /*composer*/"俊龍", /*lyricist*/"俊龍", /*sound_offset*/65785, /*sound_length*/41000, /*name_sort*/0, /*name_kana*/"すのうういんぐす");
 INSERT INTO `music_data` VALUES (/*id*/9003, /*name*/"Tulip", /*bpm*/154, /*composer*/"石濱翔（MONACA）", /*lyricist*/"森由里子", /*sound_offset*/52800, /*sound_length*/26000, /*name_sort*/0, /*name_kana*/"ちゅーりっぷ");
