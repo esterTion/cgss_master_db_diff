@@ -139,6 +139,7 @@ INSERT INTO `music_data` VALUES (/*id*/5015, /*name*/"Rockin' Emotion", /*bpm*/1
 INSERT INTO `music_data` VALUES (/*id*/5017, /*name*/"Wonder goes on!!", /*bpm*/178, /*composer*/"小野貴光", /*lyricist*/"磯谷佳江", /*sound_offset*/61242, /*sound_length*/27000, /*name_sort*/0, /*name_kana*/"わんだーごーずおん");
 INSERT INTO `music_data` VALUES (/*id*/5018, /*name*/"この空の下", /*bpm*/150, /*composer*/"Funta7", /*lyricist*/"Funta3", /*sound_offset*/60593, /*sound_length*/32000, /*name_sort*/0, /*name_kana*/"このそらのした");
 INSERT INTO `music_data` VALUES (/*id*/5021, /*name*/"Trancing Pulse", /*bpm*/143, /*composer*/"上松範康（Elements Garden）", /*lyricist*/"AJURIKA", /*sound_offset*/76089, /*sound_length*/29000, /*name_sort*/0, /*name_kana*/"とらんしんぐぱるす");
+INSERT INTO `music_data` VALUES (/*id*/5022, /*name*/"心もよう", /*bpm*/85, /*composer*/"滝澤俊輔（TRYTONELABO）", /*lyricist*/"遠藤フビト", /*sound_offset*/60627, /*sound_length*/57000, /*name_sort*/0, /*name_kana*/"こころもよう");
 INSERT INTO `music_data` VALUES (/*id*/5024, /*name*/"流れ星キセキ", /*bpm*/174, /*composer*/"渡部チェル", /*lyricist*/"小金井つくも", /*sound_offset*/52397, /*sound_length*/27000, /*name_sort*/0, /*name_kana*/"ながれぼしきせき");
 INSERT INTO `music_data` VALUES (/*id*/5025, /*name*/"M@GIC☆", /*bpm*/178, /*composer*/"田中秀和（MONACA）", /*lyricist*/"森由里子", /*sound_offset*/60682, /*sound_length*/21100, /*name_sort*/0, /*name_kana*/"まじっく");
 INSERT INTO `music_data` VALUES (/*id*/5026, /*name*/"Nocturne", /*bpm*/189, /*composer*/"AJURIKA", /*lyricist*/"AJURIKA", /*sound_offset*/43587, /*sound_length*/21900, /*name_sort*/0, /*name_kana*/"のくたーん");
