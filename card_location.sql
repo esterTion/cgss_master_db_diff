@@ -638,3 +638,5 @@ INSERT INTO `card_location` VALUES (/*index*/641, /*text*/"和風LIVEステー�
 INSERT INTO `card_location` VALUES (/*index*/642, /*text*/"和食レストラン");
 INSERT INTO `card_location` VALUES (/*index*/643, /*text*/"武家屋敷");
 INSERT INTO `card_location` VALUES (/*index*/644, /*text*/"合戦場");
+INSERT INTO `card_location` VALUES (/*index*/645, /*text*/"東京のラーメン店");
+INSERT INTO `card_location` VALUES (/*index*/646, /*text*/"アスレチック公園");
