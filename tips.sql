@@ -400,6 +400,15 @@ INSERT INTO `tips` VALUES (/*id*/398, /*tips_type*/1, /*value*/220, /*index*/3, 
 INSERT INTO `tips` VALUES (/*id*/399, /*tips_type*/1, /*value*/111, /*index*/2, /*title*/"小日向美穂のウワサ②", /*comment*/"血圧を測るとき\nドキドキしてしまって\nなかなか正確に測れないらしい。");
 INSERT INTO `tips` VALUES (/*id*/400, /*tips_type*/1, /*value*/228, /*index*/2, /*title*/"大和亜季のウワサ②", /*comment*/"障害物競走が得意らしい。");
 INSERT INTO `tips` VALUES (/*id*/401, /*tips_type*/1, /*value*/300, /*index*/2, /*title*/"イヴ・サンタクロースのウワサ②", /*comment*/"銭湯が好きらしい。");
+INSERT INTO `tips` VALUES (/*id*/402, /*tips_type*/1, /*value*/293, /*index*/2, /*title*/"村上巴のウワサ②", /*comment*/"母親にハンドクリームを贈ったら\n父親が泣いたらしい。");
+INSERT INTO `tips` VALUES (/*id*/403, /*tips_type*/1, /*value*/264, /*index*/2, /*title*/"野々村そらのウワサ②", /*comment*/"正しい発音よりも\nふぃーりんぐが大事らしい。");
+INSERT INTO `tips` VALUES (/*id*/404, /*tips_type*/1, /*value*/151, /*index*/2, /*title*/"安斎都のウワサ②", /*comment*/"安楽椅子を見ると\n座らずにはいられないらしい。");
+INSERT INTO `tips` VALUES (/*id*/405, /*tips_type*/1, /*value*/203, /*index*/2, /*title*/"瀬名詩織のウワサ②", /*comment*/"波の音だけが入ったCDを\n何枚も持っているらしい。");
+INSERT INTO `tips` VALUES (/*id*/406, /*tips_type*/1, /*value*/287, /*index*/3, /*title*/"メアリー・コクランのウワサ③", /*comment*/"毎月新しい家族写真を撮って、\nリビングに飾っているらしい。");
+INSERT INTO `tips` VALUES (/*id*/407, /*tips_type*/1, /*value*/104, /*index*/3, /*title*/"福山舞のウワサ③", /*comment*/"宿題を終わらせてから\n遊びに行くらしい。");
+INSERT INTO `tips` VALUES (/*id*/408, /*tips_type*/1, /*value*/239, /*index*/3, /*title*/"松山久美子のウワサ③", /*comment*/"指先まで綺麗な動きを\n意識しているらしい。");
+INSERT INTO `tips` VALUES (/*id*/409, /*tips_type*/1, /*value*/133, /*index*/3, /*title*/"西園寺琴歌のウワサ③", /*comment*/"寮暮らしに\n少しだけ憧れているらしい。");
+INSERT INTO `tips` VALUES (/*id*/410, /*tips_type*/1, /*value*/120, /*index*/3, /*title*/"太田優のウワサ③", /*comment*/"アッキーと夜通し語り合い、\n肩を並べて見た朝日は\nとても美しかったらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !");
@@ -764,5 +773,9 @@ INSERT INTO `tips` VALUES (/*id*/40324, /*tips_type*/4, /*value*/232, /*index*/2
 INSERT INTO `tips` VALUES (/*id*/40325, /*tips_type*/4, /*value*/129, /*index*/2, /*title*/"松原早耶②　逆に早耶がぁ…", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40326, /*tips_type*/4, /*value*/240, /*index*/2, /*title*/"斉藤洋子②　自慢の肌です♪", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40327, /*tips_type*/4, /*value*/245, /*index*/2, /*title*/"真鍋いつき②　別にいいですけどっ", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40328, /*tips_type*/4, /*value*/141, /*index*/2, /*title*/"道明寺歌鈴②　最初が肝心っ !", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40329, /*tips_type*/4, /*value*/233, /*index*/2, /*title*/"鷹富士茄子②　見せ(られ)ないもの", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40330, /*tips_type*/4, /*value*/108, /*index*/2, /*title*/"三村かな子②　一年で一番の", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40331, /*tips_type*/4, /*value*/292, /*index*/2, /*title*/"浜口あやめ②　くのいちの入浴", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50001, /*tips_type*/5, /*value*/1, /*index*/1, /*title*/"縦画面持ち替え説明画像", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50002, /*tips_type*/5, /*value*/2, /*index*/1, /*title*/"縦画面横に持ち替え説明画像", /*comment*/"");
