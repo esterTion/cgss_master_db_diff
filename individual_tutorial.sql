@@ -134,7 +134,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30008, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30009, /*img*/1, /*discription*/"SMART LIVE設定の判定ライン設定に「下」を追加しました。\n「下」に設定すると、横画面のLIVEのように、\nリズムアイコンが縦に流れてくるようになります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30010, /*img*/1, /*discription*/"LIVEの動作設定「表示領域設定」をアップデートしました !\n縦横比が16:9よりもワイドな画面の端末で、\n3DモードのMV表示領域を広げて表示できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30010, /*img*/1, /*discription*/"楽曲選択画面、右上の「動作設定」ポップアップの\n「オプションタブ」内、「表示領域設定」から設定変更できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「新春 ! ハッピーニューイヤースペシャルLIVEキャンペーン」\n開催中 ! 期間中にLIVEをクリアすると、\n期間限定のアイテムを獲得できます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「バレンタインスペシャルLIVEキャンペーン」\n開催中 ! 期間中にLIVEをクリアすると、\n期間限定のアイテムを獲得できます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");

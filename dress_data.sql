@@ -3,7 +3,7 @@ INSERT INTO `dress_data` VALUES (/*id*/1, /*name*/"スターリースカイ・�
 INSERT INTO `dress_data` VALUES (/*id*/2, /*name*/"アクロス・ザ・スターズ", /*description*/"扉を開け、城より出でる騎士を模したドレス。\n星辰を渡る旅路は、音楽と笑顔に彩られている。", /*open_type*/0, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/3, /*name*/"パーティータイム・ゴールド", /*description*/"360度、光の海を泳ぐ少女たちのドレス。\nアクティブなパンツスタイルの衣装は\nアガるダンスフロアの主役にふさわしい。", /*open_type*/2, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/4, /*name*/"ディープスカイ・ブレイズ", /*description*/"光の舞台に立つ、少女達を力付けるドレス。\n深淵の炎を織られたように輝いている。", /*open_type*/2, /*dress_type*/0);
-INSERT INTO `dress_data` VALUES (/*id*/5, /*name*/"ショータイム・イリュージョン", /*description*/"一夜の煌めきを楽しむためのドレス。\n今宵の出来事は、全て幻のイリュージョン。\n想い出だけが、みんなの心に残り続ける。", /*open_type*/2, /*dress_type*/0);
+INSERT INTO `dress_data` VALUES (/*id*/5, /*name*/"ショータイム・イリュージョン", /*description*/"一夜の煌めきを楽しむためのドレス。\n今宵の出来事は、全て幻のイリュージョン。\n想い出だけが、みんなの心に残り続ける。", /*open_type*/2, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/6, /*name*/"シンデレラドリーム", /*description*/"アイドルたちの背中を押す、夢の衣装。\nたくさんの思い出と、いつの日にか叶える願いが\n形になった、メモリアルなドレス。", /*open_type*/4, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/7, /*name*/"ネクスト・フロンティア", /*description*/"星の輝きを目指す、開拓者の衣装。思い出と経験を武器に、己の足で先へ進む\n少女たちの強い意志が刻み込まれている。", /*open_type*/2, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/8, /*name*/"アクロス・ザ・スターズ／コーデ", /*description*/"パーツごとにカラーを変更できる\nドレスコーデ対応衣装になります。", /*open_type*/2, /*dress_type*/2);
