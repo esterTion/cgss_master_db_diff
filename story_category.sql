@@ -338,3 +338,4 @@ INSERT INTO `story_category` VALUES (/*id*/357, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/358, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Palette", /*sub_title*/"Palette", /*disp_order*/82);
 INSERT INTO `story_category` VALUES (/*id*/359, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"浅利七海 / 横山千佳", /*sub_title*/"浅利七海 / 横山千佳", /*disp_order*/83);
 INSERT INTO `story_category` VALUES (/*id*/360, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"スパイスパラダイス", /*sub_title*/"スパイスパラダイス", /*disp_order*/84);
+INSERT INTO `story_category` VALUES (/*id*/361, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"義勇忍侠花吹雪", /*sub_title*/"義勇忍侠花吹雪", /*disp_order*/85);

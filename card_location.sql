@@ -644,3 +644,6 @@ INSERT INTO `card_location` VALUES (/*index*/647, /*text*/"カレー百年戦争
 INSERT INTO `card_location` VALUES (/*index*/648, /*text*/"カレーCM撮影ロケ");
 INSERT INTO `card_location` VALUES (/*index*/649, /*text*/"海賊船ポジパ号");
 INSERT INTO `card_location` VALUES (/*index*/650, /*text*/"雪の降る街");
+INSERT INTO `card_location` VALUES (/*index*/651, /*text*/"スイーツカフェ");
+INSERT INTO `card_location` VALUES (/*index*/652, /*text*/"仙台・けやき並木");
+INSERT INTO `card_location` VALUES (/*index*/653, /*text*/"道明寺家の神社");
