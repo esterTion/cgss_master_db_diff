@@ -9,7 +9,7 @@ INSERT INTO `room_set_data` VALUES (/*id*/7, /*name*/"おばけの館コーデ",
 INSERT INTO `room_set_data` VALUES (/*id*/8, /*name*/"スポーツジムコーデ", /*value*/275000, /*shop_start*/"2017-11-14 15:00:00", /*shop_end*/"", /*flag_new*/0, /*sort*/744001, /*bonus*/"1972,1973");
 INSERT INTO `room_set_data` VALUES (/*id*/9, /*name*/"クリスマスディナーコーデ", /*value*/305000, /*shop_start*/"2018-12-10 15:00:00", /*shop_end*/"2018-12-25 23:59:59", /*flag_new*/0, /*sort*/738001, /*bonus*/"2029,2030,2031");
 INSERT INTO `room_set_data` VALUES (/*id*/10, /*name*/"お正月2017コーデ", /*value*/305000, /*shop_start*/"2018-12-27 15:00:00", /*shop_end*/"2019-1-15 23:59:59", /*flag_new*/0, /*sort*/733001, /*bonus*/"2076,2077");
-INSERT INTO `room_set_data` VALUES (/*id*/11, /*name*/"お菓子の家コーデ", /*value*/300000, /*shop_start*/"2018-9-15 15:00:00", /*shop_end*/"2018-9-21 14:59:59", /*flag_new*/0, /*sort*/728001, /*bonus*/"2155,2156");
+INSERT INTO `room_set_data` VALUES (/*id*/11, /*name*/"お菓子の家コーデ", /*value*/300000, /*shop_start*/"2019-2-1 15:00:00", /*shop_end*/"2019-2-14 23:59:59", /*flag_new*/0, /*sort*/728001, /*bonus*/"2155,2156");
 INSERT INTO `room_set_data` VALUES (/*id*/12, /*name*/"レトロモダンコーデ", /*value*/280000, /*shop_start*/"2018-2-20 15:00:00", /*shop_end*/"", /*flag_new*/0, /*sort*/724001, /*bonus*/"2192,2193");
 INSERT INTO `room_set_data` VALUES (/*id*/13, /*name*/"理科室コーデ", /*value*/355000, /*shop_start*/"2018-3-23 15:00:00", /*shop_end*/"", /*flag_new*/0, /*sort*/718001, /*bonus*/"2241,2242");
 INSERT INTO `room_set_data` VALUES (/*id*/14, /*name*/"海のいきものコーデ", /*value*/290000, /*shop_start*/"2018-4-16 15:00:00", /*shop_end*/"", /*flag_new*/0, /*sort*/713001, /*bonus*/"2334,2335");
@@ -32,6 +32,9 @@ INSERT INTO `room_set_data` VALUES (/*id*/30, /*name*/"枯山水コーデ", /*va
 INSERT INTO `room_set_data` VALUES (/*id*/31, /*name*/"おもちゃ工場コーデ", /*value*/355000, /*shop_start*/"2018-12-10 15:00:00", /*shop_end*/"", /*flag_new*/0, /*sort*/650001, /*bonus*/"2834,2835");
 INSERT INTO `room_set_data` VALUES (/*id*/32, /*name*/"クリスマス2015コーデ", /*value*/325000, /*shop_start*/"2018-12-10 15:00:00", /*shop_end*/"2018-12-25 23:59:59", /*flag_new*/0, /*sort*/650002, /*bonus*/"2920,2921");
 INSERT INTO `room_set_data` VALUES (/*id*/33, /*name*/"クリスマス2016コーデ", /*value*/300000, /*shop_start*/"2018-12-10 15:00:00", /*shop_end*/"2018-12-25 23:59:59", /*flag_new*/0, /*sort*/650003, /*bonus*/"2922,2923");
-INSERT INTO `room_set_data` VALUES (/*id*/34, /*name*/"初詣テーマ", /*value*/190000, /*shop_start*/"2018-12-27 15:00:00", /*shop_end*/"2019-1-15 23:59:59", /*flag_new*/1, /*sort*/642000, /*bonus*/"2879,2880");
-INSERT INTO `room_set_data` VALUES (/*id*/35, /*name*/"お正月2015コーデ", /*value*/305000, /*shop_start*/"2018-12-27 15:00:00", /*shop_end*/"2019-1-15 23:59:59", /*flag_new*/1, /*sort*/642001, /*bonus*/"2930,2931");
-INSERT INTO `room_set_data` VALUES (/*id*/36, /*name*/"お正月2016コーデ", /*value*/415000, /*shop_start*/"2018-12-27 15:00:00", /*shop_end*/"2019-1-15 23:59:59", /*flag_new*/1, /*sort*/642002, /*bonus*/"2932,2933");
+INSERT INTO `room_set_data` VALUES (/*id*/34, /*name*/"初詣コーデ", /*value*/190000, /*shop_start*/"2018-12-27 15:00:00", /*shop_end*/"2019-1-15 23:59:59", /*flag_new*/0, /*sort*/642000, /*bonus*/"2879,2880");
+INSERT INTO `room_set_data` VALUES (/*id*/35, /*name*/"お正月2015コーデ", /*value*/305000, /*shop_start*/"2018-12-27 15:00:00", /*shop_end*/"2019-1-15 23:59:59", /*flag_new*/0, /*sort*/642001, /*bonus*/"2930,2931");
+INSERT INTO `room_set_data` VALUES (/*id*/36, /*name*/"お正月2016コーデ", /*value*/415000, /*shop_start*/"2018-12-27 15:00:00", /*shop_end*/"2019-1-15 23:59:59", /*flag_new*/0, /*sort*/642002, /*bonus*/"2932,2933");
+INSERT INTO `room_set_data` VALUES (/*id*/37, /*name*/"チョコレートカフェコーデ", /*value*/375000, /*shop_start*/"2019-2-1 15:00:00", /*shop_end*/"", /*flag_new*/1, /*sort*/634000, /*bonus*/"3009,3010");
+INSERT INTO `room_set_data` VALUES (/*id*/38, /*name*/"バレンタイン2016コーデ", /*value*/330000, /*shop_start*/"2019-2-1 15:00:00", /*shop_end*/"2019-2-14 23:59:59", /*flag_new*/1, /*sort*/634001, /*bonus*/"3020,3021");
+INSERT INTO `room_set_data` VALUES (/*id*/39, /*name*/"バレンタイン2017コーデ", /*value*/385000, /*shop_start*/"2019-2-1 15:00:00", /*shop_end*/"2019-2-14 23:59:59", /*flag_new*/1, /*sort*/634002, /*bonus*/"3022,3023");
