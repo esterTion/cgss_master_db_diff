@@ -278,7 +278,8 @@ INSERT INTO `story_category` VALUES (/*id*/293, /*type*/1, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/294, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第52話", /*sub_title*/"Thanks from now on", /*disp_order*/253);
 INSERT INTO `story_category` VALUES (/*id*/295, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第53話", /*sub_title*/"Step forward to the future", /*disp_order*/254);
 INSERT INTO `story_category` VALUES (/*id*/296, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第54話", /*sub_title*/"The road of the soul", /*disp_order*/255);
-INSERT INTO `story_category` VALUES (/*id*/297, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第55話", /*sub_title*/"coming soon", /*disp_order*/256);
+INSERT INTO `story_category` VALUES (/*id*/297, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第55話", /*sub_title*/"UNLUCKY,but never plucked", /*disp_order*/256);
+INSERT INTO `story_category` VALUES (/*id*/298, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第56話", /*sub_title*/"coming soon", /*disp_order*/257);
 INSERT INTO `story_category` VALUES (/*id*/302, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"モーレツ★世直しギルティ ! ", /*sub_title*/"モーレツ★世直しギルティ ! ", /*disp_order*/37);
 INSERT INTO `story_category` VALUES (/*id*/303, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"With Love", /*sub_title*/"With Love", /*disp_order*/38);
 INSERT INTO `story_category` VALUES (/*id*/304, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Yes ! Party Time ! ! ", /*sub_title*/"Yes ! Party Time ! ! ", /*disp_order*/39);

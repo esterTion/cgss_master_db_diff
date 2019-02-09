@@ -124,6 +124,7 @@ INSERT INTO `music_data` VALUES (/*id*/3048, /*name*/"祈りの花", /*bpm*/117,
 INSERT INTO `music_data` VALUES (/*id*/3049, /*name*/"楽園", /*bpm*/173, /*composer*/"BNSI（渡辺量）", /*lyricist*/"BNSI（渡辺量）", /*sound_offset*/59675, /*sound_length*/30000, /*name_sort*/0, /*name_kana*/"らくえん");
 INSERT INTO `music_data` VALUES (/*id*/3050, /*name*/"Last Kiss", /*bpm*/138, /*composer*/"坂部剛", /*lyricist*/"渡部紫緒", /*sound_offset*/51413, /*sound_length*/28600, /*name_sort*/0, /*name_kana*/"らすときす");
 INSERT INTO `music_data` VALUES (/*id*/3051, /*name*/"おんなの道は星の道", /*bpm*/77, /*composer*/"弦哲也", /*lyricist*/"田村武也", /*sound_offset*/67674, /*sound_length*/32000, /*name_sort*/0, /*name_kana*/"おんなのみちはほしのみち");
+INSERT INTO `music_data` VALUES (/*id*/3052, /*name*/"谷の底で咲く花は", /*bpm*/84, /*composer*/"岡部啓一（MONACA）", /*lyricist*/"八城雄太", /*sound_offset*/62109, /*sound_length*/69000, /*name_sort*/0, /*name_kana*/"たにのそこでさくはなは");
 INSERT INTO `music_data` VALUES (/*id*/5001, /*name*/"Star!!", /*bpm*/178, /*composer*/"田中秀和（MONACA）", /*lyricist*/"森由里子", /*sound_offset*/63785, /*sound_length*/26000, /*name_sort*/0, /*name_kana*/"すたー");
 INSERT INTO `music_data` VALUES (/*id*/5002, /*name*/"夕映えプレゼント", /*bpm*/175, /*composer*/"BNSI（Yoshi）", /*lyricist*/"遠藤フビト", /*sound_offset*/52767, /*sound_length*/27000, /*name_sort*/0, /*name_kana*/"ゆうばえぷれぜんと");
 INSERT INTO `music_data` VALUES (/*id*/5003, /*name*/"GOIN'!!!", /*bpm*/178, /*composer*/"宮崎まゆ", /*lyricist*/"森由里子", /*sound_offset*/80700, /*sound_length*/43000, /*name_sort*/0, /*name_kana*/"ごーいん");
