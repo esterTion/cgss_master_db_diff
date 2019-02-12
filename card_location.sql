@@ -649,3 +649,5 @@ INSERT INTO `card_location` VALUES (/*index*/652, /*text*/"仙台・けやき並
 INSERT INTO `card_location` VALUES (/*index*/653, /*text*/"道明寺家の神社");
 INSERT INTO `card_location` VALUES (/*index*/654, /*text*/"大学の図書館");
 INSERT INTO `card_location` VALUES (/*index*/655, /*text*/"商業ミッドタウン");
+INSERT INTO `card_location` VALUES (/*index*/656, /*text*/"料理番組の収録スタジオ");
+INSERT INTO `card_location` VALUES (/*index*/657, /*text*/"城跡前");

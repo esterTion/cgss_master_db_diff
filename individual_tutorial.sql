@@ -74,7 +74,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/"購入したコーデはレイアウトの「テーマ」に保存され、\nいつでも自由に配置することができます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"「チョコレートカフェ」をテーマにしたアイテムとコーデを追加 ! \nちょっぴりビターな大人のカフェで一休みしましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"バレンタインをテーマにした新作コーデを追加 ! \nお好きなコーデでバレンタインを楽しみましょう ! \n過去のバレンタインアイテムも復刻販売中 ! ");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"new generationsが歌う\n「心もよう」をサウンドブースに追加 !\n購入するとLIVEでプレイできるようになります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"ルームでアイドルからスタミナ回復アイテム\n「手作りチョコレート～2019～」を受け取ろう !\n詳細はお知らせをご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、\n様々な効果を発揮する物があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
