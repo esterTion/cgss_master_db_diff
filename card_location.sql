@@ -651,3 +651,7 @@ INSERT INTO `card_location` VALUES (/*index*/654, /*text*/"大学の図書館");
 INSERT INTO `card_location` VALUES (/*index*/655, /*text*/"商業ミッドタウン");
 INSERT INTO `card_location` VALUES (/*index*/656, /*text*/"料理番組の収録スタジオ");
 INSERT INTO `card_location` VALUES (/*index*/657, /*text*/"城跡前");
+INSERT INTO `card_location` VALUES (/*index*/658, /*text*/"バレンタイン撮影セット");
+INSERT INTO `card_location` VALUES (/*index*/659, /*text*/"ティーパーティー撮影セット");
+INSERT INTO `card_location` VALUES (/*index*/660, /*text*/"ジュエリーショップ");
+INSERT INTO `card_location` VALUES (/*index*/661, /*text*/"PVセット");
