@@ -655,3 +655,4 @@ INSERT INTO `card_location` VALUES (/*index*/658, /*text*/"バレンタイン撮
 INSERT INTO `card_location` VALUES (/*index*/659, /*text*/"ティーパーティー撮影セット");
 INSERT INTO `card_location` VALUES (/*index*/660, /*text*/"ジュエリーショップ");
 INSERT INTO `card_location` VALUES (/*index*/661, /*text*/"PVセット");
+INSERT INTO `card_location` VALUES (/*index*/662, /*text*/"光差す森の中");

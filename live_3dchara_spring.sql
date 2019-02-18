@@ -1,7 +1,15 @@
 CREATE TABLE 'live_3dchara_spring' ('music_id' INTEGER NOT NULL, 'chara_id' INTEGER NOT NULL, 'dress_id' INTEGER NOT NULL, 'head_ratio' INTEGER NOT NULL, 'body_ratio' INTEGER NOT NULL, UNIQUE('music_id','chara_id','dress_id'));
+INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/2010, /*chara_id*/218, /*dress_id*/2051, /*head_ratio*/100, /*body_ratio*/120);
+INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/2019, /*chara_id*/258, /*dress_id*/3318, /*head_ratio*/100, /*body_ratio*/120);
+INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/2019, /*chara_id*/283, /*dress_id*/3307, /*head_ratio*/100, /*body_ratio*/120);
+INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/2019, /*chara_id*/253, /*dress_id*/3316, /*head_ratio*/100, /*body_ratio*/130);
+INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/2019, /*chara_id*/189, /*dress_id*/2306, /*head_ratio*/100, /*body_ratio*/120);
+INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/2019, /*chara_id*/220, /*dress_id*/2022, /*head_ratio*/100, /*body_ratio*/120);
+INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/2019, /*chara_id*/230, /*dress_id*/2060, /*head_ratio*/100, /*body_ratio*/130);
+INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/2019, /*chara_id*/257, /*dress_id*/3017, /*head_ratio*/100, /*body_ratio*/140);
 INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/2020, /*chara_id*/263, /*dress_id*/3319, /*head_ratio*/100, /*body_ratio*/120);
 INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/2020, /*chara_id*/198, /*dress_id*/2302, /*head_ratio*/100, /*body_ratio*/120);
-INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/2020, /*chara_id*/101, /*dress_id*/1301, /*head_ratio*/100, /*body_ratio*/110);
+INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/2020, /*chara_id*/101, /*dress_id*/1301, /*head_ratio*/100, /*body_ratio*/120);
 INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/2020, /*chara_id*/238, /*dress_id*/3314, /*head_ratio*/100, /*body_ratio*/130);
 INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/2020, /*chara_id*/226, /*dress_id*/2357, /*head_ratio*/100, /*body_ratio*/130);
 INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/2020, /*chara_id*/267, /*dress_id*/3308, /*head_ratio*/100, /*body_ratio*/120);
