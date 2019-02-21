@@ -1,4 +1,6 @@
 CREATE TABLE 'live_3dchara_spring' ('music_id' INTEGER NOT NULL, 'chara_id' INTEGER NOT NULL, 'dress_id' INTEGER NOT NULL, 'head_ratio' INTEGER NOT NULL, 'body_ratio' INTEGER NOT NULL, UNIQUE('music_id','chara_id','dress_id'));
+INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/2009, /*chara_id*/239, /*dress_id*/3025, /*head_ratio*/100, /*body_ratio*/120);
+INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/9016, /*chara_id*/239, /*dress_id*/3025, /*head_ratio*/100, /*body_ratio*/120);
 INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/2010, /*chara_id*/218, /*dress_id*/2051, /*head_ratio*/100, /*body_ratio*/120);
 INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/2019, /*chara_id*/258, /*dress_id*/3318, /*head_ratio*/100, /*body_ratio*/120);
 INSERT INTO `live_3dchara_spring` VALUES (/*music_id*/2019, /*chara_id*/283, /*dress_id*/3307, /*head_ratio*/100, /*body_ratio*/120);

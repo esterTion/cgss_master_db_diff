@@ -409,6 +409,12 @@ INSERT INTO `tips` VALUES (/*id*/407, /*tips_type*/1, /*value*/104, /*index*/3, 
 INSERT INTO `tips` VALUES (/*id*/408, /*tips_type*/1, /*value*/239, /*index*/3, /*title*/"松山久美子のウワサ③", /*comment*/"指先まで綺麗な動きを\n意識しているらしい。");
 INSERT INTO `tips` VALUES (/*id*/409, /*tips_type*/1, /*value*/133, /*index*/3, /*title*/"西園寺琴歌のウワサ③", /*comment*/"寮暮らしに\n少しだけ憧れているらしい。");
 INSERT INTO `tips` VALUES (/*id*/410, /*tips_type*/1, /*value*/120, /*index*/3, /*title*/"太田優のウワサ③", /*comment*/"アッキーと夜通し語り合い、\n肩を並べて見た朝日は\nとても美しかったらしい。");
+INSERT INTO `tips` VALUES (/*id*/411, /*tips_type*/1, /*value*/230, /*index*/3, /*title*/"二宮飛鳥のウワサ③", /*comment*/"封印した二つ名の数は\n両手では足りないらしい。");
+INSERT INTO `tips` VALUES (/*id*/412, /*tips_type*/1, /*value*/131, /*index*/3, /*title*/"宮本フレデリカのウワサ③", /*comment*/"印象派らしい。");
+INSERT INTO `tips` VALUES (/*id*/413, /*tips_type*/1, /*value*/130, /*index*/3, /*title*/"相原雪乃のウワサ③", /*comment*/"コーヒーを飲むと\n眠れなくなるらしい。");
+INSERT INTO `tips` VALUES (/*id*/414, /*tips_type*/1, /*value*/286, /*index*/3, /*title*/"北川真尋のウワサ③", /*comment*/"いつも一駅前で降りて、\n浮いたお金で\nスポーツドリンクを買うらしい。");
+INSERT INTO `tips` VALUES (/*id*/415, /*tips_type*/1, /*value*/181, /*index*/3, /*title*/"三船美優のウワサ③", /*comment*/"ホルモンを飲みこむタイミングが\nわからないらしい。");
+INSERT INTO `tips` VALUES (/*id*/416, /*tips_type*/1, /*value*/168, /*index*/3, /*title*/"黒川千秋のウワサ③", /*comment*/"バスタイムは長いらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !");
@@ -777,5 +783,8 @@ INSERT INTO `tips` VALUES (/*id*/40328, /*tips_type*/4, /*value*/141, /*index*/2
 INSERT INTO `tips` VALUES (/*id*/40329, /*tips_type*/4, /*value*/233, /*index*/2, /*title*/"鷹富士茄子②　見せ(られ)ないもの", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40330, /*tips_type*/4, /*value*/108, /*index*/2, /*title*/"三村かな子②　一年で一番の", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40331, /*tips_type*/4, /*value*/292, /*index*/2, /*title*/"浜口あやめ②　くのいちの入浴", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40332, /*tips_type*/4, /*value*/127, /*index*/2, /*title*/"前川みく②　公私のケジメ", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40333, /*tips_type*/4, /*value*/155, /*index*/2, /*title*/"工藤忍②　忍の大作戦", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40334, /*tips_type*/4, /*value*/153, /*index*/2, /*title*/"大西由里子②　グラビア用ではなく", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50001, /*tips_type*/5, /*value*/1, /*index*/1, /*title*/"縦画面持ち替え説明画像", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50002, /*tips_type*/5, /*value*/2, /*index*/1, /*title*/"縦画面横に持ち替え説明画像", /*comment*/"");
