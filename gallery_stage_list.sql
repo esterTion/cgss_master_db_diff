@@ -13,3 +13,4 @@ INSERT INTO `gallery_stage_list` VALUES (/*id*/14, /*disp_order*/6, /*disp_name*
 INSERT INTO `gallery_stage_list` VALUES (/*id*/15, /*disp_order*/7, /*disp_name*/"ステージ イリュージョニスタ !", /*bg_id*/4031, /*bg_type*/1);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/16, /*disp_order*/8, /*disp_name*/"ステージ ガールズ・イン・ザ・フロンティア", /*bg_id*/4044, /*bg_type*/1);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/17, /*disp_order*/9, /*disp_name*/"ステージ Tulip", /*bg_id*/4006, /*bg_type*/1);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/18, /*disp_order*/10, /*disp_name*/"ステージ 生存本能ヴァルキュリア", /*bg_id*/4008, /*bg_type*/1);
