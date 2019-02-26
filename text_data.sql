@@ -1621,3 +1621,7 @@ INSERT INTO `text_data` VALUES (/*category*/44, /*index*/12, /*text*/"交換済�
 INSERT INTO `text_data` VALUES (/*category*/44, /*index*/13, /*text*/"交換状況");
 INSERT INTO `text_data` VALUES (/*category*/44, /*index*/14, /*text*/"交換済み");
 INSERT INTO `text_data` VALUES (/*category*/44, /*index*/15, /*text*/"未交換");
+INSERT INTO `text_data` VALUES (/*category*/45, /*index*/1, /*text*/"フリー枠アイドル");
+INSERT INTO `text_data` VALUES (/*category*/45, /*index*/2, /*text*/"フリー枠\nクリア");
+INSERT INTO `text_data` VALUES (/*category*/45, /*index*/3, /*text*/"フリー枠クリア確認");
+INSERT INTO `text_data` VALUES (/*category*/45, /*index*/4, /*text*/"フリー枠に設定されているゲスト参戦アイドルを\nクリアします。よろしいですか？");

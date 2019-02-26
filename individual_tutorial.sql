@@ -72,7 +72,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20012, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/"レイアウト済みのルームアイテムがセットになった\n「コーデ」をルームショップにて販売開始 !\n購入した「コーデ」はそのまま配置することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/"既に所持しているルームアイテムがコーデに含まれる場合、\nそのルームアイテムは購入されず、コーデの販売価格から\n差し引かれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/"購入したコーデはレイアウトの「テーマ」に保存され、\nいつでも自由に配置することができます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ニコニコ生放送「デレステNIGHT★×22」にて、制作が決定した\n「封印されし古（？）の剣」が登場 ! !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ニコニコ生放送「デレステNIGHT★×23」にて、制作が決定した\n「不思議な羽」が登場 ! !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「こびとのおうち」をテーマにしたアイテムとコーデを追加 !\nかわいいこびとの生活をそっと覗いてみましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"ひなまつりをテーマにした新作コーデを追加 !\nお好きなコーデでひなまつりを楽しみましょう !\n過去のひなまつりアイテムも復刻販売中 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
@@ -222,7 +222,6 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60012, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60013, /*img*/1, /*discription*/"マニーショップでは、マニーを消費して\nアイテムを購入することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60013, /*img*/1, /*discription*/"アイテムは、それぞれ購入できる上限数が決まっています。\nなお、一部のアイテムは一定期間で購入制限がリセットされます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60014, /*img*/1, /*discription*/"リーダーアイドルを自由に設定できるようになりました。\nリーダーアイドルは、同僚リストなどで\n代表して表示されるアイドルです。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/60014, /*img*/2, /*discription*/"ゲスト参戦アイドルを設定できるようになりました。\n他プロデューサーのゲストとして参加するアイドルを、\n楽曲タイプごとに設定することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60015, /*img*/1, /*discription*/"ドレスショップがオープンしました！島村卯月、本田未央、\n渋谷凛、上条春菜、大槻唯が着用できる新3D衣装\n「プレゼントオブスノウ」を販売中！");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60015, /*img*/2, /*discription*/"ドレスショップで購入した3D衣装は、アイドル編成と\nMVモードのユニット確認画面から選択することがで\nきます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60016, /*img*/1, /*discription*/"マニーショップにアイテム売却機能が追加されました。\n画面右上のボタンから売却画面に切り替えることができます。");
@@ -244,6 +243,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60022, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60023, /*img*/1, /*discription*/"プラチナメダルとアイテムを交換できます。\n交換に必要なプラチナメダルの数は\nアイテムによって異なります。 ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60024, /*img*/1, /*discription*/"フォトスタジオに、「ARスタジオ」を追加しました！\nスポット一覧から選択することで利用できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60024, /*img*/1, /*discription*/"マーカーモードは、専用のARマーカーを読み込むモードです。\nオートモードでは、自動的に平面を認識してアイドルが登場します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60025, /*img*/1, /*discription*/"ゲスト参戦アイドルをアップデートしました !\n「フリー枠アイドル」にもアイドルを設定できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60025, /*img*/1, /*discription*/"「フリー枠アイドル」に設定されたアイドルは、\nタイプ別のゲスト参戦アイドルと合わせて\n他プロデューサーのLIVEにゲストとして表示されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/1, /*discription*/"「LIVE PARTY!!」では、協力LIVEを行うことで、\n「スターエンブレム」が獲得できます。\n「スターエンブレム」を集めると、過去イベントの報酬や、\nアイテムとの交換ができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。\n楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/3, /*discription*/"本機能では、専用ユニットでLIVEを行います。ユニットには5つの「ポジション」があります。\n各プロデューサーのアイドルが、ポジションを1つずつ担当し、5人の共通ユニットが編成されます。\n※自分のアイドルがどのポジションを担当するかはランダムで決定されます。\n※楽曲タイプとポジションごとにアイドルを設定できます。");
