@@ -660,3 +660,6 @@ INSERT INTO `card_location` VALUES (/*index*/663, /*text*/"眼鏡専門店");
 INSERT INTO `card_location` VALUES (/*index*/664, /*text*/"眼鏡ファッションショー会場");
 INSERT INTO `card_location` VALUES (/*index*/665, /*text*/"ピアノ教室");
 INSERT INTO `card_location` VALUES (/*index*/666, /*text*/"中華料理屋");
+INSERT INTO `card_location` VALUES (/*index*/667, /*text*/"ありすの家");
+INSERT INTO `card_location` VALUES (/*index*/668, /*text*/"薔薇の庭園・夜");
+INSERT INTO `card_location` VALUES (/*index*/669, /*text*/"ちとせの部屋");

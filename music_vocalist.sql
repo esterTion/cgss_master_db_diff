@@ -332,6 +332,8 @@ INSERT INTO `music_vocalist` VALUES (/*music_data_id*/2020, /*chara_id*/141, /*d
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/2021, /*chara_id*/270, /*disp_order*/270);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/2021, /*chara_id*/235, /*disp_order*/235);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/2021, /*chara_id*/234, /*disp_order*/234);
+INSERT INTO `music_vocalist` VALUES (/*music_data_id*/2022, /*chara_id*/307, /*disp_order*/307);
+INSERT INTO `music_vocalist` VALUES (/*music_data_id*/2022, /*chara_id*/308, /*disp_order*/308);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/3001, /*chara_id*/101, /*disp_order*/101);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/3002, /*chara_id*/167, /*disp_order*/167);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/3003, /*chara_id*/234, /*disp_order*/234);

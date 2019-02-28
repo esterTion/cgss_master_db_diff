@@ -341,3 +341,6 @@ INSERT INTO `story_category` VALUES (/*id*/359, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/360, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"スパイスパラダイス", /*sub_title*/"スパイスパラダイス", /*disp_order*/84);
 INSERT INTO `story_category` VALUES (/*id*/361, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"義勇忍侠花吹雪", /*sub_title*/"義勇忍侠花吹雪", /*disp_order*/85);
 INSERT INTO `story_category` VALUES (/*id*/362, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Needle Light", /*sub_title*/"Needle Light", /*disp_order*/86);
+INSERT INTO `story_category` VALUES (/*id*/364, /*type*/2, /*chara_type*/1, /*chara_id*/307, /*title*/"黒埼ちとせ", /*sub_title*/"", /*disp_order*/201);
+INSERT INTO `story_category` VALUES (/*id*/365, /*type*/2, /*chara_type*/1, /*chara_id*/308, /*title*/"白雪千夜", /*sub_title*/"", /*disp_order*/202);
+INSERT INTO `story_category` VALUES (/*id*/371, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Fascinate", /*sub_title*/"Fascinate", /*disp_order*/87);

@@ -415,6 +415,8 @@ INSERT INTO `tips` VALUES (/*id*/413, /*tips_type*/1, /*value*/130, /*index*/3, 
 INSERT INTO `tips` VALUES (/*id*/414, /*tips_type*/1, /*value*/286, /*index*/3, /*title*/"北川真尋のウワサ③", /*comment*/"いつも一駅前で降りて、\n浮いたお金で\nスポーツドリンクを買うらしい。");
 INSERT INTO `tips` VALUES (/*id*/415, /*tips_type*/1, /*value*/181, /*index*/3, /*title*/"三船美優のウワサ③", /*comment*/"ホルモンを飲みこむタイミングが\nわからないらしい。");
 INSERT INTO `tips` VALUES (/*id*/416, /*tips_type*/1, /*value*/168, /*index*/3, /*title*/"黒川千秋のウワサ③", /*comment*/"バスタイムは長いらしい。");
+INSERT INTO `tips` VALUES (/*id*/417, /*tips_type*/1, /*value*/307, /*index*/1, /*title*/"黒埼ちとせのウワサ①", /*comment*/"吸血鬼の末裔らしい。");
+INSERT INTO `tips` VALUES (/*id*/418, /*tips_type*/1, /*value*/308, /*index*/1, /*title*/"白雪千夜のウワサ①", /*comment*/"美術館が好きらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !");
@@ -786,5 +788,7 @@ INSERT INTO `tips` VALUES (/*id*/40331, /*tips_type*/4, /*value*/292, /*index*/2
 INSERT INTO `tips` VALUES (/*id*/40332, /*tips_type*/4, /*value*/127, /*index*/2, /*title*/"前川みく②　公私のケジメ", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40333, /*tips_type*/4, /*value*/155, /*index*/2, /*title*/"工藤忍②　忍の大作戦", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40334, /*tips_type*/4, /*value*/153, /*index*/2, /*title*/"大西由里子②　グラビア用ではなく", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40335, /*tips_type*/4, /*value*/307, /*index*/1, /*title*/"黒埼ちとせ①　食べられるけど", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40336, /*tips_type*/4, /*value*/308, /*index*/1, /*title*/"白雪千夜①　がんばれ僕ちゃん", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50001, /*tips_type*/5, /*value*/1, /*index*/1, /*title*/"縦画面持ち替え説明画像", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50002, /*tips_type*/5, /*value*/2, /*index*/1, /*title*/"縦画面横に持ち替え説明画像", /*comment*/"");
