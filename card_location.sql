@@ -663,3 +663,6 @@ INSERT INTO `card_location` VALUES (/*index*/666, /*text*/"中華料理屋");
 INSERT INTO `card_location` VALUES (/*index*/667, /*text*/"ありすの家");
 INSERT INTO `card_location` VALUES (/*index*/668, /*text*/"薔薇の庭園・夜");
 INSERT INTO `card_location` VALUES (/*index*/669, /*text*/"ちとせの部屋");
+INSERT INTO `card_location` VALUES (/*index*/670, /*text*/"朝のペンション");
+INSERT INTO `card_location` VALUES (/*index*/671, /*text*/"レンガ造りの家の前");
+INSERT INTO `card_location` VALUES (/*index*/672, /*text*/"駐車場");
