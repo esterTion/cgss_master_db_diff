@@ -175,7 +175,7 @@ INSERT INTO `text_data` VALUES (/*category*/7, /*index*/31, /*text*/"詳細");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/32, /*text*/"集計中");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/33, /*text*/"圏外");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/34, /*text*/"{0}位");
-INSERT INTO `text_data` VALUES (/*category*/7, /*index*/35, /*text*/"{0}位");
+INSERT INTO `text_data` VALUES (/*category*/7, /*index*/35, /*text*/"{0}位〜{1}位");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/36, /*text*/"イベントptランキング報酬");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/37, /*text*/"ハイスコアランキング報酬");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/38, /*text*/"イベントの報酬が確認できます");
