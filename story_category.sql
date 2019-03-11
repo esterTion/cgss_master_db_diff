@@ -344,3 +344,4 @@ INSERT INTO `story_category` VALUES (/*id*/362, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/364, /*type*/2, /*chara_type*/1, /*chara_id*/307, /*title*/"黒埼ちとせ", /*sub_title*/"", /*disp_order*/201);
 INSERT INTO `story_category` VALUES (/*id*/365, /*type*/2, /*chara_type*/1, /*chara_id*/308, /*title*/"白雪千夜", /*sub_title*/"", /*disp_order*/202);
 INSERT INTO `story_category` VALUES (/*id*/371, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Fascinate", /*sub_title*/"Fascinate", /*disp_order*/87);
+INSERT INTO `story_category` VALUES (/*id*/372, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"槙原志保 / 奥山沙織", /*sub_title*/"槙原志保 / 奥山沙織", /*disp_order*/88);
