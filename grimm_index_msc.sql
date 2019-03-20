@@ -134,5 +134,6 @@ INSERT INTO `grimm_index_msc` VALUES (/*id*/1077, /*data_1*/360, /*data_2*/2021)
 INSERT INTO `grimm_index_msc` VALUES (/*id*/1078, /*data_1*/361, /*data_2*/2020);
 INSERT INTO `grimm_index_msc` VALUES (/*id*/1079, /*data_1*/362, /*data_2*/2019);
 INSERT INTO `grimm_index_msc` VALUES (/*id*/1080, /*data_1*/371, /*data_2*/2022);
+INSERT INTO `grimm_index_msc` VALUES (/*id*/1081, /*data_1*/373, /*data_2*/1052);
 CREATE INDEX 'grimm_index_msc_0_data_1' on 'grimm_index_msc'('data_1');
 CREATE INDEX 'grimm_index_msc_0_data_2' on 'grimm_index_msc'('data_2');
