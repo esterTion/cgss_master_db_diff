@@ -672,3 +672,4 @@ INSERT INTO `card_location` VALUES (/*index*/675, /*text*/"城のセット前");
 INSERT INTO `card_location` VALUES (/*index*/676, /*text*/"炎上する城");
 INSERT INTO `card_location` VALUES (/*index*/677, /*text*/"夜桜の下");
 INSERT INTO `card_location` VALUES (/*index*/678, /*text*/"スーパーマエダ");
+INSERT INTO `card_location` VALUES (/*index*/679, /*text*/"宝船の撮影セット");
