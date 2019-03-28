@@ -75,7 +75,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ニコニコ生放送「デレステNIGHT★×25」にて、制作が決定した\n「顔ハメパネル」が登場 ! !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"ニコニコ生放送「デレステNIGHT★×24」にて、制作が決定した\n「Trinityテレポーテーション」が登場 ! !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、\n様々な効果を発揮する物があります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/3, /*discription*/"ルームアイテムの中には、設置していると一定時間ごとに\nアイテムが届くものがあります。\n時々ルームを覗いて、届いたアイテムを受け取りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20102, /*img*/1, /*discription*/"ショップでは、マニーを使ってルームアイテムを購入できます。\nカテゴリタブを切り替えて欲しいルームアイテムを探したら、\n「購入」ボタンを押しましょう。");
@@ -188,6 +188,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40502, /*img*/4, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40503, /*img*/1, /*discription*/"ドレスコーデ機能をアップデートしました !\n未解放のカラーを選択したとき、\nプレビューを確認できるようになりました。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40503, /*img*/1, /*discription*/"カラーを保存するときに、各タブで未解放の\nカラーがある場合、一括で解放することも可能です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40503, /*img*/2, /*discription*/"また、「おすすめコーデ」機能を追加しました !\nあらかじめコーディネイトされたカラーを\n反映、解放できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/1, /*discription*/"アイドル編成画面右上にある「表示切替ボタン」で\n編成中のユニットを表示できるようになりました。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/2, /*discription*/"ユニットのポジションを選択して、\n所属アイドルを編成することができます。\nまた、ユニット内のアイドル同士を\n入れ替えることも可能です。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/2, /*discription*/"設定内容は他の画面に移動すると保存されます。\n※他の画面に移動せずにアプリを終了した場合、\n編成内容は保存されません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50001, /*img*/1, /*discription*/"ストーリーコミュでは、アイドルたちが\n織り成すストーリーが描かれています。\n解放条件を達成することで解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50001, /*img*/1, /*discription*/"ストーリー中に行われるコミュLIVEでは、\n新たなコミュは解放されません。\nLIVEで特定の難易度でのクリアが必要となります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50002, /*img*/1, /*discription*/"メモリアルコミュでは、アイドル一人ひとりの\nアイドルとしての活動の軌跡が描かれています。\nLIVEでファン数を増やすことで解放されます。");

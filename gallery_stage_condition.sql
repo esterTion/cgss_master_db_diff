@@ -5,4 +5,5 @@ INSERT INTO `gallery_stage_condition` VALUES (/*id*/4, /*source_id*/15, /*condit
 INSERT INTO `gallery_stage_condition` VALUES (/*id*/5, /*source_id*/16, /*condition_type*/301, /*condition_id*/16, /*condition_value*/1);
 INSERT INTO `gallery_stage_condition` VALUES (/*id*/6, /*source_id*/17, /*condition_type*/301, /*condition_id*/17, /*condition_value*/1);
 INSERT INTO `gallery_stage_condition` VALUES (/*id*/7, /*source_id*/18, /*condition_type*/301, /*condition_id*/18, /*condition_value*/1);
+INSERT INTO `gallery_stage_condition` VALUES (/*id*/8, /*source_id*/19, /*condition_type*/301, /*condition_id*/19, /*condition_value*/1);
 CREATE INDEX 'gallery_stage_condition_0_source_id' on 'gallery_stage_condition'('source_id');
