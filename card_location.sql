@@ -673,3 +673,8 @@ INSERT INTO `card_location` VALUES (/*index*/676, /*text*/"炎上する城");
 INSERT INTO `card_location` VALUES (/*index*/677, /*text*/"夜桜の下");
 INSERT INTO `card_location` VALUES (/*index*/678, /*text*/"スーパーマエダ");
 INSERT INTO `card_location` VALUES (/*index*/679, /*text*/"宝船の撮影セット");
+INSERT INTO `card_location` VALUES (/*index*/680, /*text*/"入学式のステージ");
+INSERT INTO `card_location` VALUES (/*index*/681, /*text*/"中学校の技術室");
+INSERT INTO `card_location` VALUES (/*index*/682, /*text*/"桜並木の学校");
+INSERT INTO `card_location` VALUES (/*index*/683, /*text*/"学園の中庭");
+INSERT INTO `card_location` VALUES (/*index*/684, /*text*/"真夜中の学園");
