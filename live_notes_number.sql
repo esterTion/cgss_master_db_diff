@@ -1512,3 +1512,4 @@ INSERT INTO `live_notes_number` VALUES (/*live_id*/905, /*difficulty*/1, /*notes
 INSERT INTO `live_notes_number` VALUES (/*live_id*/905, /*difficulty*/2, /*notes_number*/333);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/906, /*difficulty*/1, /*notes_number*/70);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/906, /*difficulty*/2, /*notes_number*/333);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/907, /*difficulty*/1, /*notes_number*/150);

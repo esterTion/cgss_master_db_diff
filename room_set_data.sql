@@ -38,6 +38,7 @@ INSERT INTO `room_set_data` VALUES (/*id*/36, /*name*/"お正月2016コーデ", 
 INSERT INTO `room_set_data` VALUES (/*id*/37, /*name*/"チョコレートカフェコーデ", /*value*/375000, /*shop_start*/"2019-2-1 15:00:00", /*shop_end*/"", /*flag_new*/0, /*sort*/634000, /*bonus*/"3009,3010");
 INSERT INTO `room_set_data` VALUES (/*id*/38, /*name*/"バレンタイン2016コーデ", /*value*/330000, /*shop_start*/"2019-2-1 15:00:00", /*shop_end*/"2019-2-14 23:59:59", /*flag_new*/0, /*sort*/634001, /*bonus*/"3020,3021");
 INSERT INTO `room_set_data` VALUES (/*id*/39, /*name*/"バレンタイン2017コーデ", /*value*/385000, /*shop_start*/"2019-2-1 15:00:00", /*shop_end*/"2019-2-14 23:59:59", /*flag_new*/0, /*sort*/634002, /*bonus*/"3022,3023");
-INSERT INTO `room_set_data` VALUES (/*id*/40, /*name*/"こびとのおうちコーデ", /*value*/265000, /*shop_start*/"2019-2-21 15:00:00", /*shop_end*/"", /*flag_new*/1, /*sort*/628001, /*bonus*/"3072,3073");
-INSERT INTO `room_set_data` VALUES (/*id*/41, /*name*/"ひなまつり2016コーデ", /*value*/200000, /*shop_start*/"2019-2-21 15:00:00", /*shop_end*/"2019-3-3 23:59:59", /*flag_new*/1, /*sort*/628002, /*bonus*/"3080,3081");
-INSERT INTO `room_set_data` VALUES (/*id*/42, /*name*/"ひなまつり2017コーデ", /*value*/210000, /*shop_start*/"2019-2-21 15:00:00", /*shop_end*/"2019-3-3 23:59:59", /*flag_new*/1, /*sort*/628003, /*bonus*/"3082,3083");
+INSERT INTO `room_set_data` VALUES (/*id*/40, /*name*/"こびとのおうちコーデ", /*value*/265000, /*shop_start*/"2019-2-21 15:00:00", /*shop_end*/"", /*flag_new*/0, /*sort*/628001, /*bonus*/"3072,3073");
+INSERT INTO `room_set_data` VALUES (/*id*/41, /*name*/"ひなまつり2016コーデ", /*value*/200000, /*shop_start*/"2019-2-21 15:00:00", /*shop_end*/"2019-3-3 23:59:59", /*flag_new*/0, /*sort*/628002, /*bonus*/"3080,3081");
+INSERT INTO `room_set_data` VALUES (/*id*/42, /*name*/"ひなまつり2017コーデ", /*value*/210000, /*shop_start*/"2019-2-21 15:00:00", /*shop_end*/"2019-3-3 23:59:59", /*flag_new*/0, /*sort*/628003, /*bonus*/"3082,3083");
+INSERT INTO `room_set_data` VALUES (/*id*/43, /*name*/"魔法図書館コーデ", /*value*/355000, /*shop_start*/"2019-4-1 15:00:00", /*shop_end*/"", /*flag_new*/1, /*sort*/620000, /*bonus*/"3151,3152");

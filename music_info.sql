@@ -54,6 +54,7 @@ INSERT INTO `music_info` VALUES (/*id*/1052, /*discription*/"二宮飛鳥（CV�
 INSERT INTO `music_info` VALUES (/*id*/1901, /*discription*/"千川ちひろ（CV：佐藤利奈）\n\n\n作詞：marhy\n作曲・編曲：BNSI（内田哲也）\nギター：後藤貴徳\nバイオリン：越川歩\nトランペット：鈴木正則\nコーラス：marhy", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/1902, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n\n\n作詞：八城雄太\n作曲・編曲：石濱翔（MONACA）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/1903, /*discription*/"諸星きらり（CV：松嵜麗）\n\n\n作詞・作曲・編曲：YOFFY（PSYCHIC LOVER）", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/1904, /*discription*/"森久保乃々（CV：高橋花林）\n\n\n作詞：-\n作曲：睦月周平\n編曲：坪田修平（TRYTONELABO）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/2001, /*discription*/"島村卯月（CV：大橋彩香）\n小日向美穂（CV：津田美波）\n五十嵐響子（CV：種﨑敦美）\n\n\n作詞：桜アス恵（TRYTONELABO）\n作曲・編曲：岡野裕次郎（TRYTONELABO）", /*android_url*/"http://columbia.jp/sl-stage/haishin/COCC-17149.html", /*ios_url*/"http://columbia.jp/sl-stage/haishin/COCC-17149.html");
 INSERT INTO `music_info` VALUES (/*id*/2002, /*discription*/"多田李衣菜（CV：青木瑠璃子）\n木村夏樹（CV：安野希世乃）\n\n\n作詞：磯谷佳江\n作曲・編曲：IMAJO", /*android_url*/"http://columbia.jp/sl-stage/haishin/COCC-17150.html", /*ios_url*/"http://columbia.jp/sl-stage/haishin/COCC-17150.html");
 INSERT INTO `music_info` VALUES (/*id*/2003, /*discription*/"双葉杏（CV：五十嵐裕美）\n諸星きらり（CV：松嵜麗）\n\n\n作詞・作曲・編曲：ヒゲドライバー", /*android_url*/"http://columbia.jp/sl-stage/haishin/COCC-17151.html", /*ios_url*/"http://columbia.jp/sl-stage/haishin/COCC-17151.html");

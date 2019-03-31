@@ -73,7 +73,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/"既に所持しているルームアイテムがコーデに含まれる場合、\nそのルームアイテムは購入されず、コーデの販売価格から\n差し引かれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/"購入したコーデはレイアウトの「テーマ」に保存され、\nいつでも自由に配置することができます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ニコニコ生放送「デレステNIGHT★×25」にて、制作が決定した\n「顔ハメパネル」が登場 ! !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"ニコニコ生放送「デレステNIGHT★×24」にて、制作が決定した\n「Trinityテレポーテーション」が登場 ! !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「魔法図書館」をテーマにしたアイテムとコーデを追加 !\n「ののと不思議な絵本」の世界で、素敵な物語を探しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -421,6 +421,12 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/4, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/5, /*discription*/"特設ページ内「次のコミュ解放」に表示されている時間になると、\nアイドルたちがMCを務めるコミュが解放されます。\n2018年の「デレステ」のデータを大公開 ! ？");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/6, /*discription*/"さらに ! 今年のカウントダウンLIVEでは、LIVEを成功すると「シンデレラドリームチケット」\nがドロップします。ドレスショップでチケット1枚を使用することで、\n好きなアイドル1人のドレスと交換できます。\n※チケットは2枚ドロップする場合があり、\n難易度が高いほど2枚ドロップする確率が上がります");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90501, /*img*/1, /*discription*/"きらり博士のラボでは、うさぎロボをタップして\nミニゲームに挑戦できます。\nミニゲームでハピネシウムを集めて、\n最終決戦に挑みましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90502, /*img*/1, /*discription*/"魔法図書館では、本をタップしてミニゲームに挑戦できます。\nミニゲームを進めて、乃々をさがしましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90503, /*img*/1, /*discription*/"チャレンジモードが解放されました。\nどこまでステージを進むことができるか挑戦してみましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90503, /*img*/2, /*discription*/"森久保乃々が登場しました ! \n特別なスキルを持っているので、ミニゲームで遊んでみましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90504, /*img*/1, /*discription*/"魔法図書館では、本をタップしてミニゲームに挑戦できます。\nミニゲームを進めて、乃々をさがしましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90504, /*img*/2, /*discription*/"チャレンジモードが解放されました。\nどこまでステージを進むことができるか挑戦してみましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90504, /*img*/3, /*discription*/"森久保乃々が登場しました ! \n特別なスキルを持っているので、ミニゲームで遊んでみましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90601, /*img*/1, /*discription*/"「第7回シンデレラガール総選挙」が始まりました !\n「第7回シンデレラガール総選挙」は、\nソーシャルゲーム「アイドルマスター シンデレラガールズ」\nとの合同開催となります。※得票数は各アプリの合算となります");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90601, /*img*/2, /*discription*/"ログインボーナスや期間限定ミッション、\n総選挙応援セットなどで投票券を入手して、\nお気に入りのアイドルに投票しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90601, /*img*/3, /*discription*/"全体順位上位5名のアイドルは、本アプリ内のイベントに登場 !\nさらに、イベント時の衣装を、3DLIVEで着用可能になります !\n");
