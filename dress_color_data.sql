@@ -1,6 +1,8 @@
 CREATE TABLE 'dress_color_data' ('chara_id' INTEGER NOT NULL, 'dress_id' INTEGER NOT NULL, 'model_type' INTEGER NOT NULL, 'color_id' INTEGER NOT NULL, UNIQUE('chara_id','model_type','dress_id'));
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/307, /*dress_id*/2, /*model_type*/1, /*color_id*/1);
+INSERT INTO `dress_color_data` VALUES (/*chara_id*/309, /*dress_id*/2, /*model_type*/1, /*color_id*/1);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/307, /*dress_id*/3, /*model_type*/1, /*color_id*/1);
+INSERT INTO `dress_color_data` VALUES (/*chara_id*/309, /*dress_id*/3, /*model_type*/1, /*color_id*/1);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/101, /*dress_id*/4, /*model_type*/1, /*color_id*/1);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/104, /*dress_id*/4, /*model_type*/1, /*color_id*/1);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/117, /*dress_id*/4, /*model_type*/1, /*color_id*/1);
@@ -23,6 +25,7 @@ INSERT INTO `dress_color_data` VALUES (/*chara_id*/283, /*dress_id*/4, /*model_t
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/287, /*dress_id*/4, /*model_type*/1, /*color_id*/1);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/297, /*dress_id*/4, /*model_type*/1, /*color_id*/1);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/307, /*dress_id*/4, /*model_type*/1, /*color_id*/1);
+INSERT INTO `dress_color_data` VALUES (/*chara_id*/309, /*dress_id*/4, /*model_type*/1, /*color_id*/1);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/101, /*dress_id*/5, /*model_type*/1, /*color_id*/1);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/104, /*dress_id*/5, /*model_type*/1, /*color_id*/1);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/117, /*dress_id*/5, /*model_type*/1, /*color_id*/1);
@@ -45,6 +48,7 @@ INSERT INTO `dress_color_data` VALUES (/*chara_id*/283, /*dress_id*/5, /*model_t
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/287, /*dress_id*/5, /*model_type*/1, /*color_id*/1);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/297, /*dress_id*/5, /*model_type*/1, /*color_id*/1);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/307, /*dress_id*/5, /*model_type*/1, /*color_id*/1);
+INSERT INTO `dress_color_data` VALUES (/*chara_id*/309, /*dress_id*/5, /*model_type*/1, /*color_id*/1);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/101, /*dress_id*/6, /*model_type*/1, /*color_id*/2);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/102, /*dress_id*/6, /*model_type*/1, /*color_id*/2);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/104, /*dress_id*/6, /*model_type*/1, /*color_id*/2);
@@ -118,6 +122,7 @@ INSERT INTO `dress_color_data` VALUES (/*chara_id*/288, /*dress_id*/6, /*model_t
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/292, /*dress_id*/6, /*model_type*/1, /*color_id*/2);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/297, /*dress_id*/6, /*model_type*/1, /*color_id*/2);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/307, /*dress_id*/6, /*model_type*/1, /*color_id*/2);
+INSERT INTO `dress_color_data` VALUES (/*chara_id*/309, /*dress_id*/6, /*model_type*/1, /*color_id*/2);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/101, /*dress_id*/7, /*model_type*/1, /*color_id*/1);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/102, /*dress_id*/7, /*model_type*/1, /*color_id*/1);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/104, /*dress_id*/7, /*model_type*/1, /*color_id*/1);
@@ -195,6 +200,9 @@ INSERT INTO `dress_color_data` VALUES (/*chara_id*/288, /*dress_id*/7, /*model_t
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/292, /*dress_id*/7, /*model_type*/1, /*color_id*/1);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/297, /*dress_id*/7, /*model_type*/1, /*color_id*/1);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/307, /*dress_id*/7, /*model_type*/1, /*color_id*/1);
+INSERT INTO `dress_color_data` VALUES (/*chara_id*/309, /*dress_id*/7, /*model_type*/1, /*color_id*/1);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/307, /*dress_id*/8, /*model_type*/1, /*color_id*/1);
+INSERT INTO `dress_color_data` VALUES (/*chara_id*/309, /*dress_id*/8, /*model_type*/1, /*color_id*/1);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/307, /*dress_id*/9, /*model_type*/1, /*color_id*/1);
+INSERT INTO `dress_color_data` VALUES (/*chara_id*/309, /*dress_id*/9, /*model_type*/1, /*color_id*/1);
 CREATE INDEX 'dress_color_data_0_chara_id_1_model_type' on 'dress_color_data'('chara_id','model_type');

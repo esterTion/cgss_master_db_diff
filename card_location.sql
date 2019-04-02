@@ -678,3 +678,5 @@ INSERT INTO `card_location` VALUES (/*index*/681, /*text*/"中学校の技術室
 INSERT INTO `card_location` VALUES (/*index*/682, /*text*/"桜並木の学校");
 INSERT INTO `card_location` VALUES (/*index*/683, /*text*/"学園の中庭");
 INSERT INTO `card_location` VALUES (/*index*/684, /*text*/"真夜中の学園");
+INSERT INTO `card_location` VALUES (/*index*/685, /*text*/"原宿");
+INSERT INTO `card_location` VALUES (/*index*/686, /*text*/"ハウススタジオ");

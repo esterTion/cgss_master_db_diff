@@ -20,3 +20,7 @@ INSERT INTO `dress_data` VALUES (/*id*/7008000, /*name*/"スウィート・パ�
 INSERT INTO `dress_data` VALUES (/*id*/7009000, /*name*/"シンセサイズ・ハーモニー", /*description*/"スタイリッシュに魅せる、クールなドレス。\n鮮やかに舞う姿は、電脳世界の歌姫のよう。\n計算されつくしたフォルムから覗く\n生身の感情が、見る者を惹きつける。", /*open_type*/2, /*dress_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/7010000, /*name*/"ウィル・フォーエバー", /*description*/"愛を祝福する少女たちのドレス。\n純真な乙女たちの幸福な願いと、\n永遠の誓いが込められている。", /*open_type*/2, /*dress_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/7011000, /*name*/"デイバイデイ・プレゼント", /*description*/"積み重ねた日々を讃えるドレス。\n少女たちを祝う贈り物。\n育んできた絆が、彼女たちを輝かせる。", /*open_type*/3, /*dress_type*/0);
+INSERT INTO `dress_data` VALUES (/*id*/7013000, /*name*/"お伽衣装・不思議の国のアリス", /*description*/"一日の幻を形にした衣装。\n『不思議の国のアリス』がモチーフ。\n様々な役柄が、少女たちを楽しく彩る。", /*open_type*/3, /*dress_type*/3);
+INSERT INTO `dress_data` VALUES (/*id*/7014000, /*name*/"お伽衣装・ヘンゼルとグレーテル", /*description*/"一日の幻を形にした衣装。\n『ヘンゼルとグレーテル』がモチーフ。\n様々な役柄が、少女たちを楽しく彩る。", /*open_type*/3, /*dress_type*/3);
+INSERT INTO `dress_data` VALUES (/*id*/7015000, /*name*/"お伽衣装・白雪姫", /*description*/"一日の幻を形にした衣装。\n『白雪姫』がモチーフ。\n様々な役柄が、少女たちを楽しく彩る。", /*open_type*/3, /*dress_type*/3);
+INSERT INTO `dress_data` VALUES (/*id*/7016000, /*name*/"お伽衣装・魔法の司書", /*description*/"一日の幻を形にした衣装。\n魔法図書館の司書がモチーフ。\n様々な役柄が、少女たちを楽しく彩る。", /*open_type*/3, /*dress_type*/3);

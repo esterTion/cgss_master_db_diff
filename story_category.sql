@@ -344,6 +344,9 @@ INSERT INTO `story_category` VALUES (/*id*/362, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/363, /*type*/5, /*chara_type*/0, /*chara_id*/0, /*title*/"エイプリル2019", /*sub_title*/"エイプリル2019", /*disp_order*/1);
 INSERT INTO `story_category` VALUES (/*id*/364, /*type*/2, /*chara_type*/1, /*chara_id*/307, /*title*/"黒埼ちとせ", /*sub_title*/"", /*disp_order*/201);
 INSERT INTO `story_category` VALUES (/*id*/365, /*type*/2, /*chara_type*/1, /*chara_id*/308, /*title*/"白雪千夜", /*sub_title*/"", /*disp_order*/202);
+INSERT INTO `story_category` VALUES (/*id*/366, /*type*/2, /*chara_type*/3, /*chara_id*/309, /*title*/"久川凪", /*sub_title*/"", /*disp_order*/203);
+INSERT INTO `story_category` VALUES (/*id*/367, /*type*/2, /*chara_type*/2, /*chara_id*/310, /*title*/"久川颯", /*sub_title*/"", /*disp_order*/204);
 INSERT INTO `story_category` VALUES (/*id*/371, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Fascinate", /*sub_title*/"Fascinate", /*disp_order*/87);
 INSERT INTO `story_category` VALUES (/*id*/372, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"槙原志保 / 奥山沙織", /*sub_title*/"槙原志保 / 奥山沙織", /*disp_order*/88);
 INSERT INTO `story_category` VALUES (/*id*/373, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"未完成の歴史", /*sub_title*/"未完成の歴史", /*disp_order*/89);
+INSERT INTO `story_category` VALUES (/*id*/374, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"O-Ku-Ri-Mo-No Sunday !", /*sub_title*/"O-Ku-Ri-Mo-No Sunday !", /*disp_order*/90);
