@@ -130,6 +130,7 @@ INSERT INTO `music_data` VALUES (/*id*/3049, /*name*/"楽園", /*bpm*/173, /*com
 INSERT INTO `music_data` VALUES (/*id*/3050, /*name*/"Last Kiss", /*bpm*/138, /*composer*/"坂部剛", /*lyricist*/"渡部紫緒", /*sound_offset*/51413, /*sound_length*/28600, /*name_sort*/0, /*name_kana*/"らすときす");
 INSERT INTO `music_data` VALUES (/*id*/3051, /*name*/"おんなの道は星の道", /*bpm*/77, /*composer*/"弦哲也", /*lyricist*/"田村武也", /*sound_offset*/67674, /*sound_length*/32000, /*name_sort*/0, /*name_kana*/"おんなのみちはほしのみち");
 INSERT INTO `music_data` VALUES (/*id*/3052, /*name*/"谷の底で咲く花は", /*bpm*/84, /*composer*/"岡部啓一（MONACA）", /*lyricist*/"八城雄太", /*sound_offset*/62109, /*sound_length*/69000, /*name_sort*/0, /*name_kana*/"たにのそこでさくはなは");
+INSERT INTO `music_data` VALUES (/*id*/3201, /*name*/"はにかみdays", /*bpm*/160, /*composer*/"滝澤俊輔（TRYTONELABO）", /*lyricist*/"森由里子", /*sound_offset*/65352, /*sound_length*/47000, /*name_sort*/0, /*name_kana*/"はにかみでいず");
 INSERT INTO `music_data` VALUES (/*id*/5001, /*name*/"Star!!", /*bpm*/178, /*composer*/"田中秀和（MONACA）", /*lyricist*/"森由里子", /*sound_offset*/63785, /*sound_length*/26000, /*name_sort*/0, /*name_kana*/"すたー");
 INSERT INTO `music_data` VALUES (/*id*/5002, /*name*/"夕映えプレゼント", /*bpm*/175, /*composer*/"BNSI（Yoshi）", /*lyricist*/"遠藤フビト", /*sound_offset*/52767, /*sound_length*/27000, /*name_sort*/0, /*name_kana*/"ゆうばえぷれぜんと");
 INSERT INTO `music_data` VALUES (/*id*/5003, /*name*/"GOIN'!!!", /*bpm*/178, /*composer*/"宮崎まゆ", /*lyricist*/"森由里子", /*sound_offset*/80700, /*sound_length*/43000, /*name_sort*/0, /*name_kana*/"ごーいん");
@@ -179,6 +180,7 @@ INSERT INTO `music_data` VALUES (/*id*/8009, /*name*/"友達の唄", /*bpm*/144,
 INSERT INTO `music_data` VALUES (/*id*/8010, /*name*/"虹", /*bpm*/116, /*composer*/"北川悠仁", /*lyricist*/"北川悠仁", /*sound_offset*/71108, /*sound_length*/39000, /*name_sort*/0, /*name_kana*/"にじ");
 INSERT INTO `music_data` VALUES (/*id*/8011, /*name*/"スターラブレイション", /*bpm*/144, /*composer*/"ふるっぺ", /*lyricist*/"ふるっぺ、森さん、Litz", /*sound_offset*/87894, /*sound_length*/38000, /*name_sort*/0, /*name_kana*/"すたーらぶれいしょん");
 INSERT INTO `music_data` VALUES (/*id*/8012, /*name*/"ツバサ", /*bpm*/105, /*composer*/"真戸原直人", /*lyricist*/"真戸原直人", /*sound_offset*/90684, /*sound_length*/33000, /*name_sort*/0, /*name_kana*/"つばさ");
+INSERT INTO `music_data` VALUES (/*id*/8013, /*name*/"LIFE", /*bpm*/220, /*composer*/"山内総一郎", /*lyricist*/"山内総一郎", /*sound_offset*/47410, /*sound_length*/38000, /*name_sort*/0, /*name_kana*/"らいふ");
 INSERT INTO `music_data` VALUES (/*id*/9001, /*name*/"とどけ ! アイドル", /*bpm*/180, /*composer*/"BNSI（内田哲也）", /*lyricist*/"marhy", /*sound_offset*/60650, /*sound_length*/25000, /*name_sort*/0, /*name_kana*/"とどけあいどる");
 INSERT INTO `music_data` VALUES (/*id*/9002, /*name*/"Snow Wings", /*bpm*/167, /*composer*/"俊龍", /*lyricist*/"俊龍", /*sound_offset*/65785, /*sound_length*/41000, /*name_sort*/0, /*name_kana*/"すのうういんぐす");
 INSERT INTO `music_data` VALUES (/*id*/9003, /*name*/"Tulip", /*bpm*/154, /*composer*/"石濱翔（MONACA）", /*lyricist*/"森由里子", /*sound_offset*/52800, /*sound_length*/26000, /*name_sort*/0, /*name_kana*/"ちゅーりっぷ");

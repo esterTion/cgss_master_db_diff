@@ -558,6 +558,10 @@ INSERT INTO `live_notes_number` VALUES (/*live_id*/93, /*difficulty*/3, /*notes_
 INSERT INTO `live_notes_number` VALUES (/*live_id*/93, /*difficulty*/4, /*notes_number*/475);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/93, /*difficulty*/11, /*notes_number*/88);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/93, /*difficulty*/12, /*notes_number*/170);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/201, /*difficulty*/1, /*notes_number*/101);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/201, /*difficulty*/2, /*notes_number*/165);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/201, /*difficulty*/3, /*notes_number*/317);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/201, /*difficulty*/4, /*notes_number*/471);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/301, /*difficulty*/1, /*notes_number*/109);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/301, /*difficulty*/2, /*notes_number*/166);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/301, /*difficulty*/3, /*notes_number*/325);
@@ -1509,6 +1513,10 @@ INSERT INTO `live_notes_number` VALUES (/*live_id*/812, /*difficulty*/1, /*notes
 INSERT INTO `live_notes_number` VALUES (/*live_id*/812, /*difficulty*/2, /*notes_number*/186);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/812, /*difficulty*/3, /*notes_number*/324);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/812, /*difficulty*/4, /*notes_number*/565);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/813, /*difficulty*/1, /*notes_number*/110);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/813, /*difficulty*/2, /*notes_number*/196);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/813, /*difficulty*/3, /*notes_number*/381);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/813, /*difficulty*/4, /*notes_number*/672);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/901, /*difficulty*/1, /*notes_number*/46);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/901, /*difficulty*/2, /*notes_number*/205);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/901, /*difficulty*/3, /*notes_number*/341);
