@@ -426,6 +426,7 @@ INSERT INTO `tips` VALUES (/*id*/424, /*tips_type*/1, /*value*/125, /*index*/3, 
 INSERT INTO `tips` VALUES (/*id*/425, /*tips_type*/1, /*value*/309, /*index*/1, /*title*/"久川凪のウワサ①", /*comment*/"部屋に置く雑貨を\n集め始めたらしい。");
 INSERT INTO `tips` VALUES (/*id*/426, /*tips_type*/1, /*value*/310, /*index*/1, /*title*/"久川颯のウワサ①", /*comment*/"なーのセンスが独特で\n服を着回せないのが残念らしい。");
 INSERT INTO `tips` VALUES (/*id*/427, /*tips_type*/1, /*value*/304, /*index*/1, /*title*/"辻野あかりのウワサ①", /*comment*/"りんごろうで\n一儲けしたいらしい。");
+INSERT INTO `tips` VALUES (/*id*/428, /*tips_type*/1, /*value*/305, /*index*/1, /*title*/"砂塚あきらのウワサ①", /*comment*/"#ウワサには流されない\n#らしい");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !");
@@ -805,5 +806,6 @@ INSERT INTO `tips` VALUES (/*id*/40339, /*tips_type*/4, /*value*/225, /*index*/2
 INSERT INTO `tips` VALUES (/*id*/40340, /*tips_type*/4, /*value*/309, /*index*/1, /*title*/"久川凪①　趣味の一つはポエム", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40341, /*tips_type*/4, /*value*/310, /*index*/1, /*title*/"久川颯①　趣味はファッション", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40342, /*tips_type*/4, /*value*/304, /*index*/1, /*title*/"辻野あかり①　こいつはりんごの精", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40343, /*tips_type*/4, /*value*/305, /*index*/1, /*title*/"砂塚あきら①　#動画配信", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50001, /*tips_type*/5, /*value*/1, /*index*/1, /*title*/"縦画面持ち替え説明画像", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50002, /*tips_type*/5, /*value*/2, /*index*/1, /*title*/"縦画面横に持ち替え説明画像", /*comment*/"");
