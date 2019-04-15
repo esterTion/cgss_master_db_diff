@@ -348,6 +348,7 @@ INSERT INTO `story_category` VALUES (/*id*/366, /*type*/2, /*chara_type*/3, /*ch
 INSERT INTO `story_category` VALUES (/*id*/367, /*type*/2, /*chara_type*/2, /*chara_id*/310, /*title*/"久川颯", /*sub_title*/"", /*disp_order*/204);
 INSERT INTO `story_category` VALUES (/*id*/368, /*type*/2, /*chara_type*/1, /*chara_id*/304, /*title*/"辻野あかり", /*sub_title*/"", /*disp_order*/205);
 INSERT INTO `story_category` VALUES (/*id*/369, /*type*/2, /*chara_type*/2, /*chara_id*/305, /*title*/"砂塚あきら", /*sub_title*/"", /*disp_order*/206);
+INSERT INTO `story_category` VALUES (/*id*/370, /*type*/2, /*chara_type*/3, /*chara_id*/306, /*title*/"夢見りあむ", /*sub_title*/"", /*disp_order*/207);
 INSERT INTO `story_category` VALUES (/*id*/371, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Fascinate", /*sub_title*/"Fascinate", /*disp_order*/87);
 INSERT INTO `story_category` VALUES (/*id*/372, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"槙原志保 / 奥山沙織", /*sub_title*/"槙原志保 / 奥山沙織", /*disp_order*/88);
 INSERT INTO `story_category` VALUES (/*id*/373, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"未完成の歴史", /*sub_title*/"未完成の歴史", /*disp_order*/89);

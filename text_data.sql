@@ -111,6 +111,7 @@ INSERT INTO `text_data` VALUES (/*category*/2, /*index*/59, /*text*/"サンフ�
 INSERT INTO `text_data` VALUES (/*category*/2, /*index*/60, /*text*/"ニューヨーク");
 INSERT INTO `text_data` VALUES (/*category*/2, /*index*/61, /*text*/"徳島");
 INSERT INTO `text_data` VALUES (/*category*/2, /*index*/62, /*text*/"グリーンランド");
+INSERT INTO `text_data` VALUES (/*category*/2, /*index*/63, /*text*/"やさしい世界");
 INSERT INTO `text_data` VALUES (/*category*/3, /*index*/1, /*text*/"A");
 INSERT INTO `text_data` VALUES (/*category*/3, /*index*/2, /*text*/"B");
 INSERT INTO `text_data` VALUES (/*category*/3, /*index*/3, /*text*/"AB");
@@ -141,6 +142,9 @@ INSERT INTO `text_data` VALUES (/*category*/6, /*index*/6, /*text*/"きゅっ");
 INSERT INTO `text_data` VALUES (/*category*/6, /*index*/7, /*text*/"ぼんっ♪");
 INSERT INTO `text_data` VALUES (/*category*/6, /*index*/8, /*text*/"ダイエットちゅう");
 INSERT INTO `text_data` VALUES (/*category*/6, /*index*/9, /*text*/"永遠の17");
+INSERT INTO `text_data` VALUES (/*category*/6, /*index*/10, /*text*/"リンゴたくさん");
+INSERT INTO `text_data` VALUES (/*category*/6, /*index*/11, /*text*/"でっかい");
+INSERT INTO `text_data` VALUES (/*category*/6, /*index*/12, /*text*/"たぶんふつう");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/1, /*text*/"イベントLIVEへ");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/2, /*text*/"開催期間");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/3, /*text*/"次の報酬");

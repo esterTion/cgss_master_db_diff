@@ -683,3 +683,4 @@ INSERT INTO `card_location` VALUES (/*index*/686, /*text*/"ハウススタジオ
 INSERT INTO `card_location` VALUES (/*index*/687, /*text*/"バリ島・ビーチ");
 INSERT INTO `card_location` VALUES (/*index*/688, /*text*/"満開の桜が咲く公園");
 INSERT INTO `card_location` VALUES (/*index*/689, /*text*/"田舎のあぜ道");
+INSERT INTO `card_location` VALUES (/*index*/690, /*text*/"広告撮影");
