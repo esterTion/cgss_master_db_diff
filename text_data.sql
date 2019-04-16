@@ -1434,7 +1434,7 @@ INSERT INTO `text_data` VALUES (/*category*/35, /*index*/26, /*text*/"投票履�
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/27, /*text*/"中間発表");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/28, /*text*/"全体順位");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/29, /*text*/"位");
-INSERT INTO `text_data` VALUES (/*category*/35, /*index*/30, /*text*/"【アイドルマスター シンデレラガールズ　スターライトステージ】で\nシンデレラガール総選挙開催中!!\n{0}に投票したよ!!\n#第7回シンデレラガール総選挙 #デレステ");
+INSERT INTO `text_data` VALUES (/*category*/35, /*index*/30, /*text*/"【アイドルマスター シンデレラガールズ　スターライトステージ】で\nシンデレラガール総選挙開催中!!\n{0}に投票したよ!!\n#第8回シンデレラガール総選挙 #デレステ");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/31, /*text*/"アイドルに投票できます");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/32, /*text*/"期間外");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/33, /*text*/"総選挙期間外です");
