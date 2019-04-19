@@ -428,6 +428,12 @@ INSERT INTO `tips` VALUES (/*id*/426, /*tips_type*/1, /*value*/310, /*index*/1, 
 INSERT INTO `tips` VALUES (/*id*/427, /*tips_type*/1, /*value*/304, /*index*/1, /*title*/"辻野あかりのウワサ①", /*comment*/"りんごろうで\n一儲けしたいらしい。");
 INSERT INTO `tips` VALUES (/*id*/428, /*tips_type*/1, /*value*/305, /*index*/1, /*title*/"砂塚あきらのウワサ①", /*comment*/"#ウワサには流されない\n#らしい");
 INSERT INTO `tips` VALUES (/*id*/429, /*tips_type*/1, /*value*/306, /*index*/1, /*title*/"夢見りあむのウワサ①", /*comment*/"夢を見たいらしい。");
+INSERT INTO `tips` VALUES (/*id*/430, /*tips_type*/1, /*value*/211, /*index*/3, /*title*/"和久井留美のウワサ③", /*comment*/"玉露を美味しく淹れるのには\n密かに自信があるらしい。");
+INSERT INTO `tips` VALUES (/*id*/431, /*tips_type*/1, /*value*/170, /*index*/3, /*title*/"桐野アヤのウワサ③", /*comment*/"いつか格闘技の煽りVTRに\n出演したいらしい。");
+INSERT INTO `tips` VALUES (/*id*/432, /*tips_type*/1, /*value*/176, /*index*/3, /*title*/"荒木比奈のウワサ③", /*comment*/"昔は劇画調だったらしい。");
+INSERT INTO `tips` VALUES (/*id*/433, /*tips_type*/1, /*value*/123, /*index*/3, /*title*/"大原みちるのウワサ③", /*comment*/"フライパンをかじったことが\nあるらしい。");
+INSERT INTO `tips` VALUES (/*id*/434, /*tips_type*/1, /*value*/263, /*index*/3, /*title*/"相葉夕美のウワサ③", /*comment*/"悪い虫でなければ\n見逃してあげる主義らしい。");
+INSERT INTO `tips` VALUES (/*id*/435, /*tips_type*/1, /*value*/275, /*index*/3, /*title*/"槙原志保のウワサ③", /*comment*/"最初から最後まで完璧に美味しい\n黄金比率のパフェレシピを\n研究中らしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !");
@@ -809,5 +815,8 @@ INSERT INTO `tips` VALUES (/*id*/40341, /*tips_type*/4, /*value*/310, /*index*/1
 INSERT INTO `tips` VALUES (/*id*/40342, /*tips_type*/4, /*value*/304, /*index*/1, /*title*/"辻野あかり①　こいつはりんごの精", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40343, /*tips_type*/4, /*value*/305, /*index*/1, /*title*/"砂塚あきら①　#動画配信", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40344, /*tips_type*/4, /*value*/306, /*index*/1, /*title*/"夢見りあむ①　ダイマ ! ! !", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40345, /*tips_type*/4, /*value*/115, /*index*/2, /*title*/"櫻井桃華②　懐も家も広い", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40346, /*tips_type*/4, /*value*/175, /*index*/2, /*title*/"上条春菜②　私たち !", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40347, /*tips_type*/4, /*value*/243, /*index*/2, /*title*/"赤城みりあ②　この集まりは？", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50001, /*tips_type*/5, /*value*/1, /*index*/1, /*title*/"縦画面持ち替え説明画像", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50002, /*tips_type*/5, /*value*/2, /*index*/1, /*title*/"縦画面横に持ち替え説明画像", /*comment*/"");

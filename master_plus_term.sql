@@ -56,3 +56,6 @@ INSERT INTO `master_plus_term` VALUES (/*id*/54, /*start_date*/"2019-02-25 00:00
 INSERT INTO `master_plus_term` VALUES (/*id*/55, /*start_date*/"2019-03-11 00:00:00", /*end_date*/"2019-03-24 23:59:59", /*master_plus_group*/1, /*notice_start_date*/"2019-03-08 14:30:00");
 INSERT INTO `master_plus_term` VALUES (/*id*/56, /*start_date*/"2019-03-25 00:00:00", /*end_date*/"2019-04-07 23:59:59", /*master_plus_group*/2, /*notice_start_date*/"2019-03-08 14:30:00");
 INSERT INTO `master_plus_term` VALUES (/*id*/57, /*start_date*/"2019-04-08 00:00:00", /*end_date*/"2019-04-21 23:59:59", /*master_plus_group*/3, /*notice_start_date*/"2019-03-11 00:00:00");
+INSERT INTO `master_plus_term` VALUES (/*id*/58, /*start_date*/"2019-04-22 00:00:00", /*end_date*/"2019-05-05 23:59:59", /*master_plus_group*/1, /*notice_start_date*/"2019-04-19 14:30:00");
+INSERT INTO `master_plus_term` VALUES (/*id*/59, /*start_date*/"2019-05-06 00:00:00", /*end_date*/"2019-05-19 23:59:59", /*master_plus_group*/2, /*notice_start_date*/"2019-04-19 14:30:00");
+INSERT INTO `master_plus_term` VALUES (/*id*/60, /*start_date*/"2019-05-20 00:00:00", /*end_date*/"2019-06-02 23:59:59", /*master_plus_group*/3, /*notice_start_date*/"2019-04-22 00:00:00");

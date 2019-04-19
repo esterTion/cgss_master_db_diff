@@ -353,3 +353,4 @@ INSERT INTO `story_category` VALUES (/*id*/371, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/372, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"槙原志保 / 奥山沙織", /*sub_title*/"槙原志保 / 奥山沙織", /*disp_order*/88);
 INSERT INTO `story_category` VALUES (/*id*/373, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"未完成の歴史", /*sub_title*/"未完成の歴史", /*disp_order*/89);
 INSERT INTO `story_category` VALUES (/*id*/374, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"O-Ku-Ri-Mo-No Sunday !", /*sub_title*/"O-Ku-Ri-Mo-No Sunday !", /*disp_order*/90);
+INSERT INTO `story_category` VALUES (/*id*/375, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"きゅん・きゅん・まっくす", /*sub_title*/"きゅん・きゅん・まっくす", /*disp_order*/91);

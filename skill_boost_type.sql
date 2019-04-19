@@ -24,5 +24,7 @@ INSERT INTO `skill_boost_type` VALUES (/*id*/22, /*skill_value*/1, /*target_type
 INSERT INTO `skill_boost_type` VALUES (/*id*/23, /*skill_value*/1, /*target_type*/25, /*boost_value_1*/1200, /*boost_value_2*/0, /*boost_value_3*/0);
 INSERT INTO `skill_boost_type` VALUES (/*id*/24, /*skill_value*/1, /*target_type*/26, /*boost_value_1*/1200, /*boost_value_2*/1200, /*boost_value_3*/1200);
 INSERT INTO `skill_boost_type` VALUES (/*id*/25, /*skill_value*/1, /*target_type*/27, /*boost_value_1*/1200, /*boost_value_2*/1200, /*boost_value_3*/0);
+INSERT INTO `skill_boost_type` VALUES (/*id*/26, /*skill_value*/1, /*target_type*/28, /*boost_value_1*/1200, /*boost_value_2*/1200, /*boost_value_3*/0);
+INSERT INTO `skill_boost_type` VALUES (/*id*/27, /*skill_value*/1, /*target_type*/29, /*boost_value_1*/1200, /*boost_value_2*/1200, /*boost_value_3*/0);
 INSERT INTO `skill_boost_type` VALUES (/*id*/29, /*skill_value*/1, /*target_type*/31, /*boost_value_1*/1200, /*boost_value_2*/1, /*boost_value_3*/0);
 CREATE INDEX 'skill_boost_type_0_skill_value_1_target_type' on 'skill_boost_type'('skill_value','target_type');
