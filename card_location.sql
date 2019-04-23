@@ -684,6 +684,9 @@ INSERT INTO `card_location` VALUES (/*index*/687, /*text*/"バリ島・ビーチ
 INSERT INTO `card_location` VALUES (/*index*/688, /*text*/"満開の桜が咲く公園");
 INSERT INTO `card_location` VALUES (/*index*/689, /*text*/"田舎のあぜ道");
 INSERT INTO `card_location` VALUES (/*index*/690, /*text*/"広告撮影");
+INSERT INTO `card_location` VALUES (/*index*/691, /*text*/"コンサートホール・玄関");
+INSERT INTO `card_location` VALUES (/*index*/692, /*text*/"船上ステージ");
+INSERT INTO `card_location` VALUES (/*index*/693, /*text*/"駅");
 INSERT INTO `card_location` VALUES (/*index*/694, /*text*/"ドーナツ専門店");
 INSERT INTO `card_location` VALUES (/*index*/695, /*text*/"きゅんきゅん空間");
 INSERT INTO `card_location` VALUES (/*index*/696, /*text*/"学校・桜並木");
