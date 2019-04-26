@@ -30,3 +30,7 @@ INSERT INTO `dress_acc_palette` VALUES (/*id*/1008, /*dress_id*/9, /*model_type*
 INSERT INTO `dress_acc_palette` VALUES (/*id*/1009, /*dress_id*/9, /*model_type*/3, /*layer_id*/2, /*color_code*/"F14592");
 INSERT INTO `dress_acc_palette` VALUES (/*id*/1010, /*dress_id*/9, /*model_type*/3, /*layer_id*/2, /*color_code*/"FFFFFF");
 INSERT INTO `dress_acc_palette` VALUES (/*id*/1011, /*dress_id*/9, /*model_type*/3, /*layer_id*/2, /*color_code*/"94FFE4");
+INSERT INTO `dress_acc_palette` VALUES (/*id*/1012, /*dress_id*/9, /*model_type*/3, /*layer_id*/2, /*color_code*/"7B2BAC");
+INSERT INTO `dress_acc_palette` VALUES (/*id*/1017, /*dress_id*/9, /*model_type*/3, /*layer_id*/2, /*color_code*/"5FE003");
+INSERT INTO `dress_acc_palette` VALUES (/*id*/1019, /*dress_id*/9, /*model_type*/3, /*layer_id*/2, /*color_code*/"CAFFBF");
+INSERT INTO `dress_acc_palette` VALUES (/*id*/1021, /*dress_id*/9, /*model_type*/3, /*layer_id*/2, /*color_code*/"FAFF45");
