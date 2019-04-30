@@ -354,3 +354,4 @@ INSERT INTO `story_category` VALUES (/*id*/372, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/373, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"未完成の歴史", /*sub_title*/"未完成の歴史", /*disp_order*/89);
 INSERT INTO `story_category` VALUES (/*id*/374, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"O-Ku-Ri-Mo-No Sunday !", /*sub_title*/"O-Ku-Ri-Mo-No Sunday !", /*disp_order*/90);
 INSERT INTO `story_category` VALUES (/*id*/375, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"きゅん・きゅん・まっくす", /*sub_title*/"きゅん・きゅん・まっくす", /*disp_order*/91);
+INSERT INTO `story_category` VALUES (/*id*/376, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"無重力シャトル", /*sub_title*/"無重力シャトル", /*disp_order*/92);
