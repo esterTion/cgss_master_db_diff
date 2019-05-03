@@ -21,4 +21,5 @@ INSERT INTO `room_idol_extension` VALUES (/*card_id*/300604, /*is_spine*/1);
 INSERT INTO `room_idol_extension` VALUES (/*card_id*/300610, /*is_spine*/1);
 INSERT INTO `room_idol_extension` VALUES (/*card_id*/300615, /*is_spine*/1);
 INSERT INTO `room_idol_extension` VALUES (/*card_id*/300616, /*is_spine*/1);
+INSERT INTO `room_idol_extension` VALUES (/*card_id*/300660, /*is_spine*/1);
 INSERT INTO `room_idol_extension` VALUES (/*card_id*/97014000, /*is_spine*/7014000);
