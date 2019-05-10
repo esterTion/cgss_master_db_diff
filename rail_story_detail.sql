@@ -79,4 +79,14 @@ INSERT INTO `rail_story_detail` VALUES (/*id*/3866, /*event_id*/6008, /*type*/0,
 INSERT INTO `rail_story_detail` VALUES (/*id*/3867, /*event_id*/6008, /*type*/0, /*group_id*/2, /*open_rap_id*/2, /*next_detail_id*/3868);
 INSERT INTO `rail_story_detail` VALUES (/*id*/3868, /*event_id*/6008, /*type*/0, /*group_id*/2, /*open_rap_id*/3, /*next_detail_id*/3869);
 INSERT INTO `rail_story_detail` VALUES (/*id*/3869, /*event_id*/6008, /*type*/0, /*group_id*/2, /*open_rap_id*/4, /*next_detail_id*/0);
+INSERT INTO `rail_story_detail` VALUES (/*id*/4046, /*event_id*/6009, /*type*/1, /*group_id*/1, /*open_rap_id*/0, /*next_detail_id*/4047);
+INSERT INTO `rail_story_detail` VALUES (/*id*/4047, /*event_id*/6009, /*type*/0, /*group_id*/1, /*open_rap_id*/2, /*next_detail_id*/4048);
+INSERT INTO `rail_story_detail` VALUES (/*id*/4048, /*event_id*/6009, /*type*/0, /*group_id*/1, /*open_rap_id*/3, /*next_detail_id*/4049);
+INSERT INTO `rail_story_detail` VALUES (/*id*/4049, /*event_id*/6009, /*type*/0, /*group_id*/1, /*open_rap_id*/4, /*next_detail_id*/4050);
+INSERT INTO `rail_story_detail` VALUES (/*id*/4050, /*event_id*/6009, /*type*/0, /*group_id*/1, /*open_rap_id*/5, /*next_detail_id*/0);
+INSERT INTO `rail_story_detail` VALUES (/*id*/4051, /*event_id*/6009, /*type*/1, /*group_id*/2, /*open_rap_id*/0, /*next_detail_id*/4052);
+INSERT INTO `rail_story_detail` VALUES (/*id*/4052, /*event_id*/6009, /*type*/0, /*group_id*/2, /*open_rap_id*/1, /*next_detail_id*/4053);
+INSERT INTO `rail_story_detail` VALUES (/*id*/4053, /*event_id*/6009, /*type*/0, /*group_id*/2, /*open_rap_id*/2, /*next_detail_id*/4054);
+INSERT INTO `rail_story_detail` VALUES (/*id*/4054, /*event_id*/6009, /*type*/0, /*group_id*/2, /*open_rap_id*/3, /*next_detail_id*/4055);
+INSERT INTO `rail_story_detail` VALUES (/*id*/4055, /*event_id*/6009, /*type*/0, /*group_id*/2, /*open_rap_id*/4, /*next_detail_id*/0);
 CREATE INDEX 'rail_story_detail_0_event_id' on 'rail_story_detail'('event_id');
