@@ -678,3 +678,4 @@ INSERT INTO `banner` VALUES (/*banner_id*/690, /*type*/2, /*img_id*/6009, /*tran
 INSERT INTO `banner` VALUES (/*banner_id*/691, /*type*/22, /*img_id*/0, /*transition*/0, /*page_index*/0, /*order_num*/3, /*start_date*/"2019-05-01 00:00:00", /*end_date*/"2019-08-31 23:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/692, /*type*/1, /*img_id*/80015, /*transition*/2, /*page_index*/22, /*order_num*/2, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
 INSERT INTO `banner` VALUES (/*banner_id*/693, /*type*/1, /*img_id*/30367, /*transition*/0, /*page_index*/0, /*order_num*/5, /*start_date*/"2019-05-03 15:00:00", /*end_date*/"2019-05-11 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/694, /*type*/1, /*img_id*/30368, /*transition*/0, /*page_index*/0, /*order_num*/5, /*start_date*/"2019-05-11 15:00:00", /*end_date*/"2019-05-14 14:59:59");
