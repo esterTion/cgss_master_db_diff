@@ -131,6 +131,7 @@ INSERT INTO `music_data` VALUES (/*id*/3050, /*name*/"Last Kiss", /*bpm*/138, /*
 INSERT INTO `music_data` VALUES (/*id*/3051, /*name*/"おんなの道は星の道", /*bpm*/77, /*composer*/"弦哲也", /*lyricist*/"田村武也", /*sound_offset*/67674, /*sound_length*/32000, /*name_sort*/0, /*name_kana*/"おんなのみちはほしのみち");
 INSERT INTO `music_data` VALUES (/*id*/3052, /*name*/"谷の底で咲く花は", /*bpm*/84, /*composer*/"岡部啓一（MONACA）", /*lyricist*/"八城雄太", /*sound_offset*/62109, /*sound_length*/69000, /*name_sort*/0, /*name_kana*/"たにのそこでさくはなは");
 INSERT INTO `music_data` VALUES (/*id*/3201, /*name*/"はにかみdays", /*bpm*/160, /*composer*/"滝澤俊輔（TRYTONELABO）", /*lyricist*/"森由里子", /*sound_offset*/65352, /*sound_length*/47000, /*name_sort*/0, /*name_kana*/"はにかみでいず");
+INSERT INTO `music_data` VALUES (/*id*/3202, /*name*/"AnemoneStar", /*bpm*/174, /*composer*/"yasushi", /*lyricist*/"yasushi", /*sound_offset*/53756, /*sound_length*/26000, /*name_sort*/0, /*name_kana*/"あねもねすたー");
 INSERT INTO `music_data` VALUES (/*id*/5001, /*name*/"Star!!", /*bpm*/178, /*composer*/"田中秀和（MONACA）", /*lyricist*/"森由里子", /*sound_offset*/63785, /*sound_length*/26000, /*name_sort*/0, /*name_kana*/"すたー");
 INSERT INTO `music_data` VALUES (/*id*/5002, /*name*/"夕映えプレゼント", /*bpm*/175, /*composer*/"BNSI（Yoshi）", /*lyricist*/"遠藤フビト", /*sound_offset*/52767, /*sound_length*/27000, /*name_sort*/0, /*name_kana*/"ゆうばえぷれぜんと");
 INSERT INTO `music_data` VALUES (/*id*/5003, /*name*/"GOIN'!!!", /*bpm*/178, /*composer*/"宮崎まゆ", /*lyricist*/"森由里子", /*sound_offset*/80700, /*sound_length*/43000, /*name_sort*/0, /*name_kana*/"ごーいん");
@@ -203,7 +204,7 @@ INSERT INTO `music_data` VALUES (/*id*/9018, /*name*/"ガールズ・イン・\n
 INSERT INTO `music_data` VALUES (/*id*/9019, /*name*/"ドレミファクトリー !", /*bpm*/167, /*composer*/"俊龍", /*lyricist*/"俊龍", /*sound_offset*/74686, /*sound_length*/37500, /*name_sort*/0, /*name_kana*/"どれみふぁくとりー");
 INSERT INTO `music_data` VALUES (/*id*/9020, /*name*/"Starry-Go-Round", /*bpm*/141, /*composer*/"小野貴光", /*lyricist*/"磯谷佳江", /*sound_offset*/88420, /*sound_length*/41000, /*name_sort*/0, /*name_kana*/"すたーりーごーらうんど");
 INSERT INTO `music_data` VALUES (/*id*/9021, /*name*/"ガールズ・イン・\nザ・フロンティア", /*bpm*/145, /*composer*/"設楽哲也", /*lyricist*/"八城雄太", /*sound_offset*/69478, /*sound_length*/32000, /*name_sort*/0, /*name_kana*/"がーるずいんざふろんてぃあ");
-INSERT INTO `music_data` VALUES (/*id*/9022, /*name*/"無重力シャトル", /*bpm*/145, /*composer*/"北川悠仁", /*lyricist*/"北川悠仁", /*sound_offset*/51223, /*sound_length*/18600, /*name_sort*/0, /*name_kana*/"むじゅうりょくしゃとる");
+INSERT INTO `music_data` VALUES (/*id*/9022, /*name*/"無重力シャトル", /*bpm*/145, /*composer*/"北川悠仁", /*lyricist*/"北川悠仁", /*sound_offset*/51223, /*sound_length*/28600, /*name_sort*/0, /*name_kana*/"むじゅうりょくしゃとる");
 INSERT INTO `music_data` VALUES (/*id*/9901, /*name*/"Yes! Party Time!!", /*bpm*/148, /*composer*/"俊龍", /*lyricist*/"俊龍", /*sound_offset*/54477, /*sound_length*/25000, /*name_sort*/0, /*name_kana*/"いえすぱーてぃたいむ");
 INSERT INTO `music_data` VALUES (/*id*/9902, /*name*/"Yes! Party Time!!", /*bpm*/148, /*composer*/"俊龍", /*lyricist*/"俊龍", /*sound_offset*/54477, /*sound_length*/25000, /*name_sort*/0, /*name_kana*/"いえすぱーてぃたいむ");
 INSERT INTO `music_data` VALUES (/*id*/9903, /*name*/"Vast world", /*bpm*/175, /*composer*/"設楽哲也", /*lyricist*/"eNu", /*sound_offset*/61208, /*sound_length*/63000, /*name_sort*/0, /*name_kana*/"ばすとわーるど");

@@ -77,8 +77,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/"既に所持しているルームアイテムがコーデに含まれる場合、\nそのルームアイテムは購入されず、コーデの販売価格から\n差し引かれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/"購入したコーデはレイアウトの「テーマ」に保存され、\nいつでも自由に配置することができます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ニコニコ生放送「デレステNIGHT★×26」にて、制作が決定した\n「穿つ龍 ! !」が登場 ! !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"ルームショップにて、\n「草原のいきもの」をテーマにしたアイテムとコーデを追加 !\n大自然の中心で、野生の力強さを感じてみましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"こどもの日をテーマにした新作コーデを追加 !\nこいのぼりや柏餅を用意して、こどもの日を楽しみましょう !\n過去のこどもの日アイテムも復刻販売中 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"渋谷凛が歌う「AnemoneStar」をサウンドブースに追加 !\n購入するとLIVEでプレイできるようになります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -139,7 +138,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30008, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30009, /*img*/1, /*discription*/"SMART LIVE設定の判定ライン設定に「下」を追加しました。\n「下」に設定すると、横画面のLIVEのように、\nリズムアイコンが縦に流れてくるようになります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30010, /*img*/1, /*discription*/"LIVEの動作設定「表示領域設定」をアップデートしました !\n縦横比が16:9よりもワイドな画面の端末で、\n3DモードのMV表示領域を広げて表示できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30010, /*img*/1, /*discription*/"楽曲選択画面、右上の「動作設定」ポップアップの\n「オプションタブ」内、「表示領域設定」から設定変更できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「ゴールデンウィークスペシャルLIVEキャンペーン」\n開催中 ! 期間中にLIVEをクリアすると、\n期間限定のアイテムを獲得できます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");
