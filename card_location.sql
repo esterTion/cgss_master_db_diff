@@ -702,3 +702,4 @@ INSERT INTO `card_location` VALUES (/*index*/705, /*text*/"合宿所・寝室");
 INSERT INTO `card_location` VALUES (/*index*/706, /*text*/"デパート");
 INSERT INTO `card_location` VALUES (/*index*/707, /*text*/"不気味な森");
 INSERT INTO `card_location` VALUES (/*index*/708, /*text*/"城の庭園");
+INSERT INTO `card_location` VALUES (/*index*/709, /*text*/"女子寮・凪の部屋");

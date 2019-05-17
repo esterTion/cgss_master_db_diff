@@ -1455,6 +1455,7 @@ INSERT INTO `text_data` VALUES (/*category*/35, /*index*/45, /*text*/"全体1～
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/46, /*text*/"全体6～10");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/49, /*text*/"3D衣装");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/50, /*text*/"2D衣装");
+INSERT INTO `text_data` VALUES (/*category*/35, /*index*/51, /*text*/"---");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/3, /*text*/"シンデレラシアター");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/4, /*text*/"シンデレラシアターを閲覧することができます");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/5, /*text*/"シンデレラシアター一覧");

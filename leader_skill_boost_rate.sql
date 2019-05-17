@@ -63,4 +63,6 @@ INSERT INTO `leader_skill_boost_rate` VALUES (/*id*/61, /*position*/5, /*leader_
 INSERT INTO `leader_skill_boost_rate` VALUES (/*id*/62, /*position*/5, /*leader_skill_id*/10, /*rarity*/3, /*boost_rate*/1400);
 INSERT INTO `leader_skill_boost_rate` VALUES (/*id*/63, /*position*/5, /*leader_skill_id*/15, /*rarity*/3, /*boost_rate*/1400);
 INSERT INTO `leader_skill_boost_rate` VALUES (/*id*/64, /*position*/5, /*leader_skill_id*/20, /*rarity*/3, /*boost_rate*/1400);
+INSERT INTO `leader_skill_boost_rate` VALUES (/*id*/65, /*position*/1, /*leader_skill_id*/92, /*rarity*/7, /*boost_rate*/1300);
+INSERT INTO `leader_skill_boost_rate` VALUES (/*id*/66, /*position*/1, /*leader_skill_id*/94, /*rarity*/7, /*boost_rate*/1300);
 CREATE INDEX 'leader_skill_boost_rate_0_position' on 'leader_skill_boost_rate'('position');
