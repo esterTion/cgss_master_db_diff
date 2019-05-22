@@ -1,0 +1,2 @@
+CREATE TABLE 'carnival_reward_rank' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'rank' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_value' INTEGER NOT NULL, 'add_value_1' INTEGER NOT NULL, 'add_value_2' INTEGER NOT NULL, 'add_value_3' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE INDEX 'carnival_reward_rank_0_event_id' on 'carnival_reward_rank'('event_id');

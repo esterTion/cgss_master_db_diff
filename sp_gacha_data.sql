@@ -1,0 +1,1 @@
+CREATE TABLE 'sp_gacha_data' ('id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'odds_name' TEXT NOT NULL, 'cost_type' INTEGER NOT NULL, 'cost_id' INTEGER NOT NULL, 'cost_value' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, 'loop_start' INTEGER NOT NULL, 'main_reward_id' INTEGER NOT NULL, PRIMARY KEY('id'));

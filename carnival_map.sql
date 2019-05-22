@@ -1,0 +1,3 @@
+CREATE TABLE 'carnival_map' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'rank' INTEGER NOT NULL, 'booth_id' INTEGER NOT NULL, 'cost' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'effect' INTEGER NOT NULL, 'value1' INTEGER NOT NULL, 'value2' INTEGER NOT NULL, 'value3' INTEGER NOT NULL, 'icon' INTEGER NOT NULL, 'position_x' INTEGER NOT NULL, 'position_y' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE INDEX 'carnival_map_0_event_id' on 'carnival_map'('event_id');
+CREATE INDEX 'carnival_map_0_event_id_1_rank' on 'carnival_map'('event_id','rank');

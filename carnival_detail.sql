@@ -1,0 +1,1 @@
+CREATE TABLE 'carnival_detail' ('event_id' INTEGER NOT NULL, 'event_live_id' INTEGER NOT NULL, 'cost_id' INTEGER NOT NULL, 'guest_medal_rate' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, 'story_flag' INTEGER NOT NULL, PRIMARY KEY('event_id'));

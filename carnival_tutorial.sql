@@ -1,0 +1,2 @@
+CREATE TABLE 'carnival_tutorial' ('event_id' INTEGER NOT NULL, 'command_num' INTEGER NOT NULL, 'command_type' TEXT NOT NULL, 'word_text' TEXT NOT NULL, 'int_value_1' INTEGER NOT NULL, 'int_value_2' INTEGER NOT NULL, 'voice' TEXT NOT NULL, 'chara_id' TEXT NOT NULL, 'motion' INTEGER NOT NULL, 'position' INTEGER NOT NULL);
+CREATE INDEX 'carnival_tutorial_0_command_num' on 'carnival_tutorial'('command_num');
