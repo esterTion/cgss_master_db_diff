@@ -16,3 +16,4 @@ INSERT INTO `gallery_stage_list` VALUES (/*id*/17, /*disp_order*/9, /*disp_name*
 INSERT INTO `gallery_stage_list` VALUES (/*id*/18, /*disp_order*/10, /*disp_name*/"ステージ 生存本能ヴァルキュリア", /*bg_id*/4008, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/19, /*disp_order*/11, /*disp_name*/"ステージ 純情Midnight伝説", /*bg_id*/4009, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/20, /*disp_order*/12, /*disp_name*/"ステージ Take me☆Take you", /*bg_id*/4030, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/21, /*disp_order*/13, /*disp_name*/"ステージ 明日また会えるよね", /*bg_id*/1004, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
