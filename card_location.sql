@@ -708,3 +708,9 @@ INSERT INTO `card_location` VALUES (/*index*/711, /*text*/"夜空の見えるド
 INSERT INTO `card_location` VALUES (/*index*/712, /*text*/"闘技場");
 INSERT INTO `card_location` VALUES (/*index*/713, /*text*/"ブリッジバンジージャンプ場");
 INSERT INTO `card_location` VALUES (/*index*/714, /*text*/"宮殿の撮影セット");
+INSERT INTO `card_location` VALUES (/*index*/715, /*text*/"結婚式場の庭園");
+INSERT INTO `card_location` VALUES (/*index*/716, /*text*/"バージンロード");
+INSERT INTO `card_location` VALUES (/*index*/717, /*text*/"高層ビルのバー");
+INSERT INTO `card_location` VALUES (/*index*/718, /*text*/"青空の式場");
+INSERT INTO `card_location` VALUES (/*index*/719, /*text*/"フットサルコート");
+INSERT INTO `card_location` VALUES (/*index*/720, /*text*/"応援席");

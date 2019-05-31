@@ -210,4 +210,5 @@ INSERT INTO `music_data` VALUES (/*id*/9022, /*name*/"無重力シャトル", /*
 INSERT INTO `music_data` VALUES (/*id*/9901, /*name*/"Yes! Party Time!!", /*bpm*/148, /*composer*/"俊龍", /*lyricist*/"俊龍", /*sound_offset*/54477, /*sound_length*/25000, /*name_sort*/0, /*name_kana*/"いえすぱーてぃたいむ");
 INSERT INTO `music_data` VALUES (/*id*/9902, /*name*/"Yes! Party Time!!", /*bpm*/148, /*composer*/"俊龍", /*lyricist*/"俊龍", /*sound_offset*/54477, /*sound_length*/25000, /*name_sort*/0, /*name_kana*/"いえすぱーてぃたいむ");
 INSERT INTO `music_data` VALUES (/*id*/9903, /*name*/"Vast world", /*bpm*/175, /*composer*/"設楽哲也", /*lyricist*/"eNu", /*sound_offset*/61208, /*sound_length*/63000, /*name_sort*/0, /*name_kana*/"ばすとわーるど");
+INSERT INTO `music_data` VALUES (/*id*/9906, /*name*/"青空エール", /*bpm*/170, /*composer*/"川島弘光", /*lyricist*/"eNu", /*sound_offset*/68785, /*sound_length*/32000, /*name_sort*/0, /*name_kana*/"あおぞらえーる");
 INSERT INTO `music_data` VALUES (/*id*/90001, /*name*/"ぴにゃリクエスト", /*bpm*/1, /*composer*/"?", /*lyricist*/"?", /*sound_offset*/0, /*sound_length*/70000, /*name_sort*/0, /*name_kana*/"");
