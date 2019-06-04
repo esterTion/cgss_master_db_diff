@@ -321,7 +321,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80501, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80501, /*img*/1, /*discription*/"まず「セット中スタンプ」の中から、変更したいスタンプを選択し、\n次にスタンプの一覧から、設定したいスタンプを選択しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80501, /*img*/2, /*discription*/"スタンプの設定が済んだら、最後に「保存」ボタンを押しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80501, /*img*/2, /*discription*/"スタンプの設定を初期状態に戻したい場合は、\n「初期設定」ボタンを押しましょう。\nイベント開始時のおすすめのスタンプ設定が適用されます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/1, /*discription*/"「達成pt報酬」、「観客動員数報酬」、\n「ハイスコアランキング報酬」で、イベント限定の\nSレアアイドルやルームアイテムが貰えるだけでなく、\nイベント限定楽曲をイベント終了後もプレイできるようになります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/1, /*discription*/"「達成pt報酬」、「観客動員数報酬」、\n「ハイスコアランキング報酬」で、イベント限定の\nSレアアイドルやルームアイテムが獲得できます。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/2, /*discription*/"全国各地で公演を行い、LIVEツアーを盛り上げましょう。\n公演目標を達成してLIVEをクリアすると、\n新しい公演が解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/3, /*discription*/"公演の目標が達成できるように、楽曲やユニットを選びましょう。\n公演によって消費スタミナやLIVEを行う曲数が異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/4, /*discription*/"公演を行うと、観客動員数が増加します。\n対象のエリアの観客動員数が一定値に到達すると、\n新しいエリアが解放されます。");
