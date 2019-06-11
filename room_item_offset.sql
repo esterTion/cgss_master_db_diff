@@ -897,6 +897,8 @@ INSERT INTO `room_item_offset` VALUES (/*id*/3133, /*level*/1, /*invert*/2, /*or
 INSERT INTO `room_item_offset` VALUES (/*id*/3170, /*level*/1, /*invert*/0, /*origin_x*/128, /*origin_y*/256, /*origin_w*/256, /*origin_h*/256, /*resize_x*/97, /*resize_y*/166, /*resize_w*/64, /*resize_h*/80);
 INSERT INTO `room_item_offset` VALUES (/*id*/3171, /*level*/1, /*invert*/1, /*origin_x*/128, /*origin_y*/256, /*origin_w*/256, /*origin_h*/256, /*resize_x*/102, /*resize_y*/166, /*resize_w*/56, /*resize_h*/80);
 INSERT INTO `room_item_offset` VALUES (/*id*/3171, /*level*/1, /*invert*/2, /*origin_x*/128, /*origin_y*/256, /*origin_w*/256, /*origin_h*/256, /*resize_x*/99, /*resize_y*/166, /*resize_w*/56, /*resize_h*/80);
+INSERT INTO `room_item_offset` VALUES (/*id*/3172, /*level*/1, /*invert*/1, /*origin_x*/128, /*origin_y*/256, /*origin_w*/256, /*origin_h*/256, /*resize_x*/98, /*resize_y*/166, /*resize_w*/60, /*resize_h*/80);
+INSERT INTO `room_item_offset` VALUES (/*id*/3172, /*level*/1, /*invert*/2, /*origin_x*/128, /*origin_y*/256, /*origin_w*/256, /*origin_h*/256, /*resize_x*/100, /*resize_y*/166, /*resize_w*/60, /*resize_h*/80);
 INSERT INTO `room_item_offset` VALUES (/*id*/3180, /*level*/1, /*invert*/0, /*origin_x*/128, /*origin_y*/256, /*origin_w*/256, /*origin_h*/256, /*resize_x*/94, /*resize_y*/190, /*resize_w*/68, /*resize_h*/52);
 INSERT INTO `room_item_offset` VALUES (/*id*/3183, /*level*/1, /*invert*/0, /*origin_x*/128, /*origin_y*/256, /*origin_w*/256, /*origin_h*/256, /*resize_x*/31, /*resize_y*/47, /*resize_w*/196, /*resize_h*/168);
 INSERT INTO `room_item_offset` VALUES (/*id*/3184, /*level*/1, /*invert*/0, /*origin_x*/128, /*origin_y*/256, /*origin_w*/256, /*origin_h*/256, /*resize_x*/99, /*resize_y*/201, /*resize_w*/60, /*resize_h*/48);
@@ -1559,3 +1561,5 @@ INSERT INTO `room_item_offset` VALUES (/*id*/300666, /*level*/1, /*invert*/1, /*
 INSERT INTO `room_item_offset` VALUES (/*id*/300666, /*level*/1, /*invert*/2, /*origin_x*/128, /*origin_y*/256, /*origin_w*/256, /*origin_h*/256, /*resize_x*/3, /*resize_y*/99, /*resize_w*/60, /*resize_h*/100);
 INSERT INTO `room_item_offset` VALUES (/*id*/300670, /*level*/1, /*invert*/1, /*origin_x*/128, /*origin_y*/256, /*origin_w*/256, /*origin_h*/256, /*resize_x*/195, /*resize_y*/99, /*resize_w*/60, /*resize_h*/100);
 INSERT INTO `room_item_offset` VALUES (/*id*/300670, /*level*/1, /*invert*/2, /*origin_x*/128, /*origin_y*/256, /*origin_w*/256, /*origin_h*/256, /*resize_x*/3, /*resize_y*/99, /*resize_w*/60, /*resize_h*/100);
+INSERT INTO `room_item_offset` VALUES (/*id*/300682, /*level*/1, /*invert*/1, /*origin_x*/128, /*origin_y*/256, /*origin_w*/256, /*origin_h*/256, /*resize_x*/195, /*resize_y*/99, /*resize_w*/60, /*resize_h*/100);
+INSERT INTO `room_item_offset` VALUES (/*id*/300682, /*level*/1, /*invert*/2, /*origin_x*/128, /*origin_y*/256, /*origin_w*/256, /*origin_h*/256, /*resize_x*/3, /*resize_y*/99, /*resize_w*/60, /*resize_h*/100);
