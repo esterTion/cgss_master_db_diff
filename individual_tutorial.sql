@@ -140,7 +140,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30009, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30010, /*img*/1, /*discription*/"LIVEの動作設定「表示領域設定」をアップデートしました !\n縦横比が16:9よりもワイドな画面の端末で、\n3DモードのMV表示領域を広げて表示できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30010, /*img*/1, /*discription*/"楽曲選択画面、右上の「動作設定」ポップアップの\n「オプションタブ」内、「表示領域設定」から設定変更できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「LIVE Carnival開催直前 ! 強化合宿限定\nスペシャルLIVEキャンペーン」開催中 ! !\n期間中にクリアしたLIVEでは、期間限定のアイテムと\n今まで出現した限定トレチケを獲得できます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「LIVE Carnival開催直前 ! 強化合宿限定\n特訓支援キャンペーン」開催中 ! ! 強化合宿キャンペーン中は、\nLIVE成功時のティアラと魔法のドレスのドロップ率が\nさらにアップします ! 詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「LIVE Carnival開催直前 ! 強化合宿限定\n特訓支援キャンペーン」開催中 ! ! 強化合宿キャンペーン中は、\nLIVE成功時のティアラと魔法のドレスの\nドロップ率がさらにアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");
