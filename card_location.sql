@@ -722,3 +722,5 @@ INSERT INTO `card_location` VALUES (/*index*/725, /*text*/"事務所の倉庫");
 INSERT INTO `card_location` VALUES (/*index*/726, /*text*/"モノクロの世界");
 INSERT INTO `card_location` VALUES (/*index*/727, /*text*/"近未来風PVセット");
 INSERT INTO `card_location` VALUES (/*index*/728, /*text*/"海沿いの道");
+INSERT INTO `card_location` VALUES (/*index*/729, /*text*/"旅館風セット");
+INSERT INTO `card_location` VALUES (/*index*/730, /*text*/"結婚式場の控室風セット");
