@@ -253,6 +253,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60024, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60024, /*img*/1, /*discription*/"マーカーモードは、専用のARマーカーを読み込むモードです。\nオートモードでは、自動的に平面を認識してアイドルが登場します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60025, /*img*/1, /*discription*/"ゲスト参戦アイドルをアップデートしました !\n「フリー枠アイドル」にもアイドルを設定できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60025, /*img*/1, /*discription*/"「フリー枠アイドル」に設定されたアイドルは、\nタイプ別のゲスト参戦アイドルと合わせて\n他プロデューサーのLIVEにゲストとして表示されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60026, /*img*/1, /*discription*/"ポーズごとにお気に入り設定ができます。\nお気に入り設定したポーズは、次にリストを\n表示するとき、優先的にリスト表示されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/1, /*discription*/"「LIVE PARTY!!」では、協力LIVEを行うことで、\n「スターエンブレム」が獲得できます。\n「スターエンブレム」を集めると、過去イベントの報酬や、\nアイテムとの交換ができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。\n楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/3, /*discription*/"本機能では、専用ユニットでLIVEを行います。ユニットには5つの「ポジション」があります。\n各プロデューサーのアイドルが、ポジションを1つずつ担当し、5人の共通ユニットが編成されます。\n※自分のアイドルがどのポジションを担当するかはランダムで決定されます。\n※楽曲タイプとポジションごとにアイドルを設定できます。");

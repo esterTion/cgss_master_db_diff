@@ -359,4 +359,4 @@ INSERT INTO `story_category` VALUES (/*id*/376, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/377, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"月宮雅 / 愛野渚", /*sub_title*/"月宮雅 / 愛野渚", /*disp_order*/93);
 INSERT INTO `story_category` VALUES (/*id*/378, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Max Beat", /*sub_title*/"Max Beat", /*disp_order*/94);
 INSERT INTO `story_category` VALUES (/*id*/379, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"青空エール", /*sub_title*/"青空エール", /*disp_order*/95);
-INSERT INTO `story_category` VALUES (/*id*/380, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"TAKAMARI☆CLIMAXXX ! ! ! ! ! ", /*sub_title*/"TAKAMARI☆CLIMAXXX ! ! ! ! ! ", /*disp_order*/96);
+INSERT INTO `story_category` VALUES (/*id*/380, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"TAKAMARI☆CLIMAXXX!!!!!", /*sub_title*/"TAKAMARI☆CLIMAXXX!!!!!", /*disp_order*/96);
