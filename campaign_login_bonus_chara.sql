@@ -1,0 +1,2 @@
+CREATE TABLE 'campaign_login_bonus_chara' ('id' INTEGER NOT NULL, 'campaign_id' INTEGER NOT NULL, 'count' INTEGER NOT NULL, 'main_id' INTEGER NOT NULL, 'main_dress_id' INTEGER NOT NULL, 'sub_id1' INTEGER NOT NULL, 'sub_dress_id1' INTEGER NOT NULL, 'sub_id2' INTEGER NOT NULL, 'sub_dress_id2' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE INDEX 'campaign_login_bonus_chara_0_campaign_id_1_count' on 'campaign_login_bonus_chara'('campaign_id','count');
