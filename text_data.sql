@@ -585,6 +585,17 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/20, /*text*/"[2D2D2D]�
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/21, /*text*/"[2D2D2D]帯でつながったリズムアイコンが出てきたら、\nラインに重なっている間、画面をタッチしつづけます。\nそれでは、練習してみましょう。[-]");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/22, /*text*/"[2D2D2D]矢印のついたリズムアイコンは、ラインに重なる\nタイミングで、指示された方向に画面をフリックします。\nそれでは、練習してみましょう。[-]");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/23, /*text*/"[2D2D2D]これが最後の練習です。帯でつながった\n中央に突起のあるリズムアイコンは、帯の流れにあわせて、\n画面をタッチしたまま指を上下に\nスライドしましょう。[-]");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/24, /*text*/"GRAND LIVE ユニット");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/25, /*text*/" 同じイラストのアイドルが複数ユニットに\n設定されているため、LIVEを開始できません");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/26, /*text*/"ゲストアイドルは参戦しません");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/27, /*text*/"MVオリジナル ユニット");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/28, /*text*/"{0}に\nセット");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/29, /*text*/"ユニットA");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/30, /*text*/"ユニットB");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/31, /*text*/"ユニットC");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/32, /*text*/" ユニットが15人未満のため、LIVEを開始できません\n15人のユニットを編成してください");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/33, /*text*/"このユニットを{0}にセットします");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/34, /*text*/"PRP（プロデューサーレーティングポイント）とは、\nあなたのプロデューサーとしての手腕を示す指標です。\n\n楽曲毎に、LIVEで達成した\nSCOREに応じて「楽曲PRP」が記録され、\nWIDE LIVE 上位10曲\nGRAND LIVE 上位3曲\nSMART LIVE 上位3曲\n計16曲分の合計が、現在の「PRP」となります。\n\nPRP達成報酬を目指して、\nリズムゲームの腕を磨きましょう。\nユニットのアピール値も重要になりますから、\nアイドル達のレッスンも忘れずに ! ");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/1, /*text*/"月間獲得ファン数ランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/2, /*text*/"今期のランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/3, /*text*/"前期のランキング");

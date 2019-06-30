@@ -56,6 +56,7 @@ INSERT INTO `gift_message` VALUES (/*id*/72, /*discription*/"プラチナメダ�
 INSERT INTO `gift_message` VALUES (/*id*/73, /*discription*/"営業コミュ「{0}」で加入したアイドルです。", /*type_1*/12, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/74, /*discription*/"営業コミュ「{0}」で獲得した報酬です。", /*type_1*/12, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/75, /*discription*/"{0}で購入したアイテムです。", /*type_1*/37, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/77, /*discription*/"{0}で獲得したアイテムです。", /*type_1*/37, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1001, /*discription*/"イベント「{0}」{1}イベントpt達成報酬です。", /*type_1*/19, /*type_2*/20, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1002, /*discription*/"イベント「{0}」ポイントランキング{1}位～{2}位で獲得した報酬です。", /*type_1*/19, /*type_2*/21, /*type_3*/22, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1003, /*discription*/"イベント「{0}」ハイスコアランキング{1}位～{2}位で獲得した報酬です。", /*type_1*/19, /*type_2*/23, /*type_3*/24, /*type_4*/0);
