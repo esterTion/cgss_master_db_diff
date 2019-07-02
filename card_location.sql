@@ -728,3 +728,4 @@ INSERT INTO `card_location` VALUES (/*index*/731, /*text*/"夏の海のクルー
 INSERT INTO `card_location` VALUES (/*index*/732, /*text*/"大阪・たこ焼き屋");
 INSERT INTO `card_location` VALUES (/*index*/733, /*text*/"お笑い番組セット");
 INSERT INTO `card_location` VALUES (/*index*/734, /*text*/"闇夜の庭園");
+INSERT INTO `card_location` VALUES (/*index*/735, /*text*/"イベント会場・フロート");

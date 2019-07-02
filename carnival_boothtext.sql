@@ -1,2 +1,17 @@
 CREATE TABLE 'carnival_boothtext' ('id' INTEGER NOT NULL, 'message' TEXT NOT NULL);
+INSERT INTO `carnival_boothtext` VALUES (/*id*/1, /*message*/"ボーカルアピール値が{0}%アップ !");
+INSERT INTO `carnival_boothtext` VALUES (/*id*/2, /*message*/"ダンスアピール値が{0}%アップ !");
+INSERT INTO `carnival_boothtext` VALUES (/*id*/3, /*message*/"ビジュアルアピール値が{0}%アップ !");
+INSERT INTO `carnival_boothtext` VALUES (/*id*/4, /*message*/"ボーカルアピール値のみ適用。ボーカルアピール値は{0}%アップ !");
+INSERT INTO `carnival_boothtext` VALUES (/*id*/5, /*message*/"ダンスアピール値のみ適用。ダンスアピール値は{0}%アップ !");
+INSERT INTO `carnival_boothtext` VALUES (/*id*/6, /*message*/"ビジュアルアピール値のみ適用。ビジュアルアピール値は{0}%アップ !");
+INSERT INTO `carnival_boothtext` VALUES (/*id*/7, /*message*/"{0}のみ選曲可能");
+INSERT INTO `carnival_boothtext` VALUES (/*id*/8, /*message*/"{0}のみ選曲可能。{1}の全アピール値が{2}%アップ !");
+INSERT INTO `carnival_boothtext` VALUES (/*id*/9, /*message*/"キュート楽曲のみ選曲可能 ! キュートアイドルのアピール値{0}%アップ !");
+INSERT INTO `carnival_boothtext` VALUES (/*id*/10, /*message*/"クール楽曲のみ選曲可能 ! クールアイドルのアピール値{0}%アップ !");
+INSERT INTO `carnival_boothtext` VALUES (/*id*/11, /*message*/"パッション楽曲のみ選曲可能 ! パッションアイドルのアピール値{0}%アップ !");
+INSERT INTO `carnival_boothtext` VALUES (/*id*/12, /*message*/"ユニットのライフに応じてアピール値がアップ !");
+INSERT INTO `carnival_boothtext` VALUES (/*id*/13, /*message*/"全アピール値が、解放されているプロデュースptにつき{0}%アップ !");
+INSERT INTO `carnival_boothtext` VALUES (/*id*/14, /*message*/"アイドルのスターランクに応じてアピール値がアップ !");
+INSERT INTO `carnival_boothtext` VALUES (/*id*/15, /*message*/"イベント出演アイドルのアピール値が{0}%アップ !");
 CREATE INDEX 'carnival_boothtext_0_id' on 'carnival_boothtext'('id');
