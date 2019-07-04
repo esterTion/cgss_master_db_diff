@@ -729,3 +729,8 @@ INSERT INTO `card_location` VALUES (/*index*/732, /*text*/"大阪・たこ焼き
 INSERT INTO `card_location` VALUES (/*index*/733, /*text*/"お笑い番組セット");
 INSERT INTO `card_location` VALUES (/*index*/734, /*text*/"闇夜の庭園");
 INSERT INTO `card_location` VALUES (/*index*/735, /*text*/"イベント会場・フロート");
+INSERT INTO `card_location` VALUES (/*index*/736, /*text*/"神社・七夕祭");
+INSERT INTO `card_location` VALUES (/*index*/737, /*text*/"蛍舞う林の中");
+INSERT INTO `card_location` VALUES (/*index*/738, /*text*/"天の川風セット");
+INSERT INTO `card_location` VALUES (/*index*/739, /*text*/"メルヘンなお部屋");
+INSERT INTO `card_location` VALUES (/*index*/740, /*text*/"美術回廊");
