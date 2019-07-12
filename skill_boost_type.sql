@@ -26,6 +26,7 @@ INSERT INTO `skill_boost_type` VALUES (/*id*/24, /*skill_value*/1, /*target_type
 INSERT INTO `skill_boost_type` VALUES (/*id*/25, /*skill_value*/1, /*target_type*/27, /*boost_value_1*/1200, /*boost_value_2*/1200, /*boost_value_3*/0, /*target_attribute*/0);
 INSERT INTO `skill_boost_type` VALUES (/*id*/26, /*skill_value*/1, /*target_type*/28, /*boost_value_1*/1200, /*boost_value_2*/1200, /*boost_value_3*/0, /*target_attribute*/0);
 INSERT INTO `skill_boost_type` VALUES (/*id*/27, /*skill_value*/1, /*target_type*/29, /*boost_value_1*/1200, /*boost_value_2*/1200, /*boost_value_3*/0, /*target_attribute*/0);
+INSERT INTO `skill_boost_type` VALUES (/*id*/28, /*skill_value*/1, /*target_type*/30, /*boost_value_1*/1200, /*boost_value_2*/1200, /*boost_value_3*/0, /*target_attribute*/0);
 INSERT INTO `skill_boost_type` VALUES (/*id*/29, /*skill_value*/1, /*target_type*/31, /*boost_value_1*/1200, /*boost_value_2*/1, /*boost_value_3*/0, /*target_attribute*/0);
 INSERT INTO `skill_boost_type` VALUES (/*id*/47, /*skill_value*/3, /*target_type*/1, /*boost_value_1*/1500, /*boost_value_2*/0, /*boost_value_3*/0, /*target_attribute*/2);
 INSERT INTO `skill_boost_type` VALUES (/*id*/48, /*skill_value*/3, /*target_type*/2, /*boost_value_1*/1500, /*boost_value_2*/0, /*boost_value_3*/0, /*target_attribute*/2);

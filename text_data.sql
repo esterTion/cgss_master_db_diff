@@ -562,6 +562,8 @@ INSERT INTO `text_data` VALUES (/*category*/13, /*index*/20, /*text*/"収納す�
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/21, /*text*/"現在のルームに設置中の収納可能なルームアイテムを全て倉庫に収納します。\nよろしいですか？");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/22, /*text*/"ルームアイテム一括収納");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/23, /*text*/"ルーム効果");
+INSERT INTO `text_data` VALUES (/*category*/13, /*index*/24, /*text*/"プレゼント未受け取りアイテム");
+INSERT INTO `text_data` VALUES (/*category*/13, /*index*/25, /*text*/"このアイテムはプレゼントに贈られており、\n未受け取りの状態です。");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/1, /*text*/"詳細");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/2, /*text*/"{0}枚");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/3, /*text*/"ALBUM詳細");
