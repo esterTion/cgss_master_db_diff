@@ -179,6 +179,7 @@ INSERT INTO `music_info` VALUES (/*id*/8002, /*discription*/"緒方智絵里（C
 INSERT INTO `music_info` VALUES (/*id*/8003, /*discription*/"夏色（ゆず）\n\n城ヶ崎美嘉（CV：佳村はるか）\n城ヶ崎莉嘉（CV：山本希望）\n\n\n作詞・作曲：北川悠仁", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8004, /*discription*/"サヨナラバス（ゆず）\n\n橘ありす（CV：佐藤亜美菜）\n速水奏（CV：飯田友子）\n\n\n作詞・作曲：北川悠仁", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8005, /*discription*/"LOVE & PEACH（ゆず）\n\n双葉杏（CV：五十嵐裕美）\n諸星きらり（CV：松嵜麗）\n島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n\n\n作詞・作曲：北川悠仁", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/8006, /*discription*/"タッタ（ゆず）\n\n多田李衣菜（CV：青木瑠璃子）\n木村夏樹（CV：安野希世乃）\n\n\n作詞：北川悠仁\n作曲：北川悠仁・JIN", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8007, /*discription*/"HOT LIMIT（T.M.Revolution）\n\n島村卯月（CV：大橋彩香）\n\n\n作詞：井上秋緒\n作曲：浅倉大介", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8008, /*discription*/"行くぜっ ! 怪盗少女（ももいろクローバー）\n\n及川雫（CV：のぐちゆり）\n片桐早苗（CV：和氣あず未）\n堀裕子（CV：鈴木絵理）\n\n\n作詞・作曲：前山田健一", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8009, /*discription*/"友達の唄（ゆず）\n\n喜多見柚（CV：武田羅梨沙多胡）\n堀裕子（CV：鈴木絵理）\n\n\n作詞・作曲：北川悠仁", /*android_url*/"", /*ios_url*/"");
