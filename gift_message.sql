@@ -159,3 +159,4 @@ INSERT INTO `gift_message` VALUES (/*id*/20027, /*discription*/"「カバー曲�
 INSERT INTO `gift_message` VALUES (/*id*/20028, /*discription*/"「ゆくM@S くるM@S 2018」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20029, /*discription*/"「乃々を探せ ! レベル41 ! ～ののと不思議な絵本～」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20030, /*discription*/"「もっと ! デレステ☆NIGHT」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20031, /*discription*/"「アイドルマスター14周年記念ニコ生～14th Anniversary P@rty!!!!!～」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

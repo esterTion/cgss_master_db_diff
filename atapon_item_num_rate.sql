@@ -14,9 +14,9 @@ INSERT INTO `atapon_item_num_rate` VALUES (/*cost_stamina*/21, /*event_item_num*
 INSERT INTO `atapon_item_num_rate` VALUES (/*cost_stamina*/22, /*event_item_num*/62);
 INSERT INTO `atapon_item_num_rate` VALUES (/*cost_stamina*/23, /*event_item_num*/65);
 INSERT INTO `atapon_item_num_rate` VALUES (/*cost_stamina*/24, /*event_item_num*/68);
-INSERT INTO `atapon_item_num_rate` VALUES (/*cost_stamina*/25, /*event_item_num*/71);
-INSERT INTO `atapon_item_num_rate` VALUES (/*cost_stamina*/26, /*event_item_num*/75);
-INSERT INTO `atapon_item_num_rate` VALUES (/*cost_stamina*/27, /*event_item_num*/78);
-INSERT INTO `atapon_item_num_rate` VALUES (/*cost_stamina*/28, /*event_item_num*/81);
-INSERT INTO `atapon_item_num_rate` VALUES (/*cost_stamina*/29, /*event_item_num*/84);
-INSERT INTO `atapon_item_num_rate` VALUES (/*cost_stamina*/30, /*event_item_num*/87);
+INSERT INTO `atapon_item_num_rate` VALUES (/*cost_stamina*/25, /*event_item_num*/70);
+INSERT INTO `atapon_item_num_rate` VALUES (/*cost_stamina*/26, /*event_item_num*/73);
+INSERT INTO `atapon_item_num_rate` VALUES (/*cost_stamina*/27, /*event_item_num*/76);
+INSERT INTO `atapon_item_num_rate` VALUES (/*cost_stamina*/28, /*event_item_num*/79);
+INSERT INTO `atapon_item_num_rate` VALUES (/*cost_stamina*/29, /*event_item_num*/82);
+INSERT INTO `atapon_item_num_rate` VALUES (/*cost_stamina*/30, /*event_item_num*/84);

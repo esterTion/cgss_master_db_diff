@@ -79,6 +79,7 @@ INSERT INTO `music_data` VALUES (/*id*/2020, /*name*/"義勇忍侠花吹雪", /*
 INSERT INTO `music_data` VALUES (/*id*/2021, /*name*/"スパイスパラダイス", /*bpm*/135, /*composer*/"宮崎誠", /*lyricist*/"宮崎誠", /*sound_offset*/58119, /*sound_length*/52000, /*name_sort*/0, /*name_kana*/"すぱいすぱらだいす");
 INSERT INTO `music_data` VALUES (/*id*/2022, /*name*/"Fascinate", /*bpm*/150, /*composer*/"睦月周平", /*lyricist*/"ミズノゲンキ", /*sound_offset*/58963, /*sound_length*/35500, /*name_sort*/0, /*name_kana*/"ふぁっしねいと");
 INSERT INTO `music_data` VALUES (/*id*/2023, /*name*/"O-Ku-Ri-Mo-No \nSunday!", /*bpm*/145, /*composer*/"烏屋茶房、篠崎あやと", /*lyricist*/"烏屋茶房", /*sound_offset*/81488, /*sound_length*/46000, /*name_sort*/0, /*name_kana*/"おくりものさんでー");
+INSERT INTO `music_data` VALUES (/*id*/2024, /*name*/"バベル", /*bpm*/126, /*composer*/"BNSI（ミフメイ）", /*lyricist*/"BNSI（ミフメイ）", /*sound_offset*/77335, /*sound_length*/35000, /*name_sort*/0, /*name_kana*/"ばべる");
 INSERT INTO `music_data` VALUES (/*id*/3001, /*name*/"S(mile)ING!", /*bpm*/178, /*composer*/"BNSI（Yoshi）", /*lyricist*/"BNSI（八城雄太）", /*sound_offset*/52279, /*sound_length*/22000, /*name_sort*/0, /*name_kana*/"すまいりんぐ");
 INSERT INTO `music_data` VALUES (/*id*/3002, /*name*/"Never say never", /*bpm*/156, /*composer*/"BNEI（遠山明孝）", /*lyricist*/"BNEI（遠山明孝・八城雄太）", /*sound_offset*/61305, /*sound_length*/29000, /*name_sort*/0, /*name_kana*/"ねばーせいねばー");
 INSERT INTO `music_data` VALUES (/*id*/3003, /*name*/"ミツボシ☆☆★", /*bpm*/175, /*composer*/"BNSI（kyo）", /*lyricist*/"BNSI（八城雄太）", /*sound_offset*/51889, /*sound_length*/25000, /*name_sort*/0, /*name_kana*/"みつぼし");

@@ -744,3 +744,8 @@ INSERT INTO `card_location` VALUES (/*index*/747, /*text*/"海の部屋");
 INSERT INTO `card_location` VALUES (/*index*/748, /*text*/"沖縄離島・海へと続く道");
 INSERT INTO `card_location` VALUES (/*index*/749, /*text*/"海の中風セット");
 INSERT INTO `card_location` VALUES (/*index*/750, /*text*/"収録前のスタジオ");
+INSERT INTO `card_location` VALUES (/*index*/751, /*text*/"高層タワー");
+INSERT INTO `card_location` VALUES (/*index*/752, /*text*/"バベルの塔");
+INSERT INTO `card_location` VALUES (/*index*/753, /*text*/"トロッコ鉄道");
+INSERT INTO `card_location` VALUES (/*index*/754, /*text*/"1万本のひまわり畑");
+INSERT INTO `card_location` VALUES (/*index*/755, /*text*/"ホテルのプール");
