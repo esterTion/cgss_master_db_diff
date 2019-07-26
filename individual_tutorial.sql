@@ -80,7 +80,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20012, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/"レイアウト済みのルームアイテムがセットになった\n「コーデ」をルームショップにて販売開始 !\n購入した「コーデ」はそのまま配置することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/"既に所持しているルームアイテムがコーデに含まれる場合、\nそのルームアイテムは購入されず、コーデの販売価格から\n差し引かれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/"購入したコーデはレイアウトの「テーマ」に保存され、\nいつでも自由に配置することができます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"川島瑞樹がカバーする「Hello Especially」を\nサウンドブースで販売開始しました !\n※本楽曲のLIVE演出は、2D標準・2D軽量のみとなります\n※PLvが10以上になると購入できます");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ルームショップにて、「屋上花火大会」を\nテーマにしたアイテムとコーデを追加 !\nみんなで一緒に屋上からの花火を楽しみましょう !\n夜空を彩るキャラクターたちにも注目です !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"After20コミックス3巻発売記念 !\nコラボルームアイテム販売 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
@@ -145,7 +145,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30010, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30011, /*img*/1, /*discription*/"LIVEに新モード「GRAND LIVE」を追加しました。\n最大15人のアイドルがパフォーマンスする、\n華やかなLIVEが楽しめます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30011, /*img*/2, /*discription*/"リズムゲームには新たな難易度「PIANO」「FORTE」が登場。\nタップ・フリック・スライド、3種のアイコンによる\n直感的な操作感はそのままに、リズムアイコンの幅が変化する、\nダイナミックなLIVEがプレイできます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30011, /*img*/2, /*discription*/"「GRAND LIVE」では、3ユニット15人を同時に編成してプレイします。\nアイドルの「センター効果」は各ユニット内に対してのみ適用され、\n「特技」の発動間隔は通常の 3倍 となります。\nまた、ゲストアイドルの参戦はありません。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「プロデューサーさんと駆ける夏 ! スペシャルLIVEキャンペーン」\n開催中 ! 期間中にLIVEをクリアすると、\n期間限定のアイテムを獲得できます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「サマーバケーションスペシャルLIVEキャンペーン」\n開催中 ! 期間中にLIVEをクリアすると、\n期間限定のアイテムを獲得できます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
@@ -200,6 +200,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40502, /*img*/4, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40503, /*img*/1, /*discription*/"ドレスコーデ機能をアップデートしました !\n未解放のカラーを選択したとき、\nプレビューを確認できるようになりました。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40503, /*img*/1, /*discription*/"カラーを保存するときに、各タブで未解放の\nカラーがある場合、一括で解放することも可能です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40503, /*img*/2, /*discription*/"また、「おすすめコーデ」機能を追加しました !\nあらかじめコーディネイトされたカラーを\n反映、解放できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40504, /*img*/1, /*discription*/"ドレスコーデ専用衣装「レッスンウェア」を追加しました !\n「レッスンウェア」はクローゼットごとにボトムスの\nデザインを選択して保存することができます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/1, /*discription*/"アイドル編成画面右上にある「表示切替ボタン」で\n編成中のユニットを表示できるようになりました。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/2, /*discription*/"ユニットのポジションを選択して、\n所属アイドルを編成することができます。\nまた、ユニット内のアイドル同士を\n入れ替えることも可能です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/2, /*discription*/"設定内容は他の画面に移動すると保存されます。\n※他の画面に移動せずにアプリを終了した場合、\n編成内容は保存されません。");

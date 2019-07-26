@@ -1605,6 +1605,9 @@ INSERT INTO `text_data` VALUES (/*category*/40, /*index*/92, /*text*/"カラー�
 INSERT INTO `text_data` VALUES (/*category*/40, /*index*/93, /*text*/"{0}を[D33D98]{1}[-]個使用して、\n選択したカラーを解放します。\nよろしいですか？");
 INSERT INTO `text_data` VALUES (/*category*/40, /*index*/94, /*text*/"未解放のカラーがあります。\n{0}を[D33D98]{1}[-]個使用して、\n選択したカラーを解放します。\nよろしいですか？");
 INSERT INTO `text_data` VALUES (/*category*/40, /*index*/95, /*text*/"以下のカラーを解放しました ! ");
+INSERT INTO `text_data` VALUES (/*category*/40, /*index*/96, /*text*/"トップス");
+INSERT INTO `text_data` VALUES (/*category*/40, /*index*/97, /*text*/"ボトムス");
+INSERT INTO `text_data` VALUES (/*category*/40, /*index*/98, /*text*/"編集する");
 INSERT INTO `text_data` VALUES (/*category*/41, /*index*/1, /*text*/"北東");
 INSERT INTO `text_data` VALUES (/*category*/41, /*index*/2, /*text*/"首都");
 INSERT INTO `text_data` VALUES (/*category*/41, /*index*/3, /*text*/"中央");

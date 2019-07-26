@@ -923,3 +923,4 @@ INSERT INTO `event_login_detail` VALUES (/*id*/921, /*event_id*/1047, /*count*/4
 INSERT INTO `event_login_detail` VALUES (/*id*/922, /*event_id*/1047, /*count*/5, /*reward_type*/5, /*reward_id*/50047, /*reward_value*/300, /*image*/"item_50047_s");
 INSERT INTO `event_login_detail` VALUES (/*id*/923, /*event_id*/1047, /*count*/6, /*reward_type*/5, /*reward_id*/50047, /*reward_value*/300, /*image*/"item_50047_s");
 INSERT INTO `event_login_detail` VALUES (/*id*/924, /*event_id*/1047, /*count*/7, /*reward_type*/5, /*reward_id*/50047, /*reward_value*/300, /*image*/"item_50047_s");
+INSERT INTO `event_login_detail` VALUES (/*id*/925, /*event_id*/1047, /*count*/8, /*reward_type*/5, /*reward_id*/50047, /*reward_value*/300, /*image*/"item_50047_s");
