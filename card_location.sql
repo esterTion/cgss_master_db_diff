@@ -756,3 +756,5 @@ INSERT INTO `card_location` VALUES (/*index*/759, /*text*/"フェス・野外ス
 INSERT INTO `card_location` VALUES (/*index*/760, /*text*/"会員制プール");
 INSERT INTO `card_location` VALUES (/*index*/761, /*text*/"夕凪の潮だまり");
 INSERT INTO `card_location` VALUES (/*index*/762, /*text*/"青の洞窟");
+INSERT INTO `card_location` VALUES (/*index*/763, /*text*/"無人島・岩場");
+INSERT INTO `card_location` VALUES (/*index*/764, /*text*/"無人島・森");

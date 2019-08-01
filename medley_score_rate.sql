@@ -1,2 +1,2 @@
 CREATE TABLE 'medley_score_rate' ('event_id' INTEGER NOT NULL, 'score_rate' INTEGER NOT NULL, 'vabration_max_rate' INTEGER NOT NULL, 'combo_s_rate' INTEGER NOT NULL, 'combo_a_rate' INTEGER NOT NULL, 'combo_b_rate' INTEGER NOT NULL, 'combo_c_rate' INTEGER NOT NULL, PRIMARY KEY('event_id'));
-INSERT INTO `medley_score_rate` VALUES (/*event_id*/3027, /*score_rate*/940, /*vabration_max_rate*/1000, /*combo_s_rate*/1000, /*combo_a_rate*/350, /*combo_b_rate*/200, /*combo_c_rate*/150);
+INSERT INTO `medley_score_rate` VALUES (/*event_id*/3028, /*score_rate*/940, /*vabration_max_rate*/1000, /*combo_s_rate*/1000, /*combo_a_rate*/350, /*combo_b_rate*/200, /*combo_c_rate*/150);
