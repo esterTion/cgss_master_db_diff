@@ -219,4 +219,5 @@ INSERT INTO `music_info` VALUES (/*id*/9903, /*discription*/"緒方智絵里（C
 INSERT INTO `music_info` VALUES (/*id*/9904, /*discription*/"島村卯月（CV：大橋彩香）\n小日向美穂（CV：津田美波）\n五十嵐響子（CV：種﨑敦美）\n渋谷凛（CV：福原綾香）\n北条加蓮（CV：渕上舞）\n神谷奈緒（CV：松井恵理子）\n本田未央（CV：原紗友里）\n日野茜（CV：赤﨑千夏）\n高森藍子（CV：金子有希）\n\n\n作詞：ミズノゲンキ\n作曲・編曲：睦月周平", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/9906, /*discription*/"結城晴（CV：小市眞琴）\n赤城みりあ（CV：黒沢ともよ）\n脇山珠美（CV：嘉山未紗）\n緒方智絵里（CV：大空直美）\n城ヶ崎美嘉（CV：佳村はるか）\n\n\n作詞：eNu\n作曲・編曲：川島弘光", /*android_url*/"https://columbia.jp/sl-stage/haishin/COCC-17520_03.html", /*ios_url*/"https://columbia.jp/sl-stage/haishin/COCC-17520_03.html");
 INSERT INTO `music_info` VALUES (/*id*/9907, /*discription*/"向井拓海（CV：原優子）\n\n\n作詞：磯谷佳江\n作曲：高取ヒデアキ\n編曲：籠島裕昌", /*android_url*/"https://columbia.jp/sl-stage/haishin/COKM-42443.html", /*ios_url*/"https://columbia.jp/sl-stage/haishin/COKM-42443.html");
+INSERT INTO `music_info` VALUES (/*id*/9908, /*discription*/"藤本里奈（CV：金子真由美）\n\n\n作詞：磯谷佳江\n作曲・編曲：山本真央樹", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/90001, /*discription*/"？", /*android_url*/"", /*ios_url*/"");

@@ -219,4 +219,5 @@ INSERT INTO `music_data` VALUES (/*id*/9903, /*name*/"Vast world", /*bpm*/175, /
 INSERT INTO `music_data` VALUES (/*id*/9904, /*name*/"Stage Bye Stage", /*bpm*/138, /*composer*/"睦月周平", /*lyricist*/"ミズノゲンキ", /*sound_offset*/72892, /*sound_length*/35000, /*name_sort*/0, /*name_kana*/"すてーじばいすてーじ");
 INSERT INTO `music_data` VALUES (/*id*/9906, /*name*/"青空エール", /*bpm*/170, /*composer*/"川島弘光", /*lyricist*/"eNu", /*sound_offset*/68785, /*sound_length*/32000, /*name_sort*/0, /*name_kana*/"あおぞらえーる");
 INSERT INTO `music_data` VALUES (/*id*/9907, /*name*/"炎の華", /*bpm*/188, /*composer*/"高取ヒデアキ", /*lyricist*/"磯谷佳江", /*sound_offset*/57865, /*sound_length*/22400, /*name_sort*/0, /*name_kana*/"ほのおのはな");
+INSERT INTO `music_data` VALUES (/*id*/9908, /*name*/"LOVE☆ハズカム", /*bpm*/137, /*composer*/"山本真央樹", /*lyricist*/"磯谷佳江", /*sound_offset*/69207, /*sound_length*/37000, /*name_sort*/0, /*name_kana*/"らぶはずかむ");
 INSERT INTO `music_data` VALUES (/*id*/90001, /*name*/"ぴにゃリクエスト", /*bpm*/1, /*composer*/"?", /*lyricist*/"?", /*sound_offset*/0, /*sound_length*/70000, /*name_sort*/0, /*name_kana*/"");
