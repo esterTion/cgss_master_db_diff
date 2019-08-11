@@ -762,3 +762,4 @@ INSERT INTO `card_location` VALUES (/*index*/765, /*text*/"あきらの部屋");
 INSERT INTO `card_location` VALUES (/*index*/766, /*text*/"撮影スポット");
 INSERT INTO `card_location` VALUES (/*index*/767, /*text*/"さくらの家・キッチン");
 INSERT INTO `card_location` VALUES (/*index*/768, /*text*/"キッチン風LIVEセット");
+INSERT INTO `card_location` VALUES (/*index*/769, /*text*/"ホテル・プールサイド");
