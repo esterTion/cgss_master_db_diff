@@ -365,3 +365,4 @@ INSERT INTO `story_category` VALUES (/*id*/381, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/382, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"斉藤洋子 / 水木聖來", /*sub_title*/"斉藤洋子 / 水木聖來", /*disp_order*/98);
 INSERT INTO `story_category` VALUES (/*id*/383, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"バベル", /*sub_title*/"バベル", /*disp_order*/99);
 INSERT INTO `story_category` VALUES (/*id*/384, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"夏恋 -NATSU KOI-", /*sub_title*/"夏恋 -NATSU KOI-", /*disp_order*/100);
+INSERT INTO `story_category` VALUES (/*id*/385, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"comic cosmic", /*sub_title*/"comic cosmic", /*disp_order*/101);
