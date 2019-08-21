@@ -4,3 +4,4 @@ INSERT INTO `lottery_resource` VALUES (/*id*/10002, /*item_id*/5002, /*banner_id
 INSERT INTO `lottery_resource` VALUES (/*id*/10003, /*item_id*/5003, /*banner_id*/100014, /*bg_id*/5912, /*campaign_anim_id*/1, /*result_anim_id*/1, /*campaign_anim_bgm*/"bgm_lottery", /*result_anim_bgm*/"bgm_lottery");
 INSERT INTO `lottery_resource` VALUES (/*id*/10004, /*item_id*/5004, /*banner_id*/100015, /*bg_id*/5912, /*campaign_anim_id*/1, /*result_anim_id*/1, /*campaign_anim_bgm*/"bgm_lottery", /*result_anim_bgm*/"bgm_lottery");
 INSERT INTO `lottery_resource` VALUES (/*id*/10005, /*item_id*/5005, /*banner_id*/100016, /*bg_id*/5912, /*campaign_anim_id*/1, /*result_anim_id*/1, /*campaign_anim_bgm*/"bgm_lottery", /*result_anim_bgm*/"bgm_lottery");
+INSERT INTO `lottery_resource` VALUES (/*id*/10006, /*item_id*/5006, /*banner_id*/100017, /*bg_id*/5912, /*campaign_anim_id*/1, /*result_anim_id*/1, /*campaign_anim_bgm*/"bgm_lottery", /*result_anim_bgm*/"bgm_lottery");

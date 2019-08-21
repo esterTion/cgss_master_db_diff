@@ -1,4 +1,4 @@
-CREATE TABLE 'sp_gacha_draw_num' ('gacha_id' INTEGER NOT NULL, 'draw_id' INTEGER NOT NULL, 'draw_num' INTEGER NOT NULL, PRIMARY KEY('draw_id'));
+CREATE TABLE 'sp_gacha_draw_num' ('gacha_id' INTEGER NOT NULL, 'draw_id' INTEGER NOT NULL, 'draw_num' INTEGER NOT NULL, PRIMARY KEY('gacha_id','draw_id'));
 INSERT INTO `sp_gacha_draw_num` VALUES (/*gacha_id*/1, /*draw_id*/1, /*draw_num*/10);
 INSERT INTO `sp_gacha_draw_num` VALUES (/*gacha_id*/1, /*draw_id*/2, /*draw_num*/20);
 INSERT INTO `sp_gacha_draw_num` VALUES (/*gacha_id*/1, /*draw_id*/3, /*draw_num*/30);
