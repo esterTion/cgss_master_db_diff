@@ -19,3 +19,4 @@ INSERT INTO `gallery_stage_list` VALUES (/*id*/20, /*disp_order*/12, /*disp_name
 INSERT INTO `gallery_stage_list` VALUES (/*id*/21, /*disp_order*/13, /*disp_name*/"ステージ 明日また会えるよね", /*bg_id*/1004, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/22, /*disp_order*/14, /*disp_name*/"ステージ 咲いてJewel", /*bg_id*/2004, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/23, /*disp_order*/15, /*disp_name*/"ステージ きみにいっぱい☆", /*bg_id*/3004, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/24, /*disp_order*/16, /*disp_name*/"ステージ サマカニ ! !", /*bg_id*/4011, /*bg_type*/1, /*left_degree*/96, /*right_degree*/96);
