@@ -162,3 +162,4 @@ INSERT INTO `gift_message` VALUES (/*id*/20030, /*discription*/"「もっと ! �
 INSERT INTO `gift_message` VALUES (/*id*/20031, /*discription*/"「アイドルマスター14周年記念ニコ生～14th Anniversary P@rty!!!!!～」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20032, /*discription*/"「祝4周年 ! プラチナ宝くじ」{0}等当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20033, /*discription*/"「4周年記念!!カウントダウンログインボーナス」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20034, /*discription*/"「4周年記念!!デレステフォトコンテスト!」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

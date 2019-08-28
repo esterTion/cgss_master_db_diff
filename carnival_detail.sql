@@ -1,2 +1,2 @@
 CREATE TABLE 'carnival_detail' ('event_id' INTEGER NOT NULL, 'event_live_id' INTEGER NOT NULL, 'cost_id' INTEGER NOT NULL, 'guest_medal_rate' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, 'story_flag' INTEGER NOT NULL, PRIMARY KEY('event_id'));
-INSERT INTO `carnival_detail` VALUES (/*event_id*/7001, /*event_live_id*/591, /*cost_id*/64001, /*guest_medal_rate*/10, /*start_date*/"2019-07-02 15:00:00", /*end_date*/"2019-07-09 20:59:59", /*story_flag*/1);
+INSERT INTO `carnival_detail` VALUES (/*event_id*/7002, /*event_live_id*/595, /*cost_id*/64002, /*guest_medal_rate*/10, /*start_date*/"2019-08-31 15:00:00", /*end_date*/"2019-09-08 20:59:59", /*story_flag*/1);
