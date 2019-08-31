@@ -366,4 +366,5 @@ INSERT INTO `story_category` VALUES (/*id*/382, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/383, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"バベル", /*sub_title*/"バベル", /*disp_order*/99);
 INSERT INTO `story_category` VALUES (/*id*/384, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"夏恋 -NATSU KOI-", /*sub_title*/"夏恋 -NATSU KOI-", /*disp_order*/100);
 INSERT INTO `story_category` VALUES (/*id*/385, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"comic cosmic", /*sub_title*/"comic cosmic", /*disp_order*/101);
+INSERT INTO `story_category` VALUES (/*id*/386, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"TRUE COLORS", /*sub_title*/"TRUE COLORS", /*disp_order*/102);
 INSERT INTO `story_category` VALUES (/*id*/387, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"7thLIVE連動企画", /*sub_title*/"7thLIVE連動企画", /*disp_order*/10);

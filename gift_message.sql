@@ -58,6 +58,7 @@ INSERT INTO `gift_message` VALUES (/*id*/74, /*discription*/"営業コミュ「{
 INSERT INTO `gift_message` VALUES (/*id*/75, /*discription*/"{0}で購入したアイテムです。", /*type_1*/37, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/76, /*discription*/"「{0}」で獲得した報酬です。", /*type_1*/38, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/77, /*discription*/"{0}で獲得したアイテムです。", /*type_1*/37, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/78, /*discription*/"「{0}」で加入したアイドルです。", /*type_1*/38, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1001, /*discription*/"イベント「{0}」{1}イベントpt達成報酬です。", /*type_1*/19, /*type_2*/20, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1002, /*discription*/"イベント「{0}」ポイントランキング{1}位～{2}位で獲得した報酬です。", /*type_1*/19, /*type_2*/21, /*type_3*/22, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1003, /*discription*/"イベント「{0}」ハイスコアランキング{1}位～{2}位で獲得した報酬です。", /*type_1*/19, /*type_2*/23, /*type_3*/24, /*type_4*/0);
@@ -160,6 +161,6 @@ INSERT INTO `gift_message` VALUES (/*id*/20028, /*discription*/"「ゆくM@S く
 INSERT INTO `gift_message` VALUES (/*id*/20029, /*discription*/"「乃々を探せ ! レベル41 ! ～ののと不思議な絵本～」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20030, /*discription*/"「もっと ! デレステ☆NIGHT」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20031, /*discription*/"「アイドルマスター14周年記念ニコ生～14th Anniversary P@rty!!!!!～」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/20032, /*discription*/"「祝4周年 ! プラチナ宝くじ」{0}等当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20032, /*discription*/"「祝4周年 ! プラチナチャンス」{0}等当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20033, /*discription*/"「4周年記念!!カウントダウンログインボーナス」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20034, /*discription*/"「4周年記念!!デレステフォトコンテスト!」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

@@ -81,7 +81,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/"既に所持しているルームアイテムがコーデに含まれる場合、\nそのルームアイテムは購入されず、コーデの販売価格から\n差し引かれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/"購入したコーデはレイアウトの「テーマ」に保存され、\nいつでも自由に配置することができます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"棟方愛海がカバーする「全力☆Summer!」を\nサウンドブースで販売開始しました !\n※本楽曲のLIVE演出は、2D標準・2D軽量のみとなります\n※PLvが10以上になると購入できます");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"ニコニコ生放送「デレステNIGHT★×28」にて、\n制作が決定した「アフレコ体験セット」が登場 ! !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"楽曲「TRUE COLORS」の公開を記念して、\n「衣装スタンド/レインボー・カラーズ」をルームショップに追加しました !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -146,6 +146,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30010, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30011, /*img*/1, /*discription*/"LIVEに新モード「GRAND LIVE」を追加しました。\n最大15人のアイドルがパフォーマンスする、\n華やかなLIVEが楽しめます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30011, /*img*/2, /*discription*/"リズムゲームには新たな難易度「PIANO」「FORTE」が登場。\nタップ・フリック・スライド、3種のアイコンによる\n直感的な操作感はそのままに、リズムアイコンの幅が変化する、\nダイナミックなLIVEがプレイできます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30011, /*img*/2, /*discription*/"「GRAND LIVE」では、3ユニット15人を同時に編成してプレイします。\nアイドルの「センター効果」は各ユニット内に対してのみ適用され、\n「特技」の発動間隔は通常の 3倍 となります。\nまた、ゲストアイドルの参戦はありません。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30012, /*img*/1, /*discription*/"ユニット確認画面で、画面右上の「LIVE設定」ボタンから\nGRAND LIVEの設定をカスタマイズできます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30012, /*img*/1, /*discription*/"リズムアイコンのデザインや、フリックアイコンの\nアニメーション設定なども変更できますので、\n自分に合ったスタイルに調整してみましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「LIVE Carnival開催直前 ! 強化合宿限定\nスペシャルLIVEキャンペーン」開催中 ! !\n期間中にクリアしたLIVEでは、期間限定のアイテムと\n今まで出現した限定トレチケを獲得できます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「LIVE Carnival開催直前 ! 強化合宿限定\n特訓支援キャンペーン」開催中 ! ! 強化合宿キャンペーン中は、\nLIVE成功時のティアラと魔法のドレスのドロップ率が\nさらにアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
@@ -437,7 +439,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90128, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90128, /*img*/3, /*discription*/"消費するスタミナは、「1」単位で選択できます。\nスタミナ「1」消費につき営業時間が「15分」短縮されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90128, /*img*/4, /*discription*/"営業結果確認画面から同じ営業への再出発が\n行えるようになりました !\n再出発時に編成を変更することもできます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90129, /*img*/1, /*discription*/"9/3 15:00より、ルーム内のメニューに「アイドル編成」ボタンを追加 !\nルーム登場アイドルを直接編成できるようになりました !\n他にもいろいろなアップデートがありますので、\nルームまで確認に来てくださいね !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/1, /*discription*/"本キャンペーンは宝くじ獲得可能期間に「宝くじチケット」を\n集めることで参加できます ! 獲得可能期間終了後に\n獲得した「宝くじチケット」毎に景品の抽選を行います。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/1, /*discription*/"本キャンペーンは期間中に「チャンスチケット」を\n集めることで参加できます ! 獲得可能期間終了後に\n獲得した「チャンスチケット」毎に景品の抽選を行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/2, /*discription*/"抽選の結果によって、「スカウトチケット」など豪華景品を\nGETできます ! ※1等から8等までは抽選条件があります。\n詳しくはヘルプをご覧ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90202, /*img*/1, /*discription*/"本キャンペーンは宝くじ獲得可能期間に「宝くじチケット」を\n集めることで参加できます ! 獲得可能期間終了後に\n獲得した「宝くじチケット」毎に景品の抽選を行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90202, /*img*/2, /*discription*/"抽選の結果によって、「スカウトチケット」など豪華景品を\nGETできます ! ※1等から8等までは抽選条件があります。\n詳しくはヘルプをご覧ください。");
