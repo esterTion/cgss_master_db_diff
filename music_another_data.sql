@@ -1,0 +1,11 @@
+CREATE TABLE 'music_another_data' ('music_id' TEXT NOT NULL, 'name' TEXT NOT NULL, 'type' INTEGER NOT NULL, 'music_data_id' INTEGER NOT NULL, PRIMARY KEY('music_id'));
+INSERT INTO `music_another_data` VALUES (/*music_id*/"1018_another", /*name*/"ゴキゲンParty Night（EVENT VERSION）", /*type*/4, /*music_data_id*/1019);
+INSERT INTO `music_another_data` VALUES (/*music_id*/"1032_another", /*name*/"Take me☆Take you（EVENT VERSION）", /*type*/4, /*music_data_id*/1031);
+INSERT INTO `music_another_data` VALUES (/*music_id*/"1038_another", /*name*/"キミのそばでずっと（EVENT VERSION）", /*type*/4, /*music_data_id*/1033);
+INSERT INTO `music_another_data` VALUES (/*music_id*/"1047_another", /*name*/"恋が咲く季節（EVENT VERSION）", /*type*/4, /*music_data_id*/1036);
+INSERT INTO `music_another_data` VALUES (/*music_id*/"1048_another", /*name*/"always（EVENT VERSION）", /*type*/4, /*music_data_id*/1040);
+INSERT INTO `music_another_data` VALUES (/*music_id*/"1201_call", /*name*/"お願い ! シンデレラ（GRAND CHEER VERSION）", /*type*/4, /*music_data_id*/1201);
+INSERT INTO `music_another_data` VALUES (/*music_id*/"1903_another", /*name*/"きらりんロボのテーマ（SE VERSION）", /*type*/4, /*music_data_id*/1903);
+INSERT INTO `music_another_data` VALUES (/*music_id*/"1904_another", /*name*/"∀NSWER ～ののの物語～（VOCAL VERSION）", /*type*/4, /*music_data_id*/1904);
+INSERT INTO `music_another_data` VALUES (/*music_id*/"9021_another", /*name*/"ガールズ・イン・ザ・フロンティア（EVENT VERSION）", /*type*/4, /*music_data_id*/9018);
+INSERT INTO `music_another_data` VALUES (/*music_id*/"9902_another", /*name*/"Yes! Party Time!!（EVENT VERSION）", /*type*/4, /*music_data_id*/9901);

@@ -1,0 +1,11 @@
+CREATE TABLE 'playlist_jacket' ('id' INTEGER NOT NULL, 'jacket_id' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `playlist_jacket` VALUES (/*id*/1, /*jacket_id*/99001);
+INSERT INTO `playlist_jacket` VALUES (/*id*/2, /*jacket_id*/99002);
+INSERT INTO `playlist_jacket` VALUES (/*id*/3, /*jacket_id*/99003);
+INSERT INTO `playlist_jacket` VALUES (/*id*/4, /*jacket_id*/99004);
+INSERT INTO `playlist_jacket` VALUES (/*id*/5, /*jacket_id*/99005);
+INSERT INTO `playlist_jacket` VALUES (/*id*/6, /*jacket_id*/99006);
+INSERT INTO `playlist_jacket` VALUES (/*id*/7, /*jacket_id*/99007);
+INSERT INTO `playlist_jacket` VALUES (/*id*/8, /*jacket_id*/99008);
+INSERT INTO `playlist_jacket` VALUES (/*id*/9, /*jacket_id*/99009);
+INSERT INTO `playlist_jacket` VALUES (/*id*/10, /*jacket_id*/99010);

@@ -83,7 +83,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20012, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/"レイアウト済みのルームアイテムがセットになった\n「コーデ」をルームショップにて販売開始 !\n購入した「コーデ」はそのまま配置することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/1, /*discription*/"既に所持しているルームアイテムがコーデに含まれる場合、\nそのルームアイテムは購入されず、コーデの販売価格から\n差し引かれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/"購入したコーデはレイアウトの「テーマ」に保存され、\nいつでも自由に配置することができます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"棟方愛海がカバーする「全力☆Summer!」を\nサウンドブースで販売開始しました !\n※本楽曲のLIVE演出は、2D標準・2D軽量のみとなります\n※PLvが10以上になると購入できます");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ルームショップにて、「4周年記念特番」を\nテーマにしたアイテムとコーデを追加 !\n特設スタジオから笑顔を届けましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"過去に期間限定で販売していた\nルームアイテムを復刻販売中 !\n復刻販売のラインナップは毎週変わります ! !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"楽曲「TRUE COLORS」の公開を記念して、\n「衣装スタンド/レインボー・カラーズ」をルームショップに追加しました !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");

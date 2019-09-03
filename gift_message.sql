@@ -164,3 +164,4 @@ INSERT INTO `gift_message` VALUES (/*id*/20031, /*discription*/"「アイドル�
 INSERT INTO `gift_message` VALUES (/*id*/20032, /*discription*/"「祝4周年 ! プラチナチャンス」{0}等当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20033, /*discription*/"「4周年記念!!カウントダウンログインボーナス」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20034, /*discription*/"Twitterキャンペーン開催記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20035, /*discription*/"「7thLIVE連動キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

@@ -1,0 +1,10 @@
+CREATE TABLE 'album' ('album_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'category_id' INTEGER NOT NULL, PRIMARY KEY('album_id'));
+INSERT INTO `album` VALUES (/*album_id*/1, /*name*/"お願い ! シンデレラ", /*category_id*/1);
+INSERT INTO `album` VALUES (/*album_id*/2, /*name*/"CINDERELLA GIRLS", /*category_id*/1);
+INSERT INTO `album` VALUES (/*album_id*/3, /*name*/"STARLIGHT STAGE", /*category_id*/1);
+INSERT INTO `album` VALUES (/*album_id*/4, /*name*/"Solo Tracks", /*category_id*/1);
+INSERT INTO `album` VALUES (/*album_id*/5, /*name*/"from Animation", /*category_id*/1);
+INSERT INTO `album` VALUES (/*album_id*/6, /*name*/"ReArrange&ReMix", /*category_id*/1);
+INSERT INTO `album` VALUES (/*album_id*/7, /*name*/"Special Tracks", /*category_id*/1);
+INSERT INTO `album` VALUES (/*album_id*/8, /*name*/"STARLIGHT STAGE BGM", /*category_id*/2);
+INSERT INTO `album` VALUES (/*album_id*/9, /*name*/"Arrange BGM", /*category_id*/2);
