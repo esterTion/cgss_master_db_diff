@@ -582,6 +582,7 @@ INSERT INTO `text_data` VALUES (/*category*/12, /*index*/65, /*text*/"最終確�
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/66, /*text*/"スタージュエル");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/70, /*text*/"閉じる");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/71, /*text*/"※プレミアムカットが解放されていないSSレアアイドルが登場した場合、\n　[D33D98]{2}[-]%の割合でプレミアムカットが解放されたアイドルとして登場します。");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/72, /*text*/"{0}\nスカウトへ");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/1, /*text*/"エクストラコミュ解放");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/2, /*text*/"新たなエクストラコミュが解放されました");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/3, /*text*/"事務所");
@@ -640,7 +641,16 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/30, /*text*/"ユニッ�
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/31, /*text*/"ユニットC");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/32, /*text*/" ユニットが15人未満のため、LIVEを開始できません\n15人のユニットを編成してください");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/33, /*text*/"このユニットを{0}にセットします");
-INSERT INTO `text_data` VALUES (/*category*/14, /*index*/34, /*text*/"PRP（プロデューサーレーティングポイント）とは、\nあなたのプロデューサーとしての手腕を示す指標です。\n\n楽曲毎に、LIVEで達成した\nSCOREに応じて「楽曲PRP」が記録され、\nWIDE LIVE 上位10曲\nGRAND LIVE 上位3曲\nSMART LIVE 上位3曲\n計16曲分の合計が、現在の「PRP」となります。\n\nPRP達成報酬を目指して、\nリズムゲームの腕を磨きましょう。\nユニットのアピール値も重要になりますから、\nアイドル達のレッスンも忘れずに !");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/34, /*text*/"PRP（プロデューサーレーティングポイント）とは、\nあなたのプロデューサーとしての手腕を示す指標です。\n\n楽曲毎に、LIVEで達成した\nSCOREに応じて「楽曲PRP」が記録され、\nWIDE LIVE 上位10曲\nGRAND LIVE 上位3曲\nSMART LIVE 上位3曲\n計16曲分の合計が、現在の「PRP」となります。\n\nPRP達成報酬を目指して、\nリズムゲームの腕を磨きましょう。\nユニットのアピール値も重要になりますから、\nアイドル達のレッスンも忘れずに ! ");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/35, /*text*/" ");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/36, /*text*/" ");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/37, /*text*/" ");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/38, /*text*/" ");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/39, /*text*/" ");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/40, /*text*/" ");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/41, /*text*/" ");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/42, /*text*/" ");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/43, /*text*/" ");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/1, /*text*/"月間獲得ファン数ランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/2, /*text*/"今期のランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/3, /*text*/"前期のランキング");
@@ -1987,8 +1997,8 @@ INSERT INTO `text_data` VALUES (/*category*/48, /*index*/306, /*text*/"センタ
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/307, /*text*/"アナザーコミュ");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/308, /*text*/"？？？");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/309, /*text*/"アナザーコミュ解放");
-INSERT INTO `text_data` VALUES (/*category*/48, /*index*/310, /*text*/"カーニバルメダルを[D33D98]{0}[-]枚使用して\nコミュを解放しますか？");
-INSERT INTO `text_data` VALUES (/*category*/48, /*index*/311, /*text*/"[E13939]{0}[FFFFFF]枚");
+INSERT INTO `text_data` VALUES (/*category*/48, /*index*/310, /*text*/"カーニバルメダルを[D33D98]{0}[-]個使用して\nコミュを解放しますか？");
+INSERT INTO `text_data` VALUES (/*category*/48, /*index*/311, /*text*/"[E13939]{0}[FFFFFF]個");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/312, /*text*/"[E13939]カーニバルメダルが不足しています[FFFFFF]");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/401, /*text*/"ちひろ");
 INSERT INTO `text_data` VALUES (/*category*/49, /*index*/1, /*text*/"ガシャ設定");
