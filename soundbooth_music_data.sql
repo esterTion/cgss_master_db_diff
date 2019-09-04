@@ -18,7 +18,7 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100016, /*name*/"コミ�
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100017, /*name*/"コミュ ～job", /*album_id*/8, /*jacket_id*/100001, /*sort*/17);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100018, /*name*/"コミュ ～horror", /*album_id*/8, /*jacket_id*/100001, /*sort*/18);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100019, /*name*/"コミュ ～tension", /*album_id*/8, /*jacket_id*/100001, /*sort*/19);
-INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100020, /*name*/"コミュ ～suuccess", /*album_id*/8, /*jacket_id*/100001, /*sort*/20);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100020, /*name*/"コミュ ～success", /*album_id*/8, /*jacket_id*/100001, /*sort*/20);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100021, /*name*/"営業メニュー", /*album_id*/8, /*jacket_id*/100001, /*sort*/21);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100022, /*name*/"営業成功 !", /*album_id*/8, /*jacket_id*/100001, /*sort*/22);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100023, /*name*/"ルーム ～evening", /*album_id*/8, /*jacket_id*/100001, /*sort*/23);
@@ -71,7 +71,7 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200023, /*name*/"Jet to 
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200024, /*name*/"あいくるしい（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/24);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200025, /*name*/"Flip Flop（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/25);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200026, /*name*/"EVERMORE（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/26);
-INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200027, /*name*/"あんきら ! ？協奏曲（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/27);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200027, /*name*/"あんきら ! ？狂騒曲（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/27);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200028, /*name*/"命燃やして恋せよ乙女（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/28);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200029, /*name*/"Lunatic show（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/29);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200030, /*name*/"Sweet Witches' Night ～6人目はだぁれ～（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/30);
