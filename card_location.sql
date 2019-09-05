@@ -765,6 +765,10 @@ INSERT INTO `card_location` VALUES (/*index*/768, /*text*/"キッチン風LIVE�
 INSERT INTO `card_location` VALUES (/*index*/769, /*text*/"ホテル・プールサイド");
 INSERT INTO `card_location` VALUES (/*index*/770, /*text*/"森");
 INSERT INTO `card_location` VALUES (/*index*/771, /*text*/"房総の海");
+INSERT INTO `card_location` VALUES (/*index*/772, /*text*/"廃墟の教会");
+INSERT INTO `card_location` VALUES (/*index*/773, /*text*/"野外セット");
+INSERT INTO `card_location` VALUES (/*index*/774, /*text*/"パーティー会場・バルコニー");
+INSERT INTO `card_location` VALUES (/*index*/775, /*text*/"屋外ステージ");
 INSERT INTO `card_location` VALUES (/*index*/776, /*text*/"更衣室");
 INSERT INTO `card_location` VALUES (/*index*/777, /*text*/"ふたりで過ごす浜辺");
 INSERT INTO `card_location` VALUES (/*index*/778, /*text*/"ベルギーの街並み");
