@@ -774,3 +774,5 @@ INSERT INTO `card_location` VALUES (/*index*/777, /*text*/"ふたりで過ごす
 INSERT INTO `card_location` VALUES (/*index*/778, /*text*/"ベルギーの街並み");
 INSERT INTO `card_location` VALUES (/*index*/779, /*text*/"デンマークの噴水広場");
 INSERT INTO `card_location` VALUES (/*index*/780, /*text*/"夜の浜辺");
+INSERT INTO `card_location` VALUES (/*index*/781, /*text*/"歩道");
+INSERT INTO `card_location` VALUES (/*index*/782, /*text*/"幼稚園");
