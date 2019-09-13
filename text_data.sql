@@ -583,6 +583,11 @@ INSERT INTO `text_data` VALUES (/*category*/12, /*index*/66, /*text*/"スター�
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/70, /*text*/"閉じる");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/71, /*text*/"※プレミアムカットが解放されていないSSレアアイドルが登場した場合、\n　[D33D98]{2}[-]%の割合でプレミアムカットが解放されたアイドルとして登場します。");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/72, /*text*/"{0}\nスカウトへ");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/73, /*text*/"全て選択");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/80, /*text*/"アイドル詳細");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/81, /*text*/"ガシャへ");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/83, /*text*/"※[D33D98]{0}[-]%の割合で、プレミアムカットのアイドルとして登場します。");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/84, /*text*/"使用期限終了まで{0}");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/1, /*text*/"エクストラコミュ解放");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/2, /*text*/"新たなエクストラコミュが解放されました");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/3, /*text*/"事務所");
@@ -1313,6 +1318,7 @@ INSERT INTO `text_data` VALUES (/*category*/26, /*index*/38, /*text*/"アイド�
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/39, /*text*/"OFF");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/40, /*text*/"ON");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/41, /*text*/"端末のライト点灯");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/42, /*text*/"ARスタジオの起動には\nカメラ使用の許可が必要です。\n【アプリ設定】の「権限」から\nカメラ使用の許可をお願いします。");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/1, /*text*/"LIVEへ");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/2, /*text*/"{0}マス");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/3, /*text*/"チケットを\n使用する");

@@ -16,6 +16,7 @@ INSERT INTO `index_leader_skill_data` VALUES (/*id*/14, /*name*/"トリコロー
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/15, /*name*/"トリコロール\nアビリティ", /*skill_id*/73, /*disp_order*/13, /*start_date*/"2019-02-26 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/16, /*name*/"キュート・クロス・クール", /*skill_id*/89, /*disp_order*/16, /*start_date*/"2019-07-12 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/19, /*name*/"クール・クロス・パッション", /*skill_id*/92, /*disp_order*/19, /*start_date*/"2019-05-17 15:00:00", /*end_date*/"2099-12-31 23:59:59");
+INSERT INTO `index_leader_skill_data` VALUES (/*id*/20, /*name*/"パッション・クロス・キュート", /*skill_id*/93, /*disp_order*/20, /*start_date*/"2019-09-13 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/21, /*name*/"パッション・クロス・クール", /*skill_id*/94, /*disp_order*/21, /*start_date*/"2019-05-17 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/22, /*name*/"ユニゾン", /*skill_id*/"101,102,103", /*disp_order*/22, /*start_date*/"2019-07-04 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/23, /*name*/"レゾナンス\nボイス", /*skill_id*/104, /*disp_order*/23, /*start_date*/"2019-08-31 15:00:00", /*end_date*/"2099-12-31 23:59:59");

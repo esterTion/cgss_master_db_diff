@@ -193,6 +193,11 @@ INSERT INTO `music_info` VALUES (/*id*/8013, /*discription*/"LIFE（フジファ
 INSERT INTO `music_info` VALUES (/*id*/8014, /*discription*/"♡桃色片想い♡（松浦亜弥）\n\n櫻井桃華（CV：照井春佳）\n\n\n作詞・作曲：つんく", /*android_url*/"https://columbia.jp/sl-stage/haishin/COCX-39651_02.html", /*ios_url*/"https://columbia.jp/sl-stage/haishin/COCX-39651_02.html");
 INSERT INTO `music_info` VALUES (/*id*/8015, /*discription*/"Hello Especially（スキマスイッチ）\n\n川島瑞樹（CV：東山奈央）\n\n\n作詞・作曲：スキマスイッチ", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8016, /*discription*/"全力☆Summer!（angela）\n\n棟方愛海（CV：藤本彩花）\n\n\n作詞：atsuko\n作曲：atsuko・KATSU", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/8018, /*discription*/"紅（X）\n\n星輝子（CV：松田颯水）\n\n\n作詞・作曲：YOSHIKI", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/8019, /*discription*/"ハミングがきこえる（カヒミ・カリィ）\n\n緒方智絵里（CV：大空直美）\n\n\n作詞：さくらももこ\n作曲：小山田圭吾", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/8020, /*discription*/"はじめてのチュウ（あんしんパパ）\n\n赤城みりあ（CV：黒沢ともよ）\n\n\n作詞・作曲：実川俊晴", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/8022, /*discription*/"YELLOW YELLOW HAPPY（ポケットビスケッツ）\n\n水本ゆかり（CV：藤田茜）\n中野有香（CV：下地紫野）\n椎名法子（CV：都丸ちよ）\n\n\n作詞：CHIAKI&ポケットビスケッツ\n作曲：パッパラー河合", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/8023, /*discription*/"HIGH PRESSURE（T.M.Revolution）\n\n大和亜季（CV：村中知）\n\n\n作詞：井上秋緒\n作曲：浅倉大介", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/9001, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n双葉杏（CV：五十嵐裕美）\n諸星きらり（CV：松嵜麗）\n\n\n作詞：marhy\n作曲・編曲：BNSI（内田哲也）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/9002, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n大槻唯（CV：山下七海）\n上条春菜（CV：長島光那）\n\n\n作詞：俊龍\n作曲：俊龍\n編曲：Sizuk", /*android_url*/"http://columbia.jp/sl-stage/haishin/COCC-17141.html", /*ios_url*/"http://columbia.jp/sl-stage/haishin/COCC-17141.html");
 INSERT INTO `music_info` VALUES (/*id*/9003, /*discription*/"速水奏（CV：飯田友子）\n塩見周子（CV：ルゥ ティン）\n城ヶ崎美嘉（CV：佳村はるか）\n宮本フレデリカ（CV：高野麻美）\n一ノ瀬志希（CV：藍原ことみ）\n\n\n作詞：森由⾥⼦\n作曲・編曲：石濱翔（MONACA）", /*android_url*/"http://columbia.jp/sl-stage/haishin/COCC-17142.html", /*ios_url*/"http://columbia.jp/sl-stage/haishin/COCC-17142.html");
