@@ -2146,6 +2146,7 @@ INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/701, /*text*/"音量
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/800, /*text*/"既にデレステ連携設定済みです\n[{0}]");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/801, /*text*/"データ連携エラー");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/802, /*text*/"データ連携でエラーが発生しました\nお手数ですが、再度連携をお試しください");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/803, /*text*/"通信エラーが発生したため\nホームへ戻ります");
 INSERT INTO `text_data` VALUES (/*category*/10003, /*index*/1, /*text*/"外部サイトに接続します\n楽曲配信情報サイトへ移動してもよろしいですか？");
 INSERT INTO `text_data` VALUES (/*category*/10003, /*index*/10, /*text*/"（{0} VERSION）");
 INSERT INTO `text_data` VALUES (/*category*/10003, /*index*/11, /*text*/"{0}（CV：{1}）");
