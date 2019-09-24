@@ -784,3 +784,6 @@ INSERT INTO `card_location` VALUES (/*index*/787, /*text*/"撮影セット・風
 INSERT INTO `card_location` VALUES (/*index*/788, /*text*/"ミリタリーショップ");
 INSERT INTO `card_location` VALUES (/*index*/789, /*text*/"サバゲ―フィールド");
 INSERT INTO `card_location` VALUES (/*index*/790, /*text*/"奈落の底");
+INSERT INTO `card_location` VALUES (/*index*/791, /*text*/"ドッグサロン");
+INSERT INTO `card_location` VALUES (/*index*/792, /*text*/"野外フェス会場");
+INSERT INTO `card_location` VALUES (/*index*/793, /*text*/"高原");

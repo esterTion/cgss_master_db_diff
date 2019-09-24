@@ -86,7 +86,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"アイドルたちがカバーする楽曲を5曲サウンドブースで販売開始 !\n「YELLOW YELLOW HAPPY」と「HIGH PRESSURE」が\n新たに登場 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"jewelries SERIESから、「ハミングがきこえる」\n「紅」「はじめてのチュウ」を追加しました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"追加された楽曲のLIVE演出は、\n2D標準・2D軽量のみとなります。\n※楽曲はPLvが10以上になると購入できます");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"本田未央が歌う「ステップ !」をサウンドブースに追加 !\n購入するとLIVEでプレイできるようになります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"アイドルたちがカバーする楽曲を5曲サウンドブースで販売開始 !\n「風になりたい」「君の青春は輝いているか」\n「RAGE OF DUST」が新たに登場 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"jewelries SERIESから、「亜麻色の髪の乙女」\n「大きな古時計」を追加しました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"追加された楽曲のLIVE演出は、\n2D標準・2D軽量のみとなります。\n※楽曲はPLvが10以上になると購入できます");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -467,6 +469,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90140, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90141, /*img*/1, /*discription*/"現在抽選結果を発表中です。\n配布期間中にチャンスチケットを獲得した方は\n抽選結果を確認しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90142, /*img*/1, /*discription*/"第1弾の5曲が発表されました !\n第1弾は9/13 15:00に追加予定です !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90143, /*img*/1, /*discription*/"第1弾の楽曲をサウンドブースに追加しました !\n第2弾は9/24 15:00に追加予定です !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90144, /*img*/1, /*discription*/"全10曲のカバー曲をサウンドブースに追加しました !\nアイドルたちがカバーする数々の名曲を\n是非プレイしてみてください !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90145, /*img*/1, /*discription*/"第2弾のカバー曲が発表されました !\nこちらの5曲は9/24 15:00に追加予定です !\n※第1弾はサウンドブースにて購入できます");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/1, /*discription*/"本キャンペーンは期間中に「チャンスチケット」を\n集めることで参加できます ! 獲得可能期間終了後に\n獲得した「チャンスチケット」毎に景品の抽選を行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/2, /*discription*/"抽選の結果によって、「スカウトチケット」など豪華景品を\nGETできます ! ※1等から8等までは抽選条件があります。\n詳しくはヘルプをご覧ください。");
