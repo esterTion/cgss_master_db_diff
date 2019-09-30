@@ -370,3 +370,4 @@ INSERT INTO `story_category` VALUES (/*id*/386, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/387, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"7thLIVE連動企画", /*sub_title*/"7thLIVE連動企画", /*disp_order*/10);
 INSERT INTO `story_category` VALUES (/*id*/388, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"財前時子 / 大原みちる", /*sub_title*/"財前時子 / 大原みちる", /*disp_order*/103);
 INSERT INTO `story_category` VALUES (/*id*/389, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ステップ＆スキップ", /*sub_title*/"ステップ＆スキップ", /*disp_order*/104);
+INSERT INTO `story_category` VALUES (/*id*/390, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Gossip Club", /*sub_title*/"Gossip Club", /*disp_order*/105);
