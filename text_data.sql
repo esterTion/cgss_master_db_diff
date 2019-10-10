@@ -2003,7 +2003,7 @@ INSERT INTO `text_data` VALUES (/*category*/48, /*index*/103, /*text*/"BOOTH{0}�
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/104, /*text*/"{0}BOOTHの楽曲を選択してください");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/105, /*text*/"ユニットに編成していないアイドルがいます。\nランダムでアイドルが選ばれ、LIVEを開始します");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/106, /*text*/"テンションメーター");
-INSERT INTO `text_data` VALUES (/*category*/48, /*index*/107, /*text*/"会場の盛り上がりを表しているメーター。\n\LIVE回数に応じてボーナスが増えます。\n\n現在は VoltagePoint [D33D98]{0}[-]%アップ !");
+INSERT INTO `text_data` VALUES (/*category*/48, /*index*/107, /*text*/"会場の盛り上がりを表しているメーター。\nLIVE回数に応じてボーナスが増えます。\n\n現在は VoltagePoint [D33D98]{0}[-]%アップ !");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/108, /*text*/"ユニット未編成確認");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/109, /*text*/"Rank到達報酬獲得");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/110, /*text*/"CarnivalRank到達報酬を獲得しました。");

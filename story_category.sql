@@ -268,7 +268,7 @@ INSERT INTO `story_category` VALUES (/*id*/283, /*type*/4, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/284, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"shabon song", /*sub_title*/"shabon song", /*disp_order*/34);
 INSERT INTO `story_category` VALUES (/*id*/285, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Nocturne", /*sub_title*/"Nocturne", /*disp_order*/35);
 INSERT INTO `story_category` VALUES (/*id*/286, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Nothing but You", /*sub_title*/"Nothing but You", /*disp_order*/36);
-INSERT INTO `story_category` VALUES (/*id*/287, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第45話", /*sub_title*/"Kawaii or Lesson ？", /*disp_order*/246);
+INSERT INTO `story_category` VALUES (/*id*/287, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第45話", /*sub_title*/"Kawaii or Lesson？", /*disp_order*/246);
 INSERT INTO `story_category` VALUES (/*id*/288, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第46話", /*sub_title*/"Stay by my side", /*disp_order*/247);
 INSERT INTO `story_category` VALUES (/*id*/289, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第47話", /*sub_title*/"A very merry usual day", /*disp_order*/248);
 INSERT INTO `story_category` VALUES (/*id*/290, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第48話", /*sub_title*/"The heart of growing flowers", /*disp_order*/249);
@@ -281,7 +281,8 @@ INSERT INTO `story_category` VALUES (/*id*/296, /*type*/1, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/297, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第55話", /*sub_title*/"UNLUCKY,but never plucked", /*disp_order*/256);
 INSERT INTO `story_category` VALUES (/*id*/298, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第56話", /*sub_title*/"Pride bout", /*disp_order*/257);
 INSERT INTO `story_category` VALUES (/*id*/299, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第57話", /*sub_title*/"Love goes around", /*disp_order*/258);
-INSERT INTO `story_category` VALUES (/*id*/300, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第58話", /*sub_title*/"coming soon", /*disp_order*/259);
+INSERT INTO `story_category` VALUES (/*id*/300, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第58話", /*sub_title*/"What is Sweetie？", /*disp_order*/259);
+INSERT INTO `story_category` VALUES (/*id*/301, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第59話", /*sub_title*/"coming soon", /*disp_order*/260);
 INSERT INTO `story_category` VALUES (/*id*/302, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"モーレツ★世直しギルティ ! ", /*sub_title*/"モーレツ★世直しギルティ ! ", /*disp_order*/37);
 INSERT INTO `story_category` VALUES (/*id*/303, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"With Love", /*sub_title*/"With Love", /*disp_order*/38);
 INSERT INTO `story_category` VALUES (/*id*/304, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Yes ! Party Time ! ! ", /*sub_title*/"Yes ! Party Time ! ! ", /*disp_order*/39);
