@@ -793,3 +793,9 @@ INSERT INTO `card_location` VALUES (/*index*/796, /*text*/"撮影セット・ね
 INSERT INTO `card_location` VALUES (/*index*/797, /*text*/"ホテルの部屋");
 INSERT INTO `card_location` VALUES (/*index*/798, /*text*/"沖縄・雑貨店");
 INSERT INTO `card_location` VALUES (/*index*/799, /*text*/"ナイトプール");
+INSERT INTO `card_location` VALUES (/*index*/800, /*text*/"校舎の屋上・夜");
+INSERT INTO `card_location` VALUES (/*index*/801, /*text*/"女子寮の前・早朝");
+INSERT INTO `card_location` VALUES (/*index*/802, /*text*/"花畑LIVEステージ");
+INSERT INTO `card_location` VALUES (/*index*/803, /*text*/"キャンプ場");
+INSERT INTO `card_location` VALUES (/*index*/804, /*text*/"屋外のランウェイ");
+INSERT INTO `card_location` VALUES (/*index*/805, /*text*/"公園・噴水前");
