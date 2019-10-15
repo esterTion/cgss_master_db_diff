@@ -91,9 +91,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/"ルームアイテムの並べ替えを行うことができます。\n「追加順」、「必要面積順」など並べ替え条件を選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーを\n倉庫収納数から除外しました。\n収納していても、収納数にカウントされなくなりました。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"アイドルたちがカバーする楽曲を5曲サウンドブースで販売開始 !\n「YELLOW YELLOW HAPPY」と「HIGH PRESSURE」が\n新たに登場 !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"jewelries SERIESから、「ハミングがきこえる」\n「紅」「はじめてのチュウ」を追加しました !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"追加された楽曲のLIVE演出は、\n2D標準・2D軽量のみとなります。\n※楽曲はPLvが10以上になると購入できます");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ニコニコ生放送「もっと ! デレステ☆NIGHT」にて制作が決定した\n「ミステリアスアイス」が登場 ! !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"アイドルたちがカバーする楽曲を5曲サウンドブースで販売開始 !\n「風になりたい」「君の青春は輝いているか」\n「RAGE OF DUST」が新たに登場 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"jewelries SERIESから、「亜麻色の髪の乙女」\n「大きな古時計」を追加しました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"追加された楽曲のLIVE演出は、\n2D標準・2D軽量のみとなります。\n※楽曲はPLvが10以上になると購入できます");
