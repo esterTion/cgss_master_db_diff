@@ -802,3 +802,5 @@ INSERT INTO `card_location` VALUES (/*index*/805, /*text*/"公園・噴水前");
 INSERT INTO `card_location` VALUES (/*index*/806, /*text*/"文化祭・お笑いコンテスト");
 INSERT INTO `card_location` VALUES (/*index*/807, /*text*/"仁美の部屋");
 INSERT INTO `card_location` VALUES (/*index*/808, /*text*/"夏樹の部屋");
+INSERT INTO `card_location` VALUES (/*index*/809, /*text*/"レッスンスタジオ");
+INSERT INTO `card_location` VALUES (/*index*/810, /*text*/"ハロウィンの撮影セット");

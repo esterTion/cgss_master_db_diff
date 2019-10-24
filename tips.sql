@@ -463,6 +463,12 @@ INSERT INTO `tips` VALUES (/*id*/461, /*tips_type*/1, /*value*/156, /*index*/3, 
 INSERT INTO `tips` VALUES (/*id*/462, /*tips_type*/1, /*value*/247, /*index*/3, /*title*/"姫川友紀のウワサ③", /*comment*/"野球中継を見ていると\nつい実況してしまうらしい。");
 INSERT INTO `tips` VALUES (/*id*/463, /*tips_type*/1, /*value*/296, /*index*/3, /*title*/"冴島清美のウワサ③", /*comment*/"自作の風紀委員唱歌が\nあるらしい。");
 INSERT INTO `tips` VALUES (/*id*/464, /*tips_type*/1, /*value*/205, /*index*/3, /*title*/"佐城雪美のウワサ③", /*comment*/"猫舌らしい。");
+INSERT INTO `tips` VALUES (/*id*/465, /*tips_type*/1, /*value*/139, /*index*/3, /*title*/"兵藤レナのウワサ③", /*comment*/"にらめっこは強いらしい。");
+INSERT INTO `tips` VALUES (/*id*/466, /*tips_type*/1, /*value*/192, /*index*/3, /*title*/"浅利七海のウワサ③", /*comment*/"実家の廊下は\n魚拓でいっぱいらしい。");
+INSERT INTO `tips` VALUES (/*id*/467, /*tips_type*/1, /*value*/182, /*index*/3, /*title*/"服部瞳子のウワサ③", /*comment*/"入浴剤が\n自宅にたくさんあるらしい。");
+INSERT INTO `tips` VALUES (/*id*/468, /*tips_type*/1, /*value*/122, /*index*/3, /*title*/"藤本里奈のウワサ③", /*comment*/"3分間なら\nだいたい計れるらしい。");
+INSERT INTO `tips` VALUES (/*id*/469, /*tips_type*/1, /*value*/217, /*index*/3, /*title*/"西川保奈美のウワサ③", /*comment*/"音楽や劇を鑑賞するための\n部屋があるらしい。");
+INSERT INTO `tips` VALUES (/*id*/470, /*tips_type*/1, /*value*/138, /*index*/3, /*title*/"月宮雅のウワサ③", /*comment*/"中学生のとき、\n一度だけお母さんと\n呼んだことがあるらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !");
@@ -867,5 +873,8 @@ INSERT INTO `tips` VALUES (/*id*/40364, /*tips_type*/4, /*value*/158, /*index*/2
 INSERT INTO `tips` VALUES (/*id*/40365, /*tips_type*/4, /*value*/226, /*index*/2, /*title*/"森久保乃々②　理想のもりくぼ", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40366, /*tips_type*/4, /*value*/147, /*index*/2, /*title*/"井村雪菜②　メイクスキルUP !", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40367, /*tips_type*/4, /*value*/149, /*index*/2, /*title*/"榊原里美②　圧勝", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40368, /*tips_type*/4, /*value*/134, /*index*/2, /*title*/"双葉杏②　杏Tシャツの謎", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40369, /*tips_type*/4, /*value*/174, /*index*/2, /*title*/"神谷奈緒②　見せられないな～", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40370, /*tips_type*/4, /*value*/221, /*index*/2, /*title*/"脇山珠美②　剣豪が主役のやつ", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50001, /*tips_type*/5, /*value*/1, /*index*/1, /*title*/"縦画面持ち替え説明画像", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50002, /*tips_type*/5, /*value*/2, /*index*/1, /*title*/"縦画面横に持ち替え説明画像", /*comment*/"");
