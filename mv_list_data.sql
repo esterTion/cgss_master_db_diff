@@ -30,3 +30,5 @@ INSERT INTO `mv_list_data` VALUES (/*stage_id*/28, /*start_date*/"2018-11-22 15:
 INSERT INTO `mv_list_data` VALUES (/*stage_id*/29, /*start_date*/"2018-11-22 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/15, /*day*/2, /*name*/"6thLIVE MERRY-GO-ROUNDOME!!! \nメットライフドーム公演 2日目");
 INSERT INTO `mv_list_data` VALUES (/*stage_id*/30, /*start_date*/"2018-12-28 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/16, /*day*/1, /*name*/"6thLIVE MERRY-GO-ROUNDOME!!! \nナゴヤドーム公演 1日目");
 INSERT INTO `mv_list_data` VALUES (/*stage_id*/31, /*start_date*/"2018-12-28 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/16, /*day*/2, /*name*/"6thLIVE MERRY-GO-ROUNDOME!!! \nナゴヤドーム公演 2日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/32, /*start_date*/"2019-10-27 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/17, /*day*/1, /*name*/"7thLIVE TOUR Special 3chord♪\nComical Pops! 1日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/33, /*start_date*/"2019-10-27 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/17, /*day*/2, /*name*/"7thLIVE TOUR Special 3chord♪\nComical Pops! 2日目");
