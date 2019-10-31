@@ -28,5 +28,6 @@ INSERT INTO `gacha_sp_effect` VALUES (/*gacha_id*/30391, /*card_id*/300685, /*ga
 INSERT INTO `gacha_sp_effect` VALUES (/*gacha_id*/30391, /*card_id*/200695, /*gacha_effect_type*/1);
 INSERT INTO `gacha_sp_effect` VALUES (/*gacha_id*/30416, /*card_id*/200725, /*gacha_effect_type*/1);
 INSERT INTO `gacha_sp_effect` VALUES (/*gacha_id*/30416, /*card_id*/300711, /*gacha_effect_type*/1);
+INSERT INTO `gacha_sp_effect` VALUES (/*gacha_id*/30441, /*card_id*/100745, /*gacha_effect_type*/1);
 CREATE INDEX 'gacha_sp_effect_0_gacha_id' on 'gacha_sp_effect'('gacha_id');
 CREATE INDEX 'gacha_sp_effect_0_card_id' on 'gacha_sp_effect'('card_id');
