@@ -2157,7 +2157,7 @@ INSERT INTO `text_data` VALUES (/*category*/51, /*index*/4, /*text*/"アプリ�
 INSERT INTO `text_data` VALUES (/*category*/51, /*index*/5, /*text*/"ストア起動確認");
 INSERT INTO `text_data` VALUES (/*category*/51, /*index*/6, /*text*/"「アイドルマスター シンデレラガールズ スターライト\nスポット」がインストールされていません。\n\nストアよりインストールして\n再度連携を行ってください。\nストアへ移動しますか？");
 INSERT INTO `text_data` VALUES (/*category*/51, /*index*/7, /*text*/"デレスポ連携");
-INSERT INTO `text_data` VALUES (/*category*/52, /*index*/1, /*text*/"このアカウントは、本アプリの利用規約に\n違反する行為の疑いがあるため、コメント機能の\n利用を制限する対応を実施いたしました。\n\n上記の行為が発覚、または調査が必要と判断した場合、\n運営事務局の判断で、事前の通告なしにアカウント制限\nの対応を行うことがございます。\n\n本件に対する、問い合わせは「お問い合わせ」より\n行ってください。\n\nただし、お問い合わせいただいた場合でも\n条件や理由などの詳細はご案内しておりません。\nあらかじめご了承ください。");
+INSERT INTO `text_data` VALUES (/*category*/52, /*index*/1, /*text*/"このアカウントは、本アプリの利用規約に\n違反する行為の疑いがあるため、コメント機能の\n利用を制限する対応を実施いたしました。\n\n上記の行為が発覚、または調査が必要と判断した場合、\n運営事務局の判断で、事前の通告なしにアカウント制限\nの対応を行うことがございます。");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/1, /*text*/"利用規約とプライバシーポリシーに\n同意してから本サービスをご利用ください。\n\nまた、未成年の方は、\n法定代理人（ご両親等）の同意が必要です。\n\n※ないようがわからないときは\nおうちのひとにがめんをみせてください。");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/2, /*text*/"利用規約");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/3, /*text*/"同意しない");
@@ -2180,6 +2180,8 @@ INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/112, /*text*/"プラ
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/113, /*text*/"BGM");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/114, /*text*/"効果音");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/115, /*text*/"初期設定に戻す");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/116, /*text*/"コミュ\nBGM");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/117, /*text*/"コミュ\nボイス");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/201, /*text*/"VIEWモード選択");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/202, /*text*/"3Dコミュ選択");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/301, /*text*/"VR VIEW 視聴確認");

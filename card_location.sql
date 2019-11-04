@@ -806,3 +806,9 @@ INSERT INTO `card_location` VALUES (/*index*/809, /*text*/"レッスンスタジ
 INSERT INTO `card_location` VALUES (/*index*/810, /*text*/"ハロウィンの撮影セット");
 INSERT INTO `card_location` VALUES (/*index*/811, /*text*/"ダンスパーティー会場");
 INSERT INTO `card_location` VALUES (/*index*/821, /*text*/"高校の教室");
+INSERT INTO `card_location` VALUES (/*index*/822, /*text*/"個室の露天風呂");
+INSERT INTO `card_location` VALUES (/*index*/823, /*text*/"螺旋階段");
+INSERT INTO `card_location` VALUES (/*index*/824, /*text*/"美人の湯");
+INSERT INTO `card_location` VALUES (/*index*/825, /*text*/"温泉郷の撮影セット");
+INSERT INTO `card_location` VALUES (/*index*/826, /*text*/"ホテルスパ・露天風呂");
+INSERT INTO `card_location` VALUES (/*index*/827, /*text*/"夜景の見える駐車場");
