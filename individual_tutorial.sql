@@ -96,8 +96,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーを\n倉庫収納数から除外しました。\n収納していても、収納数にカウントされなくなりました。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"アイドルたちがカバーする、コードギアスの楽曲\n「O2」「Revive」をサウンドブースで販売開始しました !\n※本楽曲のLIVE演出は、2D標準・2D軽量のみとなります\n※PLvが10以上になると購入できます");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"『コードギアス×デレステコラボキャンペーン』開催中 !\n「ゼロ変身セット」や「ルルーシュのぬいぐるみ」など、\nコラボルームアイテムを期間限定で販売中です !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"ルームショップにて、「イカルガブリッジ」をテーマにした\nコラボルームアイテムとコーデを期間限定で販売中 !\n航空艦「イカルガ」のブリッジから、\n黒の騎士団の戦いを見届けましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"前川みくが歌う「ニャンと☆スペクタクル」を\nサウンドブースに追加 !\n購入するとLIVEでプレイできるようになります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -133,6 +132,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20203, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20203, /*img*/4, /*discription*/"その営業が得意なアイドルに「UP」のアイコンが\n表示されるようになりました。\n営業が得意なアイドルを編成していると、\n営業結果が良くなることがあります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20204, /*img*/1, /*discription*/"各アイドルの左上にある☆ボタンをタップすると、\nお気に入り設定を変更することができます。\nお気に入り設定したアイドルは優先的に表示されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20204, /*img*/1, /*discription*/"おすすめ編成でもお気に入りアイドルを優先できます。\nおすすめ編成ポップアップ内のチェックボックスで\n優先するかどうかを選択できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20205, /*img*/1, /*discription*/"海外エリアが追加されました。\nアイドルたちの魅力を世界中に広めましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「事務所のみんなでハッピーハロウィン !\n親愛度アップキャンペーン」開催中 ! !\nキャンペーン中は、必ず複数のギフトアイテムが獲得できる\nスペシャル営業を3種類追加 ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEでは、ミュージックセレクタ右上の動作設定ボタンから\nLIVEの背景演出を変更することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEプレイ中のSE再生設定もここから変更できます。\nSEをオフにすることで、動作が軽くなる場合があります。");
@@ -232,6 +232,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/50004, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/50004, /*img*/1, /*discription*/"画面右上の「コミュ検索」ボタンからご利用いただけます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50004, /*img*/1, /*discription*/"ポップアップ右上のタブをタップすることで、\n「アイドル名検索」と「楽曲名検索」を切り替えることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50004, /*img*/2, /*discription*/"登場アイドルや楽曲で検索することで、\n対象のコミュが表示されます。\n気になるアイドルや楽曲で検索してみましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/50005, /*img*/1, /*discription*/"営業コミュに「海外」が追加されました。\n専用の営業を成功することで、コミュが解放されます。\n海外で活躍するアイドルたちのコミュを見てみましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/50005, /*img*/2, /*discription*/"営業コミュにて、\n登場アイドルでコミュを検索できるようになりました。\n画面右上の「コミュ検索」ボタンからご利用いただけます。\n気になるアイドルで検索してみましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/50005, /*img*/3, /*discription*/"特定のコミュ営業をクリアすることで、\n関連コミュが解放できるようになりました。\n関連があるコミュは、「関連」ボタンから確認できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60001, /*img*/1, /*discription*/"手に入れたアイドルはアルバムに登録され\nアイドルのプロフィール、ステータス、\n親愛度演出やコミュを確認することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60002, /*img*/1, /*discription*/"ローディング中に表示される1コマ劇場やウワサで\nアイドルの意外な一面を知ることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60002, /*img*/1, /*discription*/"一度見た1コマ劇場とウワサは、\nアイドルトピックスで確認することができます。");
@@ -355,7 +358,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/2, /*discription*/"全国各地で公演を行い、LIVEツアーを盛り上げましょう。\n公演目標を達成してLIVEをクリアすると、\n新しい公演が解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/3, /*discription*/"公演の目標が達成できるように、楽曲やユニットを選びましょう。\n公演によって消費スタミナやLIVEを行う曲数が異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/4, /*discription*/"公演を行うと、観客動員数が増加します。\n対象のエリアの観客動員数が一定値に到達すると、\n新しいエリアが解放されます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/4, /*discription*/"エリア2、3に到達すると、イベント楽曲のMASTER+の\n難易度が選曲可能となります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/4, /*discription*/"エリア2に到達すると、イベント楽曲のMASTER+の\n難易度が選曲可能となります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/5, /*discription*/"日替わりで切り替わる「流行曲」を含めて公演を行ったり、\nマニーを使用して「LIVEオプション」を設定すると、\nエリアの観客動員数がさらにアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/5, /*discription*/"また観客動員数の多いエリアで公演を行うと、\n獲得できるファン数がアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/6, /*discription*/"イベント限定営業、「LIVE PARTY!!」では、\nイベントptやLIVEオプションを獲得できます。\nLIVEオプションを使用すると、LIVEで獲得できる\n観客動員数がアップします。");
