@@ -165,6 +165,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30011, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30011, /*img*/2, /*discription*/"「GRAND LIVE」では、3ユニット15人を同時に編成してプレイします。\nアイドルの「センター効果」は各ユニット内に対してのみ適用され、\n「特技」の発動間隔は通常の 3倍 となります。\nまた、ゲストアイドルの参戦はありません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30012, /*img*/1, /*discription*/"ユニット確認画面で、画面右上の「LIVE設定」ボタンから\nGRAND LIVEの設定をカスタマイズできます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30012, /*img*/1, /*discription*/"リズムアイコンのデザインや、フリックアイコンの\nアニメーション設定なども変更できますので、\n自分に合ったスタイルに調整してみましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30013, /*img*/1, /*discription*/"LIVEに新機能「うたいわけ」を追加しました !\n対応楽曲のユニット確認画面で、「うたいわけ」ボタンを\nONに切り替えることで利用できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30013, /*img*/1, /*discription*/"「うたいわけ」に対応するアイドルは楽曲によって異なり、\n非対応のアイドルが配置されているパートは\n対応アイドルからランダムに選ばれます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30013, /*img*/1, /*discription*/"ユニット確認画面からアイドルを編成することで、\n「絞り込み」ポップアップから選択中の楽曲の\n対応アイドルのみを絞り込んで編成できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「プレシャスメモリアル\nスペシャルLIVEキャンペーン」開催中 ! !\n期間中にクリアしたLIVEでは、期間限定のアイテムと\n今まで出現した限定トレチケを獲得できます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「プレシャスメモリアル\n特訓支援キャンペーン」開催中 ! ! キャンペーン中は、\nLIVE成功時のティアラと魔法のドレスのドロップ率が\nさらにアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
