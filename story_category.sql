@@ -375,4 +375,5 @@ INSERT INTO `story_category` VALUES (/*id*/390, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/391, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"コードギアスコラボ", /*sub_title*/"コードギアスコラボ", /*disp_order*/11);
 INSERT INTO `story_category` VALUES (/*id*/392, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"空想探査計画", /*sub_title*/"空想探査計画", /*disp_order*/106);
 INSERT INTO `story_category` VALUES (/*id*/394, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ミラーボール・ラブ", /*sub_title*/"ミラーボール・ラブ", /*disp_order*/107);
+INSERT INTO `story_category` VALUES (/*id*/395, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"大石泉 / 兵藤レナ", /*sub_title*/"大石泉 / 兵藤レナ", /*disp_order*/108);
 INSERT INTO `story_category` VALUES (/*id*/396, /*type*/6, /*chara_type*/0, /*chara_id*/0, /*title*/"海外エリア", /*sub_title*/"海外エリア", /*disp_order*/7);
