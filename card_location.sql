@@ -816,3 +816,5 @@ INSERT INTO `card_location` VALUES (/*index*/828, /*text*/"さくらの部屋");
 INSERT INTO `card_location` VALUES (/*index*/829, /*text*/"香港・文武廟");
 INSERT INTO `card_location` VALUES (/*index*/830, /*text*/"雨の京都");
 INSERT INTO `card_location` VALUES (/*index*/831, /*text*/"雨の竹林");
+INSERT INTO `card_location` VALUES (/*index*/832, /*text*/"ライブハウス入口");
+INSERT INTO `card_location` VALUES (/*index*/833, /*text*/"フェス会場");

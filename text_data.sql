@@ -1716,6 +1716,8 @@ INSERT INTO `text_data` VALUES (/*category*/37, /*index*/16, /*text*/"ファン�
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/17, /*text*/"プロデュースpt詳細");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/18, /*text*/"アイテム使用結果");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/19, /*text*/"レシピ使用");
+INSERT INTO `text_data` VALUES (/*category*/37, /*index*/20, /*text*/"表示設定");
+INSERT INTO `text_data` VALUES (/*category*/37, /*index*/21, /*text*/"重複しているアイドルのみを表示する");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/1, /*text*/"近日公開予定の機能のため、現在利用できません");
 INSERT INTO `text_data` VALUES (/*category*/39, /*index*/1, /*text*/"楽曲購入");
 INSERT INTO `text_data` VALUES (/*category*/39, /*index*/2, /*text*/"確認");
