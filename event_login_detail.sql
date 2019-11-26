@@ -1018,3 +1018,4 @@ INSERT INTO `event_login_detail` VALUES (/*id*/1016, /*event_id*/1051, /*count*/
 INSERT INTO `event_login_detail` VALUES (/*id*/1017, /*event_id*/1051, /*count*/6, /*reward_type*/5, /*reward_id*/50051, /*reward_value*/300, /*image*/"item_50051_s");
 INSERT INTO `event_login_detail` VALUES (/*id*/1018, /*event_id*/1051, /*count*/7, /*reward_type*/5, /*reward_id*/50051, /*reward_value*/300, /*image*/"item_50051_s");
 INSERT INTO `event_login_detail` VALUES (/*id*/1019, /*event_id*/1051, /*count*/8, /*reward_type*/5, /*reward_id*/50051, /*reward_value*/300, /*image*/"item_50051_s");
+INSERT INTO `event_login_detail` VALUES (/*id*/1020, /*event_id*/1051, /*count*/9, /*reward_type*/5, /*reward_id*/50051, /*reward_value*/300, /*image*/"item_50051_s");
