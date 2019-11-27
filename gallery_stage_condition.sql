@@ -13,4 +13,5 @@ INSERT INTO `gallery_stage_condition` VALUES (/*id*/12, /*source_id*/23, /*condi
 INSERT INTO `gallery_stage_condition` VALUES (/*id*/13, /*source_id*/24, /*condition_type*/301, /*condition_id*/24, /*condition_value*/1);
 INSERT INTO `gallery_stage_condition` VALUES (/*id*/14, /*source_id*/25, /*condition_type*/301, /*condition_id*/25, /*condition_value*/1);
 INSERT INTO `gallery_stage_condition` VALUES (/*id*/15, /*source_id*/26, /*condition_type*/301, /*condition_id*/26, /*condition_value*/1);
+INSERT INTO `gallery_stage_condition` VALUES (/*id*/16, /*source_id*/27, /*condition_type*/301, /*condition_id*/27, /*condition_value*/1);
 CREATE INDEX 'gallery_stage_condition_0_source_id' on 'gallery_stage_condition'('source_id');

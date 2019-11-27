@@ -133,7 +133,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20203, /*img*/4, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20204, /*img*/1, /*discription*/"各アイドルの左上にある☆ボタンをタップすると、\nお気に入り設定を変更することができます。\nお気に入り設定したアイドルは優先的に表示されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20204, /*img*/1, /*discription*/"おすすめ編成でもお気に入りアイドルを優先できます。\nおすすめ編成ポップアップ内のチェックボックスで\n優先するかどうかを選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20205, /*img*/1, /*discription*/"海外エリアが追加されました。\nアイドルたちの魅力を世界中に広めましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\n必ず複数の特訓アイテムを獲得できる\nスペシャル営業が1日1回行えます !\n詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「シンデレラガールズ8周年記念\nマニー獲得キャンペーン」開催中 ! ! キャンペーン中は、\nたくさんのマニーが獲得できるスペシャル営業が\n1日1回行えます ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEでは、ミュージックセレクタ右上の動作設定ボタンから\nLIVEの背景演出を変更することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEプレイ中のSE再生設定もここから変更できます。\nSEをオフにすることで、動作が軽くなる場合があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30002, /*img*/1, /*discription*/"ユニット確認画面では、右上のLIVE設定ボタンから\nリズムゲームプレイ中の設定をカスタマイズできます。");
@@ -286,6 +286,18 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60024, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60025, /*img*/1, /*discription*/"ゲスト参戦アイドルをアップデートしました !\n「フリー枠アイドル」にもアイドルを設定できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60025, /*img*/1, /*discription*/"「フリー枠アイドル」に設定されたアイドルは、\nタイプ別のゲスト参戦アイドルと合わせて\n他プロデューサーのLIVEにゲストとして表示されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60026, /*img*/1, /*discription*/"ポーズごとにお気に入り設定ができます。\nお気に入り設定したポーズは、次にリストを\n表示するとき、優先的にリスト表示されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/1, /*discription*/"「フォトスタジオ」は、自由にカメラを\n操作しながら、楽曲にあわせたダンスや\nポーズをアイドルにオーダーできます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/1, /*discription*/"画面をスワイプでカメラの移動、\nピンチイン・アウトでズームが\nできます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/2, /*discription*/"連続タップするとメニューが開き、\n「オーダー」でアイドルに呼びかけたり\n「衣装変更」することなどができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/3, /*discription*/"メニュー画面で「カメラを構える」を\n設定すると、撮影が可能になります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/4, /*discription*/"「オーダー」には「楽曲」、「ポーズ」\nがあり、タブで切り替えが可能です。\n「楽曲」では、楽曲にあわせたダンスを\nアイドルにオーダーできます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/4, /*discription*/"「ポーズ」では、アイドルに呼びかけ\n好きなポーズをオーダーできます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/5, /*discription*/"ポーズごとにお気に入り設定ができ、\nお気に入り設定したポーズは、\n次にリストを表示するとき、\n優先的にリスト表示されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/6, /*discription*/"「衣装変更」では、スタジオにいる\nアイドルが着用できる衣装の中から\n好きな衣装に変更することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/7, /*discription*/"「スポット変更」では、撮影スポットを\n変更することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/8, /*discription*/"また「スポット変更」から\n「ARスタジオ」へ移動できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/8, /*discription*/"マーカーモードは、専用のARマーカー\nを読み込むモードです。\nオートモードでは、自動的に平面を認識\nしてアイドルが登場します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/9, /*discription*/"「スターピース交換」では、フォト\nスタジオで使用できるスポットや\nポーズの獲得が可能です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/1, /*discription*/"「LIVE PARTY!!」では、協力LIVEを行うことで、\n「スターエンブレム」が獲得できます。\n「スターエンブレム」を集めると、過去イベントの報酬や、\nアイテムとの交換ができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。\n楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/3, /*discription*/"本機能では、専用ユニットでLIVEを行います。ユニットには5つの「ポジション」があります。\n各プロデューサーのアイドルが、ポジションを1つずつ担当し、5人の共通ユニットが編成されます。\n※自分のアイドルがどのポジションを担当するかはランダムで決定されます。\n※楽曲タイプとポジションごとにアイドルを設定できます。");

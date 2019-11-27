@@ -22,3 +22,4 @@ INSERT INTO `gallery_stage_list` VALUES (/*id*/23, /*disp_order*/15, /*disp_name
 INSERT INTO `gallery_stage_list` VALUES (/*id*/24, /*disp_order*/16, /*disp_name*/"ステージ サマカニ ! !", /*bg_id*/4011, /*bg_type*/1, /*left_degree*/96, /*right_degree*/96);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/25, /*disp_order*/17, /*disp_name*/"ステージ ハイファイ☆デイズ", /*bg_id*/4007, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/26, /*disp_order*/18, /*disp_name*/"ステージ Love∞Destiny", /*bg_id*/4010, /*bg_type*/1, /*left_degree*/125, /*right_degree*/125);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/27, /*disp_order*/19, /*disp_name*/"ステージ Snow Wings", /*bg_id*/4003, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);

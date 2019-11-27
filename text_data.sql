@@ -1389,6 +1389,8 @@ INSERT INTO `text_data` VALUES (/*category*/26, /*index*/39, /*text*/"OFF");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/40, /*text*/"ON");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/41, /*text*/"端末のライト点灯");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/42, /*text*/"ARスタジオの起動には\nカメラ使用の許可が必要です。\n【アプリ設定】の「権限」から\nカメラ使用の許可をお願いします。");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/43, /*text*/"スターピース交換");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/44, /*text*/"操作説明");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/1, /*text*/"LIVEへ");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/2, /*text*/"{0}マス");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/3, /*text*/"チケットを\n使用する");
