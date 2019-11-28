@@ -132,6 +132,7 @@ INSERT INTO `gift_message` VALUES (/*id*/11700, /*discription*/"1700万DL突破�
 INSERT INTO `gift_message` VALUES (/*id*/11800, /*discription*/"1800万DL突破記念キャンペーンのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/11900, /*discription*/"1900万DL突破記念キャンペーンのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/12000, /*discription*/"2000万DL突破記念キャンペーンのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/12500, /*discription*/"2500万DL突破記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20001, /*discription*/"東京ゲームショウ出展記念キャンペーンのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20002, /*discription*/"特別キャンペーンのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20003, /*discription*/"ストアランキング1位初獲得記念プレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

@@ -139,3 +139,4 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200091, /*name*/"comic c
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200092, /*name*/"TRUE COLORS（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/92);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200093, /*name*/"ステップ＆スキップ（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/93);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200094, /*name*/"Gossip Club（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/94);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200095, /*name*/"空想探査計画（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/95);

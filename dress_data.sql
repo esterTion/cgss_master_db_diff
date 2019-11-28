@@ -21,7 +21,7 @@ INSERT INTO `dress_data` VALUES (/*id*/7006000, /*name*/"スカーレット・�
 INSERT INTO `dress_data` VALUES (/*id*/7007000, /*name*/"マリンガール・カーニバル", /*description*/"太陽が映える、海に舞う者たちのドレス。\n祭りの陽気と爽やかな潮風が、\nアツい夏を盛り上げる。", /*open_type*/2, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/7008000, /*name*/"スウィート・パティシエール", /*description*/"甘美な夢を見せる少女たちのドレス。\n彼女たちがつくりだす幻想は、\nどんなお菓子よりも甘く優しく、\n見る者の心をとらえて離さない。", /*open_type*/2, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/7009000, /*name*/"シンセサイズ・ハーモニー", /*description*/"スタイリッシュに魅せる、クールなドレス。\n鮮やかに舞う姿は、電脳世界の歌姫のよう。\n計算されつくしたフォルムから覗く\n生身の感情が、見る者を惹きつける。", /*open_type*/2, /*dress_type*/1);
-INSERT INTO `dress_data` VALUES (/*id*/7010000, /*name*/"ウィル・フォーエバー", /*description*/"愛を祝福する少女たちのドレス。\n純真な乙女たちの幸福な願いと、\n永遠の誓いが込められている。", /*open_type*/2, /*dress_type*/0);
+INSERT INTO `dress_data` VALUES (/*id*/7010000, /*name*/"ウィル・フォーエバー", /*description*/"愛を祝福する少女たちのドレス。\n純真な乙女たちの幸福な願いと、\n永遠の誓いが込められている。", /*open_type*/2, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/7011000, /*name*/"デイバイデイ・プレゼント", /*description*/"積み重ねた日々を讃えるドレス。\n少女たちを祝う贈り物。\n育んできた絆が、彼女たちを輝かせる。", /*open_type*/3, /*dress_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/7012000, /*name*/"リトル・カラフル", /*description*/"少女たちの主張が詰まった、ポップな衣装。\nカラフルなライムの中に、\nひとりひとりの色が主張している。", /*open_type*/2, /*dress_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/7013000, /*name*/"お伽衣装・不思議の国のアリス", /*description*/"一日の幻を形にした衣装。\n『不思議の国のアリス』がモチーフ。\n様々な役柄が、少女たちを楽しく彩る。", /*open_type*/3, /*dress_type*/3);

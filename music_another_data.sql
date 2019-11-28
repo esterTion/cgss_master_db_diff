@@ -7,5 +7,6 @@ INSERT INTO `music_another_data` VALUES (/*music_id*/"1048_another", /*name*/"al
 INSERT INTO `music_another_data` VALUES (/*music_id*/"1201_call", /*name*/"お願い ! シンデレラ（GRAND CHEER VERSION）", /*type*/4, /*music_data_id*/1201);
 INSERT INTO `music_another_data` VALUES (/*music_id*/"1903_another", /*name*/"きらりんロボのテーマ（SE VERSION）", /*type*/4, /*music_data_id*/1903);
 INSERT INTO `music_another_data` VALUES (/*music_id*/"1904_another", /*name*/"∀NSWER ～ののの物語～（VOCAL VERSION）", /*type*/4, /*music_data_id*/1904);
+INSERT INTO `music_another_data` VALUES (/*music_id*/"5025_call", /*name*/"M@GIC☆（CHEER VERSION）", /*type*/4, /*music_data_id*/5025);
 INSERT INTO `music_another_data` VALUES (/*music_id*/"9021_another", /*name*/"ガールズ・イン・ザ・フロンティア（EVENT VERSION）", /*type*/4, /*music_data_id*/9018);
 INSERT INTO `music_another_data` VALUES (/*music_id*/"9902_another", /*name*/"Yes! Party Time!!（EVENT VERSION）", /*type*/4, /*music_data_id*/9901);
