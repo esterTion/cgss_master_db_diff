@@ -824,3 +824,10 @@ INSERT INTO `card_location` VALUES (/*index*/836, /*text*/"歩行者専用トン
 INSERT INTO `card_location` VALUES (/*index*/837, /*text*/"店舗イベント会場");
 INSERT INTO `card_location` VALUES (/*index*/838, /*text*/"古民家・改修中");
 INSERT INTO `card_location` VALUES (/*index*/839, /*text*/"お化け屋敷");
+INSERT INTO `card_location` VALUES (/*index*/840, /*text*/"雪山のロッジ・夜");
+INSERT INTO `card_location` VALUES (/*index*/841, /*text*/"スノードーム撮影セット");
+INSERT INTO `card_location` VALUES (/*index*/842, /*text*/"イルミネーションを望む車内");
+INSERT INTO `card_location` VALUES (/*index*/843, /*text*/"喜多見家・キッチン");
+INSERT INTO `card_location` VALUES (/*index*/844, /*text*/"クリスマスナイトショー");
+INSERT INTO `card_location` VALUES (/*index*/845, /*text*/"南半球・ビーチ");
+INSERT INTO `card_location` VALUES (/*index*/846, /*text*/"雨上がりの河川敷");

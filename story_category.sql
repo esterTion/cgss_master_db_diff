@@ -378,3 +378,4 @@ INSERT INTO `story_category` VALUES (/*id*/394, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/395, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"大石泉 / 兵藤レナ", /*sub_title*/"大石泉 / 兵藤レナ", /*disp_order*/108);
 INSERT INTO `story_category` VALUES (/*id*/396, /*type*/6, /*chara_type*/0, /*chara_id*/0, /*title*/"海外エリア", /*sub_title*/"海外エリア", /*disp_order*/7);
 INSERT INTO `story_category` VALUES (/*id*/397, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Secret Daybreak", /*sub_title*/"Secret Daybreak", /*disp_order*/109);
+INSERT INTO `story_category` VALUES (/*id*/398, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Sun ! High ! Gold !", /*sub_title*/"Sun ! High ! Gold !", /*disp_order*/110);
