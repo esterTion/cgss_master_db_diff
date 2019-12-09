@@ -2204,6 +2204,8 @@ INSERT INTO `text_data` VALUES (/*category*/51, /*index*/6, /*text*/"「アイ�
 INSERT INTO `text_data` VALUES (/*category*/51, /*index*/7, /*text*/"デレスポ連携");
 INSERT INTO `text_data` VALUES (/*category*/52, /*index*/1, /*text*/"このアカウントは、本アプリの利用規約に\n違反する行為の疑いがあるため、コメント機能の\n利用を制限する対応を実施いたしました。\n\n上記の行為が発覚、または調査が必要と判断した場合、\n運営事務局の判断で、事前の通告なしにアカウント制限\nの対応を行うことがございます。");
 INSERT INTO `text_data` VALUES (/*category*/53, /*index*/1, /*text*/"期限切れ");
+INSERT INTO `text_data` VALUES (/*category*/54, /*index*/1, /*text*/"ログインボーナス獲得エラー");
+INSERT INTO `text_data` VALUES (/*category*/54, /*index*/2, /*text*/"正常にログインボーナスが\n受け取れませんでした。\nタイトル画面に戻ります。");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/1, /*text*/"利用規約とプライバシーポリシーに\n同意してから本サービスをご利用ください。\n\nまた、未成年の方は、\n法定代理人（ご両親等）の同意が必要です。\n\n※ないようがわからないときは\nおうちのひとにがめんをみせてください。");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/2, /*text*/"利用規約");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/3, /*text*/"同意しない");
