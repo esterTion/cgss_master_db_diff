@@ -282,7 +282,7 @@ INSERT INTO `story_category` VALUES (/*id*/297, /*type*/1, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/298, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第56話", /*sub_title*/"Pride bout", /*disp_order*/257);
 INSERT INTO `story_category` VALUES (/*id*/299, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第57話", /*sub_title*/"Love goes around", /*disp_order*/258);
 INSERT INTO `story_category` VALUES (/*id*/300, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第58話", /*sub_title*/"What is Sweetie？", /*disp_order*/259);
-INSERT INTO `story_category` VALUES (/*id*/301, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第59話", /*sub_title*/"coming soon", /*disp_order*/260);
+INSERT INTO `story_category` VALUES (/*id*/301, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第59話", /*sub_title*/"A Little Bird Wish", /*disp_order*/260);
 INSERT INTO `story_category` VALUES (/*id*/302, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"モーレツ★世直しギルティ ! ", /*sub_title*/"モーレツ★世直しギルティ ! ", /*disp_order*/37);
 INSERT INTO `story_category` VALUES (/*id*/303, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"With Love", /*sub_title*/"With Love", /*disp_order*/38);
 INSERT INTO `story_category` VALUES (/*id*/304, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Yes ! Party Time ! ! ", /*sub_title*/"Yes ! Party Time ! ! ", /*disp_order*/39);
@@ -379,3 +379,4 @@ INSERT INTO `story_category` VALUES (/*id*/395, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/396, /*type*/6, /*chara_type*/0, /*chara_id*/0, /*title*/"海外エリア", /*sub_title*/"海外エリア", /*disp_order*/7);
 INSERT INTO `story_category` VALUES (/*id*/397, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Secret Daybreak", /*sub_title*/"Secret Daybreak", /*disp_order*/109);
 INSERT INTO `story_category` VALUES (/*id*/398, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Sun ! High ! Gold !", /*sub_title*/"Sun ! High ! Gold !", /*disp_order*/110);
+INSERT INTO `story_category` VALUES (/*id*/399, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第60話", /*sub_title*/"coming soon", /*disp_order*/261);

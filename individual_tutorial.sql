@@ -4,7 +4,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/10001, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/10001, /*img*/2, /*discription*/"ガシャでSSレアアイドルを獲得すると、\nルームで使用できるアイドルのポスターが\nプレゼントに送られます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10001, /*img*/2, /*discription*/"さらに、SSレアアイドルは特別な衣装で\n3DLIVEのパフォーマンスを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10001, /*img*/3, /*discription*/"特定のSレア以上のアイドルをユニット編成で\nセンターに設定することで、LIVEの「お願い ! シンデレラ」を\nソロ歌唱で楽しめます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/10003, /*img*/1, /*discription*/"ローカルオーディションガシャは友情ptを消費して、\nアイドルやトレーニングチケットを獲得できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/10003, /*img*/1, /*discription*/"ローカルオーディションガシャは友情ptを消費して、\nアイドルやトレーナーチケットを獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10004, /*img*/1, /*discription*/"プラチナオーディションガシャを引くと、\n『スターシャイン』が獲得できます。\n※『スターシャイン』は提供期間が決まっています。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10004, /*img*/2, /*discription*/"期間中に『スターシャイン』を必要数獲得すると、\n対象のアイドルを1人スカウトすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10004, /*img*/3, /*discription*/"提供期間を過ぎた『スターシャイン』は、\n『スターピース』に自動で変換されます。\n『スターピース』は、アイテムと交換することができます。");
@@ -168,7 +168,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30012, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30013, /*img*/1, /*discription*/"LIVEに新機能「うたいわけ」を追加しました !\n対応楽曲のユニット確認画面で、「うたいわけ」ボタンを\nONに切り替えることで利用できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30013, /*img*/1, /*discription*/"「うたいわけ」に対応するアイドルは楽曲によって異なり、\n非対応のアイドルが配置されているパートは\n対応アイドルからランダムに選ばれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30013, /*img*/1, /*discription*/"ユニット確認画面からアイドルを編成することで、\n「絞り込み」ポップアップから選択中の楽曲の\n対応アイドルのみを絞り込んで編成できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「クリスマススペシャルLIVEキャンペーン」\n開催中 ! 期間中にLIVEをクリアすると、\nクリスマス限定のアイテムを獲得できます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");

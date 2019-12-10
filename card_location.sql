@@ -831,3 +831,5 @@ INSERT INTO `card_location` VALUES (/*index*/843, /*text*/"喜多見家・キッ
 INSERT INTO `card_location` VALUES (/*index*/844, /*text*/"クリスマスナイトショー");
 INSERT INTO `card_location` VALUES (/*index*/845, /*text*/"南半球・ビーチ");
 INSERT INTO `card_location` VALUES (/*index*/846, /*text*/"雨上がりの河川敷");
+INSERT INTO `card_location` VALUES (/*index*/847, /*text*/"ふたりきりのワインバー");
+INSERT INTO `card_location` VALUES (/*index*/848, /*text*/"ワインバー・ステージ");
