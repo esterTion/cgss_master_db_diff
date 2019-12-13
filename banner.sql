@@ -856,4 +856,10 @@ INSERT INTO `banner` VALUES (/*banner_id*/871, /*type*/17, /*img_id*/2, /*transi
 INSERT INTO `banner` VALUES (/*banner_id*/872, /*type*/1, /*img_id*/30454, /*transition*/0, /*page_index*/30454, /*order_num*/5, /*start_date*/"2019-11-30 15:00:00", /*end_date*/"2019-12-10 14:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/873, /*type*/2, /*img_id*/5019, /*transition*/0, /*page_index*/0, /*order_num*/16, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
 INSERT INTO `banner` VALUES (/*banner_id*/874, /*type*/1, /*img_id*/30455, /*transition*/0, /*page_index*/30455, /*order_num*/5, /*start_date*/"2019-12-10 15:00:00", /*end_date*/"2019-12-13 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/875, /*type*/1, /*img_id*/30456, /*transition*/0, /*page_index*/30456, /*order_num*/6, /*start_date*/"2019-12-13 15:00:00", /*end_date*/"2019-12-14 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/876, /*type*/1, /*img_id*/30457, /*transition*/0, /*page_index*/30457, /*order_num*/6, /*start_date*/"2019-12-14 15:00:00", /*end_date*/"2019-12-15 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/877, /*type*/1, /*img_id*/30458, /*transition*/0, /*page_index*/30458, /*order_num*/6, /*start_date*/"2019-12-15 15:00:00", /*end_date*/"2019-12-16 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/878, /*type*/1, /*img_id*/60072, /*transition*/3, /*page_index*/60072, /*order_num*/5, /*start_date*/"2019-12-13 15:00:00", /*end_date*/"2019-12-14 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/879, /*type*/1, /*img_id*/60073, /*transition*/3, /*page_index*/60073, /*order_num*/5, /*start_date*/"2019-12-14 15:00:00", /*end_date*/"2019-12-15 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/880, /*type*/1, /*img_id*/60074, /*transition*/3, /*page_index*/60074, /*order_num*/5, /*start_date*/"2019-12-15 15:00:00", /*end_date*/"2019-12-16 14:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/883, /*type*/2, /*img_id*/2030, /*transition*/0, /*page_index*/0, /*order_num*/16, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
