@@ -218,4 +218,11 @@ INSERT INTO `campaign_login_bonus_random_list` VALUES (/*id*/216, /*random_list_
 INSERT INTO `campaign_login_bonus_random_list` VALUES (/*id*/217, /*random_list_id*/10000003, /*petit_id*/243, /*dress_id*/1);
 INSERT INTO `campaign_login_bonus_random_list` VALUES (/*id*/218, /*random_list_id*/10000003, /*petit_id*/268, /*dress_id*/1);
 INSERT INTO `campaign_login_bonus_random_list` VALUES (/*id*/219, /*random_list_id*/10000003, /*petit_id*/271, /*dress_id*/1);
+INSERT INTO `campaign_login_bonus_random_list` VALUES (/*id*/220, /*random_list_id*/10000004, /*petit_id*/200442, /*dress_id*/0);
+INSERT INTO `campaign_login_bonus_random_list` VALUES (/*id*/221, /*random_list_id*/10000004, /*petit_id*/200258, /*dress_id*/0);
+INSERT INTO `campaign_login_bonus_random_list` VALUES (/*id*/222, /*random_list_id*/10000004, /*petit_id*/200772, /*dress_id*/0);
+INSERT INTO `campaign_login_bonus_random_list` VALUES (/*id*/223, /*random_list_id*/10000004, /*petit_id*/300520, /*dress_id*/0);
+INSERT INTO `campaign_login_bonus_random_list` VALUES (/*id*/224, /*random_list_id*/10000004, /*petit_id*/200484, /*dress_id*/0);
+INSERT INTO `campaign_login_bonus_random_list` VALUES (/*id*/225, /*random_list_id*/10000004, /*petit_id*/300424, /*dress_id*/0);
+INSERT INTO `campaign_login_bonus_random_list` VALUES (/*id*/226, /*random_list_id*/10000004, /*petit_id*/200384, /*dress_id*/0);
 CREATE INDEX 'campaign_login_bonus_random_list_0_random_list_id' on 'campaign_login_bonus_random_list'('random_list_id');
