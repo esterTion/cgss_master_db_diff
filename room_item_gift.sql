@@ -4,5 +4,7 @@ INSERT INTO `room_item_gift` VALUES (/*id*/2, /*room_item_id*/510, /*reward_date
 INSERT INTO `room_item_gift` VALUES (/*id*/3, /*room_item_id*/1220, /*reward_date*/"2016-12-25 00:00:00", /*receive_limit_date*/"2017-1-5 00:00:00", /*reward_type*/7, /*reward_id*/1221, /*reward_num*/1, /*image*/"room_item_001221_s", /*save_new_id*/1);
 INSERT INTO `room_item_gift` VALUES (/*id*/4, /*room_item_id*/2032, /*reward_date*/"2017-12-25 00:00:00", /*receive_limit_date*/"2018-1-5 00:00:00", /*reward_type*/7, /*reward_id*/2033, /*reward_num*/1, /*image*/"room_item_002033_s", /*save_new_id*/1);
 INSERT INTO `room_item_gift` VALUES (/*id*/5, /*room_item_id*/2860, /*reward_date*/"2018-12-25 00:00:00", /*receive_limit_date*/"2019-1-5 00:00:00", /*reward_type*/7, /*reward_id*/2861, /*reward_num*/1, /*image*/"room_item_002861_s", /*save_new_id*/1);
+INSERT INTO `room_item_gift` VALUES (/*id*/6, /*room_item_id*/3680, /*reward_date*/"2019-12-25 00:00:00", /*receive_limit_date*/"2020-1-5 00:00:00", /*reward_type*/7, /*reward_id*/3681, /*reward_num*/1, /*image*/"room_item_003681_s", /*save_new_id*/1);
+INSERT INTO `room_item_gift` VALUES (/*id*/7, /*room_item_id*/90030, /*reward_date*/"2019-12-25 00:00:00", /*receive_limit_date*/"2020-1-5 00:00:00", /*reward_type*/7, /*reward_id*/3681, /*reward_num*/1, /*image*/"room_item_003681_s", /*save_new_id*/1);
 CREATE INDEX 'room_item_gift_0_room_item_id' on 'room_item_gift'('room_item_id');
 CREATE INDEX 'room_item_gift_0_id_1_room_item_id' on 'room_item_gift'('id','room_item_id');
