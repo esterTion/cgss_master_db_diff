@@ -502,8 +502,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90142, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90143, /*img*/1, /*discription*/"第1弾の楽曲をサウンドブースに追加しました !\n第2弾は9/24 15:00に追加予定です !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90144, /*img*/1, /*discription*/"全10曲のカバー曲をサウンドブースに追加しました !\nアイドルたちがカバーする数々の名曲を\n是非プレイしてみてください !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90145, /*img*/1, /*discription*/"第2弾のカバー曲が発表されました !\nこちらの5曲は9/24 15:00に追加予定です !\n※第1弾はサウンドブースにて購入できます");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/1, /*discription*/"本キャンペーンは期間中に「チャンスチケット」を\n集めることで参加できます ! 獲得可能期間終了後に\n獲得した「チャンスチケット」毎に景品の抽選を行います。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/2, /*discription*/"抽選の結果によって、「スカウトチケット」など豪華景品を\nGETできます ! ※1等から8等までは抽選条件があります。\n詳しくはヘルプをご覧ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/1, /*discription*/"本キャンペーンは期間中に「チャンスチケット」を\n集めることで参加できます ! チケットには\nアイドルと4桁の数字が表示されています。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/1, /*discription*/"獲得可能期間終了後に当選発表を行います。\n当選組み合わせと一致しているチケットが当選となり、\n報酬を獲得することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/2, /*discription*/"当選結果によっては「スカウトチケット」などの\n豪華景品もGETできます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/3, /*discription*/" ※1等から9等までと特別賞には当選条件があります。\n詳しくはヘルプをご覧ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90202, /*img*/1, /*discription*/"本キャンペーンは宝くじ獲得可能期間に「宝くじチケット」を\n集めることで参加できます ! 獲得可能期間終了後に\n獲得した「宝くじチケット」毎に景品の抽選を行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90202, /*img*/2, /*discription*/"抽選の結果によって、「スカウトチケット」など豪華景品を\nGETできます ! ※1等から8等までは抽選条件があります。\n詳しくはヘルプをご覧ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90301, /*img*/1, /*discription*/"「楽曲総選挙」が始まりました !\nお気に入りの楽曲に投票しましょう。");
