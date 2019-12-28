@@ -141,3 +141,4 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200093, /*name*/"ステ�
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200094, /*name*/"Gossip Club（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/94);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200095, /*name*/"空想探査計画（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/95);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200096, /*name*/"ミラーボール・ラブ（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/96);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200097, /*name*/"Secret Daybreak（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/97);
