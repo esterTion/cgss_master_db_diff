@@ -11,6 +11,7 @@ INSERT INTO `dress_data` VALUES (/*id*/9, /*name*/"パーティータイム・�
 INSERT INTO `dress_data` VALUES (/*id*/10, /*name*/"レッスンウェア", /*description*/"パーツごとにカラーを変更できる\nドレスコーデ対応衣装になります。", /*open_type*/2, /*dress_type*/4);
 INSERT INTO `dress_data` VALUES (/*id*/11, /*name*/"レインボー・カラーズ", /*description*/"すべての個性を彩る、虹のドレス。\nたくさんの願いと想いが繋がって、\nひとりひとりの色を輝かせている。", /*open_type*/2, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/12, /*name*/"ショータイム・イリュージョン／コーデ", /*description*/"パーツごとにカラーを変更できる\nドレスコーデ対応衣装になります。", /*open_type*/2, /*dress_type*/2);
+INSERT INTO `dress_data` VALUES (/*id*/13, /*name*/"クリスタルナイトパーティ", /*description*/"新たな自分に会いに行くためのドレス｡\n困難に立ち向かう少女達の意志が\n込められている｡", /*open_type*/4, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/100, /*name*/"SSレア衣装", /*description*/"", /*open_type*/1, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/201, /*name*/"Sレア衣装", /*description*/"", /*open_type*/0, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/202, /*name*/"レア衣装", /*description*/"", /*open_type*/0, /*dress_type*/3);

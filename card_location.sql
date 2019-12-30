@@ -842,3 +842,7 @@ INSERT INTO `card_location` VALUES (/*index*/854, /*text*/"ファッションビ
 INSERT INTO `card_location` VALUES (/*index*/855, /*text*/"雪の公園");
 INSERT INTO `card_location` VALUES (/*index*/856, /*text*/"教会・クリスマス");
 INSERT INTO `card_location` VALUES (/*index*/857, /*text*/"長野の雪原・MV撮影");
+INSERT INTO `card_location` VALUES (/*index*/866, /*text*/"雪の舞う街中");
+INSERT INTO `card_location` VALUES (/*index*/867, /*text*/"近未来の電脳都市");
+INSERT INTO `card_location` VALUES (/*index*/868, /*text*/"ハワイ・ビーチ");
+INSERT INTO `card_location` VALUES (/*index*/869, /*text*/"ハワイ・屋外セット");
