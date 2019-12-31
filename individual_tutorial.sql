@@ -60,6 +60,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/11030, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/11030, /*img*/1, /*discription*/"今回は、「100万マニー」を獲得できます。\n※有償スタージュエルでのみ購入することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11030, /*img*/2, /*discription*/"「スカウトチケット」はアイドルをスカウトできるチケット\nです。スカウトできるアイドルは、「対象アイドル」ボタン\nからご確認ください。※スカウトチケットの種類によって\nスカウトできるアイドルは異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11030, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で出現します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11031, /*img*/1, /*discription*/"スペシャルガシャセットは期間限定販売です。\n購入すると2種類の「スカウトチケット」と「プラチナ\n10連ガシャチケット」に加え、");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11031, /*img*/1, /*discription*/"今回は、「スターレッスントレーナーチケット」と\n「プレミアムフィルム」を獲得できます。\n※有償スタージュエルでのみ購入することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11031, /*img*/2, /*discription*/"「スカウトチケット」はアイドルをスカウトできるチケット\nです。スカウトできるアイドルは、「対象アイドル」ボタン\nからご確認ください。※スカウトチケットの種類によって\nスカウトできるアイドルは異なります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11031, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で出現します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20001, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20001, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、\n様々な効果を発揮する物があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20001, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -134,8 +138,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20203, /*img*/4, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20204, /*img*/1, /*discription*/"各アイドルの左上にある☆ボタンをタップすると、\nお気に入り設定を変更することができます。\nお気に入り設定したアイドルは優先的に表示されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20204, /*img*/1, /*discription*/"おすすめ編成でもお気に入りアイドルを優先できます。\nおすすめ編成ポップアップ内のチェックボックスで\n優先するかどうかを選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20205, /*img*/1, /*discription*/"海外エリアが追加されました。\nアイドルたちの魅力を世界中に広めましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「LIVE Carnival開催直前 ! 強化合宿限定\n育成強化キャンペーン」開催中 ! !\n強化合宿キャンペーン中は、トレチケが獲得できる\nスペシャル営業を2種類追加 ! 詳細はお知らせよりご確認ください。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/2, /*discription*/"「LIVE Carnival開催直前 ! 強化合宿限定\n特訓支援キャンペーン」開催中 ! ! 強化合宿キャンペーン中は、\n必ず複数の特訓アイテムが獲得できるスペシャル営業が\n1日3回行えます ! 詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「新春 ! ハッピーニューイヤー\nマニー獲得キャンペーン」開催中 ! ! キャンペーン中は、\nたくさんのマニーが獲得できるスペシャル営業が\n1日1回行えます ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEでは、ミュージックセレクタ右上の動作設定ボタンから\nLIVEの背景演出を変更することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEプレイ中のSE再生設定もここから変更できます。\nSEをオフにすることで、動作が軽くなる場合があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30002, /*img*/1, /*discription*/"ユニット確認画面では、右上のLIVE設定ボタンから\nリズムゲームプレイ中の設定をカスタマイズできます。");
@@ -170,8 +173,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30012, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30013, /*img*/1, /*discription*/"LIVEに新機能「うたいわけ」を追加しました !\n対応楽曲のユニット確認画面で、「うたいわけ」ボタンを\nONに切り替えることで利用できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30013, /*img*/1, /*discription*/"「うたいわけ」に対応するアイドルは楽曲によって異なり、\n非対応のアイドルが配置されているパートは\n対応アイドルからランダムに選ばれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30013, /*img*/1, /*discription*/"ユニット確認画面からアイドルを編成することで、\n「絞り込み」ポップアップから選択中の楽曲の\n対応アイドルのみを絞り込んで編成できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「LIVE Carnival開催直前 ! 強化合宿限定\nスペシャルLIVEキャンペーン」開催中 ! !\n期間中にクリアしたLIVEでは、期間限定のアイテムと\n今まで出現した限定トレチケを獲得できます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「LIVE Carnival開催直前 ! 強化合宿限定\n特訓支援キャンペーン」開催中 ! ! 強化合宿キャンペーン中は、\nLIVE成功時のティアラと魔法のドレスのドロップ率が\nさらにアップします ! 詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「新春 ! ハッピーニューイヤー\nスペシャルLIVEキャンペーン」開催中 ! !\n期間中にLIVEをクリアすると、\n新春限定のアイテムを獲得できます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");
