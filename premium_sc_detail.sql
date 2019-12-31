@@ -33,6 +33,7 @@ INSERT INTO `premium_sc_detail` VALUES (/*item_id*/81009, /*jewel_shop_id*/19, /
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/81010, /*jewel_shop_id*/20, /*use_period_day*/0, /*all_user_use_end_date*/"2019-03-06 23:59:59");
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/81011, /*jewel_shop_id*/28, /*use_period_day*/0, /*all_user_use_end_date*/"2019-11-08 23:59:59");
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/81012, /*jewel_shop_id*/29, /*use_period_day*/0, /*all_user_use_end_date*/"2019-11-08 23:59:59");
+INSERT INTO `premium_sc_detail` VALUES (/*item_id*/81014, /*jewel_shop_id*/33, /*use_period_day*/0, /*all_user_use_end_date*/"");
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/84001, /*jewel_shop_id*/25, /*use_period_day*/0, /*all_user_use_end_date*/"");
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/84002, /*jewel_shop_id*/26, /*use_period_day*/0, /*all_user_use_end_date*/"");
 CREATE INDEX 'premium_sc_detail_0_jewel_shop_id' on 'premium_sc_detail'('jewel_shop_id');
