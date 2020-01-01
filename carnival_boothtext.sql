@@ -14,4 +14,5 @@ INSERT INTO `carnival_boothtext` VALUES (/*id*/12, /*message*/"ユニットの�
 INSERT INTO `carnival_boothtext` VALUES (/*id*/13, /*message*/"全アピール値が、解放されているプロデュースptにつき{0}%アップ !");
 INSERT INTO `carnival_boothtext` VALUES (/*id*/14, /*message*/"アイドルのスターランクに応じてアピール値がアップ !");
 INSERT INTO `carnival_boothtext` VALUES (/*id*/15, /*message*/"イベント出演アイドルのアピール値が{0}%アップ !");
+INSERT INTO `carnival_boothtext` VALUES (/*id*/16, /*message*/"特定楽曲のみ選曲可能 ! アイドルのアピール値{0}%アップ !");
 CREATE INDEX 'carnival_boothtext_0_id' on 'carnival_boothtext'('id');

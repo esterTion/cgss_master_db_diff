@@ -405,7 +405,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/7, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/7, /*discription*/"リセット対象の景品を獲得すると、景品をリセットできます。\n※リセットをすると景品は変更されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/8, /*discription*/"最終RankであるCarnivalRank SSSに到達すると、\n「VoltagePointランキング」に参加できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/8, /*discription*/"「VoltagePointランキング」は、CarnivalRank SSSでの\nVoltagePointの合計を競うランキングとなります。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/8, /*discription*/"「VoltagePointランキング」では、\n結果に応じてイベント限定の順位付き称号を入手できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/8, /*discription*/"「VoltagePointランキング」では、\n結果に応じて限定のルームアイテムや\nイベント限定の順位付き称号を入手できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/12, /*discription*/"ランキングで手に入るトロフィー/虹は\n次回開催時のLIVE Carnivalイベントにて効果のある\n特別なトロフィーとなっています。\nカーニバルメダルの獲得量がアップする効果を予定しております！");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/9, /*discription*/"楽曲・ユニットおすすめ設定を使えば、\nおすすめのBOOTH設定を自動で選択してくれます。\n楽曲Lvや条件を決めて、活用しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/10, /*discription*/"BOOTHには、それぞれBOOTH効果という、\nアイドルのアピール値が上がる効果が設定されています。\nその効果に合うユニットでLIVEする事で、\nVoltageが上がりやすくなります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/11, /*discription*/"イベント専用ユニットには、他のプロデューサーさんのアイドルを\n1ユニットにつき1人までゲストアイドルとして\n編成することが出来ます。\nゲストアイドルの力を借りてBOOTHを攻略しましょう !");
