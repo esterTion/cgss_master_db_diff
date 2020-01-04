@@ -842,6 +842,11 @@ INSERT INTO `card_location` VALUES (/*index*/854, /*text*/"ファッションビ
 INSERT INTO `card_location` VALUES (/*index*/855, /*text*/"雪の公園");
 INSERT INTO `card_location` VALUES (/*index*/856, /*text*/"教会・クリスマス");
 INSERT INTO `card_location` VALUES (/*index*/857, /*text*/"長野の雪原・MV撮影");
+INSERT INTO `card_location` VALUES (/*index*/859, /*text*/"船乗り場");
+INSERT INTO `card_location` VALUES (/*index*/860, /*text*/"メルヘンな森の中");
+INSERT INTO `card_location` VALUES (/*index*/861, /*text*/"招き猫の寺");
+INSERT INTO `card_location` VALUES (/*index*/862, /*text*/"お正月セット（猫年）");
+INSERT INTO `card_location` VALUES (/*index*/863, /*text*/"ホームパーティー");
 INSERT INTO `card_location` VALUES (/*index*/864, /*text*/"雪景色の露天風呂");
 INSERT INTO `card_location` VALUES (/*index*/865, /*text*/"夢の星海");
 INSERT INTO `card_location` VALUES (/*index*/866, /*text*/"雪の舞う街中");
