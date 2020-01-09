@@ -708,7 +708,7 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/30, /*text*/"ユニッ�
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/31, /*text*/"ユニットC");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/32, /*text*/" ユニットが15人未満のため、LIVEを開始できません\n15人のユニットを編成してください");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/33, /*text*/"このユニットを{0}にセットします");
-INSERT INTO `text_data` VALUES (/*category*/14, /*index*/34, /*text*/"PRP（プロデューサーレーティングポイント）とは、\nあなたのプロデューサーとしての手腕を示す指標です。\n\n楽曲毎に、LIVEで達成した\nSCOREに応じて「楽曲PRP」が記録され、\nWIDE LIVE 上位10曲\nGRAND LIVE 上位3曲\nSMART LIVE 上位3曲\n計16曲分の合計が、現在の「PRP」となります。\n\nPRP達成報酬を目指して、\nリズムゲームの腕を磨きましょう。\nユニットのアピール値も重要になりますから、\nアイドル達のレッスンも忘れずに ! ");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/34, /*text*/"PRP（プロデューサーレーティングポイント）とは、\nあなたのプロデューサーとしての手腕を示す指標です。\n\n楽曲毎に、LIVEで達成した\nSCOREに応じて「楽曲PRP」が記録され、\nWIDE LIVE 上位10曲\nGRAND LIVE 上位3曲\nSMART LIVE 上位3曲\n計16曲分の合計が、現在の「PRP」となります。\n\nPRP達成報酬を目指して、\nリズムゲームの腕を磨きましょう。\nユニットのアピール値も重要になりますから、\nアイドル達のレッスンも忘れずに !");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/35, /*text*/"お気に入り");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/36, /*text*/"2Dリッチ\n対応");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/37, /*text*/"カバー楽曲");
@@ -731,6 +731,7 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/53, /*text*/"「うた�
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/54, /*text*/"うたいわけ対応");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/55, /*text*/"[うたいわけ] {0}");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/56, /*text*/"[うたいわけ] オフボーカル");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/80, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/1, /*text*/"月間獲得ファン数ランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/2, /*text*/"今期のランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/3, /*text*/"前期のランキング");
@@ -1303,6 +1304,10 @@ INSERT INTO `text_data` VALUES (/*category*/23, /*index*/81, /*text*/"{0}の所�
 INSERT INTO `text_data` VALUES (/*category*/23, /*index*/82, /*text*/"MASTER+選択時は、楽曲のタイプは選択できません");
 INSERT INTO `text_data` VALUES (/*category*/23, /*index*/83, /*text*/"プレゼント未受け取りアイテム");
 INSERT INTO `text_data` VALUES (/*category*/23, /*index*/84, /*text*/"このアイテムはプレゼントに贈られており、\n未受け取りの状態です。");
+INSERT INTO `text_data` VALUES (/*category*/23, /*index*/85, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/23, /*index*/86, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/23, /*index*/87, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/23, /*index*/88, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/24, /*index*/1, /*text*/"サンプル");
 INSERT INTO `text_data` VALUES (/*category*/24, /*index*/2, /*text*/"合計");
 INSERT INTO `text_data` VALUES (/*category*/24, /*index*/3, /*text*/"所持数");
