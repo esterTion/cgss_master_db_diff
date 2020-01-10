@@ -11927,3 +11927,7 @@ INSERT INTO `bus_chara_bonus` VALUES (/*id*/11985, /*bus_id*/18581, /*chara_list
 INSERT INTO `bus_chara_bonus` VALUES (/*id*/11986, /*bus_id*/18582, /*chara_list*/"185,237,106,113,117,124,128,145,153,161,164,184,211,229,233,260,285,286,289,293,298,309,310", /*bonus_value*/1300);
 INSERT INTO `bus_chara_bonus` VALUES (/*id*/11987, /*bus_id*/18583, /*chara_list*/"185,237,106,113,117,124,128,145,153,161,164,184,211,229,233,260,285,286,289,293,298,309,310", /*bonus_value*/1300);
 INSERT INTO `bus_chara_bonus` VALUES (/*id*/11988, /*bus_id*/18584, /*chara_list*/"111,198,247,266,118,157,163,170,182,183,193,203,210,221,222,225,228,240,250,251,255,262,264,295,296", /*bonus_value*/1300);
+INSERT INTO `bus_chara_bonus` VALUES (/*id*/11989, /*bus_id*/18585, /*chara_list*/"272,108", /*bonus_value*/1600);
+INSERT INTO `bus_chara_bonus` VALUES (/*id*/11990, /*bus_id*/18586, /*chara_list*/"232,107", /*bonus_value*/1600);
+INSERT INTO `bus_chara_bonus` VALUES (/*id*/11991, /*bus_id*/18587, /*chara_list*/"116,235", /*bonus_value*/1600);
+INSERT INTO `bus_chara_bonus` VALUES (/*id*/11992, /*bus_id*/18588, /*chara_list*/"194,214", /*bonus_value*/1600);

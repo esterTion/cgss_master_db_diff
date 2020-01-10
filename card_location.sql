@@ -853,3 +853,6 @@ INSERT INTO `card_location` VALUES (/*index*/866, /*text*/"雪の舞う街中");
 INSERT INTO `card_location` VALUES (/*index*/867, /*text*/"近未来の電脳都市");
 INSERT INTO `card_location` VALUES (/*index*/868, /*text*/"ハワイ・ビーチ");
 INSERT INTO `card_location` VALUES (/*index*/869, /*text*/"ハワイ・屋外セット");
+INSERT INTO `card_location` VALUES (/*index*/871, /*text*/"瞳子の部屋");
+INSERT INTO `card_location` VALUES (/*index*/872, /*text*/"事務所そばの敷地");
+INSERT INTO `card_location` VALUES (/*index*/873, /*text*/"お正月LIVEステージ");
