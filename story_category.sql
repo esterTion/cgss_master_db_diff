@@ -383,3 +383,4 @@ INSERT INTO `story_category` VALUES (/*id*/398, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/399, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第60話", /*sub_title*/"coming soon", /*disp_order*/261);
 INSERT INTO `story_category` VALUES (/*id*/414, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ギュっとMilky Way", /*sub_title*/"ギュっとMilky Way", /*disp_order*/111);
 INSERT INTO `story_category` VALUES (/*id*/415, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"夢をのぞいたら", /*sub_title*/"夢をのぞいたら", /*disp_order*/112);
+INSERT INTO `story_category` VALUES (/*id*/416, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"今井加奈 / 若林智香", /*sub_title*/"今井加奈 / 若林智香", /*disp_order*/113);
