@@ -857,3 +857,7 @@ INSERT INTO `card_location` VALUES (/*index*/870, /*text*/"沿道");
 INSERT INTO `card_location` VALUES (/*index*/871, /*text*/"瞳子の部屋");
 INSERT INTO `card_location` VALUES (/*index*/872, /*text*/"事務所そばの敷地");
 INSERT INTO `card_location` VALUES (/*index*/873, /*text*/"お正月LIVEステージ");
+INSERT INTO `card_location` VALUES (/*index*/874, /*text*/"亜里沙が勤めていた保育園");
+INSERT INTO `card_location` VALUES (/*index*/875, /*text*/"長崎・夕暮れの展望台");
+INSERT INTO `card_location` VALUES (/*index*/876, /*text*/"古いお屋敷のセット");
+INSERT INTO `card_location` VALUES (/*index*/877, /*text*/"不気味な森のセット");
