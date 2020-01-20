@@ -861,3 +861,4 @@ INSERT INTO `card_location` VALUES (/*index*/874, /*text*/"亜里沙が勤めて
 INSERT INTO `card_location` VALUES (/*index*/875, /*text*/"長崎・夕暮れの展望台");
 INSERT INTO `card_location` VALUES (/*index*/876, /*text*/"古いお屋敷のセット");
 INSERT INTO `card_location` VALUES (/*index*/877, /*text*/"不気味な森のセット");
+INSERT INTO `card_location` VALUES (/*index*/878, /*text*/"とある寒い冬の日");

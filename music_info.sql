@@ -89,6 +89,7 @@ INSERT INTO `music_info` VALUES (/*id*/2025, /*discription*/"関裕美（CV：�
 INSERT INTO `music_info` VALUES (/*id*/2026, /*discription*/"大槻唯（CV：山下七海）\n藤本里奈（CV：金子真由美）\n城ヶ崎美嘉（CV：佳村はるか）\n\n\n作詞・作曲：俊龍\n編曲：Sizuk", /*android_url*/"https://columbia.jp/sl-stage/haishin/COCC-17703.html", /*ios_url*/"https://columbia.jp/sl-stage/haishin/COCC-17703.html");
 INSERT INTO `music_info` VALUES (/*id*/2027, /*discription*/"速水奏（CV：飯田友子）\n新田美波（CV：洲崎綾）\n\n\n作詞・作曲・編曲：烏屋茶房", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/2028, /*discription*/"佐久間まゆ（CV：牧野由依）\n喜多日菜子（CV：深川芹亜）\n\n\n作詞：高瀬愛虹\n作曲・編曲：渡部チェル", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/2029, /*discription*/"鷹富士茄子（CV：森下来奈）\n白菊ほたる（CV：天野聡美）\n\n\n作詞・作曲・編曲：内海孝彰（TRYTONELABO）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/3001, /*discription*/"島村卯月（CV：大橋彩香）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（Yoshi）\nコーラス：Mitsu（BNSI）\nギター：後藤貴徳\nバイオリン：Bloom Quartet & Ensemble", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/3002, /*discription*/"渋谷凛（CV：福原綾香）\n\n\n作詞・作曲：BNEI（遠山明孝・八城雄太）\n作曲：BNEI（遠山明孝）\n編曲：関淳二郎\nギター・コーラス：関淳二郎", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/3003, /*discription*/"本田未央（CV：原紗友里）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（kyo）\nギター：後藤貴徳", /*android_url*/"", /*ios_url*/"");
