@@ -480,6 +480,14 @@ INSERT INTO `tips` VALUES (/*id*/478, /*tips_type*/1, /*value*/232, /*index*/3, 
 INSERT INTO `tips` VALUES (/*id*/479, /*tips_type*/1, /*value*/129, /*index*/3, /*title*/"松原早耶のウワサ③", /*comment*/"喋るよりも速く\n文字が打てるらしい。");
 INSERT INTO `tips` VALUES (/*id*/480, /*tips_type*/1, /*value*/240, /*index*/3, /*title*/"斉藤洋子のウワサ③", /*comment*/"冬でももっちり美肌らしい。");
 INSERT INTO `tips` VALUES (/*id*/481, /*tips_type*/1, /*value*/245, /*index*/3, /*title*/"真鍋いつきのウワサ③", /*comment*/"ボディビルのかけ声が\nやたらとうまいらしい。");
+INSERT INTO `tips` VALUES (/*id*/482, /*tips_type*/1, /*value*/141, /*index*/3, /*title*/"道明寺歌鈴のウワサ③", /*comment*/"家には、きちんとした家系図が\nあるらしい。");
+INSERT INTO `tips` VALUES (/*id*/483, /*tips_type*/1, /*value*/233, /*index*/3, /*title*/"鷹富士茄子のウワサ③", /*comment*/"一度も披露したことのない\n究極の隠し芸があるらしい。");
+INSERT INTO `tips` VALUES (/*id*/484, /*tips_type*/1, /*value*/293, /*index*/3, /*title*/"村上巴のウワサ③", /*comment*/"鉄板奉行らしい。");
+INSERT INTO `tips` VALUES (/*id*/485, /*tips_type*/1, /*value*/264, /*index*/3, /*title*/"野々村そらのウワサ③", /*comment*/"髪を巻くときは\n自作のめいくあっぷそんぐを\n歌っているらしい。");
+INSERT INTO `tips` VALUES (/*id*/486, /*tips_type*/1, /*value*/108, /*index*/3, /*title*/"三村かな子のウワサ③", /*comment*/"雲のおいしい食べ方について\n語らせると止まらないらしい。");
+INSERT INTO `tips` VALUES (/*id*/487, /*tips_type*/1, /*value*/151, /*index*/3, /*title*/"安斎都のウワサ③", /*comment*/"いろんなアイドルの\nウワサを調査中らしい。");
+INSERT INTO `tips` VALUES (/*id*/488, /*tips_type*/1, /*value*/203, /*index*/3, /*title*/"瀬名詩織のウワサ③", /*comment*/"人波にも弱いらしい。");
+INSERT INTO `tips` VALUES (/*id*/489, /*tips_type*/1, /*value*/292, /*index*/3, /*title*/"浜口あやめのウワサ③", /*comment*/"折り紙が得意らしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !");
