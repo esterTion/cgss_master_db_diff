@@ -35,3 +35,4 @@ INSERT INTO `dress_data` VALUES (/*id*/7015000, /*name*/"お伽衣装・白雪�
 INSERT INTO `dress_data` VALUES (/*id*/7016000, /*name*/"お伽衣装・魔法の司書", /*description*/"一日の幻を形にした衣装。\n魔法図書館の司書がモチーフ。\n様々な役柄が、少女たちを楽しく彩る。", /*open_type*/3, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7017000, /*name*/"てるてる珠美To You !", /*description*/"梅雨をテーマにした、珠美の衣装。\n振袖にレインブーツの組み合わせがキュート。\nデザインした者の想いがこもっている。", /*open_type*/3, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7018000, /*name*/"サンライトオブフラワー", /*description*/"太陽を浴びて輝くドレス。\nあたたかな陽光によって織られている。\nこのドレスと共に、少女たちの笑顔も花開く。", /*open_type*/3, /*dress_type*/0);
+INSERT INTO `dress_data` VALUES (/*id*/7019000, /*name*/"Cheese ! Cheese !", /*description*/"ねずみをテーマにした、肇の衣装。\n愛らしい髪型と、チーズなフリルがポイント。\nデザインした者の想いがこもっている。", /*open_type*/3, /*dress_type*/3);
