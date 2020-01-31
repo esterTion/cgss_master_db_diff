@@ -148,3 +148,4 @@ INSERT INTO `medley_live_exclude` VALUES (/*event_id*/3030, /*live_id*/904);
 INSERT INTO `medley_live_exclude` VALUES (/*event_id*/3030, /*live_id*/905);
 INSERT INTO `medley_live_exclude` VALUES (/*event_id*/3030, /*live_id*/906);
 INSERT INTO `medley_live_exclude` VALUES (/*event_id*/3030, /*live_id*/907);
+INSERT INTO `medley_live_exclude` VALUES (/*event_id*/3030, /*live_id*/10036);
