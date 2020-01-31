@@ -864,3 +864,10 @@ INSERT INTO `card_location` VALUES (/*index*/877, /*text*/"不気味な森のセ
 INSERT INTO `card_location` VALUES (/*index*/878, /*text*/"とある寒い冬の日");
 INSERT INTO `card_location` VALUES (/*index*/879, /*text*/"沙理奈の家");
 INSERT INTO `card_location` VALUES (/*index*/880, /*text*/"楽屋前");
+INSERT INTO `card_location` VALUES (/*index*/881, /*text*/"バレンタイン期間限定カフェ");
+INSERT INTO `card_location` VALUES (/*index*/882, /*text*/"森の中のティーパーティー");
+INSERT INTO `card_location` VALUES (/*index*/883, /*text*/"噴水公園");
+INSERT INTO `card_location` VALUES (/*index*/884, /*text*/"待ち合わせ場所");
+INSERT INTO `card_location` VALUES (/*index*/885, /*text*/"夜の街角");
+INSERT INTO `card_location` VALUES (/*index*/886, /*text*/"星空の下");
+INSERT INTO `card_location` VALUES (/*index*/887, /*text*/"合宿所");

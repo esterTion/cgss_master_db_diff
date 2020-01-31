@@ -2,6 +2,7 @@ CREATE TABLE 'room_idol_individual_anime' ('id' INTEGER NOT NULL, 'type' INTEGER
 INSERT INTO `room_idol_individual_anime` VALUES (/*id*/122, /*type*/1, /*idol_id*/122);
 INSERT INTO `room_idol_individual_anime` VALUES (/*id*/127, /*type*/1, /*idol_id*/127);
 INSERT INTO `room_idol_individual_anime` VALUES (/*id*/160, /*type*/1, /*idol_id*/160);
+INSERT INTO `room_idol_individual_anime` VALUES (/*id*/198, /*type*/1, /*idol_id*/198);
 INSERT INTO `room_idol_individual_anime` VALUES (/*id*/224, /*type*/1, /*idol_id*/224);
 INSERT INTO `room_idol_individual_anime` VALUES (/*id*/233, /*type*/1, /*idol_id*/233);
 INSERT INTO `room_idol_individual_anime` VALUES (/*id*/246, /*type*/1, /*idol_id*/246);

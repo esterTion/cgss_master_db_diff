@@ -385,3 +385,4 @@ INSERT INTO `story_category` VALUES (/*id*/414, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/415, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"夢をのぞいたら", /*sub_title*/"夢をのぞいたら", /*disp_order*/112);
 INSERT INTO `story_category` VALUES (/*id*/416, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"今井加奈 / 若林智香", /*sub_title*/"今井加奈 / 若林智香", /*disp_order*/113);
 INSERT INTO `story_category` VALUES (/*id*/417, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"幸せの法則 ～ルール～", /*sub_title*/"幸せの法則 ～ルール～", /*disp_order*/114);
+INSERT INTO `story_category` VALUES (/*id*/418, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Unlock Starbeat", /*sub_title*/"Unlock Starbeat", /*disp_order*/115);

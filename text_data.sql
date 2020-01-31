@@ -743,7 +743,7 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/65, /*text*/"アイド�
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/66, /*text*/"ユニット\nリセット");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/67, /*text*/"[D95E73]未所属[-]");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/68, /*text*/"[D95E73]未登録[-]");
-INSERT INTO `text_data` VALUES (/*category*/14, /*index*/80, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/80, /*text*/" この楽曲では全てのアイドルが\n 固定の衣装で出演します。");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/1, /*text*/"月間獲得ファン数ランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/2, /*text*/"今期のランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/3, /*text*/"前期のランキング");
