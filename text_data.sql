@@ -1319,10 +1319,10 @@ INSERT INTO `text_data` VALUES (/*category*/23, /*index*/81, /*text*/"{0}の所�
 INSERT INTO `text_data` VALUES (/*category*/23, /*index*/82, /*text*/"MASTER+選択時は、楽曲のタイプは選択できません");
 INSERT INTO `text_data` VALUES (/*category*/23, /*index*/83, /*text*/"プレゼント未受け取りアイテム");
 INSERT INTO `text_data` VALUES (/*category*/23, /*index*/84, /*text*/"このアイテムはプレゼントに贈られており、\n未受け取りの状態です。");
-INSERT INTO `text_data` VALUES (/*category*/23, /*index*/85, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/23, /*index*/86, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/23, /*index*/87, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/23, /*index*/88, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/23, /*index*/85, /*text*/"カジュアルマッチでプレイする");
+INSERT INTO `text_data` VALUES (/*category*/23, /*index*/86, /*text*/"カジュアルマッチでプレイしない");
+INSERT INTO `text_data` VALUES (/*category*/23, /*index*/87, /*text*/"変更");
+INSERT INTO `text_data` VALUES (/*category*/23, /*index*/88, /*text*/"カジュアルマッチ（異なる難易度のプロデューサーとも一緒にプレイ）");
 INSERT INTO `text_data` VALUES (/*category*/24, /*index*/1, /*text*/"サンプル");
 INSERT INTO `text_data` VALUES (/*category*/24, /*index*/2, /*text*/"合計");
 INSERT INTO `text_data` VALUES (/*category*/24, /*index*/3, /*text*/"所持数");
