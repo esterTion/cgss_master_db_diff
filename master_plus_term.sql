@@ -77,3 +77,6 @@ INSERT INTO `master_plus_term` VALUES (/*id*/75, /*start_date*/"2019-12-16 00:00
 INSERT INTO `master_plus_term` VALUES (/*id*/76, /*start_date*/"2019-12-30 00:00:00", /*end_date*/"2020-01-12 23:59:59", /*master_plus_group*/1, /*notice_start_date*/"2019-12-28 14:30:00");
 INSERT INTO `master_plus_term` VALUES (/*id*/77, /*start_date*/"2020-01-13 00:00:00", /*end_date*/"2020-01-26 23:59:59", /*master_plus_group*/2, /*notice_start_date*/"2019-12-28 14:30:00");
 INSERT INTO `master_plus_term` VALUES (/*id*/78, /*start_date*/"2020-01-27 00:00:00", /*end_date*/"2020-02-09 23:59:59", /*master_plus_group*/3, /*notice_start_date*/"2019-12-30 00:00:00");
+INSERT INTO `master_plus_term` VALUES (/*id*/79, /*start_date*/"2020-02-10 00:00:00", /*end_date*/"2020-02-23 23:59:59", /*master_plus_group*/1, /*notice_start_date*/"2020-02-07 14:30:00");
+INSERT INTO `master_plus_term` VALUES (/*id*/80, /*start_date*/"2020-02-24 00:00:00", /*end_date*/"2020-03-08 23:59:59", /*master_plus_group*/2, /*notice_start_date*/"2020-02-07 14:30:00");
+INSERT INTO `master_plus_term` VALUES (/*id*/81, /*start_date*/"2020-03-09 00:00:00", /*end_date*/"2020-03-22 23:59:59", /*master_plus_group*/3, /*notice_start_date*/"2020-02-10 00:00:00");
