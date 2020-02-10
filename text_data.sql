@@ -1691,6 +1691,9 @@ INSERT INTO `text_data` VALUES (/*category*/33, /*index*/20, /*text*/"メニュ�
 INSERT INTO `text_data` VALUES (/*category*/33, /*index*/21, /*text*/"対象の話はありません");
 INSERT INTO `text_data` VALUES (/*category*/33, /*index*/22, /*text*/"[FF7A7A]前後の話はありません[-]");
 INSERT INTO `text_data` VALUES (/*category*/33, /*index*/23, /*text*/"横読み");
+INSERT INTO `text_data` VALUES (/*category*/33, /*index*/24, /*text*/"劇場わいど");
+INSERT INTO `text_data` VALUES (/*category*/33, /*index*/25, /*text*/"一覧");
+INSERT INTO `text_data` VALUES (/*category*/33, /*index*/26, /*text*/"ドレス\nショップへ");
 INSERT INTO `text_data` VALUES (/*category*/34, /*index*/1, /*text*/"近日公開予定");
 INSERT INTO `text_data` VALUES (/*category*/34, /*index*/2, /*text*/"近日公開予定");
 INSERT INTO `text_data` VALUES (/*category*/34, /*index*/3, /*text*/"近日公開予定");
