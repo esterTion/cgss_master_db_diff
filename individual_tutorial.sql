@@ -172,6 +172,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30012, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30013, /*img*/1, /*discription*/"LIVEに新機能「うたいわけ」を追加しました !\n対応楽曲のユニット確認画面で、「うたいわけ」ボタンを\nONに切り替えることで利用できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30013, /*img*/1, /*discription*/"「うたいわけ」に対応するアイドルは楽曲によって異なり、\n非対応のアイドルが配置されているパートは\n対応アイドルからランダムに選ばれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30013, /*img*/1, /*discription*/"ユニット確認画面からアイドルを編成することで、\n「絞り込み」ポップアップから選択中の楽曲の\n対応アイドルのみを絞り込んで編成できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30014, /*img*/1, /*discription*/"「トレチケタイム」アップデート !\n好きなタイミングで「トレチケタイム」が\nスタートできるようになりました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30014, /*img*/1, /*discription*/"「トレチケタイムチケット」使用後の「LIVE3回」に\n「トレチケタイム」が適用されます。\n※ 「トレチケタイムチケット」は毎日の\nログインボーナス時に獲得できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30014, /*img*/2, /*discription*/"さらに「トレチケタイム」の獲得報酬が\nアップグレード ! 1回のLIVEで\n必ず「3枚」のトレチケが獲得できます。 ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30014, /*img*/2, /*discription*/"特技Lvを上昇させやすいトレチケも獲得しやすくなりました !\n「トレチケタイム」を有効活用して\nアイドルのレベル・特技Lvをアップさせましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「バレンタインスペシャルLIVEキャンペーン」開催中 ! !\n期間中にLIVEをクリアすると、\nバレンタイン限定のアイテムを獲得できます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
