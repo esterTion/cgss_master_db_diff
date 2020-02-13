@@ -3,3 +3,4 @@ INSERT INTO `room_idol_present` VALUES (/*id*/1, /*reward_date*/"2016-9-3 15:00:
 INSERT INTO `room_idol_present` VALUES (/*id*/2, /*reward_date*/"2017-2-14 00:00:00", /*receive_limit_date*/"2017-3-1 00:00:00", /*reward_type*/5, /*reward_id*/103, /*reward_num*/1, /*image*/"item_00103_s");
 INSERT INTO `room_idol_present` VALUES (/*id*/3, /*reward_date*/"2018-2-14 00:00:00", /*receive_limit_date*/"2018-3-1 00:00:00", /*reward_type*/5, /*reward_id*/104, /*reward_num*/1, /*image*/"item_00104_s");
 INSERT INTO `room_idol_present` VALUES (/*id*/4, /*reward_date*/"2019-2-14 00:00:00", /*receive_limit_date*/"2019-3-1 00:00:00", /*reward_type*/5, /*reward_id*/105, /*reward_num*/1, /*image*/"item_00105_s");
+INSERT INTO `room_idol_present` VALUES (/*id*/5, /*reward_date*/"2020-2-14 00:00:00", /*receive_limit_date*/"2020-3-1 00:00:00", /*reward_type*/5, /*reward_id*/106, /*reward_num*/1, /*image*/"item_00106_s");

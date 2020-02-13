@@ -7,4 +7,6 @@ INSERT INTO `latte_art_target` VALUES (/*id*/5, /*type*/3, /*latte_id*/104, /*va
 INSERT INTO `latte_art_target` VALUES (/*id*/6, /*type*/3, /*latte_id*/128, /*val_id*/7012000, /*card_id*/0);
 INSERT INTO `latte_art_target` VALUES (/*id*/7, /*type*/3, /*latte_id*/203, /*val_id*/13, /*card_id*/0);
 INSERT INTO `latte_art_target` VALUES (/*id*/8, /*type*/2, /*latte_id*/221, /*val_id*/2031, /*card_id*/0);
+INSERT INTO `latte_art_target` VALUES (/*id*/9, /*type*/1, /*latte_id*/222, /*val_id*/30484, /*card_id*/100791);
+INSERT INTO `latte_art_target` VALUES (/*id*/10, /*type*/1, /*latte_id*/223, /*val_id*/30485, /*card_id*/300777);
 CREATE INDEX 'latte_art_target_0_type_1_val_id' on 'latte_art_target'('type','val_id');
