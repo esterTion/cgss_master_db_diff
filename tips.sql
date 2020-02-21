@@ -488,6 +488,13 @@ INSERT INTO `tips` VALUES (/*id*/486, /*tips_type*/1, /*value*/108, /*index*/3, 
 INSERT INTO `tips` VALUES (/*id*/487, /*tips_type*/1, /*value*/151, /*index*/3, /*title*/"安斎都のウワサ③", /*comment*/"いろんなアイドルの\nウワサを調査中らしい。");
 INSERT INTO `tips` VALUES (/*id*/488, /*tips_type*/1, /*value*/203, /*index*/3, /*title*/"瀬名詩織のウワサ③", /*comment*/"人波にも弱いらしい。");
 INSERT INTO `tips` VALUES (/*id*/489, /*tips_type*/1, /*value*/292, /*index*/3, /*title*/"浜口あやめのウワサ③", /*comment*/"折り紙が得意らしい。");
+INSERT INTO `tips` VALUES (/*id*/490, /*tips_type*/1, /*value*/308, /*index*/2, /*title*/"白雪千夜のウワサ②", /*comment*/"自室には鏡がないらしい。");
+INSERT INTO `tips` VALUES (/*id*/491, /*tips_type*/1, /*value*/116, /*index*/3, /*title*/"江上椿のウワサ③", /*comment*/"鞄の重さに驚かれるらしい。");
+INSERT INTO `tips` VALUES (/*id*/492, /*tips_type*/1, /*value*/177, /*index*/3, /*title*/"東郷あいのウワサ③", /*comment*/"ドレスもスーツも\nたくさん持っているらしい。");
+INSERT INTO `tips` VALUES (/*id*/493, /*tips_type*/1, /*value*/283, /*index*/3, /*title*/"市原仁奈のウワサ③", /*comment*/"全身タイツは\nちょっと違うらしい。");
+INSERT INTO `tips` VALUES (/*id*/494, /*tips_type*/1, /*value*/152, /*index*/3, /*title*/"浅野風香のウワサ③", /*comment*/"中学生時代に使っていた\nペンネームは、\nもう使っていないらしい。");
+INSERT INTO `tips` VALUES (/*id*/495, /*tips_type*/1, /*value*/124, /*index*/3, /*title*/"遊佐こずえのウワサ③", /*comment*/"くしゃみをすると\nどこかであめがふるらしい。");
+INSERT INTO `tips` VALUES (/*id*/496, /*tips_type*/1, /*value*/231, /*index*/3, /*title*/"桐生つかさのウワサ③", /*comment*/"ウワサも使いこなしてこそ\nプロらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !");
@@ -901,5 +908,6 @@ INSERT INTO `tips` VALUES (/*id*/40373, /*tips_type*/4, /*value*/199, /*index*/2
 INSERT INTO `tips` VALUES (/*id*/40374, /*tips_type*/4, /*value*/210, /*index*/2, /*title*/"篠原礼②　どうしようかしら", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40375, /*tips_type*/4, /*value*/220, /*index*/2, /*title*/"塩見周子②　この顔要注意", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/40376, /*tips_type*/4, /*value*/234, /*index*/2, /*title*/"本田未央②　サンノスMC案", /*comment*/"");
+INSERT INTO `tips` VALUES (/*id*/40377, /*tips_type*/4, /*value*/308, /*index*/2, /*title*/"白雪千夜②　黒埼家の料理事情", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50001, /*tips_type*/5, /*value*/1, /*index*/1, /*title*/"縦画面持ち替え説明画像", /*comment*/"");
 INSERT INTO `tips` VALUES (/*id*/50002, /*tips_type*/5, /*value*/2, /*index*/1, /*title*/"縦画面横に持ち替え説明画像", /*comment*/"");
