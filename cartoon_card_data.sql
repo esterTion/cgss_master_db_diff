@@ -242,6 +242,12 @@ INSERT INTO `cartoon_card_data` VALUES (/*id*/240, /*card_id*/100491, /*cost_typ
 INSERT INTO `cartoon_card_data` VALUES (/*id*/241, /*card_id*/300479, /*cost_type*/5, /*cost_id*/1006, /*cost_value*/1, /*start_date*/"2020-01-27 15:00:00", /*end_date*/"2030-04-01 14:00:00");
 INSERT INTO `cartoon_card_data` VALUES (/*id*/242, /*card_id*/200627, /*cost_type*/5, /*cost_id*/1006, /*cost_value*/1, /*start_date*/"2020-01-27 15:00:00", /*end_date*/"2030-04-01 14:00:00");
 INSERT INTO `cartoon_card_data` VALUES (/*id*/243, /*card_id*/100627, /*cost_type*/5, /*cost_id*/1006, /*cost_value*/1, /*start_date*/"2020-01-27 15:00:00", /*end_date*/"2030-04-01 14:00:00");
+INSERT INTO `cartoon_card_data` VALUES (/*id*/244, /*card_id*/200367, /*cost_type*/5, /*cost_id*/1006, /*cost_value*/1, /*start_date*/"2020-02-25 15:00:00", /*end_date*/"2030-04-01 14:00:00");
+INSERT INTO `cartoon_card_data` VALUES (/*id*/245, /*card_id*/100359, /*cost_type*/5, /*cost_id*/1006, /*cost_value*/1, /*start_date*/"2020-02-25 15:00:00", /*end_date*/"2030-04-01 14:00:00");
+INSERT INTO `cartoon_card_data` VALUES (/*id*/246, /*card_id*/300491, /*cost_type*/5, /*cost_id*/1006, /*cost_value*/1, /*start_date*/"2020-02-25 15:00:00", /*end_date*/"2030-04-01 14:00:00");
+INSERT INTO `cartoon_card_data` VALUES (/*id*/247, /*card_id*/200507, /*cost_type*/5, /*cost_id*/1006, /*cost_value*/1, /*start_date*/"2020-02-25 15:00:00", /*end_date*/"2030-04-01 14:00:00");
+INSERT INTO `cartoon_card_data` VALUES (/*id*/248, /*card_id*/300629, /*cost_type*/5, /*cost_id*/1006, /*cost_value*/1, /*start_date*/"2020-02-25 15:00:00", /*end_date*/"2030-04-01 14:00:00");
+INSERT INTO `cartoon_card_data` VALUES (/*id*/249, /*card_id*/200645, /*cost_type*/5, /*cost_id*/1006, /*cost_value*/1, /*start_date*/"2020-02-25 15:00:00", /*end_date*/"2030-04-01 14:00:00");
 INSERT INTO `cartoon_card_data` VALUES (/*id*/285, /*card_id*/300717, /*cost_type*/5, /*cost_id*/1006, /*cost_value*/1, /*start_date*/"2019-09-13 15:00:00", /*end_date*/"2030-04-01 14:00:00");
 INSERT INTO `cartoon_card_data` VALUES (/*id*/286, /*card_id*/200733, /*cost_type*/5, /*cost_id*/1006, /*cost_value*/1, /*start_date*/"2019-09-20 15:00:00", /*end_date*/"2030-04-01 14:00:00");
 INSERT INTO `cartoon_card_data` VALUES (/*id*/287, /*card_id*/100727, /*cost_type*/5, /*cost_id*/1006, /*cost_value*/1, /*start_date*/"2019-09-20 15:00:00", /*end_date*/"2030-04-01 14:00:00");
