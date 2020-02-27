@@ -145,3 +145,4 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200097, /*name*/"Secret 
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200098, /*name*/"Sun! High! Gold!（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/98);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200099, /*name*/"ギュっとMilky Way（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/99);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200100, /*name*/"夢をのぞいたら（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/100);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200101, /*name*/"幸せの法則 ～ルール～（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/101);
