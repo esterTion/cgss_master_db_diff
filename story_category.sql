@@ -388,3 +388,4 @@ INSERT INTO `story_category` VALUES (/*id*/417, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/418, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Unlock Starbeat", /*sub_title*/"Unlock Starbeat", /*disp_order*/115);
 INSERT INTO `story_category` VALUES (/*id*/419, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"印象", /*sub_title*/"印象", /*disp_order*/116);
 INSERT INTO `story_category` VALUES (/*id*/421, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"映画「デジモン」コラボ", /*sub_title*/"映画「デジモン」コラボ", /*disp_order*/13);
+INSERT INTO `story_category` VALUES (/*id*/422, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Gaze and Gaze", /*sub_title*/"Gaze and Gaze", /*disp_order*/117);

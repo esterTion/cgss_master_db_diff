@@ -603,11 +603,12 @@ INSERT INTO `text_data` VALUES (/*category*/12, /*index*/81, /*text*/"ガシャ�
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/82, /*text*/"ルナシャイン");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/83, /*text*/"※[D33D98]{0}[-]%の割合で、プレミアムカットのアイドルとして登場します。");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/84, /*text*/"使用期限終了まで{0}");
-INSERT INTO `text_data` VALUES (/*category*/12, /*index*/85, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/85, /*text*/"所持マニーに直接付与されました");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/86, /*text*/"1日1回無料のガシャストック（{0}回分）の\n利用期限が迫っています。\n利用期限以降はストックを使って\n無料ガシャを引くことが出来なくなります。\n\n利用期限：{1}");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/87, /*text*/"1日10連無料のガシャストック（{0}回分）の\n利用期限が迫っています。\n利用期限以降はストックを使って\n無料ガシャを引くことが出来なくなります。\n\n利用期限：{1}");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/88, /*text*/"1日1回無料（{0}回分）と1日10連無料（{1}回分）の\nガシャストックの利用期限が迫っています。\n利用期限以降はストックを使って無料ガシャを引くことが出来なくなります。\n\n利用期限：{2}");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/89, /*text*/"1日1回無料（{0}回分）と1日10連無料（{1}回分）の\nガシャストックの利用期限が迫っています。\n利用期限以降はストックを使って無料ガシャを引くことが出来なくなります。\n\n1日1回の利用期限：{2}\n1日10連の利用期限：{3}");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/90, /*text*/"ガシャストック通知");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/1, /*text*/"エクストラコミュ解放");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/2, /*text*/"新たなエクストラコミュが解放されました");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/3, /*text*/"事務所");
