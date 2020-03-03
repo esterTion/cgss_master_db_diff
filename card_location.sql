@@ -883,3 +883,8 @@ INSERT INTO `card_location` VALUES (/*index*/896, /*text*/"桃華の家・私有
 INSERT INTO `card_location` VALUES (/*index*/897, /*text*/"体育館のステージ");
 INSERT INTO `card_location` VALUES (/*index*/898, /*text*/"夜の港");
 INSERT INTO `card_location` VALUES (/*index*/899, /*text*/"マッサージ店");
+INSERT INTO `card_location` VALUES (/*index*/900, /*text*/"雪の降る公園");
+INSERT INTO `card_location` VALUES (/*index*/901, /*text*/"朽ちた洋館");
+INSERT INTO `card_location` VALUES (/*index*/902, /*text*/"ラップバトル会場");
+INSERT INTO `card_location` VALUES (/*index*/903, /*text*/"飛行機内");
+INSERT INTO `card_location` VALUES (/*index*/904, /*text*/"飛行戦艦・艦橋");

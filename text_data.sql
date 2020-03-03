@@ -2298,6 +2298,10 @@ INSERT INTO `text_data` VALUES (/*category*/52, /*index*/1, /*text*/"このア�
 INSERT INTO `text_data` VALUES (/*category*/53, /*index*/1, /*text*/"期限切れ");
 INSERT INTO `text_data` VALUES (/*category*/54, /*index*/1, /*text*/"ログインボーナス獲得エラー");
 INSERT INTO `text_data` VALUES (/*category*/54, /*index*/2, /*text*/"正常にログインボーナスが\n受け取れませんでした。\nタイトル画面に戻ります。");
+INSERT INTO `text_data` VALUES (/*category*/55, /*index*/1, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/55, /*index*/2, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/55, /*index*/3, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/55, /*index*/4, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/1, /*text*/"利用規約とプライバシーポリシーに\n同意してから本サービスをご利用ください。\n\nまた、未成年の方は、\n法定代理人（ご両親等）の同意が必要です。\n\n※ないようがわからないときは\nおうちのひとにがめんをみせてください。");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/2, /*text*/"利用規約");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/3, /*text*/"同意しない");
