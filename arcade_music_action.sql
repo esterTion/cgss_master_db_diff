@@ -1,0 +1,1 @@
+CREATE TABLE 'arcade_music_action' ('id' INTEGER NOT NULL, 'music_data_id' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'action_target_type' INTEGER NOT NULL, 'action_target_values' TEXT NOT NULL, 'action_type' INTEGER NOT NULL, 'action_value' INTEGER NOT NULL, 'talk_type' INTEGER NOT NULL, PRIMARY KEY('id'));

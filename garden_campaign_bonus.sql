@@ -1,0 +1,1 @@
+CREATE TABLE 'garden_campaign_bonus' ('id' INTEGER NOT NULL, 'campaign_type' INTEGER NOT NULL, 'value_1' INTEGER NOT NULL, 'value_2' INTEGER NOT NULL, 'value_3' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'));
