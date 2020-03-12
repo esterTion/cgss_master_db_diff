@@ -1,1 +1,0 @@
-CREATE TABLE 'arcade_game_settings' ('id' INTEGER NOT NULL, 'chara_count_in_deck' INTEGER NOT NULL, 'jewel_incremental_count' INTEGER NOT NULL, 'tradable_reload_jewel' INTEGER NOT NULL, 'max_voltage_value' INTEGER NOT NULL, 'default_deploy_area_count' INTEGER NOT NULL, PRIMARY KEY('id'));

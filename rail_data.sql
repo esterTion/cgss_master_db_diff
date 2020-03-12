@@ -1,2 +1,2 @@
 CREATE TABLE 'rail_data' ('event_id' INTEGER NOT NULL, 'event_live_id' INTEGER NOT NULL, 'item_id' INTEGER NOT NULL, 'start_group_id' INTEGER NOT NULL, 'story_flag' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('event_id'));
-INSERT INTO `rail_data` VALUES (/*event_id*/6013, /*event_live_id*/0, /*item_id*/62013, /*start_group_id*/1, /*story_flag*/1, /*start_date*/"2020-01-11 15:00:00", /*end_date*/"2020-01-17 20:59:59");
+INSERT INTO `rail_data` VALUES (/*event_id*/6014, /*event_live_id*/0, /*item_id*/62014, /*start_group_id*/1, /*story_flag*/1, /*start_date*/"2020-03-12 15:00:00", /*end_date*/"2020-03-18 20:59:59");

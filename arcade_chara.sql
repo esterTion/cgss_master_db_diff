@@ -1,2 +1,0 @@
-CREATE TABLE 'arcade_chara' ('id' INTEGER NOT NULL, 'card_id' INTEGER NOT NULL, 'showup_condition' INTEGER NOT NULL, 'auto_open_talk_window_condition' INTEGER NOT NULL, 'bubble_type' INTEGER NOT NULL, 'bubble_type_after_change' INTEGER NOT NULL, 'bubble_type_change_condition' INTEGER NOT NULL, 'talk_type1' INTEGER NOT NULL, 'talk_type2' INTEGER NOT NULL, 'talk_type2_condition' INTEGER NOT NULL, PRIMARY KEY('id'));
-CREATE INDEX 'arcade_chara_0_card_id' on 'arcade_chara'('card_id');

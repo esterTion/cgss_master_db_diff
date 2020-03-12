@@ -888,3 +888,7 @@ INSERT INTO `card_location` VALUES (/*index*/901, /*text*/"朽ちた洋館");
 INSERT INTO `card_location` VALUES (/*index*/902, /*text*/"ラップバトル会場");
 INSERT INTO `card_location` VALUES (/*index*/903, /*text*/"飛行機内");
 INSERT INTO `card_location` VALUES (/*index*/904, /*text*/"飛行戦艦・艦橋");
+INSERT INTO `card_location` VALUES (/*index*/905, /*text*/"撮影前の広場");
+INSERT INTO `card_location` VALUES (/*index*/906, /*text*/"野外フェス・LIVEステージ");
+INSERT INTO `card_location` VALUES (/*index*/907, /*text*/"春のローカル鉄道");
+INSERT INTO `card_location` VALUES (/*index*/908, /*text*/"夜の神社");
