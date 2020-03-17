@@ -1776,6 +1776,10 @@ INSERT INTO `text_data` VALUES (/*category*/36, /*index*/20, /*text*/"メニュ�
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/21, /*text*/"対象の話はありません");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/24, /*text*/"シアター");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/25, /*text*/"その他");
+INSERT INTO `text_data` VALUES (/*category*/36, /*index*/26, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/36, /*index*/27, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/36, /*index*/28, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/36, /*index*/29, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/1, /*text*/"{0}を使用する");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/2, /*text*/"　[FF7A7A]{0}[-]を使用して\nアイドルのポテンシャルをすべて0に戻しますか？");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/3, /*text*/"返還アイテム");

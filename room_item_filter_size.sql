@@ -1,0 +1,12 @@
+CREATE TABLE 'room_item_filter_size' ('id' INTEGER NOT NULL, 'size' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `room_item_filter_size` VALUES (/*id*/1, /*size*/1);
+INSERT INTO `room_item_filter_size` VALUES (/*id*/2, /*size*/2);
+INSERT INTO `room_item_filter_size` VALUES (/*id*/3, /*size*/3);
+INSERT INTO `room_item_filter_size` VALUES (/*id*/4, /*size*/4);
+INSERT INTO `room_item_filter_size` VALUES (/*id*/5, /*size*/6);
+INSERT INTO `room_item_filter_size` VALUES (/*id*/6, /*size*/8);
+INSERT INTO `room_item_filter_size` VALUES (/*id*/7, /*size*/9);
+INSERT INTO `room_item_filter_size` VALUES (/*id*/8, /*size*/12);
+INSERT INTO `room_item_filter_size` VALUES (/*id*/9, /*size*/15);
+INSERT INTO `room_item_filter_size` VALUES (/*id*/10, /*size*/16);
+CREATE INDEX 'room_item_filter_size_0_size' on 'room_item_filter_size'('size');

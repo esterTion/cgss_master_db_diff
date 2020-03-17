@@ -1,0 +1,1 @@
+CREATE TABLE 'arcade_synergy' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'description' TEXT NOT NULL, 'target_values' TEXT NOT NULL, 'action_type' INTEGER NOT NULL, 'action_value' INTEGER NOT NULL, PRIMARY KEY('id'));
