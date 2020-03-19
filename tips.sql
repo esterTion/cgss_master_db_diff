@@ -495,6 +495,12 @@ INSERT INTO `tips` VALUES (/*id*/493, /*tips_type*/1, /*value*/283, /*index*/3, 
 INSERT INTO `tips` VALUES (/*id*/494, /*tips_type*/1, /*value*/152, /*index*/3, /*title*/"浅野風香のウワサ③", /*comment*/"中学生時代に使っていた\nペンネームは、\nもう使っていないらしい。");
 INSERT INTO `tips` VALUES (/*id*/495, /*tips_type*/1, /*value*/124, /*index*/3, /*title*/"遊佐こずえのウワサ③", /*comment*/"くしゃみをすると\nどこかであめがふるらしい。");
 INSERT INTO `tips` VALUES (/*id*/496, /*tips_type*/1, /*value*/231, /*index*/3, /*title*/"桐生つかさのウワサ③", /*comment*/"ウワサも使いこなしてこそ\nプロらしい。");
+INSERT INTO `tips` VALUES (/*id*/497, /*tips_type*/1, /*value*/106, /*index*/3, /*title*/"今井加奈のウワサ③", /*comment*/"先生とお母さんと\nプロデューサーが\nたまに混ざるらしい。");
+INSERT INTO `tips` VALUES (/*id*/498, /*tips_type*/1, /*value*/254, /*index*/3, /*title*/"小関麗奈のウワサ③", /*comment*/"ピンチになると、\nにやりと笑って、\n高笑いするらしい。");
+INSERT INTO `tips` VALUES (/*id*/499, /*tips_type*/1, /*value*/255, /*index*/3, /*title*/"衛藤美紗希のウワサ③", /*comment*/"歴代のケータイは\nすべてとってあるらしい。");
+INSERT INTO `tips` VALUES (/*id*/500, /*tips_type*/1, /*value*/102, /*index*/3, /*title*/"中野有香のウワサ③", /*comment*/"店員さんの接客には、\n負けっぱなしらしい。");
+INSERT INTO `tips` VALUES (/*id*/501, /*tips_type*/1, /*value*/160, /*index*/3, /*title*/"村松さくらのウワサ③", /*comment*/"ひとりでいるときは、\nすぐに友だちに\n会いに行くらしい。");
+INSERT INTO `tips` VALUES (/*id*/502, /*tips_type*/1, /*value*/214, /*index*/3, /*title*/"白坂小梅のウワサ③", /*comment*/"真っ赤な入浴剤が好きらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !");

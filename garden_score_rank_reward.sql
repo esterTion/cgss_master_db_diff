@@ -1,2 +1,0 @@
-CREATE TABLE 'garden_score_rank_reward' ('id' INTEGER NOT NULL, 'minigame_id' INTEGER NOT NULL, 'score_rank' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_value' INTEGER NOT NULL, 'add_value_1' INTEGER NOT NULL, 'add_value_2' INTEGER NOT NULL, 'add_value_3' INTEGER NOT NULL, PRIMARY KEY('id'));
-CREATE INDEX 'garden_score_rank_reward_0_minigame_id' on 'garden_score_rank_reward'('minigame_id');

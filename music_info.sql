@@ -231,6 +231,7 @@ INSERT INTO `music_info` VALUES (/*id*/8036, /*discription*/"Butter-Fly（和田
 INSERT INTO `music_info` VALUES (/*id*/8037, /*discription*/"brave heart（宮崎歩）\n\n森久保乃々（CV：高橋花林）\n\n\n作詞：大森祥子\n作曲：太田美知彦", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8038, /*discription*/"I wish（前田愛）\n\n佐城雪美（CV：中澤ミナ）\n\n\n作詞：三浦徳子\n作曲：白川善久", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8039, /*discription*/"離れていても（AiM）\n\n佐久間まゆ（CV：牧野由依）\n\n\n作詞・作曲：岡本真夜", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/8040, /*discription*/"見上げてごらん夜の星を\n\nアナスタシア（CV：上坂すみれ）\n\n\n作詞：永六輔\n作曲：いずみたく", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/9001, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n双葉杏（CV：五十嵐裕美）\n諸星きらり（CV：松嵜麗）\n\n\n作詞：marhy\n作曲・編曲：BNSI（内田哲也）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/9002, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n大槻唯（CV：山下七海）\n上条春菜（CV：長島光那）\n\n\n作詞：俊龍\n作曲：俊龍\n編曲：Sizuk", /*android_url*/"http://columbia.jp/sl-stage/haishin/COCC-17141.html", /*ios_url*/"http://columbia.jp/sl-stage/haishin/COCC-17141.html");
 INSERT INTO `music_info` VALUES (/*id*/9003, /*discription*/"速水奏（CV：飯田友子）\n塩見周子（CV：ルゥ ティン）\n城ヶ崎美嘉（CV：佳村はるか）\n宮本フレデリカ（CV：高野麻美）\n一ノ瀬志希（CV：藍原ことみ）\n\n\n作詞：森由⾥⼦\n作曲・編曲：石濱翔（MONACA）", /*android_url*/"http://columbia.jp/sl-stage/haishin/COCC-17142.html", /*ios_url*/"http://columbia.jp/sl-stage/haishin/COCC-17142.html");

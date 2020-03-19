@@ -892,3 +892,5 @@ INSERT INTO `card_location` VALUES (/*index*/905, /*text*/"撮影前の広場");
 INSERT INTO `card_location` VALUES (/*index*/906, /*text*/"野外フェス・LIVEステージ");
 INSERT INTO `card_location` VALUES (/*index*/907, /*text*/"春のローカル鉄道");
 INSERT INTO `card_location` VALUES (/*index*/908, /*text*/"夜の神社");
+INSERT INTO `card_location` VALUES (/*index*/912, /*text*/"渚のテラス");
+INSERT INTO `card_location` VALUES (/*index*/913, /*text*/"合宿先の部屋");
