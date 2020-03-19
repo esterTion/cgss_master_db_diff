@@ -519,6 +519,8 @@ INSERT INTO `text_data` VALUES (/*category*/11, /*index*/96, /*text*/"絞り込�
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/97, /*text*/"対象のアイドルがいません");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/98, /*text*/"対象のアイテムがありません");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/99, /*text*/"ルーム\nアイテム");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/100, /*text*/"予告{0}再生");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/101, /*text*/"閉じる");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/1, /*text*/"出現率");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/2, /*text*/"{0}のレア度別提供割合");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/3, /*text*/"{0}の提供アイドル一覧");
@@ -1789,6 +1791,10 @@ INSERT INTO `text_data` VALUES (/*category*/36, /*index*/20, /*text*/"メニュ�
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/21, /*text*/"対象の話はありません");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/24, /*text*/"シアター");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/25, /*text*/"その他");
+INSERT INTO `text_data` VALUES (/*category*/36, /*index*/26, /*text*/"しんげき");
+INSERT INTO `text_data` VALUES (/*category*/36, /*index*/27, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/36, /*index*/28, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/36, /*index*/29, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/1, /*text*/"{0}を使用する");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/2, /*text*/"　[FF7A7A]{0}[-]を使用して\nアイドルのポテンシャルをすべて0に戻しますか？");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/3, /*text*/"返還アイテム");
