@@ -1776,7 +1776,7 @@ INSERT INTO `text_data` VALUES (/*category*/36, /*index*/20, /*text*/"メニュ�
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/21, /*text*/"対象の話はありません");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/24, /*text*/"シアター");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/25, /*text*/"その他");
-INSERT INTO `text_data` VALUES (/*category*/36, /*index*/26, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/36, /*index*/26, /*text*/"しんげき");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/27, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/28, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/29, /*text*/"");
