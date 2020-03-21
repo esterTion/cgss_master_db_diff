@@ -894,3 +894,4 @@ INSERT INTO `card_location` VALUES (/*index*/907, /*text*/"春のローカル鉄
 INSERT INTO `card_location` VALUES (/*index*/908, /*text*/"夜の神社");
 INSERT INTO `card_location` VALUES (/*index*/912, /*text*/"渚のテラス");
 INSERT INTO `card_location` VALUES (/*index*/913, /*text*/"合宿先の部屋");
+INSERT INTO `card_location` VALUES (/*index*/914, /*text*/"スポーツコート");
