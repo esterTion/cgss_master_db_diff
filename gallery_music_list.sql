@@ -21,4 +21,5 @@ INSERT INTO `gallery_music_list` VALUES (/*id*/19, /*disp_order*/23, /*live_id*/
 INSERT INTO `gallery_music_list` VALUES (/*id*/20, /*disp_order*/24, /*live_id*/52, /*motion_id*/3023, /*fade_msec*/1000, /*cutt_name*/"Cutt_Dream", /*sound_offset*/1194);
 INSERT INTO `gallery_music_list` VALUES (/*id*/21, /*disp_order*/25, /*live_id*/53, /*motion_id*/3031, /*fade_msec*/1000, /*cutt_name*/"Cutt_Bright", /*sound_offset*/985);
 INSERT INTO `gallery_music_list` VALUES (/*id*/22, /*disp_order*/26, /*live_id*/59, /*motion_id*/5015, /*fade_msec*/1000, /*cutt_name*/"Cutt_RockinEmotion", /*sound_offset*/1700);
+INSERT INTO `gallery_music_list` VALUES (/*id*/23, /*disp_order*/27, /*live_id*/60, /*motion_id*/3029, /*fade_msec*/1000, /*cutt_name*/"Cutt_Hanakanzashi", /*sound_offset*/1665);
 INSERT INTO `gallery_music_list` VALUES (/*id*/101, /*disp_order*/101, /*live_id*/19, /*motion_id*/5001, /*fade_msec*/1000, /*cutt_name*/"Cutt_Star", /*sound_offset*/893);
