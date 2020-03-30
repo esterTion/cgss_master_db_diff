@@ -286,7 +286,6 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60019, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60019, /*img*/2, /*discription*/"バースデーカード作成ボタンを押すと、誕生日アイドルの\nバースデーカードを作ることができます。\nバースデーカード編集から、好きなデザインを選んで、\nオリジナルのバースデーカードを作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60019, /*img*/3, /*discription*/"バースデーカードに表示させるイラストやコメントは、\nスワイプすることで位置を自由に調整できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60019, /*img*/4, /*discription*/"作ったバースデーカードは、あなたのTwitterに投稿する事が\nできます。バースデーカードページ左下のTwitterアイコンから\n投稿できます。\n※画像の投稿には、公式のTwitterアプリが必要となります。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/60019, /*img*/5, /*discription*/"誕生日アイドルをユニットに入れてLIVEをクリアすると、\nファンからプレゼントが貰えます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60020, /*img*/2, /*discription*/"「フォトスタジオ」は、\n自由にカメラを操作しながら、楽曲にあわせたダンスや\nポーズをアイドルに「オーダー」できる機能です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60020, /*img*/2, /*discription*/"フォトスタジオでは、画面が縦方向になります。\n画面をスワイプでカメラの移動、\nピンチイン・アウトでズームができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60020, /*img*/2, /*discription*/"画面を連続タップするとメニューが開き、\n「オーダー」でアイドルに呼びかけたり、\n「衣装変更」することができます。\n「撮影終了」でフォトスタジオを終了します。");
@@ -313,6 +312,12 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/7, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/8, /*discription*/"また「スポット変更」から\n「ARスタジオ」へ移動できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/8, /*discription*/"マーカーモードは、専用のARマーカー\nを読み込むモードです。\nオートモードでは、自動的に平面を認識\nしてアイドルが登場します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/9, /*discription*/"「スターピース交換」では、フォト\nスタジオで使用できるスポットや\nポーズの獲得が可能です。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60029, /*img*/1, /*discription*/"デレステ公式Twitterアカウントから、アイドルの誕生日を\nお祝いした特別なイラストを約1年にわたって投稿していきます。\nみんなでアイドルの誕生日をお祝いしましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60029, /*img*/2, /*discription*/"誕生日イラストはアイドルトピックス内の\n誕生日ギャラリーに随時追加されます。\n※追加まで時間がかかる場合があります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60029, /*img*/3, /*discription*/"誕生日当日のみファンから貰えていたプレゼントが、\n誕生日の週の月曜日から日曜日までの期間であれば\n貰えるようになりました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60029, /*img*/3, /*discription*/"さらにLIVEだけでなく、誕生日アイドルを編成して\n営業を成功させることでもプレゼントが貰えるようになりました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60030, /*img*/1, /*discription*/"「誕生日ギャラリー」を追加しました。\n誕生日ギャラリーでは、アイドルたちの\n誕生日記念イラストを見ることができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60030, /*img*/2, /*discription*/"絞り込み機能に検索機能を追加しました。\n任意の条件を選択した絞り込みと、アイドル名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/1, /*discription*/"「LIVE PARTY!!」では、協力LIVEを行うことで、\n「スターエンブレム」が獲得できます。\n「スターエンブレム」を集めると、過去イベントの報酬や、\nアイテムとの交換ができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。\n楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/3, /*discription*/"カジュアルマッチを有効にした場合は、\n異なる難易度を選択したプロデューサーもマッチング対象となり、\nLIVEを行います。");

@@ -147,3 +147,4 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200099, /*name*/"ギュ�
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200100, /*name*/"夢をのぞいたら（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/100);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200101, /*name*/"幸せの法則 ～ルール～（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/101);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200102, /*name*/"Unlock Starbeat（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/102);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200103, /*name*/"印象（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/103);
