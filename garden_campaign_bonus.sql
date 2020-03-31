@@ -1,1 +1,2 @@
 CREATE TABLE 'garden_campaign_bonus' ('id' INTEGER NOT NULL, 'campaign_type' INTEGER NOT NULL, 'value_1' INTEGER NOT NULL, 'value_2' INTEGER NOT NULL, 'value_3' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `garden_campaign_bonus` VALUES (/*id*/1, /*campaign_type*/1, /*value_1*/1, /*value_2*/1, /*value_3*/1, /*start_date*/"2015-03-01 15:00:00", /*end_date*/"2020-03-01 15:00:00");

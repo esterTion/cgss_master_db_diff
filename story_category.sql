@@ -303,7 +303,7 @@ INSERT INTO `story_category` VALUES (/*id*/318, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/319, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"遊佐こずえ / 首藤葵", /*sub_title*/"遊佐こずえ / 首藤葵", /*disp_order*/54);
 INSERT INTO `story_category` VALUES (/*id*/320, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"美に入り彩を穿つ", /*sub_title*/"美に入り彩を穿つ", /*disp_order*/53);
 INSERT INTO `story_category` VALUES (/*id*/321, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"always", /*sub_title*/"always", /*disp_order*/55);
-INSERT INTO `story_category` VALUES (/*id*/322, /*type*/5, /*chara_type*/0, /*chara_id*/0, /*title*/"エイプリル2018", /*sub_title*/"エイプリル2018", /*disp_order*/2);
+INSERT INTO `story_category` VALUES (/*id*/322, /*type*/5, /*chara_type*/0, /*chara_id*/0, /*title*/"エイプリル2018", /*sub_title*/"エイプリル2018", /*disp_order*/3);
 INSERT INTO `story_category` VALUES (/*id*/323, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Frost", /*sub_title*/"Frost", /*disp_order*/56);
 INSERT INTO `story_category` VALUES (/*id*/324, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ツインテールの風", /*sub_title*/"ツインテールの風", /*disp_order*/57);
 INSERT INTO `story_category` VALUES (/*id*/325, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"小松伊吹 / 安斎都", /*sub_title*/"小松伊吹 / 安斎都", /*disp_order*/58);
@@ -344,7 +344,7 @@ INSERT INTO `story_category` VALUES (/*id*/359, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/360, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"スパイスパラダイス", /*sub_title*/"スパイスパラダイス", /*disp_order*/84);
 INSERT INTO `story_category` VALUES (/*id*/361, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"義勇忍侠花吹雪", /*sub_title*/"義勇忍侠花吹雪", /*disp_order*/85);
 INSERT INTO `story_category` VALUES (/*id*/362, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Needle Light", /*sub_title*/"Needle Light", /*disp_order*/86);
-INSERT INTO `story_category` VALUES (/*id*/363, /*type*/5, /*chara_type*/0, /*chara_id*/0, /*title*/"エイプリル2019", /*sub_title*/"エイプリル2019", /*disp_order*/1);
+INSERT INTO `story_category` VALUES (/*id*/363, /*type*/5, /*chara_type*/0, /*chara_id*/0, /*title*/"エイプリル2019", /*sub_title*/"エイプリル2019", /*disp_order*/2);
 INSERT INTO `story_category` VALUES (/*id*/364, /*type*/2, /*chara_type*/1, /*chara_id*/307, /*title*/"黒埼ちとせ", /*sub_title*/"", /*disp_order*/201);
 INSERT INTO `story_category` VALUES (/*id*/365, /*type*/2, /*chara_type*/1, /*chara_id*/308, /*title*/"白雪千夜", /*sub_title*/"", /*disp_order*/202);
 INSERT INTO `story_category` VALUES (/*id*/366, /*type*/2, /*chara_type*/3, /*chara_id*/309, /*title*/"久川凪", /*sub_title*/"", /*disp_order*/203);
@@ -387,6 +387,7 @@ INSERT INTO `story_category` VALUES (/*id*/416, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/417, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"幸せの法則 ～ルール～", /*sub_title*/"幸せの法則 ～ルール～", /*disp_order*/114);
 INSERT INTO `story_category` VALUES (/*id*/418, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Unlock Starbeat", /*sub_title*/"Unlock Starbeat", /*disp_order*/115);
 INSERT INTO `story_category` VALUES (/*id*/419, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"印象", /*sub_title*/"印象", /*disp_order*/116);
+INSERT INTO `story_category` VALUES (/*id*/420, /*type*/5, /*chara_type*/0, /*chara_id*/0, /*title*/"エイプリル2020", /*sub_title*/"エイプリル2020", /*disp_order*/1);
 INSERT INTO `story_category` VALUES (/*id*/421, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"映画「デジモン」コラボ", /*sub_title*/"映画「デジモン」コラボ", /*disp_order*/13);
 INSERT INTO `story_category` VALUES (/*id*/422, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Gaze and Gaze", /*sub_title*/"Gaze and Gaze", /*disp_order*/117);
 INSERT INTO `story_category` VALUES (/*id*/423, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"並木芽衣子 / 氏家むつみ", /*sub_title*/"並木芽衣子 / 氏家むつみ", /*disp_order*/118);

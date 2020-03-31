@@ -1,1 +1,2 @@
 CREATE TABLE 'arcade_game_settings' ('id' INTEGER NOT NULL, 'chara_count_in_deck' INTEGER NOT NULL, 'jewel_incremental_count' INTEGER NOT NULL, 'tradable_reload_jewel' INTEGER NOT NULL, 'max_voltage_value' INTEGER NOT NULL, 'default_deploy_area_count' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `arcade_game_settings` VALUES (/*id*/1, /*chara_count_in_deck*/20, /*jewel_incremental_count*/5, /*tradable_reload_jewel*/1, /*max_voltage_value*/100, /*default_deploy_area_count*/3);

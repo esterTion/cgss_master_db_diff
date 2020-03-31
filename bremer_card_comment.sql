@@ -182,6 +182,11 @@ INSERT INTO `bremer_card_comment` VALUES (/*id*/180, /*comment_id*/296, /*use_ty
 INSERT INTO `bremer_card_comment` VALUES (/*id*/181, /*comment_id*/297, /*use_type*/1, /*index*/1, /*voice_flag*/0, /*description*/"んもー☆はぁとがいないと、ダメなんだから♪", /*insert_word_type*/0);
 INSERT INTO `bremer_card_comment` VALUES (/*id*/182, /*comment_id*/298, /*use_type*/1, /*index*/1, /*voice_flag*/0, /*description*/"アタシが来たから、もう心配ないっ !", /*insert_word_type*/0);
 INSERT INTO `bremer_card_comment` VALUES (/*id*/183, /*comment_id*/300, /*use_type*/1, /*index*/1, /*voice_flag*/0, /*description*/"ブリッツェーン、いきますよーっ !", /*insert_word_type*/0);
-INSERT INTO `bremer_card_comment` VALUES (/*id*/184, /*comment_id*/307, /*use_type*/1, /*index*/1, /*voice_flag*/0, /*description*/"あはっ♪いいよ、上手に使ってみせて？", /*insert_word_type*/0);
-INSERT INTO `bremer_card_comment` VALUES (/*id*/185, /*comment_id*/308, /*use_type*/1, /*index*/1, /*voice_flag*/0, /*description*/"お前の従者になった覚えはありませんが", /*insert_word_type*/0);
+INSERT INTO `bremer_card_comment` VALUES (/*id*/184, /*comment_id*/304, /*use_type*/1, /*index*/1, /*voice_flag*/0, /*description*/"りんごパワー、見せちゃうんご !", /*insert_word_type*/0);
+INSERT INTO `bremer_card_comment` VALUES (/*id*/185, /*comment_id*/305, /*use_type*/1, /*index*/1, /*voice_flag*/0, /*description*/"了解デス。…まぁ、任せてよ", /*insert_word_type*/0);
+INSERT INTO `bremer_card_comment` VALUES (/*id*/186, /*comment_id*/306, /*use_type*/1, /*index*/1, /*voice_flag*/0, /*description*/"どーも、歩く本能寺、りあむちゃんでーす", /*insert_word_type*/0);
+INSERT INTO `bremer_card_comment` VALUES (/*id*/187, /*comment_id*/307, /*use_type*/1, /*index*/1, /*voice_flag*/0, /*description*/"あはっ♪いいよ、上手に使ってみせて？", /*insert_word_type*/0);
+INSERT INTO `bremer_card_comment` VALUES (/*id*/188, /*comment_id*/308, /*use_type*/1, /*index*/1, /*voice_flag*/0, /*description*/"お前の従者になった覚えはありませんが", /*insert_word_type*/0);
+INSERT INTO `bremer_card_comment` VALUES (/*id*/189, /*comment_id*/309, /*use_type*/1, /*index*/1, /*voice_flag*/0, /*description*/"凪を使いこなせるか、お手並み拝見", /*insert_word_type*/0);
+INSERT INTO `bremer_card_comment` VALUES (/*id*/190, /*comment_id*/310, /*use_type*/1, /*index*/1, /*voice_flag*/0, /*description*/"はーのこと、頼りにしてね !", /*insert_word_type*/0);
 CREATE INDEX 'bremer_card_comment_0_comment_id' on 'bremer_card_comment'('comment_id');

@@ -17,3 +17,4 @@ INSERT INTO `item_category` VALUES (/*category_type*/15, /*category_name*/"フ�
 INSERT INTO `item_category` VALUES (/*category_type*/16, /*category_name*/"フォトスタジオ・ポーズ");
 INSERT INTO `item_category` VALUES (/*category_type*/17, /*category_name*/"衣装交換チケット");
 INSERT INTO `item_category` VALUES (/*category_type*/19, /*category_name*/"セットアイテム");
+INSERT INTO `item_category` VALUES (/*category_type*/20, /*category_name*/"ゲームメダル");
