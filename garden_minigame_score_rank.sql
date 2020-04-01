@@ -77,7 +77,7 @@ INSERT INTO `garden_minigame_score_rank` VALUES (/*minigame_id*/9, /*score_rank*
 INSERT INTO `garden_minigame_score_rank` VALUES (/*minigame_id*/9, /*score_rank*/4, /*need_score*/450);
 INSERT INTO `garden_minigame_score_rank` VALUES (/*minigame_id*/9, /*score_rank*/5, /*need_score*/590);
 INSERT INTO `garden_minigame_score_rank` VALUES (/*minigame_id*/9, /*score_rank*/6, /*need_score*/730);
-INSERT INTO `garden_minigame_score_rank` VALUES (/*minigame_id*/9, /*score_rank*/7, /*need_score*/870);
+INSERT INTO `garden_minigame_score_rank` VALUES (/*minigame_id*/9, /*score_rank*/7, /*need_score*/800);
 INSERT INTO `garden_minigame_score_rank` VALUES (/*minigame_id*/9, /*score_rank*/8, /*need_score*/900);
 INSERT INTO `garden_minigame_score_rank` VALUES (/*minigame_id*/9, /*score_rank*/9, /*need_score*/999);
 INSERT INTO `garden_minigame_score_rank` VALUES (/*minigame_id*/10, /*score_rank*/1, /*need_score*/0);
