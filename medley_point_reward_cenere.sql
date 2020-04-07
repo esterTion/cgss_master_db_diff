@@ -1,0 +1,2 @@
+CREATE TABLE 'medley_point_reward_cenere' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'need_point' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_value' INTEGER NOT NULL, 'add_value_1' INTEGER NOT NULL, 'add_value_2' INTEGER NOT NULL, 'add_value_3' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE INDEX 'medley_point_reward_cenere_0_event_id' on 'medley_point_reward_cenere'('event_id');

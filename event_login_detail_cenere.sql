@@ -1,0 +1,1 @@
+CREATE TABLE 'event_login_detail_cenere' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'count' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_value' INTEGER NOT NULL, 'image' TEXT NOT NULL, PRIMARY KEY('id'));

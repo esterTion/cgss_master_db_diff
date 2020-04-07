@@ -1,0 +1,1 @@
+CREATE TABLE 'cenere_login_bonus' ('id' INTEGER NOT NULL, 'cenere_id' INTEGER NOT NULL, 'count' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_value' INTEGER NOT NULL, 'image' TEXT NOT NULL, PRIMARY KEY('id'));

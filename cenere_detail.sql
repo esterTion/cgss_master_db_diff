@@ -1,0 +1,1 @@
+CREATE TABLE 'cenere_detail' ('id' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'type' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'icon_img' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'));
