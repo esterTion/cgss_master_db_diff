@@ -907,3 +907,6 @@ INSERT INTO `card_location` VALUES (/*index*/920, /*text*/"レストランの小
 INSERT INTO `card_location` VALUES (/*index*/921, /*text*/"あるかもしれない未来");
 INSERT INTO `card_location` VALUES (/*index*/922, /*text*/"ミュージカルの舞台袖");
 INSERT INTO `card_location` VALUES (/*index*/923, /*text*/"ランウェイの舞台裏");
+INSERT INTO `card_location` VALUES (/*index*/924, /*text*/"フェスイベント会場");
+INSERT INTO `card_location` VALUES (/*index*/925, /*text*/"総合格闘技・会場");
+INSERT INTO `card_location` VALUES (/*index*/926, /*text*/"格闘LIVEステージ");

@@ -393,3 +393,4 @@ INSERT INTO `story_category` VALUES (/*id*/422, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/423, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"並木芽衣子 / 氏家むつみ", /*sub_title*/"並木芽衣子 / 氏家むつみ", /*disp_order*/118);
 INSERT INTO `story_category` VALUES (/*id*/424, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"輝け ! ビートシューター", /*sub_title*/"輝け ! ビートシューター", /*disp_order*/119);
 INSERT INTO `story_category` VALUES (/*id*/425, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Great Journey", /*sub_title*/"Great Journey", /*disp_order*/120);
+INSERT INTO `story_category` VALUES (/*id*/426, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"プリコネRe:Diveコラボ", /*sub_title*/"プリコネRe:Diveコラボ", /*disp_order*/14);
