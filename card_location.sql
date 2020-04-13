@@ -910,3 +910,6 @@ INSERT INTO `card_location` VALUES (/*index*/923, /*text*/"ランウェイの舞
 INSERT INTO `card_location` VALUES (/*index*/924, /*text*/"フェスイベント会場");
 INSERT INTO `card_location` VALUES (/*index*/925, /*text*/"総合格闘技・会場");
 INSERT INTO `card_location` VALUES (/*index*/926, /*text*/"格闘LIVEステージ");
+INSERT INTO `card_location` VALUES (/*index*/927, /*text*/"城の訓練場");
+INSERT INTO `card_location` VALUES (/*index*/928, /*text*/"灼熱の洞窟");
+INSERT INTO `card_location` VALUES (/*index*/929, /*text*/"大きな池のある公園");

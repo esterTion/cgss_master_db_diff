@@ -45,6 +45,7 @@ INSERT INTO `soundbooth_music_info` VALUES (/*music_id*/100043, /*description*/"
 INSERT INTO `soundbooth_music_info` VALUES (/*music_id*/100044, /*description*/"", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `soundbooth_music_info` VALUES (/*music_id*/100045, /*description*/"", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `soundbooth_music_info` VALUES (/*music_id*/100046, /*description*/"", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `soundbooth_music_info` VALUES (/*music_id*/100047, /*description*/"", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `soundbooth_music_info` VALUES (/*music_id*/200001, /*description*/"", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `soundbooth_music_info` VALUES (/*music_id*/200002, /*description*/"", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `soundbooth_music_info` VALUES (/*music_id*/200003, /*description*/"", /*android_url*/"", /*ios_url*/"");
@@ -148,3 +149,5 @@ INSERT INTO `soundbooth_music_info` VALUES (/*music_id*/200100, /*description*/"
 INSERT INTO `soundbooth_music_info` VALUES (/*music_id*/200101, /*description*/"", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `soundbooth_music_info` VALUES (/*music_id*/200102, /*description*/"", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `soundbooth_music_info` VALUES (/*music_id*/200103, /*description*/"", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `soundbooth_music_info` VALUES (/*music_id*/200104, /*description*/"", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `soundbooth_music_info` VALUES (/*music_id*/200105, /*description*/"", /*android_url*/"", /*ios_url*/"");

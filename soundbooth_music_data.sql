@@ -45,6 +45,7 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100043, /*name*/"ひろ�
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100044, /*name*/"はしれ ! うさぎロボ !", /*album_id*/8, /*jacket_id*/100001, /*sort*/44);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100045, /*name*/"はじけ ! うさぎロボ !", /*album_id*/8, /*jacket_id*/100001, /*sort*/45);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100046, /*name*/"LIVE Carnival", /*album_id*/8, /*jacket_id*/100001, /*sort*/46);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100047, /*name*/"ゲームセンター", /*album_id*/8, /*jacket_id*/100001, /*sort*/47);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200001, /*name*/"アタシポンコツアンドロイド（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/1);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200002, /*name*/"Nation Blue（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/2);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200003, /*name*/"Orange Sapphire（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/3);
@@ -148,3 +149,5 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200100, /*name*/"夢を�
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200101, /*name*/"幸せの法則 ～ルール～（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/101);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200102, /*name*/"Unlock Starbeat（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/102);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200103, /*name*/"印象（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/103);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200104, /*name*/"Yes! Party Time!!（PicoPico arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/104);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200105, /*name*/"Gaze and Gaze（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/105);
