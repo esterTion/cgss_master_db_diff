@@ -772,6 +772,7 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/99, /*text*/"ムービ�
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/100, /*text*/"ダウンロード");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/101, /*text*/"この楽曲に対応していないモードは表示されません");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/102, /*text*/"「ムービー」モードでは　\n固定のアイドルが出演します。");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/103, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/1, /*text*/"月間獲得ファン数ランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/2, /*text*/"今期のランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/3, /*text*/"前期のランキング");
