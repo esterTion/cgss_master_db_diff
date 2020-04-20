@@ -395,3 +395,4 @@ INSERT INTO `story_category` VALUES (/*id*/424, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/425, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Great Journey", /*sub_title*/"Great Journey", /*disp_order*/120);
 INSERT INTO `story_category` VALUES (/*id*/426, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"プリコネRe:Diveコラボ", /*sub_title*/"プリコネRe:Diveコラボ", /*disp_order*/14);
 INSERT INTO `story_category` VALUES (/*id*/427, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"しんげきえくすて", /*sub_title*/"しんげきえくすて", /*disp_order*/15);
+INSERT INTO `story_category` VALUES (/*id*/428, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Athanasia", /*sub_title*/"Athanasia", /*disp_order*/121);
