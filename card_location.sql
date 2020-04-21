@@ -920,3 +920,7 @@ INSERT INTO `card_location` VALUES (/*index*/933, /*text*/"モリセットパー
 INSERT INTO `card_location` VALUES (/*index*/934, /*text*/"アトラクション内");
 INSERT INTO `card_location` VALUES (/*index*/935, /*text*/"廃墟のセット");
 INSERT INTO `card_location` VALUES (/*index*/936, /*text*/"アトラクション出口");
+INSERT INTO `card_location` VALUES (/*index*/937, /*text*/"ブリティッシュパブ");
+INSERT INTO `card_location` VALUES (/*index*/938, /*text*/"オックスフォードストリート");
+INSERT INTO `card_location` VALUES (/*index*/939, /*text*/"期間限定レストラン");
+INSERT INTO `card_location` VALUES (/*index*/940, /*text*/"事務所・会議室");

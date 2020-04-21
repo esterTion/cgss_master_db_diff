@@ -501,6 +501,12 @@ INSERT INTO `tips` VALUES (/*id*/499, /*tips_type*/1, /*value*/255, /*index*/3, 
 INSERT INTO `tips` VALUES (/*id*/500, /*tips_type*/1, /*value*/102, /*index*/3, /*title*/"中野有香のウワサ③", /*comment*/"店員さんの接客には、\n負けっぱなしらしい。");
 INSERT INTO `tips` VALUES (/*id*/501, /*tips_type*/1, /*value*/160, /*index*/3, /*title*/"村松さくらのウワサ③", /*comment*/"ひとりでいるときは、\nすぐに友だちに\n会いに行くらしい。");
 INSERT INTO `tips` VALUES (/*id*/502, /*tips_type*/1, /*value*/214, /*index*/3, /*title*/"白坂小梅のウワサ③", /*comment*/"真っ赤な入浴剤が好きらしい。");
+INSERT INTO `tips` VALUES (/*id*/503, /*tips_type*/1, /*value*/157, /*index*/3, /*title*/"古賀小春のウワサ③", /*comment*/"どんな動物でも\n撫でさせてもらえるらしい。");
+INSERT INTO `tips` VALUES (/*id*/504, /*tips_type*/1, /*value*/284, /*index*/3, /*title*/"喜多日菜子のウワサ③", /*comment*/"最初は\n物静かな子に見られるらしい。");
+INSERT INTO `tips` VALUES (/*id*/505, /*tips_type*/1, /*value*/198, /*index*/3, /*title*/"神崎蘭子のウワサ③", /*comment*/"いきつけの\nクリーニング屋さんがあるらしい。");
+INSERT INTO `tips` VALUES (/*id*/506, /*tips_type*/1, /*value*/261, /*index*/3, /*title*/"財前時子のウワサ③", /*comment*/"お目が高いらしい。");
+INSERT INTO `tips` VALUES (/*id*/507, /*tips_type*/1, /*value*/161, /*index*/3, /*title*/"白菊ほたるのウワサ③", /*comment*/"ドッキリには強いらしい。");
+INSERT INTO `tips` VALUES (/*id*/508, /*tips_type*/1, /*value*/179, /*index*/3, /*title*/"水木聖來のウワサ③", /*comment*/"寝起きはぐずるが、\nわんこのおかげで早起きらしい。");
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !");
