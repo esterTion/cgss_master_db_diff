@@ -17,6 +17,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/10009, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/10010, /*img*/1, /*discription*/"過去の期間限定アイドルが専用ガシャで登場 !\nSレアアイドル、SSレアアイドルは対象の限定アイドルのみが出現 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10011, /*img*/1, /*discription*/"プラチナセレクションガシャチケットでは\n対象のSSアイドルレアのみが登場します。\nさらに、登場SSレアアイドルをしぼりこむことが出来ます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10011, /*img*/2, /*discription*/"しぼりこむことができる数は\nアルバムのSSレアアイドル登録数と同数までとなります。\n※SSレア+アイドルの登録数はカウントされません。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/10012, /*img*/1, /*discription*/"プライズガシャではアイドルだけでなく\n等級に応じた枚数のプライズコインが入手出来ます。\nプライズコインは交換所で\n専用のスカウトチケットと交換可能です !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/10012, /*img*/1, /*discription*/"またスカウトチケットの他にも\nS.T.マスタートレーナーチケットやプレミアムフィルムなど\n各種アイテムとも交換可能です !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/10012, /*img*/1, /*discription*/"プライズコイン、プライズスカウトチケット\nプライズSレアスカウトチケットには有効期限が存在します。\n忘れずに交換しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/1, /*discription*/"スペシャルガシャセットは期間限定販売です。\n購入すると「スカウトチケット」と「プラチナ10連ガシャ\nチケット」を1枚ずつ獲得できます。\n※有償スタージュエルでのみ購入することができます");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/2, /*discription*/"「スカウトチケット」はレア、Sレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で出現します。");
@@ -434,6 +437,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/10, /*discription*
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/11, /*discription*/"イベント専用ユニットには、他のプロデューサーさんのアイドルを\n1ユニットにつき1人までゲストアイドルとして\n編成することが出来ます。\nゲストアイドルの力を借りてBOOTHを攻略しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/83001, /*img*/1, /*discription*/"「プラチナスカウトチケット」はレア、Sレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/83002, /*img*/1, /*discription*/"「スカウトチケット」はレア、Sレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/85001, /*img*/1, /*discription*/"「プライズスカウトチケット」は対象のSレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/85002, /*img*/1, /*discription*/"「プライズSレアスカウトチケット」は対象のSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90101, /*img*/1, /*discription*/"アイドルのファン数を増やすことで、ポテンシャルを解放し、\nアイドルのステータスを強化することができる機能です。\n（ポテンシャル解放では特訓アイテムを消費します）\n※各数値は開発中のものです。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90102, /*img*/1, /*discription*/"PランクSS、PRP1000以上のプロデューサーのみ参加可能な\nランキングで、上位入賞することで、PランクSSSに昇格します。\n（PランクSSSは、1ヶ月の任期制となります）\n    ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90103, /*img*/1, /*discription*/"新3D衣装「アクロス・ザ・スターズ」登場 !\n3DLIVEでアイドルたちの衣装を\n変更することができるようになりました !");
