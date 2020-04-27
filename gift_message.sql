@@ -182,3 +182,4 @@ INSERT INTO `gift_message` VALUES (/*id*/20039, /*discription*/"「新春 ! プ�
 INSERT INTO `gift_message` VALUES (/*id*/20040, /*discription*/"「新春 ! プラチナチャンス」{0}等B賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20041, /*discription*/"「新春 ! プラチナチャンス」{0}等C賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20042, /*discription*/"「新春 ! プラチナチャンス」特別賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20044, /*discription*/"「りも～っと ! デレステ☆NIGHT」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
