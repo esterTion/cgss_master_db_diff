@@ -107,7 +107,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーを\n倉庫収納数から除外しました。\n収納していても、収納数にカウントされなくなりました。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ルームショップにて、「こどもの日」テーマの\n アイテム、コーデを復刻販売開始 !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"『プリコネR×デレステコラボキャンペーン』開催中 !\n ギルドハウスを再現した背景や「ぺコリーヌのぬいぐるみ」など、\n コラボルームアイテムを期間限定で販売中です !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"ニコニコ生放送「もっと ! デレステ☆NIGHT」にて、\n制作が決定した「Palette型まないた」が登場 ! !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -120,6 +120,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20103, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20103, /*img*/3, /*discription*/"いらなくなったルームアイテムは「売却」ボタンで、\n売却してマニーに変える事ができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20104, /*img*/1, /*discription*/"Like情報ではLikeの履歴を確認できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20104, /*img*/1, /*discription*/"「ルーム訪問」から、いろいろな人のルームに\n遊びに行ってみましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20105, /*img*/1, /*discription*/"ルームにいないアイドルにも\nギフトアイテムを渡せるようになりました。\nギフト保管庫のアイドル一覧ボタンから移動できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20201, /*img*/1, /*discription*/"全国各地で営業を行い、\nアイドルたちの魅力を全国に広めましょう。\n営業は最大3種類まで同時に行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20201, /*img*/2, /*discription*/"獲得できる報酬、必要時間、実行可能な回数などは\n営業ごとに異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20201, /*img*/2, /*discription*/"営業には、解放条件のない「通常営業」と\n特定の条件を満たすと解放される「スペシャル営業」\nがあります。");
@@ -144,7 +145,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20203, /*img*/4, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20204, /*img*/1, /*discription*/"各アイドルの左上にある☆ボタンをタップすると、\nお気に入り設定を変更することができます。\nお気に入り設定したアイドルは優先的に表示されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20204, /*img*/1, /*discription*/"おすすめ編成でもお気に入りアイドルを優先できます。\nおすすめ編成ポップアップ内のチェックボックスで\n優先するかどうかを選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20205, /*img*/1, /*discription*/"海外エリアが追加されました。\nアイドルたちの魅力を世界中に広めましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「わくわく☆スプリング親愛度アップキャンペーン」開催中 ! !\nキャンペーン中は、必ず複数のギフトアイテムが獲得できる\nスペシャル営業を3種類追加 !\n詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「ゴールデンウィークマニー獲得キャンペーン」開催中 ! !\nキャンペーン中は、たくさんのマニーが獲得できる\nスペシャル営業が1日1回行えます !\n詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21001, /*img*/1, /*discription*/"拘束のまゆからの攻撃を避けつつ、ハピネシウムを集めよう。\n集めたハピネシウムをラボに届けるとスコアをゲットできるよ ! \nラボにまとめて届けるとスコアがアップ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21002, /*img*/1, /*discription*/"誘惑の奏の攻撃や障害物を回避して、ハピネシウムを集めよう。\nタップするとうさぎロボがジャンプ ! \nうさぎロボは1回だけ空中ジャンプが可能だよ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21003, /*img*/1, /*discription*/"グラスザニンジャあやめの攻撃をはじきつつ、ハピネシウムを集めよう。\nフリック操作で、照準に入った障害物をはじけ ! \n飛んでくるハピネシウムを見極めてスコアをゲットしよう ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
@@ -194,6 +195,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30014, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30015, /*img*/1, /*discription*/"3Dや2DなどのLIVE演出の動作設定にかかわらず\n自由にカットイン設定を選択できるようになりました。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30015, /*img*/1, /*discription*/"ユニット選択画面、右上の「LIVE設定」ポップアップの\n「表示」タブ内、「カットイン設定」から設定変更できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30015, /*img*/1, /*discription*/"好きなLIVE動作設定とカットイン設定を組み合わせて\nLIVEを楽しみましょう ! ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30016, /*img*/1, /*discription*/"ぴにゃリクエストをアップデートしました !\n「MV」を選択することで、DJぴにゃがランダムに選んだ\n楽曲のMVを再生し続けることができます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30016, /*img*/1, /*discription*/"MVはポーズをかけて「中断」ボタンを\nタップするまで再生され続けます。\n次々と流れる楽曲をライブ感覚で楽しみましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「ゴールデンウィーク\nスペシャルLIVEキャンペーン」開催中 ! !\n期間中にLIVEをクリアすると、\nゴールデンウィーク限定のアイテムを獲得できます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");
@@ -251,6 +256,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40504, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/1, /*discription*/"アイドル編成画面右上にある「表示切替ボタン」で\n編成中のユニットを表示できるようになりました。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/2, /*discription*/"ユニットのポジションを選択して、\n所属アイドルを編成することができます。\nまた、ユニット内のアイドル同士を\n入れ替えることも可能です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/2, /*discription*/"設定内容は他の画面に移動すると保存されます。\n※他の画面に移動せずにアプリを終了した場合、\n編成内容は保存されません。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40701, /*img*/1, /*discription*/"ルーム外でもギフトアイテムを渡すことができる、\nギフトアイテム画面が追加されました。\nギフトアイテムをアイドルに渡すと親愛度が上がります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50001, /*img*/1, /*discription*/"ストーリーコミュでは、アイドルたちが\n織り成すストーリーが描かれています。\n解放条件を達成することで解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50001, /*img*/1, /*discription*/"ストーリー中に行われるコミュLIVEでは、\n新たなコミュは解放されません。\nLIVEで特定の難易度でのクリアが必要となります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50002, /*img*/1, /*discription*/"メモリアルコミュでは、アイドル一人ひとりの\nアイドルとしての活動の軌跡が描かれています。\nLIVEでファン数を増やすことで解放されます。");
