@@ -924,3 +924,7 @@ INSERT INTO `card_location` VALUES (/*index*/937, /*text*/"ブリティッシュ
 INSERT INTO `card_location` VALUES (/*index*/938, /*text*/"オックスフォードストリート");
 INSERT INTO `card_location` VALUES (/*index*/939, /*text*/"期間限定レストラン");
 INSERT INTO `card_location` VALUES (/*index*/940, /*text*/"事務所・会議室");
+INSERT INTO `card_location` VALUES (/*index*/941, /*text*/"エーゲ海沿岸");
+INSERT INTO `card_location` VALUES (/*index*/942, /*text*/"暁のオケアノス");
+INSERT INTO `card_location` VALUES (/*index*/943, /*text*/"修行場");
+INSERT INTO `card_location` VALUES (/*index*/944, /*text*/"イベント特典配布会");
