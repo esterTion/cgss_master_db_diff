@@ -1,7 +1,5 @@
 CREATE TABLE 'tour_live_exclude' ('event_id' INTEGER NOT NULL, 'live_id' INTEGER NOT NULL, PRIMARY KEY('event_id','live_id'));
 INSERT INTO `tour_live_exclude` VALUES (/*event_id*/5021, /*live_id*/411);
-INSERT INTO `tour_live_exclude` VALUES (/*event_id*/5021, /*live_id*/383);
-INSERT INTO `tour_live_exclude` VALUES (/*event_id*/5021, /*live_id*/407);
 INSERT INTO `tour_live_exclude` VALUES (/*event_id*/5021, /*live_id*/401);
 INSERT INTO `tour_live_exclude` VALUES (/*event_id*/5021, /*live_id*/501);
 INSERT INTO `tour_live_exclude` VALUES (/*event_id*/5021, /*live_id*/502);
