@@ -398,3 +398,4 @@ INSERT INTO `story_category` VALUES (/*id*/426, /*type*/4, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/427, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"しんげきえくすて", /*sub_title*/"しんげきえくすて", /*disp_order*/15);
 INSERT INTO `story_category` VALUES (/*id*/428, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Athanasia", /*sub_title*/"Athanasia", /*disp_order*/121);
 INSERT INTO `story_category` VALUES (/*id*/429, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"オタク is LOVE !", /*sub_title*/"オタク is LOVE !", /*disp_order*/122);
+INSERT INTO `story_category` VALUES (/*id*/430, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"成宮由愛 / 桃井あずき", /*sub_title*/"成宮由愛 / 桃井あずき", /*disp_order*/123);

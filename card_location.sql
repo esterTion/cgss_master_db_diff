@@ -935,3 +935,6 @@ INSERT INTO `card_location` VALUES (/*index*/948, /*text*/"二階建てバス・
 INSERT INTO `card_location` VALUES (/*index*/949, /*text*/"摩天楼の特設ステージ・夜");
 INSERT INTO `card_location` VALUES (/*index*/950, /*text*/"メイクルーム");
 INSERT INTO `card_location` VALUES (/*index*/951, /*text*/"VR空間");
+INSERT INTO `card_location` VALUES (/*index*/952, /*text*/"田んぼ");
+INSERT INTO `card_location` VALUES (/*index*/953, /*text*/"廃校舎・教室");
+INSERT INTO `card_location` VALUES (/*index*/954, /*text*/"中華街");

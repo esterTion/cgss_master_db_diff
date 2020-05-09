@@ -150,7 +150,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20203, /*img*/4, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20204, /*img*/1, /*discription*/"各アイドルの左上にある☆ボタンをタップすると、\nお気に入り設定を変更することができます。\nお気に入り設定したアイドルは優先的に表示されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20204, /*img*/1, /*discription*/"おすすめ編成でもお気に入りアイドルを優先できます。\nおすすめ編成ポップアップ内のチェックボックスで\n優先するかどうかを選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20205, /*img*/1, /*discription*/"海外エリアが追加されました。\nアイドルたちの魅力を世界中に広めましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「ゴールデンウィークマニー獲得キャンペーン」開催中 ! !\nキャンペーン中は、たくさんのマニーが獲得できる\nスペシャル営業が1日1回行えます !\n詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\n必ず複数の特訓アイテムを獲得できる\nスペシャル営業が1日1回行えます !\n詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21001, /*img*/1, /*discription*/"拘束のまゆからの攻撃を避けつつ、ハピネシウムを集めよう。\n集めたハピネシウムをラボに届けるとスコアをゲットできるよ ! \nラボにまとめて届けるとスコアがアップ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21002, /*img*/1, /*discription*/"誘惑の奏の攻撃や障害物を回避して、ハピネシウムを集めよう。\nタップするとうさぎロボがジャンプ ! \nうさぎロボは1回だけ空中ジャンプが可能だよ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21003, /*img*/1, /*discription*/"グラスザニンジャあやめの攻撃をはじきつつ、ハピネシウムを集めよう。\nフリック操作で、照準に入った障害物をはじけ ! \n飛んでくるハピネシウムを見極めてスコアをゲットしよう ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
@@ -202,8 +202,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30015, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30015, /*img*/1, /*discription*/"好きなLIVE動作設定とカットイン設定を組み合わせて\nLIVEを楽しみましょう ! ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30016, /*img*/1, /*discription*/"ぴにゃリクエストをアップデートしました !\n「MV」を選択することで、DJぴにゃがランダムに選んだ\n楽曲のMVを再生し続けることができます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30016, /*img*/1, /*discription*/"MVはポーズをかけて「中断」ボタンを\nタップするまで再生され続けます。\n次々と流れる楽曲をライブ感覚で楽しみましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「ゴールデンウィーク\nスペシャルLIVEキャンペーン」開催中 ! !\n期間中にLIVEをクリアすると、\nゴールデンウィーク限定のアイテムを獲得できます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");
@@ -423,7 +422,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/6, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/7, /*discription*/"イベント設定では、公演の準備画面の「おすすめ設定」で\n選曲される楽曲のLvを調整できます。\nまたツアーのタイトルを自由に変更できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/1, /*discription*/"「イベント参加ボーナス」、「MAP報酬」、「課題クリア報酬」\nで、イベント限定のSレアアイドルやルームアイテムを\n手にいれましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"本イベントでは、LIVEを行うことでアイドルたちが\nMAPを進んでいきます。楽曲の難易度やLIVEの\n結果に応じて、進行できるマス数が変化します。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"また、ルートはイベント限定アイドルごとに分かれており、\nそれぞれストーリーや報酬が異なります。\n※「氏家むつみ」ルートのMAP1をクリアすると、\n「並木芽衣子」ルートが解放されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"また、ルートはイベント限定アイドルごとに分かれており、\nそれぞれストーリーや報酬が異なります。\n※「桃井あずき」ルートのMAP1をクリアすると、\n「成宮由愛」ルートが解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/3, /*discription*/"MAPやマスごとの条件を満たしてLIVEを行うと、\nMAP進行ボーナスが発生し、進行できるマス数がアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/3, /*discription*/"MAP進行ボーナスは、MAPにあわせたアイドルを編成したり、\n現在止まっているマスの色に応じた楽曲でLIVEを行うことで発生します。\nボーナス条件はイベントTOPや楽曲の選択画面等で確認できます。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/4, /*discription*/"ゴールに到着すると、トレーナーからMAPごとの課題が出されます。\n※課題の達成状況は累積でカウントされるため、1回のLIVEでクリアできない場合、\n複数回LIVEをすることで達成できます。\n");
