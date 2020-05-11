@@ -152,3 +152,4 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200103, /*name*/"印象�
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200104, /*name*/"Yes! Party Time!!（PicoPico arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/104);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200105, /*name*/"Gaze and Gaze（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/105);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200106, /*name*/"輝け ! ビートシューター（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/106);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200107, /*name*/"Great Journey（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/107);
