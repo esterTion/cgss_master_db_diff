@@ -1,0 +1,16 @@
+CREATE TABLE 'live_notes_data' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'mode' INTEGER NOT NULL, 'notes_id_mode' INTEGER NOT NULL, 'noteline_2d' INTEGER NOT NULL, 'color_type' INTEGER NOT NULL, 'ribbon_type' INTEGER NOT NULL, 'party_my_idol' INTEGER NOT NULL, 'sp_type' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `live_notes_data` VALUES (/*id*/0, /*name*/"TYPE 1", /*mode*/0, /*notes_id_mode*/1, /*noteline_2d*/1, /*color_type*/1, /*ribbon_type*/2, /*party_my_idol*/1, /*sp_type*/0);
+INSERT INTO `live_notes_data` VALUES (/*id*/1, /*name*/"TYPE 2", /*mode*/0, /*notes_id_mode*/2, /*noteline_2d*/1, /*color_type*/1, /*ribbon_type*/2, /*party_my_idol*/1, /*sp_type*/0);
+INSERT INTO `live_notes_data` VALUES (/*id*/2, /*name*/"TYPE 3", /*mode*/0, /*notes_id_mode*/3, /*noteline_2d*/1, /*color_type*/0, /*ribbon_type*/0, /*party_my_idol*/1, /*sp_type*/0);
+INSERT INTO `live_notes_data` VALUES (/*id*/3, /*name*/"TYPE 4", /*mode*/0, /*notes_id_mode*/4, /*noteline_2d*/1, /*color_type*/0, /*ribbon_type*/0, /*party_my_idol*/1, /*sp_type*/0);
+INSERT INTO `live_notes_data` VALUES (/*id*/4, /*name*/"TYPE 5", /*mode*/0, /*notes_id_mode*/5, /*noteline_2d*/0, /*color_type*/0, /*ribbon_type*/0, /*party_my_idol*/0, /*sp_type*/0);
+INSERT INTO `live_notes_data` VALUES (/*id*/5, /*name*/"TYPE 6", /*mode*/0, /*notes_id_mode*/6, /*noteline_2d*/1, /*color_type*/0, /*ribbon_type*/0, /*party_my_idol*/1, /*sp_type*/0);
+INSERT INTO `live_notes_data` VALUES (/*id*/6, /*name*/"TYPE 7", /*mode*/0, /*notes_id_mode*/7, /*noteline_2d*/1, /*color_type*/0, /*ribbon_type*/0, /*party_my_idol*/1, /*sp_type*/0);
+INSERT INTO `live_notes_data` VALUES (/*id*/7, /*name*/"TYPE 8", /*mode*/0, /*notes_id_mode*/8, /*noteline_2d*/0, /*color_type*/0, /*ribbon_type*/0, /*party_my_idol*/0, /*sp_type*/0);
+INSERT INTO `live_notes_data` VALUES (/*id*/8, /*name*/"TYPE 9", /*mode*/0, /*notes_id_mode*/9, /*noteline_2d*/0, /*color_type*/0, /*ribbon_type*/1, /*party_my_idol*/0, /*sp_type*/1);
+INSERT INTO `live_notes_data` VALUES (/*id*/9, /*name*/"TYPE 1", /*mode*/1, /*notes_id_mode*/1, /*noteline_2d*/0, /*color_type*/1, /*ribbon_type*/0, /*party_my_idol*/0, /*sp_type*/0);
+INSERT INTO `live_notes_data` VALUES (/*id*/10, /*name*/"TYPE 2", /*mode*/1, /*notes_id_mode*/2, /*noteline_2d*/0, /*color_type*/0, /*ribbon_type*/0, /*party_my_idol*/0, /*sp_type*/0);
+INSERT INTO `live_notes_data` VALUES (/*id*/11, /*name*/"TYPE 3", /*mode*/1, /*notes_id_mode*/3, /*noteline_2d*/0, /*color_type*/0, /*ribbon_type*/0, /*party_my_idol*/0, /*sp_type*/0);
+INSERT INTO `live_notes_data` VALUES (/*id*/12, /*name*/"TYPE 1", /*mode*/2, /*notes_id_mode*/1, /*noteline_2d*/0, /*color_type*/1, /*ribbon_type*/2, /*party_my_idol*/0, /*sp_type*/0);
+INSERT INTO `live_notes_data` VALUES (/*id*/13, /*name*/"TYPE 2", /*mode*/2, /*notes_id_mode*/2, /*noteline_2d*/0, /*color_type*/0, /*ribbon_type*/0, /*party_my_idol*/0, /*sp_type*/0);
+CREATE INDEX 'live_notes_data_0_mode' on 'live_notes_data'('mode');

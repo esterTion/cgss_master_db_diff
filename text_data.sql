@@ -654,6 +654,7 @@ INSERT INTO `text_data` VALUES (/*category*/13, /*index*/22, /*text*/"ルーム�
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/23, /*text*/"ルーム効果");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/24, /*text*/"プレゼント未受け取りアイテム");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/25, /*text*/"このアイテムはプレゼントに贈られており、\n未受け取りの状態です。");
+INSERT INTO `text_data` VALUES (/*category*/13, /*index*/26, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/100, /*text*/"降順");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/101, /*text*/"昇順");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/102, /*text*/"全て");
@@ -1852,6 +1853,9 @@ INSERT INTO `text_data` VALUES (/*category*/37, /*index*/20, /*text*/"表示設�
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/21, /*text*/"重複しているアイドルのみを表示する");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/22, /*text*/"{0}%");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/23, /*text*/"[2D2D2D]{0}%([-][3DA1FF]+{1}%[-][2D2D2D])[-]");
+INSERT INTO `text_data` VALUES (/*category*/37, /*index*/24, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/37, /*index*/25, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/37, /*index*/26, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/1, /*text*/"近日公開予定の機能のため、現在利用できません");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/2, /*text*/"ルームアイテム");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/3, /*text*/"回");
@@ -2217,6 +2221,7 @@ INSERT INTO `text_data` VALUES (/*category*/48, /*index*/131, /*text*/"Rankス�
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/132, /*text*/"獲得Rankアップ報酬");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/133, /*text*/"選択可能楽曲一覧");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/134, /*text*/"集計中");
+INSERT INTO `text_data` VALUES (/*category*/48, /*index*/135, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/201, /*text*/"CarnivalRank\n到達報酬");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/202, /*text*/"CarnivalRank到達報酬");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/203, /*text*/"イベントの報酬が確認できます");
@@ -2496,6 +2501,9 @@ INSERT INTO `text_data` VALUES (/*category*/58, /*index*/16, /*text*/"{0}月{1}�
 INSERT INTO `text_data` VALUES (/*category*/58, /*index*/17, /*text*/"{0} ～ {1}");
 INSERT INTO `text_data` VALUES (/*category*/58, /*index*/18, /*text*/"1コマ劇場");
 INSERT INTO `text_data` VALUES (/*category*/58, /*index*/19, /*text*/"対象のアイドルはいません");
+INSERT INTO `text_data` VALUES (/*category*/58, /*index*/20, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/58, /*index*/21, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/58, /*index*/22, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/59, /*index*/1, /*text*/"ボイスアイドルオーディション");
 INSERT INTO `text_data` VALUES (/*category*/59, /*index*/2, /*text*/"好きなアイドルに投票しましょう ! ");
 INSERT INTO `text_data` VALUES (/*category*/59, /*index*/3, /*text*/"所持投票券");
@@ -2613,6 +2621,17 @@ INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/114, /*text*/"効果
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/115, /*text*/"初期設定に戻す");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/116, /*text*/"コミュ\nBGM");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/117, /*text*/"コミュ\nボイス");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/118, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/119, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/120, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/121, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/122, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/123, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/124, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/125, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/126, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/127, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/128, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/201, /*text*/"VIEWモード選択");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/202, /*text*/"3Dコミュ選択");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/203, /*text*/"連続再生確認");
