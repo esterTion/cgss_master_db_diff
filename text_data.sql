@@ -2586,7 +2586,7 @@ INSERT INTO `text_data` VALUES (/*category*/60, /*index*/30, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/61, /*index*/1, /*text*/"ギフト\nアイテム");
 INSERT INTO `text_data` VALUES (/*category*/61, /*index*/2, /*text*/"ギフトアイテム");
 INSERT INTO `text_data` VALUES (/*category*/61, /*index*/3, /*text*/"ギフトアイテム");
-INSERT INTO `text_data` VALUES (/*category*/61, /*index*/4, /*text*/"ギフトアイテムを渡すアイドルを選択してください");
+INSERT INTO `text_data` VALUES (/*category*/61, /*index*/4, /*text*/"アイドルを選択してください");
 INSERT INTO `text_data` VALUES (/*category*/61, /*index*/5, /*text*/"ギフトアイテム選択");
 INSERT INTO `text_data` VALUES (/*category*/61, /*index*/6, /*text*/"ギフトアイテムを選んでください");
 INSERT INTO `text_data` VALUES (/*category*/61, /*index*/7, /*text*/"対象アイドル");
