@@ -9,4 +9,5 @@ INSERT INTO `room_item_filter_size` VALUES (/*id*/7, /*size*/9);
 INSERT INTO `room_item_filter_size` VALUES (/*id*/8, /*size*/12);
 INSERT INTO `room_item_filter_size` VALUES (/*id*/9, /*size*/15);
 INSERT INTO `room_item_filter_size` VALUES (/*id*/10, /*size*/16);
+INSERT INTO `room_item_filter_size` VALUES (/*id*/11, /*size*/25);
 CREATE INDEX 'room_item_filter_size_0_size' on 'room_item_filter_size'('size');
