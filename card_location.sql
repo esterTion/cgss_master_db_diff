@@ -939,3 +939,4 @@ INSERT INTO `card_location` VALUES (/*index*/952, /*text*/"田んぼ");
 INSERT INTO `card_location` VALUES (/*index*/953, /*text*/"廃校舎・教室");
 INSERT INTO `card_location` VALUES (/*index*/954, /*text*/"中華街");
 INSERT INTO `card_location` VALUES (/*index*/955, /*text*/"おとぎパズルのセット");
+INSERT INTO `card_location` VALUES (/*index*/959, /*text*/"縁側と床の間のある和室・昼");
