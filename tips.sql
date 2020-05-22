@@ -507,6 +507,12 @@ INSERT INTO `tips` VALUES (/*id*/505, /*tips_type*/1, /*value*/198, /*index*/3, 
 INSERT INTO `tips` VALUES (/*id*/506, /*tips_type*/1, /*value*/261, /*index*/3, /*title*/"財前時子のウワサ③", /*comment*/"お目が高いらしい。", /*chara_list*/261);
 INSERT INTO `tips` VALUES (/*id*/507, /*tips_type*/1, /*value*/161, /*index*/3, /*title*/"白菊ほたるのウワサ③", /*comment*/"ドッキリには強いらしい。", /*chara_list*/161);
 INSERT INTO `tips` VALUES (/*id*/508, /*tips_type*/1, /*value*/179, /*index*/3, /*title*/"水木聖來のウワサ③", /*comment*/"寝起きはぐずるが、\nわんこのおかげで早起きらしい。", /*chara_list*/179);
+INSERT INTO `tips` VALUES (/*id*/509, /*tips_type*/1, /*value*/291, /*index*/3, /*title*/"難波笑美のウワサ③", /*comment*/"たこのヘアピンをつけるとき、\n自分の口もとんがるらしい。", /*chara_list*/291);
+INSERT INTO `tips` VALUES (/*id*/510, /*tips_type*/1, /*value*/171, /*index*/3, /*title*/"高橋礼子のウワサ③", /*comment*/"名刺もフレグランスらしい。", /*chara_list*/171);
+INSERT INTO `tips` VALUES (/*id*/511, /*tips_type*/1, /*value*/162, /*index*/3, /*title*/"早坂美玲のウワサ③", /*comment*/"考え事は\nぬいぐるみの手入れをしながら\nするらしい。", /*chara_list*/162);
+INSERT INTO `tips` VALUES (/*id*/512, /*tips_type*/1, /*value*/265, /*index*/3, /*title*/"浜川愛結奈のウワサ③", /*comment*/"部屋着はガウンらしい。", /*chara_list*/265);
+INSERT INTO `tips` VALUES (/*id*/513, /*tips_type*/1, /*value*/204, /*index*/3, /*title*/"綾瀬穂乃香のウワサ③", /*comment*/"レシピの「適量」が苦手らしい。", /*chara_list*/204);
+INSERT INTO `tips` VALUES (/*id*/514, /*tips_type*/1, /*value*/126, /*index*/3, /*title*/"一ノ瀬志希のウワサ③", /*comment*/"お腹が鳴ってから\nお腹が空いたことに\n気がつくらしい。", /*chara_list*/126);
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !", /*chara_list*/"");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !", /*chara_list*/"");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !", /*chara_list*/"");
