@@ -28,3 +28,4 @@ INSERT INTO `gallery_stage_list` VALUES (/*id*/29, /*disp_order*/21, /*disp_name
 INSERT INTO `gallery_stage_list` VALUES (/*id*/30, /*disp_order*/22, /*disp_name*/"ステージ ラブレター", /*bg_id*/1005, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/31, /*disp_order*/23, /*disp_name*/"ステージ あいくるしい", /*bg_id*/4015, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/32, /*disp_order*/24, /*disp_name*/"ステージ Jet to the Future", /*bg_id*/3005, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/33, /*disp_order*/25, /*disp_name*/"ステージ あんきら ! ？狂騒曲", /*bg_id*/4019, /*bg_type*/1, /*left_degree*/75, /*right_degree*/75);
