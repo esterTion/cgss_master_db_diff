@@ -67,6 +67,7 @@ INSERT INTO `gift_message` VALUES (/*id*/83, /*discription*/"ゲームセンタ�
 INSERT INTO `gift_message` VALUES (/*id*/84, /*discription*/"ミニゲーム「{0}(ステージ：{1})」ランク「{2}」で加入したアイドルです。", /*type_1*/39, /*type_2*/40, /*type_3*/41, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/85, /*discription*/"MIYOSHI QUEST ～暴走ゲームと囚われのアイドル～ で獲得した報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/86, /*discription*/"プライズコイン交換で獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/87, /*discription*/"プレミアムパスの特典で獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1001, /*discription*/"イベント「{0}」{1}イベントpt達成報酬です。", /*type_1*/19, /*type_2*/20, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1002, /*discription*/"イベント「{0}」ポイントランキング{1}位～{2}位で獲得した報酬です。", /*type_1*/19, /*type_2*/21, /*type_3*/22, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1003, /*discription*/"イベント「{0}」ハイスコアランキング{1}位～{2}位で獲得した報酬です。", /*type_1*/19, /*type_2*/23, /*type_3*/24, /*type_4*/0);
@@ -118,6 +119,11 @@ INSERT INTO `gift_message` VALUES (/*id*/2015, /*discription*/"オールスタ�
 INSERT INTO `gift_message` VALUES (/*id*/2016, /*discription*/"オールスター カウントダウンLIVEのミッション「{0}」で獲得した報酬です。", /*type_1*/34, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2017, /*discription*/"オールスター カウントダウンLIVEのミッション「{0}」で獲得した報酬です。", /*type_1*/28, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2018, /*discription*/"オールスター カウントダウンLIVEのミッション「{0}」で加入したアイドルです。", /*type_1*/28, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/3001, /*discription*/"プレミアムパス特典：イベント「{0}」{1}イベントpt達成報酬です。", /*type_1*/19, /*type_2*/20, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/3004, /*discription*/"プレミアムパス特典：イベント「{0}」{1}イベントpt達成で加入したアイドルです。", /*type_1*/19, /*type_2*/20, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/3029, /*discription*/"プレミアムパス特典：イベント「{0}」{1}マス到達で加入したアイドルです。", /*type_1*/19, /*type_2*/35, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/3030, /*discription*/"プレミアムパス特典：イベント「{0}」{1}マスの到達報酬です。", /*type_1*/19, /*type_2*/35, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/3034, /*discription*/"プレミアムパス特典：イベント「{0}」のランクアップ報酬です。", /*type_1*/19, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9000, /*discription*/"運営からのお詫びです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9001, /*discription*/"運営からの補てんです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9002, /*discription*/"運営からのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
@@ -186,3 +192,4 @@ INSERT INTO `gift_message` VALUES (/*id*/20041, /*discription*/"「新春 ! プ�
 INSERT INTO `gift_message` VALUES (/*id*/20042, /*discription*/"「新春 ! プラチナチャンス」特別賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20043, /*discription*/"「デレステ5DAYSジュエルフェスティバル」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20044, /*discription*/"「りも～っと ! デレステ☆NIGHT」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20045, /*discription*/"「7thLIVE ナゴヤドーム振り返りも～っとくばん ! !」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

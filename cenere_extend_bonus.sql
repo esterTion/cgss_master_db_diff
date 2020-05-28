@@ -1,1 +1,13 @@
 CREATE TABLE 'cenere_extend_bonus' ('id' INTEGER NOT NULL, 'cenere_id' INTEGER NOT NULL, 'count' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_value' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `cenere_extend_bonus` VALUES (/*id*/100101, /*cenere_id*/1001, /*count*/1, /*reward_type*/5, /*reward_id*/30007, /*reward_value*/3);
+INSERT INTO `cenere_extend_bonus` VALUES (/*id*/100102, /*cenere_id*/1001, /*count*/2, /*reward_type*/5, /*reward_id*/30030, /*reward_value*/2);
+INSERT INTO `cenere_extend_bonus` VALUES (/*id*/100103, /*cenere_id*/1001, /*count*/3, /*reward_type*/5, /*reward_id*/21007, /*reward_value*/1);
+INSERT INTO `cenere_extend_bonus` VALUES (/*id*/100104, /*cenere_id*/1001, /*count*/4, /*reward_type*/5, /*reward_id*/1003, /*reward_value*/1);
+INSERT INTO `cenere_extend_bonus` VALUES (/*id*/100105, /*cenere_id*/1001, /*count*/5, /*reward_type*/5, /*reward_id*/30030, /*reward_value*/2);
+INSERT INTO `cenere_extend_bonus` VALUES (/*id*/100106, /*cenere_id*/1001, /*count*/6, /*reward_type*/5, /*reward_id*/26001, /*reward_value*/1);
+INSERT INTO `cenere_extend_bonus` VALUES (/*id*/100107, /*cenere_id*/1001, /*count*/7, /*reward_type*/5, /*reward_id*/30007, /*reward_value*/3);
+INSERT INTO `cenere_extend_bonus` VALUES (/*id*/100108, /*cenere_id*/1001, /*count*/8, /*reward_type*/5, /*reward_id*/30030, /*reward_value*/2);
+INSERT INTO `cenere_extend_bonus` VALUES (/*id*/100109, /*cenere_id*/1001, /*count*/9, /*reward_type*/5, /*reward_id*/26001, /*reward_value*/1);
+INSERT INTO `cenere_extend_bonus` VALUES (/*id*/100110, /*cenere_id*/1001, /*count*/10, /*reward_type*/5, /*reward_id*/1003, /*reward_value*/1);
+INSERT INTO `cenere_extend_bonus` VALUES (/*id*/100111, /*cenere_id*/1001, /*count*/11, /*reward_type*/5, /*reward_id*/30030, /*reward_value*/2);
+INSERT INTO `cenere_extend_bonus` VALUES (/*id*/100112, /*cenere_id*/1001, /*count*/12, /*reward_type*/5, /*reward_id*/83002, /*reward_value*/1);

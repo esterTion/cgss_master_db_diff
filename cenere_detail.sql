@@ -1,1 +1,3 @@
 CREATE TABLE 'cenere_detail' ('id' INTEGER NOT NULL, 'description' TEXT NOT NULL, 'type' INTEGER NOT NULL, 'value' INTEGER NOT NULL, 'icon_img' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `cenere_detail` VALUES (/*id*/101, /*description*/"獲得経験値が1.5倍 !\nマニーを追加獲得 !", /*type*/24, /*value*/15000, /*icon_img*/100, /*start_date*/"2020-01-01 00:00:00", /*end_date*/"2099-03-01 23:59:59");
+INSERT INTO `cenere_detail` VALUES (/*id*/102, /*description*/"獲得経験値が1.5倍 !\nマニーを追加獲得 !", /*type*/92, /*value*/15000, /*icon_img*/100, /*start_date*/"2020-01-01 00:00:00", /*end_date*/"2099-03-01 23:59:59");

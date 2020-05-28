@@ -1,1 +1,11 @@
 CREATE TABLE 'campaign_description' ('id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'description' TEXT NOT NULL, 'page_index' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `campaign_description` VALUES (/*id*/1, /*title*/"レッスン", /*description*/"レッスン大成功率{0}倍！", /*page_index*/504);
+INSERT INTO `campaign_description` VALUES (/*id*/14, /*title*/"LIVE", /*description*/"獲得マニー数{0}倍 ! ", /*page_index*/100);
+INSERT INTO `campaign_description` VALUES (/*id*/24, /*title*/"LIVE", /*description*/"獲得経験値{0}倍 ! ", /*page_index*/100);
+INSERT INTO `campaign_description` VALUES (/*id*/34, /*title*/"LIVE", /*description*/"獲得親愛度{0}倍 ! ", /*page_index*/100);
+INSERT INTO `campaign_description` VALUES (/*id*/44, /*title*/"LIVE", /*description*/"獲得ファン数{0}倍 ! ", /*page_index*/100);
+INSERT INTO `campaign_description` VALUES (/*id*/71, /*title*/"LIVE", /*description*/"LIVEで特別な報酬が出現！", /*page_index*/100);
+INSERT INTO `campaign_description` VALUES (/*id*/81, /*title*/"ガシャ", /*description*/"シンデレラフェス開催中 ! ", /*page_index*/400);
+INSERT INTO `campaign_description` VALUES (/*id*/84, /*title*/"ガシャ", /*description*/"プラチナオーディションガシャ1日1回無料！", /*page_index*/400);
+INSERT INTO `campaign_description` VALUES (/*id*/85, /*title*/"ガシャ", /*description*/"プラチナオーディションガシャ1日1回10連無料！", /*page_index*/400);
+INSERT INTO `campaign_description` VALUES (/*id*/92, /*title*/"営業", /*description*/"獲得経験値{0}倍 ! ", /*page_index*/3300);
