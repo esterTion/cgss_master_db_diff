@@ -94,6 +94,7 @@ INSERT INTO `music_info` VALUES (/*id*/2030, /*discription*/"川島瑞樹（CV�
 INSERT INTO `music_info` VALUES (/*id*/2031, /*discription*/"結城晴（CV：小市眞琴）\n的場梨沙（CV：集貝はな）\n\n\n作詞・作曲・編曲：YOFFY（PSYCHIC LOVER）", /*android_url*/"https://columbia.jp/sl-stage/haishin/COCC-17708.html", /*ios_url*/"https://columbia.jp/sl-stage/haishin/COCC-17708.html");
 INSERT INTO `music_info` VALUES (/*id*/2032, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n\n\n作詞：磯谷佳江\n作曲・編曲：内田哲也（Cygames）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/2033, /*discription*/"荒木比奈（CV：田辺留依）\n神谷奈緒（CV：松井恵理子）\n安部菜々（CV：三宅麻理恵）\n\n\n作詞・作曲・編曲：ヒゲドライバー", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/2034, /*discription*/"高森藍子（CV：金子有希）\n道明寺歌鈴（CV：新田ひより）\n\n\n作詞：Mitsu（TRYTONELABO）\n作曲：大岩航（TRYTONELABO）\n編曲：大岩航（TRYTONELABO）、\n岡野裕次郎（TRYTONELABO）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/3001, /*discription*/"島村卯月（CV：大橋彩香）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（Yoshi）\nコーラス：Mitsu（BNSI）\nギター：後藤貴徳\nバイオリン：Bloom Quartet & Ensemble", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/3002, /*discription*/"渋谷凛（CV：福原綾香）\n\n\n作詞・作曲：BNEI（遠山明孝・八城雄太）\n作曲：BNEI（遠山明孝）\n編曲：関淳二郎\nギター・コーラス：関淳二郎", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/3003, /*discription*/"本田未央（CV：原紗友里）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（kyo）\nギター：後藤貴徳", /*android_url*/"", /*ios_url*/"");

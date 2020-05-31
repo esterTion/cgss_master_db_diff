@@ -150,7 +150,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20203, /*img*/4, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20204, /*img*/1, /*discription*/"各アイドルの左上にある☆ボタンをタップすると、\nお気に入り設定を変更することができます。\nお気に入り設定したアイドルは優先的に表示されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20204, /*img*/1, /*discription*/"おすすめ編成でもお気に入りアイドルを優先できます。\nおすすめ編成ポップアップ内のチェックボックスで\n優先するかどうかを選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20205, /*img*/1, /*discription*/"海外エリアが追加されました。\nアイドルたちの魅力を世界中に広めましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\n必ず複数の特訓アイテムを獲得できる\nスペシャル営業が1日1回行えます !\n詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「エンジョイ♪レイニーデイ親愛度アップキャンペーン」開催中 ! !\nキャンペーン中は、必ず複数のギフトアイテムが獲得できる\nスペシャル営業を3種類追加 !\n詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21001, /*img*/1, /*discription*/"拘束のまゆからの攻撃を避けつつ、ハピネシウムを集めよう。\n集めたハピネシウムをラボに届けるとスコアをゲットできるよ ! \nラボにまとめて届けるとスコアがアップ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21002, /*img*/1, /*discription*/"誘惑の奏の攻撃や障害物を回避して、ハピネシウムを集めよう。\nタップするとうさぎロボがジャンプ ! \nうさぎロボは1回だけ空中ジャンプが可能だよ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21003, /*img*/1, /*discription*/"グラスザニンジャあやめの攻撃をはじきつつ、ハピネシウムを集めよう。\nフリック操作で、照準に入った障害物をはじけ ! \n飛んでくるハピネシウムを見極めてスコアをゲットしよう ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
@@ -383,7 +383,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/3, /*discription*/"LIVE Grooveでは、その3曲で連続してLIVEを行います。\n※3曲の間ライフは引き継がれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/4, /*discription*/"LIVE中、盛り上がりに応じて「ハコユレLv」が計測されます。\n3曲合わせた「ハコユレLv」が17以上になると、\nアンコールが発生します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/5, /*discription*/"難易度がMASTER以上で、ハコユレLvが21以上の場合、\nアンコール楽曲の難易度で「MASTER+」が選択できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/6, /*discription*/"LIVE Groove Visual burstでは、ビジュアルのアピール値が\n通常よりアップします。\nビジュアルアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/6, /*discription*/"LIVE Groove Vocal burstでは、ボーカルのアピール値が\n通常よりアップします。\nボーカルアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80202, /*img*/1, /*discription*/"スタミナの消費数を1倍、または2倍に設定する\nことができます。\n消費数に応じて、イベントptを多く獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/1, /*discription*/"「達成pt報酬」、「イベントptランキング報酬」、\n「ハイスコアランキング報酬」で、イベント限定の\nSレアアイドルやルームアイテムが獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/1, /*discription*/"イベント限定営業で「イベントpt」を獲得できます。\nイベント限定営業はイベント期間中のみ\nプレイすることができます。");
@@ -392,7 +392,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/3, /*discription*/"LIVE Grooveでは、その3曲で連続してLIVEを行います。\n※3曲の間ライフは引き継がれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/4, /*discription*/"LIVE中、盛り上がりに応じて「ハコユレLv」が計測されます。\n3曲合わせた「ハコユレLv」が17以上になると、\nアンコールが発生します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/5, /*discription*/"難易度がMASTER以上で、ハコユレLvが21以上の場合、\nアンコール楽曲の難易度で「MASTER+」が選択できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/6, /*discription*/"LIVE Groove Visual burstでは、ビジュアルのアピール値が\n通常よりアップします。\nビジュアルアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/6, /*discription*/"LIVE Groove Vocal burstでは、ボーカルのアピール値が\n通常よりアップします。\nボーカルアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/7, /*discription*/"スタミナの消費数を1倍、または2倍に設定する\nことができます。\n消費数に応じて、イベントptを多く獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/1, /*discription*/"「達成pt報酬」で、イベント限定のSレアアイドルや\nルームアイテムを手にいれましょう。\nまた期間中にイベントのLIVEをプレイすると、\n限定のアイドルを確率で手に入れることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。\n楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");

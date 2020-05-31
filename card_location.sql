@@ -943,3 +943,10 @@ INSERT INTO `card_location` VALUES (/*index*/956, /*text*/"カラオケルーム
 INSERT INTO `card_location` VALUES (/*index*/957, /*text*/"洋館・エントランス");
 INSERT INTO `card_location` VALUES (/*index*/958, /*text*/"トークショー会場");
 INSERT INTO `card_location` VALUES (/*index*/959, /*text*/"縁側と床の間のある和室・昼");
+INSERT INTO `card_location` VALUES (/*index*/960, /*text*/"荘厳な教会");
+INSERT INTO `card_location` VALUES (/*index*/961, /*text*/"荘厳な教会のバルコニー・夜");
+INSERT INTO `card_location` VALUES (/*index*/962, /*text*/"チャペル前");
+INSERT INTO `card_location` VALUES (/*index*/963, /*text*/"花咲く丘・教会への道");
+INSERT INTO `card_location` VALUES (/*index*/964, /*text*/"チャペルへ続く階段");
+INSERT INTO `card_location` VALUES (/*index*/965, /*text*/"室内ガーデン");
+INSERT INTO `card_location` VALUES (/*index*/966, /*text*/"風薫る陽だまり");
