@@ -154,3 +154,4 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200105, /*name*/"Gaze an
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200106, /*name*/"輝け ! ビートシューター（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/106);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200107, /*name*/"Great Journey（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/107);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200108, /*name*/"Athanasia（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/108);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200109, /*name*/"オタク is LOVE!（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/109);
