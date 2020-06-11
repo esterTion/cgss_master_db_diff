@@ -952,3 +952,5 @@ INSERT INTO `card_location` VALUES (/*index*/965, /*text*/"室内ガーデン");
 INSERT INTO `card_location` VALUES (/*index*/966, /*text*/"風薫る陽だまり");
 INSERT INTO `card_location` VALUES (/*index*/967, /*text*/"雨上がりの通学路");
 INSERT INTO `card_location` VALUES (/*index*/968, /*text*/"晴天のサンフランシスコ");
+INSERT INTO `card_location` VALUES (/*index*/969, /*text*/"アートフェスティバル");
+INSERT INTO `card_location` VALUES (/*index*/970, /*text*/"美術館・ギャラリー");
