@@ -519,7 +519,7 @@ INSERT INTO `text_data` VALUES (/*category*/11, /*index*/96, /*text*/"絞り込�
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/97, /*text*/"対象のアイドルがいません");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/98, /*text*/"対象のアイテムがありません");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/99, /*text*/"ルーム\nアイテム");
-INSERT INTO `text_data` VALUES (/*category*/11, /*index*/100, /*text*/"予告{0}再生");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/100, /*text*/"予告{0}");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/101, /*text*/"閉じる");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/1, /*text*/"出現率");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/2, /*text*/"{0}のレア度別提供割合");
