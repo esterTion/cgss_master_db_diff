@@ -954,3 +954,6 @@ INSERT INTO `card_location` VALUES (/*index*/967, /*text*/"雨上がりの通学
 INSERT INTO `card_location` VALUES (/*index*/968, /*text*/"晴天のサンフランシスコ");
 INSERT INTO `card_location` VALUES (/*index*/969, /*text*/"アートフェスティバル");
 INSERT INTO `card_location` VALUES (/*index*/970, /*text*/"美術館・ギャラリー");
+INSERT INTO `card_location` VALUES (/*index*/971, /*text*/"ボードゲームカフェ");
+INSERT INTO `card_location` VALUES (/*index*/972, /*text*/"スタジオ・安斎探偵事務所");
+INSERT INTO `card_location` VALUES (/*index*/973, /*text*/"スタジオ近くの公園");
