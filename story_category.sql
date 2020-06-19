@@ -403,3 +403,4 @@ INSERT INTO `story_category` VALUES (/*id*/430, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/431, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"グラブルコラボ", /*sub_title*/"グラブルコラボ", /*disp_order*/16);
 INSERT INTO `story_category` VALUES (/*id*/432, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"不埒なCANVAS", /*sub_title*/"不埒なCANVAS", /*disp_order*/124);
 INSERT INTO `story_category` VALUES (/*id*/433, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ほほえみDiary", /*sub_title*/"ほほえみDiary", /*disp_order*/125);
+INSERT INTO `story_category` VALUES (/*id*/434, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Sing the Prologue♪", /*sub_title*/"Sing the Prologue♪", /*disp_order*/126);

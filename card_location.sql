@@ -957,3 +957,4 @@ INSERT INTO `card_location` VALUES (/*index*/970, /*text*/"美術館・ギャラ
 INSERT INTO `card_location` VALUES (/*index*/971, /*text*/"ボードゲームカフェ");
 INSERT INTO `card_location` VALUES (/*index*/972, /*text*/"スタジオ・安斎探偵事務所");
 INSERT INTO `card_location` VALUES (/*index*/973, /*text*/"スタジオ近くの公園");
+INSERT INTO `card_location` VALUES (/*index*/974, /*text*/"フリーマーケット");
