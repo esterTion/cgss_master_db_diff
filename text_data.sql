@@ -629,6 +629,7 @@ INSERT INTO `text_data` VALUES (/*category*/12, /*index*/105, /*text*/"所属上
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/106, /*text*/"アイテム所持数が上限に達しているため受け取れませんでした");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/107, /*text*/"以下を獲得しました");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/108, /*text*/"[FF7A7A]使用期限は{0}です[-]");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/109, /*text*/"提供アイドルは定期的に追加・更新されます");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/1, /*text*/"エクストラコミュ解放");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/2, /*text*/"新たなエクストラコミュが解放されました");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/3, /*text*/"事務所");
