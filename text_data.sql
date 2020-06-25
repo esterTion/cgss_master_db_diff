@@ -808,6 +808,8 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/115, /*text*/"ランダ
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/116, /*text*/"ランダム衣装(SSレア衣装優先)");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/117, /*text*/"対象楽曲なし");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/118, /*text*/"この条件で再生できるMVがありません。\n再度条件を設定してください。");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/122, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/123, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/1, /*text*/"月間獲得ファン数ランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/2, /*text*/"今期のランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/3, /*text*/"前期のランキング");
@@ -1656,6 +1658,9 @@ INSERT INTO `text_data` VALUES (/*category*/28, /*index*/115, /*text*/"コミュ
 INSERT INTO `text_data` VALUES (/*category*/28, /*index*/116, /*text*/"編成できない状態のアイドルは選択されません");
 INSERT INTO `text_data` VALUES (/*category*/28, /*index*/117, /*text*/"お気に入りアイドルを優先する");
 INSERT INTO `text_data` VALUES (/*category*/28, /*index*/118, /*text*/"コミュ営業解放");
+INSERT INTO `text_data` VALUES (/*category*/28, /*index*/119, /*text*/"営業開始確認");
+INSERT INTO `text_data` VALUES (/*category*/28, /*index*/120, /*text*/"再出発可能な営業を開始します\nよろしいですか？");
+INSERT INTO `text_data` VALUES (/*category*/28, /*index*/121, /*text*/"再出発できない営業は開始されません");
 INSERT INTO `text_data` VALUES (/*category*/29, /*index*/1, /*text*/"ノーマル");
 INSERT INTO `text_data` VALUES (/*category*/29, /*index*/2, /*text*/"アナザー");
 INSERT INTO `text_data` VALUES (/*category*/29, /*index*/3, /*text*/"スケジュール");
@@ -1871,6 +1876,7 @@ INSERT INTO `text_data` VALUES (/*category*/37, /*index*/37, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/38, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/39, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/40, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/37, /*index*/41, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/1, /*text*/"近日公開予定の機能のため、現在利用できません");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/2, /*text*/"ルームアイテム");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/3, /*text*/"回");
@@ -2062,6 +2068,10 @@ INSERT INTO `text_data` VALUES (/*category*/44, /*index*/15, /*text*/"未交換"
 INSERT INTO `text_data` VALUES (/*category*/44, /*index*/16, /*text*/"交換済みアイドル");
 INSERT INTO `text_data` VALUES (/*category*/44, /*index*/17, /*text*/"所持チケット数");
 INSERT INTO `text_data` VALUES (/*category*/44, /*index*/18, /*text*/"アイドル編成へ");
+INSERT INTO `text_data` VALUES (/*category*/44, /*index*/19, /*text*/"購入には");
+INSERT INTO `text_data` VALUES (/*category*/44, /*index*/20, /*text*/"受け取りには");
+INSERT INTO `text_data` VALUES (/*category*/44, /*index*/21, /*text*/"{0}{1}を所持している必要があります");
+INSERT INTO `text_data` VALUES (/*category*/44, /*index*/22, /*text*/"{0}を所持していません");
 INSERT INTO `text_data` VALUES (/*category*/45, /*index*/1, /*text*/"フリー枠アイドル");
 INSERT INTO `text_data` VALUES (/*category*/45, /*index*/2, /*text*/"フリー枠\nクリア");
 INSERT INTO `text_data` VALUES (/*category*/45, /*index*/3, /*text*/"フリー枠クリア確認");

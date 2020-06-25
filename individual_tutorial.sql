@@ -149,6 +149,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20203, /*img*/4, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20204, /*img*/1, /*discription*/"各アイドルの左上にある☆ボタンをタップすると、\nお気に入り設定を変更することができます。\nお気に入り設定したアイドルは優先的に表示されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20204, /*img*/1, /*discription*/"おすすめ編成でもお気に入りアイドルを優先できます。\nおすすめ編成ポップアップ内のチェックボックスで\n優先するかどうかを選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20205, /*img*/1, /*discription*/"海外エリアが追加されました。\nアイドルたちの魅力を世界中に広めましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20206, /*img*/1, /*discription*/"複数の営業をまとめて確認できる機能を追加しました !\n結果確認可能な営業をまとめて確認することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20206, /*img*/2, /*discription*/"さらに、複数まとめて確認した営業は\nそのまま再出発することができます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「LIVE Carnival開催直前 ! 強化合宿限定\n育成強化キャンペーン」開催中 ! !\n強化合宿キャンペーン中は、トレチケが獲得できる\nスペシャル営業を2種類追加 ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/2, /*discription*/"「LIVE Carnival開催直前 ! 強化合宿限定\n特訓支援キャンペーン」開催中 ! ! 強化合宿キャンペーン中は、\n必ず複数の特訓アイテムが獲得できるスペシャル営業が\n1日3回行えます ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21001, /*img*/1, /*discription*/"拘束のまゆからの攻撃を避けつつ、ハピネシウムを集めよう。\n集めたハピネシウムをラボに届けるとスコアをゲットできるよ ! \nラボにまとめて届けるとスコアがアップ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
