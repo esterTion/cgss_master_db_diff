@@ -1,1 +1,2 @@
 CREATE TABLE 'room_item_event_effect' ('event_id' INTEGER NOT NULL, 'room_item_ids' TEXT NOT NULL, PRIMARY KEY('event_id'));
+INSERT INTO `room_item_event_effect` VALUES (/*event_id*/7004, /*room_item_ids*/"3354,3455,3714");

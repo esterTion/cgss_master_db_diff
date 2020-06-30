@@ -920,5 +920,10 @@ INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9906, /*chara_id*/112, /*d
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9906, /*chara_id*/267, /*disp_order*/267);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9907, /*chara_id*/280, /*disp_order*/280);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9908, /*chara_id*/122, /*disp_order*/122);
+INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9909, /*chara_id*/260, /*disp_order*/260);
+INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9909, /*chara_id*/126, /*disp_order*/126);
+INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9909, /*chara_id*/307, /*disp_order*/307);
+INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9909, /*chara_id*/297, /*disp_order*/297);
+INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9909, /*chara_id*/174, /*disp_order*/174);
 CREATE INDEX 'music_vocalist_0_music_data_id' on 'music_vocalist'('music_data_id');
 CREATE INDEX 'music_vocalist_0_chara_id' on 'music_vocalist'('chara_id');

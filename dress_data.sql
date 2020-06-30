@@ -36,3 +36,5 @@ INSERT INTO `dress_data` VALUES (/*id*/7016000, /*name*/"お伽衣装・魔法�
 INSERT INTO `dress_data` VALUES (/*id*/7017000, /*name*/"てるてる珠美To You !", /*description*/"梅雨をテーマにした、珠美の衣装。\n振袖にレインブーツの組み合わせがキュート。\nデザインした者の想いがこもっている。", /*open_type*/3, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7018000, /*name*/"サンライトオブフラワー", /*description*/"太陽を浴びて輝くドレス。\nあたたかな陽光によって織られている。\nこのドレスと共に、少女たちの笑顔も花開く。", /*open_type*/3, /*dress_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/7019000, /*name*/"Cheese ! Cheese !", /*description*/"ねずみをテーマにした、肇の衣装。\n愛らしい髪型と、チーズなフリルがポイント。\nデザインした者の想いがこもっている。", /*open_type*/3, /*dress_type*/3);
+INSERT INTO `dress_data` VALUES (/*id*/7020000, /*name*/"宵の花衣", /*description*/"宵の花を彩る衣装。\nいずれ散りゆく運命なれど、\n命を燃やして咲く恋は美しい。\nその艶姿は、見る者の心に永久に残る。", /*open_type*/5, /*dress_type*/3);
+INSERT INTO `dress_data` VALUES (/*id*/7022000, /*name*/"スクールメイト・ブレザー", /*description*/"少女たちの青春を包む制服ドレス。\nBakuBakuのハートにしっかり封をして、\nステキな恋を届けよう。", /*open_type*/5, /*dress_type*/3);

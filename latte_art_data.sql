@@ -271,3 +271,5 @@ INSERT INTO `latte_art_data` VALUES (/*id*/269, /*title*/"第269話", /*chara_li
 INSERT INTO `latte_art_data` VALUES (/*id*/270, /*title*/"第270話", /*chara_list*/"151,152", /*disp_order*/270, /*start_date*/"2020-06-18 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `latte_art_data` VALUES (/*id*/271, /*title*/"第271話", /*chara_list*/"108,309,310", /*disp_order*/271, /*start_date*/"2020-06-19 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `latte_art_data` VALUES (/*id*/272, /*title*/"第272話", /*chara_list*/"251,149,275", /*disp_order*/272, /*start_date*/"2020-06-22 15:00:00", /*end_date*/"2099-12-31 23:59:59");
+INSERT INTO `latte_art_data` VALUES (/*id*/273, /*title*/"第273話", /*chara_list*/"131,235", /*disp_order*/273, /*start_date*/"2020-06-30 12:00:00", /*end_date*/"2099-12-31 23:59:59");
+INSERT INTO `latte_art_data` VALUES (/*id*/274, /*title*/"第274話", /*chara_list*/"260,307,126,174,297", /*disp_order*/274, /*start_date*/"2020-06-30 12:00:00", /*end_date*/"2099-12-31 23:59:59");

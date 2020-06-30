@@ -655,7 +655,7 @@ INSERT INTO `text_data` VALUES (/*category*/13, /*index*/22, /*text*/"ルーム�
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/23, /*text*/"ルーム効果");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/24, /*text*/"プレゼント未受け取りアイテム");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/25, /*text*/"このアイテムはプレゼントに贈られており、\n未受け取りの状態です。");
-INSERT INTO `text_data` VALUES (/*category*/13, /*index*/26, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/13, /*index*/26, /*text*/"イベントでの効果（収納中でも効果を発揮します）");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/100, /*text*/"降順");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/101, /*text*/"昇順");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/102, /*text*/"全て");
@@ -1880,6 +1880,7 @@ INSERT INTO `text_data` VALUES (/*category*/37, /*index*/41, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/1, /*text*/"近日公開予定の機能のため、現在利用できません");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/2, /*text*/"ルームアイテム");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/3, /*text*/"回");
+INSERT INTO `text_data` VALUES (/*category*/38, /*index*/4, /*text*/"ゲームセンターへ");
 INSERT INTO `text_data` VALUES (/*category*/39, /*index*/1, /*text*/"楽曲購入");
 INSERT INTO `text_data` VALUES (/*category*/39, /*index*/2, /*text*/"確認");
 INSERT INTO `text_data` VALUES (/*category*/39, /*index*/3, /*text*/"外部サイトへ接続します。\n楽曲配信情報サイトへ移動してもよろしいですか？");
@@ -2246,7 +2247,7 @@ INSERT INTO `text_data` VALUES (/*category*/48, /*index*/131, /*text*/"Rankス�
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/132, /*text*/"獲得Rankアップ報酬");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/133, /*text*/"選択可能楽曲一覧");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/134, /*text*/"集計中");
-INSERT INTO `text_data` VALUES (/*category*/48, /*index*/135, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/48, /*index*/135, /*text*/"＋{0}％");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/201, /*text*/"CarnivalRank\n到達報酬");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/202, /*text*/"CarnivalRank到達報酬");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/203, /*text*/"イベントの報酬が確認できます");

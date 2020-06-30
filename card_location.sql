@@ -961,3 +961,10 @@ INSERT INTO `card_location` VALUES (/*index*/974, /*text*/"フリーマーケッ
 INSERT INTO `card_location` VALUES (/*index*/975, /*text*/"古民家カフェ");
 INSERT INTO `card_location` VALUES (/*index*/976, /*text*/"野外イベント会場");
 INSERT INTO `card_location` VALUES (/*index*/977, /*text*/"地下のスタジオ");
+INSERT INTO `card_location` VALUES (/*index*/978, /*text*/"パリ・ショーウインドウ前");
+INSERT INTO `card_location` VALUES (/*index*/979, /*text*/"ショーウインドウ前・撮影中");
+INSERT INTO `card_location` VALUES (/*index*/980, /*text*/"アルプス山麓");
+INSERT INTO `card_location` VALUES (/*index*/981, /*text*/"タカモリ魔法雑貨店");
+INSERT INTO `card_location` VALUES (/*index*/982, /*text*/"教室の撮影セット");
+INSERT INTO `card_location` VALUES (/*index*/983, /*text*/"撮影現場");
+INSERT INTO `card_location` VALUES (/*index*/984, /*text*/"チャペル前・突入準備");
