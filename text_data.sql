@@ -2305,7 +2305,7 @@ INSERT INTO `text_data` VALUES (/*category*/49, /*index*/7, /*text*/"ＯＫ");
 INSERT INTO `text_data` VALUES (/*category*/49, /*index*/8, /*text*/"[2D2D2D]リセット対象の景品を入手しました。[-]");
 INSERT INTO `text_data` VALUES (/*category*/49, /*index*/9, /*text*/"ガシャ確認");
 INSERT INTO `text_data` VALUES (/*category*/49, /*index*/10, /*text*/"獲得済みアイテム一覧");
-INSERT INTO `text_data` VALUES (/*category*/49, /*index*/11, /*text*/"[FF7A7A]リセット対象のアイテムやアイドルを獲得した後、ガシャのリセットができるようになります。\n21回目以降は18回目、19回目、20回目のガシャの内容が繰り返されます。[-]");
+INSERT INTO `text_data` VALUES (/*category*/49, /*index*/11, /*text*/"[FF7A7A]リセット対象のアイテムやアイドルを獲得した後、ガシャのリセットができるようになります。\n22回目以降は19回目、20回目、21回目のガシャの内容が繰り返されます。[-]");
 INSERT INTO `text_data` VALUES (/*category*/49, /*index*/12, /*text*/"[FF7A7A]リセット対象のアイテムやアイドルを獲得した後、ガシャのリセットができるようになります。[-]");
 INSERT INTO `text_data` VALUES (/*category*/49, /*index*/13, /*text*/"ガシャ設定");
 INSERT INTO `text_data` VALUES (/*category*/49, /*index*/14, /*text*/"まとめてガシャ設定");
