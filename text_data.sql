@@ -808,6 +808,9 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/115, /*text*/"ランダ
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/116, /*text*/"ランダム衣装(SSレア衣装優先)");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/117, /*text*/"対象楽曲なし");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/118, /*text*/"この条件で再生できるMVがありません。\n再度条件を設定してください。");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/119, /*text*/"サウンド切り替え");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/120, /*text*/"「{0}」は2Dモードに非対応のため\n「{0}」ボタンはOFFになります。");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/121, /*text*/"SEver");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/122, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/123, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/1, /*text*/"月間獲得ファン数ランキング");
@@ -1877,6 +1880,8 @@ INSERT INTO `text_data` VALUES (/*category*/37, /*index*/38, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/39, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/40, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/41, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/37, /*index*/42, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/37, /*index*/43, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/1, /*text*/"近日公開予定の機能のため、現在利用できません");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/2, /*text*/"ルームアイテム");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/3, /*text*/"回");

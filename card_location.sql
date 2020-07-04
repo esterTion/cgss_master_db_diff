@@ -968,3 +968,8 @@ INSERT INTO `card_location` VALUES (/*index*/981, /*text*/"タカモリ魔法雑
 INSERT INTO `card_location` VALUES (/*index*/982, /*text*/"教室の撮影セット");
 INSERT INTO `card_location` VALUES (/*index*/983, /*text*/"撮影現場");
 INSERT INTO `card_location` VALUES (/*index*/984, /*text*/"チャペル前・突入準備");
+INSERT INTO `card_location` VALUES (/*index*/985, /*text*/"古民家の縁側");
+INSERT INTO `card_location` VALUES (/*index*/986, /*text*/"高台にある公園");
+INSERT INTO `card_location` VALUES (/*index*/987, /*text*/"海外・野外フェスステージ");
+INSERT INTO `card_location` VALUES (/*index*/988, /*text*/"昼下がりの縁側");
+INSERT INTO `card_location` VALUES (/*index*/989, /*text*/"昼下がりの夏祭り会場");
