@@ -977,3 +977,5 @@ INSERT INTO `card_location` VALUES (/*index*/990, /*text*/"ダーツバー");
 INSERT INTO `card_location` VALUES (/*index*/991, /*text*/"沙織の実家・台所");
 INSERT INTO `card_location` VALUES (/*index*/992, /*text*/"古民家");
 INSERT INTO `card_location` VALUES (/*index*/993, /*text*/"祭り会場・夜");
+INSERT INTO `card_location` VALUES (/*index*/994, /*text*/"アパレルショップ");
+INSERT INTO `card_location` VALUES (/*index*/995, /*text*/"野外LIVEステージ");

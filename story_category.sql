@@ -406,3 +406,4 @@ INSERT INTO `story_category` VALUES (/*id*/432, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/433, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ほほえみDiary", /*sub_title*/"ほほえみDiary", /*disp_order*/125);
 INSERT INTO `story_category` VALUES (/*id*/434, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Sing the Prologue♪", /*sub_title*/"Sing the Prologue♪", /*disp_order*/126);
 INSERT INTO `story_category` VALUES (/*id*/435, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"オウムアムアに幸運を", /*sub_title*/"オウムアムアに幸運を", /*disp_order*/127);
+INSERT INTO `story_category` VALUES (/*id*/436, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"浅野風香 / 藤居朋", /*sub_title*/"浅野風香 / 藤居朋", /*disp_order*/128);

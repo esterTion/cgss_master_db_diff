@@ -811,8 +811,8 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/118, /*text*/"この条
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/119, /*text*/"サウンド切り替え");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/120, /*text*/"「{0}」は2Dモードに非対応のため\n「{0}」ボタンはOFFになります。");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/121, /*text*/"SEver");
-INSERT INTO `text_data` VALUES (/*category*/14, /*index*/122, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/14, /*index*/123, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/122, /*text*/"[ff7a7a]非対応端末のため設定できません[-]");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/123, /*text*/"　 [ff7a7a]非対応端末のため設定できません[-]");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/1, /*text*/"月間獲得ファン数ランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/2, /*text*/"今期のランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/3, /*text*/"前期のランキング");
