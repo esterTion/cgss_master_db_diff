@@ -984,6 +984,9 @@ INSERT INTO `card_location` VALUES (/*index*/997, /*text*/"特設LIVEステー�
 INSERT INTO `card_location` VALUES (/*index*/998, /*text*/"駅構内・ストリートピアノ");
 INSERT INTO `card_location` VALUES (/*index*/999, /*text*/"異国の森のセット");
 INSERT INTO `card_location` VALUES (/*index*/1000, /*text*/"千枝の部屋・夕暮れ");
+INSERT INTO `card_location` VALUES (/*index*/1001, /*text*/"ダンススタジオ");
+INSERT INTO `card_location` VALUES (/*index*/1002, /*text*/"お座敷LIVEステージ");
+INSERT INTO `card_location` VALUES (/*index*/1003, /*text*/"夏祭りLIVEステージ");
 INSERT INTO `card_location` VALUES (/*index*/1004, /*text*/"緑の豊かな公園");
 INSERT INTO `card_location` VALUES (/*index*/1005, /*text*/"妖精の村のセット");
 INSERT INTO `card_location` VALUES (/*index*/1006, /*text*/"机の上のセット");
