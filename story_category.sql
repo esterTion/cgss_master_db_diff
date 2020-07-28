@@ -408,3 +408,4 @@ INSERT INTO `story_category` VALUES (/*id*/434, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/435, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"オウムアムアに幸運を", /*sub_title*/"オウムアムアに幸運を", /*disp_order*/127);
 INSERT INTO `story_category` VALUES (/*id*/436, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"浅野風香 / 藤居朋", /*sub_title*/"浅野風香 / 藤居朋", /*disp_order*/128);
 INSERT INTO `story_category` VALUES (/*id*/437, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"太陽の絵の具箱", /*sub_title*/"太陽の絵の具箱", /*disp_order*/129);
+INSERT INTO `story_category` VALUES (/*id*/438, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"STEINS;GATEコラボ", /*sub_title*/"STEINS;GATEコラボ", /*disp_order*/17);

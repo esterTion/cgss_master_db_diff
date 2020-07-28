@@ -250,6 +250,8 @@ INSERT INTO `music_info` VALUES (/*id*/8044, /*discription*/"鳥の詩（Lia）\
 INSERT INTO `music_info` VALUES (/*id*/8045, /*discription*/"アルカテイル（鈴木このみ）\n\n新田美波（CV：洲崎綾）\n\n\n作詞：魁\n作曲：折戸伸治", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8046, /*discription*/"時を刻む唄（Lia）\n\n黒埼ちとせ（CV：佐倉薫）\n白雪千夜（CV：関口理咲）\n\n\n作詞・作曲：麻枝准", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8047, /*discription*/"My Soul, Your Beats!（Lia）\n\n緒方智絵里（CV：大空直美）\n\n\n作詞・作曲：麻枝准", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/8048, /*discription*/"スカイクラッドの観測者\n\n二宮飛鳥（CV：青木志貴）\n\n\n作詞：志倉千代丸\n作曲：志倉千代丸\n編曲：磯江俊道", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/8049, /*discription*/"Hacking to the Gate\n\n神崎蘭子（CV：内田真礼）\n\n\n作詞：志倉千代丸\n作曲：志倉千代丸\n編曲：磯江俊道", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/9001, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n双葉杏（CV：五十嵐裕美）\n諸星きらり（CV：松嵜麗）\n\n\n作詞：marhy\n作曲・編曲：BNSI（内田哲也）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/9002, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n大槻唯（CV：山下七海）\n上条春菜（CV：長島光那）\n\n\n作詞：俊龍\n作曲：俊龍\n編曲：Sizuk", /*android_url*/"http://columbia.jp/sl-stage/haishin/COCC-17141.html", /*ios_url*/"http://columbia.jp/sl-stage/haishin/COCC-17141.html");
 INSERT INTO `music_info` VALUES (/*id*/9003, /*discription*/"速水奏（CV：飯田友子）\n塩見周子（CV：ルゥ ティン）\n城ヶ崎美嘉（CV：佳村はるか）\n宮本フレデリカ（CV：髙野麻美）\n一ノ瀬志希（CV：藍原ことみ）\n\n\n作詞：森由⾥⼦\n作曲・編曲：石濱翔（MONACA）", /*android_url*/"http://columbia.jp/sl-stage/haishin/COCC-17142.html", /*ios_url*/"http://columbia.jp/sl-stage/haishin/COCC-17142.html");

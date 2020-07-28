@@ -630,6 +630,7 @@ INSERT INTO `text_data` VALUES (/*category*/12, /*index*/106, /*text*/"アイテ
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/107, /*text*/"以下を獲得しました");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/108, /*text*/"[FF7A7A]使用期限は{0}です[-]");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/109, /*text*/"提供アイドルは定期的に追加・更新されます");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/110, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/1, /*text*/"エクストラコミュ解放");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/2, /*text*/"新たなエクストラコミュが解放されました");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/3, /*text*/"事務所");
@@ -919,6 +920,10 @@ INSERT INTO `text_data` VALUES (/*category*/16, /*index*/509, /*text*/"LIVE\nPAR
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/510, /*text*/"フォト\nスタジオへ");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/511, /*text*/"営業へ");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/512, /*text*/"ルームへ");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/1001, /*text*/"{0}");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/1002, /*text*/"{0}");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/1003, /*text*/"{0}");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/1004, /*text*/"{0}");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/40101, /*text*/"さぁ、始まりました。\n特別コーナー『シンデレラメモリー』。");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/40102, /*text*/"これから毎日、4周年に向けたカウントダウンと、\n1年間の振り返りをしていきます。");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/40103, /*text*/"まずは9月。\nふたりで『Pretty Liar』を歌ったわね。\n嘘を着飾った私たち、見てくれたかしら。");
@@ -2566,6 +2571,8 @@ INSERT INTO `text_data` VALUES (/*category*/57, /*index*/91, /*text*/"定期購�
 INSERT INTO `text_data` VALUES (/*category*/57, /*index*/92, /*text*/"スタージュエル\n・その他購入");
 INSERT INTO `text_data` VALUES (/*category*/57, /*index*/93, /*text*/"ジュエル・その他購入");
 INSERT INTO `text_data` VALUES (/*category*/57, /*index*/94, /*text*/"[D33D98]スタージュエル[-]や[D33D98]月額サービス[-]は\n保護者の[D33D98]許可[-]を得たうえでご購入ください。");
+INSERT INTO `text_data` VALUES (/*category*/57, /*index*/95, /*text*/"[FF0000]※購入状況が反映されない場合はリストアボタンをタップしてください。[-]");
+INSERT INTO `text_data` VALUES (/*category*/57, /*index*/96, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/58, /*index*/1, /*text*/"Twitter移動確認");
 INSERT INTO `text_data` VALUES (/*category*/58, /*index*/2, /*text*/"最新の誕生日イラストが公開されている\n「アイドルマスター シンデレラガールズ\nスターライトステージ」の\n公式Twitterアカウントに移動します。\n\nよろしいですか？");
 INSERT INTO `text_data` VALUES (/*category*/58, /*index*/3, /*text*/"デフォルト順");

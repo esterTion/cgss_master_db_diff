@@ -49,4 +49,5 @@ INSERT INTO `onetime_story` VALUES (/*id*/52, /*name*/"プリコネRe:Diveコラ
 INSERT INTO `onetime_story` VALUES (/*id*/53, /*name*/"『春恋フレーム』登場 !", /*story_id*/4659, /*transition*/0, /*page_index*/0, /*start_date*/"2020-04-17 15:00:00", /*end_date*/"2020-04-21 14:59:59", /*play_order*/728, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/54, /*name*/"グラブルコラボ企画", /*story_id*/4716, /*transition*/6, /*page_index*/0, /*start_date*/"2020-05-15 15:00:00", /*end_date*/"2020-05-28 14:59:59", /*play_order*/729, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/55, /*name*/"『私色のプレリュード』登場 !", /*story_id*/4745, /*transition*/0, /*page_index*/0, /*start_date*/"2020-06-11 15:00:00", /*end_date*/"2020-06-16 14:59:59", /*play_order*/730, /*notice_type*/2);
+INSERT INTO `onetime_story` VALUES (/*id*/56, /*name*/"STEINS;GATEコラボ企画", /*story_id*/4810, /*transition*/6, /*page_index*/0, /*start_date*/"2020-07-28 15:00:00", /*end_date*/"2020-08-07 14:59:59", /*play_order*/731, /*notice_type*/2);
 CREATE INDEX 'onetime_story_0_story_id' on 'onetime_story'('story_id');

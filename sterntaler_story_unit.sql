@@ -423,4 +423,10 @@ INSERT INTO `sterntaler_story_unit` VALUES (/*id*/421, /*data_1*/165, /*data_2*/
 INSERT INTO `sterntaler_story_unit` VALUES (/*id*/422, /*data_1*/166, /*data_2*/256);
 INSERT INTO `sterntaler_story_unit` VALUES (/*id*/423, /*data_1*/166, /*data_2*/214);
 INSERT INTO `sterntaler_story_unit` VALUES (/*id*/424, /*data_1*/166, /*data_2*/150);
+INSERT INTO `sterntaler_story_unit` VALUES (/*id*/425, /*data_1*/167, /*data_2*/284);
+INSERT INTO `sterntaler_story_unit` VALUES (/*id*/426, /*data_1*/167, /*data_2*/288);
+INSERT INTO `sterntaler_story_unit` VALUES (/*id*/427, /*data_1*/168, /*data_2*/178);
+INSERT INTO `sterntaler_story_unit` VALUES (/*id*/428, /*data_1*/168, /*data_2*/238);
+INSERT INTO `sterntaler_story_unit` VALUES (/*id*/429, /*data_1*/169, /*data_2*/169);
+INSERT INTO `sterntaler_story_unit` VALUES (/*id*/430, /*data_1*/169, /*data_2*/241);
 CREATE INDEX 'sterntaler_story_unit_0_data_1' on 'sterntaler_story_unit'('data_1');
