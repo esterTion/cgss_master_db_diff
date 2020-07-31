@@ -37,4 +37,6 @@ INSERT INTO `dress_data` VALUES (/*id*/7017000, /*name*/"てるてる珠美To Yo
 INSERT INTO `dress_data` VALUES (/*id*/7018000, /*name*/"サンライトオブフラワー", /*description*/"太陽を浴びて輝くドレス。\nあたたかな陽光によって織られている。\nこのドレスと共に、少女たちの笑顔も花開く。", /*open_type*/3, /*dress_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/7019000, /*name*/"Cheese ! Cheese !", /*description*/"ねずみをテーマにした、肇の衣装。\n愛らしい髪型と、チーズなフリルがポイント。\nデザインした者の想いがこもっている。", /*open_type*/3, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7020000, /*name*/"宵の花衣", /*description*/"宵の花を彩る衣装。\nいずれ散りゆく運命なれど、\n命を燃やして咲く恋は美しい。\nその艶姿は、見る者の心に永久に残る。", /*open_type*/5, /*dress_type*/3);
+INSERT INTO `dress_data` VALUES (/*id*/7021000, /*name*/"春纏う霞衣", /*description*/"桜のように咲き誇る、少女たちの衣装。\n芽吹き、咲き、散ってゆく。\nそれでも桜はまた咲き、皆を惹きつける。\nそしてまた、満開の笑顔が花開く。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7022000, /*name*/"スクールメイト・ブレザー", /*description*/"少女たちの青春を包む制服ドレス。\nBakuBakuのハートにしっかり封をして、\nステキな恋を届けよう。", /*open_type*/5, /*dress_type*/3);
+INSERT INTO `dress_data` VALUES (/*id*/7023000, /*name*/"セーシュン・チアーズ", /*description*/"青春を応援する少女たちの制服ドレス。\n上手くいかない時も、つまづいてしまう時も\nある。それでも、今という時を全力で走ろう。\nその情熱は、輝く明日へと繋がっている。", /*open_type*/5, /*dress_type*/3);
