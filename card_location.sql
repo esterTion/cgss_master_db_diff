@@ -990,3 +990,11 @@ INSERT INTO `card_location` VALUES (/*index*/1003, /*text*/"夏祭りLIVEステ�
 INSERT INTO `card_location` VALUES (/*index*/1004, /*text*/"緑の豊かな公園");
 INSERT INTO `card_location` VALUES (/*index*/1005, /*text*/"妖精の村のセット");
 INSERT INTO `card_location` VALUES (/*index*/1006, /*text*/"机の上のセット");
+INSERT INTO `card_location` VALUES (/*index*/1007, /*text*/"ビーチハウス");
+INSERT INTO `card_location` VALUES (/*index*/1008, /*text*/"グアム・夕暮れの海");
+INSERT INTO `card_location` VALUES (/*index*/1009, /*text*/"映画セット・川底の金魚城");
+INSERT INTO `card_location` VALUES (/*index*/1010, /*text*/"学校のプールサイド");
+INSERT INTO `card_location` VALUES (/*index*/1011, /*text*/"ブティック・試着室");
+INSERT INTO `card_location` VALUES (/*index*/1012, /*text*/"ミュージカルステージ");
+INSERT INTO `card_location` VALUES (/*index*/1013, /*text*/"ショットバー");
+INSERT INTO `card_location` VALUES (/*index*/1014, /*text*/"ビーチ特設会場");
