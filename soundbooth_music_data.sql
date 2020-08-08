@@ -158,3 +158,4 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200109, /*name*/"オタ�
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200110, /*name*/"不埒なCANVAS（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/110);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200111, /*name*/"ほほえみDiary（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/111);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200112, /*name*/"Sing the Prologue♪（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/112);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200113, /*name*/"オウムアムアに幸運を（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/113);
