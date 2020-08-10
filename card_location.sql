@@ -998,3 +998,7 @@ INSERT INTO `card_location` VALUES (/*index*/1011, /*text*/"ブティック・�
 INSERT INTO `card_location` VALUES (/*index*/1012, /*text*/"ミュージカルステージ");
 INSERT INTO `card_location` VALUES (/*index*/1013, /*text*/"ショットバー");
 INSERT INTO `card_location` VALUES (/*index*/1014, /*text*/"ビーチ特設会場");
+INSERT INTO `card_location` VALUES (/*index*/1015, /*text*/"放課後の正門前");
+INSERT INTO `card_location` VALUES (/*index*/1016, /*text*/"明石焼き屋前");
+INSERT INTO `card_location` VALUES (/*index*/1017, /*text*/"公園・水遊びスポット");
+INSERT INTO `card_location` VALUES (/*index*/1018, /*text*/"古代遺跡・洞窟壁画前");
