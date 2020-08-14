@@ -344,6 +344,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60029, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60029, /*img*/3, /*discription*/"さらにLIVEだけでなく、誕生日アイドルを編成して\n営業を成功させることでもプレゼントが貰えるようになりました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60030, /*img*/1, /*discription*/"「誕生日ギャラリー」を追加しました。\n誕生日ギャラリーでは、アイドルたちの\n誕生日記念イラストを見ることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60030, /*img*/2, /*discription*/"絞り込み機能に検索機能を追加しました。\n任意の条件を選択した絞り込みと、アイドル名での検索が行えます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60031, /*img*/1, /*discription*/"ホーム画面レイアウトでは、各ボタンの配置や\nバナーサイズの変更、表示内容のON/OFFなどを\n自由に設定できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60031, /*img*/2, /*discription*/"ホーム画面ボタン設定では、最大6つのボタンを\n設定することができます。ホーム画面から好きな\n機能へ移動できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/1, /*discription*/"「LIVE PARTY!!」では、協力LIVEを行うことで、\n「スターエンブレム」が獲得できます。\n「スターエンブレム」を集めると、過去イベントの報酬や、\nアイテムとの交換ができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。\n楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/3, /*discription*/"カジュアルマッチを有効にした場合は、\n異なる難易度を選択したプロデューサーもマッチング対象となり、\nLIVEを行います。");
