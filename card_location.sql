@@ -1002,3 +1002,5 @@ INSERT INTO `card_location` VALUES (/*index*/1015, /*text*/"放課後の正門�
 INSERT INTO `card_location` VALUES (/*index*/1016, /*text*/"明石焼き屋前");
 INSERT INTO `card_location` VALUES (/*index*/1017, /*text*/"公園・水遊びスポット");
 INSERT INTO `card_location` VALUES (/*index*/1018, /*text*/"古代遺跡・洞窟壁画前");
+INSERT INTO `card_location` VALUES (/*index*/1022, /*text*/"フランス・マルシェ");
+INSERT INTO `card_location` VALUES (/*index*/1023, /*text*/"フランスの街角");
