@@ -410,3 +410,4 @@ INSERT INTO `story_category` VALUES (/*id*/436, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/437, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"太陽の絵の具箱", /*sub_title*/"太陽の絵の具箱", /*disp_order*/129);
 INSERT INTO `story_category` VALUES (/*id*/438, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"STEINS;GATEコラボ", /*sub_title*/"STEINS;GATEコラボ", /*disp_order*/17);
 INSERT INTO `story_category` VALUES (/*id*/439, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Joker", /*sub_title*/"Joker", /*disp_order*/130);
+INSERT INTO `story_category` VALUES (/*id*/440, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ヒーローヴァーサスレイナンジョー", /*sub_title*/"ヒーローヴァーサスレイナンジョー", /*disp_order*/131);
