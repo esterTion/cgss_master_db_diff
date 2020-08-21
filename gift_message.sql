@@ -194,3 +194,5 @@ INSERT INTO `gift_message` VALUES (/*id*/20042, /*discription*/"「新春 ! プ�
 INSERT INTO `gift_message` VALUES (/*id*/20043, /*discription*/"「デレステ5DAYSジュエルフェスティバル」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20044, /*discription*/"「りも～っと ! デレステ☆NIGHT」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20045, /*discription*/"「7thLIVE ナゴヤドーム振り返りも～っとくばん ! !」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20046, /*discription*/"「5周年記念!!カウントダウンログインボーナス」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20047, /*discription*/"「DJ KOO × デレステ コラボキャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

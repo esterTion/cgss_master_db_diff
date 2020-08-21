@@ -527,6 +527,13 @@ INSERT INTO `tips` VALUES (/*id*/525, /*tips_type*/1, /*value*/242, /*index*/3, 
 INSERT INTO `tips` VALUES (/*id*/526, /*tips_type*/1, /*value*/229, /*index*/3, /*title*/"結城晴のウワサ③", /*comment*/"自分用のシャンプーを\n使い始めたらしい。", /*chara_list*/229);
 INSERT INTO `tips` VALUES (/*id*/527, /*tips_type*/1, /*value*/297, /*index*/3, /*title*/"佐藤心のウワサ③", /*comment*/"心に賞味期限はないらしい。", /*chara_list*/297);
 INSERT INTO `tips` VALUES (/*id*/528, /*tips_type*/1, /*value*/268, /*index*/3, /*title*/"城ヶ崎莉嘉のウワサ③", /*comment*/"カプセルトイの\n誘惑に弱いらしい。", /*chara_list*/268);
+INSERT INTO `tips` VALUES (/*id*/529, /*tips_type*/1, /*value*/121, /*index*/3, /*title*/"棟方愛海のウワサ③", /*comment*/"山々の環境保全にも\n意欲的らしい。", /*chara_list*/121);
+INSERT INTO `tips` VALUES (/*id*/530, /*tips_type*/1, /*value*/251, /*index*/3, /*title*/"海老原菜帆のウワサ③", /*comment*/"つぶあん派とこしあん派を\n和解させるのが夢らしい。", /*chara_list*/251);
+INSERT INTO `tips` VALUES (/*id*/531, /*tips_type*/1, /*value*/270, /*index*/3, /*title*/"日野茜のウワサ③", /*comment*/"徒歩10分は\n徒歩5分になるらしい。", /*chara_list*/270);
+INSERT INTO `tips` VALUES (/*id*/532, /*tips_type*/1, /*value*/183, /*index*/3, /*title*/"木場真奈美のウワサ③", /*comment*/"ペットショップに入ると、\n動物たちが静かになるらしい。", /*chara_list*/183);
+INSERT INTO `tips` VALUES (/*id*/533, /*tips_type*/1, /*value*/119, /*index*/3, /*title*/"関裕美のウワサ③", /*comment*/"本番前に頬を揉むらしい。", /*chara_list*/119);
+INSERT INTO `tips` VALUES (/*id*/534, /*tips_type*/1, /*value*/259, /*index*/3, /*title*/"西島櫂のウワサ③", /*comment*/"虫歯になったことがないらしい。", /*chara_list*/259);
+INSERT INTO `tips` VALUES (/*id*/535, /*tips_type*/1, /*value*/137, /*index*/3, /*title*/"涼宮星花のウワサ③", /*comment*/"クラシック音楽業界のファンが\n増え続けているらしい。", /*chara_list*/137);
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !", /*chara_list*/"");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !", /*chara_list*/"");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !", /*chara_list*/"");

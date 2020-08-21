@@ -25,3 +25,4 @@ INSERT INTO `index_leader_skill_data` VALUES (/*id*/23, /*name*/"レゾナンス
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/24, /*name*/"レゾナンス\nステップ", /*skill_id*/105, /*disp_order*/24, /*start_date*/"2019-08-31 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/25, /*name*/"レゾナンス\nメイク", /*skill_id*/106, /*disp_order*/25, /*start_date*/"2019-10-31 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/26, /*name*/"シンデレラ\nエール", /*skill_id*/113, /*disp_order*/26, /*start_date*/"2019-12-31 00:00:00", /*end_date*/"2099-12-31 23:59:59");
+INSERT INTO `index_leader_skill_data` VALUES (/*id*/27, /*name*/"ワールド\nレベル", /*skill_id*/116, /*disp_order*/27, /*start_date*/"2020-08-21 15:00:00", /*end_date*/"2099-12-31 23:59:59");
