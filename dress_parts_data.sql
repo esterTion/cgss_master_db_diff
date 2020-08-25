@@ -6,5 +6,6 @@ INSERT INTO `dress_parts_data` VALUES (/*id*/4, /*dress_id*/10, /*disp_order*/4,
 INSERT INTO `dress_parts_data` VALUES (/*id*/10, /*dress_id*/10, /*disp_order*/1, /*package*/0, /*parts_priority*/1, /*parts_id*/0, /*name*/"レッスンウェア／半袖", /*description*/"衣装「レッスンウェア」のＴシャツ（半袖）です", /*parts_category*/1, /*img_id*/10, /*shop_name*/"レッスンウェア");
 INSERT INTO `dress_parts_data` VALUES (/*id*/11, /*dress_id*/10, /*disp_order*/2, /*package*/0, /*parts_priority*/1, /*parts_id*/1, /*name*/"レッスンウェア／長袖", /*description*/"衣装「レッスンウェア」のＴシャツ（長袖）です", /*parts_category*/1, /*img_id*/11, /*shop_name*/"レッスンウェア／長袖");
 INSERT INTO `dress_parts_data` VALUES (/*id*/12, /*dress_id*/10, /*disp_order*/3, /*package*/0, /*parts_priority*/1, /*parts_id*/2, /*name*/"レッスンウェア／ジャージ", /*description*/"衣装「レッスンウェア」のジャージです", /*parts_category*/1, /*img_id*/12, /*shop_name*/"レッスンウェア／ジャージ");
+INSERT INTO `dress_parts_data` VALUES (/*id*/14, /*dress_id*/10, /*disp_order*/4, /*package*/0, /*parts_priority*/1, /*parts_id*/3, /*name*/"レッスンウェア／パーカー", /*description*/"衣装「レッスンウェア」のパーカーです", /*parts_category*/1, /*img_id*/14, /*shop_name*/"レッスンウェア／パーカー");
 CREATE INDEX 'dress_parts_data_0_dress_id' on 'dress_parts_data'('dress_id');
 CREATE INDEX 'dress_parts_data_0_dress_id_1_parts_category' on 'dress_parts_data'('dress_id','parts_category');
