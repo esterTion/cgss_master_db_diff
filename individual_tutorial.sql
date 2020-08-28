@@ -563,6 +563,11 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90202, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90301, /*img*/1, /*discription*/"「楽曲総選挙」が始まりました !\nお気に入りの楽曲に投票しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90301, /*img*/2, /*discription*/"投票できるのは、ソロ楽曲部門とユニット楽曲部門の2部門 !\n各部門1日1回投票できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90301, /*img*/3, /*discription*/"受賞楽曲は、\nmobage「アイドルマスター シンデレラガールズ」\n第6回シンデレラガール総選挙と連動して楽曲化 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90302, /*img*/1, /*discription*/"【24magic ～シンデレラたちの24時間生放送 ! ～】\nにて「デレステビンGO ! 」が開催 !\n参加して報酬を獲得しましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90302, /*img*/2, /*discription*/"9月5日21:29までのビンゴシート作成期間に\n参加条件をクリアすることでビンゴシートを作成\nできます。※作成期間にご注意ください");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90302, /*img*/2, /*discription*/"また、作成期間中はビンゴシートの作り直しが\n可能です。好みのシートを作りましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90302, /*img*/3, /*discription*/"番組内でアイドルが抽選されます。そのアイドルのマスが\nシートにあればマスがOPENされます。1マスごとに\nOPEN報酬が獲得できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90302, /*img*/3, /*discription*/"また、解放したマスが縦、横、ナナメのラインに\n5つ並べばビンゴ達成 ! 1ラインごとにビンゴ報酬が\n獲得できます。抽選会をお楽しみに !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/1, /*discription*/"オールスターカウントダウンLIVE開催 !\n開催期間は2019年12月31日0時～24時です。\nみんなでLIVEを楽しみながら1年を締めくくりましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/2, /*discription*/"全プロデューサーで対象楽曲をクリアして、「全体ミッション」を達成しま\nしょう ! LIVEのクリアされた回数によって獲得できる報酬が決定します !\n※全体ミッションの達成報酬は、\n1月1日12時にまとめて配布されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/3, /*discription*/"オールスターカウントダウンLIVEでは、\nLIVEをクリアすると「クリスタルナイトパーティチケット」がドロップします。\nドレスショップでチケット1枚を使用することで、\n好きなアイドル1人のドレスと交換できます。");

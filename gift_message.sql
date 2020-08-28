@@ -120,6 +120,10 @@ INSERT INTO `gift_message` VALUES (/*id*/2015, /*discription*/"オールスタ�
 INSERT INTO `gift_message` VALUES (/*id*/2016, /*discription*/"オールスター カウントダウンLIVEのミッション「{0}」で獲得した報酬です。", /*type_1*/34, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2017, /*discription*/"オールスター カウントダウンLIVEのミッション「{0}」で獲得した報酬です。", /*type_1*/28, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2018, /*discription*/"オールスター カウントダウンLIVEのミッション「{0}」で加入したアイドルです。", /*type_1*/28, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/2021, /*discription*/"「デレステビンGO ! 」のOPEN報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/2022, /*discription*/"「デレステビンGO ! 」のビンゴ報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/2023, /*discription*/"「デレステビンGO ! 」の{0}マス分のOPEN報酬です。", /*type_1*/90, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/2024, /*discription*/"「デレステビンGO ! 」の{0}ライン分のビンゴ報酬です。", /*type_1*/90, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/3001, /*discription*/"プレミアムパス特典：イベント「{0}」{1}イベントpt達成報酬です。", /*type_1*/19, /*type_2*/20, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/3004, /*discription*/"プレミアムパス特典：イベント「{0}」{1}イベントpt達成で加入したアイドルです。", /*type_1*/19, /*type_2*/20, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/3029, /*discription*/"プレミアムパス特典：イベント「{0}」{1}マス到達で加入したアイドルです。", /*type_1*/19, /*type_2*/35, /*type_3*/0, /*type_4*/0);
