@@ -1011,3 +1011,9 @@ INSERT INTO `card_location` VALUES (/*index*/1024, /*text*/"湖畔の弓道大�
 INSERT INTO `card_location` VALUES (/*index*/1025, /*text*/"屋外能楽堂・舞台");
 INSERT INTO `card_location` VALUES (/*index*/1026, /*text*/"失われた古代遺跡");
 INSERT INTO `card_location` VALUES (/*index*/1027, /*text*/"コロシアム");
+INSERT INTO `card_location` VALUES (/*index*/1028, /*text*/"謎の南の島");
+INSERT INTO `card_location` VALUES (/*index*/1029, /*text*/"ダークりあむルーム");
+INSERT INTO `card_location` VALUES (/*index*/1030, /*text*/"夏の遍路道");
+INSERT INTO `card_location` VALUES (/*index*/1031, /*text*/"星夜の淵");
+INSERT INTO `card_location` VALUES (/*index*/1032, /*text*/"リゾートホテルのプール");
+INSERT INTO `card_location` VALUES (/*index*/1033, /*text*/"アニバーサリーLIVEステージ");
