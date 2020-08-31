@@ -42,3 +42,5 @@ INSERT INTO `dress_data` VALUES (/*id*/7020000, /*name*/"宵の花衣", /*descri
 INSERT INTO `dress_data` VALUES (/*id*/7021000, /*name*/"春纏う霞衣", /*description*/"桜のように咲き誇る、少女たちの衣装。\n芽吹き、咲き、散ってゆく。\nそれでも桜はまた咲き、皆を惹きつける。\nそしてまた、満開の笑顔が花開く。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7022000, /*name*/"スクールメイト・ブレザー", /*description*/"少女たちの青春を包む制服ドレス。\nBakuBakuのハートにしっかり封をして、\nステキな恋を届けよう。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7023000, /*name*/"セーシュン・チアーズ", /*description*/"青春を応援する少女たちの制服ドレス。\n上手くいかない時も、つまづいてしまう時も\nある。それでも、今という時を全力で走ろう。\nその情熱は、輝く明日へと繋がっている。", /*open_type*/5, /*dress_type*/3);
+INSERT INTO `dress_data` VALUES (/*id*/7024000, /*name*/"プレイ・イット・アンサー", /*description*/"嵐を巻き起こす少女たちのドレス。\n個性と個性がぶつかり合い、やがてひとつの\n形となる。だが、それが唯一の答えではない。\n無限の答えが、少女たちの前に広がっている。", /*open_type*/5, /*dress_type*/3);
+INSERT INTO `dress_data` VALUES (/*id*/7025000, /*name*/"セクシー・フォー・ジャスティス", /*description*/"ギルティを許さない少女たちのドレス。\nギルティあるところに姿あり、姿あるところに\nセクシーあり ! この世の悪事にお仕置きを !\n行け行け、セクシーギルティ !", /*open_type*/5, /*dress_type*/3);

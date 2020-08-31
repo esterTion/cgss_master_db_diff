@@ -42,3 +42,5 @@ INSERT INTO `dress_target_2` VALUES (/*id*/7020000, /*target_chara_type*/0, /*ta
 INSERT INTO `dress_target_2` VALUES (/*id*/7021000, /*target_chara_type*/0, /*target_chara*/"132,141,221,262,292");
 INSERT INTO `dress_target_2` VALUES (/*id*/7022000, /*target_chara_type*/0, /*target_chara*/"101,111,113");
 INSERT INTO `dress_target_2` VALUES (/*id*/7023000, /*target_chara_type*/0, /*target_chara*/"234,235,270");
+INSERT INTO `dress_target_2` VALUES (/*id*/7024000, /*target_chara_type*/0, /*target_chara*/"162,226,256");
+INSERT INTO `dress_target_2` VALUES (/*id*/7025000, /*target_chara_type*/0, /*target_chara*/"253,257,258");
