@@ -52,4 +52,5 @@ INSERT INTO `onetime_story` VALUES (/*id*/55, /*name*/"『私色のプレリュ�
 INSERT INTO `onetime_story` VALUES (/*id*/56, /*name*/"STEINS;GATEコラボ企画", /*story_id*/4810, /*transition*/6, /*page_index*/0, /*start_date*/"2020-07-28 15:00:00", /*end_date*/"2020-08-07 14:59:59", /*play_order*/731, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/57, /*name*/"『世界滅亡 or KISS』登場 !", /*story_id*/4830, /*transition*/0, /*page_index*/0, /*start_date*/"2020-08-08 15:00:00", /*end_date*/"2020-08-11 14:59:59", /*play_order*/732, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/58, /*name*/"Live Before ～24magic 編～", /*story_id*/4867, /*transition*/6, /*page_index*/0, /*start_date*/"2020-09-02 15:00:00", /*end_date*/"2020-09-06 19:59:59", /*play_order*/734, /*notice_type*/2);
+INSERT INTO `onetime_story` VALUES (/*id*/60, /*name*/"～5周年記念 ! 「Go Just Go ! 」アニメPV編～", /*story_id*/4878, /*transition*/6, /*page_index*/0, /*start_date*/"2020-09-03 00:00:00", /*end_date*/"2020-10-06 23:59:59", /*play_order*/1000, /*notice_type*/2);
 CREATE INDEX 'onetime_story_0_story_id' on 'onetime_story'('story_id');

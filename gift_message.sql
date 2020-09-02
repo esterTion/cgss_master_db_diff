@@ -120,6 +120,8 @@ INSERT INTO `gift_message` VALUES (/*id*/2015, /*discription*/"オールスタ�
 INSERT INTO `gift_message` VALUES (/*id*/2016, /*discription*/"オールスター カウントダウンLIVEのミッション「{0}」で獲得した報酬です。", /*type_1*/34, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2017, /*discription*/"オールスター カウントダウンLIVEのミッション「{0}」で獲得した報酬です。", /*type_1*/28, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2018, /*discription*/"オールスター カウントダウンLIVEのミッション「{0}」で加入したアイドルです。", /*type_1*/28, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/2019, /*discription*/"5周年記念 ! Twitterキャンペーンのプレゼントです。", /*type_1*/34, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/2020, /*discription*/"5周年記念 ! Twitterキャンペーンのプレゼントです。", /*type_1*/34, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2021, /*discription*/"「デレステビンGO ! 」のOPEN報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2022, /*discription*/"「デレステビンGO ! 」のビンゴ報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2023, /*discription*/"「デレステビンGO ! 」の{0}マス分のOPEN報酬です。", /*type_1*/90, /*type_2*/0, /*type_3*/0, /*type_4*/0);
