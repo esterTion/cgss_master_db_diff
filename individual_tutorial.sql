@@ -569,7 +569,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90150, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90151, /*img*/1, /*discription*/"【24magic ～シンデレラたちの24時間生放送 ! ～】\n9月5日19時より放送開始 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90151, /*img*/1, /*discription*/"「24magic」内で、\n「デレステビンGO ! 」が放送されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90151, /*img*/1, /*discription*/"放送までに特設ページからビンゴシートを作成して\n「デレステビンGO ! 」に参加しましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90152, /*img*/1, /*discription*/"デレスポで3Dコミュを追加予定 !\n本アプリではシンデレラシアターからも視聴可能です。\n公開までお待ちください !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90152, /*img*/1, /*discription*/"デレスポで3Dコミュ「ラジオ体操第１・第２」を追加 !\n本アプリではシンデレラシアターからも視聴可能です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90153, /*img*/1, /*discription*/"「デレステ5周年記念 ! Twitterキャンペーン」\n9月3日12:00よりキャンペーンスタート !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90156, /*img*/1, /*discription*/"ドレスコーデ対応衣装に楽曲「ガールズ・イン・ザ・\nフロンティア」の衣装「ネクスト・フロンティア」を\n追加予定です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90156, /*img*/1, /*discription*/"衣装「ネクスト・フロンティア」をドレスショップで\n受け取ることでドレスコーデ機能で使用できるように\nなります。");
@@ -584,6 +584,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90159, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90160, /*img*/1, /*discription*/"【24magic ～シンデレラたちの24時間生放送 ! ～】の\n配信は終了いたしました。「デレステビンGO ! 」の\n抽選結果は特設ページから確認できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90160, /*img*/1, /*discription*/"ビンゴシート作成期間にログインしていれば、\n放送を見逃していても報酬が獲得できます。特設ページに\n移動して抽選結果を確認しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90161, /*img*/1, /*discription*/"「デレステ5周年記念 ! Twitterキャンペーン」開催 !\n期間中にキャンペーン特設ページから\n参加しましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90162, /*img*/1, /*discription*/"チャンスチケットの配布は終了しました。\n結果発表までお楽しみに !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90163, /*img*/1, /*discription*/"現在当選結果を発表中です。\n配布期間中にチャンスチケットを獲得した方は\n当選結果を確認しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/1, /*discription*/"本キャンペーンは期間中に「チャンスチケット」を\n集めることで参加できます ! チケットには\nアイドルと4桁の数字が表示されています。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/1, /*discription*/"獲得可能期間終了後に当選発表を行います。\n当選組み合わせと一致しているチケットが当選となり、\n報酬を獲得することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/2, /*discription*/"当選結果によっては「スカウトチケット」などの\n豪華景品もGETできます !");

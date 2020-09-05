@@ -61,3 +61,5 @@ INSERT INTO `master_plus_group_3` VALUES (/*id*/60, /*live_data_id*/408, /*live_
 INSERT INTO `master_plus_group_3` VALUES (/*id*/61, /*live_data_id*/802, /*live_detail_id*/2136, /*term_id*/90);
 INSERT INTO `master_plus_group_3` VALUES (/*id*/62, /*live_data_id*/409, /*live_detail_id*/2210, /*term_id*/93);
 INSERT INTO `master_plus_group_3` VALUES (/*id*/63, /*live_data_id*/203, /*live_detail_id*/2211, /*term_id*/93);
+INSERT INTO `master_plus_group_3` VALUES (/*id*/64, /*live_data_id*/410, /*live_detail_id*/2273, /*term_id*/96);
+INSERT INTO `master_plus_group_3` VALUES (/*id*/65, /*live_data_id*/94, /*live_detail_id*/2274, /*term_id*/96);
