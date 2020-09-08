@@ -1,0 +1,2 @@
+CREATE TABLE 'stamp_list' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'description' TEXT NOT NULL, 'chara_id' INTEGER NOT NULL, 'info_disp' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, 'category' INTEGER NOT NULL, 'small_text' INTEGER NOT NULL, 'setting_type' TEXT NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `stamp_list` VALUES (/*id*/1, /*name*/" ", /*description*/" ", /*chara_id*/0, /*info_disp*/0, /*disp_order*/0, /*category*/0, /*small_text*/0, /*setting_type*/0, /*start_date*/"", /*end_date*/"");

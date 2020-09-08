@@ -818,6 +818,7 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/124, /*text*/"[2D2D2D]{
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/125, /*text*/"本楽曲では着用衣装の制限があります");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/131, /*text*/"この楽曲に対応していない設定は選択できません");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/132, /*text*/"着用できるコーデ衣装はありません");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/133, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/1, /*text*/"月間獲得ファン数ランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/2, /*text*/"今期のランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/3, /*text*/"前期のランキング");
@@ -3006,6 +3007,20 @@ INSERT INTO `text_data` VALUES (/*category*/67, /*index*/45, /*text*/"[FF7A7A]�
 INSERT INTO `text_data` VALUES (/*category*/67, /*index*/46, /*text*/"ビンゴシート更新期間外");
 INSERT INTO `text_data` VALUES (/*category*/67, /*index*/47, /*text*/"ビンゴシートの更新期間を過ぎました。\nタイトルへ戻ります。");
 INSERT INTO `text_data` VALUES (/*category*/67, /*index*/48, /*text*/"抽選発表は {0}まで");
+INSERT INTO `text_data` VALUES (/*category*/68, /*index*/1, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/68, /*index*/2, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/68, /*index*/3, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/68, /*index*/4, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/68, /*index*/5, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/68, /*index*/6, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/68, /*index*/7, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/68, /*index*/8, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/68, /*index*/9, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/68, /*index*/10, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/68, /*index*/11, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/68, /*index*/12, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/68, /*index*/13, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/68, /*index*/14, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/1, /*text*/"利用規約とプライバシーポリシーに\n同意してから本サービスをご利用ください。\n\nまた、未成年の方は、\n法定代理人（ご両親等）の同意が必要です。\n\n※ないようがわからないときは\nおうちのひとにがめんをみせてください。");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/2, /*text*/"利用規約");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/3, /*text*/"同意しない");
