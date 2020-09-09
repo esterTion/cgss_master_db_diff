@@ -118,7 +118,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーを\n倉庫収納数から除外しました。\n収納していても、収納数にカウントされなくなりました。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"楽曲「Go Just Go!」の公開を記念して、\n「衣装スタンド/Go To Paradise」をルームショップに追加しました !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"デレステルームコンテスト開催記念 !\n過去に期間限定で販売していたルームアイテムを一挙復刻販売中 !\n理想のルームを作り上げてくださいね !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"高森藍子が歌う「青空リレーション」をサウンドブースに追加 !\n購入するとLIVEでプレイできるようになります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -565,7 +565,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90149, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90149, /*img*/1, /*discription*/"ログインやミッションでチャンスチケットを集めて\n豪華な景品を獲得しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90149, /*img*/1, /*discription*/"※9月10日 23:59までに次ページの\n条件を満たしていないプロデューサーは、\n必ず「10等」が当選します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90149, /*img*/1, /*discription*/"・プロデューサーLvが20に達している\n・2ndパネルミッションを解放している");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90150, /*img*/1, /*discription*/"観客シルエット「3D」実装予定 !\n3Dリッチモードの動作設定オプションから\n設定することで更に臨場感のあるLIVEに !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90150, /*img*/1, /*discription*/"観客シルエット「3D」実装 !\n3Dリッチモードの動作設定オプションから\n設定することで更に臨場感のあるLIVEに !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90150, /*img*/1, /*discription*/"※本機能は一部楽曲のみに対応しております。\n対応楽曲はお知らせにてご確認ください。\n※今後も対応楽曲は追加予定です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90151, /*img*/1, /*discription*/"【24magic ～シンデレラたちの24時間生放送 ! ～】\n9月5日19時より放送開始 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90151, /*img*/1, /*discription*/"「24magic」内で、\n「デレステビンGO ! 」が放送されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90151, /*img*/1, /*discription*/"放送までに特設ページからビンゴシートを作成して\n「デレステビンGO ! 」に参加しましょう !");

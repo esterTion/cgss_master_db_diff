@@ -195,4 +195,6 @@ INSERT INTO `tour_story_detail` VALUES (/*id*/4820, /*event_id*/5022, /*type*/0,
 INSERT INTO `tour_story_detail` VALUES (/*id*/4821, /*event_id*/5022, /*type*/0, /*open_event_point*/3000, /*next_detail_id*/4822);
 INSERT INTO `tour_story_detail` VALUES (/*id*/4822, /*event_id*/5022, /*type*/0, /*open_event_point*/5000, /*next_detail_id*/4823);
 INSERT INTO `tour_story_detail` VALUES (/*id*/4823, /*event_id*/5022, /*type*/2, /*open_event_point*/0, /*next_detail_id*/0);
+INSERT INTO `tour_story_detail` VALUES (/*id*/4824, /*event_id*/5022, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
+INSERT INTO `tour_story_detail` VALUES (/*id*/4825, /*event_id*/5022, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
 CREATE INDEX 'tour_story_detail_0_event_id_1_type' on 'tour_story_detail'('event_id','type');

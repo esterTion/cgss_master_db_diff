@@ -816,6 +816,11 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/122, /*text*/"[ff7a7a]�
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/123, /*text*/"　 [ff7a7a]非対応端末のため設定できません[-]");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/124, /*text*/"[2D2D2D]{0}[-]{1}");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/125, /*text*/"本楽曲では着用衣装の制限があります");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/126, /*text*/"観客表示設定");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/127, /*text*/"MV中に登場する観客の表示設定です。");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/128, /*text*/"2D/シルエットあり");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/129, /*text*/"2D/シルエットなし");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/130, /*text*/"3D/シルエットあり");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/131, /*text*/"この楽曲に対応していない設定は選択できません");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/132, /*text*/"着用できるコーデ衣装はありません");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/133, /*text*/"");

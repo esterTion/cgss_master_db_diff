@@ -70,8 +70,8 @@ INSERT INTO `stamp_data_re` VALUES (/*id*/68, /*discription*/"まかせてくれ
 INSERT INTO `stamp_data_re` VALUES (/*id*/69, /*discription*/"キレキレですな！", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2020-05-04 15:00:00", /*end_date*/"2099-04-01 15:00:00");
 INSERT INTO `stamp_data_re` VALUES (/*id*/70, /*discription*/"　", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2020-07-28 15:00:00", /*end_date*/"2099-04-01 15:00:00");
 INSERT INTO `stamp_data_re` VALUES (/*id*/71, /*discription*/"イイ感じ～", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2020-07-28 15:00:00", /*end_date*/"2099-04-01 15:00:00");
-INSERT INTO `stamp_data_re` VALUES (/*id*/72, /*discription*/"アテンションプリーズ", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2020-07-28 15:00:00", /*end_date*/"2099-04-01 15:00:00");
-INSERT INTO `stamp_data_re` VALUES (/*id*/73, /*discription*/"あ～ん♪", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2020-07-28 15:00:00", /*end_date*/"2099-04-01 15:00:00");
+INSERT INTO `stamp_data_re` VALUES (/*id*/72, /*discription*/"あ～ん♪", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2020-07-28 15:00:00", /*end_date*/"2099-04-01 15:00:00");
+INSERT INTO `stamp_data_re` VALUES (/*id*/73, /*discription*/"アテンションプリーズ", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2020-07-28 15:00:00", /*end_date*/"2099-04-01 15:00:00");
 INSERT INTO `stamp_data_re` VALUES (/*id*/74, /*discription*/"カニ☆ピース", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2020-08-28 15:00:00", /*end_date*/"2099-04-01 15:00:00");
 INSERT INTO `stamp_data_re` VALUES (/*id*/75, /*discription*/"Wow!!", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2020-08-28 15:00:00", /*end_date*/"2099-04-01 15:00:00");
 INSERT INTO `stamp_data_re` VALUES (/*id*/76, /*discription*/"なんでやねん！", /*use_type*/1, /*category*/1, /*setting_type*/0, /*start_date*/"2020-08-28 15:00:00", /*end_date*/"2099-04-01 15:00:00");
