@@ -413,3 +413,4 @@ INSERT INTO `story_category` VALUES (/*id*/439, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/440, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ヒーローヴァーサスレイナンジョー", /*sub_title*/"ヒーローヴァーサスレイナンジョー", /*disp_order*/131);
 INSERT INTO `story_category` VALUES (/*id*/441, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Go Just Go !", /*sub_title*/"Go Just Go !", /*disp_order*/132);
 INSERT INTO `story_category` VALUES (/*id*/442, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"24magic連動企画", /*sub_title*/"24magic連動企画", /*disp_order*/18);
+INSERT INTO `story_category` VALUES (/*id*/443, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"松山久美子 / 赤西瑛梨華", /*sub_title*/"松山久美子 / 赤西瑛梨華", /*disp_order*/133);
