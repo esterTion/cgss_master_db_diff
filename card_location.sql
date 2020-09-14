@@ -1020,3 +1020,5 @@ INSERT INTO `card_location` VALUES (/*index*/1033, /*text*/"アニバーサリ�
 INSERT INTO `card_location` VALUES (/*index*/1034, /*text*/"リゾートパーティー会場");
 INSERT INTO `card_location` VALUES (/*index*/1035, /*text*/"ビーチ・撮影中");
 INSERT INTO `card_location` VALUES (/*index*/1036, /*text*/"リゾートビーチ・コテージ");
+INSERT INTO `card_location` VALUES (/*index*/1037, /*text*/"ジェラート店");
+INSERT INTO `card_location` VALUES (/*index*/1038, /*text*/"屋外LIVE会場");
