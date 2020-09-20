@@ -204,3 +204,8 @@ INSERT INTO `gift_message` VALUES (/*id*/20046, /*discription*/"「5周年記念
 INSERT INTO `gift_message` VALUES (/*id*/20047, /*discription*/"「DJ KOO × デレステ コラボキャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20048, /*discription*/"「24magic放送記念キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20049, /*discription*/"24時間生放送「デレステCHALLENGE」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20050, /*discription*/"「祝5周年 ! プラチナチャンス」{0}等当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20051, /*discription*/"「祝5周年 ! プラチナチャンス」{0}等A賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20052, /*discription*/"「祝5周年 ! プラチナチャンス」{0}等B賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20053, /*discription*/"「祝5周年 ! プラチナチャンス」{0}等C賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20054, /*discription*/"「祝5周年 ! プラチナチャンス」特別賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
