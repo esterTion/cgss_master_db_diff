@@ -1022,3 +1022,9 @@ INSERT INTO `card_location` VALUES (/*index*/1035, /*text*/"ビーチ・撮影�
 INSERT INTO `card_location` VALUES (/*index*/1036, /*text*/"リゾートビーチ・コテージ");
 INSERT INTO `card_location` VALUES (/*index*/1037, /*text*/"ジェラート店");
 INSERT INTO `card_location` VALUES (/*index*/1038, /*text*/"屋外LIVE会場");
+INSERT INTO `card_location` VALUES (/*index*/1039, /*text*/"港町の高台");
+INSERT INTO `card_location` VALUES (/*index*/1040, /*text*/"イベント運営会社");
+INSERT INTO `card_location` VALUES (/*index*/1041, /*text*/"通学路");
+INSERT INTO `card_location` VALUES (/*index*/1042, /*text*/"医務室");
+INSERT INTO `card_location` VALUES (/*index*/1043, /*text*/"幼稚園・中庭");
+INSERT INTO `card_location` VALUES (/*index*/1044, /*text*/"幼稚園・教室");
