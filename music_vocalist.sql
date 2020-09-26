@@ -757,6 +757,9 @@ INSERT INTO `music_vocalist` VALUES (/*music_data_id*/8046, /*chara_id*/308, /*d
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/8047, /*chara_id*/112, /*disp_order*/112);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/8048, /*chara_id*/230, /*disp_order*/230);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/8049, /*chara_id*/198, /*disp_order*/198);
+INSERT INTO `music_vocalist` VALUES (/*music_data_id*/8050, /*chara_id*/268, /*disp_order*/268);
+INSERT INTO `music_vocalist` VALUES (/*music_data_id*/8051, /*chara_id*/122, /*disp_order*/122);
+INSERT INTO `music_vocalist` VALUES (/*music_data_id*/8052, /*chara_id*/280, /*disp_order*/280);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9001, /*chara_id*/101, /*disp_order*/101);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9001, /*chara_id*/167, /*disp_order*/167);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9001, /*chara_id*/234, /*disp_order*/234);

@@ -259,6 +259,9 @@ INSERT INTO `music_info` VALUES (/*id*/8046, /*discription*/"時を刻む唄（L
 INSERT INTO `music_info` VALUES (/*id*/8047, /*discription*/"My Soul, Your Beats!（Lia）\n\n緒方智絵里（CV：大空直美）\n\n\n作詞・作曲：麻枝准", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8048, /*discription*/"スカイクラッドの観測者（いとうかなこ）\n\n二宮飛鳥（CV：青木志貴）\n\n\n作詞・作曲：志倉千代丸", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8049, /*discription*/"Hacking to the Gate（いとうかなこ）\n\n神崎蘭子（CV：内田真礼）\n\n\n作詞・作曲：志倉千代丸", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/8050, /*discription*/"survival dAnce ～no no cry more～（TRF）\n\n城ヶ崎莉嘉（CV：山本希望）\n\n\n作詞・作曲：小室哲哉", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/8051, /*discription*/"CRAZY GONNA CRAZY（TRF）\n\n藤本里奈（CV：金子真由美）\n\n\n作詞・作曲：小室哲哉", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/8052, /*discription*/"Overnight Sensation ～時代はあなたに委ねてる～（TRF）\n\n向井拓海（CV：原優子）\n\n\n作詞・作曲：小室哲哉", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8053, /*discription*/"EZ DO DANCE\nCRAZY GONNA CRAZY\nOvernight Sensation 〜時代はあなたに委ねてる〜\nsurvival dAnce 〜no no cry more〜\n\nMixed by DJ KOO", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/9001, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n双葉杏（CV：五十嵐裕美）\n諸星きらり（CV：松嵜麗）\n\n\n作詞：marhy\n作曲・編曲：BNSI（内田哲也）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/9002, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n大槻唯（CV：山下七海）\n上条春菜（CV：長島光那）\n\n\n作詞：俊龍\n作曲：俊龍\n編曲：Sizuk", /*android_url*/"http://columbia.jp/sl-stage/haishin/COCC-17141.html", /*ios_url*/"http://columbia.jp/sl-stage/haishin/COCC-17141.html");

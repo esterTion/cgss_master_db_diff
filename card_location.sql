@@ -1028,3 +1028,4 @@ INSERT INTO `card_location` VALUES (/*index*/1041, /*text*/"通学路");
 INSERT INTO `card_location` VALUES (/*index*/1042, /*text*/"医務室");
 INSERT INTO `card_location` VALUES (/*index*/1043, /*text*/"幼稚園・中庭");
 INSERT INTO `card_location` VALUES (/*index*/1044, /*text*/"幼稚園・教室");
+INSERT INTO `card_location` VALUES (/*index*/1045, /*text*/"学校・MV撮影中");

@@ -20,6 +20,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/10011, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/10012, /*img*/1, /*discription*/"プライズガシャではアイドルだけでなく\n等級に応じた枚数のプライズコインが入手出来ます。\nプライズコインは交換所で\n専用のスカウトチケットと交換可能です !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10012, /*img*/1, /*discription*/"またスカウトチケットの他にも\nS.T.マスタートレーナーチケットやプレミアムフィルムなど\n各種アイテムとも交換可能です !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10012, /*img*/1, /*discription*/"プライズコイン、プライズスカウトチケット\nプライズSレアスカウトチケットには有効期限が存在します。\n忘れずに交換しましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/10013, /*img*/1, /*discription*/"メモリアルガシャ2ndが新たに追加されました ! \n画面左上のタブで1stと2ndを切り替えることが可能です。\n※出現するアイドルはアイドル詳細でご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/1, /*discription*/"スペシャルガシャセットは期間限定販売です。\n購入すると「スカウトチケット」と「プラチナ10連ガシャ\nチケット」を1枚ずつ獲得できます。\n※有償スタージュエルでのみ購入することができます");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/2, /*discription*/"「スカウトチケット」はレア、Sレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で出現します。");
@@ -117,7 +118,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/"ルームアイテムの並べ替えを行うことができます。\n「追加順」、「必要面積順」など並べ替え条件を選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーを\n倉庫収納数から除外しました。\n収納していても、収納数にカウントされなくなりました。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"楽曲「Go Just Go!」の公開を記念して、\n「衣装スタンド/Go To Paradise」をルームショップに追加しました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"アイドルたちがカバーする楽曲をサウンドブースに追加 !\n購入するとLIVEでプレイできるようになります。\n※本楽曲のLIVE演出は、2D標準・2D軽量のみとなります\n※PLvが10以上になると購入できます");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"高森藍子が歌う「青空リレーション」をサウンドブースに追加 !\n購入するとLIVEでプレイできるようになります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
@@ -269,6 +270,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40503, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40503, /*img*/1, /*discription*/"カラーを保存するときに、各タブで未解放の\nカラーがある場合、一括で解放することも可能です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40503, /*img*/2, /*discription*/"また、「おすすめコーデ」機能を追加しました !\nあらかじめコーディネイトされたカラーを\n反映、解放できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40504, /*img*/1, /*discription*/"ドレスコーデ専用衣装「レッスンウェア」を追加しました !\n「レッスンウェア」はクローゼットごとにボトムスの\nデザインを選択して保存することができます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40505, /*img*/1, /*discription*/"コーデメモ機能を公開しました。\nクローゼット内容を保存し、他のクローゼットに\n上書きすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/1, /*discription*/"アイドル編成画面右上にある「表示切替ボタン」で\n編成中のユニットを表示できるようになりました。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/2, /*discription*/"ユニットのポジションを選択して、\n所属アイドルを編成することができます。\nまた、ユニット内のアイドル同士を\n入れ替えることも可能です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/2, /*discription*/"設定内容は他の画面に移動すると保存されます。\n※他の画面に移動せずにアプリを終了した場合、\n編成内容は保存されません。");
@@ -575,10 +577,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90151, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90151, /*img*/1, /*discription*/"放送までに特設ページからビンゴシートを作成して\n「デレステビンGO ! 」に参加しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90152, /*img*/1, /*discription*/"デレスポで3Dコミュ「ラジオ体操第１・第２」を追加 !\n本アプリではシンデレラシアターからも視聴可能です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90153, /*img*/1, /*discription*/"「デレステ5周年記念 ! Twitterキャンペーン」\n9月3日12:00よりキャンペーンスタート !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90156, /*img*/1, /*discription*/"ドレスコーデ対応衣装に楽曲「ガールズ・イン・ザ・\nフロンティア」の衣装「ネクスト・フロンティア」を\n追加予定です。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90156, /*img*/1, /*discription*/"ドレスコーデ対応衣装に楽曲「ガールズ・イン・ザ・\nフロンティア」の衣装「ネクスト・フロンティア」を\n追加しました。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90156, /*img*/1, /*discription*/"衣装「ネクスト・フロンティア」をドレスショップで\n受け取ることでドレスコーデ機能で使用できるように\nなります。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90156, /*img*/2, /*discription*/"またコーデメモ機能の公開を予定しています\nクローゼット内容を保存し、他のクローゼットに\n上書きすることができます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90157, /*img*/1, /*discription*/"メモリアルガシャ2nd近日公開 !\nSレアとSSレアは対象の限定アイドルのみ登場します !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90156, /*img*/2, /*discription*/"またコーデメモ機能を公開しました。\nクローゼット内容を保存し、他のクローゼットに\n上書きすることができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90157, /*img*/1, /*discription*/"メモリアルガシャ2nd公開中 !\nSレアとSSレアは対象の限定アイドルのみ登場します !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90158, /*img*/1, /*discription*/"プッシュ通知設定に、通知アイドル設定機能を\n追加予定 ! アイドルがスタミナ全回復などを\nおしらせしてくれますよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90159, /*img*/1, /*discription*/"ルーム機能をアップデート !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90159, /*img*/1, /*discription*/"ルーム3部屋目が追加されました。\n「ルーム3」ボタンをタップすると\nマニーで購入することができます。");
