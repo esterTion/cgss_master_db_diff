@@ -2953,6 +2953,17 @@ INSERT INTO `text_data` VALUES (/*category*/63, /*index*/43, /*text*/"現在の�
 INSERT INTO `text_data` VALUES (/*category*/63, /*index*/44, /*text*/"[FF7A7A]「保存しない」を押すと、\n保存せずに画面を移動します [-]");
 INSERT INTO `text_data` VALUES (/*category*/63, /*index*/45, /*text*/"保存する");
 INSERT INTO `text_data` VALUES (/*category*/63, /*index*/46, /*text*/"保存しない");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/1, /*text*/"通知アイドル設定");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/2, /*text*/"ON");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/3, /*text*/"OFF");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/4, /*text*/"スタミナ通知");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/5, /*text*/"ルーム関連");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/6, /*text*/"営業");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/7, /*text*/"変更");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/8, /*text*/"アイドル一覧");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/9, /*text*/"アルバムに登録済みのアイドルから選択できます");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/10, /*text*/"アイドル検索");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/12, /*text*/"アイドル検索");
 INSERT INTO `text_data` VALUES (/*category*/65, /*index*/1, /*text*/"キャンペーン");
 INSERT INTO `text_data` VALUES (/*category*/65, /*index*/2, /*text*/"応募期間 {0} ～ {1}\n詳細は、特設サイトをご覧ください");
 INSERT INTO `text_data` VALUES (/*category*/65, /*index*/3, /*text*/"");

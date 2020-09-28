@@ -581,7 +581,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90156, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90156, /*img*/1, /*discription*/"衣装「ネクスト・フロンティア」をドレスショップで\n受け取ることでドレスコーデ機能で使用できるように\nなります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90156, /*img*/2, /*discription*/"またコーデメモ機能を公開しました。\nクローゼット内容を保存し、他のクローゼットに\n上書きすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90157, /*img*/1, /*discription*/"メモリアルガシャ2nd公開中 !\nSレアとSSレアは対象の限定アイドルのみ登場します !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90158, /*img*/1, /*discription*/"プッシュ通知設定に、通知アイドル設定機能を\n追加予定 ! アイドルがスタミナ全回復などを\nおしらせしてくれますよ !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90158, /*img*/1, /*discription*/"プッシュ通知設定に、通知アイドル設定機能を追加 !\nアイドルがスタミナ全回復などを\nおしらせしてくれますよ !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90158, /*img*/1, /*discription*/"通知項目ごとに別のアイドルを設定することが可能です !\n※本アプリの通知設定とお使いの端末通知設定をONにして\nご利用ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90159, /*img*/1, /*discription*/"ルーム機能をアップデート !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90159, /*img*/1, /*discription*/"ルーム3部屋目が追加されました。\n「ルーム3」ボタンをタップすると\nマニーで購入することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90159, /*img*/2, /*discription*/"ルームでLikeスタンプ設定を「ON」にすることで\nチャットスタンプでLikeができるようになりました !");
