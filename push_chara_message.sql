@@ -579,7 +579,7 @@ INSERT INTO `push_chara_message` VALUES (/*id*/577, /*chara_id*/255, /*push_type
 INSERT INTO `push_chara_message` VALUES (/*id*/578, /*chara_id*/255, /*push_type*/2, /*title*/"衛藤美紗希", /*description*/"{0}の\nお手入れが終わりましたよぉ♪使い心地、良くなってるかなぁ");
 INSERT INTO `push_chara_message` VALUES (/*id*/579, /*chara_id*/255, /*push_type*/3, /*title*/"衛藤美紗希", /*description*/"{0}が\n満杯ですよぉ。きちんと受け取って、もっと女子力あげちゃお");
 INSERT INTO `push_chara_message` VALUES (/*id*/580, /*chara_id*/255, /*push_type*/4, /*title*/"衛藤美紗希", /*description*/"{0}が\n終わりましたぁ♪小さな積み重ねが、女子力ですよねぇ♪");
-INSERT INTO `push_chara_message` VALUES (/*id*/581, /*chara_id*/256, /*push_type*/1, /*title*/"星輝子", /*description*/"調子…万全だな…。親友が元気だとと、私も…ボルテージMAXだァ！ヒャッハー！");
+INSERT INTO `push_chara_message` VALUES (/*id*/581, /*chara_id*/256, /*push_type*/1, /*title*/"星輝子", /*description*/"調子…万全だな…。親友が元気だと、私も…ボルテージMAXだァ！ヒャッハー！");
 INSERT INTO `push_chara_message` VALUES (/*id*/582, /*chara_id*/256, /*push_type*/2, /*title*/"星輝子", /*description*/"{0}の\nボルテージ…上がったぞ…。フヒ…いい感じになったな…");
 INSERT INTO `push_chara_message` VALUES (/*id*/583, /*chara_id*/256, /*push_type*/3, /*title*/"星輝子", /*description*/"{0}が\nいっぱい…みたいだ…。これは…収穫の時期だな…ふひ…");
 INSERT INTO `push_chara_message` VALUES (/*id*/584, /*chara_id*/256, /*push_type*/4, /*title*/"星輝子", /*description*/"{0}が\n終わり、だ…。成果確認…これから仕事か、親友は大変だな…");

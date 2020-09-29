@@ -3,6 +3,7 @@ INSERT INTO `live_part_sing` VALUES (/*live_data_id*/23, /*type*/1, /*member*/3,
 INSERT INTO `live_part_sing` VALUES (/*live_data_id*/25, /*type*/1, /*member*/2, /*chara_id*/"185,198,227");
 INSERT INTO `live_part_sing` VALUES (/*live_data_id*/41, /*type*/1, /*member*/5, /*chara_id*/"101,111,127,134,154");
 INSERT INTO `live_part_sing` VALUES (/*live_data_id*/42, /*type*/1, /*member*/5, /*chara_id*/"167,178,185,197,198");
+INSERT INTO `live_part_sing` VALUES (/*live_data_id*/43, /*type*/1, /*member*/5, /*chara_id*/"234,243,267,268,271");
 INSERT INTO `live_part_sing` VALUES (/*live_data_id*/54, /*type*/1, /*member*/5, /*chara_id*/"126,131,220,223,267");
 INSERT INTO `live_part_sing` VALUES (/*live_data_id*/62, /*type*/1, /*member*/5, /*chara_id*/"115,180,188,237,243,283");
 INSERT INTO `live_part_sing` VALUES (/*live_data_id*/308, /*type*/1, /*member*/5, /*chara_id*/"173,250,258,270,291");
