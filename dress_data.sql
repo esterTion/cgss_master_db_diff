@@ -45,3 +45,5 @@ INSERT INTO `dress_data` VALUES (/*id*/7022000, /*name*/"スクールメイト�
 INSERT INTO `dress_data` VALUES (/*id*/7023000, /*name*/"セーシュン・チアーズ", /*description*/"青春を応援する少女たちの制服ドレス。\n上手くいかない時も、つまづいてしまう時も\nある。それでも、今という時を全力で走ろう。\nその情熱は、輝く明日へと繋がっている。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7024000, /*name*/"プレイ・イット・アンサー", /*description*/"嵐を巻き起こす少女たちのドレス。\n個性と個性がぶつかり合い、やがてひとつの\n形となる。だが、それが唯一の答えではない。\n無限の答えが、少女たちの前に広がっている。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7025000, /*name*/"セクシー・フォー・ジャスティス", /*description*/"ギルティを許さない少女たちのドレス。\nギルティあるところに姿あり、姿あるところに\nセクシーあり ! この世の悪事にお仕置きを !\n行け行け、セクシーギルティ !", /*open_type*/5, /*dress_type*/3);
+INSERT INTO `dress_data` VALUES (/*id*/7028000, /*name*/"メイク・マイ・スマイル", /*description*/"笑顔をみんなに届ける、少女たちのドレス。\n変わりたいと願うのは、憧れがあるから。\n昨日までの自分から受け取ったバトンが、\n明日からもっと輝く自分にしてくれる。", /*open_type*/5, /*dress_type*/3);
+INSERT INTO `dress_data` VALUES (/*id*/7029000, /*name*/"トリニティ・スパークル", /*description*/"磨かれることで輝きを増す少女たちのドレス。\n仲間でライバルだから、譲れない想いがある。\n見ている方向はそれぞれ違っていても、\n本気のぶつかり合いは、頂へと到達する。", /*open_type*/5, /*dress_type*/3);
