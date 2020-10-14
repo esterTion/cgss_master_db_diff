@@ -1037,3 +1037,8 @@ INSERT INTO `card_location` VALUES (/*index*/1050, /*text*/"ハロウィンの�
 INSERT INTO `card_location` VALUES (/*index*/1051, /*text*/"ヴァンパイアの部屋");
 INSERT INTO `card_location` VALUES (/*index*/1052, /*text*/"本屋");
 INSERT INTO `card_location` VALUES (/*index*/1053, /*text*/"秋の馬車道");
+INSERT INTO `card_location` VALUES (/*index*/1054, /*text*/"野球場・観客席");
+INSERT INTO `card_location` VALUES (/*index*/1055, /*text*/"球場・番組収録中");
+INSERT INTO `card_location` VALUES (/*index*/1056, /*text*/"キャンプサイト");
+INSERT INTO `card_location` VALUES (/*index*/1057, /*text*/"ブドウ農園");
+INSERT INTO `card_location` VALUES (/*index*/1058, /*text*/"秋の町並み");

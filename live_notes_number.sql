@@ -2293,6 +2293,14 @@ INSERT INTO `live_notes_number` VALUES (/*live_id*/853, /*difficulty*/1, /*notes
 INSERT INTO `live_notes_number` VALUES (/*live_id*/853, /*difficulty*/2, /*notes_number*/318, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/853, /*difficulty*/3, /*notes_number*/538, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/853, /*difficulty*/4, /*notes_number*/789, /*damage_note_number*/0);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/854, /*difficulty*/1, /*notes_number*/98, /*damage_note_number*/0);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/854, /*difficulty*/2, /*notes_number*/178, /*damage_note_number*/0);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/854, /*difficulty*/3, /*notes_number*/368, /*damage_note_number*/0);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/854, /*difficulty*/4, /*notes_number*/540, /*damage_note_number*/0);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/855, /*difficulty*/1, /*notes_number*/88, /*damage_note_number*/0);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/855, /*difficulty*/2, /*notes_number*/154, /*damage_note_number*/0);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/855, /*difficulty*/3, /*notes_number*/313, /*damage_note_number*/0);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/855, /*difficulty*/4, /*notes_number*/466, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/901, /*difficulty*/1, /*notes_number*/46, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/901, /*difficulty*/2, /*notes_number*/205, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/901, /*difficulty*/3, /*notes_number*/341, /*damage_note_number*/0);
