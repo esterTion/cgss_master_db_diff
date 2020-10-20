@@ -416,3 +416,4 @@ INSERT INTO `story_category` VALUES (/*id*/442, /*type*/4, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/443, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"松山久美子 / 赤西瑛梨華", /*sub_title*/"松山久美子 / 赤西瑛梨華", /*disp_order*/133);
 INSERT INTO `story_category` VALUES (/*id*/444, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"オレンジタイム", /*sub_title*/"オレンジタイム", /*disp_order*/134);
 INSERT INTO `story_category` VALUES (/*id*/445, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Brand new !", /*sub_title*/"Brand new !", /*disp_order*/135);
+INSERT INTO `story_category` VALUES (/*id*/446, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"THE VILLAIN'S NIGHT", /*sub_title*/"THE VILLAIN'S NIGHT", /*disp_order*/136);

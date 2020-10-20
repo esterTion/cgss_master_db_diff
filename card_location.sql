@@ -1042,3 +1042,6 @@ INSERT INTO `card_location` VALUES (/*index*/1055, /*text*/"球場・番組収�
 INSERT INTO `card_location` VALUES (/*index*/1056, /*text*/"キャンプサイト");
 INSERT INTO `card_location` VALUES (/*index*/1057, /*text*/"ブドウ農園");
 INSERT INTO `card_location` VALUES (/*index*/1058, /*text*/"秋の町並み");
+INSERT INTO `card_location` VALUES (/*index*/1059, /*text*/"タクシー");
+INSERT INTO `card_location` VALUES (/*index*/1060, /*text*/"古着屋");
+INSERT INTO `card_location` VALUES (/*index*/1061, /*text*/"テーマパーク");
