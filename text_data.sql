@@ -3069,6 +3069,11 @@ INSERT INTO `text_data` VALUES (/*category*/68, /*index*/11, /*text*/"チャッ�
 INSERT INTO `text_data` VALUES (/*category*/68, /*index*/12, /*text*/"チャット設定を初期化し、保存します\nよろしいですか？");
 INSERT INTO `text_data` VALUES (/*category*/68, /*index*/13, /*text*/"チャット設定保存");
 INSERT INTO `text_data` VALUES (/*category*/68, /*index*/14, /*text*/"チャット設定を保存しました");
+INSERT INTO `text_data` VALUES (/*category*/69, /*index*/1, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/69, /*index*/2, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/69, /*index*/3, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/69, /*index*/4, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/69, /*index*/5, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/1, /*text*/"利用規約とプライバシーポリシーに\n同意してから本サービスをご利用ください。\n\nまた、未成年の方は、\n法定代理人（ご両親等）の同意が必要です。\n\n※ないようがわからないときは\nおうちのひとにがめんをみせてください。");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/2, /*text*/"利用規約");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/3, /*text*/"同意しない");
