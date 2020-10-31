@@ -1048,3 +1048,7 @@ INSERT INTO `card_location` VALUES (/*index*/1061, /*text*/"テーマパーク")
 INSERT INTO `card_location` VALUES (/*index*/1062, /*text*/"大阪・劇場前");
 INSERT INTO `card_location` VALUES (/*index*/1063, /*text*/"大阪・撮影中");
 INSERT INTO `card_location` VALUES (/*index*/1064, /*text*/"パレード会場");
+INSERT INTO `card_location` VALUES (/*index*/1065, /*text*/"アビィ・ロード");
+INSERT INTO `card_location` VALUES (/*index*/1066, /*text*/"イギリスの宮殿・MV撮影中");
+INSERT INTO `card_location` VALUES (/*index*/1067, /*text*/"調理実習室の撮影セット");
+INSERT INTO `card_location` VALUES (/*index*/1068, /*text*/"夜の教室");

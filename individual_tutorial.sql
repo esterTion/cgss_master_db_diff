@@ -83,6 +83,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/11043, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/11046, /*img*/1, /*discription*/"プラチナスペシャルガシャセットは期間限定販売です。\n購入すると2種類の「プラチナスカウトチケット」を1枚ずつと\n「プラチナ10連ガシャチケット」を2枚獲得できます。\n※有償スタージュエルでのみ購入することができます");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11046, /*img*/2, /*discription*/"「スカウトチケット」はアイドルをスカウトできるチケット\nです。スカウトできるアイドルは、「対象アイドル」ボタン\nからご確認ください。※スカウトチケットの種類によって\nスカウトできるアイドルは異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11046, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で出現します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11049, /*img*/1, /*discription*/"スペシャルガシャセットは期間限定販売です。\n購入すると2種類の「スカウトチケット」と「プラチナ\n10連ガシャチケット」に加え、");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11049, /*img*/1, /*discription*/"今回は、「100万マニー」を獲得できます。\n※有償スタージュエルでのみ購入することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11049, /*img*/2, /*discription*/"「スカウトチケット」はアイドルをスカウトできるチケット\nです。スカウトできるアイドルは、「対象アイドル」ボタン\nからご確認ください。※スカウトチケットの種類によって\nスカウトできるアイドルは異なります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11049, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で出現します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20001, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20001, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、\n様々な効果を発揮する物があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20001, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -355,6 +359,11 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60030, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60030, /*img*/2, /*discription*/"絞り込み機能に検索機能を追加しました。\n任意の条件を選択した絞り込みと、アイドル名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60031, /*img*/1, /*discription*/"ホーム画面レイアウトでは、各ボタンの配置や\nバナーサイズの変更、表示内容のON/OFFなどを\n自由に設定できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60031, /*img*/2, /*discription*/"ホーム画面ボタン設定では、最大6つのボタンを\n設定することができます。ホーム画面から好きな\n機能へ移動できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60032, /*img*/1, /*discription*/"本機能は、プロデュース方針を決める事で、\nゲーム内の様々な場面で、効率よくプロデュースを\n進める事ができるようになる機能です。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60032, /*img*/1, /*discription*/"プロデュース方針は場数ptを使って設定する事ができ、\n自分のプレイスタイルに合わせたカスタマイズが可能です。\n※プロデュース方針のリセットには\n専用のアイテムが必要です");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60032, /*img*/2, /*discription*/"「場数pt」は、アイドルの加入や特訓により\nアイドルを新たにアルバム登録した際に入手できます。\nアイドルとより多くの場数を踏んでptを増やしましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60032, /*img*/3, /*discription*/"一度設定したプロデュース方針は\n専用アイテム「方針変更書」を使うことでリセットできます。\nリセットした場合、使用していた場数ptは\nすべて戻ってきます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60032, /*img*/3, /*discription*/"「方針変更書」はショップから\n有償スタージュエルと交換することなどで入手できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/1, /*discription*/"「LIVE PARTY!!」では、協力LIVEを行うことで、\n「スターエンブレム」が獲得できます。\n「スターエンブレム」を集めると、過去イベントの報酬や、\nアイテムとの交換ができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。\n楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/3, /*discription*/"カジュアルマッチを有効にした場合は、\n異なる難易度を選択したプロデューサーもマッチング対象となり、\nLIVEを行います。");
@@ -432,7 +441,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/2, /*discription*/"全国各地で公演を行い、LIVEツアーを盛り上げましょう。\n公演目標を達成してLIVEをクリアすると、\n新しい公演が解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/3, /*discription*/"公演の目標が達成できるように、楽曲やユニットを選びましょう。\n公演によって消費スタミナやLIVEを行う曲数が異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/4, /*discription*/"公演を行うと、観客動員数が増加します。\n対象のエリアの観客動員数が一定値に到達すると、\n新しいエリアが解放されます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/4, /*discription*/"エリア2に到達すると、イベント楽曲のMASTER+の\n難易度が選曲可能となります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/4, /*discription*/"エリア2、3に到達すると、イベント楽曲のMASTER+の\n難易度が選曲可能となります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/5, /*discription*/"日替わりで切り替わる「流行曲」を含めて公演を行ったり、\nマニーを使用して「LIVEオプション」を設定すると、\nエリアの観客動員数がさらにアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/5, /*discription*/"また観客動員数の多いエリアで公演を行うと、\n獲得できるファン数がアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/6, /*discription*/"イベント限定営業、「LIVE PARTY!!」では、\nイベントptやLIVEオプションを獲得できます。\nLIVEオプションを使用すると、LIVEで獲得できる\n観客動員数がアップします。");

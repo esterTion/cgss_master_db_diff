@@ -557,7 +557,7 @@ INSERT INTO `push_chara_message` VALUES (/*id*/555, /*chara_id*/247, /*push_type
 INSERT INTO `push_chara_message` VALUES (/*id*/556, /*chara_id*/247, /*push_type*/4, /*title*/"姫川友紀", /*description*/"{0}が\n終わったよ！お仕事のあとのビールは格別だよね～♪");
 INSERT INTO `push_chara_message` VALUES (/*id*/557, /*chara_id*/249, /*push_type*/1, /*title*/"喜多見柚", /*description*/"柚もプロデューサーサンも、元気ハツラツっ！そんなときは…楽しいこと探しに出発だ～っ♪");
 INSERT INTO `push_chara_message` VALUES (/*id*/558, /*chara_id*/249, /*push_type*/2, /*title*/"喜多見柚", /*description*/"{0}の\nレベルが上がったって！面白そう！はやく見にいこうっ♪");
-INSERT INTO `push_chara_message` VALUES (/*id*/559, /*chara_id*/249, /*push_type*/3, /*title*/"喜多見柚", /*description*/"{0}が\nいっぱい！はやく来ないと、柚ちゃんがもらっちゃうよっ！");
+INSERT INTO `push_chara_message` VALUES (/*id*/559, /*chara_id*/249, /*push_type*/3, /*title*/"喜多見柚", /*description*/"{0}が\nいっぱい！はやく来ないと、柚チャンがもらっちゃうよっ！");
 INSERT INTO `push_chara_message` VALUES (/*id*/560, /*chara_id*/249, /*push_type*/4, /*title*/"喜多見柚", /*description*/"{0}が\n終わったよ！さぁさ、確認をお忘れなく！いってみよー♪");
 INSERT INTO `push_chara_message` VALUES (/*id*/561, /*chara_id*/250, /*push_type*/1, /*title*/"上田鈴帆", /*description*/"準備はできてるけん、いつでもお仕事持ってきんしゃい！笑いでみんなを元気にするけんね！");
 INSERT INTO `push_chara_message` VALUES (/*id*/562, /*chara_id*/250, /*push_type*/2, /*title*/"上田鈴帆", /*description*/"{0}が\nレベルアップばい！よかよか、大物になる予感するけんね！");
