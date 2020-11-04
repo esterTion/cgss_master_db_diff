@@ -1052,3 +1052,8 @@ INSERT INTO `card_location` VALUES (/*index*/1065, /*text*/"アビィ・ロー�
 INSERT INTO `card_location` VALUES (/*index*/1066, /*text*/"イギリスの宮殿・MV撮影中");
 INSERT INTO `card_location` VALUES (/*index*/1067, /*text*/"調理実習室の撮影セット");
 INSERT INTO `card_location` VALUES (/*index*/1068, /*text*/"夜の教室");
+INSERT INTO `card_location` VALUES (/*index*/1069, /*text*/"山奥の秘湯");
+INSERT INTO `card_location` VALUES (/*index*/1070, /*text*/"賭博場風セット");
+INSERT INTO `card_location` VALUES (/*index*/1071, /*text*/"鳥居");
+INSERT INTO `card_location` VALUES (/*index*/1072, /*text*/"寺院の一室");
+INSERT INTO `card_location` VALUES (/*index*/1073, /*text*/"温泉旅館・庭園");
