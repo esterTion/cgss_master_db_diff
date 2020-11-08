@@ -164,3 +164,4 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200115, /*name*/"Joker�
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200116, /*name*/"ヒーローヴァーサスレイナンジョー（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/116);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200117, /*name*/"Go Just Go!（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/117);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200118, /*name*/"オレンジタイム（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/118);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200119, /*name*/"Brand New!（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/119);
