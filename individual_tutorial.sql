@@ -122,8 +122,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/"ルームアイテムの並べ替えを行うことができます。\n「追加順」、「必要面積順」など並べ替え条件を選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーを\n倉庫収納数から除外しました。\n収納していても、収納数にカウントされなくなりました。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ハロウィン・パレードをテーマにしたアイテムとコーデが登場 !\nちょっぴりホラーな雰囲気が漂う、ハロウィンのパレードに\n参加してみましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"ルームショップにて、「ハロウィン」テーマの\nアイテム、コーデを復刻販売開始 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"白坂小梅が歌う「Bloody Festa」をサウンドブースに追加 !\n購入するとLIVEでプレイできるようになります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"神谷奈緒がカバーする「君の知らない物語」を\nサウンドブースで販売開始しました !\n※本楽曲のLIVE演出は、2D標準・2D軽量のみとなります\n※PLvが10以上になると購入できます");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"アイドルたちがカバーする「碧いうさぎ」\n「いつかの、いくつかのきみとのせかい」をサウンドブースで販売開始しました !\n※本楽曲のLIVE演出は、2D標準・2D軽量のみとなります\n※PLvが10以上になると購入できます");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
@@ -448,7 +448,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/6, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/7, /*discription*/"イベント設定では、公演の準備画面の「おすすめ設定」で\n選曲される楽曲のLvを調整できます。\nまたツアーのタイトルを自由に変更できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/1, /*discription*/"「イベント参加ボーナス」、「MAP報酬」、「課題クリア報酬」\nで、イベント限定のSレアアイドルやルームアイテムを\n手にいれましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"本イベントでは、LIVEを行うことでアイドルたちが\nMAPを進んでいきます。楽曲の難易度やLIVEの\n結果に応じて、進行できるマス数が変化します。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"また、ルートはイベント限定アイドルごとに分かれており、\nそれぞれストーリーや報酬が異なります。\n※「赤西瑛梨華」ルートのMAP1をクリアすると、\n「松山久美子」ルートが解放されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"また、ルートはイベント限定アイドルごとに分かれており、\nそれぞれストーリーや報酬が異なります。\n※「野々村そら」ルートのMAP1をクリアすると、\n「岡崎泰葉」ルートが解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/3, /*discription*/"MAPやマスごとの条件を満たしてLIVEを行うと、\nMAP進行ボーナスが発生し、進行できるマス数がアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/3, /*discription*/"MAP進行ボーナスは、MAPにあわせたアイドルを編成したり、\n現在止まっているマスの色に応じた楽曲でLIVEを行うことで発生します。\nボーナス条件はイベントTOPや楽曲の選択画面等で確認できます。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/4, /*discription*/"ゴールに到着すると、トレーナーからMAPごとの課題が出されます。\n※課題の達成状況は累積でカウントされるため、1回のLIVEでクリアできない場合、\n複数回LIVEをすることで達成できます。\n");
