@@ -4,6 +4,9 @@ INSERT INTO `gallery_pose_list` VALUES (/*id*/101, /*disp_order*/2, /*disp_name*
 INSERT INTO `gallery_pose_list` VALUES (/*id*/102, /*disp_order*/3, /*disp_name*/"みんなに手を振って !", /*motion_id*/102, /*fade_msec*/1000, /*cutt_name*/"Cutt_Pose0102", /*motion_num*/1, /*attribute*/4);
 INSERT INTO `gallery_pose_list` VALUES (/*id*/103, /*disp_order*/4, /*disp_name*/"おつかれさまです !", /*motion_id*/103, /*fade_msec*/1000, /*cutt_name*/"Cutt_Pose0103", /*motion_num*/1, /*attribute*/4);
 INSERT INTO `gallery_pose_list` VALUES (/*id*/104, /*disp_order*/5, /*disp_name*/"わっ !", /*motion_id*/104, /*fade_msec*/1000, /*cutt_name*/"Cutt_Pose0104", /*motion_num*/1, /*attribute*/4);
+INSERT INTO `gallery_pose_list` VALUES (/*id*/201, /*disp_order*/21, /*disp_name*/"手を振って !", /*motion_id*/201, /*fade_msec*/1000, /*cutt_name*/"Cutt_Pose0201", /*motion_num*/2, /*attribute*/4);
+INSERT INTO `gallery_pose_list` VALUES (/*id*/202, /*disp_order*/22, /*disp_name*/"挨拶しよう !", /*motion_id*/202, /*fade_msec*/1000, /*cutt_name*/"Cutt_Pose0202", /*motion_num*/2, /*attribute*/4);
+INSERT INTO `gallery_pose_list` VALUES (/*id*/203, /*disp_order*/23, /*disp_name*/"ポーズをとってみて !", /*motion_id*/203, /*fade_msec*/1000, /*cutt_name*/"Cutt_Pose0203", /*motion_num*/2, /*attribute*/4);
 INSERT INTO `gallery_pose_list` VALUES (/*id*/1011, /*disp_order*/1101, /*disp_name*/"卯月ちゃんっぽく !", /*motion_id*/1011, /*fade_msec*/1000, /*cutt_name*/"Cutt_Pose1011", /*motion_num*/1, /*attribute*/1);
 INSERT INTO `gallery_pose_list` VALUES (/*id*/1021, /*disp_order*/1102, /*disp_name*/"有香ちゃんっぽく !", /*motion_id*/1021, /*fade_msec*/1000, /*cutt_name*/"Cutt_Pose1021", /*motion_num*/1, /*attribute*/1);
 INSERT INTO `gallery_pose_list` VALUES (/*id*/1031, /*disp_order*/1103, /*disp_name*/"ゆかりちゃんっぽく !", /*motion_id*/1031, /*fade_msec*/1000, /*cutt_name*/"Cutt_Pose1031", /*motion_num*/1, /*attribute*/1);
