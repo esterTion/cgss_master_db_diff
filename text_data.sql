@@ -3189,6 +3189,9 @@ INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/125, /*text*/"お気
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/126, /*text*/"アイドル別設定");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/127, /*text*/"デレメール");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/128, /*text*/"ご利用の端末自体の通知設定をOFFにしている\n場合全ての通知は行われません");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/129, /*text*/"プロデューサー身長設定");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/130, /*text*/"{0}cm");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/131, /*text*/"この設定はフォトスタジオおよび\n3Dコミュに反映されます");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/201, /*text*/"VIEWモード選択");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/202, /*text*/"3Dコミュ選択");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/203, /*text*/"連続再生確認");
