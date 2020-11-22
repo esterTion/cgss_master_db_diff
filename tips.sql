@@ -548,6 +548,15 @@ INSERT INTO `tips` VALUES (/*id*/546, /*tips_type*/1, /*value*/236, /*index*/3, 
 INSERT INTO `tips` VALUES (/*id*/547, /*tips_type*/1, /*value*/103, /*index*/3, /*title*/"水本ゆかりのウワサ③", /*comment*/"天然ではなく自然体らしい。", /*chara_list*/103);
 INSERT INTO `tips` VALUES (/*id*/548, /*tips_type*/1, /*value*/250, /*index*/3, /*title*/"上田鈴帆のウワサ③", /*comment*/"洗濯表示に詳しいらしい。", /*chara_list*/250);
 INSERT INTO `tips` VALUES (/*id*/549, /*tips_type*/1, /*value*/189, /*index*/3, /*title*/"鷺沢文香のウワサ③", /*comment*/"本が手元にないときは、\n身近な文字を探し始めるらしい。", /*chara_list*/189);
+INSERT INTO `tips` VALUES (/*id*/550, /*tips_type*/1, /*value*/218, /*index*/3, /*title*/"成宮由愛のウワサ③", /*comment*/"画材入れは\n母親が使っていたものらしい。", /*chara_list*/218);
+INSERT INTO `tips` VALUES (/*id*/551, /*tips_type*/1, /*value*/304, /*index*/2, /*title*/"辻野あかりのウワサ③", /*comment*/"食べれば\n山形産のリンゴかどうか\nわかるらしい。", /*chara_list*/304);
+INSERT INTO `tips` VALUES (/*id*/552, /*tips_type*/1, /*value*/190, /*index*/3, /*title*/"八神マキノのウワサ③", /*comment*/"充電器の充電を忘れると\n少し冷静さを欠くらしい。", /*chara_list*/190);
+INSERT INTO `tips` VALUES (/*id*/553, /*tips_type*/1, /*value*/307, /*index*/2, /*title*/"黒埼ちとせのウワサ③", /*comment*/"お呼ばれするのが好きらしい。", /*chara_list*/307);
+INSERT INTO `tips` VALUES (/*id*/554, /*tips_type*/1, /*value*/267, /*index*/3, /*title*/"城ヶ崎美嘉のウワサ③", /*comment*/"おさがりの\n貰い手が多いらしい。", /*chara_list*/267);
+INSERT INTO `tips` VALUES (/*id*/555, /*tips_type*/1, /*value*/165, /*index*/3, /*title*/"原田美世のウワサ③", /*comment*/"眠れないときは\nエンジン音を聞くらしい。", /*chara_list*/165);
+INSERT INTO `tips` VALUES (/*id*/556, /*tips_type*/1, /*value*/260, /*index*/3, /*title*/"的場梨沙のウワサ③", /*comment*/"手帳には\nパパのスケジュールも\n書いてあるらしい。", /*chara_list*/260);
+INSERT INTO `tips` VALUES (/*id*/557, /*tips_type*/1, /*value*/150, /*index*/3, /*title*/"輿水幸子のウワサ③", /*comment*/"未開拓のジャンルには\n積極的に\n挑戦していきたいらしい。", /*chara_list*/150);
+INSERT INTO `tips` VALUES (/*id*/558, /*tips_type*/1, /*value*/173, /*index*/3, /*title*/"川島瑞樹のウワサ③", /*comment*/"音声操作家電には\nまだ戸惑いを感じているらしい。", /*chara_list*/173);
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !", /*chara_list*/"");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !", /*chara_list*/"");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !", /*chara_list*/"");
@@ -966,5 +975,7 @@ INSERT INTO `tips` VALUES (/*id*/40378, /*tips_type*/4, /*value*/309, /*index*/2
 INSERT INTO `tips` VALUES (/*id*/40379, /*tips_type*/4, /*value*/310, /*index*/2, /*title*/"久川颯②　はーの自撮り☆", /*comment*/"", /*chara_list*/310);
 INSERT INTO `tips` VALUES (/*id*/40380, /*tips_type*/4, /*value*/306, /*index*/2, /*title*/"夢見りあむ②　特別警戒アカ", /*comment*/"", /*chara_list*/306);
 INSERT INTO `tips` VALUES (/*id*/40381, /*tips_type*/4, /*value*/305, /*index*/2, /*title*/"砂塚あきら②　#今日の映えな一枚", /*comment*/"", /*chara_list*/305);
+INSERT INTO `tips` VALUES (/*id*/40382, /*tips_type*/4, /*value*/304, /*index*/2, /*title*/"辻野あかり②　辻野りんご?", /*comment*/"", /*chara_list*/"304,306");
+INSERT INTO `tips` VALUES (/*id*/40383, /*tips_type*/4, /*value*/307, /*index*/2, /*title*/"黒埼ちとせ②　レッスン着の秘密", /*comment*/"", /*chara_list*/"307,308,134");
 INSERT INTO `tips` VALUES (/*id*/50001, /*tips_type*/5, /*value*/1, /*index*/1, /*title*/"縦画面持ち替え説明画像", /*comment*/"", /*chara_list*/"");
 INSERT INTO `tips` VALUES (/*id*/50002, /*tips_type*/5, /*value*/2, /*index*/1, /*title*/"縦画面横に持ち替え説明画像", /*comment*/"", /*chara_list*/"");
