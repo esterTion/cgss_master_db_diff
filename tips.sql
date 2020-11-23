@@ -549,9 +549,9 @@ INSERT INTO `tips` VALUES (/*id*/547, /*tips_type*/1, /*value*/103, /*index*/3, 
 INSERT INTO `tips` VALUES (/*id*/548, /*tips_type*/1, /*value*/250, /*index*/3, /*title*/"上田鈴帆のウワサ③", /*comment*/"洗濯表示に詳しいらしい。", /*chara_list*/250);
 INSERT INTO `tips` VALUES (/*id*/549, /*tips_type*/1, /*value*/189, /*index*/3, /*title*/"鷺沢文香のウワサ③", /*comment*/"本が手元にないときは、\n身近な文字を探し始めるらしい。", /*chara_list*/189);
 INSERT INTO `tips` VALUES (/*id*/550, /*tips_type*/1, /*value*/218, /*index*/3, /*title*/"成宮由愛のウワサ③", /*comment*/"画材入れは\n母親が使っていたものらしい。", /*chara_list*/218);
-INSERT INTO `tips` VALUES (/*id*/551, /*tips_type*/1, /*value*/304, /*index*/2, /*title*/"辻野あかりのウワサ②", /*comment*/"食べれば\n山形産のりんごかどうか\nわかるらしい。", /*chara_list*/304);
+INSERT INTO `tips` VALUES (/*id*/551, /*tips_type*/1, /*value*/304, /*index*/2, /*title*/"辻野あかりのウワサ③", /*comment*/"食べれば\n山形産のリンゴかどうか\nわかるらしい。", /*chara_list*/304);
 INSERT INTO `tips` VALUES (/*id*/552, /*tips_type*/1, /*value*/190, /*index*/3, /*title*/"八神マキノのウワサ③", /*comment*/"充電器の充電を忘れると\n少し冷静さを欠くらしい。", /*chara_list*/190);
-INSERT INTO `tips` VALUES (/*id*/553, /*tips_type*/1, /*value*/307, /*index*/2, /*title*/"黒埼ちとせのウワサ②", /*comment*/"お呼ばれするのが好きらしい。", /*chara_list*/307);
+INSERT INTO `tips` VALUES (/*id*/553, /*tips_type*/1, /*value*/307, /*index*/2, /*title*/"黒埼ちとせのウワサ③", /*comment*/"お呼ばれするのが好きらしい。", /*chara_list*/307);
 INSERT INTO `tips` VALUES (/*id*/554, /*tips_type*/1, /*value*/267, /*index*/3, /*title*/"城ヶ崎美嘉のウワサ③", /*comment*/"おさがりの\n貰い手が多いらしい。", /*chara_list*/267);
 INSERT INTO `tips` VALUES (/*id*/555, /*tips_type*/1, /*value*/165, /*index*/3, /*title*/"原田美世のウワサ③", /*comment*/"眠れないときは\nエンジン音を聞くらしい。", /*chara_list*/165);
 INSERT INTO `tips` VALUES (/*id*/556, /*tips_type*/1, /*value*/260, /*index*/3, /*title*/"的場梨沙のウワサ③", /*comment*/"手帳には\nパパのスケジュールも\n書いてあるらしい。", /*chara_list*/260);
