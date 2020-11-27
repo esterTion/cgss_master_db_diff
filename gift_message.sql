@@ -210,3 +210,4 @@ INSERT INTO `gift_message` VALUES (/*id*/20051, /*discription*/"「祝5周年 ! 
 INSERT INTO `gift_message` VALUES (/*id*/20052, /*discription*/"「祝5周年 ! プラチナチャンス」{0}等B賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20053, /*discription*/"「祝5周年 ! プラチナチャンス」{0}等C賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20054, /*discription*/"「祝5周年 ! プラチナチャンス」特別賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20055, /*discription*/"「アイドルマスター シンデレラガールズ」9周年を記念したプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

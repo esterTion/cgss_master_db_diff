@@ -1,0 +1,1 @@
+CREATE TABLE 'sweets_topping' ('topping_id' INTEGER NOT NULL, 'food_menu_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'sorting_order' INTEGER NOT NULL, 'pos_x' REAL NOT NULL, 'pos_y' REAL NOT NULL, 'coll_center_x' REAL NOT NULL, 'coll_center_y' REAL NOT NULL, 'coll_size_x' REAL NOT NULL, 'coll_size_y' REAL NOT NULL, 'tray_order' INTEGER NOT NULL, PRIMARY KEY('topping_id'));

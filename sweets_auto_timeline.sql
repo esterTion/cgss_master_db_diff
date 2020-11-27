@@ -1,0 +1,1 @@
+CREATE TABLE 'sweets_auto_timeline' ('auto_timeline_id' INTEGER NOT NULL, 'stage_id' INTEGER NOT NULL, 'start_sec' INTEGER NOT NULL, 'end_sec' INTEGER NOT NULL, 'min_order_count' INTEGER NOT NULL, 'max_order_count' INTEGER NOT NULL, 'guest_count' INTEGER NOT NULL, 'chara_id_list' TEXT NOT NULL, 'order_item_id_list' TEXT NOT NULL, PRIMARY KEY('auto_timeline_id'));

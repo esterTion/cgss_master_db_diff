@@ -15,7 +15,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/10008, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/10009, /*img*/1, /*discription*/"『ルナシャイン』を必要数獲得すると、\n対象のアイドルを1人スカウトすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10009, /*img*/2, /*discription*/"「ルナシャイン」は一定期間ごとの変換は行われず、\n必要数までため続けることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10010, /*img*/1, /*discription*/"過去の期間限定アイドルが専用ガシャで登場 !\nSレアアイドル、SSレアアイドルは対象の限定アイドルのみが出現 !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/10011, /*img*/1, /*discription*/"プラチナセレクションガシャチケットでは\n対象のSSアイドルレアのみが登場します。\nさらに、登場SSレアアイドルをしぼりこむことが出来ます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/10011, /*img*/1, /*discription*/"プラチナセレクションガシャチケットでは\n対象のSSレアアイドルのみが登場します。\nさらに、登場SSレアアイドルをしぼりこむことが出来ます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10011, /*img*/2, /*discription*/"しぼりこむことができる数は\nアルバムのSSレアアイドル登録数と同数までとなります。\n※SSレア+アイドルの登録数はカウントされません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10012, /*img*/1, /*discription*/"プライズガシャではアイドルだけでなく\n等級に応じた枚数のプライズコインが入手出来ます。\nプライズコインは交換所で\n専用のスカウトチケットと交換可能です !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10012, /*img*/1, /*discription*/"またスカウトチケットの他にも\nS.T.マスタートレーナーチケットやプレミアムフィルムなど\n各種アイテムとも交換可能です !");
@@ -166,7 +166,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20204, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20205, /*img*/1, /*discription*/"海外エリアが追加されました。\nアイドルたちの魅力を世界中に広めましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20206, /*img*/1, /*discription*/"複数の営業をまとめて確認できる機能を追加しました !\n結果確認可能な営業をまとめて確認することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20206, /*img*/2, /*discription*/"さらに、複数まとめて確認した営業は\nそのまま再出発することができます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\n必ず複数の特訓アイテムを獲得できる\nスペシャル営業が1日1回行えます !\n詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「シンデレラガールズ9周年記念\nマニー獲得キャンペーン」開催中 ! ! キャンペーン中は、\nたくさんのマニーが獲得できるスペシャル営業が\n1日1回行えます ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21001, /*img*/1, /*discription*/"拘束のまゆからの攻撃を避けつつ、ハピネシウムを集めよう。\n集めたハピネシウムをラボに届けるとスコアをゲットできるよ ! \nラボにまとめて届けるとスコアがアップ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21002, /*img*/1, /*discription*/"誘惑の奏の攻撃や障害物を回避して、ハピネシウムを集めよう。\nタップするとうさぎロボがジャンプ ! \nうさぎロボは1回だけ空中ジャンプが可能だよ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21003, /*img*/1, /*discription*/"グラスザニンジャあやめの攻撃をはじきつつ、ハピネシウムを集めよう。\nフリック操作で、照準に入った障害物をはじけ ! \n飛んでくるハピネシウムを見極めてスコアをゲットしよう ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
@@ -616,6 +616,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90302, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90302, /*img*/2, /*discription*/"また、作成期間中はビンゴシートの作り直しが\n可能です。好みのシートを作りましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90302, /*img*/3, /*discription*/"番組内でアイドルが抽選されます。そのアイドルのマスが\nシートにあればマスがOPENされます。1マスごとに\nOPEN報酬が獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90302, /*img*/3, /*discription*/"また、解放したマスが縦、横、ナナメのラインに\n5つ並べばビンゴ達成 ! 1ラインごとにビンゴ報酬が\n獲得できます。抽選会をお楽しみに !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90303, /*img*/1, /*discription*/"「アイドルマスター シンデレラガールズ\n9th Anniversary Memorial Party」が\n11月28日19時より配信開始 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90303, /*img*/1, /*discription*/"今回は各配信サービスに加えて、本アプリ内でも\n配信を行います。配信が開始されたら本ページ\nの視聴ボタンより番組視聴が可能 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90303, /*img*/2, /*discription*/"視聴画面ではリアルタイムでコメントや\nスタンプを送ることができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90303, /*img*/2, /*discription*/"画面表示は切り替え可能です !\nみんなで一緒に盛り上がりましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/1, /*discription*/"オールスターカウントダウンLIVE開催 !\n開催期間は2019年12月31日0時～24時です。\nみんなでLIVEを楽しみながら1年を締めくくりましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/2, /*discription*/"全プロデューサーで対象楽曲をクリアして、「全体ミッション」を達成しま\nしょう ! LIVEのクリアされた回数によって獲得できる報酬が決定します !\n※全体ミッションの達成報酬は、\n1月1日12時にまとめて配布されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/3, /*discription*/"オールスターカウントダウンLIVEでは、\nLIVEをクリアすると「クリスタルナイトパーティチケット」がドロップします。\nドレスショップでチケット1枚を使用することで、\n好きなアイドル1人のドレスと交換できます。");

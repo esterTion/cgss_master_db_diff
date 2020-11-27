@@ -34,3 +34,4 @@ INSERT INTO `gallery_stage_list` VALUES (/*id*/35, /*disp_order*/27, /*disp_name
 INSERT INTO `gallery_stage_list` VALUES (/*id*/36, /*disp_order*/28, /*disp_name*/"ステージ 情熱ファンファンファーレ", /*bg_id*/3006, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/37, /*disp_order*/29, /*disp_name*/"ステージ shabon song", /*bg_id*/1006, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/38, /*disp_order*/30, /*disp_name*/"ステージ Halloween♥Code", /*bg_id*/1008, /*bg_type*/1, /*left_degree*/107, /*right_degree*/107);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/39, /*disp_order*/31, /*disp_name*/"ステージ Nothing but You", /*bg_id*/4026, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);

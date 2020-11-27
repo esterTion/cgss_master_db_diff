@@ -1,0 +1,1 @@
+CREATE TABLE 'sweets_manual_timeline' ('manual_timeline_id' INTEGER NOT NULL, 'stage_id' INTEGER NOT NULL, 'emerged_sec' INTEGER NOT NULL, 'chara_id' INTEGER NOT NULL, 'order_item_id_list' TEXT NOT NULL, PRIMARY KEY('manual_timeline_id'));

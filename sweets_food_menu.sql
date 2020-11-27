@@ -1,0 +1,1 @@
+CREATE TABLE 'sweets_food_menu' ('food_menu_id' INTEGER NOT NULL, 'restaurant_id' INTEGER NOT NULL, 'menu_kind' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'unit_score' INTEGER NOT NULL, 'tp_unit_score' INTEGER NOT NULL, PRIMARY KEY('food_menu_id'));
