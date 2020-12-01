@@ -420,4 +420,5 @@ INSERT INTO `story_category` VALUES (/*id*/446, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/448, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ダイアモンド･アテンション", /*sub_title*/"ダイアモンド･アテンション", /*disp_order*/137);
 INSERT INTO `story_category` VALUES (/*id*/449, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"岡崎泰葉 / 野々村そら", /*sub_title*/"岡崎泰葉 / 野々村そら", /*disp_order*/138);
 INSERT INTO `story_category` VALUES (/*id*/450, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"さよならアンドロメダ", /*sub_title*/"さよならアンドロメダ", /*disp_order*/139);
+INSERT INTO `story_category` VALUES (/*id*/451, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Never ends", /*sub_title*/"Never ends", /*disp_order*/140);
 INSERT INTO `story_category` VALUES (/*id*/452, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"9th Anniversary連動企画", /*sub_title*/"9th Anniversary連動企画", /*disp_order*/19);

@@ -37,7 +37,7 @@ INSERT INTO `dress_data` VALUES (/*id*/7014000, /*name*/"お伽衣装・ヘン�
 INSERT INTO `dress_data` VALUES (/*id*/7015000, /*name*/"お伽衣装・白雪姫", /*description*/"一日の幻を形にした衣装。\n『白雪姫』がモチーフ。\n様々な役柄が、少女たちを楽しく彩る。", /*open_type*/3, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7016000, /*name*/"お伽衣装・魔法の司書", /*description*/"一日の幻を形にした衣装。\n魔法図書館の司書がモチーフ。\n様々な役柄が、少女たちを楽しく彩る。", /*open_type*/3, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7017000, /*name*/"てるてる珠美To You !", /*description*/"梅雨をテーマにした、珠美の衣装。\n振袖にレインブーツの組み合わせがキュート。\nデザインした者の想いがこもっている。", /*open_type*/3, /*dress_type*/3);
-INSERT INTO `dress_data` VALUES (/*id*/7018000, /*name*/"サンライトオブフラワー", /*description*/"太陽を浴びて輝くドレス。\nあたたかな陽光によって織られている。\nこのドレスと共に、少女たちの笑顔も花開く。", /*open_type*/3, /*dress_type*/0);
+INSERT INTO `dress_data` VALUES (/*id*/7018000, /*name*/"サンライトオブフラワー", /*description*/"太陽を浴びて輝くドレス。\nあたたかな陽光によって織られている。\nこのドレスと共に、少女たちの笑顔も花開く。", /*open_type*/2, /*dress_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/7019000, /*name*/"Cheese ! Cheese !", /*description*/"ねずみをテーマにした、肇の衣装。\n愛らしい髪型と、チーズなフリルがポイント。\nデザインした者の想いがこもっている。", /*open_type*/3, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7020000, /*name*/"宵の花衣", /*description*/"宵の花を彩る衣装。\nいずれ散りゆく運命なれど、\n命を燃やして咲く恋は美しい。\nその艶姿は、見る者の心に永久に残る。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7021000, /*name*/"春纏う霞衣", /*description*/"桜のように咲き誇る、少女たちの衣装。\n芽吹き、咲き、散ってゆく。\nそれでも桜はまた咲き、皆を惹きつける。\nそしてまた、満開の笑顔が花開く。", /*open_type*/5, /*dress_type*/3);
@@ -45,7 +45,10 @@ INSERT INTO `dress_data` VALUES (/*id*/7022000, /*name*/"スクールメイト�
 INSERT INTO `dress_data` VALUES (/*id*/7023000, /*name*/"セーシュン・チアーズ", /*description*/"青春を応援する少女たちの制服ドレス。\n上手くいかない時も、つまづいてしまう時も\nある。それでも、今という時を全力で走ろう。\nその情熱は、輝く明日へと繋がっている。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7024000, /*name*/"プレイ・イット・アンサー", /*description*/"嵐を巻き起こす少女たちのドレス。\n個性と個性がぶつかり合い、やがてひとつの\n形となる。だが、それが唯一の答えではない。\n無限の答えが、少女たちの前に広がっている。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7025000, /*name*/"セクシー・フォー・ジャスティス", /*description*/"ギルティを許さない少女たちのドレス。\nギルティあるところに姿あり、姿あるところに\nセクシーあり ! この世の悪事にお仕置きを !\n行け行け、セクシーギルティ !", /*open_type*/5, /*dress_type*/3);
+INSERT INTO `dress_data` VALUES (/*id*/7026000, /*name*/"マイディア・ドリーム", /*description*/"夢を見続ける、少女たちのドレス。\n輝きたい気持ちを持ち続ける限り、\nアイドルの物語が終わることはない。\nいつまでもどこまでも、夢は続いていく。", /*open_type*/3, /*dress_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/7028000, /*name*/"メイク・マイ・スマイル", /*description*/"笑顔をみんなに届ける、少女たちのドレス。\n変わりたいと願うのは、憧れがあるから。\n昨日までの自分から受け取ったバトンが、\n明日からもっと輝く自分にしてくれる。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7029000, /*name*/"トリニティ・スパークル", /*description*/"磨かれることで輝きを増す少女たちのドレス。\n仲間でライバルだから、譲れない想いがある。\n見ている方向はそれぞれ違っていても、\n本気のぶつかり合いは、頂へと到達する。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7030000, /*name*/"パレット・カラー・ステアー", /*description*/"ときめく未来を描く、少女たちのドレス。\n目の前に広がる真っ白なキャンバスに、\nどんな未来を彩っていくのかは自分次第。\n夢を信じながら、少女たちは階段を上がる。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7031000, /*name*/"スパイシー・デリバリー", /*description*/"ピリッとした刺激をくれる少女たちのドレス。\nスパイスの効いたカレーが美味しいように、\n人生には刺激が欠かせない。隠し味の\nスマイルが最高のポジティブを届けるよ !", /*open_type*/5, /*dress_type*/3);
+INSERT INTO `dress_data` VALUES (/*id*/7032000, /*name*/"花咲舞衣", /*description*/"月夜に咲き綻ぶ、少女たちの衣装。\n巡り合えた糸は固く結ばれ、互いに引き合う\nことで、幻想的なまでの光景を作り出す。\n花々が舞う姿は、人々を夢心地へと誘う。", /*open_type*/5, /*dress_type*/3);
+INSERT INTO `dress_data` VALUES (/*id*/7033000, /*name*/"ファースト・ステップ", /*description*/"踏み出す勇気を知る、少女たちのドレス。\n失敗は怖いし、苦手から逃げ出したくもなる。\nそれでも、チャレンジを諦めたくない。\n勇気を持って、一歩を踏み出そう。", /*open_type*/5, /*dress_type*/3);

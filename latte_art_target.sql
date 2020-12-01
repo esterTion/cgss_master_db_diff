@@ -158,4 +158,6 @@ INSERT INTO `latte_art_target` VALUES (/*id*/156, /*type*/1, /*latte_id*/194, /*
 INSERT INTO `latte_art_target` VALUES (/*id*/157, /*type*/1, /*latte_id*/195, /*val_id*/30583, /*card_id*/300747);
 INSERT INTO `latte_art_target` VALUES (/*id*/158, /*type*/1, /*latte_id*/66, /*val_id*/30584, /*card_id*/200609);
 INSERT INTO `latte_art_target` VALUES (/*id*/159, /*type*/1, /*latte_id*/68, /*val_id*/30584, /*card_id*/300583);
+INSERT INTO `latte_art_target` VALUES (/*id*/160, /*type*/1, /*latte_id*/329, /*val_id*/30586, /*card_id*/300895);
+INSERT INTO `latte_art_target` VALUES (/*id*/161, /*type*/2, /*latte_id*/330, /*val_id*/3034, /*card_id*/0);
 CREATE INDEX 'latte_art_target_0_type_1_val_id' on 'latte_art_target'('type','val_id');

@@ -1068,3 +1068,5 @@ INSERT INTO `card_location` VALUES (/*index*/1081, /*text*/"フリースペー�
 INSERT INTO `card_location` VALUES (/*index*/1082, /*text*/"学校の渡り廊下・昼休み");
 INSERT INTO `card_location` VALUES (/*index*/1083, /*text*/"銀河を渡る列車の中");
 INSERT INTO `card_location` VALUES (/*index*/1084, /*text*/"名前のないどこかの駅");
+INSERT INTO `card_location` VALUES (/*index*/1085, /*text*/"LEDステージ");
+INSERT INTO `card_location` VALUES (/*index*/1086, /*text*/"VRバイクレースゲーム");
