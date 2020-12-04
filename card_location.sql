@@ -1070,3 +1070,8 @@ INSERT INTO `card_location` VALUES (/*index*/1083, /*text*/"銀河を渡る列�
 INSERT INTO `card_location` VALUES (/*index*/1084, /*text*/"名前のないどこかの駅");
 INSERT INTO `card_location` VALUES (/*index*/1085, /*text*/"LEDステージ");
 INSERT INTO `card_location` VALUES (/*index*/1086, /*text*/"VRバイクレースゲーム");
+INSERT INTO `card_location` VALUES (/*index*/1087, /*text*/"クリスマスマーケット");
+INSERT INTO `card_location` VALUES (/*index*/1088, /*text*/"ショーステージ");
+INSERT INTO `card_location` VALUES (/*index*/1089, /*text*/"白に染まる街");
+INSERT INTO `card_location` VALUES (/*index*/1090, /*text*/"光と闇の交わる教会・撮影中");
+INSERT INTO `card_location` VALUES (/*index*/1091, /*text*/"ホテル・暖炉のある部屋");
