@@ -563,7 +563,7 @@ INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/
 INSERT INTO `tips` VALUES (/*id*/20004, /*tips_type*/2, /*value*/9002, /*index*/1, /*title*/"ギフトアイテム", /*comment*/"ルームでアイドルに渡すと、\n親愛度を上げることができます !", /*chara_list*/"");
 INSERT INTO `tips` VALUES (/*id*/20005, /*tips_type*/2, /*value*/9003, /*index*/1, /*title*/"トレーナーチケット", /*comment*/"レッスンで、アイドルのExpを\n大きく上昇させることができます !", /*chara_list*/"");
 INSERT INTO `tips` VALUES (/*id*/20006, /*tips_type*/2, /*value*/40001, /*index*/1, /*title*/"リハーサルチケット", /*comment*/"スタミナを消費せずに、LIVEの\n練習ができます !", /*chara_list*/"");
-INSERT INTO `tips` VALUES (/*id*/20007, /*tips_type*/2, /*value*/40011, /*index*/1, /*title*/"MASTER+チケット", /*comment*/"高難易度「MASTER+」のLIVEに挑戦できます !", /*chara_list*/"");
+INSERT INTO `tips` VALUES (/*id*/20007, /*tips_type*/2, /*value*/40011, /*index*/1, /*title*/"EXTRA LIVEチケット", /*comment*/"難易度「MASTER+」「WITCH」のLIVEに挑戦できます !", /*chara_list*/"");
 INSERT INTO `tips` VALUES (/*id*/30001, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルを育てるには", /*comment*/"アイドルのレベルを上げるには、\nレッスンを行いましょう !", /*chara_list*/"");
 INSERT INTO `tips` VALUES (/*id*/30002, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"アイドルとの親愛度を上げるには", /*comment*/"LIVEに参加させたり、\nルームでギフトアイテムを渡すことで\nアイドルとの親愛度が上がります !", /*chara_list*/"");
 INSERT INTO `tips` VALUES (/*id*/30003, /*tips_type*/3, /*value*/0, /*index*/1, /*title*/"新しい楽曲を解放するには", /*comment*/"ストーリーコミュをクリアしたり、\nルームのサウンドブースで楽曲購入すると、新しい楽曲が解放できますよ !", /*chara_list*/"");
