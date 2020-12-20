@@ -423,3 +423,4 @@ INSERT INTO `story_category` VALUES (/*id*/449, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/450, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"さよならアンドロメダ", /*sub_title*/"さよならアンドロメダ", /*disp_order*/139);
 INSERT INTO `story_category` VALUES (/*id*/451, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Never ends", /*sub_title*/"Never ends", /*disp_order*/140);
 INSERT INTO `story_category` VALUES (/*id*/452, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"9th Anniversary連動企画", /*sub_title*/"9th Anniversary連動企画", /*disp_order*/19);
+INSERT INTO `story_category` VALUES (/*id*/453, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Snow＊Love", /*sub_title*/"Snow＊Love", /*disp_order*/141);
