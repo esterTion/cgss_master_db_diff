@@ -557,6 +557,12 @@ INSERT INTO `tips` VALUES (/*id*/555, /*tips_type*/1, /*value*/165, /*index*/3, 
 INSERT INTO `tips` VALUES (/*id*/556, /*tips_type*/1, /*value*/260, /*index*/3, /*title*/"的場梨沙のウワサ③", /*comment*/"手帳には\nパパのスケジュールも\n書いてあるらしい。", /*chara_list*/260);
 INSERT INTO `tips` VALUES (/*id*/557, /*tips_type*/1, /*value*/150, /*index*/3, /*title*/"輿水幸子のウワサ③", /*comment*/"未開拓のジャンルには\n積極的に\n挑戦していきたいらしい。", /*chara_list*/150);
 INSERT INTO `tips` VALUES (/*id*/558, /*tips_type*/1, /*value*/173, /*index*/3, /*title*/"川島瑞樹のウワサ③", /*comment*/"音声操作家電には\nまだ戸惑いを感じているらしい。", /*chara_list*/173);
+INSERT INTO `tips` VALUES (/*id*/559, /*tips_type*/1, /*value*/249, /*index*/3, /*title*/"喜多見柚のウワサ③", /*comment*/"パラパラ漫画の\nクオリティが高いらしい。", /*chara_list*/249);
+INSERT INTO `tips` VALUES (/*id*/560, /*tips_type*/1, /*value*/186, /*index*/3, /*title*/"水野翠のウワサ③", /*comment*/"こっそり\nツインテールを試したことも\nあるらしい。", /*chara_list*/186);
+INSERT INTO `tips` VALUES (/*id*/561, /*tips_type*/1, /*value*/272, /*index*/3, /*title*/"十時愛梨のウワサ③", /*comment*/"辛いものを食べると\n大変らしい。", /*chara_list*/272);
+INSERT INTO `tips` VALUES (/*id*/562, /*tips_type*/1, /*value*/111, /*index*/3, /*title*/"小日向美穂のウワサ③", /*comment*/"寝言は大胆らしい。", /*chara_list*/111);
+INSERT INTO `tips` VALUES (/*id*/563, /*tips_type*/1, /*value*/228, /*index*/3, /*title*/"大和亜季のウワサ③", /*comment*/"字幕と吹き替え\nどちらも観る派らしい。", /*chara_list*/228);
+INSERT INTO `tips` VALUES (/*id*/564, /*tips_type*/1, /*value*/300, /*index*/3, /*title*/"イヴ・サンタクロースのウワサ③", /*comment*/"プレゼントを持つと\n身体能力が上がるらしい。", /*chara_list*/300);
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !", /*chara_list*/"");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !", /*chara_list*/"");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !", /*chara_list*/"");

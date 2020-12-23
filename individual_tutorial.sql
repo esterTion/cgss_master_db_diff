@@ -21,6 +21,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/10012, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/10012, /*img*/1, /*discription*/"またスカウトチケットの他にも\nS.T.マスタートレーナーチケットやプレミアムフィルムなど\n各種アイテムとも交換可能です !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10012, /*img*/1, /*discription*/"プライズコイン、プライズスカウトチケット\nプライズSレアスカウトチケットには有効期限が存在します。\n忘れずに交換しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10013, /*img*/1, /*discription*/"メモリアルガシャ2ndが新たに追加されました ! \n画面左上のタブで1stと2ndを切り替えることが可能です。\n※出現するアイドルはアイドル詳細でご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/10014, /*img*/1, /*discription*/"「カムバックSレアスカウトチケット」は、アルバム登録済の\nSレア・レア・ノーマルアイドルから好きなアイドルを\nスカウトできるチケットです。対象アイドルごとに年1回まで\nスカウトすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/1, /*discription*/"スペシャルガシャセットは期間限定販売です。\n購入すると「スカウトチケット」と「プラチナ10連ガシャ\nチケット」を1枚ずつ獲得できます。\n※有償スタージュエルでのみ購入することができます");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/2, /*discription*/"「スカウトチケット」はレア、Sレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で出現します。");

@@ -4,3 +4,4 @@ INSERT INTO `exchange_shop_term` VALUES (/*id*/83001, /*name*/"プラチナス�
 INSERT INTO `exchange_shop_term` VALUES (/*id*/83002, /*name*/"スカウトチケット", /*description*/"スカウトチケットを1枚使用することで、アイドルを1人スカウト出来ます。", /*start_date*/"2018/07/19 12:00:00", /*end_date*/"2030/04/01 14:00:00");
 INSERT INTO `exchange_shop_term` VALUES (/*id*/85001, /*name*/"プライズスカウトチケット", /*description*/"スカウトチケットを1枚使用することで、アイドルを1人スカウト出来ます。", /*start_date*/"2020/04/25 15:00:00", /*end_date*/"2030/04/01 14:00:00");
 INSERT INTO `exchange_shop_term` VALUES (/*id*/85002, /*name*/"プライズSレアスカウトチケット", /*description*/"スカウトチケットを1枚使用することで、アイドルを1人スカウト出来ます。", /*start_date*/"2020/04/25 15:00:00", /*end_date*/"2030/04/01 14:00:00");
+INSERT INTO `exchange_shop_term` VALUES (/*id*/86001, /*name*/"カムバックSレアスカウトチケット", /*description*/"カムバックSレアスカウトチケットを1枚使用することで、Sレア・レア・ノーマルのアルバム登録済アイドルを1人スカウト出来ます。", /*start_date*/"2020/12/23 15:00:00", /*end_date*/"2030/04/01 14:00:00");
