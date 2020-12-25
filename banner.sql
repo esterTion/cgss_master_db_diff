@@ -1156,4 +1156,5 @@ INSERT INTO `banner` VALUES (/*banner_id*/1171, /*type*/2, /*img_id*/1064, /*tra
 INSERT INTO `banner` VALUES (/*banner_id*/1172, /*type*/1, /*img_id*/30591, /*transition*/0, /*page_index*/30591, /*order_num*/5, /*start_date*/"2020-12-23 15:00:00", /*end_date*/"2020-12-26 14:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/1173, /*type*/1, /*img_id*/30592, /*transition*/0, /*page_index*/30592, /*order_num*/6, /*start_date*/"2020-12-23 15:00:00", /*end_date*/"2020-12-26 14:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/1177, /*type*/3, /*img_id*/0, /*transition*/103, /*page_index*/6, /*order_num*/28, /*start_date*/"2020-12-22 15:00:00", /*end_date*/"2021-01-10 23:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1178, /*type*/12, /*img_id*/1178, /*transition*/0, /*page_index*/0, /*order_num*/4, /*start_date*/"2020-12-26 00:00:00", /*end_date*/"2021-02-06 23:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/1179, /*type*/1, /*img_id*/30593, /*transition*/0, /*page_index*/30593, /*order_num*/7, /*start_date*/"2020-12-23 15:00:00", /*end_date*/"2020-12-26 14:59:59");
