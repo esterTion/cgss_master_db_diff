@@ -78,11 +78,13 @@ INSERT INTO `dress_acc_palette` VALUES (/*id*/4005, /*dress_id*/17, /*model_type
 INSERT INTO `dress_acc_palette` VALUES (/*id*/4006, /*dress_id*/17, /*model_type*/3, /*layer_id*/1, /*color_code*/"FFEB5D", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/4007, /*dress_id*/17, /*model_type*/3, /*layer_id*/1, /*color_code*/"FFFFFF", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/4008, /*dress_id*/17, /*model_type*/3, /*layer_id*/1, /*color_code*/"C86E49", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
+INSERT INTO `dress_acc_palette` VALUES (/*id*/4009, /*dress_id*/17, /*model_type*/3, /*layer_id*/1, /*color_code*/"29A86C", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/4011, /*dress_id*/17, /*model_type*/3, /*layer_id*/2, /*color_code*/"FFE1F1", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/4012, /*dress_id*/17, /*model_type*/3, /*layer_id*/2, /*color_code*/"CEF4FF", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/4013, /*dress_id*/17, /*model_type*/3, /*layer_id*/2, /*color_code*/"F8FFD5", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/4014, /*dress_id*/17, /*model_type*/3, /*layer_id*/2, /*color_code*/"FFFFFF", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/4015, /*dress_id*/17, /*model_type*/3, /*layer_id*/2, /*color_code*/"D9A27A", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
+INSERT INTO `dress_acc_palette` VALUES (/*id*/4016, /*dress_id*/17, /*model_type*/3, /*layer_id*/2, /*color_code*/"E7FFCE", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/4018, /*dress_id*/17, /*model_type*/3, /*layer_id*/3, /*color_code*/"FFE0B1", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/4019, /*dress_id*/17, /*model_type*/3, /*layer_id*/3, /*color_code*/"E3EBFF", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/4020, /*dress_id*/17, /*model_type*/3, /*layer_id*/3, /*color_code*/"EDEEEE", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
