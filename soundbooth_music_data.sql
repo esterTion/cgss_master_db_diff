@@ -167,3 +167,4 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200118, /*name*/"オレ�
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200119, /*name*/"Brand New!（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/119);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200120, /*name*/"THE VILLAIN'S NIGHT（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/120);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200121, /*name*/"ダイアモンド・アテンション（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/121);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200122, /*name*/"さよならアンドロメダ（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/122);

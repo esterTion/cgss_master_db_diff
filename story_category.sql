@@ -418,6 +418,7 @@ INSERT INTO `story_category` VALUES (/*id*/443, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/444, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"オレンジタイム", /*sub_title*/"オレンジタイム", /*disp_order*/134);
 INSERT INTO `story_category` VALUES (/*id*/445, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Brand new !", /*sub_title*/"Brand new !", /*disp_order*/135);
 INSERT INTO `story_category` VALUES (/*id*/446, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"THE VILLAIN'S NIGHT", /*sub_title*/"THE VILLAIN'S NIGHT", /*disp_order*/136);
+INSERT INTO `story_category` VALUES (/*id*/447, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"オールスターカウントダウンLIVE2020", /*sub_title*/"オールスターカウントダウンLIVE2020", /*disp_order*/20);
 INSERT INTO `story_category` VALUES (/*id*/448, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ダイアモンド･アテンション", /*sub_title*/"ダイアモンド･アテンション", /*disp_order*/137);
 INSERT INTO `story_category` VALUES (/*id*/449, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"岡崎泰葉 / 野々村そら", /*sub_title*/"岡崎泰葉 / 野々村そら", /*disp_order*/138);
 INSERT INTO `story_category` VALUES (/*id*/450, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"さよならアンドロメダ", /*sub_title*/"さよならアンドロメダ", /*disp_order*/139);
