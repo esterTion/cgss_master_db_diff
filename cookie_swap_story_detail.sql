@@ -26,3 +26,11 @@ INSERT INTO `cookie_swap_story_detail` VALUES (/*id*/4344, /*campaign_id*/20003,
 INSERT INTO `cookie_swap_story_detail` VALUES (/*id*/4345, /*campaign_id*/20003, /*type*/0, /*next_detail_id*/4346);
 INSERT INTO `cookie_swap_story_detail` VALUES (/*id*/4346, /*campaign_id*/20003, /*type*/0, /*next_detail_id*/4347);
 INSERT INTO `cookie_swap_story_detail` VALUES (/*id*/4347, /*campaign_id*/20003, /*type*/2, /*next_detail_id*/0);
+INSERT INTO `cookie_swap_story_detail` VALUES (/*id*/4942, /*campaign_id*/20004, /*type*/1, /*next_detail_id*/0);
+INSERT INTO `cookie_swap_story_detail` VALUES (/*id*/4943, /*campaign_id*/20004, /*type*/0, /*next_detail_id*/4944);
+INSERT INTO `cookie_swap_story_detail` VALUES (/*id*/4944, /*campaign_id*/20004, /*type*/0, /*next_detail_id*/4945);
+INSERT INTO `cookie_swap_story_detail` VALUES (/*id*/4945, /*campaign_id*/20004, /*type*/0, /*next_detail_id*/4946);
+INSERT INTO `cookie_swap_story_detail` VALUES (/*id*/4946, /*campaign_id*/20004, /*type*/0, /*next_detail_id*/4947);
+INSERT INTO `cookie_swap_story_detail` VALUES (/*id*/4947, /*campaign_id*/20004, /*type*/0, /*next_detail_id*/4948);
+INSERT INTO `cookie_swap_story_detail` VALUES (/*id*/4948, /*campaign_id*/20004, /*type*/0, /*next_detail_id*/4949);
+INSERT INTO `cookie_swap_story_detail` VALUES (/*id*/4949, /*campaign_id*/20004, /*type*/2, /*next_detail_id*/0);

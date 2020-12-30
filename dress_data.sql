@@ -15,6 +15,7 @@ INSERT INTO `dress_data` VALUES (/*id*/13, /*name*/"クリスタルナイトパ�
 INSERT INTO `dress_data` VALUES (/*id*/15, /*name*/"Go To Paradise", /*description*/"楽園を満喫するためのドレス。\nステージは爽やかな青空と白い雲のように、\nリゾートでの姿は、地上で輝く太陽のよう。\n2つの着回しで、アイドルも遊びも楽しもう。", /*open_type*/2, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/16, /*name*/"Go To Paradise/リゾート", /*description*/"楽園を満喫するためのドレス。\nステージは爽やかな青空と白い雲のように、\nリゾートでの姿は、地上で輝く太陽のよう。\n2つの着回しで、アイドルも遊びも楽しもう。", /*open_type*/2, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/17, /*name*/"ネクスト・フロンティア／コーデ", /*description*/"パーツごとにカラーを変更できる\nドレスコーデ対応衣装になります。", /*open_type*/2, /*dress_type*/2);
+INSERT INTO `dress_data` VALUES (/*id*/18, /*name*/"ハピネス・エール", /*description*/"みんなの幸せを願う、少女たちの衣装。\n新しい時代は、すぐそこまで来ている。\n次の扉をアイドルと一緒に開いて、\n笑顔溢れる毎日にしよう。", /*open_type*/4, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/100, /*name*/"SSレア衣装", /*description*/"", /*open_type*/1, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/201, /*name*/"Sレア衣装", /*description*/"", /*open_type*/0, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/202, /*name*/"レア衣装", /*description*/"", /*open_type*/0, /*dress_type*/3);

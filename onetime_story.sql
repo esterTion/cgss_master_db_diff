@@ -60,4 +60,6 @@ INSERT INTO `onetime_story` VALUES (/*id*/63, /*name*/"『プライスレス ド
 INSERT INTO `onetime_story` VALUES (/*id*/64, /*name*/"Live Before ～9th anniversary memorial party 編～", /*story_id*/5069, /*transition*/6, /*page_index*/0, /*start_date*/"2020-11-25 15:00:00", /*end_date*/"2020-11-28 18:59:59", /*play_order*/740, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/65, /*name*/"『思い出じゃない今日を』登場 !", /*story_id*/5091, /*transition*/0, /*page_index*/0, /*start_date*/"2020-12-29 15:00:00", /*end_date*/"2021-01-05 14:59:59", /*play_order*/741, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/66, /*name*/"オールスターカウントダウンLIVE予告", /*story_id*/4942, /*transition*/6, /*page_index*/0, /*start_date*/"2020-12-29 15:00:00", /*end_date*/"2020-12-30 23:59:59", /*play_order*/742, /*notice_type*/2);
+INSERT INTO `onetime_story` VALUES (/*id*/67, /*name*/"オールスターカウントダウンLIVEオープニング", /*story_id*/4943, /*transition*/6, /*page_index*/0, /*start_date*/"2020-12-31 00:00:00", /*end_date*/"2020-12-31 05:59:59", /*play_order*/743, /*notice_type*/2);
+INSERT INTO `onetime_story` VALUES (/*id*/68, /*name*/"オールスターカウントダウンLIVEエンディング", /*story_id*/4949, /*transition*/6, /*page_index*/0, /*start_date*/"2021-01-01 00:00:00", /*end_date*/"2021-01-01 11:59:59", /*play_order*/744, /*notice_type*/2);
 CREATE INDEX 'onetime_story_0_story_id' on 'onetime_story'('story_id');
