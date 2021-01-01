@@ -1,10 +1,10 @@
 CREATE TABLE 'carnival_reward_rank_cenere' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'rank' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_value' INTEGER NOT NULL, 'add_value_1' INTEGER NOT NULL, 'add_value_2' INTEGER NOT NULL, 'add_value_3' INTEGER NOT NULL, PRIMARY KEY('id'));
-INSERT INTO `carnival_reward_rank_cenere` VALUES (/*id*/1, /*event_id*/7005, /*rank*/2, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
-INSERT INTO `carnival_reward_rank_cenere` VALUES (/*id*/2, /*event_id*/7005, /*rank*/3, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
-INSERT INTO `carnival_reward_rank_cenere` VALUES (/*id*/3, /*event_id*/7005, /*rank*/4, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
-INSERT INTO `carnival_reward_rank_cenere` VALUES (/*id*/4, /*event_id*/7005, /*rank*/5, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
-INSERT INTO `carnival_reward_rank_cenere` VALUES (/*id*/5, /*event_id*/7005, /*rank*/6, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
-INSERT INTO `carnival_reward_rank_cenere` VALUES (/*id*/6, /*event_id*/7005, /*rank*/7, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
-INSERT INTO `carnival_reward_rank_cenere` VALUES (/*id*/7, /*event_id*/7005, /*rank*/8, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
-INSERT INTO `carnival_reward_rank_cenere` VALUES (/*id*/8, /*event_id*/7005, /*rank*/9, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_cenere` VALUES (/*id*/1, /*event_id*/7006, /*rank*/2, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_cenere` VALUES (/*id*/2, /*event_id*/7006, /*rank*/3, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_cenere` VALUES (/*id*/3, /*event_id*/7006, /*rank*/4, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_cenere` VALUES (/*id*/4, /*event_id*/7006, /*rank*/5, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_cenere` VALUES (/*id*/5, /*event_id*/7006, /*rank*/6, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_cenere` VALUES (/*id*/6, /*event_id*/7006, /*rank*/7, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_cenere` VALUES (/*id*/7, /*event_id*/7006, /*rank*/8, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_cenere` VALUES (/*id*/8, /*event_id*/7006, /*rank*/9, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 CREATE INDEX 'carnival_reward_rank_cenere_0_event_id' on 'carnival_reward_rank_cenere'('event_id');
