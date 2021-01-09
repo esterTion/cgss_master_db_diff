@@ -214,3 +214,4 @@ INSERT INTO `gift_message` VALUES (/*id*/20055, /*discription*/"「アイドル�
 INSERT INTO `gift_message` VALUES (/*id*/20056, /*discription*/"「キッコーマン豆乳コラボ」開催記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20057, /*discription*/"「カムバックSレアスカウトチケット」追加記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20058, /*discription*/"「ゆくM@S くるM@S 2020」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20059, /*discription*/"「新年LIVE連動キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
