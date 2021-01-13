@@ -427,3 +427,4 @@ INSERT INTO `story_category` VALUES (/*id*/452, /*type*/4, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/453, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Snow＊Love", /*sub_title*/"Snow＊Love", /*disp_order*/141);
 INSERT INTO `story_category` VALUES (/*id*/454, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Wish you Happiness!!", /*sub_title*/"Wish you Happiness!!", /*disp_order*/142);
 INSERT INTO `story_category` VALUES (/*id*/455, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"Happy New Yell ! ! ! 連動企画", /*sub_title*/"Happy New Yell ! ! ! 連動企画", /*disp_order*/21);
+INSERT INTO `story_category` VALUES (/*id*/456, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"北川真尋 / 古賀小春", /*sub_title*/"北川真尋 / 古賀小春", /*disp_order*/143);
