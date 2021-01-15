@@ -1753,6 +1753,8 @@ INSERT INTO `card_reward_detail` VALUES (/*id*/200941, /*reward_type*/2);
 INSERT INTO `card_reward_detail` VALUES (/*id*/200942, /*reward_type*/2);
 INSERT INTO `card_reward_detail` VALUES (/*id*/200943, /*reward_type*/2);
 INSERT INTO `card_reward_detail` VALUES (/*id*/200944, /*reward_type*/2);
+INSERT INTO `card_reward_detail` VALUES (/*id*/200945, /*reward_type*/6);
+INSERT INTO `card_reward_detail` VALUES (/*id*/200946, /*reward_type*/6);
 INSERT INTO `card_reward_detail` VALUES (/*id*/200947, /*reward_type*/5);
 INSERT INTO `card_reward_detail` VALUES (/*id*/200948, /*reward_type*/5);
 INSERT INTO `card_reward_detail` VALUES (/*id*/200949, /*reward_type*/3);
