@@ -2137,7 +2137,7 @@ INSERT INTO `text_data` VALUES (/*category*/38, /*index*/4, /*text*/"ゲーム�
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/5, /*text*/"交換{0}数は毎日更新");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/6, /*text*/"交換{0}数は毎週更新");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/7, /*text*/"交換{0}数は毎月更新");
-INSERT INTO `text_data` VALUES (/*category*/38, /*index*/8, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/38, /*index*/8, /*text*/"コミュ再生");
 INSERT INTO `text_data` VALUES (/*category*/39, /*index*/1, /*text*/"楽曲購入");
 INSERT INTO `text_data` VALUES (/*category*/39, /*index*/2, /*text*/"確認");
 INSERT INTO `text_data` VALUES (/*category*/39, /*index*/3, /*text*/"外部サイトへ接続します。\n楽曲配信情報サイトへ移動してもよろしいですか？");

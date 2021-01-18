@@ -47,6 +47,7 @@ INSERT INTO `dress_data` VALUES (/*id*/7023000, /*name*/"セーシュン・チ�
 INSERT INTO `dress_data` VALUES (/*id*/7024000, /*name*/"プレイ・イット・アンサー", /*description*/"嵐を巻き起こす少女たちのドレス。\n個性と個性がぶつかり合い、やがてひとつの\n形となる。だが、それが唯一の答えではない。\n無限の答えが、少女たちの前に広がっている。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7025000, /*name*/"セクシー・フォー・ジャスティス", /*description*/"ギルティを許さない少女たちのドレス。\nギルティあるところに姿あり、姿あるところに\nセクシーあり ! この世の悪事にお仕置きを !\n行け行け、セクシーギルティ !", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7026000, /*name*/"マイディア・ドリーム", /*description*/"夢を見続ける、少女たちのドレス。\n輝きたい気持ちを持ち続ける限り、\nアイドルの物語が終わることはない。\nいつまでもどこまでも、夢は続いていく。", /*open_type*/3, /*dress_type*/0);
+INSERT INTO `dress_data` VALUES (/*id*/7027000, /*name*/"スターリー・フューチャーズ", /*description*/"未来に向かって星のように輝き続ける\nアイドルたちの特別な衣装。\nさあ笑って、\n「これからも、アイドル ! ! ! ! ! 」", /*open_type*/6, /*dress_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/7028000, /*name*/"メイク・マイ・スマイル", /*description*/"笑顔をみんなに届ける、少女たちのドレス。\n変わりたいと願うのは、憧れがあるから。\n昨日までの自分から受け取ったバトンが、\n明日からもっと輝く自分にしてくれる。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7029000, /*name*/"トリニティ・スパークル", /*description*/"磨かれることで輝きを増す少女たちのドレス。\n仲間でライバルだから、譲れない想いがある。\n見ている方向はそれぞれ違っていても、\n本気のぶつかり合いは、頂へと到達する。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7030000, /*name*/"パレット・カラー・ステアー", /*description*/"ときめく未来を描く、少女たちのドレス。\n目の前に広がる真っ白なキャンバスに、\nどんな未来を彩っていくのかは自分次第。\n夢を信じながら、少女たちは階段を上がる。", /*open_type*/5, /*dress_type*/3);
