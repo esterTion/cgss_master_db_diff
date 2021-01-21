@@ -1104,3 +1104,10 @@ INSERT INTO `card_location` VALUES (/*index*/1117, /*text*/"アパレルショ�
 INSERT INTO `card_location` VALUES (/*index*/1118, /*text*/"舞台・公演中");
 INSERT INTO `card_location` VALUES (/*index*/1119, /*text*/"南紀白浜");
 INSERT INTO `card_location` VALUES (/*index*/1120, /*text*/"聖堂・バラ窓");
+INSERT INTO `card_location` VALUES (/*index*/1121, /*text*/"夜のジャズバー");
+INSERT INTO `card_location` VALUES (/*index*/1122, /*text*/"バーレスクの控室風セット");
+INSERT INTO `card_location` VALUES (/*index*/1123, /*text*/"和室の撮影スタジオ");
+INSERT INTO `card_location` VALUES (/*index*/1124, /*text*/"グラウンド");
+INSERT INTO `card_location` VALUES (/*index*/1125, /*text*/"海の見える灯台");
+INSERT INTO `card_location` VALUES (/*index*/1126, /*text*/"被服室");
+INSERT INTO `card_location` VALUES (/*index*/1127, /*text*/"屋上");
