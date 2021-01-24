@@ -1111,3 +1111,4 @@ INSERT INTO `card_location` VALUES (/*index*/1124, /*text*/"グラウンド");
 INSERT INTO `card_location` VALUES (/*index*/1125, /*text*/"海の見える灯台");
 INSERT INTO `card_location` VALUES (/*index*/1126, /*text*/"被服室");
 INSERT INTO `card_location` VALUES (/*index*/1127, /*text*/"屋上");
+INSERT INTO `card_location` VALUES (/*index*/1128, /*text*/"雪まつりLIVEステージ");

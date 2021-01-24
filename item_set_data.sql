@@ -65,4 +65,8 @@ INSERT INTO `item_set_data` VALUES (/*id*/66, /*set_item_id*/4305, /*reward_type
 INSERT INTO `item_set_data` VALUES (/*id*/67, /*set_item_id*/4305, /*reward_type*/5, /*content_item_id*/30005, /*content_item_num*/10, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `item_set_data` VALUES (/*id*/68, /*set_item_id*/4305, /*reward_type*/5, /*content_item_id*/30006, /*content_item_num*/3, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `item_set_data` VALUES (/*id*/69, /*set_item_id*/4305, /*reward_type*/5, /*content_item_id*/30025, /*content_item_num*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `item_set_data` VALUES (/*id*/70, /*set_item_id*/4405, /*reward_type*/5, /*content_item_id*/30008, /*content_item_num*/10, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `item_set_data` VALUES (/*id*/71, /*set_item_id*/4405, /*reward_type*/5, /*content_item_id*/30009, /*content_item_num*/10, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `item_set_data` VALUES (/*id*/72, /*set_item_id*/4405, /*reward_type*/5, /*content_item_id*/30010, /*content_item_num*/3, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `item_set_data` VALUES (/*id*/73, /*set_item_id*/4405, /*reward_type*/5, /*content_item_id*/30011, /*content_item_num*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 CREATE INDEX 'item_set_data_0_set_item_id' on 'item_set_data'('set_item_id');
