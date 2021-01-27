@@ -36,3 +36,4 @@ INSERT INTO `gallery_stage_list` VALUES (/*id*/37, /*disp_order*/29, /*disp_name
 INSERT INTO `gallery_stage_list` VALUES (/*id*/38, /*disp_order*/30, /*disp_name*/"ステージ Halloween♥Code", /*bg_id*/1008, /*bg_type*/1, /*left_degree*/107, /*right_degree*/107);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/39, /*disp_order*/31, /*disp_name*/"ステージ Nothing but You", /*bg_id*/4026, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/40, /*disp_order*/32, /*disp_name*/"ステージ Happy New Yeah!", /*bg_id*/4036, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/41, /*disp_order*/33, /*disp_name*/"ステージ モーレツ★世直しギルティ !", /*bg_id*/3007, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
