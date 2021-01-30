@@ -56,4 +56,5 @@ INSERT INTO `dress_data` VALUES (/*id*/7032000, /*name*/"花咲舞衣", /*descri
 INSERT INTO `dress_data` VALUES (/*id*/7033000, /*name*/"ファースト・ステップ", /*description*/"踏み出す勇気を知る、少女たちのドレス。\n失敗は怖いし、苦手から逃げ出したくもなる。\nそれでも、チャレンジを諦めたくない。\n勇気を持って、一歩を踏み出そう。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7034000, /*name*/"スキャンダラス・ナイト", /*description*/"ゴシップすら味方にするギャルたちのドレス。\n派手なウワサを着飾ることで、少女はさらに\nセクシーになる。最強のギャルは今日も、\n世界中を振り回していく。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7035000, /*name*/"オタク・マッシグラ", /*description*/"オタク愛を叫ぶ、少女たちのドレス。\n人に理解されないのは、苦しいかもしれない。\nそれでも「好き」を貫くあなたの姿は、\nきっと誰よりも輝いている。", /*open_type*/5, /*dress_type*/3);
+INSERT INTO `dress_data` VALUES (/*id*/7036000, /*name*/"おひさまたより", /*description*/"太陽のようにあたたかい、少女たちのドレス。\n心地よい音が心を撫でていき、ぽかぽかとした\n気持ちにしてくれる。さぁ、想いのままに\n翼を広げて、大空に夢を描きにいこう。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7040000, /*name*/"あなたのトナカイさん", /*description*/"クリスマスをテーマにした、智絵里の衣装。\nモコモコ衣装とトナカイ耳がチャーミング。\nデザインした者の想いがこもっている。", /*open_type*/3, /*dress_type*/3);

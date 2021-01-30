@@ -430,3 +430,4 @@ INSERT INTO `story_category` VALUES (/*id*/455, /*type*/4, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/456, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"北川真尋 / 古賀小春", /*sub_title*/"北川真尋 / 古賀小春", /*disp_order*/143);
 INSERT INTO `story_category` VALUES (/*id*/457, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"アイドルマスター15周年記念企画", /*sub_title*/"アイドルマスター15周年記念企画", /*disp_order*/22);
 INSERT INTO `story_category` VALUES (/*id*/458, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"君のステージ衣装、本当は…", /*sub_title*/"君のステージ衣装、本当は…", /*disp_order*/144);
+INSERT INTO `story_category` VALUES (/*id*/459, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"EVIL LIVE", /*sub_title*/"EVIL LIVE", /*disp_order*/145);
