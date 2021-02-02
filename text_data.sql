@@ -881,6 +881,7 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/145, /*text*/"ここで
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/146, /*text*/"LIVE中にアプリが終了しました。\n途中からLIVEを再開しますか？\n（EXTRA LIVEチケットは消費しません）");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/147, /*text*/"WITCH LIVE確認");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/148, /*text*/"[D64498FF]EX LIVEチケット消費[-]");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/149, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/1, /*text*/"月間獲得ファン数ランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/2, /*text*/"今期のランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/3, /*text*/"前期のランキング");
@@ -2290,6 +2291,12 @@ INSERT INTO `text_data` VALUES (/*category*/42, /*index*/15, /*text*/"2文字以
 INSERT INTO `text_data` VALUES (/*category*/42, /*index*/16, /*text*/"1文字以上入力してください。 ひらがな検索も可能です");
 INSERT INTO `text_data` VALUES (/*category*/42, /*index*/17, /*text*/"有効な文字が2文字以上ありません");
 INSERT INTO `text_data` VALUES (/*category*/42, /*index*/18, /*text*/"有効な文字が1文字以上ありません");
+INSERT INTO `text_data` VALUES (/*category*/42, /*index*/19, /*text*/"コミュ検索");
+INSERT INTO `text_data` VALUES (/*category*/42, /*index*/20, /*text*/"ステータス");
+INSERT INTO `text_data` VALUES (/*category*/42, /*index*/21, /*text*/"カテゴリ");
+INSERT INTO `text_data` VALUES (/*category*/42, /*index*/22, /*text*/"絞り込み");
+INSERT INTO `text_data` VALUES (/*category*/42, /*index*/23, /*text*/"アイドル名検索");
+INSERT INTO `text_data` VALUES (/*category*/42, /*index*/24, /*text*/"キャンセル");
 INSERT INTO `text_data` VALUES (/*category*/43, /*index*/1, /*text*/"ダウンロード管理");
 INSERT INTO `text_data` VALUES (/*category*/43, /*index*/2, /*text*/"楽曲データ");
 INSERT INTO `text_data` VALUES (/*category*/43, /*index*/3, /*text*/"ゲームデータ");

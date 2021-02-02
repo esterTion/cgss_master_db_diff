@@ -1,0 +1,2 @@
+CREATE TABLE 'live_priority_performer' ('id' INTEGER NOT NULL, 'live_data_id' INTEGER NOT NULL, 'grand_mode_flag' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, 'chara_list' TEXT NOT NULL, 'dress_list' TEXT NOT NULL, 'position_list' TEXT NOT NULL, 'chara_all_flag' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE INDEX 'live_priority_performer_0_live_data_id' on 'live_priority_performer'('live_data_id');
