@@ -127,8 +127,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/"ルームアイテムの並べ替えを行うことができます。\n「追加順」、「必要面積順」など並べ替え条件を選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーを\n倉庫収納数から除外しました。\n収納していても、収納数にカウントされなくなりました。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"「豪華絢爛お正月」をテーマにしたアイテムとコーデを追加 !\nきらびやかな和室で、アイドルたちと新しい年を迎えましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"ルームショップにて、「お正月」テーマの\nアイテム、コーデを復刻販売開始 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"「チョコレート工場」をテーマにしたアイテムとコーデを追加 !\nアイドルたちと一緒に、甘いチョコレートを作りましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"ルームショップにて、「バレンタイン」テーマの\nアイテム、コーデを復刻販売開始 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「ローソンコラボキャンペーン」を開催しております !\n期間限定でコラボルームアイテムを販売中です !\n過去のローソンコラボのルームアイテムとコーデも復刻販売中 !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
@@ -674,4 +674,6 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90603, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90604, /*img*/1, /*discription*/"「ボイスアイドルオーディション」が始まりました !\n「ボイスアイドルオーディション」は、\nソーシャルゲーム「アイドルマスター シンデレラガールズ」\nとの合同開催となります。※得票数は各アプリの合算となります");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90604, /*img*/2, /*discription*/"ログインボーナスや期間限定ミッション、\n総選挙応援セットなどで投票券を入手して、\nお気に入りのアイドルに投票しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90604, /*img*/3, /*discription*/"全体順位上位3名のアイドルには、\nキャラクターボイスの追加と、専用の楽曲の制作を行います !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90701, /*img*/1, /*discription*/"ハッピーバレンタインキャンペーン開催 !\n2/14～2/28に特設ページにアクセスすると、\n3名のアイドルから手作りチョコをプレゼント !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90701, /*img*/2, /*discription*/"手作りチョコは、2月14日00:00時点のリーダーアイドルから\n必ず1つもらうことができます。\nその他の2個のチョコがどのアイドルからもらえるか\n当日まで楽しみにお待ちください !");
 CREATE INDEX 'individual_tutorial_0_id' on 'individual_tutorial'('id');
