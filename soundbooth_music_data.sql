@@ -170,3 +170,4 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200121, /*name*/"ダイ�
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200122, /*name*/"さよならアンドロメダ（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/122);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200123, /*name*/"Never ends（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/123);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200124, /*name*/"Snow＊Love（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/124);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200125, /*name*/"Wish you Happiness!!（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/125);

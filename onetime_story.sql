@@ -65,4 +65,5 @@ INSERT INTO `onetime_story` VALUES (/*id*/68, /*name*/"オールスターカウ�
 INSERT INTO `onetime_story` VALUES (/*id*/69, /*name*/"Live Before ～Happy New Yell ! ! ! 編～", /*story_id*/5110, /*transition*/6, /*page_index*/0, /*start_date*/"2021-01-06 15:00:00", /*end_date*/"2021-01-09 17:59:59", /*play_order*/745, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/70, /*name*/"『初夢をあなたと』登場 !", /*story_id*/5124, /*transition*/0, /*page_index*/0, /*start_date*/"2021-01-12 15:00:00", /*end_date*/"2021-01-19 14:59:59", /*play_order*/746, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/71, /*name*/"『なんどでも笑おう』追加のお知らせ", /*story_id*/5125, /*transition*/0, /*page_index*/0, /*start_date*/"2021-01-18 15:00:00", /*end_date*/"2021-01-24 14:59:59", /*play_order*/747, /*notice_type*/2);
+INSERT INTO `onetime_story` VALUES (/*id*/72, /*name*/"『Milky Mode』登場 !", /*story_id*/5162, /*transition*/0, /*page_index*/0, /*start_date*/"2021-02-10 15:00:00", /*end_date*/"2021-02-16 14:59:59", /*play_order*/748, /*notice_type*/2);
 CREATE INDEX 'onetime_story_0_story_id' on 'onetime_story'('story_id');
