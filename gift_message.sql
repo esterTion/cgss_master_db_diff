@@ -69,6 +69,8 @@ INSERT INTO `gift_message` VALUES (/*id*/85, /*discription*/"MIYOSHI QUEST ～�
 INSERT INTO `gift_message` VALUES (/*id*/86, /*discription*/"プライズコイン交換で獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/87, /*discription*/"プレミアムパスの特典で獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/88, /*discription*/"親愛度超過報酬で獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/89, /*discription*/"ミニゲーム「{0}({1})」ランク「{2}」達成報酬です。", /*type_1*/39, /*type_2*/40, /*type_3*/41, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/90, /*discription*/"ミニゲーム「{0}({1})」ランク「{2}」で加入したアイドルです。", /*type_1*/39, /*type_2*/40, /*type_3*/41, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/91, /*discription*/"{0}からのプレゼントです。", /*type_1*/31, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1001, /*discription*/"イベント「{0}」{1}イベントpt達成報酬です。", /*type_1*/19, /*type_2*/20, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1002, /*discription*/"イベント「{0}」ポイントランキング{1}位～{2}位で獲得した報酬です。", /*type_1*/19, /*type_2*/21, /*type_3*/22, /*type_4*/0);

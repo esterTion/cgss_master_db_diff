@@ -1,1 +1,16 @@
 CREATE TABLE 'sweets_food_menu' ('food_menu_id' INTEGER NOT NULL, 'restaurant_id' INTEGER NOT NULL, 'menu_kind' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'unit_score' INTEGER NOT NULL, 'tp_unit_score' INTEGER NOT NULL, PRIMARY KEY('food_menu_id'));
+INSERT INTO `sweets_food_menu` VALUES (/*food_menu_id*/1, /*restaurant_id*/1, /*menu_kind*/1, /*name*/"ショートケーキ", /*unit_score*/200, /*tp_unit_score*/75);
+INSERT INTO `sweets_food_menu` VALUES (/*food_menu_id*/2, /*restaurant_id*/1, /*menu_kind*/2, /*name*/"アップルパイ", /*unit_score*/100, /*tp_unit_score*/50);
+INSERT INTO `sweets_food_menu` VALUES (/*food_menu_id*/3, /*restaurant_id*/1, /*menu_kind*/3, /*name*/"紅茶", /*unit_score*/70, /*tp_unit_score*/0);
+INSERT INTO `sweets_food_menu` VALUES (/*food_menu_id*/11, /*restaurant_id*/2, /*menu_kind*/1, /*name*/"ドーナツ", /*unit_score*/200, /*tp_unit_score*/75);
+INSERT INTO `sweets_food_menu` VALUES (/*food_menu_id*/12, /*restaurant_id*/2, /*menu_kind*/2, /*name*/"穴無しドーナツ", /*unit_score*/100, /*tp_unit_score*/50);
+INSERT INTO `sweets_food_menu` VALUES (/*food_menu_id*/13, /*restaurant_id*/2, /*menu_kind*/3, /*name*/"イチゴミルク", /*unit_score*/70, /*tp_unit_score*/0);
+INSERT INTO `sweets_food_menu` VALUES (/*food_menu_id*/21, /*restaurant_id*/3, /*menu_kind*/1, /*name*/"パフェ", /*unit_score*/200, /*tp_unit_score*/75);
+INSERT INTO `sweets_food_menu` VALUES (/*food_menu_id*/22, /*restaurant_id*/3, /*menu_kind*/2, /*name*/"ジャンボパフェ", /*unit_score*/100, /*tp_unit_score*/50);
+INSERT INTO `sweets_food_menu` VALUES (/*food_menu_id*/23, /*restaurant_id*/3, /*menu_kind*/3, /*name*/"コーヒー", /*unit_score*/70, /*tp_unit_score*/0);
+INSERT INTO `sweets_food_menu` VALUES (/*food_menu_id*/31, /*restaurant_id*/4, /*menu_kind*/1, /*name*/"パンケーキ", /*unit_score*/200, /*tp_unit_score*/75);
+INSERT INTO `sweets_food_menu` VALUES (/*food_menu_id*/32, /*restaurant_id*/4, /*menu_kind*/2, /*name*/"ワッフル", /*unit_score*/100, /*tp_unit_score*/50);
+INSERT INTO `sweets_food_menu` VALUES (/*food_menu_id*/33, /*restaurant_id*/4, /*menu_kind*/3, /*name*/"カシスシャーベット", /*unit_score*/70, /*tp_unit_score*/0);
+INSERT INTO `sweets_food_menu` VALUES (/*food_menu_id*/41, /*restaurant_id*/5, /*menu_kind*/1, /*name*/"生チョコ", /*unit_score*/200, /*tp_unit_score*/75);
+INSERT INTO `sweets_food_menu` VALUES (/*food_menu_id*/42, /*restaurant_id*/5, /*menu_kind*/2, /*name*/"レモンタルト", /*unit_score*/100, /*tp_unit_score*/50);
+INSERT INTO `sweets_food_menu` VALUES (/*food_menu_id*/43, /*restaurant_id*/5, /*menu_kind*/3, /*name*/"オレンジジュース", /*unit_score*/70, /*tp_unit_score*/0);

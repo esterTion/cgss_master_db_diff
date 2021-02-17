@@ -179,6 +179,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/21004, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/21005, /*img*/1, /*discription*/"タップでブロックを開けながらゴールを目指そう ! \nアイドルたちの持っているスキルで、ゲームを有利に進められるよ ! \n罠を回避しつつ、ゴールに辿り着こう。\nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21005, /*img*/1, /*discription*/"「ステージ」「クリアタイム」\n「行動不能になっていないアイドルの人数」\n「使用したスキルの種類の多さ」によって、スコアは決まるよ !\n上手にアイドルを導いて、ハイスコアを狙おう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21006, /*img*/1, /*discription*/"デッキを編成してLIVE対戦 ! \nアイドルたちの持っている特技やシナジーで、\nLIVE会場を沸かせよう ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ ! ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/21007, /*img*/1, /*discription*/"タップでスイーツを作って来店したアイドルへ提供しよう !\nスイーツづくりにはいくつかの手順があるよ !\n手際よく、アイドルを待たせないようにしよう。\nスコアに応じて、獲得できるゲームメダルの枚数がアップ !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/21007, /*img*/1, /*discription*/"なるべく早く提供できるほどスコアがアップ !\nさらにコンボを決めたり狙ったタイミングでタップをすると\nスコアにボーナスが付くよ !\n手順を間違えずにハイスコアを狙おう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/22001, /*img*/1, /*discription*/"ゲームセンターでは、ミニゲームを遊ぶことで、\n「ゲームメダル」が獲得できます。\n「ゲームメダル」を集めると、\nアイテム交換所で景品と交換できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEでは、ミュージックセレクタ右上の動作設定ボタンから\nLIVEの背景演出を変更することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEプレイ中のSE再生設定もここから変更できます。\nSEをオフにすることで、動作が軽くなる場合があります。");

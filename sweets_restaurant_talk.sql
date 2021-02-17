@@ -1,1 +1,16 @@
 CREATE TABLE 'sweets_restaurant_talk' ('talk_id' INTEGER NOT NULL, 'restaurant_id' INTEGER NOT NULL, 'talk_text' TEXT NOT NULL, PRIMARY KEY('talk_id'));
+INSERT INTO `sweets_restaurant_talk` VALUES (/*talk_id*/1, /*restaurant_id*/1, /*talk_text*/"パティスリーアイリ、開店です♪一緒にがんばりましょうね♪");
+INSERT INTO `sweets_restaurant_talk` VALUES (/*talk_id*/2, /*restaurant_id*/1, /*talk_text*/"ケーキ作りなら任せてください♪これでも、けっこう自信あるんですよ♪");
+INSERT INTO `sweets_restaurant_talk` VALUES (/*talk_id*/3, /*restaurant_id*/1, /*talk_text*/"ちょっとだけ忙しいですけど、なんだか学園祭みたいで楽しいですね～");
+INSERT INTO `sweets_restaurant_talk` VALUES (/*talk_id*/4, /*restaurant_id*/2, /*talk_text*/"みんなに、ドーナツの魅力を伝えたいな♪ドーナツパワーでがんばろうねっ !");
+INSERT INTO `sweets_restaurant_talk` VALUES (/*talk_id*/5, /*restaurant_id*/2, /*talk_text*/"えへへっ♪ドーナツを作ってると、楽しい気持ちになるよね～♪");
+INSERT INTO `sweets_restaurant_talk` VALUES (/*talk_id*/6, /*restaurant_id*/2, /*talk_text*/"たくさんの人に食べてもらって、幸せの輪、いっぱい広げようね !");
+INSERT INTO `sweets_restaurant_talk` VALUES (/*talk_id*/7, /*restaurant_id*/3, /*talk_text*/"お客さんが増えたときは、腕の見せどころですね ! がんばりましょうっ !");
+INSERT INTO `sweets_restaurant_talk` VALUES (/*talk_id*/8, /*restaurant_id*/3, /*talk_text*/"手早く、豪華に、丁寧に ! パフェ作りを極めちゃいましょうっ !");
+INSERT INTO `sweets_restaurant_talk` VALUES (/*talk_id*/9, /*restaurant_id*/3, /*talk_text*/"ふふっ。なんだかこうしてると、アイドルになる前を思い出しますね♪");
+INSERT INTO `sweets_restaurant_talk` VALUES (/*talk_id*/10, /*restaurant_id*/4, /*talk_text*/"ぼうっとせずに、てきぱき\nがんばらなきゃですね～。\nてきぱきてきぱき～♪");
+INSERT INTO `sweets_restaurant_talk` VALUES (/*talk_id*/11, /*restaurant_id*/4, /*talk_text*/"ハチミツはたっぷりがいいですよね～。なるべく甘いほうがいいですから～");
+INSERT INTO `sweets_restaurant_talk` VALUES (/*talk_id*/12, /*restaurant_id*/4, /*talk_text*/"あま～いもので、きてくれた人にもあまあまな気持ちになってほしいです～");
+INSERT INTO `sweets_restaurant_talk` VALUES (/*talk_id*/13, /*restaurant_id*/5, /*talk_text*/"お客さんみんなを、あまーいショコラの魔法にかけちゃいましょう♪");
+INSERT INTO `sweets_restaurant_talk` VALUES (/*talk_id*/14, /*restaurant_id*/5, /*talk_text*/"とろける生チョコを作りましょう ! 混ぜる工程がポイントですよ♪");
+INSERT INTO `sweets_restaurant_talk` VALUES (/*talk_id*/15, /*restaurant_id*/5, /*talk_text*/"みんなを笑顔にできるの\nは、アイドルもお菓子も\n一緒ですよね !");

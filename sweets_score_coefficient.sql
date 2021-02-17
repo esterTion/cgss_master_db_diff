@@ -1,1 +1,2 @@
 CREATE TABLE 'sweets_score_coefficient' ('score_coefficient_id' INTEGER NOT NULL, 'order_price' INTEGER NOT NULL, 'rest_wait_sec' INTEGER NOT NULL, 'combo' INTEGER NOT NULL, 'disposal' INTEGER NOT NULL, 'just_time_bonus' INTEGER NOT NULL, PRIMARY KEY('score_coefficient_id'));
+INSERT INTO `sweets_score_coefficient` VALUES (/*score_coefficient_id*/1, /*order_price*/1, /*rest_wait_sec*/1, /*combo*/10, /*disposal*/500, /*just_time_bonus*/10);

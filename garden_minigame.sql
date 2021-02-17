@@ -13,5 +13,10 @@ INSERT INTO `garden_minigame` VALUES (/*minigame_id*/11, /*ranking_type*/1, /*pa
 INSERT INTO `garden_minigame` VALUES (/*minigame_id*/12, /*ranking_type*/1, /*package_id*/7, /*sort_order*/3, /*need_cost*/0, /*result_resource_id*/7, /*title*/"シャドウ双葉杏", /*explain*/"シャドウ双葉杏");
 INSERT INTO `garden_minigame` VALUES (/*minigame_id*/13, /*ranking_type*/1, /*package_id*/7, /*sort_order*/4, /*need_cost*/0, /*result_resource_id*/7, /*title*/"シャドウ三好紗南", /*explain*/"シャドウ三好紗南");
 INSERT INTO `garden_minigame` VALUES (/*minigame_id*/14, /*ranking_type*/1, /*package_id*/7, /*sort_order*/5, /*need_cost*/0, /*result_resource_id*/7, /*title*/"EXモード", /*explain*/"EXモード");
+INSERT INTO `garden_minigame` VALUES (/*minigame_id*/15, /*ranking_type*/1, /*package_id*/8, /*sort_order*/1, /*need_cost*/0, /*result_resource_id*/8, /*title*/"Patisserie Airi", /*explain*/"Patisserie Airi");
+INSERT INTO `garden_minigame` VALUES (/*minigame_id*/16, /*ranking_type*/1, /*package_id*/8, /*sort_order*/2, /*need_cost*/0, /*result_resource_id*/8, /*title*/"Donuts Friends", /*explain*/"Donuts Friends");
+INSERT INTO `garden_minigame` VALUES (/*minigame_id*/17, /*ranking_type*/1, /*package_id*/8, /*sort_order*/3, /*need_cost*/0, /*result_resource_id*/8, /*title*/"Parfait Paradise", /*explain*/"Parfait Paradise");
+INSERT INTO `garden_minigame` VALUES (/*minigame_id*/18, /*ranking_type*/1, /*package_id*/8, /*sort_order*/4, /*need_cost*/0, /*result_resource_id*/8, /*title*/"Sweet Sweet Pancake", /*explain*/"Sweet Sweet Pancake");
+INSERT INTO `garden_minigame` VALUES (/*minigame_id*/19, /*ranking_type*/1, /*package_id*/8, /*sort_order*/5, /*need_cost*/0, /*result_resource_id*/8, /*title*/"Chocolat de Kanako", /*explain*/"Chocolat de Kanako");
 CREATE INDEX 'garden_minigame_0_package_id' on 'garden_minigame'('package_id');
 CREATE INDEX 'garden_minigame_0_package_id_1_sort_order' on 'garden_minigame'('package_id','sort_order');
