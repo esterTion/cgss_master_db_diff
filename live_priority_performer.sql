@@ -1,2 +1,4 @@
 CREATE TABLE 'live_priority_performer' ('id' INTEGER NOT NULL, 'live_data_id' INTEGER NOT NULL, 'grand_mode_flag' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, 'chara_list' TEXT NOT NULL, 'dress_list' TEXT NOT NULL, 'position_list' TEXT NOT NULL, 'chara_all_flag' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `live_priority_performer` VALUES (/*id*/1, /*live_data_id*/632, /*grand_mode_flag*/0, /*start_date*/"2021-02-18 15:00:00", /*end_date*/"2021-02-25 20:59:59", /*chara_list*/"313,314", /*dress_list*/"200963,300929", /*position_list*/"1,3", /*chara_all_flag*/0);
+INSERT INTO `live_priority_performer` VALUES (/*id*/2, /*live_data_id*/316, /*grand_mode_flag*/0, /*start_date*/"2021-02-18 15:00:00", /*end_date*/"2021-02-25 23:59:59", /*chara_list*/"314,313", /*dress_list*/"300929,200963", /*position_list*/"1,2", /*chara_all_flag*/5);
 CREATE INDEX 'live_priority_performer_0_live_data_id' on 'live_priority_performer'('live_data_id');

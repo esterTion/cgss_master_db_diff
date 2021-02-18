@@ -158,8 +158,8 @@ INSERT INTO `text_data` VALUES (/*category*/7, /*index*/10, /*text*/"到達pt報
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/11, /*text*/"達成pt報酬");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/12, /*text*/"イベントpt\nランキング報酬");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/13, /*text*/"ハイスコア\nランキング報酬");
-INSERT INTO `text_data` VALUES (/*category*/7, /*index*/14, /*text*/"ヒメ琴消費数選択");
-INSERT INTO `text_data` VALUES (/*category*/7, /*index*/15, /*text*/"　 ヒメ琴の消費数が多いほど\nイベントptもより多く獲得できます。");
+INSERT INTO `text_data` VALUES (/*category*/7, /*index*/14, /*text*/"D/Zealエンブレム消費数選択");
+INSERT INTO `text_data` VALUES (/*category*/7, /*index*/15, /*text*/"　 D/Zealエンブレムの消費数が多いほど\nイベントptもより多く獲得できます。");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/16, /*text*/"1倍");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/17, /*text*/"2倍");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/18, /*text*/"4倍");
@@ -201,11 +201,11 @@ INSERT INTO `text_data` VALUES (/*category*/7, /*index*/53, /*text*/"[FFFFFF]ス
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/54, /*text*/"<color=#2D2D2DFF>スタージュエル</color> <color=#D33D98FF>{0}</color><color=#2D2D2DFF>個</color>");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/55, /*text*/"[D33D98]{0}[-]友情pt");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/56, /*text*/"<color=#D33D98FF>{0}</color><color=#2D2D2DFF>友情pt</color>");
-INSERT INTO `text_data` VALUES (/*category*/7, /*index*/57, /*text*/"所持ヒメ琴が不足しています。\n通常楽曲をプレイして\nヒメ琴を集めましょう。");
+INSERT INTO `text_data` VALUES (/*category*/7, /*index*/57, /*text*/"所持D/Zealエンブレムが不足しています。\n通常楽曲をプレイして\nD/Zealエンブレムを集めましょう。");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/58, /*text*/"[FF7A7A]イベント曲はスタミナを消費せずに\nプレイする事ができます。[-]");
-INSERT INTO `text_data` VALUES (/*category*/7, /*index*/59, /*text*/"ヒメ琴不足");
+INSERT INTO `text_data` VALUES (/*category*/7, /*index*/59, /*text*/"D/Zealエンブレム不足");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/60, /*text*/"{0}倍");
-INSERT INTO `text_data` VALUES (/*category*/7, /*index*/61, /*text*/"[FF7A7A]　ヒメ琴の消費数が多い程[-]");
+INSERT INTO `text_data` VALUES (/*category*/7, /*index*/61, /*text*/"[FF7A7A]　D/Zealエンブレムの消費数が多い程[-]");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/62, /*text*/"[FF7A7A]イベントptもより多く獲得できます。[-]");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/63, /*text*/"[D33D98]{0}[-]個");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/64, /*text*/"");
@@ -222,12 +222,12 @@ INSERT INTO `text_data` VALUES (/*category*/7, /*index*/74, /*text*/"イベン�
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/75, /*text*/"[FFFFFF]{0}\n先行プレイ権[-]");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/76, /*text*/"<color=#2D2D2DFF>{0}\n先行プレイ権</color>");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/77, /*text*/"[FF7A7A]スタミナの消費量が多いほど");
-INSERT INTO `text_data` VALUES (/*category*/7, /*index*/78, /*text*/"[FF7A7A]ヒメ琴が多く獲得できます。");
+INSERT INTO `text_data` VALUES (/*category*/7, /*index*/78, /*text*/"[FF7A7A]D/Zealエンブレムが多く獲得できます。");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/79, /*text*/"{0:F1}倍");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/80, /*text*/"{0}[E13939](-{1})[-]");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/81, /*text*/"イベント参加ボーナス獲得 !");
-INSERT INTO `text_data` VALUES (/*category*/7, /*index*/82, /*text*/"獲得ヒメ琴");
-INSERT INTO `text_data` VALUES (/*category*/7, /*index*/83, /*text*/"所持ヒメ琴");
+INSERT INTO `text_data` VALUES (/*category*/7, /*index*/82, /*text*/"獲得エンブレム");
+INSERT INTO `text_data` VALUES (/*category*/7, /*index*/83, /*text*/"所持エンブレム");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/84, /*text*/"獲得イベントpt");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/85, /*text*/"累計イベントpt");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/86, /*text*/"次の報酬まで");
@@ -881,7 +881,10 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/145, /*text*/"ここで
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/146, /*text*/"LIVE中にアプリが終了しました。\n途中からLIVEを再開しますか？\n（EXTRA LIVEチケットは消費しません）");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/147, /*text*/"WITCH LIVE確認");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/148, /*text*/"[D64498FF]EX LIVEチケット消費[-]");
-INSERT INTO `text_data` VALUES (/*category*/14, /*index*/149, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/149, /*text*/"楽器ver");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/150, /*text*/"コラボ\nver");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/151, /*text*/"コラボVer");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/152, /*text*/"コラボver");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/1, /*text*/"月間獲得ファン数ランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/2, /*text*/"今期のランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/3, /*text*/"前期のランキング");
@@ -2252,6 +2255,7 @@ INSERT INTO `text_data` VALUES (/*category*/40, /*index*/106, /*text*/"[D33D98]{
 INSERT INTO `text_data` VALUES (/*category*/40, /*index*/107, /*text*/"コーデ\nメモ");
 INSERT INTO `text_data` VALUES (/*category*/40, /*index*/108, /*text*/"セット名変更");
 INSERT INTO `text_data` VALUES (/*category*/40, /*index*/109, /*text*/"セット名を入力してください");
+INSERT INTO `text_data` VALUES (/*category*/40, /*index*/110, /*text*/"着用できる衣装はありません");
 INSERT INTO `text_data` VALUES (/*category*/41, /*index*/1, /*text*/"北東");
 INSERT INTO `text_data` VALUES (/*category*/41, /*index*/2, /*text*/"首都");
 INSERT INTO `text_data` VALUES (/*category*/41, /*index*/3, /*text*/"中央");
@@ -2297,6 +2301,7 @@ INSERT INTO `text_data` VALUES (/*category*/42, /*index*/21, /*text*/"カテゴ�
 INSERT INTO `text_data` VALUES (/*category*/42, /*index*/22, /*text*/"絞り込み");
 INSERT INTO `text_data` VALUES (/*category*/42, /*index*/23, /*text*/"アイドル名検索");
 INSERT INTO `text_data` VALUES (/*category*/42, /*index*/24, /*text*/"キャンセル");
+INSERT INTO `text_data` VALUES (/*category*/42, /*index*/25, /*text*/"現在、公開されているコミュはありません");
 INSERT INTO `text_data` VALUES (/*category*/43, /*index*/1, /*text*/"ダウンロード管理");
 INSERT INTO `text_data` VALUES (/*category*/43, /*index*/2, /*text*/"楽曲データ");
 INSERT INTO `text_data` VALUES (/*category*/43, /*index*/3, /*text*/"ゲームデータ");
@@ -2402,6 +2407,7 @@ INSERT INTO `text_data` VALUES (/*category*/46, /*index*/45, /*text*/"字幕表�
 INSERT INTO `text_data` VALUES (/*category*/46, /*index*/46, /*text*/"字幕を表示します");
 INSERT INTO `text_data` VALUES (/*category*/47, /*index*/1, /*text*/"特訓演出（プレミアムカットあり）");
 INSERT INTO `text_data` VALUES (/*category*/47, /*index*/2, /*text*/"ガシャ演出（プレミアムカットあり）");
+INSERT INTO `text_data` VALUES (/*category*/47, /*index*/3, /*text*/"該当なし");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/1, /*text*/"開催期間");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/2, /*text*/"{0}～{1}");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/3, /*text*/"所持カーニバルメダル");
