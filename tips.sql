@@ -563,6 +563,13 @@ INSERT INTO `tips` VALUES (/*id*/561, /*tips_type*/1, /*value*/272, /*index*/3, 
 INSERT INTO `tips` VALUES (/*id*/562, /*tips_type*/1, /*value*/111, /*index*/3, /*title*/"小日向美穂のウワサ③", /*comment*/"寝言は大胆らしい。", /*chara_list*/111);
 INSERT INTO `tips` VALUES (/*id*/563, /*tips_type*/1, /*value*/228, /*index*/3, /*title*/"大和亜季のウワサ③", /*comment*/"字幕と吹き替え\nどちらも観る派らしい。", /*chara_list*/228);
 INSERT INTO `tips` VALUES (/*id*/564, /*tips_type*/1, /*value*/300, /*index*/3, /*title*/"イヴ・サンタクロースのウワサ③", /*comment*/"プレゼントを持つと\n身体能力が上がるらしい。", /*chara_list*/300);
+INSERT INTO `tips` VALUES (/*id*/565, /*tips_type*/1, /*value*/304, /*index*/3, /*title*/"辻野あかりのウワサ③", /*comment*/"りんごを手で搾る\nパフォーマンスは\n断念したらしい。", /*chara_list*/304);
+INSERT INTO `tips` VALUES (/*id*/566, /*tips_type*/1, /*value*/305, /*index*/3, /*title*/"砂塚あきらのウワサ③", /*comment*/"#知りたいことは\n#（ハッシュタグ）で\nらしい。", /*chara_list*/305);
+INSERT INTO `tips` VALUES (/*id*/567, /*tips_type*/1, /*value*/306, /*index*/3, /*title*/"夢見りあむのウワサ③", /*comment*/"スマホの画面が\n割れているときは\n心も割れているらしい。", /*chara_list*/306);
+INSERT INTO `tips` VALUES (/*id*/568, /*tips_type*/1, /*value*/307, /*index*/3, /*title*/"黒埼ちとせのウワサ③", /*comment*/"夜目が利くらしい。", /*chara_list*/307);
+INSERT INTO `tips` VALUES (/*id*/569, /*tips_type*/1, /*value*/308, /*index*/3, /*title*/"白雪千夜のウワサ③", /*comment*/"学校では\n保健委員らしい。", /*chara_list*/308);
+INSERT INTO `tips` VALUES (/*id*/570, /*tips_type*/1, /*value*/309, /*index*/3, /*title*/"久川凪のウワサ③", /*comment*/"指の関節が\n柔らかいらしい。", /*chara_list*/309);
+INSERT INTO `tips` VALUES (/*id*/571, /*tips_type*/1, /*value*/310, /*index*/3, /*title*/"久川颯のウワサ③", /*comment*/"サインのデザインは\n時間をかけて考えた\nお気に入りらしい。", /*chara_list*/310);
 INSERT INTO `tips` VALUES (/*id*/20001, /*tips_type*/2, /*value*/1, /*index*/1, /*title*/"スタミナドリンク", /*comment*/"スタミナドリンクを使うと、スタミナを回復できます !", /*chara_list*/"");
 INSERT INTO `tips` VALUES (/*id*/20002, /*tips_type*/2, /*value*/1001, /*index*/1, /*title*/"思い出の鍵", /*comment*/"見逃してしまったイベントコミュ\nや、イベントの予告コミュを\n解放できます !", /*chara_list*/"");
 INSERT INTO `tips` VALUES (/*id*/20003, /*tips_type*/2, /*value*/9001, /*index*/1, /*title*/"特訓アイテム", /*comment*/"アイドルの特訓や、\nポテンシャルの解放に必要なアイテムです !", /*chara_list*/"");

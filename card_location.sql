@@ -1122,4 +1122,8 @@ INSERT INTO `card_location` VALUES (/*index*/1135, /*text*/"ネオン輝くス�
 INSERT INTO `card_location` VALUES (/*index*/1136, /*text*/"湖");
 INSERT INTO `card_location` VALUES (/*index*/1137, /*text*/"合戦場の撮影セット");
 INSERT INTO `card_location` VALUES (/*index*/1138, /*text*/"朝のカフェテラス");
+INSERT INTO `card_location` VALUES (/*index*/1139, /*text*/"公共施設の前・夜");
+INSERT INTO `card_location` VALUES (/*index*/1140, /*text*/"夜の繁華街・MV撮影中");
+INSERT INTO `card_location` VALUES (/*index*/1141, /*text*/"公民館・多目的室");
+INSERT INTO `card_location` VALUES (/*index*/1142, /*text*/"雪像広場");
 INSERT INTO `card_location` VALUES (/*index*/1143, /*text*/"うどん屋さん");
