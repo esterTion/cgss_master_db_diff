@@ -431,3 +431,4 @@ INSERT INTO `cartoon_card_data` VALUES (/*id*/439, /*card_id*/200957, /*cost_typ
 INSERT INTO `cartoon_card_data` VALUES (/*id*/440, /*card_id*/300925, /*cost_type*/5, /*cost_id*/1006, /*cost_value*/1, /*start_date*/"2021-02-10 15:00:00", /*end_date*/"2030-04-01 14:00:00");
 INSERT INTO `cartoon_card_data` VALUES (/*id*/441, /*card_id*/100935, /*cost_type*/5, /*cost_id*/1006, /*cost_value*/1, /*start_date*/"2021-02-13 15:00:00", /*end_date*/"2030-04-01 14:00:00");
 INSERT INTO `cartoon_card_data` VALUES (/*id*/442, /*card_id*/200961, /*cost_type*/5, /*cost_id*/1006, /*cost_value*/1, /*start_date*/"2021-02-19 15:00:00", /*end_date*/"2030-04-01 14:00:00");
+INSERT INTO `cartoon_card_data` VALUES (/*id*/443, /*card_id*/100939, /*cost_type*/5, /*cost_id*/1006, /*cost_value*/1, /*start_date*/"2021-02-22 15:00:00", /*end_date*/"2030-04-01 14:00:00");
