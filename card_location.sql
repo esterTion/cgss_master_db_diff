@@ -1129,3 +1129,7 @@ INSERT INTO `card_location` VALUES (/*index*/1142, /*text*/"雪像広場");
 INSERT INTO `card_location` VALUES (/*index*/1143, /*text*/"うどん屋さん");
 INSERT INTO `card_location` VALUES (/*index*/1144, /*text*/"横浜・展望台");
 INSERT INTO `card_location` VALUES (/*index*/1145, /*text*/"イギリス・大聖堂");
+INSERT INTO `card_location` VALUES (/*index*/1146, /*text*/"ヘリポート");
+INSERT INTO `card_location` VALUES (/*index*/1147, /*text*/"病院・敷地内");
+INSERT INTO `card_location` VALUES (/*index*/1148, /*text*/"病院・談話スペース");
+INSERT INTO `card_location` VALUES (/*index*/1149, /*text*/"スケートリンク");
