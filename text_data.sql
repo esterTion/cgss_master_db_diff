@@ -3293,6 +3293,7 @@ INSERT INTO `text_data` VALUES (/*category*/72, /*index*/18, /*text*/"閉じる"
 INSERT INTO `text_data` VALUES (/*category*/72, /*index*/19, /*text*/"デレステでバレンタインキャンペーン中!!\n{0}から手作りチョコのプレゼント!! #デレステ");
 INSERT INTO `text_data` VALUES (/*category*/72, /*index*/20, /*text*/"投稿確認");
 INSERT INTO `text_data` VALUES (/*category*/72, /*index*/21, /*text*/"[D33D98]{0}[-]との思い出を\n投稿することができます");
+INSERT INTO `text_data` VALUES (/*category*/74, /*index*/1, /*text*/"ご利用の端末で課金が制限されているため、\n購入できませんでした。");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/1, /*text*/"利用規約とプライバシーポリシーに\n同意してから本サービスをご利用ください。\n\nまた、未成年の方は、\n法定代理人（ご両親等）の同意が必要です。\n\n※ないようがわからないときは\nおうちのひとにがめんをみせてください。");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/2, /*text*/"利用規約");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/3, /*text*/"同意しない");
