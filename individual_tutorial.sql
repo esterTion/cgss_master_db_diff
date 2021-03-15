@@ -132,7 +132,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーを\n倉庫収納数から除外しました。\n収納していても、収納数にカウントされなくなりました。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ギルドハウスを再現した背景や「ぺコリーヌのぬいぐるみ」など、\n『プリコネR×デレステ』コラボルームアイテムを\n 期間限定で復刻販売中です !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"ルームショップにて、「ひなまつり」テーマの\nアイテム、コーデを復刻販売開始 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"ルームショップにて、「スチームパンク」をテーマにした\nアイテムとコーデを追加 !\n蒸気の地下都市を探索しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -236,7 +236,6 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30018, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30018, /*img*/3, /*discription*/"難易度「WITCH」には、新たなリズムアイコン\n「ダメージアイコン」が出現することがあります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30018, /*img*/3, /*discription*/"ダメージアイコンに触れると「ACCIDENT」評価となり、\nライフゲージが減少します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30018, /*img*/3, /*discription*/"他にも数々の魔法のような仕掛けが !\n何が起こるかわからない不思議なLIVEをお楽しみください !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");
@@ -465,7 +464,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/6, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/7, /*discription*/"イベント設定では、公演の準備画面の「おすすめ設定」で\n選曲される楽曲のLvを調整できます。\nまたツアーのタイトルを自由に変更できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/1, /*discription*/"「イベント参加ボーナス」、「MAP報酬」、「課題クリア報酬」\nで、イベント限定のSレアアイドルやルームアイテムを\n手にいれましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"本イベントでは、LIVEを行うことでアイドルたちが\nMAPを進んでいきます。楽曲の難易度やLIVEの\n結果に応じて、進行できるマス数が変化します。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"また、ルートはイベント限定アイドルごとに分かれており、\nそれぞれストーリーや報酬が異なります。\n※「古賀小春」ルートのMAP1をクリアすると、\n「北川真尋」ルートが解放されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"また、ルートはイベント限定アイドルごとに分かれており、\nそれぞれストーリーや報酬が異なります。\n※「衛藤美紗希」ルートのMAP1をクリアすると、\n「服部瞳子」ルートが解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/3, /*discription*/"MAPやマスごとの条件を満たしてLIVEを行うと、\nMAP進行ボーナスが発生し、進行できるマス数がアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/3, /*discription*/"MAP進行ボーナスは、MAPにあわせたアイドルを編成したり、\n現在止まっているマスの色に応じた楽曲でLIVEを行うことで発生します。\nボーナス条件はイベントTOPや楽曲の選択画面等で確認できます。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/4, /*discription*/"ゴールに到着すると、トレーナーからMAPごとの課題が出されます。\n※課題の達成状況は累積でカウントされるため、1回のLIVEでクリアできない場合、\n複数回LIVEをすることで達成できます。\n");
@@ -677,6 +676,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90603, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90604, /*img*/1, /*discription*/"「ボイスアイドルオーディション」が始まりました !\n「ボイスアイドルオーディション」は、\nソーシャルゲーム「アイドルマスター シンデレラガールズ」\nとの合同開催となります。※得票数は各アプリの合算となります");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90604, /*img*/2, /*discription*/"ログインボーナスや期間限定ミッション、\n総選挙応援セットなどで投票券を入手して、\nお気に入りのアイドルに投票しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90604, /*img*/3, /*discription*/"全体順位上位3名のアイドルには、\nキャラクターボイスの追加と、専用の楽曲の制作を行います !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90701, /*img*/1, /*discription*/"ハッピーバレンタインキャンペーン開催 !\n2/14～2/28に特設ページにアクセスすると、\n3名のアイドルから手作りチョコをプレゼント !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90701, /*img*/2, /*discription*/"手作りチョコは、2月14日00:00時点のリーダーアイドルから\n必ず1つもらうことができます。\nその他の2個のチョコがどのアイドルからもらえるか\n当日まで楽しみにお待ちください !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90701, /*img*/1, /*discription*/"ハッピーホワイトデーキャンペーン開催 !\n3/14～3/31に特設ページにアクセスして、\n3名のアイドルへプレゼントを贈りましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90701, /*img*/2, /*discription*/"特設ページ右上にある『用意したプレゼント』ボタンを\nタップすると、アイドルに渡せるプレゼントを\n選ぶことができます。\n※3/14以降にアクセスした場合もプレゼントは選択可能です。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90701, /*img*/3, /*discription*/"用意したプレゼントは3/14 00:00以降にアイドルへ\n渡すことができます。あなたが選んだプレゼントを\nアイドルに渡して感謝の気持ちを伝えましょう !");
 CREATE INDEX 'individual_tutorial_0_id' on 'individual_tutorial'('id');

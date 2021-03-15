@@ -1,1 +1,9 @@
 CREATE TABLE 'vr_chapter_data' ('id' INTEGER NOT NULL, 'cappuccino_data_id' INTEGER NOT NULL, 'chapter_time_list' TEXT NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `vr_chapter_data` VALUES (/*id*/1, /*cappuccino_data_id*/10001, /*chapter_time_list*/0);
+INSERT INTO `vr_chapter_data` VALUES (/*id*/2, /*cappuccino_data_id*/10020, /*chapter_time_list*/"0,162,270,470");
+INSERT INTO `vr_chapter_data` VALUES (/*id*/3, /*cappuccino_data_id*/10021, /*chapter_time_list*/0);
+INSERT INTO `vr_chapter_data` VALUES (/*id*/4, /*cappuccino_data_id*/10022, /*chapter_time_list*/0);
+INSERT INTO `vr_chapter_data` VALUES (/*id*/5, /*cappuccino_data_id*/10023, /*chapter_time_list*/0);
+INSERT INTO `vr_chapter_data` VALUES (/*id*/6, /*cappuccino_data_id*/10030, /*chapter_time_list*/0);
+INSERT INTO `vr_chapter_data` VALUES (/*id*/7, /*cappuccino_data_id*/10040, /*chapter_time_list*/"0,195,400,520,710");
+INSERT INTO `vr_chapter_data` VALUES (/*id*/8, /*cappuccino_data_id*/10050, /*chapter_time_list*/"0,115,400,660,995");

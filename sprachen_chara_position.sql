@@ -181,7 +181,7 @@ INSERT INTO `sprachen_chara_position` VALUES (/*id*/295, /*position_x*/-13, /*po
 INSERT INTO `sprachen_chara_position` VALUES (/*id*/296, /*position_x*/-2, /*position_y*/0);
 INSERT INTO `sprachen_chara_position` VALUES (/*id*/297, /*position_x*/45, /*position_y*/-13);
 INSERT INTO `sprachen_chara_position` VALUES (/*id*/298, /*position_x*/0, /*position_y*/0);
-INSERT INTO `sprachen_chara_position` VALUES (/*id*/300, /*position_x*/18, /*position_y*/2);
+INSERT INTO `sprachen_chara_position` VALUES (/*id*/300, /*position_x*/18, /*position_y*/0);
 INSERT INTO `sprachen_chara_position` VALUES (/*id*/304, /*position_x*/30, /*position_y*/0);
 INSERT INTO `sprachen_chara_position` VALUES (/*id*/305, /*position_x*/60, /*position_y*/0);
 INSERT INTO `sprachen_chara_position` VALUES (/*id*/306, /*position_x*/24, /*position_y*/-2);

@@ -435,3 +435,4 @@ INSERT INTO `story_category` VALUES (/*id*/461, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/462, /*type*/2, /*chara_type*/2, /*chara_id*/313, /*title*/"最上静香", /*sub_title*/"", /*disp_order*/208, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/463, /*type*/2, /*chara_type*/3, /*chara_id*/314, /*title*/"ジュリア", /*sub_title*/"", /*disp_order*/209, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/464, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"White again", /*sub_title*/"White again", /*disp_order*/147, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/465, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"服部瞳子 / 衛藤美紗希", /*sub_title*/"服部瞳子 / 衛藤美紗希", /*disp_order*/148, /*filter_type*/0);

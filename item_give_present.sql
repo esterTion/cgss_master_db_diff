@@ -37,3 +37,4 @@ INSERT INTO `item_give_present` VALUES (/*item_id*/74026, /*type*/1, /*type_effe
 INSERT INTO `item_give_present` VALUES (/*item_id*/74027, /*type*/1, /*type_effect*/4, /*add_love*/15, /*type_bonus*/2000, /*birthday_bonus*/2000, /*disp_order*/36);
 INSERT INTO `item_give_present` VALUES (/*item_id*/74028, /*type*/1, /*type_effect*/4, /*add_love*/15, /*type_bonus*/2000, /*birthday_bonus*/2000, /*disp_order*/37);
 INSERT INTO `item_give_present` VALUES (/*item_id*/74029, /*type*/1, /*type_effect*/4, /*add_love*/15, /*type_bonus*/2000, /*birthday_bonus*/2000, /*disp_order*/38);
+INSERT INTO `item_give_present` VALUES (/*item_id*/74030, /*type*/1, /*type_effect*/4, /*add_love*/100, /*type_bonus*/2000, /*birthday_bonus*/2000, /*disp_order*/39);
