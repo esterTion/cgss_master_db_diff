@@ -34,4 +34,8 @@ INSERT INTO `gacha_display_type` VALUES (/*id*/33, /*gacha_id*/30611, /*display_
 INSERT INTO `gacha_display_type` VALUES (/*id*/34, /*gacha_id*/60125, /*display_type*/1, /*parts_num*/31, /*extended_value*/"{0:15,1:20}");
 INSERT INTO `gacha_display_type` VALUES (/*id*/35, /*gacha_id*/60126, /*display_type*/1, /*parts_num*/31, /*extended_value*/"{0:15,1:20}");
 INSERT INTO `gacha_display_type` VALUES (/*id*/36, /*gacha_id*/60127, /*display_type*/1, /*parts_num*/31, /*extended_value*/"{0:15,1:20}");
+INSERT INTO `gacha_display_type` VALUES (/*id*/37, /*gacha_id*/30621, /*display_type*/1, /*parts_num*/34, /*extended_value*/"{0:4,1:9}");
+INSERT INTO `gacha_display_type` VALUES (/*id*/38, /*gacha_id*/60128, /*display_type*/1, /*parts_num*/34, /*extended_value*/"{0:27,1:32}");
+INSERT INTO `gacha_display_type` VALUES (/*id*/39, /*gacha_id*/60129, /*display_type*/1, /*parts_num*/34, /*extended_value*/"{0:27,1:32}");
+INSERT INTO `gacha_display_type` VALUES (/*id*/40, /*gacha_id*/60130, /*display_type*/1, /*parts_num*/34, /*extended_value*/"{0:27,1:32}");
 CREATE INDEX 'gacha_display_type_0_gacha_id' on 'gacha_display_type'('gacha_id');

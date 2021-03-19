@@ -1145,3 +1145,6 @@ INSERT INTO `card_location` VALUES (/*index*/1158, /*text*/"スタジオ・収�
 INSERT INTO `card_location` VALUES (/*index*/1159, /*text*/"京都・和菓子屋の前");
 INSERT INTO `card_location` VALUES (/*index*/1160, /*text*/"夕焼け色の車内");
 INSERT INTO `card_location` VALUES (/*index*/1161, /*text*/"サーカス風セット");
+INSERT INTO `card_location` VALUES (/*index*/1162, /*text*/"街・夜");
+INSERT INTO `card_location` VALUES (/*index*/1163, /*text*/"心の部屋");
+INSERT INTO `card_location` VALUES (/*index*/1164, /*text*/"夕暮れの海辺・撮影中");
