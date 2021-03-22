@@ -1148,3 +1148,6 @@ INSERT INTO `card_location` VALUES (/*index*/1161, /*text*/"サーカス風セ�
 INSERT INTO `card_location` VALUES (/*index*/1162, /*text*/"街・夜");
 INSERT INTO `card_location` VALUES (/*index*/1163, /*text*/"心の部屋");
 INSERT INTO `card_location` VALUES (/*index*/1164, /*text*/"夕暮れの海辺・撮影中");
+INSERT INTO `card_location` VALUES (/*index*/1165, /*text*/"ホームドラマのセット前");
+INSERT INTO `card_location` VALUES (/*index*/1166, /*text*/"おもちゃのお城風セット");
+INSERT INTO `card_location` VALUES (/*index*/1167, /*text*/"梅祭りの公園");
