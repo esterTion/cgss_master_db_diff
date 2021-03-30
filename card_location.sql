@@ -1151,3 +1151,7 @@ INSERT INTO `card_location` VALUES (/*index*/1164, /*text*/"夕暮れの海辺�
 INSERT INTO `card_location` VALUES (/*index*/1165, /*text*/"ホームドラマのセット前");
 INSERT INTO `card_location` VALUES (/*index*/1166, /*text*/"おもちゃのお城風セット");
 INSERT INTO `card_location` VALUES (/*index*/1167, /*text*/"梅祭りの公園");
+INSERT INTO `card_location` VALUES (/*index*/1168, /*text*/"撮影現場・リハーサル中");
+INSERT INTO `card_location` VALUES (/*index*/1169, /*text*/"ネクロマンサーの庭・撮影中");
+INSERT INTO `card_location` VALUES (/*index*/1170, /*text*/"卒業式特設LIVEステージ");
+INSERT INTO `card_location` VALUES (/*index*/1174, /*text*/"学園・卒業式");
