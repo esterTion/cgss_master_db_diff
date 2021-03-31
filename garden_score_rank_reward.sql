@@ -151,4 +151,12 @@ INSERT INTO `garden_score_rank_reward` VALUES (/*id*/149, /*minigame_id*/19, /*s
 INSERT INTO `garden_score_rank_reward` VALUES (/*id*/150, /*minigame_id*/19, /*score_rank*/7, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `garden_score_rank_reward` VALUES (/*id*/151, /*minigame_id*/19, /*score_rank*/8, /*reward_type*/5, /*reward_id*/6301, /*reward_value*/30000, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `garden_score_rank_reward` VALUES (/*id*/152, /*minigame_id*/19, /*score_rank*/9, /*reward_type*/7, /*reward_id*/4380, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `garden_score_rank_reward` VALUES (/*id*/153, /*minigame_id*/20, /*score_rank*/2, /*reward_type*/5, /*reward_id*/6301, /*reward_value*/1000, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `garden_score_rank_reward` VALUES (/*id*/154, /*minigame_id*/20, /*score_rank*/3, /*reward_type*/5, /*reward_id*/3, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `garden_score_rank_reward` VALUES (/*id*/155, /*minigame_id*/20, /*score_rank*/4, /*reward_type*/5, /*reward_id*/6301, /*reward_value*/3000, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `garden_score_rank_reward` VALUES (/*id*/156, /*minigame_id*/20, /*score_rank*/5, /*reward_type*/5, /*reward_id*/2, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `garden_score_rank_reward` VALUES (/*id*/157, /*minigame_id*/20, /*score_rank*/6, /*reward_type*/5, /*reward_id*/6301, /*reward_value*/5000, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `garden_score_rank_reward` VALUES (/*id*/158, /*minigame_id*/20, /*score_rank*/7, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `garden_score_rank_reward` VALUES (/*id*/159, /*minigame_id*/20, /*score_rank*/8, /*reward_type*/5, /*reward_id*/6301, /*reward_value*/10000, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `garden_score_rank_reward` VALUES (/*id*/160, /*minigame_id*/20, /*score_rank*/9, /*reward_type*/7, /*reward_id*/4621, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 CREATE INDEX 'garden_score_rank_reward_0_minigame_id' on 'garden_score_rank_reward'('minigame_id');

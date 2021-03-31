@@ -170,4 +170,13 @@ INSERT INTO `garden_minigame_score_rank` VALUES (/*minigame_id*/19, /*score_rank
 INSERT INTO `garden_minigame_score_rank` VALUES (/*minigame_id*/19, /*score_rank*/7, /*need_score*/150000);
 INSERT INTO `garden_minigame_score_rank` VALUES (/*minigame_id*/19, /*score_rank*/8, /*need_score*/180000);
 INSERT INTO `garden_minigame_score_rank` VALUES (/*minigame_id*/19, /*score_rank*/9, /*need_score*/260000);
+INSERT INTO `garden_minigame_score_rank` VALUES (/*minigame_id*/20, /*score_rank*/1, /*need_score*/0);
+INSERT INTO `garden_minigame_score_rank` VALUES (/*minigame_id*/20, /*score_rank*/2, /*need_score*/300);
+INSERT INTO `garden_minigame_score_rank` VALUES (/*minigame_id*/20, /*score_rank*/3, /*need_score*/600);
+INSERT INTO `garden_minigame_score_rank` VALUES (/*minigame_id*/20, /*score_rank*/4, /*need_score*/900);
+INSERT INTO `garden_minigame_score_rank` VALUES (/*minigame_id*/20, /*score_rank*/5, /*need_score*/1200);
+INSERT INTO `garden_minigame_score_rank` VALUES (/*minigame_id*/20, /*score_rank*/6, /*need_score*/1500);
+INSERT INTO `garden_minigame_score_rank` VALUES (/*minigame_id*/20, /*score_rank*/7, /*need_score*/2400);
+INSERT INTO `garden_minigame_score_rank` VALUES (/*minigame_id*/20, /*score_rank*/8, /*need_score*/3600);
+INSERT INTO `garden_minigame_score_rank` VALUES (/*minigame_id*/20, /*score_rank*/9, /*need_score*/10000);
 CREATE INDEX 'garden_minigame_score_rank_0_minigame_id' on 'garden_minigame_score_rank'('minigame_id');

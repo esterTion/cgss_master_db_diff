@@ -184,6 +184,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/21005, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/21006, /*img*/1, /*discription*/"デッキを編成してLIVE対戦 ! \nアイドルたちの持っている特技やシナジーで、\nLIVE会場を沸かせよう ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ ! ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21007, /*img*/1, /*discription*/"タップでスイーツを作って来店したアイドルへ提供しよう !\nスイーツづくりにはいくつかの手順があるよ !\n手際よく、アイドルを待たせないようにしよう。\nスコアに応じて、獲得できるゲームメダルの枚数がアップ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21007, /*img*/1, /*discription*/"なるべく早く提供できるほどスコアがアップ !\n連続でメニューを提供したりメインメニュー作成中のゲージが明るい緑のときにタップをすると\nスコアにボーナスが付くよ !\n手順を間違えずにハイスコアを狙おう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/21008, /*img*/1, /*discription*/"4人オンライン対戦の早押しクイズバトル ! \nクイズに正解して誰よりも早く100点獲得を目指そう ! \n文字パネルを選んで正解を完成させよう ! \n順位に応じて、獲得できるゲームメダルの枚数がアップするよ ! ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/22001, /*img*/1, /*discription*/"ゲームセンターでは、ミニゲームを遊ぶことで、\n「ゲームメダル」が獲得できます。\n「ゲームメダル」を集めると、\nアイテム交換所で景品と交換できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEでは、ミュージックセレクタ右上の動作設定ボタンから\nLIVEの背景演出を変更することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEプレイ中のSE再生設定もここから変更できます。\nSEをオフにすることで、動作が軽くなる場合があります。");
@@ -663,6 +664,13 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90509, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90510, /*img*/1, /*discription*/"LIVEに出演するアイドルを20人選ぼう !\nアイドルには、それぞれ特技とシナジーがあるよ ! ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90510, /*img*/2, /*discription*/"「ユニット優先表示」で、ユニットの対象メンバーを、\nアイドル一覧の先頭に表示できるよ ! \nあなたのプロデュースしたステージで、\nLIVEを有利に進めよう ! ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90511, /*img*/1, /*discription*/"デッキを編成してLIVE対戦 ! \nアイドルたちの持っている特技やシナジーで、\nLIVE会場を沸かせよう ! ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90512, /*img*/1, /*discription*/"オンラインで早押しクイズバトル ! \n難易度を選択してマッチング開始 ! \n4人集まったらクイズスタート ! 優勝を目指そう ! ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90512, /*img*/2, /*discription*/"クイズの答えがわかったら画面をタップして解答しよう ! \n解答できるのは先着3人まで ! ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90512, /*img*/2, /*discription*/"タップして正解できないとペナルティがあるので、\n答えがわからないときは画面をタップせず様子見しよう ! ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90512, /*img*/3, /*discription*/"文字パネルから1文字ずつタップして解答を完成させよう ! \n誤ったパネルをタップすると不正解に ! ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90512, /*img*/4, /*discription*/"正解で得点がプラス ! 不正解だとマイナスになるよ ! \n得点や減点は早押しの順番で変動 ! \n誰よりも早く100点を目指そう ! ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90512, /*img*/5, /*discription*/"不正解になるとライフがひとつ減少 ! \n不正解4回でライフが0になって失格になり、\n以降のクイズで解答不能に ! ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90512, /*img*/6, /*discription*/"ゲーム終了時の順位でレートポイントが変動 ! \nレートポイントを上げてSSSランクを目指そう ! ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90601, /*img*/1, /*discription*/"「第9回シンデレラガール総選挙」が始まりました !\n「第9回シンデレラガール総選挙」は、\nソーシャルゲーム「アイドルマスター シンデレラガールズ」\nとの合同開催となります。※得票数は各アプリの合算となります");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90601, /*img*/2, /*discription*/"ログインボーナスや期間限定ミッション、\n総選挙応援セットなどで投票券を入手して、\nお気に入りのアイドルに投票しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90601, /*img*/3, /*discription*/"全体順位上位5名のアイドルは、本アプリ内のイベントに登場 !\nさらに、イベント時の衣装を、3DLIVEで着用可能になります !\n");

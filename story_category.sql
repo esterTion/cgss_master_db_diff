@@ -431,6 +431,7 @@ INSERT INTO `story_category` VALUES (/*id*/456, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/457, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"アイドルマスター15周年記念企画", /*sub_title*/"アイドルマスター15周年記念企画", /*disp_order*/20, /*filter_type*/499);
 INSERT INTO `story_category` VALUES (/*id*/458, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"君のステージ衣装、本当は…", /*sub_title*/"君のステージ衣装、本当は…", /*disp_order*/144, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/459, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"EVIL LIVE", /*sub_title*/"EVIL LIVE", /*disp_order*/145, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/460, /*type*/5, /*chara_type*/0, /*chara_id*/0, /*title*/"ぴにゃこら太と遊ぼう ! ～アイドルクイズ王決定戦～", /*sub_title*/"ぴにゃこら太と遊ぼう ! ～アイドルクイズ王決定戦～", /*disp_order*/1, /*filter_type*/404);
 INSERT INTO `story_category` VALUES (/*id*/461, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ハーモニクス", /*sub_title*/"ハーモニクス", /*disp_order*/146, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/462, /*type*/2, /*chara_type*/2, /*chara_id*/313, /*title*/"最上静香", /*sub_title*/"", /*disp_order*/208, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/463, /*type*/2, /*chara_type*/3, /*chara_id*/314, /*title*/"ジュリア", /*sub_title*/"", /*disp_order*/209, /*filter_type*/0);
