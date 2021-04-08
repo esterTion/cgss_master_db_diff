@@ -890,6 +890,7 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/149, /*text*/"楽器ver
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/150, /*text*/"コラボ\nver");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/151, /*text*/"コラボVer");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/152, /*text*/"コラボver");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/153, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/1, /*text*/"月間獲得ファン数ランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/2, /*text*/"今期のランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/3, /*text*/"前期のランキング");
@@ -2074,6 +2075,8 @@ INSERT INTO `text_data` VALUES (/*category*/35, /*index*/46, /*text*/"全体6～
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/49, /*text*/"3D衣装");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/50, /*text*/"2D衣装");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/51, /*text*/"---");
+INSERT INTO `text_data` VALUES (/*category*/35, /*index*/52, /*text*/" ");
+INSERT INTO `text_data` VALUES (/*category*/35, /*index*/53, /*text*/" ");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/3, /*text*/"シンデレラシアター");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/4, /*text*/"シンデレラシアターを閲覧することができます");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/5, /*text*/"シンデレラシアター一覧");
@@ -2139,6 +2142,7 @@ INSERT INTO `text_data` VALUES (/*category*/37, /*index*/41, /*text*/"編成コ�
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/42, /*text*/"編成情報取得エラー");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/43, /*text*/"編成情報が記録されていません");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/44, /*text*/"登場機会");
+INSERT INTO `text_data` VALUES (/*category*/37, /*index*/45, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/1, /*text*/"近日公開予定の機能のため、現在利用できません");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/2, /*text*/"ルームアイテム");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/3, /*text*/"回");

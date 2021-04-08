@@ -60,3 +60,4 @@ INSERT INTO `dress_data` VALUES (/*id*/7036000, /*name*/"おひさまたより",
 INSERT INTO `dress_data` VALUES (/*id*/7037000, /*name*/"フェイク・ラヴ", /*description*/"心を燃やす、少女たちのドレス。\n灰になると解っていても構わない。\n胸に抱えた想いを激しい炎に変えて、\n自らの在り方を最後の瞬間まで貫き通そう。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7040000, /*name*/"あなたのトナカイさん", /*description*/"クリスマスをテーマにした、智絵里の衣装。\nモコモコ衣装とトナカイ耳がチャーミング。\nデザインした者の想いがこもっている。", /*open_type*/3, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7041000, /*name*/"ハートフル・トッピング", /*description*/"甘い幸せをお届けする、少女たちのドレス。\nこだわりの一品を、心を込めて作ってくれる。\nそのスイーツは美味しいだけではなく、\nたくさんの笑顔と幸せをも生み出していく。", /*open_type*/3, /*dress_type*/3);
+INSERT INTO `dress_data` VALUES (/*id*/7042000, /*name*/"ゾンビィ・ハート", /*description*/"死んでも夢を叶えたい少女たちのドレス。\n時代を超えて伝説は集う。己のサガを再び\nこの世界に刻むために。生きる屍になったと\nしても、その瑞々しい輝きは曇ることはない。", /*open_type*/2, /*dress_type*/1);
