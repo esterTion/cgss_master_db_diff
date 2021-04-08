@@ -1154,4 +1154,7 @@ INSERT INTO `card_location` VALUES (/*index*/1167, /*text*/"梅祭りの公園")
 INSERT INTO `card_location` VALUES (/*index*/1168, /*text*/"撮影現場・リハーサル中");
 INSERT INTO `card_location` VALUES (/*index*/1169, /*text*/"ネクロマンサーの庭・撮影中");
 INSERT INTO `card_location` VALUES (/*index*/1170, /*text*/"卒業式特設LIVEステージ");
+INSERT INTO `card_location` VALUES (/*index*/1171, /*text*/"岩手の海岸道路");
+INSERT INTO `card_location` VALUES (/*index*/1172, /*text*/"早朝の教室");
+INSERT INTO `card_location` VALUES (/*index*/1173, /*text*/"長野県の高校・教室");
 INSERT INTO `card_location` VALUES (/*index*/1174, /*text*/"学園・卒業式");
