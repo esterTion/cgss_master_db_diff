@@ -265,7 +265,7 @@ INSERT INTO `push_chara_message` VALUES (/*id*/263, /*chara_id*/170, /*push_type
 INSERT INTO `push_chara_message` VALUES (/*id*/264, /*chara_id*/170, /*push_type*/4, /*title*/"桐野アヤ", /*description*/"{0}が\n完了して、みんな凱旋してきたぜ！成果、期待しててくれ！");
 INSERT INTO `push_chara_message` VALUES (/*id*/265, /*chara_id*/171, /*push_type*/1, /*title*/"高橋礼子", /*description*/"元気いっぱいね。お仕事と一杯飲むの、どっちがいい？私は…どっちもがいいわ、ふふっ");
 INSERT INTO `push_chara_message` VALUES (/*id*/266, /*chara_id*/171, /*push_type*/2, /*title*/"高橋礼子", /*description*/"{0}の\n改良が済んだわ。これならもっと、イイコトできるわね…♪");
-INSERT INTO `push_chara_message` VALUES (/*id*/267, /*chara_id*/171, /*push_type*/3, /*title*/"高橋礼子", /*description*/"{0}が\nいっぱいよ。ふふ、溢れるなほどの贈り物なんて、情熱的ね");
+INSERT INTO `push_chara_message` VALUES (/*id*/267, /*chara_id*/171, /*push_type*/3, /*title*/"高橋礼子", /*description*/"{0}が\nいっぱいよ。ふふ、溢れるほどの贈り物なんて、情熱的ね");
 INSERT INTO `push_chara_message` VALUES (/*id*/268, /*chara_id*/171, /*push_type*/4, /*title*/"高橋礼子", /*description*/"{0}が\n終わったわね。確認が終わったら、ふたりで飲みましょ♪");
 INSERT INTO `push_chara_message` VALUES (/*id*/269, /*chara_id*/172, /*push_type*/1, /*title*/"相川千夏", /*description*/"体力もやる気も十分みたいね。ちょうどよかったわ。お仕事にいきたいところだったの");
 INSERT INTO `push_chara_message` VALUES (/*id*/270, /*chara_id*/172, /*push_type*/2, /*title*/"相川千夏", /*description*/"{0}の\n性能が向上したみたいね。なかなか期待できそうだわ");

@@ -1,4 +1,4 @@
 CREATE TABLE 'room_item_announcement' ('id' INTEGER NOT NULL, 'announcement_start' TEXT NOT NULL, 'announcement_end' TEXT NOT NULL, PRIMARY KEY('id'));
-INSERT INTO `room_item_announcement` VALUES (/*id*/122, /*announcement_start*/"2021/04/06 15:00:00", /*announcement_end*/"2021/04/19 14:59:59");
-INSERT INTO `room_item_announcement` VALUES (/*id*/10050, /*announcement_start*/"2021/03/16 15:00:00", /*announcement_end*/"2021/04/16 23:59:59");
+INSERT INTO `room_item_announcement` VALUES (/*id*/123, /*announcement_start*/"2021/04/13 15:00:00", /*announcement_end*/"2021/05/05 23:59:59");
+INSERT INTO `room_item_announcement` VALUES (/*id*/10051, /*announcement_start*/"2021/04/10 15:00:00", /*announcement_end*/"2021/05/10 23:59:59");
 INSERT INTO `room_item_announcement` VALUES (/*id*/100001, /*announcement_start*/"2020/09/18 15:00:00", /*announcement_end*/"2030/12/31 23:59:59");

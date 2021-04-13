@@ -1158,3 +1158,9 @@ INSERT INTO `card_location` VALUES (/*index*/1171, /*text*/"岩手の海岸道�
 INSERT INTO `card_location` VALUES (/*index*/1172, /*text*/"早朝の教室");
 INSERT INTO `card_location` VALUES (/*index*/1173, /*text*/"長野県の高校・教室");
 INSERT INTO `card_location` VALUES (/*index*/1174, /*text*/"学園・卒業式");
+INSERT INTO `card_location` VALUES (/*index*/1175, /*text*/"しだれ桜の下");
+INSERT INTO `card_location` VALUES (/*index*/1176, /*text*/"屋外LIVEステージ");
+INSERT INTO `card_location` VALUES (/*index*/1177, /*text*/"文房具専門店");
+INSERT INTO `card_location` VALUES (/*index*/1178, /*text*/"街角の雑貨店");
+INSERT INTO `card_location` VALUES (/*index*/1179, /*text*/"桜が満開の公園");
+INSERT INTO `card_location` VALUES (/*index*/1180, /*text*/"桜のLIVEステージ");

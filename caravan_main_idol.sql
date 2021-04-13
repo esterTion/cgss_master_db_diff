@@ -36,4 +36,5 @@ INSERT INTO `caravan_main_idol` VALUES (/*event_id*/2034, /*main_idol*/200887);
 INSERT INTO `caravan_main_idol` VALUES (/*event_id*/2035, /*main_idol*/100891);
 INSERT INTO `caravan_main_idol` VALUES (/*event_id*/2036, /*main_idol*/300901);
 INSERT INTO `caravan_main_idol` VALUES (/*event_id*/2037, /*main_idol*/100933);
+INSERT INTO `caravan_main_idol` VALUES (/*event_id*/2038, /*main_idol*/300949);
 CREATE INDEX 'caravan_main_idol_0_main_idol' on 'caravan_main_idol'('main_idol');

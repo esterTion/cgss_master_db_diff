@@ -69,4 +69,5 @@ INSERT INTO `onetime_story` VALUES (/*id*/72, /*name*/"『Milky Mode』登場 !"
 INSERT INTO `onetime_story` VALUES (/*id*/73, /*name*/"『泡沫のアイオーン』登場 !", /*story_id*/5201, /*transition*/0, /*page_index*/0, /*start_date*/"2021-03-11 15:00:00", /*end_date*/"2021-03-16 14:59:59", /*play_order*/749, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/74, /*name*/"ゾンビランドサガ リベンジコラボ企画", /*story_id*/5230, /*transition*/0, /*page_index*/0, /*start_date*/"2021-04-06 15:00:00", /*end_date*/"2021-04-19 14:59:59", /*play_order*/750, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/75, /*name*/"エイプリルフール2021", /*story_id*/5164, /*transition*/0, /*page_index*/0, /*start_date*/"2021-04-01 00:00:00", /*end_date*/"2021-04-01 23:59:59", /*play_order*/751, /*notice_type*/2);
+INSERT INTO `onetime_story` VALUES (/*id*/76, /*name*/"『満願成就♪巫女の神頼み ! 』登場 !", /*story_id*/5249, /*transition*/0, /*page_index*/0, /*start_date*/"2021-04-10 15:00:00", /*end_date*/"2021-04-13 14:59:59", /*play_order*/752, /*notice_type*/2);
 CREATE INDEX 'onetime_story_0_story_id' on 'onetime_story'('story_id');
