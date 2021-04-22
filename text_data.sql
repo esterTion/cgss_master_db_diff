@@ -3189,6 +3189,10 @@ INSERT INTO `text_data` VALUES (/*category*/67, /*index*/45, /*text*/"[FF7A7A]�
 INSERT INTO `text_data` VALUES (/*category*/67, /*index*/46, /*text*/"ビンゴシート更新期間外");
 INSERT INTO `text_data` VALUES (/*category*/67, /*index*/47, /*text*/"ビンゴシートの更新期間を過ぎました。\nタイトルへ戻ります。");
 INSERT INTO `text_data` VALUES (/*category*/67, /*index*/48, /*text*/"抽選発表は {0}まで");
+INSERT INTO `text_data` VALUES (/*category*/67, /*index*/49, /*text*/"合計{0}ビンゴ!{1}マス解放!");
+INSERT INTO `text_data` VALUES (/*category*/67, /*index*/50, /*text*/"{0}のビンゴシートはこちら、\n4月29日15時から抽選開始！それまで自分好みのシートをつくろう\n#デレステ #デレステビンGO");
+INSERT INTO `text_data` VALUES (/*category*/67, /*index*/51, /*text*/"5月9日まで毎日抽選が行われるよ！\n{0}のビンゴシートはこちら、\n#デレステ #デレステビンGO");
+INSERT INTO `text_data` VALUES (/*category*/67, /*index*/52, /*text*/"5月23日まで抽選結果発表中、報酬の獲得忘れに気を付けよう！\n{0}のビンゴシートはこちら、\n#デレステ #デレステビンGO");
 INSERT INTO `text_data` VALUES (/*category*/68, /*index*/1, /*text*/"スタンプ");
 INSERT INTO `text_data` VALUES (/*category*/68, /*index*/2, /*text*/"タップで詳細が確認できます");
 INSERT INTO `text_data` VALUES (/*category*/68, /*index*/3, /*text*/"スタンプ");

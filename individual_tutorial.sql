@@ -629,11 +629,12 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90202, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90301, /*img*/1, /*discription*/"「楽曲総選挙」が始まりました !\nお気に入りの楽曲に投票しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90301, /*img*/2, /*discription*/"投票できるのは、ソロ楽曲部門とユニット楽曲部門の2部門 !\n各部門1日1回投票できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90301, /*img*/3, /*discription*/"受賞楽曲は、\nmobage「アイドルマスター シンデレラガールズ」\n第6回シンデレラガール総選挙と連動して楽曲化 !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90302, /*img*/1, /*discription*/"【24magic ～シンデレラたちの24時間生放送 ! ～】\nにて「デレステビンGO ! 」が開催 !\n参加して報酬を獲得しましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90302, /*img*/2, /*discription*/"9月5日21:29までのビンゴシート作成期間に\n参加条件をクリアすることでビンゴシートを作成\nできます。※作成期間にご注意ください");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90302, /*img*/2, /*discription*/"また、作成期間中はビンゴシートの作り直しが\n可能です。好みのシートを作りましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90302, /*img*/3, /*discription*/"番組内でアイドルが抽選されます。そのアイドルのマスが\nシートにあればマスがOPENされます。1マスごとに\nOPEN報酬が獲得できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90302, /*img*/3, /*discription*/"また、解放したマスが縦、横、ナナメのラインに\n5つ並べばビンゴ達成 ! 1ラインごとにビンゴ報酬が\n獲得できます。抽選会をお楽しみに !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90302, /*img*/1, /*discription*/"「デレステビンGO!」を開催します !\n参加して報酬を獲得しましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90302, /*img*/2, /*discription*/"5月9日 23:59までのビンゴ抽選期間に\n参加条件をクリアすることでビンゴシートを\n作成できます。　※期間にご注意ください");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90302, /*img*/2, /*discription*/"また、4月29日 14:59までのビンゴシート変更\n期間中はビンゴシートの作り直しが可能です。\n好みのシートを作りましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90302, /*img*/3, /*discription*/"毎日15時にアイドルが抽選されます。そのアイドルの\nマスがシートにあればマスがOPENされます。\n1マスごとにOPEN報酬が獲得できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90302, /*img*/3, /*discription*/"また、解放したマスがタテ、ヨコ、ナナメのラインに\n5つ並べばビンゴ達成 ! 1ラインごとにビンゴ報酬が\n獲得できます。抽選をお楽しみに !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90302, /*img*/4, /*discription*/"ビンゴシートの内容や、抽選時にはその結果を\nTwitterに投稿できます。※画像の投稿には、\n公式のTwitterアプリが必要となります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90303, /*img*/1, /*discription*/"「アイドルマスター シンデレラガールズ\n9th Anniversary Memorial Party」が\n11月28日19時より配信開始 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90303, /*img*/1, /*discription*/"今回は各配信サービスに加えて、本アプリ内でも\n配信を行います。配信が開始されたら本ページ\nの視聴ボタンより番組視聴が可能 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90303, /*img*/2, /*discription*/"視聴画面ではリアルタイムでコメントや\nスタンプを送ることができます。");
