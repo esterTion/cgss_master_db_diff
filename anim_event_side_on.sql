@@ -8,7 +8,6 @@ INSERT INTO `anim_event_side_on` VALUES (/*card_id*/200201, /*side_on_flag*/1);
 INSERT INTO `anim_event_side_on` VALUES (/*card_id*/300213, /*side_on_flag*/1);
 INSERT INTO `anim_event_side_on` VALUES (/*card_id*/200261, /*side_on_flag*/1);
 INSERT INTO `anim_event_side_on` VALUES (/*card_id*/200159, /*side_on_flag*/1);
-INSERT INTO `anim_event_side_on` VALUES (/*card_id*/100319, /*side_on_flag*/1);
 INSERT INTO `anim_event_side_on` VALUES (/*card_id*/300339, /*side_on_flag*/1);
 INSERT INTO `anim_event_side_on` VALUES (/*card_id*/200371, /*side_on_flag*/1);
 INSERT INTO `anim_event_side_on` VALUES (/*card_id*/100391, /*side_on_flag*/1);

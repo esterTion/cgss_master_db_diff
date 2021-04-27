@@ -174,3 +174,4 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200125, /*name*/"Wish yo
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200126, /*name*/"君のステージ衣装、本当は…（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/126);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200127, /*name*/"EVIL LIVE（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/127);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200128, /*name*/"White again（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/128);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200129, /*name*/"躍るFLAGSHIP（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/129);
