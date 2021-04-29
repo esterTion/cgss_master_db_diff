@@ -16,6 +16,7 @@ INSERT INTO `dress_data` VALUES (/*id*/15, /*name*/"Go To Paradise", /*descripti
 INSERT INTO `dress_data` VALUES (/*id*/16, /*name*/"Go To Paradise/リゾート", /*description*/"楽園を満喫するためのドレス。\nステージは爽やかな青空と白い雲のように、\nリゾートでの姿は、地上で輝く太陽のよう。\n2つの着回しで、アイドルも遊びも楽しもう。", /*open_type*/2, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/17, /*name*/"ネクスト・フロンティア／コーデ", /*description*/"パーツごとにカラーを変更できる\nドレスコーデ対応衣装になります。", /*open_type*/2, /*dress_type*/2);
 INSERT INTO `dress_data` VALUES (/*id*/18, /*name*/"ハピネス・エール", /*description*/"みんなの幸せを願う、少女たちの衣装。\n新しい時代は、すぐそこまで来ている。\n次の扉をアイドルと一緒に開いて、\n笑顔溢れる毎日にしよう。", /*open_type*/4, /*dress_type*/1);
+INSERT INTO `dress_data` VALUES (/*id*/22, /*name*/"MV登場衣装１", /*description*/"just-us-justiceMV登場衣装", /*open_type*/99, /*dress_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/100, /*name*/"SSレア衣装", /*description*/"", /*open_type*/1, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/201, /*name*/"Sレア衣装", /*description*/"", /*open_type*/0, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/202, /*name*/"レア衣装", /*description*/"", /*open_type*/0, /*dress_type*/3);
@@ -58,6 +59,7 @@ INSERT INTO `dress_data` VALUES (/*id*/7034000, /*name*/"スキャンダラス�
 INSERT INTO `dress_data` VALUES (/*id*/7035000, /*name*/"オタク・マッシグラ", /*description*/"オタク愛を叫ぶ、少女たちのドレス。\n人に理解されないのは、苦しいかもしれない。\nそれでも「好き」を貫くあなたの姿は、\nきっと誰よりも輝いている。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7036000, /*name*/"おひさまたより", /*description*/"太陽のようにあたたかい、少女たちのドレス。\n心地よい音が心を撫でていき、ぽかぽかとした\n気持ちにしてくれる。さぁ、想いのままに\n翼を広げて、大空に夢を描きにいこう。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7037000, /*name*/"フェイク・ラヴ", /*description*/"心を燃やす、少女たちのドレス。\n灰になると解っていても構わない。\n胸に抱えた想いを激しい炎に変えて、\n自らの在り方を最後の瞬間まで貫き通そう。", /*open_type*/5, /*dress_type*/3);
+INSERT INTO `dress_data` VALUES (/*id*/7038000, /*name*/"リトル・ユーフォリア", /*description*/"胸の内に想いを秘めた少女たちのドレス。\n移り変わっていく景色の中で、\n小さな勇気を力に一歩踏み出そうとする。\nそんな彼女たちを、優しく包んでくれる。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7040000, /*name*/"あなたのトナカイさん", /*description*/"クリスマスをテーマにした、智絵里の衣装。\nモコモコ衣装とトナカイ耳がチャーミング。\nデザインした者の想いがこもっている。", /*open_type*/3, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7041000, /*name*/"ハートフル・トッピング", /*description*/"甘い幸せをお届けする、少女たちのドレス。\nこだわりの一品を、心を込めて作ってくれる。\nそのスイーツは美味しいだけではなく、\nたくさんの笑顔と幸せをも生み出していく。", /*open_type*/3, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7042000, /*name*/"ゾンビィ・ハート", /*description*/"死んでも夢を叶えたい少女たちのドレス。\n時代を超えて伝説は集う。己のサガを再び\nこの世界に刻むために。生きる屍になったと\nしても、その瑞々しい輝きは曇ることはない。", /*open_type*/2, /*dress_type*/1);

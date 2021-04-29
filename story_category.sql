@@ -442,3 +442,4 @@ INSERT INTO `story_category` VALUES (/*id*/466, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/467, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"ゾンビランドサガ リベンジコラボ", /*sub_title*/"ゾンビランドサガ リベンジコラボ", /*disp_order*/27, /*filter_type*/402);
 INSERT INTO `story_category` VALUES (/*id*/468, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Life is HaRMONY", /*sub_title*/"Life is HaRMONY", /*disp_order*/150, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/469, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"イケナイGO AHEAD", /*sub_title*/"イケナイGO AHEAD", /*disp_order*/151, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/470, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Just Us Justice", /*sub_title*/"Just Us Justice", /*disp_order*/152, /*filter_type*/0);

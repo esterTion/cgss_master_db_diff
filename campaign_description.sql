@@ -10,3 +10,7 @@ INSERT INTO `campaign_description` VALUES (/*id*/84, /*title*/"ガシャ", /*des
 INSERT INTO `campaign_description` VALUES (/*id*/85, /*title*/"ガシャ", /*description*/"プラチナオーディションガシャ1日1回10連無料 !", /*page_index*/400);
 INSERT INTO `campaign_description` VALUES (/*id*/86, /*title*/"ガシャ", /*description*/"シンデレラフェス ノワール開催中 ! ", /*page_index*/400);
 INSERT INTO `campaign_description` VALUES (/*id*/92, /*title*/"営業", /*description*/"獲得経験値{0}倍 ! ", /*page_index*/3300);
+INSERT INTO `campaign_description` VALUES (/*id*/111, /*title*/"LIVE", /*description*/"ドリームユニットキャンペーン実施中 !", /*page_index*/100);
+INSERT INTO `campaign_description` VALUES (/*id*/112, /*title*/"アイドル編成", /*description*/"ルームのお気に入り編成で未所持SSレア・Sレアの衣装が着用可能 !", /*page_index*/503);
+INSERT INTO `campaign_description` VALUES (/*id*/113, /*title*/"プロデュースノート", /*description*/"フォトスタジオで未所持SSレアの衣装が着用可能 !", /*page_index*/907);
+INSERT INTO `campaign_description` VALUES (/*id*/114, /*title*/"デレスポ", /*description*/"フォトスタジオで未所持SSレアの衣装が着用可能 !", /*page_index*/14);

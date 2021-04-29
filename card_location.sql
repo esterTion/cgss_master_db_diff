@@ -1172,3 +1172,9 @@ INSERT INTO `card_location` VALUES (/*index*/1185, /*text*/"自然の中にあ�
 INSERT INTO `card_location` VALUES (/*index*/1186, /*text*/"スイス・駅構内");
 INSERT INTO `card_location` VALUES (/*index*/1187, /*text*/"撮影セット・スイス上空");
 INSERT INTO `card_location` VALUES (/*index*/1188, /*text*/"漁船の上");
+INSERT INTO `card_location` VALUES (/*index*/1189, /*text*/"鎌倉・ふたりだけの浜辺");
+INSERT INTO `card_location` VALUES (/*index*/1190, /*text*/"海原を模したセット");
+INSERT INTO `card_location` VALUES (/*index*/1191, /*text*/"河川敷");
+INSERT INTO `card_location` VALUES (/*index*/1192, /*text*/"基地の屋上");
+INSERT INTO `card_location` VALUES (/*index*/1193, /*text*/"射撃場の撮影セット");
+INSERT INTO `card_location` VALUES (/*index*/1194, /*text*/"ジャスティスハリケーン");
