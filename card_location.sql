@@ -1178,3 +1178,8 @@ INSERT INTO `card_location` VALUES (/*index*/1191, /*text*/"河川敷");
 INSERT INTO `card_location` VALUES (/*index*/1192, /*text*/"基地の屋上");
 INSERT INTO `card_location` VALUES (/*index*/1193, /*text*/"射撃場の撮影セット");
 INSERT INTO `card_location` VALUES (/*index*/1194, /*text*/"ジャスティスハリケーン");
+INSERT INTO `card_location` VALUES (/*index*/1195, /*text*/"落日に染まる花園");
+INSERT INTO `card_location` VALUES (/*index*/1196, /*text*/"バラの侵蝕を許す洋館");
+INSERT INTO `card_location` VALUES (/*index*/1197, /*text*/"地下通路・撮影中");
+INSERT INTO `card_location` VALUES (/*index*/1198, /*text*/"洋館・撮影準備中");
+INSERT INTO `card_location` VALUES (/*index*/1203, /*text*/"おもちゃのしょうがっこう");
