@@ -3142,7 +3142,7 @@ INSERT INTO `text_data` VALUES (/*category*/66, /*index*/66, /*text*/"購入数"
 INSERT INTO `text_data` VALUES (/*category*/66, /*index*/67, /*text*/"有償スタージュエル");
 INSERT INTO `text_data` VALUES (/*category*/66, /*index*/68, /*text*/"アイテム所持数");
 INSERT INTO `text_data` VALUES (/*category*/67, /*index*/1, /*text*/"デレステビンGO !");
-INSERT INTO `text_data` VALUES (/*category*/67, /*index*/2, /*text*/"4月29日15時から抽選開始 !");
+INSERT INTO `text_data` VALUES (/*category*/67, /*index*/2, /*text*/"5月23日まで抽選結果発表中 !");
 INSERT INTO `text_data` VALUES (/*category*/67, /*index*/3, /*text*/"ビンゴシート\n作り直し");
 INSERT INTO `text_data` VALUES (/*category*/67, /*index*/4, /*text*/"履歴");
 INSERT INTO `text_data` VALUES (/*category*/67, /*index*/5, /*text*/"更新");

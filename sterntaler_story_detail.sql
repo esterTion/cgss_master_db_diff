@@ -222,3 +222,6 @@ INSERT INTO `sterntaler_story_detail` VALUES (/*id*/4996, /*data_1*/27034, /*dat
 INSERT INTO `sterntaler_story_detail` VALUES (/*id*/4997, /*data_1*/27035, /*data_2*/221, /*data_3*/0);
 INSERT INTO `sterntaler_story_detail` VALUES (/*id*/4998, /*data_1*/27476, /*data_2*/222, /*data_3*/0);
 INSERT INTO `sterntaler_story_detail` VALUES (/*id*/4999, /*data_1*/27477, /*data_2*/223, /*data_3*/0);
+INSERT INTO `sterntaler_story_detail` VALUES (/*id*/5000, /*data_1*/27513, /*data_2*/224, /*data_3*/0);
+INSERT INTO `sterntaler_story_detail` VALUES (/*id*/5001, /*data_1*/27514, /*data_2*/225, /*data_3*/0);
+INSERT INTO `sterntaler_story_detail` VALUES (/*id*/5002, /*data_1*/27515, /*data_2*/226, /*data_3*/0);
