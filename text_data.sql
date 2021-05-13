@@ -2860,6 +2860,8 @@ INSERT INTO `text_data` VALUES (/*category*/57, /*index*/96, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/57, /*index*/97, /*text*/"プレミアムパス更新失敗通知");
 INSERT INTO `text_data` VALUES (/*category*/57, /*index*/98, /*text*/"現在のお支払い方法に問題が発生したため、\nプレミアムパスを更新できない状態です。\n\nGoogle Playの「定期購入管理」より、\nお支払方法のご確認をお願いいたします。\n\nお支払い状況の反映のため、\nご確認後はアプリの再起動をお願いいたします。");
 INSERT INTO `text_data` VALUES (/*category*/57, /*index*/99, /*text*/"更新停止中");
+INSERT INTO `text_data` VALUES (/*category*/57, /*index*/100, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/57, /*index*/101, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/58, /*index*/1, /*text*/"Twitter移動確認");
 INSERT INTO `text_data` VALUES (/*category*/58, /*index*/2, /*text*/"最新の誕生日イラストが公開されている\n「アイドルマスター シンデレラガールズ\nスターライトステージ」の\n公式Twitterアカウントに移動します。\n\nよろしいですか？");
 INSERT INTO `text_data` VALUES (/*category*/58, /*index*/3, /*text*/"デフォルト順");
