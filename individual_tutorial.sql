@@ -136,7 +136,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーを\n倉庫収納数から除外しました。\n収納していても、収納数にカウントされなくなりました。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ルームショップに新ルームコーデを追加 !\n読書カフェ、空中庭園、SFドラマ撮影と\n色んなシチュエーションを楽しみましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"ルームショップにて、「こどもの日」テーマの\nアイテム、コーデを復刻販売開始 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"U149コミックス7,8巻発売記念！\nコラボルームアイテム『青空クッキングスペース』
+を販売開始しました！");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"After20コミックス5,6巻発売記念！\nコラボルームアイテム販売！");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -411,16 +413,16 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60103, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60104, /*img*/1, /*discription*/"異なる難易度のプロデューサーと\n一緒にLIVEが楽しめる「カジュアルマッチ」が\n選択できるようになりました。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/1, /*discription*/"「イベントptランキング報酬」、「達成pt報酬」、\n「ハイスコアランキング報酬」で、イベント限定の\nSレアアイドルやルームアイテムを手にいれましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/2, /*discription*/"イベントptランキングで50万位に入賞すると、\n自分の順位が入ったイベント称号を獲得できます。\n各称号のデザインは順位によって異なります。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/3, /*discription*/"通常楽曲とイベント限定営業をプレイすると、\nコイシグナルとイベントptを獲得できます。\nコイシグナルは、スタミナ消費量と\nSCOREランクが高いほど多く獲得できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/4, /*discription*/"イベント楽曲は、スタミナではなく\nコイシグナルを消費してプレイします。\n通常楽曲よりも多くイベントptを獲得できます。\nイベント楽曲は、イベント期間中のみプレイできます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/5, /*discription*/"通常楽曲とイベント限定営業でコイシグナルを\n集め、イベント楽曲で大量にptを獲得しましょう。\nランキング入賞を目指して頑張りましょう。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80002, /*img*/1, /*discription*/"コイシグナル消費数を2倍、または4倍に\n設定することができます。\n消費数に応じて、イベントptを多く獲得できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/3, /*discription*/"通常楽曲とイベント限定営業をプレイすると、\nトトトトーンとイベントptを獲得できます。\nトトトトーンは、スタミナ消費量と\nSCOREランクが高いほど多く獲得できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/4, /*discription*/"イベント楽曲は、スタミナではなく\nトトトトーンを消費してプレイします。\n通常楽曲よりも多くイベントptを獲得できます。\nイベント楽曲は、イベント期間中のみプレイできます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/5, /*discription*/"通常楽曲とイベント限定営業でトトトトーンを\n集め、イベント楽曲で大量にptを獲得しましょう。\nランキング入賞を目指して頑張りましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80002, /*img*/1, /*discription*/"トトトトーン消費数を2倍、または4倍に\n設定することができます。\n消費数に応じて、イベントptを多く獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80003, /*img*/1, /*discription*/"「イベントptランキング報酬」、「達成pt報酬」、\n「ハイスコアランキング報酬」で、イベント限定の\nSレアアイドルやルームアイテムを手にいれましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80003, /*img*/2, /*discription*/"イベントptランキングで50万位に入賞すると、\n自分の順位が入ったイベント称号を獲得できます。\n各称号のデザインは順位によって異なります。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80003, /*img*/3, /*discription*/"通常楽曲とイベント限定営業をプレイすると、\nコイシグナルとイベントptを獲得できます。\nコイシグナルは、スタミナ消費量と\nSCOREランクが高いほど多く獲得できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80003, /*img*/4, /*discription*/"イベント楽曲は、スタミナではなく\nコイシグナルを消費してプレイします。\n通常楽曲よりも多くイベントptを獲得できます。\nイベント楽曲は、イベント期間中のみプレイできます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80003, /*img*/5, /*discription*/"通常楽曲とイベント限定営業でコイシグナルを\n集め、イベント楽曲で大量にptを獲得しましょう。\nランキング入賞を目指して頑張りましょう。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80003, /*img*/6, /*discription*/"コイシグナル消費数を2倍、または4倍に\n設定することができます。\n消費数に応じて、イベントptを多く獲得できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80003, /*img*/3, /*discription*/"通常楽曲とイベント限定営業をプレイすると、\nトトトトーンとイベントptを獲得できます。\nトトトトーンは、スタミナ消費量と\nSCOREランクが高いほど多く獲得できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80003, /*img*/4, /*discription*/"イベント楽曲は、スタミナではなく\nトトトトーンを消費してプレイします。\n通常楽曲よりも多くイベントptを獲得できます。\nイベント楽曲は、イベント期間中のみプレイできます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80003, /*img*/5, /*discription*/"通常楽曲とイベント限定営業でトトトトーンを\n集め、イベント楽曲で大量にptを獲得しましょう。\nランキング入賞を目指して頑張りましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80003, /*img*/6, /*discription*/"トトトトーン消費数を2倍、または4倍に\n設定することができます。\n消費数に応じて、イベントptを多く獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80101, /*img*/1, /*discription*/"イベント期間中にLIVEをプレイすると、\n限定のアイドルを確率で手に入れることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80101, /*img*/2, /*discription*/"日によって限定アイドルの出現率がアップする楽曲が\n決まっています。キュート、クール、パッション、全タイプ楽曲の\nいずれかのタイプの全ての楽曲が対象になります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80101, /*img*/2, /*discription*/"また、全楽曲出現率アップ日には、すべての楽曲が\n出現率アップの対象になります。");
