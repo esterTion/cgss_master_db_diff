@@ -318,4 +318,5 @@ INSERT INTO `gacha_l_constant_ssr_exclude` VALUES (/*g_id*/316);
 INSERT INTO `gacha_l_constant_ssr_exclude` VALUES (/*g_id*/317);
 INSERT INTO `gacha_l_constant_ssr_exclude` VALUES (/*g_id*/318);
 INSERT INTO `gacha_l_constant_ssr_exclude` VALUES (/*g_id*/319);
+INSERT INTO `gacha_l_constant_ssr_exclude` VALUES (/*g_id*/320);
 INSERT INTO `gacha_l_constant_ssr_exclude` VALUES (/*g_id*/10000);

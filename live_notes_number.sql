@@ -948,6 +948,8 @@ INSERT INTO `live_notes_number` VALUES (/*live_id*/323, /*difficulty*/2, /*notes
 INSERT INTO `live_notes_number` VALUES (/*live_id*/323, /*difficulty*/3, /*notes_number*/274, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/323, /*difficulty*/4, /*notes_number*/413, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/323, /*difficulty*/5, /*notes_number*/521, /*damage_note_number*/0);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/323, /*difficulty*/11, /*notes_number*/109, /*damage_note_number*/0);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/323, /*difficulty*/12, /*notes_number*/269, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/324, /*difficulty*/1, /*notes_number*/88, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/324, /*difficulty*/2, /*notes_number*/164, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/324, /*difficulty*/3, /*notes_number*/361, /*damage_note_number*/0);
@@ -994,6 +996,8 @@ INSERT INTO `live_notes_number` VALUES (/*live_id*/329, /*difficulty*/2, /*notes
 INSERT INTO `live_notes_number` VALUES (/*live_id*/329, /*difficulty*/3, /*notes_number*/295, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/329, /*difficulty*/4, /*notes_number*/573, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/329, /*difficulty*/5, /*notes_number*/692, /*damage_note_number*/0);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/329, /*difficulty*/11, /*notes_number*/131, /*damage_note_number*/0);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/329, /*difficulty*/12, /*notes_number*/305, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/329, /*difficulty*/101, /*notes_number*/674, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/330, /*difficulty*/1, /*notes_number*/121, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/330, /*difficulty*/2, /*notes_number*/187, /*damage_note_number*/0);
