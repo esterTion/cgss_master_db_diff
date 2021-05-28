@@ -176,3 +176,4 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200127, /*name*/"EVIL LI
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200128, /*name*/"White again（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/128);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200129, /*name*/"躍るFLAGSHIP（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/129);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200130, /*name*/"Life is HaRMONY（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/130);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200131, /*name*/"イケナイGO AHEAD（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/131);
