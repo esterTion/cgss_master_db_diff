@@ -446,3 +446,4 @@ INSERT INTO `story_category` VALUES (/*id*/469, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/470, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Just Us Justice", /*sub_title*/"Just Us Justice", /*disp_order*/152, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/471, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"クラリス / 高峯のあ", /*sub_title*/"クラリス / 高峯のあ", /*disp_order*/153, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/472, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"とんでいっちゃいたいの", /*sub_title*/"とんでいっちゃいたいの", /*disp_order*/154, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/473, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Hungry Bambi", /*sub_title*/"Hungry Bambi", /*disp_order*/155, /*filter_type*/0);

@@ -3329,6 +3329,8 @@ INSERT INTO `text_data` VALUES (/*category*/73, /*index*/22, /*text*/"{0}pt");
 INSERT INTO `text_data` VALUES (/*category*/73, /*index*/23, /*text*/"難易度{0}に挑戦！今回の順位は{1}位!\n現在のレートポイントは{2}!\n#デレステ #クイズdeシンデレラ");
 INSERT INTO `text_data` VALUES (/*category*/73, /*index*/24, /*text*/"クイズ会場へ");
 INSERT INTO `text_data` VALUES (/*category*/73, /*index*/25, /*text*/"マッチングする難易度を選択してください");
+INSERT INTO `text_data` VALUES (/*category*/73, /*index*/26, /*text*/"レートポイントリセット");
+INSERT INTO `text_data` VALUES (/*category*/73, /*index*/27, /*text*/"レートポイントがリセットされました\nタイトルへ戻ります");
 INSERT INTO `text_data` VALUES (/*category*/73, /*index*/100, /*text*/"[ef2782]produced by {0} P[-]");
 INSERT INTO `text_data` VALUES (/*category*/73, /*index*/101, /*text*/"[006aff]produced by {0} P[-]");
 INSERT INTO `text_data` VALUES (/*category*/73, /*index*/102, /*text*/"[f49207]produced by {0} P[-]");

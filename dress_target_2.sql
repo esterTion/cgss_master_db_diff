@@ -60,6 +60,7 @@ INSERT INTO `dress_target_2` VALUES (/*id*/7035000, /*target_chara_type*/0, /*ta
 INSERT INTO `dress_target_2` VALUES (/*id*/7036000, /*target_chara_type*/0, /*target_chara*/"112,124,205,262");
 INSERT INTO `dress_target_2` VALUES (/*id*/7037000, /*target_chara_type*/0, /*target_chara*/"102,127,194,228,247");
 INSERT INTO `dress_target_2` VALUES (/*id*/7038000, /*target_chara_type*/0, /*target_chara*/"150,214,256");
+INSERT INTO `dress_target_2` VALUES (/*id*/7039000, /*target_chara_type*/0, /*target_chara*/"115,119,131,243,263");
 INSERT INTO `dress_target_2` VALUES (/*id*/7040000, /*target_chara_type*/0, /*target_chara*/112);
 INSERT INTO `dress_target_2` VALUES (/*id*/7041000, /*target_chara_type*/0, /*target_chara*/"272,105,275,149,108");
 INSERT INTO `dress_target_2` VALUES (/*id*/7042000, /*target_chara_type*/0, /*target_chara*/"111,119,238,256,304");
