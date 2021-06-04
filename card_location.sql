@@ -1204,3 +1204,8 @@ INSERT INTO `card_location` VALUES (/*index*/1217, /*text*/"天文台・屋上")
 INSERT INTO `card_location` VALUES (/*index*/1218, /*text*/"母艦・メインブリッジ");
 INSERT INTO `card_location` VALUES (/*index*/1219, /*text*/"館の正門");
 INSERT INTO `card_location` VALUES (/*index*/1220, /*text*/"館の中");
+INSERT INTO `card_location` VALUES (/*index*/1221, /*text*/"船上の式場");
+INSERT INTO `card_location` VALUES (/*index*/1222, /*text*/"摩天楼を眺める海沿い");
+INSERT INTO `card_location` VALUES (/*index*/1223, /*text*/"ブライダルの撮影スタジオ");
+INSERT INTO `card_location` VALUES (/*index*/1224, /*text*/"ドレッサーの撮影スタジオ");
+INSERT INTO `card_location` VALUES (/*index*/1225, /*text*/"ハウススタジオ・リビング");
