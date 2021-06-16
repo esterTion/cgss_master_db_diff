@@ -1214,3 +1214,5 @@ INSERT INTO `card_location` VALUES (/*index*/1227, /*text*/"屋外セット・�
 INSERT INTO `card_location` VALUES (/*index*/1228, /*text*/"雨降りのログハウス");
 INSERT INTO `card_location` VALUES (/*index*/1229, /*text*/"雨上がりのラベンダー畑");
 INSERT INTO `card_location` VALUES (/*index*/1230, /*text*/"楽屋入口");
+INSERT INTO `card_location` VALUES (/*index*/1231, /*text*/"森の中・どこかへ続く道");
+INSERT INTO `card_location` VALUES (/*index*/1232, /*text*/"美しき水辺");
