@@ -1216,3 +1216,6 @@ INSERT INTO `card_location` VALUES (/*index*/1229, /*text*/"雨上がりのラ�
 INSERT INTO `card_location` VALUES (/*index*/1230, /*text*/"楽屋入口");
 INSERT INTO `card_location` VALUES (/*index*/1231, /*text*/"森の中・どこかへ続く道");
 INSERT INTO `card_location` VALUES (/*index*/1232, /*text*/"美しき水辺");
+INSERT INTO `card_location` VALUES (/*index*/1233, /*text*/"マングローブの森");
+INSERT INTO `card_location` VALUES (/*index*/1234, /*text*/"野外音楽祭ステージ");
+INSERT INTO `card_location` VALUES (/*index*/1235, /*text*/"焼き物店・工房");
