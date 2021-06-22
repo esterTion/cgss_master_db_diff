@@ -95,9 +95,11 @@ INSERT INTO `dress_acc_palette` VALUES (/*id*/4022, /*dress_id*/17, /*model_type
 INSERT INTO `dress_acc_palette` VALUES (/*id*/4023, /*dress_id*/17, /*model_type*/3, /*layer_id*/1, /*color_code*/"B2F0FA", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/4024, /*dress_id*/17, /*model_type*/3, /*layer_id*/1, /*color_code*/"C4FFCE", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/4025, /*dress_id*/17, /*model_type*/3, /*layer_id*/1, /*color_code*/"BFBCC0", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
+INSERT INTO `dress_acc_palette` VALUES (/*id*/4026, /*dress_id*/17, /*model_type*/3, /*layer_id*/1, /*color_code*/"D6A58C", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/4027, /*dress_id*/17, /*model_type*/3, /*layer_id*/2, /*color_code*/"F5E8FF", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/4028, /*dress_id*/17, /*model_type*/3, /*layer_id*/2, /*color_code*/"B3F5F3", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/4029, /*dress_id*/17, /*model_type*/3, /*layer_id*/2, /*color_code*/"D2FFEC", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/4030, /*dress_id*/17, /*model_type*/3, /*layer_id*/2, /*color_code*/"2E2A2A", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
+INSERT INTO `dress_acc_palette` VALUES (/*id*/4031, /*dress_id*/17, /*model_type*/3, /*layer_id*/2, /*color_code*/"EED3B7", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/4037, /*dress_id*/17, /*model_type*/3, /*layer_id*/3, /*color_code*/717178, /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/4038, /*dress_id*/17, /*model_type*/3, /*layer_id*/3, /*color_code*/"84CCBB", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);

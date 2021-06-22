@@ -6,4 +6,5 @@ INSERT INTO `gallery_gimmick_data` VALUES (/*id*/4, /*gimmick_type*/1, /*gimmick
 INSERT INTO `gallery_gimmick_data` VALUES (/*id*/5, /*gimmick_type*/1, /*gimmick_name*/"0220_2922", /*fade_type*/1, /*source_type*/1, /*source_id*/36);
 INSERT INTO `gallery_gimmick_data` VALUES (/*id*/6, /*gimmick_type*/1, /*gimmick_name*/"0257_01", /*fade_type*/1, /*source_type*/1, /*source_id*/37);
 INSERT INTO `gallery_gimmick_data` VALUES (/*id*/7, /*gimmick_type*/1, /*gimmick_name*/4002, /*fade_type*/1, /*source_type*/1, /*source_id*/42);
+INSERT INTO `gallery_gimmick_data` VALUES (/*id*/8, /*gimmick_type*/1, /*gimmick_name*/"", /*fade_type*/1, /*source_type*/1, /*source_id*/52);
 CREATE INDEX 'gallery_gimmick_data_0_source_type_1_source_id' on 'gallery_gimmick_data'('source_type','source_id');

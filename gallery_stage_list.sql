@@ -41,3 +41,4 @@ INSERT INTO `gallery_stage_list` VALUES (/*id*/42, /*disp_order*/34, /*disp_name
 INSERT INTO `gallery_stage_list` VALUES (/*id*/43, /*disp_order*/35, /*disp_name*/"ステージ 桜の頃", /*bg_id*/4022, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/44, /*disp_order*/36, /*disp_name*/"ステージ Twin☆くるっ★テール", /*bg_id*/3008, /*bg_type*/1, /*left_degree*/64, /*right_degree*/64);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/45, /*disp_order*/37, /*disp_name*/"ステージ Trinity Field", /*bg_id*/2006, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/46, /*disp_order*/38, /*disp_name*/"ステージ キラッ ! 満開スマイル", /*bg_id*/1009, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
