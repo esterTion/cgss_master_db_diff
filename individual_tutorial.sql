@@ -386,6 +386,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60032, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60032, /*img*/2, /*discription*/"「場数pt」は、アイドルの加入や特訓により\nアイドルを新たにアルバム登録した際に入手できます。\nアイドルとより多くの場数を踏んでptを増やしましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60032, /*img*/3, /*discription*/"一度設定したプロデュース方針は\n専用アイテム「方針変更書」を使うことでリセットできます。\nリセットした場合、使用していた場数ptは\nすべて戻ってきます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60032, /*img*/3, /*discription*/"「方針変更書」はショップから\n有償スタージュエルと交換することなどで入手できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60033, /*img*/1, /*discription*/"「デレマス観光大使ギャラリー」を追加しました。\nデレマス観光大使ギャラリーでは、アイドルたちが\n自身の出身地を巡るイラストを見ることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/1, /*discription*/"「LIVE PARTY!!」では、協力LIVEを行うことで、\n「スターエンブレム」が獲得できます。\n「スターエンブレム」を集めると、過去イベントの報酬や、\nアイテムとの交換ができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。\n楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/3, /*discription*/"カジュアルマッチを有効にした場合は、\n異なる難易度を選択したプロデューサーもマッチング対象となり、\nLIVEを行います。");

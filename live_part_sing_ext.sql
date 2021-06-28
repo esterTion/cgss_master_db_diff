@@ -18,4 +18,12 @@ INSERT INTO `live_part_sing_ext` VALUES (/*id*/16, /*song_id*/2005, /*ref_pos*/3
 INSERT INTO `live_part_sing_ext` VALUES (/*id*/17, /*song_id*/2006, /*ref_pos*/1, /*file_id*/1);
 INSERT INTO `live_part_sing_ext` VALUES (/*id*/18, /*song_id*/2006, /*ref_pos*/2, /*file_id*/1);
 INSERT INTO `live_part_sing_ext` VALUES (/*id*/19, /*song_id*/2006, /*ref_pos*/3, /*file_id*/1);
+INSERT INTO `live_part_sing_ext` VALUES (/*id*/20, /*song_id*/9015, /*ref_pos*/1, /*file_id*/1);
+INSERT INTO `live_part_sing_ext` VALUES (/*id*/21, /*song_id*/9015, /*ref_pos*/2, /*file_id*/1);
+INSERT INTO `live_part_sing_ext` VALUES (/*id*/22, /*song_id*/9015, /*ref_pos*/3, /*file_id*/1);
+INSERT INTO `live_part_sing_ext` VALUES (/*id*/23, /*song_id*/9015, /*ref_pos*/4, /*file_id*/1);
+INSERT INTO `live_part_sing_ext` VALUES (/*id*/24, /*song_id*/9015, /*ref_pos*/5, /*file_id*/1);
+INSERT INTO `live_part_sing_ext` VALUES (/*id*/25, /*song_id*/9015, /*ref_pos*/1, /*file_id*/2);
+INSERT INTO `live_part_sing_ext` VALUES (/*id*/26, /*song_id*/9015, /*ref_pos*/3, /*file_id*/2);
+INSERT INTO `live_part_sing_ext` VALUES (/*id*/27, /*song_id*/9015, /*ref_pos*/4, /*file_id*/2);
 CREATE INDEX 'live_part_sing_ext_0_song_id' on 'live_part_sing_ext'('song_id');

@@ -2884,10 +2884,10 @@ INSERT INTO `text_data` VALUES (/*category*/58, /*index*/19, /*text*/"対象の�
 INSERT INTO `text_data` VALUES (/*category*/58, /*index*/20, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/58, /*index*/21, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/58, /*index*/22, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/58, /*index*/23, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/58, /*index*/24, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/58, /*index*/25, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/58, /*index*/26, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/58, /*index*/23, /*text*/"観光大使");
+INSERT INTO `text_data` VALUES (/*category*/58, /*index*/24, /*text*/"最新のデレマス観光大使イラストが公開されている\n「アイドルマスター シンデレラガールズ\nスターライトステージ」の\n公式Twitterアカウントに移動します。\n\nよろしいですか？");
+INSERT INTO `text_data` VALUES (/*category*/58, /*index*/25, /*text*/"出身地");
+INSERT INTO `text_data` VALUES (/*category*/58, /*index*/26, /*text*/"Twitterへ\n移動");
 INSERT INTO `text_data` VALUES (/*category*/59, /*index*/1, /*text*/"ボイスアイドルオーディション");
 INSERT INTO `text_data` VALUES (/*category*/59, /*index*/2, /*text*/"好きなアイドルに投票しましょう ! ");
 INSERT INTO `text_data` VALUES (/*category*/59, /*index*/3, /*text*/"所持投票券");
