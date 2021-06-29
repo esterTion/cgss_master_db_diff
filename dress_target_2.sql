@@ -16,6 +16,8 @@ INSERT INTO `dress_target_2` VALUES (/*id*/15, /*target_chara_type*/7, /*target_
 INSERT INTO `dress_target_2` VALUES (/*id*/16, /*target_chara_type*/7, /*target_chara*/0);
 INSERT INTO `dress_target_2` VALUES (/*id*/17, /*target_chara_type*/7, /*target_chara*/0);
 INSERT INTO `dress_target_2` VALUES (/*id*/18, /*target_chara_type*/7, /*target_chara*/0);
+INSERT INTO `dress_target_2` VALUES (/*id*/20, /*target_chara_type*/7, /*target_chara*/0);
+INSERT INTO `dress_target_2` VALUES (/*id*/21, /*target_chara_type*/7, /*target_chara*/0);
 INSERT INTO `dress_target_2` VALUES (/*id*/22, /*target_chara_type*/7, /*target_chara*/0);
 INSERT INTO `dress_target_2` VALUES (/*id*/100, /*target_chara_type*/0, /*target_chara*/0);
 INSERT INTO `dress_target_2` VALUES (/*id*/201, /*target_chara_type*/0, /*target_chara*/0);
@@ -64,3 +66,4 @@ INSERT INTO `dress_target_2` VALUES (/*id*/7039000, /*target_chara_type*/0, /*ta
 INSERT INTO `dress_target_2` VALUES (/*id*/7040000, /*target_chara_type*/0, /*target_chara*/112);
 INSERT INTO `dress_target_2` VALUES (/*id*/7041000, /*target_chara_type*/0, /*target_chara*/"272,105,275,149,108");
 INSERT INTO `dress_target_2` VALUES (/*id*/7042000, /*target_chara_type*/0, /*target_chara*/"111,119,238,256,304");
+INSERT INTO `dress_target_2` VALUES (/*id*/7045000, /*target_chara_type*/0, /*target_chara*/"122,254,260,280,293");

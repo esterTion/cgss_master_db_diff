@@ -16,6 +16,8 @@ INSERT INTO `dress_data` VALUES (/*id*/15, /*name*/"Go To Paradise", /*descripti
 INSERT INTO `dress_data` VALUES (/*id*/16, /*name*/"Go To Paradise/リゾート", /*description*/"楽園を満喫するためのドレス。\nステージは爽やかな青空と白い雲のように、\nリゾートでの姿は、地上で輝く太陽のよう。\n2つの着回しで、アイドルも遊びも楽しもう。", /*open_type*/2, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/17, /*name*/"ネクスト・フロンティア／コーデ", /*description*/"パーツごとにカラーを変更できる\nドレスコーデ対応衣装になります。", /*open_type*/2, /*dress_type*/2);
 INSERT INTO `dress_data` VALUES (/*id*/18, /*name*/"ハピネス・エール", /*description*/"みんなの幸せを願う、少女たちの衣装。\n新しい時代は、すぐそこまで来ている。\n次の扉をアイドルと一緒に開いて、\n笑顔溢れる毎日にしよう。", /*open_type*/4, /*dress_type*/1);
+INSERT INTO `dress_data` VALUES (/*id*/20, /*name*/"コネクテッド・パラレル", /*description*/"全世界と繋がる、最先端のドレス。\n時代に合わせて形を変えながら、\n少女たちの夢は、変わらず輝き続ける。", /*open_type*/2, /*dress_type*/1);
+INSERT INTO `dress_data` VALUES (/*id*/21, /*name*/"コネクテッド・パラレル/パンツ", /*description*/"全世界と繋がる、最先端のドレス。\n時代に合わせて形を変えながら、\n少女たちの夢は、変わらず輝き続ける。", /*open_type*/2, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/22, /*name*/"MV登場衣装１", /*description*/"just-us-justiceMV登場衣装", /*open_type*/99, /*dress_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/100, /*name*/"SSレア衣装", /*description*/"", /*open_type*/1, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/201, /*name*/"Sレア衣装", /*description*/"", /*open_type*/0, /*dress_type*/3);
@@ -64,3 +66,4 @@ INSERT INTO `dress_data` VALUES (/*id*/7039000, /*name*/"タイニー・デビ�
 INSERT INTO `dress_data` VALUES (/*id*/7040000, /*name*/"あなたのトナカイさん", /*description*/"クリスマスをテーマにした、智絵里の衣装。\nモコモコ衣装とトナカイ耳がチャーミング。\nデザインした者の想いがこもっている。", /*open_type*/3, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7041000, /*name*/"ハートフル・トッピング", /*description*/"甘い幸せをお届けする、少女たちのドレス。\nこだわりの一品を、心を込めて作ってくれる。\nそのスイーツは美味しいだけではなく、\nたくさんの笑顔と幸せをも生み出していく。", /*open_type*/3, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7042000, /*name*/"ゾンビィ・ハート", /*description*/"死んでも夢を叶えたい少女たちのドレス。\n時代を超えて伝説は集う。己のサガを再び\nこの世界に刻むために。生きる屍になったと\nしても、その瑞々しい輝きは曇ることはない。", /*open_type*/2, /*dress_type*/1);
+INSERT INTO `dress_data` VALUES (/*id*/7045000, /*name*/"ノトーリアス・ガール", /*description*/"既成の価値観に抗う少女たちのドレス。\n燃えるような色は、彼女たちの決意の証。\n他の何にも縛られることなく、己の意志を\n貫き通し、この世界を生き抜いていく。", /*open_type*/5, /*dress_type*/3);

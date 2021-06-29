@@ -661,6 +661,12 @@ INSERT INTO `text_data` VALUES (/*category*/12, /*index*/137, /*text*/"{0}後ガ
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/138, /*text*/"お持ちの{0}が{1}まで未使用の場合、ガシャ機能に制限がかかります");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/139, /*text*/"ガシャ機能制限まで{0}");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/140, /*text*/"[D33D98]ガシャ機能制限まで{0}[-]");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/141, /*text*/"■ノワール限定アイドル");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/142, /*text*/"■ブラン限定アイドル");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/143, /*text*/"■期間限定アイドル");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/144, /*text*/"■恒常アイドル");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/145, /*text*/"([D33D98]{0}[-]種)");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/146, /*text*/"■イベント限定アイドル");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/1, /*text*/"エクストラコミュ解放");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/2, /*text*/"新たなエクストラコミュが解放されました");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/3, /*text*/"事務所");

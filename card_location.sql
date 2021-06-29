@@ -1225,3 +1225,8 @@ INSERT INTO `card_location` VALUES (/*index*/1238, /*text*/"雨の降るアジ�
 INSERT INTO `card_location` VALUES (/*index*/1239, /*text*/"自室風セット");
 INSERT INTO `card_location` VALUES (/*index*/1240, /*text*/"屋外グラウンド");
 INSERT INTO `card_location` VALUES (/*index*/1241, /*text*/"アイドル大運動会・会場");
+INSERT INTO `card_location` VALUES (/*index*/1242, /*text*/"仄暗い夜の海");
+INSERT INTO `card_location` VALUES (/*index*/1243, /*text*/"海底・朽ち果てた豪華客船");
+INSERT INTO `card_location` VALUES (/*index*/1244, /*text*/"小道具部屋");
+INSERT INTO `card_location` VALUES (/*index*/1245, /*text*/"呪われた館");
+INSERT INTO `card_location` VALUES (/*index*/1246, /*text*/"女子寮・小梅の部屋");

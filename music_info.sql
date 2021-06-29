@@ -107,6 +107,7 @@ INSERT INTO `music_info` VALUES (/*id*/2037, /*discription*/"村上巴（CV：�
 INSERT INTO `music_info` VALUES (/*id*/2038, /*discription*/"コラボ Version\n\n最上静香（CV：田所あずさ）\nジュリア（CV：愛美）\n\n\n作詞：磯谷佳江\n作曲・編曲：IMAJO", /*android_url*/"https://columbia.jp/sl-stage/haishin/COCC-17874_02.html", /*ios_url*/"https://columbia.jp/sl-stage/haishin/COCC-17874_02.html");
 INSERT INTO `music_info` VALUES (/*id*/2039, /*discription*/"南条光（CV：神谷早矢佳）\n脇山珠美（CV：嘉山未紗）\n結城晴（CV：小市眞琴）\n上条春菜（CV：長島光那）\n片桐早苗（CV：和氣あず未）\n\n\n作詞：ミズノゲンキ\n作曲・編曲：ゆよゆっぺ", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/2040, /*discription*/"佐々木千枝（CV：今井麻夏）\n市原仁奈（CV：久野美咲）\n橘ありす（CV：佐藤亜美菜）\n龍崎薫（CV：春瀬なつみ）\n棟方愛海（CV：藤本彩花）\n遊佐こずえ（CV：花谷麻妃）\n\n\n作詞・作曲：出口遼\n編曲：出口遼、飯田涼太", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/2041, /*discription*/"白坂小梅（CV：桜咲千依）\n辻野あかり（CV：梅澤めぐ）\n道明寺歌鈴（CV：新田ひより）\n佐久間まゆ（CV：牧野由依）\n小日向美穂（CV：津田美波）\n\n\n作詞：八城雄太\n作曲・編曲：Powerless", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/3001, /*discription*/"島村卯月（CV：大橋彩香）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（Yoshi）\nコーラス：Mitsu（BNSI）\nギター：後藤貴徳\nバイオリン：Bloom Quartet & Ensemble", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/3002, /*discription*/"渋谷凛（CV：福原綾香）\n\n\n作詞・作曲：BNEI（遠山明孝・八城雄太）\n作曲：BNEI（遠山明孝）\n編曲：関淳二郎\nギター・コーラス：関淳二郎", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/3003, /*discription*/"本田未央（CV：原紗友里）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（kyo）\nギター：後藤貴徳", /*android_url*/"", /*ios_url*/"");
@@ -346,3 +347,4 @@ INSERT INTO `music_info` VALUES (/*id*/9908, /*discription*/"藤本里奈（CV�
 INSERT INTO `music_info` VALUES (/*id*/9909, /*discription*/"一ノ瀬志希（CV：藍原ことみ）\n神谷奈緒（CV：松井恵理子）\n黒埼ちとせ（CV：佐倉薫）\n佐藤心（CV：花守ゆみり）\n的場梨沙（CV：集貝はな）\n\n\n作詞・作曲・編曲：広川恵一（MONACA）", /*android_url*/"https://columbia.jp/sl-stage/haishin/COCC-17741.html", /*ios_url*/"https://columbia.jp/sl-stage/haishin/COCC-17741.html");
 INSERT INTO `music_info` VALUES (/*id*/9910, /*discription*/"佐々木千枝（CV：今井麻夏）\n\n\n作詞：磯谷佳江\n作曲：小野貴光\n編曲：玉木千尋", /*android_url*/"https://columbia.jp/sl-stage/haishin/COKM-43109.html", /*ios_url*/"https://columbia.jp/sl-stage/haishin/COKM-43109.html");
 INSERT INTO `music_info` VALUES (/*id*/90001, /*discription*/"？", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/91001, /*discription*/"三村かな子（CV：大坪由佳）\n宮本フレデリカ（CV：髙野麻美）\n一ノ瀬志希（CV：藍原ことみ）\n\n\n作詞・作曲：佐伯youthK\n編曲：睦月周平", /*android_url*/"", /*ios_url*/"");
