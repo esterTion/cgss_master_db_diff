@@ -1230,3 +1230,9 @@ INSERT INTO `card_location` VALUES (/*index*/1243, /*text*/"海底・朽ち果�
 INSERT INTO `card_location` VALUES (/*index*/1244, /*text*/"小道具部屋");
 INSERT INTO `card_location` VALUES (/*index*/1245, /*text*/"呪われた館");
 INSERT INTO `card_location` VALUES (/*index*/1246, /*text*/"女子寮・小梅の部屋");
+INSERT INTO `card_location` VALUES (/*index*/1247, /*text*/"七夕の日の神社");
+INSERT INTO `card_location` VALUES (/*index*/1248, /*text*/"黒棺の間");
+INSERT INTO `card_location` VALUES (/*index*/1249, /*text*/"花火大会の帰り道");
+INSERT INTO `card_location` VALUES (/*index*/1250, /*text*/"サイバー天の川");
+INSERT INTO `card_location` VALUES (/*index*/1251, /*text*/"神社・紫陽花香る手水舎");
+INSERT INTO `card_location` VALUES (/*index*/1252, /*text*/"夜の河原");
