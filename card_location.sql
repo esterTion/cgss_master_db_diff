@@ -782,7 +782,7 @@ INSERT INTO `card_location` VALUES (/*index*/785, /*text*/"大自然をのぞむ
 INSERT INTO `card_location` VALUES (/*index*/786, /*text*/"市営図書館");
 INSERT INTO `card_location` VALUES (/*index*/787, /*text*/"撮影セット・風の生まれる駅");
 INSERT INTO `card_location` VALUES (/*index*/788, /*text*/"ミリタリーショップ");
-INSERT INTO `card_location` VALUES (/*index*/789, /*text*/"サバゲ―フィールド");
+INSERT INTO `card_location` VALUES (/*index*/789, /*text*/"サバゲーフィールド");
 INSERT INTO `card_location` VALUES (/*index*/790, /*text*/"奈落の底");
 INSERT INTO `card_location` VALUES (/*index*/791, /*text*/"ドッグサロン");
 INSERT INTO `card_location` VALUES (/*index*/792, /*text*/"野外フェス会場");
@@ -1236,3 +1236,5 @@ INSERT INTO `card_location` VALUES (/*index*/1249, /*text*/"花火大会の帰�
 INSERT INTO `card_location` VALUES (/*index*/1250, /*text*/"サイバー天の川");
 INSERT INTO `card_location` VALUES (/*index*/1251, /*text*/"神社・紫陽花香る手水舎");
 INSERT INTO `card_location` VALUES (/*index*/1252, /*text*/"夜の河原");
+INSERT INTO `card_location` VALUES (/*index*/1261, /*text*/"屋形船");
+INSERT INTO `card_location` VALUES (/*index*/1262, /*text*/"シューティングレンジ");

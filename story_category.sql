@@ -450,3 +450,4 @@ INSERT INTO `story_category` VALUES (/*id*/472, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/473, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Hungry Bambi", /*sub_title*/"Hungry Bambi", /*disp_order*/155, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/474, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"いとしーさー♥", /*sub_title*/"いとしーさー♥", /*disp_order*/156, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/475, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Home Sweet Home", /*sub_title*/"Home Sweet Home", /*disp_order*/157, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/477, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"キャシー・グラハム / 柳清良", /*sub_title*/"キャシー・グラハム / 柳清良", /*disp_order*/160, /*filter_type*/0);
