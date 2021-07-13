@@ -1236,5 +1236,9 @@ INSERT INTO `card_location` VALUES (/*index*/1249, /*text*/"花火大会の帰�
 INSERT INTO `card_location` VALUES (/*index*/1250, /*text*/"サイバー天の川");
 INSERT INTO `card_location` VALUES (/*index*/1251, /*text*/"神社・紫陽花香る手水舎");
 INSERT INTO `card_location` VALUES (/*index*/1252, /*text*/"夜の河原");
+INSERT INTO `card_location` VALUES (/*index*/1253, /*text*/"フランス・カフェテラス");
+INSERT INTO `card_location` VALUES (/*index*/1254, /*text*/"パリの鉄塔・犯行前夜");
+INSERT INTO `card_location` VALUES (/*index*/1255, /*text*/"リゾートプール");
+INSERT INTO `card_location` VALUES (/*index*/1256, /*text*/"南国のパレード");
 INSERT INTO `card_location` VALUES (/*index*/1261, /*text*/"屋形船");
 INSERT INTO `card_location` VALUES (/*index*/1262, /*text*/"シューティングレンジ");
