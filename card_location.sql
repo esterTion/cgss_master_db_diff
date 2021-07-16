@@ -1240,5 +1240,7 @@ INSERT INTO `card_location` VALUES (/*index*/1253, /*text*/"フランス・カ�
 INSERT INTO `card_location` VALUES (/*index*/1254, /*text*/"パリの鉄塔・犯行前夜");
 INSERT INTO `card_location` VALUES (/*index*/1255, /*text*/"リゾートプール");
 INSERT INTO `card_location` VALUES (/*index*/1256, /*text*/"南国のパレード");
+INSERT INTO `card_location` VALUES (/*index*/1257, /*text*/"古書店");
+INSERT INTO `card_location` VALUES (/*index*/1258, /*text*/"記憶の図書館");
 INSERT INTO `card_location` VALUES (/*index*/1261, /*text*/"屋形船");
 INSERT INTO `card_location` VALUES (/*index*/1262, /*text*/"シューティングレンジ");
