@@ -66,4 +66,5 @@ INSERT INTO `dress_data` VALUES (/*id*/7039000, /*name*/"タイニー・デビ�
 INSERT INTO `dress_data` VALUES (/*id*/7040000, /*name*/"あなたのトナカイさん", /*description*/"クリスマスをテーマにした、智絵里の衣装。\nモコモコ衣装とトナカイ耳がチャーミング。\nデザインした者の想いがこもっている。", /*open_type*/3, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7041000, /*name*/"ハートフル・トッピング", /*description*/"甘い幸せをお届けする、少女たちのドレス。\nこだわりの一品を、心を込めて作ってくれる。\nそのスイーツは美味しいだけではなく、\nたくさんの笑顔と幸せをも生み出していく。", /*open_type*/3, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7042000, /*name*/"ゾンビィ・ハート", /*description*/"死んでも夢を叶えたい少女たちのドレス。\n時代を超えて伝説は集う。己のサガを再び\nこの世界に刻むために。生きる屍になったと\nしても、その瑞々しい輝きは曇ることはない。", /*open_type*/2, /*dress_type*/1);
+INSERT INTO `dress_data` VALUES (/*id*/7044000, /*name*/"カメラしょうじょ", /*description*/"夏をテーマにした、凪の衣装。\nユニークなシャツの柄が、夏を感じさせる。\nカメラと一緒に、最高の景色を探しに行こう。\nデザインした者の想いがこもっている。", /*open_type*/3, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7045000, /*name*/"ノトーリアス・ガール", /*description*/"既成の価値観に抗う少女たちのドレス。\n燃えるような色は、彼女たちの決意の証。\n他の何にも縛られることなく、己の意志を\n貫き通し、この世界を生き抜いていく。", /*open_type*/5, /*dress_type*/3);
