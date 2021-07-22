@@ -226,3 +226,4 @@ INSERT INTO `gift_message` VALUES (/*id*/20060, /*discription*/"デレぽDE川�
 INSERT INTO `gift_message` VALUES (/*id*/20061, /*discription*/"デレぽDE川柳の採用報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20062, /*discription*/"「NEXT LIVE発表会」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20063, /*discription*/"「DyDoコラボ」開催記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20064, /*discription*/"「アイドルマスター16周年生配信～16th Anniversary P@rty!!!!!～」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

@@ -51,4 +51,6 @@ INSERT INTO `gallery_music_list` VALUES (/*id*/49, /*disp_order*/53, /*live_id*/
 INSERT INTO `gallery_music_list` VALUES (/*id*/50, /*disp_order*/54, /*live_id*/89, /*motion_id*/3048, /*fade_msec*/1000, /*cutt_name*/"Cutt_InoriNoHana", /*sound_offset*/1261);
 INSERT INTO `gallery_music_list` VALUES (/*id*/51, /*disp_order*/55, /*live_id*/90, /*motion_id*/3049, /*fade_msec*/1000, /*cutt_name*/"Cutt_Rakuen", /*sound_offset*/1666);
 INSERT INTO `gallery_music_list` VALUES (/*id*/52, /*disp_order*/56, /*live_id*/91, /*motion_id*/3050, /*fade_msec*/1000, /*cutt_name*/"Cutt_LastKiss", /*sound_offset*/2473);
+INSERT INTO `gallery_music_list` VALUES (/*id*/53, /*disp_order*/57, /*live_id*/92, /*motion_id*/3051, /*fade_msec*/1000, /*cutt_name*/"Cutt_OnnaNoMichi", /*sound_offset*/1815);
+INSERT INTO `gallery_music_list` VALUES (/*id*/54, /*disp_order*/58, /*live_id*/93, /*motion_id*/3052, /*fade_msec*/1000, /*cutt_name*/"Cutt_TaniNoSokoDe", /*sound_offset*/1859);
 INSERT INTO `gallery_music_list` VALUES (/*id*/101, /*disp_order*/101, /*live_id*/19, /*motion_id*/5001, /*fade_msec*/1000, /*cutt_name*/"Cutt_Star", /*sound_offset*/893);
