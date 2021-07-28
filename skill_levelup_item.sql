@@ -15,7 +15,7 @@ INSERT INTO `skill_levelup_item` VALUES (/*diff_rarity*/26, /*skill_up_value*/25
 INSERT INTO `skill_levelup_item` VALUES (/*diff_rarity*/28, /*skill_up_value*/500000);
 INSERT INTO `skill_levelup_item` VALUES (/*diff_rarity*/30, /*skill_up_value*/500000);
 INSERT INTO `skill_levelup_item` VALUES (/*diff_rarity*/32, /*skill_up_value*/0);
-INSERT INTO `skill_levelup_item` VALUES (/*diff_rarity*/1000, /*skill_up_value*/5000000);
-INSERT INTO `skill_levelup_item` VALUES (/*diff_rarity*/1002, /*skill_up_value*/5000000);
-INSERT INTO `skill_levelup_item` VALUES (/*diff_rarity*/1004, /*skill_up_value*/5000000);
-INSERT INTO `skill_levelup_item` VALUES (/*diff_rarity*/1006, /*skill_up_value*/5000000);
+INSERT INTO `skill_levelup_item` VALUES (/*diff_rarity*/1000, /*skill_up_value*/500000);
+INSERT INTO `skill_levelup_item` VALUES (/*diff_rarity*/1002, /*skill_up_value*/500000);
+INSERT INTO `skill_levelup_item` VALUES (/*diff_rarity*/1004, /*skill_up_value*/500000);
+INSERT INTO `skill_levelup_item` VALUES (/*diff_rarity*/1006, /*skill_up_value*/500000);

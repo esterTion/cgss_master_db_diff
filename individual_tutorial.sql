@@ -252,7 +252,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/3, /*discription*/"お気に入りのアイドルを編成することができます。\nお気に入りのアイドルはホームとルームに登場します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/4, /*discription*/"特訓後のアイドルは、特訓前の状態にすることができます。\n切り替えを行うと、ホームやルームで登場するアイドルが\n特訓前の状態になります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40002, /*img*/1, /*discription*/"レッスンを行うことでExpを獲得することができます。\nExpが一定量に達するとLvアップします。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/40002, /*img*/2, /*discription*/"レッスンアイドルとパートナーにするアイドルを選択します。\nパートナーは最大20人まで選択する事ができます。\nパートナーはいなくなってしまうので注意してください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40002, /*img*/2, /*discription*/"レッスンアイドルとパートナーにするアイドルを選択します。\nパートナーは最大250人まで選択する事ができます。\nパートナーはいなくなってしまうので注意してください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40002, /*img*/3, /*discription*/"パートナーやトレーナーは、おすすめ選択をすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40002, /*img*/4, /*discription*/"同じタイプのアイドル同士でレッスンを行うと\n獲得Expがアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40002, /*img*/4, /*discription*/"特技を持っているアイドルをパートナーにすると\n特技Lv上昇確率がアップします。");
@@ -273,6 +273,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40006, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40007, /*img*/1, /*discription*/"アイドルを一括で保護できる機能が追加されました ! \n「一括保護モード」にすると、\n保護するアイドルを一括で設定できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40007, /*img*/1, /*discription*/"「一括保護モード」を解除したり、\nほかの画面に移動すると設定内容が保存されます。\nまた、一定時間たつと自動で保存されますよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40007, /*img*/1, /*discription*/"電波状況が悪かったり、設定変更中にアプリを終了すると\n保存されない場合があるので気を付けてくださいね !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40008, /*img*/1, /*discription*/"レッスンをアップデートしました。\nパートナーを最大250人まで選択し、一度にレッスンできます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40008, /*img*/2, /*discription*/"一度のレッスンで特技Lvを複数上昇させることが出来るように\nなりました。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40008, /*img*/3, /*discription*/"おすすめ選択をアップデートしました。\n特技Lvを条件にして自動的にパートナー選択ができます。\n※選択されたパートナーの内容は必ずご確認ください");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/3, /*discription*/"お気に入りのアイドルを編成することができます。\nお気に入りのアイドルはホームとルームに登場します。");
@@ -305,6 +308,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/2, /*discription*/"ユニットのポジションを選択して、\n所属アイドルを編成することができます。\nまた、ユニット内のアイドル同士を\n入れ替えることも可能です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/2, /*discription*/"設定内容は他の画面に移動すると保存されます。\n※他の画面に移動せずにアプリを終了した場合、\n編成内容は保存されません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40701, /*img*/1, /*discription*/"ルーム外でもギフトアイテムを渡すことができる、\nギフトアイテム画面が追加されました。\nギフトアイテムをアイドルに渡すと親愛度が上がります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40801, /*img*/1, /*discription*/"衣装をまとめて変更できる機能を追加しました !\n選択した衣装を他のアイドルにも反映できます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50001, /*img*/1, /*discription*/"ストーリーコミュでは、アイドルたちが\n織り成すストーリーが描かれています。\n解放条件を達成することで解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50001, /*img*/1, /*discription*/"ストーリー中に行われるコミュLIVEでは、\n新たなコミュは解放されません。\nLIVEで特定の難易度でのクリアが必要となります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50002, /*img*/1, /*discription*/"メモリアルコミュでは、アイドル一人ひとりの\nアイドルとしての活動の軌跡が描かれています。\nLIVEでファン数を増やすことで解放されます。");
