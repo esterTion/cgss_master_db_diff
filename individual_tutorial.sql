@@ -363,8 +363,6 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60022, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60022, /*img*/1, /*discription*/"シンデレラシアターでは動画を選択した後に\n中央の再生ボタンをタップすることで\nムービーコンテンツを閲覧することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60022, /*img*/1, /*discription*/"動画を最後まで再生するか、\n動画の停止中に画面右上の「×」ボタンをタップすることで、\n動画選択画面に戻ることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60023, /*img*/1, /*discription*/"プラチナメダルとアイテムを交換できます。\n交換に必要なプラチナメダルの数は\nアイテムによって異なります。 ");
-INSERT INTO `individual_tutorial` VALUES (/*id*/60024, /*img*/1, /*discription*/"フォトスタジオに、「ARスタジオ」を追加しました！\nスポット一覧から選択することで利用できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/60024, /*img*/1, /*discription*/"マーカーモードは、専用のARマーカーを読み込むモードです。\nオートモードでは、自動的に平面を認識してアイドルが登場します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60025, /*img*/1, /*discription*/"ゲスト参戦アイドルをアップデートしました !\n「フリー枠アイドル」にもアイドルを設定できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60025, /*img*/1, /*discription*/"「フリー枠アイドル」に設定されたアイドルは、\nタイプ別のゲスト参戦アイドルと合わせて\n他プロデューサーのLIVEにゲストとして表示されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60026, /*img*/1, /*discription*/"ポーズごとにお気に入り設定ができます。\nお気に入り設定したポーズは、次にリストを\n表示するとき、優先的にリスト表示されます。");
@@ -377,8 +375,6 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/4, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/5, /*discription*/"ポーズごとにお気に入り設定ができ、\nお気に入り設定したポーズは、\n次にリストを表示するとき、\n優先的にリスト表示されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/6, /*discription*/"「衣装変更」では、スタジオにいる\nアイドルが着用できる衣装の中から\n好きな衣装に変更することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/7, /*discription*/"「スポット変更」では、撮影スポットを\n変更することができます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/8, /*discription*/"また「スポット変更」から\n「ARスタジオ」へ移動できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/8, /*discription*/"マーカーモードは、専用のARマーカー\nを読み込むモードです。\nオートモードでは、自動的に平面を認識\nしてアイドルが登場します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/9, /*discription*/"「スターピース交換」では、フォト\nスタジオで使用できるスポットや\nポーズの獲得が可能です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60029, /*img*/1, /*discription*/"デレステ公式Twitterアカウントから、アイドルの誕生日を\nお祝いした特別なイラストを約1年にわたって投稿していきます。\nみんなでアイドルの誕生日をお祝いしましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60029, /*img*/2, /*discription*/"誕生日イラストはアイドルトピックス内の\n誕生日ギャラリーに随時追加されます。\n※追加まで時間がかかる場合があります。");
