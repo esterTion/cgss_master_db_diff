@@ -363,6 +363,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60022, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60022, /*img*/1, /*discription*/"シンデレラシアターでは動画を選択した後に\n中央の再生ボタンをタップすることで\nムービーコンテンツを閲覧することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60022, /*img*/1, /*discription*/"動画を最後まで再生するか、\n動画の停止中に画面右上の「×」ボタンをタップすることで、\n動画選択画面に戻ることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60023, /*img*/1, /*discription*/"プラチナメダルとアイテムを交換できます。\n交換に必要なプラチナメダルの数は\nアイテムによって異なります。 ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60024, /*img*/1, /*discription*/"フォトスタジオに、「ARスタジオ」を追加しました！\nスポット一覧から選択することで利用できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60024, /*img*/1, /*discription*/"マーカーモードは、専用のARマーカーを読み込むモードです。\nオートモードでは、自動的に平面を認識してアイドルが登場します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60025, /*img*/1, /*discription*/"ゲスト参戦アイドルをアップデートしました !\n「フリー枠アイドル」にもアイドルを設定できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60025, /*img*/1, /*discription*/"「フリー枠アイドル」に設定されたアイドルは、\nタイプ別のゲスト参戦アイドルと合わせて\n他プロデューサーのLIVEにゲストとして表示されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60026, /*img*/1, /*discription*/"ポーズごとにお気に入り設定ができます。\nお気に入り設定したポーズは、次にリストを\n表示するとき、優先的にリスト表示されます。");
@@ -375,6 +377,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/4, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/5, /*discription*/"ポーズごとにお気に入り設定ができ、\nお気に入り設定したポーズは、\n次にリストを表示するとき、\n優先的にリスト表示されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/6, /*discription*/"「衣装変更」では、スタジオにいる\nアイドルが着用できる衣装の中から\n好きな衣装に変更することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/7, /*discription*/"「スポット変更」では、撮影スポットを\n変更することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/8, /*discription*/"また「スポット変更」から\n「ARスタジオ」へ移動できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/8, /*discription*/"マーカーモードは、専用のARマーカー\nを読み込むモードです。\nオートモードでは、自動的に平面を認識\nしてアイドルが登場します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/9, /*discription*/"「スターピース交換」では、フォト\nスタジオで使用できるスポットや\nポーズの獲得が可能です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60029, /*img*/1, /*discription*/"デレステ公式Twitterアカウントから、アイドルの誕生日を\nお祝いした特別なイラストを約1年にわたって投稿していきます。\nみんなでアイドルの誕生日をお祝いしましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60029, /*img*/2, /*discription*/"誕生日イラストはアイドルトピックス内の\n誕生日ギャラリーに随時追加されます。\n※追加まで時間がかかる場合があります。");
@@ -436,7 +440,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/3, /*discription*/"LIVE Grooveでは、その3曲で連続してLIVEを行います。\n※3曲の間ライフは引き継がれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/4, /*discription*/"LIVE中、盛り上がりに応じて「ハコユレLv」が計測されます。\n3曲合わせた「ハコユレLv」が17以上になると、\nアンコールが発生します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/5, /*discription*/"難易度がMASTER以上で、ハコユレLvが21以上の場合、\nアンコール楽曲の難易度で「MASTER+」が選択できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/6, /*discription*/"LIVE Groove Vocal burstでは、ボーカルのアピール値が\n通常よりアップします。\nボーカルアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/6, /*discription*/"LIVE Groove Dance burstでは、ダンスのアピール値が\n通常よりアップします。\nダンスアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80202, /*img*/1, /*discription*/"スタミナの消費数を1倍、または2倍に設定する\nことができます。\n消費数に応じて、イベントptを多く獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/1, /*discription*/"「達成pt報酬」、「イベントptランキング報酬」、\n「ハイスコアランキング報酬」で、イベント限定の\nSレアアイドルやルームアイテムが獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/1, /*discription*/"イベント限定営業で「イベントpt」を獲得できます。\nイベント限定営業はイベント期間中のみ\nプレイすることができます。");
@@ -445,7 +449,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/3, /*discription*/"LIVE Grooveでは、その3曲で連続してLIVEを行います。\n※3曲の間ライフは引き継がれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/4, /*discription*/"LIVE中、盛り上がりに応じて「ハコユレLv」が計測されます。\n3曲合わせた「ハコユレLv」が17以上になると、\nアンコールが発生します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/5, /*discription*/"難易度がMASTER以上で、ハコユレLvが21以上の場合、\nアンコール楽曲の難易度で「MASTER+」が選択できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/6, /*discription*/"LIVE Groove Vocal burstでは、ボーカルのアピール値が\n通常よりアップします。\nボーカルアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/6, /*discription*/"LIVE Groove Dance burstでは、ダンスのアピール値が\n通常よりアップします。\nダンスアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/7, /*discription*/"スタミナの消費数を1倍、または2倍に設定する\nことができます。\n消費数に応じて、イベントptを多く獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/1, /*discription*/"「達成pt報酬」で、イベント限定のSレアアイドルや\nルームアイテムを手にいれましょう。\nまた期間中にイベントのLIVEをプレイすると、\n限定のアイドルを確率で手に入れることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。\n楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");
