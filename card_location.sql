@@ -1255,3 +1255,9 @@ INSERT INTO `card_location` VALUES (/*index*/1268, /*text*/"学校のグラウ�
 INSERT INTO `card_location` VALUES (/*index*/1269, /*text*/"火山");
 INSERT INTO `card_location` VALUES (/*index*/1270, /*text*/"四阿");
 INSERT INTO `card_location` VALUES (/*index*/1271, /*text*/"ふたりだけの花庭");
+INSERT INTO `card_location` VALUES (/*index*/1272, /*text*/"クルーザーの運転席");
+INSERT INTO `card_location` VALUES (/*index*/1273, /*text*/"フランスの港町");
+INSERT INTO `card_location` VALUES (/*index*/1274, /*text*/"ハワイ・リゾートホテル");
+INSERT INTO `card_location` VALUES (/*index*/1275, /*text*/"ハワイ・ショーレストラン");
+INSERT INTO `card_location` VALUES (/*index*/1276, /*text*/"リゾートビーチ・撮影中");
+INSERT INTO `card_location` VALUES (/*index*/1277, /*text*/"水上LIVEステージ");

@@ -6,6 +6,8 @@ INSERT INTO `gallery_stage_list` VALUES (/*id*/4, /*disp_order*/4, /*disp_name*/
 INSERT INTO `gallery_stage_list` VALUES (/*id*/5, /*disp_order*/101, /*disp_name*/"スクリーン キュート", /*bg_id*/1, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/6, /*disp_order*/102, /*disp_name*/"スクリーン クール", /*bg_id*/2, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/7, /*disp_order*/103, /*disp_name*/"スクリーン パッション", /*bg_id*/3, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/11, /*disp_order*/201, /*disp_name*/"ARスタジオ マーカーモード", /*bg_id*/0, /*bg_type*/3, /*left_degree*/360, /*right_degree*/360);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/12, /*disp_order*/202, /*disp_name*/"ARスタジオ オートモード", /*bg_id*/0, /*bg_type*/4, /*left_degree*/360, /*right_degree*/360);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/13, /*disp_order*/5, /*disp_name*/"ステージ BEYOND THE STARLIGHT", /*bg_id*/4012, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/14, /*disp_order*/6, /*disp_name*/"ステージ EVERMORE", /*bg_id*/4017, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/15, /*disp_order*/7, /*disp_name*/"ステージ イリュージョニスタ !", /*bg_id*/4031, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
