@@ -1261,3 +1261,5 @@ INSERT INTO `card_location` VALUES (/*index*/1274, /*text*/"ハワイ・リゾ�
 INSERT INTO `card_location` VALUES (/*index*/1275, /*text*/"ハワイ・ショーレストラン");
 INSERT INTO `card_location` VALUES (/*index*/1276, /*text*/"リゾートビーチ・撮影中");
 INSERT INTO `card_location` VALUES (/*index*/1277, /*text*/"水上LIVEステージ");
+INSERT INTO `card_location` VALUES (/*index*/1278, /*text*/"海の近くの展示場前");
+INSERT INTO `card_location` VALUES (/*index*/1279, /*text*/"教会ホール");

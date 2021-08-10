@@ -181,3 +181,4 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200132, /*name*/"Just Us
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200133, /*name*/"とんでいっちゃいたいの（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/133);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200134, /*name*/"Hungry Bambi（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/134);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200135, /*name*/"いとしーさー♥（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/135);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200136, /*name*/"Home Sweet Home（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/136);
