@@ -304,6 +304,8 @@ INSERT INTO `music_info` VALUES (/*id*/8058, /*discription*/"エキストラレ�
 INSERT INTO `music_info` VALUES (/*id*/8059, /*discription*/"徒花ネクロマンシー（フランシュシュ）\n\n辻野あかり（CV：梅澤めぐ）\n星輝子（CV：松田颯水）\n木村夏樹（CV：安野希世乃）\n小日向美穂（CV：津田美波）\n関裕美（CV：会沢紗弥）\n\n\n作詞：古屋真\n作曲：加藤裕介", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8060, /*discription*/"REVENGE（フランシュシュ）\n\n早坂美玲（CV：朝井彩加）\n\n\n作詞：古屋真\n作曲：浅利進吾", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8061, /*discription*/"大河よ共に泣いてくれ（フランシュシュ）\n\n白坂小梅（CV：桜咲千依）\n松永涼（CV：千菅春香）\n\n\n作詞：古屋真\n作曲：加藤裕介", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/8062, /*discription*/"ハレ晴レユカイ（涼宮ハルヒの憂鬱）\n\n夢見りあむ（CV：星希成奏）\n佐城雪美（CV：中澤ミナ）\n安部菜々（CV：三宅麻理恵）\n\n\n作詞：畑亜貴\n作曲：田代智一", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/8064, /*discription*/"冒険でしょでしょ？（涼宮ハルヒの憂鬱）\n\n宮本フレデリカ（CV：髙野麻美）\n\n\n作詞：畑亜貴\n作曲：冨田暁子", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/9001, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n双葉杏（CV：五十嵐裕美）\n諸星きらり（CV：松嵜麗）\n\n\n作詞：marhy\n作曲・編曲：BNSI（内田哲也）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/9002, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n大槻唯（CV：山下七海）\n上条春菜（CV：長島光那）\n\n\n作詞：俊龍\n作曲：俊龍\n編曲：Sizuk", /*android_url*/"http://columbia.jp/sl-stage/haishin/COCC-17141.html", /*ios_url*/"http://columbia.jp/sl-stage/haishin/COCC-17141.html");
 INSERT INTO `music_info` VALUES (/*id*/9003, /*discription*/"速水奏（CV：飯田友子）\n塩見周子（CV：ルゥ ティン）\n城ヶ崎美嘉（CV：佳村はるか）\n宮本フレデリカ（CV：髙野麻美）\n一ノ瀬志希（CV：藍原ことみ）\n\n\n作詞：森由⾥⼦\n作曲・編曲：石濱翔（MONACA）", /*android_url*/"http://columbia.jp/sl-stage/haishin/COCC-17142.html", /*ios_url*/"http://columbia.jp/sl-stage/haishin/COCC-17142.html");

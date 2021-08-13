@@ -897,6 +897,7 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/150, /*text*/"コラボ
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/151, /*text*/"コラボVer");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/152, /*text*/"コラボver");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/153, /*text*/"ドリームユニットキャンペーン中 ! 好きなアイドルを編成可能 !");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/154, /*text*/"5人ver");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/1, /*text*/"月間獲得ファン数ランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/2, /*text*/"今期のランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/3, /*text*/"前期のランキング");

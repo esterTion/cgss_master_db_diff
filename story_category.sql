@@ -453,3 +453,4 @@ INSERT INTO `story_category` VALUES (/*id*/475, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/476, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"パ・リ・ラ", /*sub_title*/"パ・リ・ラ", /*disp_order*/159, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/477, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"キャシー・グラハム / 柳清良", /*sub_title*/"キャシー・グラハム / 柳清良", /*disp_order*/158, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/478, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Secret Mirage", /*sub_title*/"Secret Mirage", /*disp_order*/160, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/480, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"涼宮ハルヒの憂鬱コラボ", /*sub_title*/"涼宮ハルヒの憂鬱コラボ", /*disp_order*/28, /*filter_type*/402);
