@@ -110,6 +110,7 @@ INSERT INTO `music_info` VALUES (/*id*/2040, /*discription*/"佐々木千枝（C
 INSERT INTO `music_info` VALUES (/*id*/2041, /*discription*/"白坂小梅（CV：桜咲千依）\n辻野あかり（CV：梅澤めぐ）\n道明寺歌鈴（CV：新田ひより）\n佐久間まゆ（CV：牧野由依）\n小日向美穂（CV：津田美波）\n\n\n作詞：八城雄太\n作曲・編曲：Powerless", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/2042, /*discription*/"ナターリア（CV：生田輝）\n喜多見柚（CV：武田羅梨沙多胡）\n城ヶ崎莉嘉（CV：山本希望）\n浜口あやめ（CV：田澤茉純）\n及川雫（CV：のぐちゆり）\n\n\n作詞・作曲：俊龍\n編曲：Sizuk", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/2043, /*discription*/"水本ゆかり（CV：藤田茜）\n小早川紗枝（CV：立花理香）\n\n\n作詞：磯谷佳江\n作曲・編曲：小野貴光", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/2044, /*discription*/"桐生つかさ（CV：河瀬茉希）\n三船美優（CV：原田彩楓）\n星輝子（CV：松田颯水）\n藤原肇（CV：鈴木みのり）\n\n\n作詞：月丘りあ子 (SUPA LOVE)\n作曲・編曲：塩原大貴 (SUPA LOVE)", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/3001, /*discription*/"島村卯月（CV：大橋彩香）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（Yoshi）\nコーラス：Mitsu（BNSI）\nギター：後藤貴徳\nバイオリン：Bloom Quartet & Ensemble", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/3002, /*discription*/"渋谷凛（CV：福原綾香）\n\n\n作詞・作曲：BNEI（遠山明孝・八城雄太）\n作曲：BNEI（遠山明孝）\n編曲：関淳二郎\nギター・コーラス：関淳二郎", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/3003, /*discription*/"本田未央（CV：原紗友里）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（kyo）\nギター：後藤貴徳", /*android_url*/"", /*ios_url*/"");
@@ -305,7 +306,9 @@ INSERT INTO `music_info` VALUES (/*id*/8059, /*discription*/"徒花ネクロマ�
 INSERT INTO `music_info` VALUES (/*id*/8060, /*discription*/"REVENGE（フランシュシュ）\n\n早坂美玲（CV：朝井彩加）\n\n\n作詞：古屋真\n作曲：浅利進吾", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8061, /*discription*/"大河よ共に泣いてくれ（フランシュシュ）\n\n白坂小梅（CV：桜咲千依）\n松永涼（CV：千菅春香）\n\n\n作詞：古屋真\n作曲：加藤裕介", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8062, /*discription*/"ハレ晴レユカイ（涼宮ハルヒの憂鬱）\n\n夢見りあむ（CV：星希成奏）\n佐城雪美（CV：中澤ミナ）\n安部菜々（CV：三宅麻理恵）\n\n\n作詞：畑亜貴\n作曲：田代智一", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/8063, /*discription*/"God knows...（涼宮ハルヒの憂鬱）\n\n北条加蓮（CV：渕上舞）\n\n\n作詞：畑亜貴\n作曲：神前暁", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8064, /*discription*/"冒険でしょでしょ？（涼宮ハルヒの憂鬱）\n\n宮本フレデリカ（CV：髙野麻美）\n\n\n作詞：畑亜貴\n作曲：冨田暁子", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/8065, /*discription*/"Lost my music（涼宮ハルヒの憂鬱）\n\n中野有香（CV：下地紫野）\n\n\n作詞：畑亜貴\n作曲：神前暁", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/9001, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n双葉杏（CV：五十嵐裕美）\n諸星きらり（CV：松嵜麗）\n\n\n作詞：marhy\n作曲・編曲：BNSI（内田哲也）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/9002, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n大槻唯（CV：山下七海）\n上条春菜（CV：長島光那）\n\n\n作詞：俊龍\n作曲：俊龍\n編曲：Sizuk", /*android_url*/"http://columbia.jp/sl-stage/haishin/COCC-17141.html", /*ios_url*/"http://columbia.jp/sl-stage/haishin/COCC-17141.html");
 INSERT INTO `music_info` VALUES (/*id*/9003, /*discription*/"速水奏（CV：飯田友子）\n塩見周子（CV：ルゥ ティン）\n城ヶ崎美嘉（CV：佳村はるか）\n宮本フレデリカ（CV：髙野麻美）\n一ノ瀬志希（CV：藍原ことみ）\n\n\n作詞：森由⾥⼦\n作曲・編曲：石濱翔（MONACA）", /*android_url*/"http://columbia.jp/sl-stage/haishin/COCC-17142.html", /*ios_url*/"http://columbia.jp/sl-stage/haishin/COCC-17142.html");
