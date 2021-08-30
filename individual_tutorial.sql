@@ -140,7 +140,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーを\n倉庫収納数から除外しました。\n収納していても、収納数にカウントされなくなりました。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"アイドルたちがカバーする、涼宮ハルヒの憂鬱の楽曲\n「God knows...」「Lost my music」をサウンドブースで販売開始しました !\n※本楽曲のLIVE演出は、2D標準・2D軽量のみとなります\n※PLvが10以上になると購入できます");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"『涼宮ハルヒの憂鬱×デレステコラボキャンペーン』開催中 !\nSOS団メンバーのぬいぐるみなど、\n涼宮ハルヒの憂鬱をモチーフにした\nコラボルームアイテムを期間限定で販売中です !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"楽曲「星環世界」の公開を記念して、\n「衣装スタンド/アド・アストラ」をルームショップに追加しました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");

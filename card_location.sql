@@ -1274,3 +1274,9 @@ INSERT INTO `card_location` VALUES (/*index*/1287, /*text*/"深夜のファミ�
 INSERT INTO `card_location` VALUES (/*index*/1288, /*text*/"公園・ベトナムフェス");
 INSERT INTO `card_location` VALUES (/*index*/1289, /*text*/"ベトナム・蓮の池");
 INSERT INTO `card_location` VALUES (/*index*/1290, /*text*/"ポールダンス・レッスン中");
+INSERT INTO `card_location` VALUES (/*index*/1291, /*text*/"森の花畑");
+INSERT INTO `card_location` VALUES (/*index*/1292, /*text*/"星の海");
+INSERT INTO `card_location` VALUES (/*index*/1293, /*text*/"撮影セット・研究所");
+INSERT INTO `card_location` VALUES (/*index*/1294, /*text*/"衛星LIVEステージ");
+INSERT INTO `card_location` VALUES (/*index*/1295, /*text*/"撮影セット・衛星内部通路");
+INSERT INTO `card_location` VALUES (/*index*/1296, /*text*/"宇宙空間・撮影中");
