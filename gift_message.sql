@@ -139,6 +139,7 @@ INSERT INTO `gift_message` VALUES (/*id*/3004, /*discription*/"プレミアム�
 INSERT INTO `gift_message` VALUES (/*id*/3029, /*discription*/"プレミアムパス特典：イベント「{0}」{1}マス到達で加入したアイドルです。", /*type_1*/19, /*type_2*/35, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/3030, /*discription*/"プレミアムパス特典：イベント「{0}」{1}マスの到達報酬です。", /*type_1*/19, /*type_2*/35, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/3034, /*discription*/"プレミアムパス特典：イベント「{0}」のランクアップ報酬です。", /*type_1*/19, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/3999, /*discription*/"「DMM GAMES版連携キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9000, /*discription*/"運営からのお詫びです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9001, /*discription*/"運営からの補てんです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9002, /*discription*/"運営からのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

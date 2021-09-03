@@ -142,7 +142,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/"ルームアイテムの並べ替えを行うことができます。\n「追加順」、「必要面積順」など並べ替え条件を選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーを\n倉庫収納数から除外しました。\n収納していても、収納数にカウントされなくなりました。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"アイドルたちがカバーする、涼宮ハルヒの憂鬱の楽曲\n「God knows...」「Lost my music」をサウンドブースで販売開始しました !\n※本楽曲のLIVE演出は、2D標準・2D軽量のみとなります\n※PLvが10以上になると購入できます");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ルーム倉庫の収納数上限と\n一部アイテムの最大所持数が大幅増加 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"6周年を記念して、6周年楽曲「星環世界」に\n登場した浮遊ステージを追加 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/3, /*discription*/"過去に期間限定で販売していた\nルームアイテムを復刻販売中 !\n復刻販売のラインナップは毎週変わります ! !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"楽曲「星環世界」の公開を記念して、\n「衣装スタンド/アド・アストラ」をルームショップに追加しました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
@@ -248,6 +250,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30018, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30018, /*img*/3, /*discription*/"難易度「WITCH」には、新たなリズムアイコン\n「ダメージアイコン」が出現することがあります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30018, /*img*/3, /*discription*/"ダメージアイコンに触れると「ACCIDENT」評価となり、\nライフゲージが減少します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30018, /*img*/3, /*discription*/"他にも数々の魔法のような仕掛けが !\n何が起こるかわからない不思議なLIVEをお楽しみください !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30019, /*img*/1, /*discription*/"新機能「オートLIVE」を追加しました。\nリズムゲームをオートプレイして報酬を獲得できる機能です。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30019, /*img*/2, /*discription*/"「オートLIVE」を利用するには、専用の「オートLIVEチケット」\nが必要です。「オートLIVEチケット」は毎日のログイン時または\nマニーでの購入により獲得することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30019, /*img*/2, /*discription*/"「オートLIVEチケット」は一度に複数枚使用可能です。\n使用したチケットの枚数に応じて報酬を獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「スペースフォーチュン\nスペシャルLIVEキャンペーン」開催中 ! !\n期間中にクリアしたLIVEでは、期間限定のアイテムと\n今まで出現した限定トレチケを獲得できます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「スペースフォーチュン\n特訓支援キャンペーン」開催中 ! ! キャンペーン中は、\nLIVE成功時のティアラと魔法のドレスのドロップ率が\nさらにアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
@@ -638,9 +643,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90165, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90165, /*img*/1, /*discription*/"キャンペーン期間中1日1回無料で\n10連ガシャを引くことができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90165, /*img*/1, /*discription*/"1日1回無料で引ける10連ガシャは、\n毎日24時にリセットされます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90165, /*img*/2, /*discription*/"今回のキャンペーンで引いたガシャの結果は、\nアプリからツイッターに投稿することができます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90166, /*img*/1, /*discription*/"デレステのDMM GAMES版がまもなくリリース !\nDMM GAMES版公式サイトにて事前登録受付中ですよ !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90167, /*img*/1, /*discription*/"新機能「オートLIVE」を追加予定です。\nリズムゲームをオートプレイして報酬を獲得できる機能です。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90168, /*img*/1, /*discription*/"6周年を記念して、\nプラチナチャンスキャンペーンを開催中です。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90166, /*img*/1, /*discription*/"デレステのDMM GAMES版がリリース !\nPCの大画面でLIVE・MVを楽しみましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90167, /*img*/1, /*discription*/"新機能「オートLIVE」を追加しました。\nリズムゲームをオートプレイして報酬を獲得できる機能です。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90167, /*img*/2, /*discription*/"「オートLIVE」を利用するには、専用の「オートLIVEチケット」\nが必要です。「オートLIVEチケット」は毎日のログイン時または\nマニーでの購入により獲得することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90167, /*img*/2, /*discription*/"「オートLIVEチケット」は一度に複数枚使用可能です。\n使用したチケットの枚数に応じて報酬を獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90168, /*img*/1, /*discription*/"ログインやミッションでチャンスチケットを集めて\n豪華な景品を獲得しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90168, /*img*/1, /*discription*/"※9月10日 23:59までに次ページの\n条件を満たしていないプロデューサーは、\n必ず「10等」が当選します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90168, /*img*/1, /*discription*/"・プロデューサーLvが20に達している\n・2ndパネルミッションを解放している");

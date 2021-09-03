@@ -70,7 +70,6 @@ INSERT INTO `capability_detail` VALUES (/*id*/68, /*capability_id*/205, /*skill_
 INSERT INTO `capability_detail` VALUES (/*id*/69, /*capability_id*/206, /*skill_lv*/1, /*next_exp*/10000, /*add_value1*/50, /*add_value2*/0, /*add_value3*/0);
 INSERT INTO `capability_detail` VALUES (/*id*/70, /*capability_id*/206, /*skill_lv*/2, /*next_exp*/10000, /*add_value1*/100, /*add_value2*/0, /*add_value3*/0);
 INSERT INTO `capability_detail` VALUES (/*id*/71, /*capability_id*/206, /*skill_lv*/3, /*next_exp*/10000, /*add_value1*/150, /*add_value2*/0, /*add_value3*/0);
-INSERT INTO `capability_detail` VALUES (/*id*/72, /*capability_id*/207, /*skill_lv*/1, /*next_exp*/1000, /*add_value1*/1, /*add_value2*/0, /*add_value3*/0);
 INSERT INTO `capability_detail` VALUES (/*id*/73, /*capability_id*/208, /*skill_lv*/1, /*next_exp*/3000, /*add_value1*/20, /*add_value2*/0, /*add_value3*/0);
 INSERT INTO `capability_detail` VALUES (/*id*/74, /*capability_id*/301, /*skill_lv*/1, /*next_exp*/300, /*add_value1*/80, /*add_value2*/0, /*add_value3*/0);
 INSERT INTO `capability_detail` VALUES (/*id*/75, /*capability_id*/301, /*skill_lv*/2, /*next_exp*/300, /*add_value1*/160, /*add_value2*/0, /*add_value3*/0);
