@@ -1280,3 +1280,10 @@ INSERT INTO `card_location` VALUES (/*index*/1293, /*text*/"撮影セット・�
 INSERT INTO `card_location` VALUES (/*index*/1294, /*text*/"衛星LIVEステージ");
 INSERT INTO `card_location` VALUES (/*index*/1295, /*text*/"撮影セット・衛星内部通路");
 INSERT INTO `card_location` VALUES (/*index*/1296, /*text*/"宇宙空間・撮影中");
+INSERT INTO `card_location` VALUES (/*index*/1297, /*text*/"パーティー会場のそば");
+INSERT INTO `card_location` VALUES (/*index*/1298, /*text*/"近未来都市・駅");
+INSERT INTO `card_location` VALUES (/*index*/1299, /*text*/"ウェルカムスペース");
+INSERT INTO `card_location` VALUES (/*index*/1300, /*text*/"まゆのデジタル配信ルーム");
+INSERT INTO `card_location` VALUES (/*index*/1301, /*text*/"艦長席");
+INSERT INTO `card_location` VALUES (/*index*/1302, /*text*/"星空の見える丘");
+INSERT INTO `card_location` VALUES (/*index*/1303, /*text*/"寄宿学校・回廊");
