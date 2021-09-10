@@ -1982,7 +1982,7 @@ INSERT INTO `text_data` VALUES (/*category*/27, /*index*/33, /*text*/"「[D33D98
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/34, /*text*/"「{0}」のMAP{1}をクリア");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/35, /*text*/"課題はゴールに到着後、挑戦できます");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/36, /*text*/"課題クリア報酬");
-INSERT INTO `text_data` VALUES (/*category*/27, /*index*/37, /*text*/"イベントコミュ\n{0}\n解放");
+INSERT INTO `text_data` VALUES (/*category*/27, /*index*/37, /*text*/"イベントコミュ\n{0}解放");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/38, /*text*/"「{0}」編成でボーナス !");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/39, /*text*/"合計スターランクでボーナス !");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/40, /*text*/"ボーカルアピール値でボーナス!");

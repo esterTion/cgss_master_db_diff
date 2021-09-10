@@ -145,7 +145,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ルーム倉庫の収納数上限と\n一部アイテムの最大所持数が大幅増加 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"6周年を記念して、6周年楽曲「星環世界」に\n登場した浮遊ステージを追加 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/3, /*discription*/"過去に期間限定で販売していた\nルームアイテムを復刻販売中 !\n復刻販売のラインナップは毎週変わります ! !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"楽曲「星環世界」の公開を記念して、\n「衣装スタンド/アド・アストラ」をルームショップに追加しました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"諸星きらりが歌う「にょわにょわーるど☆」を\nサウンドブースに追加 !\n購入するとLIVEでプレイできるようになります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -484,7 +484,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/6, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/7, /*discription*/"イベント設定では、公演の準備画面の「おすすめ設定」で\n選曲される楽曲のLvを調整できます。\nまたツアーのタイトルを自由に変更できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/1, /*discription*/"「イベント参加ボーナス」、「MAP報酬」、「課題クリア報酬」\nで、イベント限定のSレアアイドルやルームアイテムを\n手にいれましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"本イベントでは、LIVEを行うことでアイドルたちが\nMAPを進んでいきます。楽曲の難易度やLIVEの\n結果に応じて、進行できるマス数が変化します。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"また、ルートはイベント限定アイドルごとに分かれており、\nそれぞれストーリーや報酬が異なります。\n※「柳清良」ルートのMAP1をクリアすると、\n「キャシー・グラハム」ルートが解放されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"また、ルートはイベント限定アイドルごとに分かれており、\nそれぞれストーリーや報酬が異なります。\n※「池袋晶葉」ルートのMAP1をクリアすると、\n「望月聖」ルートが解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/3, /*discription*/"MAPやマスごとの条件を満たしてLIVEを行うと、\nMAP進行ボーナスが発生し、進行できるマス数がアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/3, /*discription*/"MAP進行ボーナスは、MAPにあわせたアイドルを編成したり、\n現在止まっているマスの色に応じた楽曲でLIVEを行うことで発生します。\nボーナス条件はイベントTOPや楽曲の選択画面等で確認できます。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/4, /*discription*/"ゴールに到着すると、トレーナーからMAPごとの課題が出されます。\n※課題の達成状況は累積でカウントされるため、1回のLIVEでクリアできない場合、\n複数回LIVEをすることで達成できます。\n");
