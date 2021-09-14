@@ -1,2 +1,4 @@
 CREATE TABLE 'event_teaser' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'sort_order' INTEGER NOT NULL, 'image' TEXT NOT NULL, 'message' TEXT NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `event_teaser` VALUES (/*id*/1, /*event_id*/1073, /*sort_order*/1, /*image*/"bnr_1073_teaser", /*message*/"こんにちは、渋谷凛です。\n\nこの舞台にたどり着くまで……\nけっこう、大変だったんだよ。いろいろとね。\nでもこれは、私たちに必要な軌跡だった。\n\n歌と一緒に、私たちのこれまでとこれからを届けるよ。\n忘れられないメロディーにするから、待ってて。\n\n■開催日時\n9月17日 15:00～\n\n※開催日時は予告なく変更する場合がございます。\n※詳細につきましては、イベント開始後の専用ページにてご確認ください。");
+INSERT INTO `event_teaser` VALUES (/*id*/2, /*event_id*/1073, /*sort_order*/2, /*image*/"bnr_1073_teaser", /*message*/"白雪千夜です。\nこの度は、僭越ながら凛さん、涼さんと\n歌わせていただく運びとなりました。\n\n歌唱曲は、『Drastic Melody』。\n\nここまでの道のりは……いえ。\n私の口から語るのは、やめておきましょう。\n歌について、ご期待ください……とだけ。\n\n■開催日時\n9月17日 15:00～\n\n※開催日時は予告なく変更する場合がございます。\n※詳細につきましては、イベント開始後の専用ページにてご確認ください。");
 CREATE INDEX 'event_teaser_0_event_id' on 'event_teaser'('event_id');
