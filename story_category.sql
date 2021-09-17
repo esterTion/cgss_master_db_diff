@@ -457,3 +457,4 @@ INSERT INTO `story_category` VALUES (/*id*/479, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/480, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"涼宮ハルヒの憂鬱コラボ", /*sub_title*/"涼宮ハルヒの憂鬱コラボ", /*disp_order*/28, /*filter_type*/402);
 INSERT INTO `story_category` VALUES (/*id*/481, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"星環世界", /*sub_title*/"星環世界", /*disp_order*/162, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/482, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"望月聖 / 池袋晶葉", /*sub_title*/"望月聖 / 池袋晶葉", /*disp_order*/163, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/483, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Drastic Melody", /*sub_title*/"Drastic Melody", /*disp_order*/164, /*filter_type*/0);

@@ -111,6 +111,7 @@ INSERT INTO `music_info` VALUES (/*id*/2041, /*discription*/"白坂小梅（CV�
 INSERT INTO `music_info` VALUES (/*id*/2042, /*discription*/"ナターリア（CV：生田輝）\n喜多見柚（CV：武田羅梨沙多胡）\n城ヶ崎莉嘉（CV：山本希望）\n浜口あやめ（CV：田澤茉純）\n及川雫（CV：のぐちゆり）\n\n\n作詞・作曲：俊龍\n編曲：Sizuk", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/2043, /*discription*/"水本ゆかり（CV：藤田茜）\n小早川紗枝（CV：立花理香）\n\n\n作詞：磯谷佳江\n作曲・編曲：小野貴光", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/2044, /*discription*/"桐生つかさ（CV：河瀬茉希）\n三船美優（CV：原田彩楓）\n星輝子（CV：松田颯水）\n藤原肇（CV：鈴木みのり）\n\n\n作詞：月丘りあ子 (SUPA LOVE)\n作曲・編曲：塩原大貴 (SUPA LOVE)", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/2045, /*discription*/"渋谷凛（CV：福原綾香）\n白雪千夜（CV：関口理咲）\n松永涼（CV：千菅春香）\n\n\n作詞・作曲・編曲：R・O・N", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/3001, /*discription*/"島村卯月（CV：大橋彩香）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（Yoshi）\nコーラス：Mitsu（BNSI）\nギター：後藤貴徳\nバイオリン：Bloom Quartet & Ensemble", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/3002, /*discription*/"渋谷凛（CV：福原綾香）\n\n\n作詞・作曲：BNEI（遠山明孝・八城雄太）\n作曲：BNEI（遠山明孝）\n編曲：関淳二郎\nギター・コーラス：関淳二郎", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/3003, /*discription*/"本田未央（CV：原紗友里）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（kyo）\nギター：後藤貴徳", /*android_url*/"", /*ios_url*/"");

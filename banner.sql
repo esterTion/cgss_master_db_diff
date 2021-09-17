@@ -1321,7 +1321,7 @@ INSERT INTO `banner` VALUES (/*banner_id*/1336, /*type*/13, /*img_id*/28, /*tran
 INSERT INTO `banner` VALUES (/*banner_id*/1337, /*type*/3, /*img_id*/0, /*transition*/103, /*page_index*/12, /*order_num*/29, /*start_date*/"2021-08-10 15:00:00", /*end_date*/"2021-10-14 23:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/1338, /*type*/2, /*img_id*/2040, /*transition*/0, /*page_index*/0, /*order_num*/20, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
 INSERT INTO `banner` VALUES (/*banner_id*/1339, /*type*/1, /*img_id*/30669, /*transition*/0, /*page_index*/30669, /*order_num*/6, /*start_date*/"2021-08-13 15:00:00", /*end_date*/"2021-08-16 14:59:59");
-INSERT INTO `banner` VALUES (/*banner_id*/1340, /*type*/12, /*img_id*/1340, /*transition*/0, /*page_index*/0, /*order_num*/8, /*start_date*/"2021-08-22 00:00:00", /*end_date*/"2021-10-08 23:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1340, /*type*/12, /*img_id*/1340, /*transition*/0, /*page_index*/0, /*order_num*/4, /*start_date*/"2021-08-22 00:00:00", /*end_date*/"2021-10-08 23:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/1341, /*type*/1, /*img_id*/30670, /*transition*/0, /*page_index*/30670, /*order_num*/6, /*start_date*/"2021-08-16 15:00:00", /*end_date*/"2021-08-19 14:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/1342, /*type*/17, /*img_id*/2, /*transition*/0, /*page_index*/0, /*order_num*/22, /*start_date*/"2021-08-22 00:00:00", /*end_date*/"2021-09-02 23:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/1343, /*type*/13, /*img_id*/29, /*transition*/0, /*page_index*/0, /*order_num*/7, /*start_date*/"2021-08-30 15:00:00", /*end_date*/"2021-09-30 14:59:59");
@@ -1356,7 +1356,9 @@ INSERT INTO `banner` VALUES (/*banner_id*/1371, /*type*/1, /*img_id*/30677, /*tr
 INSERT INTO `banner` VALUES (/*banner_id*/1374, /*type*/2, /*img_id*/7008, /*transition*/0, /*page_index*/0, /*order_num*/20, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
 INSERT INTO `banner` VALUES (/*banner_id*/1375, /*type*/1, /*img_id*/80043, /*transition*/2, /*page_index*/61, /*order_num*/1, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
 INSERT INTO `banner` VALUES (/*banner_id*/1376, /*type*/1, /*img_id*/30678, /*transition*/0, /*page_index*/30678, /*order_num*/4, /*start_date*/"2021-09-05 15:00:00", /*end_date*/"2021-09-14 14:59:59");
-INSERT INTO `banner` VALUES (/*banner_id*/1377, /*type*/1, /*img_id*/30679, /*transition*/0, /*page_index*/30679, /*order_num*/3, /*start_date*/"2021-09-14 15:00:00", /*end_date*/"2021-09-17 14:59:59");
-INSERT INTO `banner` VALUES (/*banner_id*/1378, /*type*/1, /*img_id*/30680, /*transition*/0, /*page_index*/30680, /*order_num*/4, /*start_date*/"2021-09-14 15:00:00", /*end_date*/"2021-09-17 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1377, /*type*/1, /*img_id*/30679, /*transition*/0, /*page_index*/30679, /*order_num*/4, /*start_date*/"2021-09-14 15:00:00", /*end_date*/"2021-09-17 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1378, /*type*/1, /*img_id*/30680, /*transition*/0, /*page_index*/30680, /*order_num*/5, /*start_date*/"2021-09-14 15:00:00", /*end_date*/"2021-09-17 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1379, /*type*/1, /*img_id*/30681, /*transition*/0, /*page_index*/30681, /*order_num*/3, /*start_date*/"2021-09-17 15:00:00", /*end_date*/"2021-09-20 14:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/1380, /*type*/2, /*img_id*/6023, /*transition*/0, /*page_index*/0, /*order_num*/20, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
-INSERT INTO `banner` VALUES (/*banner_id*/1381, /*type*/2, /*img_id*/1073, /*transition*/0, /*page_index*/0, /*order_num*/5, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
+INSERT INTO `banner` VALUES (/*banner_id*/1381, /*type*/2, /*img_id*/1073, /*transition*/0, /*page_index*/0, /*order_num*/20, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
+INSERT INTO `banner` VALUES (/*banner_id*/1386, /*type*/3, /*img_id*/0, /*transition*/103, /*page_index*/14, /*order_num*/28, /*start_date*/"2021-09-17 15:00:00", /*end_date*/"2021-10-11 09:59:59");
