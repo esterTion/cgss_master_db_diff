@@ -636,7 +636,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90160, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90161, /*img*/1, /*discription*/"「デレステ5周年記念 ! Twitterキャンペーン」開催 !\n期間中にキャンペーン特設ページから\n参加しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90162, /*img*/1, /*discription*/"チャンスチケットの配布は終了しました。\n結果発表までお楽しみに !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90163, /*img*/1, /*discription*/"現在当選結果を発表中です。\n配布期間中にチャンスチケットを獲得した方は\n当選結果を確認しましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90164, /*img*/1, /*discription*/"近日公開 !\nお楽しみに !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90164, /*img*/1, /*discription*/"デレスポにてMVをVR、GYROVIEWで楽しめる機能\n「VRLIVE」を追加。対応楽曲「Brand new!」を\nぜひお楽しみください !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90165, /*img*/1, /*discription*/"「プラチナオーディションガシャ\n1日1回10連無料キャンペーン」を開催中 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90165, /*img*/1, /*discription*/"キャンペーン期間中1日1回無料で\n10連ガシャを引くことができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90165, /*img*/1, /*discription*/"1日1回無料で引ける10連ガシャは、\n毎日24時にリセットされます。");
