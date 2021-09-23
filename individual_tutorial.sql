@@ -187,6 +187,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20204, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20205, /*img*/1, /*discription*/"海外エリアが追加されました。\nアイドルたちの魅力を世界中に広めましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20206, /*img*/1, /*discription*/"複数の営業をまとめて確認できる機能を追加しました !\n結果確認可能な営業をまとめて確認することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20206, /*img*/2, /*discription*/"さらに、複数まとめて確認した営業は\nそのまま再出発することができます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20207, /*img*/1, /*discription*/"複数の営業をまとめて短縮できる機能を追加しました !\n「まとめて確認」、「まとめて短縮」を行った場合は、\n再出発時も複数営業をまとめて短縮することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20207, /*img*/2, /*discription*/"営業ごとに消費するスタミナを選択できます !\n消費するスタミナは1単位で選択でき、\nスタミナ1あたり、15分短縮できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「スペースフォーチュン\nマニー獲得キャンペーン」開催中 ! ! キャンペーン中は、\nたくさんのマニーが獲得できるスペシャル営業が\n1日1回行えます ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21001, /*img*/1, /*discription*/"拘束のまゆからの攻撃を避けつつ、ハピネシウムを集めよう。\n集めたハピネシウムをラボに届けるとスコアをゲットできるよ ! \nラボにまとめて届けるとスコアがアップ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21002, /*img*/1, /*discription*/"誘惑の奏の攻撃や障害物を回避して、ハピネシウムを集めよう。\nタップするとうさぎロボがジャンプ ! \nうさぎロボは1回だけ空中ジャンプが可能だよ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
@@ -220,6 +222,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30006, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30006, /*img*/2, /*discription*/"「リスト選択」ボタンをタップすると\n公演名が記載されたプレイリストの一覧が表示されます。\n一覧からプレイリストを選択し、公演を振り返りましょう！");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30006, /*img*/3, /*discription*/"MV再生中に画面をタップするとポーズメニューが表示されます。\nポーズメニューでは「リスト」タブと「メニュー」タブを\n切り替えることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30006, /*img*/3, /*discription*/"「リスト」タブではプレイリストの楽曲を選択して再生できます。\n「メニュー」タブでは楽曲情報を確認できる他、\n「リピート」や「シャッフル」のON/OFFを設定できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30007, /*img*/1, /*discription*/"マイプレイリスト機能を追加しました !\n好きなアイドル・楽曲を組み合わせて\n自分だけの公演を作成しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30008, /*img*/1, /*discription*/"LIVEの楽曲選択画面をリニューアルしました !\n「WIDE（横画面）」「SMART（縦画面）」の\n2種類のモードを切り替えて使用します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30008, /*img*/2, /*discription*/"選曲画面のジャケットをタップすることで、\nタイル状に並んだジャケット画像から\n選曲することもできます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30009, /*img*/1, /*discription*/"SMART LIVE設定の判定ライン設定に「下」を追加しました。\n「下」に設定すると、横画面のLIVEのように、\nリズムアイコンが縦に流れてくるようになります。");
@@ -651,12 +654,13 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90168, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90168, /*img*/1, /*discription*/"・プロデューサーLvが20に達している\n・2ndパネルミッションを解放している");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90168, /*img*/2, /*discription*/"期間中にチャンスチケットを25枚集めると\n結果発表時に「5等確定のチャンスチケット」\nをゲットできます ! ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90168, /*img*/2, /*discription*/"※9等以上の当選条件を満たしていない場合は獲得できません。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90169, /*img*/1, /*discription*/"好きなアイドル・楽曲を組み合わせて\nプレイリストを作成できる\nマイプレイリスト機能を追加予定です。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90169, /*img*/1, /*discription*/"マイプレイリスト機能を追加しました !\n好きなアイドル・楽曲を組み合わせて\n自分だけの公演を作成しましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90169, /*img*/1, /*discription*/"LIVE画面左下のメニューのボタンや\nホーム画面レイアウト設定をする事でトップ画面から\nMVプレイリストへ遷移できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90170, /*img*/1, /*discription*/"プラチナスペシャルガシャセットは期間限定販売です !\n購入すると2種類の「プラチナスカウトチケット」を1枚ずつと\n「プラチナ10連ガシャチケット」を2枚獲得できます。\n※有償スタージュエルでのみ購入することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90170, /*img*/2, /*discription*/"「プラチナスカウトチケット」は、\n一部の期間限定アイドルを含む対象アイドルから1人を選んで\nスカウトできるチケットです。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90170, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様にSレア以上のアイドル1人が\n確定で出現します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90171, /*img*/1, /*discription*/"メモリアルガシャ3rd近日公開 !\nSレアとSSレアは対象の限定アイドルのみ登場します !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90172, /*img*/1, /*discription*/"ドレスコーデ対応衣装に楽曲「TRUE COLORS」の\n衣装「レインボー・カラーズ」を追加予定です。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90172, /*img*/1, /*discription*/"ドレスコーデ対応衣装に楽曲「TRUE COLORS」の\n衣装「レインボー・カラーズ」を追加しました。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90172, /*img*/1, /*discription*/"衣装「レインボー・カラーズ」をドレスショップで\n受け取ることでドレスコーデ機能で使用できるように\nなります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90173, /*img*/1, /*discription*/"ルーム倉庫の収納数上限と\n一部アイテムの最大所持数が大幅増加 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90173, /*img*/2, /*discription*/"6周年を記念して、6周年楽曲「星環世界」に\n登場した浮遊ステージを追加 !");

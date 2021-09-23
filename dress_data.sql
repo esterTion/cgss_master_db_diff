@@ -20,6 +20,7 @@ INSERT INTO `dress_data` VALUES (/*id*/20, /*name*/"コネクテッド・パラ�
 INSERT INTO `dress_data` VALUES (/*id*/21, /*name*/"コネクテッド・パラレル/パンツ", /*description*/"全世界と繋がる、最先端のドレス。\n時代に合わせて形を変えながら、\n少女たちの夢は、変わらず輝き続ける。", /*open_type*/2, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/22, /*name*/"MV登場衣装１", /*description*/"just-us-justiceMV登場衣装", /*open_type*/99, /*dress_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/23, /*name*/"アド・アストラ", /*description*/"自由な宇宙へ飛び出す少女たちのドレス。\n未知を恐れず、重力を振り切って、\n無限に広がる未来を信じて突き進もう。\nそんな決意を、力強く支えていてくれる。", /*open_type*/2, /*dress_type*/1);
+INSERT INTO `dress_data` VALUES (/*id*/26, /*name*/"レインボー・カラーズ／コーデ", /*description*/"パーツごとにカラーを変更できる\nドレスコーデ対応衣装になります。", /*open_type*/2, /*dress_type*/2);
 INSERT INTO `dress_data` VALUES (/*id*/100, /*name*/"SSレア衣装", /*description*/"", /*open_type*/1, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/201, /*name*/"Sレア衣装", /*description*/"", /*open_type*/0, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/202, /*name*/"レア衣装", /*description*/"", /*open_type*/0, /*dress_type*/3);

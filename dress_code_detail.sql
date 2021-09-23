@@ -3,3 +3,4 @@ INSERT INTO `dress_code_detail` VALUES (/*dress_id*/9, /*tab_01_icon*/"icon_tab_
 INSERT INTO `dress_code_detail` VALUES (/*dress_id*/10, /*tab_01_icon*/"icon_tab_10_1", /*tab_02_icon*/"icon_tab_10_2", /*tab_03_icon*/"icon_tab_11_0", /*tab_04_icon*/"icon_tab_13_0", /*tab_05_icon*/"");
 INSERT INTO `dress_code_detail` VALUES (/*dress_id*/12, /*tab_01_icon*/"icon_tab_10_1", /*tab_02_icon*/"icon_tab_10_2", /*tab_03_icon*/"icon_tab_10_3", /*tab_04_icon*/"icon_tab_10_4", /*tab_05_icon*/"icon_tab_11_0");
 INSERT INTO `dress_code_detail` VALUES (/*dress_id*/17, /*tab_01_icon*/"icon_tab_10_1", /*tab_02_icon*/"icon_tab_10_2", /*tab_03_icon*/"icon_tab_11_1", /*tab_04_icon*/"icon_tab_11_2", /*tab_05_icon*/"icon_tab_14_0");
+INSERT INTO `dress_code_detail` VALUES (/*dress_id*/26, /*tab_01_icon*/"icon_tab_10_1", /*tab_02_icon*/"icon_tab_11_0", /*tab_03_icon*/"icon_tab_10_2", /*tab_04_icon*/"icon_tab_10_3", /*tab_05_icon*/"icon_tab_10_4");

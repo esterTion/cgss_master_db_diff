@@ -42,3 +42,4 @@ INSERT INTO `gallery_stage_list` VALUES (/*id*/45, /*disp_order*/37, /*disp_name
 INSERT INTO `gallery_stage_list` VALUES (/*id*/46, /*disp_order*/38, /*disp_name*/"ステージ キラッ ! 満開スマイル", /*bg_id*/1009, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/47, /*disp_order*/39, /*disp_name*/"ステージ エチュードは1曲だけ", /*bg_id*/2009, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/48, /*disp_order*/40, /*disp_name*/"ステージ SUN♡FLOWER", /*bg_id*/3011, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/49, /*disp_order*/41, /*disp_name*/"ステージ 恋が咲く季節", /*bg_id*/4035, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360);
