@@ -667,6 +667,8 @@ INSERT INTO `text_data` VALUES (/*category*/12, /*index*/143, /*text*/"■期間
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/144, /*text*/"■恒常アイドル");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/145, /*text*/"([D33D98]{0}[-]種)");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/146, /*text*/"■イベント限定アイドル");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/147, /*text*/"メモリアルガシャ切替");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/148, /*text*/"メモリアルガシャ切り替え");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/1, /*text*/"エクストラコミュ解放");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/2, /*text*/"新たなエクストラコミュが解放されました");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/3, /*text*/"事務所");

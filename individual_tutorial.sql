@@ -22,6 +22,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/10012, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/10012, /*img*/1, /*discription*/"プライズコイン、プライズスカウトチケット\nプライズSレアスカウトチケットには有効期限が存在します。\n忘れずに交換しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10013, /*img*/1, /*discription*/"メモリアルガシャ2ndが新たに追加されました ! \n画面左上のタブで1stと2ndを切り替えることが可能です。\n※出現するアイドルはアイドル詳細でご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10014, /*img*/1, /*discription*/"「カムバックSレアスカウトチケット」は、アルバム登録済の\nSレア・レア・ノーマルアイドルから好きなアイドルを\nスカウトできるチケットです。対象アイドルごとに年1回まで\nスカウトすることができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/10015, /*img*/1, /*discription*/"メモリアルガシャ3rdが新たに追加されました ! \n画面右上ボタンで各メモリアルガシャを切り替えることが可能です。\n※出現するアイドルはアイドル詳細でご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/1, /*discription*/"スペシャルガシャセットは期間限定販売です。\n購入すると「スカウトチケット」と「プラチナ10連ガシャ\nチケット」を1枚ずつ獲得できます。\n※有償スタージュエルでのみ購入することができます");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/2, /*discription*/"「スカウトチケット」はレア、Sレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で出現します。");
@@ -659,7 +660,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90169, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90170, /*img*/1, /*discription*/"プラチナスペシャルガシャセットは期間限定販売です !\n購入すると2種類の「プラチナスカウトチケット」を1枚ずつと\n「プラチナ10連ガシャチケット」を2枚獲得できます。\n※有償スタージュエルでのみ購入することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90170, /*img*/2, /*discription*/"「プラチナスカウトチケット」は、\n一部の期間限定アイドルを含む対象アイドルから1人を選んで\nスカウトできるチケットです。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90170, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様にSレア以上のアイドル1人が\n確定で出現します。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90171, /*img*/1, /*discription*/"メモリアルガシャ3rd近日公開 !\nSレアとSSレアは対象の限定アイドルのみ登場します !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90171, /*img*/1, /*discription*/"メモリアルガシャ3rd公開中 !\nSレアとSSレアは対象の限定アイドルのみ登場します !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90172, /*img*/1, /*discription*/"ドレスコーデ対応衣装に楽曲「TRUE COLORS」の\n衣装「レインボー・カラーズ」を追加しました。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90172, /*img*/1, /*discription*/"衣装「レインボー・カラーズ」をドレスショップで\n受け取ることでドレスコーデ機能で使用できるように\nなります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90173, /*img*/1, /*discription*/"ルーム倉庫の収納数上限と\n一部アイテムの最大所持数が大幅増加 !");

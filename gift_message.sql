@@ -120,6 +120,7 @@ INSERT INTO `gift_message` VALUES (/*id*/2001, /*discription*/"デイリーミ�
 INSERT INTO `gift_message` VALUES (/*id*/2002, /*discription*/"デイリーミッション「{0}」で加入したアイドルです。", /*type_1*/25, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2003, /*discription*/"ウィークリーミッション「{0}」で獲得した報酬です。", /*type_1*/26, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2004, /*discription*/"ウィークリーミッション「{0}」で加入したアイドルです。", /*type_1*/26, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/2005, /*discription*/"ウィークリーミッション「ミニゲーム『{0}』を1回プレイしよう」で獲得した報酬です。", /*type_1*/42, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2011, /*discription*/"ノーマルミッション「{0}」で獲得した報酬です。", /*type_1*/27, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2012, /*discription*/"ノーマルミッション「{0}」で加入したアイドルです。", /*type_1*/27, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2013, /*discription*/"期間限定ミッション「{0}」で獲得した報酬です。", /*type_1*/28, /*type_2*/0, /*type_3*/0, /*type_4*/0);
