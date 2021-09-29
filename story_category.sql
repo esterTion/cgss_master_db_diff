@@ -458,3 +458,5 @@ INSERT INTO `story_category` VALUES (/*id*/480, /*type*/4, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/481, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"星環世界", /*sub_title*/"星環世界", /*disp_order*/162, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/482, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"望月聖 / 池袋晶葉", /*sub_title*/"望月聖 / 池袋晶葉", /*disp_order*/163, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/483, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Drastic Melody", /*sub_title*/"Drastic Melody", /*disp_order*/164, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/484, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"かぼちゃ姫", /*sub_title*/"かぼちゃ姫", /*disp_order*/165, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/485, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"10th ANNIVERSARY連動企画", /*sub_title*/"10th ANNIVERSARY連動企画", /*disp_order*/29, /*filter_type*/401);

@@ -71,3 +71,4 @@ INSERT INTO `dress_data` VALUES (/*id*/7042000, /*name*/"ゾンビィ・ハー�
 INSERT INTO `dress_data` VALUES (/*id*/7043000, /*name*/"県立北高校制服", /*description*/"世界を大いに盛り上げる少女達の制服ドレス。\n世の中がつまらないなら、自分たちで面白く\nしてしまおう。不思議な力はなくても、\n仲間と一緒なら変えていけるはずだ。", /*open_type*/2, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/7044000, /*name*/"カメラしょうじょ", /*description*/"夏をテーマにした、凪の衣装。\nユニークなシャツの柄が、夏を感じさせる。\nカメラと一緒に、最高の景色を探しに行こう。\nデザインした者の想いがこもっている。", /*open_type*/3, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7045000, /*name*/"ノトーリアス・ガール", /*description*/"既成の価値観に抗う少女たちのドレス。\n燃えるような色は、彼女たちの決意の証。\n他の何にも縛られることなく、己の意志を\n貫き通し、この世界を生き抜いていく。", /*open_type*/5, /*dress_type*/3);
+INSERT INTO `dress_data` VALUES (/*id*/7046000, /*name*/"ヒーロースピリッツ", /*description*/"己の正義を信じる少女たちのスーツ。\nどんな逆境の中にいても、人々の笑顔を\n守るため、仲間たちと共に立ち上がる。\nヒーローたちのそんな覚悟を象徴している。", /*open_type*/5, /*dress_type*/3);
