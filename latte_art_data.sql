@@ -443,3 +443,4 @@ INSERT INTO `latte_art_data` VALUES (/*id*/441, /*title*/"第441話", /*chara_li
 INSERT INTO `latte_art_data` VALUES (/*id*/442, /*title*/"第442話", /*chara_list*/"223,227,176", /*disp_order*/442, /*start_date*/"2021-10-04 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `latte_art_data` VALUES (/*id*/443, /*title*/"第443話", /*chara_list*/"164,115,121", /*disp_order*/443, /*start_date*/"2021-10-04 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `latte_art_data` VALUES (/*id*/444, /*title*/"第444話", /*chara_list*/"293,283,254", /*disp_order*/444, /*start_date*/"2021-10-04 15:00:00", /*end_date*/"2099-12-31 23:59:59");
+INSERT INTO `latte_art_data` VALUES (/*id*/445, /*title*/"第445話", /*chara_list*/"128,264,191,195", /*disp_order*/445, /*start_date*/"2021-10-11 15:00:00", /*end_date*/"2099-12-31 23:59:59");

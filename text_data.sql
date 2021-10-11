@@ -657,7 +657,7 @@ INSERT INTO `text_data` VALUES (/*category*/12, /*index*/133, /*text*/"[FF7A7A]{
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/134, /*text*/"ガシャ機能制限のお知らせ");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/135, /*text*/"デフォルト");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/136, /*text*/"ガシャ機能制限のお知らせ");
-INSERT INTO `text_data` VALUES (/*category*/12, /*index*/137, /*text*/"{0}後ガシャ機能に制限されます。\n以下のアイテムを使用することで\nガシャ機能が制限されなくなります。");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/137, /*text*/"{0}後ガシャ機能が制限されます。\n以下のアイテムを使用することで\nガシャ機能が制限されなくなります。");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/138, /*text*/"お持ちの{0}が{1}まで未使用の場合、ガシャ機能に制限がかかります");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/139, /*text*/"ガシャ機能制限まで{0}");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/140, /*text*/"[D33D98]ガシャ機能制限まで{0}[-]");
@@ -923,6 +923,11 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/174, /*text*/"{0}/{1}")
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/175, /*text*/"オートLIVE");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/176, /*text*/"最大所持数5枚");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/177, /*text*/"オートLIVEチケット消費");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/200, /*text*/"カバー楽曲表示");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/201, /*text*/"表示");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/202, /*text*/"非表示");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/203, /*text*/"カバー楽曲のみ表示する");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/204, /*text*/"カバー楽曲を含める");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/1, /*text*/"月間獲得ファン数ランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/2, /*text*/"今期のランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/3, /*text*/"前期のランキング");
@@ -1561,6 +1566,7 @@ INSERT INTO `text_data` VALUES (/*category*/17, /*index*/187, /*text*/"リハー
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/188, /*text*/"所持マニーが不足しています。");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/189, /*text*/"MASTER+の楽曲を含める");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/190, /*text*/"LIVEオプションは1度の公演で2つ使用することは出来ません\nLIVE開始時にアイテムを消費します");
+INSERT INTO `text_data` VALUES (/*category*/17, /*index*/191, /*text*/"カバー楽曲を含める");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/1, /*text*/"チケット獲得可能期間");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/2, /*text*/"　当選結果発表期間");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/3, /*text*/"ミッション");

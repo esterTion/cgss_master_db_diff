@@ -1,0 +1,1 @@
+CREATE TABLE 'paper_exchange_item' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'exchanged_resource_kind' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, 'cost_value' INTEGER NOT NULL, 'is_initial_exchanged' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'));

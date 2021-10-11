@@ -99,6 +99,7 @@ INSERT INTO `login_bonus_data` VALUES (/*id*/9090, /*name*/"夏がキタキタ !
 INSERT INTO `login_bonus_data` VALUES (/*id*/9091, /*name*/"サマーバケーションログインボーナス", /*type*/4, /*count_num*/19, /*rap*/1, /*img*/0, /*start_date*/"2021-07-22 00:00:00", /*end_date*/"2021-08-09 23:59:59");
 INSERT INTO `login_bonus_data` VALUES (/*id*/9092, /*name*/"「祝6周年 ! プラチナチャンス」キャンペーン", /*type*/6, /*count_num*/20, /*rap*/1, /*img*/0, /*start_date*/"2021-08-22 00:00:00", /*end_date*/"2021-09-10 23:59:59");
 INSERT INTO `login_bonus_data` VALUES (/*id*/9093, /*name*/"スペースフォーチュンログインボーナス", /*type*/4, /*count_num*/34, /*rap*/1, /*img*/0, /*start_date*/"2021-09-03 00:00:00", /*end_date*/"2021-10-06 23:59:59");
+INSERT INTO `login_bonus_data` VALUES (/*id*/9094, /*name*/"Halloween Celebration ! ログインボーナス", /*type*/4, /*count_num*/20, /*rap*/1, /*img*/0, /*start_date*/"2021-10-12 00:00:00", /*end_date*/"2021-10-31 23:59:59");
 INSERT INTO `login_bonus_data` VALUES (/*id*/9100, /*name*/"「新春！プラチナ宝くじ」キャンペーン", /*type*/6, /*count_num*/10, /*rap*/1, /*img*/0, /*start_date*/"2016-12-26 00:00:00", /*end_date*/"2017-01-04 23:59:59");
 INSERT INTO `login_bonus_data` VALUES (/*id*/9101, /*name*/"「新春！プラチナ宝くじ」キャンペーン", /*type*/6, /*count_num*/13, /*rap*/1, /*img*/0, /*start_date*/"2017-12-26 00:00:00", /*end_date*/"2018-01-07 23:59:59");
 INSERT INTO `login_bonus_data` VALUES (/*id*/9102, /*name*/"「新春 ! プラチナ宝くじ」キャンペーン", /*type*/6, /*count_num*/13, /*rap*/1, /*img*/0, /*start_date*/"2018-12-26 00:00:00", /*end_date*/"2019-01-07 23:59:59");
