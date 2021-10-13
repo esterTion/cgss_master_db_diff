@@ -1307,4 +1307,8 @@ INSERT INTO `card_location` VALUES (/*index*/1320, /*text*/"退廃的な館");
 INSERT INTO `card_location` VALUES (/*index*/1321, /*text*/"ハロウィンの夜");
 INSERT INTO `card_location` VALUES (/*index*/1322, /*text*/"待ち合わせ場所・11時1分");
 INSERT INTO `card_location` VALUES (/*index*/1323, /*text*/"ゴシック調のセット");
+INSERT INTO `card_location` VALUES (/*index*/1324, /*text*/"民芸雑貨店");
+INSERT INTO `card_location` VALUES (/*index*/1325, /*text*/"おもちゃの城下町");
+INSERT INTO `card_location` VALUES (/*index*/1326, /*text*/"映画館の前");
+INSERT INTO `card_location` VALUES (/*index*/1327, /*text*/"タイムズスクエア");
 INSERT INTO `card_location` VALUES (/*index*/1328, /*text*/"小麦畑");
