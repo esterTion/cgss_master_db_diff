@@ -14,7 +14,7 @@ INSERT INTO `music_data_ref` VALUES (/*id*/12, /*album_id*/2, /*music_id_range_m
 INSERT INTO `music_data_ref` VALUES (/*id*/13, /*album_id*/2, /*music_id_range_min*/9902, /*music_id_range_max*/9902);
 INSERT INTO `music_data_ref` VALUES (/*id*/14, /*album_id*/2, /*music_id_range_min*/9904, /*music_id_range_max*/9906);
 INSERT INTO `music_data_ref` VALUES (/*id*/15, /*album_id*/2, /*music_id_range_min*/9909, /*music_id_range_max*/9909);
-INSERT INTO `music_data_ref` VALUES (/*id*/16, /*album_id*/2, /*music_id_range_min*/9911, /*music_id_range_max*/9999);
+INSERT INTO `music_data_ref` VALUES (/*id*/16, /*album_id*/2, /*music_id_range_min*/9912, /*music_id_range_max*/9999);
 INSERT INTO `music_data_ref` VALUES (/*id*/17, /*album_id*/3, /*music_id_range_min*/1043, /*music_id_range_max*/1043);
 INSERT INTO `music_data_ref` VALUES (/*id*/18, /*album_id*/3, /*music_id_range_min*/2001, /*music_id_range_max*/2999);
 INSERT INTO `music_data_ref` VALUES (/*id*/19, /*album_id*/3, /*music_id_range_min*/9001, /*music_id_range_max*/9017);
@@ -27,7 +27,7 @@ INSERT INTO `music_data_ref` VALUES (/*id*/25, /*album_id*/4, /*music_id_range_m
 INSERT INTO `music_data_ref` VALUES (/*id*/26, /*album_id*/4, /*music_id_range_min*/3001, /*music_id_range_max*/3999);
 INSERT INTO `music_data_ref` VALUES (/*id*/27, /*album_id*/4, /*music_id_range_min*/5015, /*music_id_range_max*/5015);
 INSERT INTO `music_data_ref` VALUES (/*id*/28, /*album_id*/4, /*music_id_range_min*/9907, /*music_id_range_max*/9908);
-INSERT INTO `music_data_ref` VALUES (/*id*/29, /*album_id*/4, /*music_id_range_min*/9910, /*music_id_range_max*/9910);
+INSERT INTO `music_data_ref` VALUES (/*id*/29, /*album_id*/4, /*music_id_range_min*/9910, /*music_id_range_max*/9911);
 INSERT INTO `music_data_ref` VALUES (/*id*/30, /*album_id*/5, /*music_id_range_min*/5001, /*music_id_range_max*/5014);
 INSERT INTO `music_data_ref` VALUES (/*id*/31, /*album_id*/5, /*music_id_range_min*/5016, /*music_id_range_max*/5999);
 INSERT INTO `music_data_ref` VALUES (/*id*/32, /*album_id*/6, /*music_id_range_min*/7001, /*music_id_range_max*/7999);
