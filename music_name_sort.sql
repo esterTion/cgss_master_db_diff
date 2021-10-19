@@ -62,6 +62,7 @@ INSERT INTO `music_name_sort` VALUES (/*id*/1060, /*sort_id*/246, /*name_kana*/"
 INSERT INTO `music_name_sort` VALUES (/*id*/1061, /*sort_id*/232, /*name_kana*/"なんどでもわらおう");
 INSERT INTO `music_name_sort` VALUES (/*id*/1062, /*sort_id*/304, /*name_kana*/"ほわいとあげいん");
 INSERT INTO `music_name_sort` VALUES (/*id*/1063, /*sort_id*/223, /*name_kana*/"とんでいっちゃいたいの");
+INSERT INTO `music_name_sort` VALUES (/*id*/1064, /*sort_id*/350, /*name_kana*/"れっつせいるあうぇい");
 INSERT INTO `music_name_sort` VALUES (/*id*/1201, /*sort_id*/61, /*name_kana*/"おねがいしんでれらぐらんどばーじょん");
 INSERT INTO `music_name_sort` VALUES (/*id*/1901, /*sort_id*/60, /*name_kana*/"おねがいしんでれら");
 INSERT INTO `music_name_sort` VALUES (/*id*/1902, /*sort_id*/284, /*name_kana*/"びよんどざすたーらいと");
@@ -110,7 +111,7 @@ INSERT INTO `music_name_sort` VALUES (/*id*/2040, /*sort_id*/268, /*name_kana*/"
 INSERT INTO `music_name_sort` VALUES (/*id*/2041, /*sort_id*/306, /*name_kana*/"ほーむすうぃーとほーむ");
 INSERT INTO `music_name_sort` VALUES (/*id*/2042, /*sort_id*/276, /*name_kana*/"ぱりら");
 INSERT INTO `music_name_sort` VALUES (/*id*/2043, /*sort_id*/153, /*name_kana*/"しーくれっとみらーじゅ");
-INSERT INTO `music_name_sort` VALUES (/*id*/2044, /*sort_id*/350, /*name_kana*/"れっどそーる");
+INSERT INTO `music_name_sort` VALUES (/*id*/2044, /*sort_id*/351, /*name_kana*/"れっどそーる");
 INSERT INTO `music_name_sort` VALUES (/*id*/2045, /*sort_id*/226, /*name_kana*/"どらすてぃっくめろでぃ");
 INSERT INTO `music_name_sort` VALUES (/*id*/2046, /*sort_id*/81, /*name_kana*/"かぼちゃひめ");
 INSERT INTO `music_name_sort` VALUES (/*id*/3001, /*sort_id*/180, /*name_kana*/"すまいりんぐ");
@@ -124,7 +125,7 @@ INSERT INTO `music_name_sort` VALUES (/*id*/3008, /*sort_id*/328, /*name_kana*/"
 INSERT INTO `music_name_sort` VALUES (/*id*/3009, /*sort_id*/224, /*name_kana*/"どきどきりずむ");
 INSERT INTO `music_name_sort` VALUES (/*id*/3010, /*sort_id*/63, /*name_kana*/"おねだりしゃるうぃー");
 INSERT INTO `music_name_sort` VALUES (/*id*/3011, /*sort_id*/286, /*name_kana*/"びーなすしんどろーむ");
-INSERT INTO `music_name_sort` VALUES (/*id*/3012, /*sort_id*/355, /*name_kana*/"ろまんてぃっくなう");
+INSERT INTO `music_name_sort` VALUES (/*id*/3012, /*sort_id*/356, /*name_kana*/"ろまんてぃっくなう");
 INSERT INTO `music_name_sort` VALUES (/*id*/3013, /*sort_id*/149, /*name_kana*/"しょこらてぃあら");
 INSERT INTO `music_name_sort` VALUES (/*id*/3014, /*sort_id*/222, /*name_kana*/"とわいらいとすかい");
 INSERT INTO `music_name_sort` VALUES (/*id*/3015, /*sort_id*/213, /*name_kana*/"ときめきえすかれーと");
@@ -153,13 +154,13 @@ INSERT INTO `music_name_sort` VALUES (/*id*/3037, /*sort_id*/97, /*name_kana*/"�
 INSERT INTO `music_name_sort` VALUES (/*id*/3038, /*sort_id*/280, /*name_kana*/"ひみつのとわれ");
 INSERT INTO `music_name_sort` VALUES (/*id*/3039, /*sort_id*/6, /*name_kana*/"あおのいちばんぼし");
 INSERT INTO `music_name_sort` VALUES (/*id*/3040, /*sort_id*/338, /*name_kana*/"らびあんろーず");
-INSERT INTO `music_name_sort` VALUES (/*id*/3041, /*sort_id*/351, /*name_kana*/"れでぃおはっぴー");
+INSERT INTO `music_name_sort` VALUES (/*id*/3041, /*sort_id*/352, /*name_kana*/"れでぃおはっぴー");
 INSERT INTO `music_name_sort` VALUES (/*id*/3042, /*sort_id*/112, /*name_kana*/"こいいろえなじー");
 INSERT INTO `music_name_sort` VALUES (/*id*/3043, /*sort_id*/99, /*name_kana*/"きょうめいせかいのおんとろじー");
 INSERT INTO `music_name_sort` VALUES (/*id*/3044, /*sort_id*/335, /*name_kana*/"らいらっくたいむ");
 INSERT INTO `music_name_sort` VALUES (/*id*/3045, /*sort_id*/117, /*name_kana*/"こいのはんばーぐ");
 INSERT INTO `music_name_sort` VALUES (/*id*/3046, /*sort_id*/50, /*name_kana*/"おいかぜらんにんぐ");
-INSERT INTO `music_name_sort` VALUES (/*id*/3047, /*sort_id*/359, /*name_kana*/"わんらいふ");
+INSERT INTO `music_name_sort` VALUES (/*id*/3047, /*sort_id*/360, /*name_kana*/"わんらいふ");
 INSERT INTO `music_name_sort` VALUES (/*id*/3048, /*sort_id*/33, /*name_kana*/"いのりのはな");
 INSERT INTO `music_name_sort` VALUES (/*id*/3049, /*sort_id*/336, /*name_kana*/"らくえん");
 INSERT INTO `music_name_sort` VALUES (/*id*/3050, /*sort_id*/337, /*name_kana*/"らすときす");
@@ -171,7 +172,7 @@ INSERT INTO `music_name_sort` VALUES (/*id*/3055, /*sort_id*/109, /*name_kana*/"
 INSERT INTO `music_name_sort` VALUES (/*id*/3056, /*sort_id*/17, /*name_kana*/"あらかねのうつわ");
 INSERT INTO `music_name_sort` VALUES (/*id*/3057, /*sort_id*/57, /*name_kana*/"おたへんあんせむ");
 INSERT INTO `music_name_sort` VALUES (/*id*/3058, /*sort_id*/263, /*name_kana*/"はるこいふれーむ");
-INSERT INTO `music_name_sort` VALUES (/*id*/3059, /*sort_id*/357, /*name_kana*/"わたしいろのぷれりゅーど");
+INSERT INTO `music_name_sort` VALUES (/*id*/3059, /*sort_id*/358, /*name_kana*/"わたしいろのぷれりゅーど");
 INSERT INTO `music_name_sort` VALUES (/*id*/3060, /*sort_id*/65, /*name_kana*/"おやまとぺ");
 INSERT INTO `music_name_sort` VALUES (/*id*/3061, /*sort_id*/184, /*name_kana*/"せかいめつぼうおあきす");
 INSERT INTO `music_name_sort` VALUES (/*id*/3062, /*sort_id*/197, /*name_kana*/"だんがんさばいばー");
@@ -209,10 +210,10 @@ INSERT INTO `music_name_sort` VALUES (/*id*/5008, /*sort_id*/71, /*name_kana*/"�
 INSERT INTO `music_name_sort` VALUES (/*id*/5009, /*sort_id*/349, /*name_kana*/"れっつごーはっぴー");
 INSERT INTO `music_name_sort` VALUES (/*id*/5010, /*sort_id*/145, /*name_kana*/"しゃいん");
 INSERT INTO `music_name_sort` VALUES (/*id*/5011, /*sort_id*/330, /*name_kana*/"ゆめいろはーもにー");
-INSERT INTO `music_name_sort` VALUES (/*id*/5013, /*sort_id*/356, /*name_kana*/"わたしいろぎふと");
+INSERT INTO `music_name_sort` VALUES (/*id*/5013, /*sort_id*/357, /*name_kana*/"わたしいろぎふと");
 INSERT INTO `music_name_sort` VALUES (/*id*/5014, /*sort_id*/269, /*name_kana*/"はーとぼいす");
-INSERT INTO `music_name_sort` VALUES (/*id*/5015, /*sort_id*/354, /*name_kana*/"ろっきんえもーしょん");
-INSERT INTO `music_name_sort` VALUES (/*id*/5017, /*sort_id*/358, /*name_kana*/"わんだーごーずおん");
+INSERT INTO `music_name_sort` VALUES (/*id*/5015, /*sort_id*/355, /*name_kana*/"ろっきんえもーしょん");
+INSERT INTO `music_name_sort` VALUES (/*id*/5017, /*sort_id*/359, /*name_kana*/"わんだーごーずおん");
 INSERT INTO `music_name_sort` VALUES (/*id*/5018, /*sort_id*/120, /*name_kana*/"このそらのした");
 INSERT INTO `music_name_sort` VALUES (/*id*/5020, /*sort_id*/248, /*name_kana*/"ねびゅらすかい");
 INSERT INTO `music_name_sort` VALUES (/*id*/5021, /*sort_id*/218, /*name_kana*/"とらんしんぐぱるす");
@@ -287,7 +288,7 @@ INSERT INTO `music_name_sort` VALUES (/*id*/8037, /*sort_id*/296, /*name_kana*/"
 INSERT INTO `music_name_sort` VALUES (/*id*/8038, /*sort_id*/0, /*name_kana*/"あいうぃっしゅ");
 INSERT INTO `music_name_sort` VALUES (/*id*/8039, /*sort_id*/260, /*name_kana*/"はなれていても");
 INSERT INTO `music_name_sort` VALUES (/*id*/8040, /*sort_id*/313, /*name_kana*/"みあげてごらんよるのほしを");
-INSERT INTO `music_name_sort` VALUES (/*id*/8041, /*sort_id*/352, /*name_kana*/"ろすとぷりんせす");
+INSERT INTO `music_name_sort` VALUES (/*id*/8041, /*sort_id*/353, /*name_kana*/"ろすとぷりんせす");
 INSERT INTO `music_name_sort` VALUES (/*id*/8042, /*sort_id*/119, /*name_kana*/"こねくてぃんぐはっぴー");
 INSERT INTO `music_name_sort` VALUES (/*id*/8043, /*sort_id*/72, /*name_kana*/"おーばーざすかい");
 INSERT INTO `music_name_sort` VALUES (/*id*/8044, /*sort_id*/220, /*name_kana*/"とりのうた");
@@ -311,7 +312,7 @@ INSERT INTO `music_name_sort` VALUES (/*id*/8061, /*sort_id*/190, /*name_kana*/"
 INSERT INTO `music_name_sort` VALUES (/*id*/8062, /*sort_id*/265, /*name_kana*/"はれはれゆかい");
 INSERT INTO `music_name_sort` VALUES (/*id*/8063, /*sort_id*/129, /*name_kana*/"ごっどのうず");
 INSERT INTO `music_name_sort` VALUES (/*id*/8064, /*sort_id*/307, /*name_kana*/"ぼうけんでしょでしょ");
-INSERT INTO `music_name_sort` VALUES (/*id*/8065, /*sort_id*/353, /*name_kana*/"ろすとまいみゅーじっく");
+INSERT INTO `music_name_sort` VALUES (/*id*/8065, /*sort_id*/354, /*name_kana*/"ろすとまいみゅーじっく");
 INSERT INTO `music_name_sort` VALUES (/*id*/9001, /*sort_id*/215, /*name_kana*/"とどけあいどる");
 INSERT INTO `music_name_sort` VALUES (/*id*/9002, /*sort_id*/175, /*name_kana*/"すのうういんぐす");
 INSERT INTO `music_name_sort` VALUES (/*id*/9003, /*sort_id*/199, /*name_kana*/"ちゅーりっぷ");
@@ -359,4 +360,4 @@ INSERT INTO `music_name_sort` VALUES (/*id*/9908, /*sort_id*/341, /*name_kana*/"
 INSERT INTO `music_name_sort` VALUES (/*id*/9909, /*sort_id*/51, /*name_kana*/"おうむあむあにこううんを");
 INSERT INTO `music_name_sort` VALUES (/*id*/9910, /*sort_id*/8, /*name_kana*/"あこがれすてっち");
 INSERT INTO `music_name_sort` VALUES (/*id*/9911, /*sort_id*/279, /*name_kana*/"ひまわりまーくをさがせ");
-INSERT INTO `music_name_sort` VALUES (/*id*/90001, /*sort_id*/360, /*name_kana*/"");
+INSERT INTO `music_name_sort` VALUES (/*id*/90001, /*sort_id*/361, /*name_kana*/"");

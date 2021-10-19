@@ -1386,5 +1386,9 @@ INSERT INTO `banner` VALUES (/*banner_id*/1405, /*type*/2, /*img_id*/2041, /*tra
 INSERT INTO `banner` VALUES (/*banner_id*/1406, /*type*/1, /*img_id*/30689, /*transition*/0, /*page_index*/30689, /*order_num*/3, /*start_date*/"2021-10-13 15:00:00", /*end_date*/"2021-10-16 14:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/1407, /*type*/1, /*img_id*/30690, /*transition*/0, /*page_index*/30690, /*order_num*/4, /*start_date*/"2021-10-13 15:00:00", /*end_date*/"2021-10-16 14:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/1408, /*type*/1, /*img_id*/30691, /*transition*/0, /*page_index*/30691, /*order_num*/3, /*start_date*/"2021-10-16 15:00:00", /*end_date*/"2021-10-19 14:59:59");
-INSERT INTO `banner` VALUES (/*banner_id*/1413, /*type*/2, /*img_id*/1074, /*transition*/0, /*page_index*/0, /*order_num*/5, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
+INSERT INTO `banner` VALUES (/*banner_id*/1409, /*type*/1, /*img_id*/30692, /*transition*/0, /*page_index*/30692, /*order_num*/5, /*start_date*/"2021-10-19 15:00:00", /*end_date*/"2021-10-22 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1410, /*type*/1, /*img_id*/60157, /*transition*/3, /*page_index*/60157, /*order_num*/4, /*start_date*/"2021-10-19 15:00:00", /*end_date*/"2021-10-20 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1411, /*type*/1, /*img_id*/60158, /*transition*/3, /*page_index*/60158, /*order_num*/4, /*start_date*/"2021-10-20 15:00:00", /*end_date*/"2021-10-21 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1412, /*type*/1, /*img_id*/60159, /*transition*/3, /*page_index*/60159, /*order_num*/4, /*start_date*/"2021-10-21 15:00:00", /*end_date*/"2021-10-22 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1413, /*type*/2, /*img_id*/1074, /*transition*/0, /*page_index*/0, /*order_num*/20, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
 INSERT INTO `banner` VALUES (/*banner_id*/1414, /*type*/3, /*img_id*/0, /*transition*/103, /*page_index*/15, /*order_num*/29, /*start_date*/"2021-10-16 15:00:00", /*end_date*/"2021-11-30 23:59:59");
