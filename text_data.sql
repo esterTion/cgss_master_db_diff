@@ -3684,7 +3684,7 @@ INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/304, /*text*/"13才\
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/310, /*text*/"次回から表示しない");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/400, /*text*/"データをダウンロードします\n（約{0:F2}）");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/401, /*text*/"ダウンロードサイズが50MBを超える場合、\nWi-Fi環境でのダウンロードを推奨します");
-INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/402, /*text*/"空き容量が不足しているためダウンロードできませんでした");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/402, /*text*/"空き容量が不足しているため\nダウンロードできませんでした");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/500, /*text*/"アイドルマスター シンデレラガールズ\nスターライトステージとの同期に\n成功しました");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/501, /*text*/"アイドルマスター シンデレラガールズ\nスターライトステージとの同期に\n失敗しました　\n通信環境の良い場所で再度お試しください");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/502, /*text*/"PLv : {0}\nプロデューサー名 : {1}\nと連携しますか？");

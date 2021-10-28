@@ -186,3 +186,4 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200137, /*name*/"パ・�
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200138, /*name*/"Secret Mirage（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/138);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200139, /*name*/"レッド・ソール（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/139);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200140, /*name*/"星環世界（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/140);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200141, /*name*/"Drastic Melody（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/141);
