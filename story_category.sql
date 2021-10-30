@@ -462,3 +462,4 @@ INSERT INTO `story_category` VALUES (/*id*/483, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/484, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"かぼちゃ姫", /*sub_title*/"かぼちゃ姫", /*disp_order*/165, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/485, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"10th ANNIVERSARY連動企画", /*sub_title*/"10th ANNIVERSARY連動企画", /*disp_order*/29, /*filter_type*/401);
 INSERT INTO `story_category` VALUES (/*id*/486, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Let's Sail Away!!!", /*sub_title*/"Let's Sail Away!!!", /*disp_order*/166, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/487, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"堕ちる果実", /*sub_title*/"堕ちる果実", /*disp_order*/167, /*filter_type*/0);

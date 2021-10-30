@@ -324,6 +324,7 @@ INSERT INTO `text_data` VALUES (/*category*/9, /*index*/82, /*text*/"MASTER+の�
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/83, /*text*/"決定ボタンを押した時点でスタミナが消費されます");
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/84, /*text*/"スタミナの消費量が多いほど\nイベントptが多く獲得できます");
 INSERT INTO `text_data` VALUES (/*category*/9, /*index*/85, /*text*/"{0}倍");
+INSERT INTO `text_data` VALUES (/*category*/9, /*index*/86, /*text*/"リタイアするとアンコールの\nイベントptは獲得することができません");
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/1, /*text*/"メンバー確認");
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/2, /*text*/"このユニットでLIVEを開催します");
 INSERT INTO `text_data` VALUES (/*category*/10, /*index*/3, /*text*/"準備完了");
@@ -923,6 +924,7 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/174, /*text*/"{0}/{1}")
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/175, /*text*/"オートLIVE");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/176, /*text*/"最大所持数5枚");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/177, /*text*/"オートLIVEチケット消費");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/178, /*text*/"アンコールLIVEでの利用には、\nチケットは必要ありません");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/200, /*text*/"カバー楽曲表示");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/201, /*text*/"表示");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/202, /*text*/"非表示");

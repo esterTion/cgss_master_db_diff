@@ -1317,3 +1317,9 @@ INSERT INTO `card_location` VALUES (/*index*/1330, /*text*/"西園寺邸・厨�
 INSERT INTO `card_location` VALUES (/*index*/1331, /*text*/"西園寺邸・庭園");
 INSERT INTO `card_location` VALUES (/*index*/1332, /*text*/"駅・オブジェの前");
 INSERT INTO `card_location` VALUES (/*index*/1333, /*text*/"ロンドン・高層ホテル");
+INSERT INTO `card_location` VALUES (/*index*/1334, /*text*/"不思議な歩道橋");
+INSERT INTO `card_location` VALUES (/*index*/1335, /*text*/"夜の街・上空");
+INSERT INTO `card_location` VALUES (/*index*/1336, /*text*/"ホテル");
+INSERT INTO `card_location` VALUES (/*index*/1337, /*text*/"嘆きの川");
+INSERT INTO `card_location` VALUES (/*index*/1338, /*text*/"夜の学校・屋上");
+INSERT INTO `card_location` VALUES (/*index*/1339, /*text*/"幻想の夜空");
