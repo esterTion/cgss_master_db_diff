@@ -33,3 +33,4 @@ INSERT INTO `campaign_login_bonus_detail` VALUES (/*id*/9090, /*bg_music_img*/0,
 INSERT INTO `campaign_login_bonus_detail` VALUES (/*id*/9091, /*bg_music_img*/9008, /*plate_img_id*/15, /*pos_y_diff*/0);
 INSERT INTO `campaign_login_bonus_detail` VALUES (/*id*/9093, /*bg_music_img*/9037, /*plate_img_id*/18, /*pos_y_diff*/-4);
 INSERT INTO `campaign_login_bonus_detail` VALUES (/*id*/9094, /*bg_music_img*/1034, /*plate_img_id*/3, /*pos_y_diff*/0);
+INSERT INTO `campaign_login_bonus_detail` VALUES (/*id*/9095, /*bg_music_img*/1029, /*plate_img_id*/1, /*pos_y_diff*/10);

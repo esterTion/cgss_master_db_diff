@@ -193,7 +193,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20206, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20206, /*img*/2, /*discription*/"さらに、複数まとめて確認した営業は\nそのまま再出発することができます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20207, /*img*/1, /*discription*/"複数の営業をまとめて短縮できる機能を追加しました !\n「まとめて確認」、「まとめて短縮」を行った場合は、\n再出発時も複数営業をまとめて短縮することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20207, /*img*/2, /*discription*/"営業ごとに消費するスタミナを選択できます !\n消費するスタミナは1単位で選択でき、\nスタミナ1あたり、15分短縮できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「Halloween Celebration ! 親愛度アップキャンペーン」開催中 ! !\nキャンペーン中は、必ず複数のギフトアイテムが獲得できる\nスペシャル営業を3種類追加 !\n詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\n必ず複数の特訓アイテムを獲得できる\nスペシャル営業が1日1回行えます !\n詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21001, /*img*/1, /*discription*/"拘束のまゆからの攻撃を避けつつ、ハピネシウムを集めよう。\n集めたハピネシウムをラボに届けるとスコアをゲットできるよ ! \nラボにまとめて届けるとスコアがアップ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21002, /*img*/1, /*discription*/"誘惑の奏の攻撃や障害物を回避して、ハピネシウムを集めよう。\nタップするとうさぎロボがジャンプ ! \nうさぎロボは1回だけ空中ジャンプが可能だよ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21003, /*img*/1, /*discription*/"グラスザニンジャあやめの攻撃をはじきつつ、ハピネシウムを集めよう。\nフリック操作で、照準に入った障害物をはじけ ! \n飛んでくるハピネシウムを見極めてスコアをゲットしよう ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
@@ -260,8 +260,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30018, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30019, /*img*/1, /*discription*/"新機能「オートLIVE」を追加しました。\nリズムゲームをオートプレイして報酬を獲得できる機能です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30019, /*img*/2, /*discription*/"「オートLIVE」を利用するには、専用の「オートLIVEチケット」\nが必要です。「オートLIVEチケット」は毎日のログイン時または\nマニーでの購入により獲得することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30019, /*img*/2, /*discription*/"「オートLIVEチケット」は一度に複数枚使用可能です。\n使用したチケットの枚数に応じて報酬を獲得できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「スペースフォーチュン\nスペシャルLIVEキャンペーン」開催中 ! !\n期間中にクリアしたLIVEでは、期間限定のアイテムと\n今まで出現した限定トレチケを獲得できます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「スペースフォーチュン\n特訓支援キャンペーン」開催中 ! ! キャンペーン中は、\nLIVE成功時のティアラと魔法のドレスのドロップ率が\nさらにアップします ! 詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");
