@@ -1,0 +1,1 @@
+CREATE TABLE 'tower_data' ('event_id' INTEGER NOT NULL, 'event_live_id' INTEGER NOT NULL, 'select_first_idol_num' INTEGER NOT NULL, 'select_max_idol_num' INTEGER NOT NULL, 'bg_id' INTEGER NOT NULL, 'bg_id2' INTEGER NOT NULL, 'story_flag' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('event_id'));

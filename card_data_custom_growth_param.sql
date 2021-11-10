@@ -1,0 +1,1 @@
+CREATE TABLE 'card_data_custom_growth_param' ('point' INTEGER NOT NULL, 'add_vocal' INTEGER NOT NULL, 'add_dance' INTEGER NOT NULL, 'add_visual' INTEGER NOT NULL, 'add_life' INTEGER NOT NULL, PRIMARY KEY('point'));

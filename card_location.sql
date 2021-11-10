@@ -1328,3 +1328,6 @@ INSERT INTO `card_location` VALUES (/*index*/1341, /*text*/"熊本城・撮影�
 INSERT INTO `card_location` VALUES (/*index*/1342, /*text*/"山の粧いを臨む一室");
 INSERT INTO `card_location` VALUES (/*index*/1343, /*text*/"レトロモダンな喫茶店");
 INSERT INTO `card_location` VALUES (/*index*/1344, /*text*/"紅葉の舞う石段");
+INSERT INTO `card_location` VALUES (/*index*/1345, /*text*/"女神の間");
+INSERT INTO `card_location` VALUES (/*index*/1346, /*text*/"天王山・山腹");
+INSERT INTO `card_location` VALUES (/*index*/1347, /*text*/"秋色小道");

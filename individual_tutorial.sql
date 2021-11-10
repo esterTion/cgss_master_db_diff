@@ -488,7 +488,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/6, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/7, /*discription*/"イベント設定では、公演の準備画面の「おすすめ設定」で\n選曲される楽曲のLvを調整できます。\nまたツアーのタイトルを自由に変更できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/1, /*discription*/"「イベント参加ボーナス」、「MAP報酬」、「課題クリア報酬」\nで、イベント限定のSレアアイドルやルームアイテムを\n手にいれましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"本イベントでは、LIVEを行うことでアイドルたちが\nMAPを進んでいきます。楽曲の難易度やLIVEの\n結果に応じて、進行できるマス数が変化します。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"また、ルートはイベント限定アイドルごとに分かれており、\nそれぞれストーリーや報酬が異なります。\n※「池袋晶葉」ルートのMAP1をクリアすると、\n「望月聖」ルートが解放されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"また、ルートはイベント限定アイドルごとに分かれており、\nそれぞれストーリーや報酬が異なります。\n※「姫川友紀」ルートのMAP1をクリアすると、\n「日下部若葉」ルートが解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/3, /*discription*/"MAPやマスごとの条件を満たしてLIVEを行うと、\nMAP進行ボーナスが発生し、進行できるマス数がアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/3, /*discription*/"MAP進行ボーナスは、MAPにあわせたアイドルを編成したり、\n現在止まっているマスの色に応じた楽曲でLIVEを行うことで発生します。\nボーナス条件はイベントTOPや楽曲の選択画面等で確認できます。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/4, /*discription*/"ゴールに到着すると、トレーナーからMAPごとの課題が出されます。\n※課題の達成状況は累積でカウントされるため、1回のLIVEでクリアできない場合、\n複数回LIVEをすることで達成できます。\n");
@@ -739,7 +739,6 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90603, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90604, /*img*/1, /*discription*/"「第2回ボイスアイドルオーディション」が始まりました !\n「第2回ボイスアイドルオーディション」は、\nソーシャルゲーム「アイドルマスター シンデレラガールズ」\nとの合同開催となります。※得票数は各アプリの合算となります");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90604, /*img*/2, /*discription*/"ログインボーナスや期間限定ミッション、\n総選挙応援セットなどで投票券を入手して、\nお気に入りのアイドルに投票しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90604, /*img*/3, /*discription*/"全体順位上位3名のアイドルには、\nキャラクターボイスの追加と、専用の楽曲の制作を行います !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90701, /*img*/1, /*discription*/"ハッピーホワイトデーキャンペーン開催 !\n3/14～3/31に特設ページにアクセスして、\n3名のアイドルへプレゼントを贈りましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90701, /*img*/2, /*discription*/"特設ページ右上にある『用意したプレゼント』ボタンを\nタップすると、アイドルに渡せるプレゼントを\n選ぶことができます。\n※3/14以降にアクセスした場合もプレゼントは選択可能です。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90701, /*img*/3, /*discription*/"用意したプレゼントは3/14 00:00以降にアイドルへ\n渡すことができます。あなたが選んだプレゼントを\nアイドルに渡して感謝の気持ちを伝えましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90701, /*img*/1, /*discription*/"ハッピーバレンタインキャンペーン開催 !\n2/14～2/28に特設ページにアクセスすると、\n3名のアイドルから手作りチョコをプレゼント !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90701, /*img*/2, /*discription*/"手作りチョコは、2月14日00:00時点のリーダーアイドルから\n必ず1つもらうことができます。\nその他の2個のチョコがどのアイドルからもらえるか\n当日まで楽しみにお待ちください !");
 CREATE INDEX 'individual_tutorial_0_id' on 'individual_tutorial'('id');

@@ -1,0 +1,3 @@
+CREATE TABLE 'tower_floor' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'chara_id' INTEGER NOT NULL, 'area_id' INTEGER NOT NULL, 'floor_number' INTEGER NOT NULL, 'floor_type' INTEGER NOT NULL, 'floor_image_id' INTEGER NOT NULL, 'bg_id' INTEGER NOT NULL, 'floor_mission_id_1' INTEGER NOT NULL, 'floor_mission_id_2' INTEGER NOT NULL, 'floor_mission_id_3' INTEGER NOT NULL, 'chara_bonus' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE INDEX 'tower_floor_0_chara_id_1_area_id' on 'tower_floor'('chara_id','area_id');
+CREATE UNIQUE INDEX 'tower_floor_0_chara_id_1_area_id_2_floor_number' on 'tower_floor'('chara_id','area_id','floor_number');
