@@ -1331,3 +1331,8 @@ INSERT INTO `card_location` VALUES (/*index*/1344, /*text*/"紅葉の舞う石�
 INSERT INTO `card_location` VALUES (/*index*/1345, /*text*/"女神の間");
 INSERT INTO `card_location` VALUES (/*index*/1346, /*text*/"天王山・山腹");
 INSERT INTO `card_location` VALUES (/*index*/1347, /*text*/"秋色小道");
+INSERT INTO `card_location` VALUES (/*index*/1348, /*text*/"劇場近くの公園");
+INSERT INTO `card_location` VALUES (/*index*/1349, /*text*/"宮殿風セット");
+INSERT INTO `card_location` VALUES (/*index*/1350, /*text*/"とある異国の街角");
+INSERT INTO `card_location` VALUES (/*index*/1351, /*text*/"ダンスホール・撮影中");
+INSERT INTO `card_location` VALUES (/*index*/1352, /*text*/"街頭");
