@@ -19,3 +19,6 @@ INSERT INTO `item_category` VALUES (/*category_type*/17, /*category_name*/"衣�
 INSERT INTO `item_category` VALUES (/*category_type*/19, /*category_name*/"セットアイテム");
 INSERT INTO `item_category` VALUES (/*category_type*/20, /*category_name*/"ゲームメダル");
 INSERT INTO `item_category` VALUES (/*category_type*/21, /*category_name*/"プライズコイン");
+INSERT INTO `item_category` VALUES (/*category_type*/22, /*category_name*/"センター効果バッジ");
+INSERT INTO `item_category` VALUES (/*category_type*/23, /*category_name*/"特技バッジ");
+INSERT INTO `item_category` VALUES (/*category_type*/24, /*category_name*/"アイドル別Sレアチケット");

@@ -23,6 +23,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/10012, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/10013, /*img*/1, /*discription*/"メモリアルガシャ2ndが新たに追加されました ! \n画面左上のタブで1stと2ndを切り替えることが可能です。\n※出現するアイドルはアイドル詳細でご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10014, /*img*/1, /*discription*/"「カムバックSレアスカウトチケット」は、アルバム登録済の\nSレア・レア・ノーマルアイドルから好きなアイドルを\nスカウトできるチケットです。対象アイドルごとに年1回まで\nスカウトすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10015, /*img*/1, /*discription*/"メモリアルガシャ3rdが新たに追加されました ! \n画面右上ボタンで各メモリアルガシャを切り替えることが可能です。\n※出現するアイドルはアイドル詳細でご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/10016, /*img*/1, /*discription*/"「アイドル別Sレアスカウトチケット」は、\n特定のアイドルのSレア・レア・ノーマルアイドルから、好きなアイドルを\nスカウトできるチケットです。スカウトできるアイドルは、\n「対象アイドル」ボタンからご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/1, /*discription*/"スペシャルガシャセットは期間限定販売です。\n購入すると「スカウトチケット」と「プラチナ10連ガシャ\nチケット」を1枚ずつ獲得できます。\n※有償スタージュエルでのみ購入することができます");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/2, /*discription*/"「スカウトチケット」はレア、Sレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で出現します。");
@@ -511,6 +512,20 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/12, /*discription*
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/9, /*discription*/"楽曲・ユニットおすすめ設定を使えば、\nおすすめのBOOTH設定を自動で選択してくれます。\n楽曲Lvや条件を決めて、活用しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/10, /*discription*/"BOOTHには、それぞれBOOTH効果という、\nアイドルのアピール値が上がる効果が設定されています。\nその効果に合うユニットでLIVEする事で、\nVoltageが上がりやすくなります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/11, /*discription*/"イベント専用ユニットには、他のプロデューサーさんのアイドルを\n1ユニットにつき1人までゲストアイドルとして\n編成することが出来ます。\nゲストアイドルの力を借りてBOOTHを攻略しましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/1, /*discription*/"「イベントpt報酬」、「アイドルpt報酬」、「ハイスコアランキング報酬」で、\nイベント限定のSレアアイドルやルームアイテムが獲得できます。\n本イベントではさらに「マイスタイルアイドル」の獲得と育成を\n行えます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/2, /*discription*/"まずは育成する「マイスタイルアイドル」を選択して\nタワーに挑戦しましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/2, /*discription*/"「マイスタイルアイドル」はタワーのフロア課題を達成していくことで、\n育成ptによって各ステータスが上昇したり、\nレアリティやスターランクがアップしていく特別なアイドルです。\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/3, /*discription*/"育成ptは、特定のフロアの課題達成で獲得できます。\n育成ptには「ボーカルpt」「ダンスpt」「ビジュアルpt」「ライフpt」\nがあり、獲得したptの種類によって、マイスタイルアイドルの\nステータスが成長します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/3, /*discription*/"メインタワーには育成pt以外にも\n「レアリティアップ」「スターランクアップ」が獲得できるフロアがあり、\nマイスタイルアイドルのレアリティやスターランクが成長します。\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/3, /*discription*/"メインタワーのフロア課題を達成していくと、\n新しいタワーやフロアが解放されます。\nタワーごとに獲得できる育成ptなどに特色があるので、\nアイドルの育成方針にあわせて挑戦するタワーを選びましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/4, /*discription*/"マイスタイルアイドルは、本イベント内でのみ育成できます。\nまた、次回の同イベント開催時には育成状況を引き継ぐことができます。\n※本イベント開催期間外でも、通常のLIVEや他イベントでの\n編成は可能です。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/5, /*discription*/"「マイスタイルアイドル」は専用アイテム「バッジ」を使用することで、\n自分の好きなセンター効果や特技を習得できます。\n※バッジはマイスタイルアイドルの詳細画面から使用できます。\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/5, /*discription*/"バッジは、フロアの課題クリア報酬やイベントpt報酬、\nアイドルpt報酬で獲得できます。\n※バッジはプレゼントに送られず、直接獲得できます。\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/6, /*discription*/"「マイスタイルアイドル」の見た目は、自分のアルバムに\n登録されているアイドルの中から選択できます。また特技名も変更できます。\n※見た目設定、特技名はマイスタイルアイドルの詳細画面から\n変更できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/7, /*discription*/"「イベントpt」はイベント開催期間中に\nLIVEやイベント限定営業を行うことで獲得できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/7, /*discription*/"「アイドルpt」は育成アイドルごとに獲得できるptです。\nイベントptと同様、LIVEやイベント限定営業を行うことで、\nタワーを進行中のアイドルのptを獲得できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/8, /*discription*/"今回のイベントで獲得できるバッジの一部をご紹介します !\nセンター効果バッジ「トリコロール・メイク」「トリコロール・アビリティ」\n「キュート・クロス・クール」「パッション・クロス・キュート」\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/8, /*discription*/"特技バッジ「ライフスパークル」「スキルブースト」\n「オールラウンド」「フリックアクト」「コンセントレーション」\n※獲得できるバッジはイベント開催ごとに異なり、\n次回開催時には獲得できない場合があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/83001, /*img*/1, /*discription*/"「プラチナスカウトチケット」はレア、Sレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/83002, /*img*/1, /*discription*/"「スカウトチケット」はレア、Sレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/85001, /*img*/1, /*discription*/"「プライズスカウトチケット」は対象のSレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
