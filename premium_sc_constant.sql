@@ -9,4 +9,4 @@ INSERT INTO `premium_sc_constant` VALUES (/*item_id*/80045, /*limit_disp*/3064, 
 INSERT INTO `premium_sc_constant` VALUES (/*item_id*/80046, /*limit_disp*/3064, /*rarity*/"5,3");
 INSERT INTO `premium_sc_constant` VALUES (/*item_id*/81020, /*limit_disp*/3000, /*rarity*/"7,5,3");
 INSERT INTO `premium_sc_constant` VALUES (/*item_id*/81021, /*limit_disp*/3000, /*rarity*/"5,3");
-INSERT INTO `premium_sc_constant` VALUES (/*item_id*/85001, /*limit_disp*/3063, /*rarity*/7);
+INSERT INTO `premium_sc_constant` VALUES (/*item_id*/85001, /*limit_disp*/3120, /*rarity*/7);
