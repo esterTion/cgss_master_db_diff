@@ -194,7 +194,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20206, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20206, /*img*/2, /*discription*/"さらに、複数まとめて確認した営業は\nそのまま再出発することができます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20207, /*img*/1, /*discription*/"複数の営業をまとめて短縮できる機能を追加しました !\n「まとめて確認」、「まとめて短縮」を行った場合は、\n再出発時も複数営業をまとめて短縮することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20207, /*img*/2, /*discription*/"営業ごとに消費するスタミナを選択できます !\n消費するスタミナは1単位で選択でき、\nスタミナ1あたり、15分短縮できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\n必ず複数の特訓アイテムを獲得できる\nスペシャル営業が1日1回行えます !\n詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「シンデレラガールズ10周年記念\nマニー獲得キャンペーン」開催中 ! ! キャンペーン中は、\nたくさんのマニーが獲得できるスペシャル営業が\n1日1回行えます ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21001, /*img*/1, /*discription*/"拘束のまゆからの攻撃を避けつつ、ハピネシウムを集めよう。\n集めたハピネシウムをラボに届けるとスコアをゲットできるよ ! \nラボにまとめて届けるとスコアがアップ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21002, /*img*/1, /*discription*/"誘惑の奏の攻撃や障害物を回避して、ハピネシウムを集めよう。\nタップするとうさぎロボがジャンプ ! \nうさぎロボは1回だけ空中ジャンプが可能だよ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21003, /*img*/1, /*discription*/"グラスザニンジャあやめの攻撃をはじきつつ、ハピネシウムを集めよう。\nフリック操作で、照準に入った障害物をはじけ ! \n飛んでくるハピネシウムを見極めてスコアをゲットしよう ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
@@ -205,6 +205,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/21006, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/21007, /*img*/1, /*discription*/"タップでスイーツを作って来店したアイドルへ提供しよう !\nスイーツづくりにはいくつかの手順があるよ !\n手際よく、アイドルを待たせないようにしよう。\nスコアに応じて、獲得できるゲームメダルの枚数がアップ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21007, /*img*/1, /*discription*/"なるべく早く提供できるほどスコアがアップ !\n連続でメニューを提供したりメインメニュー作成中のゲージが明るい緑のときにタップをすると\nスコアにボーナスが付くよ !\n手順を間違えずにハイスコアを狙おう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21008, /*img*/1, /*discription*/"4人オンライン対戦の早押しクイズバトル ! \nクイズに正解して誰よりも早く100点獲得を目指そう ! \n文字パネルを選んで正解を完成させよう ! \n順位に応じて、獲得できるゲームメダルの枚数がアップするよ ! ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/21009, /*img*/1, /*discription*/"素材を自由に配置してフォトを作成 ! \nロゴや背景などを組み合わせて素敵な1枚にしよう ! \n完成したフォトは端末への保存や\nTwitterへの投稿をすることができるよ ! ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/22001, /*img*/1, /*discription*/"ゲームセンターでは、ミニゲームを遊ぶことで、\n「ゲームメダル」が獲得できます。\n「ゲームメダル」を集めると、\nアイテム交換所で景品と交換できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEでは、ミュージックセレクタ右上の動作設定ボタンから\nLIVEの背景演出を変更することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEプレイ中のSE再生設定もここから変更できます。\nSEをオフにすることで、動作が軽くなる場合があります。");
