@@ -150,7 +150,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーを\n倉庫収納数から除外しました。\n収納していても、収納数にカウントされなくなりました。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ハロウィンカフェをテーマにしたアイテムとコーデが登場 !\nかわいい飾り付けがされたカフェで\nハロウィンを楽しみましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"ルームショップにて、「ハロウィン」テーマの\nアイテム、コーデを復刻販売開始 !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"諸星きらりが歌う「にょわにょわーるど☆」を\nサウンドブースに追加 !\n購入するとLIVEでプレイできるようになります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"シンデレラガールズ10周年を記念したアイテムとコーデを追加 !\n空に浮かぶ素敵なお城で、\nアイドルたちと10周年をお祝いしましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -407,6 +407,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60032, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60032, /*img*/3, /*discription*/"一度設定したプロデュース方針は\n専用アイテム「方針変更書」を使うことでリセットできます。\nリセットした場合、使用していた場数ptは\nすべて戻ってきます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60032, /*img*/3, /*discription*/"「方針変更書」はショップから\n有償スタージュエルと交換することなどで入手できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60033, /*img*/1, /*discription*/"「デレマス観光大使ギャラリー」を追加しました。\nデレマス観光大使ギャラリーでは、アイドルたちが\n自身の出身地を巡るイラストを見ることができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60034, /*img*/1, /*discription*/"アプリアイコン設定が追加されました。\nホーム画面などに表示されるアプリアイコンを\n変更することができますよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/1, /*discription*/"「LIVE PARTY!!」では、協力LIVEを行うことで、\n「スターエンブレム」が獲得できます。\n「スターエンブレム」を集めると、過去イベントの報酬や、\nアイテムとの交換ができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。\n楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/3, /*discription*/"カジュアルマッチを有効にした場合は、\n異なる難易度を選択したプロデューサーもマッチング対象となり、\nLIVEを行います。");

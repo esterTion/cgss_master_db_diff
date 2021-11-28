@@ -3313,11 +3313,11 @@ INSERT INTO `text_data` VALUES (/*category*/64, /*index*/8, /*text*/"アイド�
 INSERT INTO `text_data` VALUES (/*category*/64, /*index*/9, /*text*/"アルバムに登録済みのアイドルから選択できます");
 INSERT INTO `text_data` VALUES (/*category*/64, /*index*/10, /*text*/"アイドル検索");
 INSERT INTO `text_data` VALUES (/*category*/64, /*index*/12, /*text*/"アイドル検索");
-INSERT INTO `text_data` VALUES (/*category*/64, /*index*/21, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/64, /*index*/22, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/64, /*index*/23, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/64, /*index*/24, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/64, /*index*/25, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/21, /*text*/"アイコン");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/22, /*text*/"アプリアイコン設定");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/23, /*text*/"スマートフォンのホーム画面に表示するアプリアイコンを変更することができます。");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/24, /*text*/"[FF7A7A]変更が反映されない場合は、端末の再起動をお試しください。[-]");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/25, /*text*/"現在の設定");
 INSERT INTO `text_data` VALUES (/*category*/65, /*index*/1, /*text*/"キャンペーン");
 INSERT INTO `text_data` VALUES (/*category*/65, /*index*/2, /*text*/"応募期間 {0} ～ {1}\n詳細は、特設サイトをご覧ください");
 INSERT INTO `text_data` VALUES (/*category*/65, /*index*/3, /*text*/"");
