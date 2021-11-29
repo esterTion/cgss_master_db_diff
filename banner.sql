@@ -1419,4 +1419,15 @@ INSERT INTO `banner` VALUES (/*banner_id*/1437, /*type*/1, /*img_id*/30706, /*tr
 INSERT INTO `banner` VALUES (/*banner_id*/1438, /*type*/1, /*img_id*/60163, /*transition*/3, /*page_index*/60163, /*order_num*/3, /*start_date*/"2021-11-27 21:00:00", /*end_date*/"2021-11-28 20:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/1439, /*type*/1, /*img_id*/60164, /*transition*/3, /*page_index*/60164, /*order_num*/3, /*start_date*/"2021-11-28 21:00:00", /*end_date*/"2021-11-29 23:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/1442, /*type*/17, /*img_id*/2, /*transition*/0, /*page_index*/0, /*order_num*/22, /*start_date*/"2021-11-28 00:00:00", /*end_date*/"2021-12-11 23:59:59");
-INSERT INTO `banner` VALUES (/*banner_id*/1443, /*type*/2, /*img_id*/5028, /*transition*/0, /*page_index*/0, /*order_num*/4, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
+INSERT INTO `banner` VALUES (/*banner_id*/1443, /*type*/2, /*img_id*/5028, /*transition*/0, /*page_index*/0, /*order_num*/20, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
+INSERT INTO `banner` VALUES (/*banner_id*/1444, /*type*/1, /*img_id*/30707, /*transition*/0, /*page_index*/30707, /*order_num*/4, /*start_date*/"2021-11-29 15:00:00", /*end_date*/"2021-12-04 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1445, /*type*/1, /*img_id*/60165, /*transition*/3, /*page_index*/60165, /*order_num*/3, /*start_date*/"2021-11-30 15:00:00", /*end_date*/"2021-12-01 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1446, /*type*/1, /*img_id*/60166, /*transition*/3, /*page_index*/60166, /*order_num*/3, /*start_date*/"2021-12-01 15:00:00", /*end_date*/"2021-12-02 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1447, /*type*/1, /*img_id*/60167, /*transition*/3, /*page_index*/60167, /*order_num*/3, /*start_date*/"2021-12-02 15:00:00", /*end_date*/"2021-12-03 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1448, /*type*/1, /*img_id*/60168, /*transition*/3, /*page_index*/60168, /*order_num*/3, /*start_date*/"2021-12-03 15:00:00", /*end_date*/"2021-12-04 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1449, /*type*/1, /*img_id*/60169, /*transition*/3, /*page_index*/60169, /*order_num*/3, /*start_date*/"2021-12-04 15:00:00", /*end_date*/"2021-12-05 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1450, /*type*/1, /*img_id*/60170, /*transition*/3, /*page_index*/60170, /*order_num*/3, /*start_date*/"2021-12-05 15:00:00", /*end_date*/"2021-12-06 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1451, /*type*/1, /*img_id*/60171, /*transition*/3, /*page_index*/60171, /*order_num*/3, /*start_date*/"2021-12-06 15:00:00", /*end_date*/"2021-12-07 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1452, /*type*/1, /*img_id*/60172, /*transition*/3, /*page_index*/60172, /*order_num*/3, /*start_date*/"2021-12-07 15:00:00", /*end_date*/"2021-12-08 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1453, /*type*/1, /*img_id*/60173, /*transition*/3, /*page_index*/60173, /*order_num*/3, /*start_date*/"2021-12-08 15:00:00", /*end_date*/"2021-12-09 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1454, /*type*/1, /*img_id*/60174, /*transition*/3, /*page_index*/60174, /*order_num*/3, /*start_date*/"2021-12-09 15:00:00", /*end_date*/"2021-12-10 14:59:59");

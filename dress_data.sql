@@ -51,7 +51,7 @@ INSERT INTO `dress_data` VALUES (/*id*/7022000, /*name*/"スクールメイト�
 INSERT INTO `dress_data` VALUES (/*id*/7023000, /*name*/"セーシュン・チアーズ", /*description*/"青春を応援する少女たちの制服ドレス。\n上手くいかない時も、つまづいてしまう時も\nある。それでも、今という時を全力で走ろう。\nその情熱は、輝く明日へと繋がっている。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7024000, /*name*/"プレイ・イット・アンサー", /*description*/"嵐を巻き起こす少女たちのドレス。\n個性と個性がぶつかり合い、やがてひとつの\n形となる。だが、それが唯一の答えではない。\n無限の答えが、少女たちの前に広がっている。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7025000, /*name*/"セクシー・フォー・ジャスティス", /*description*/"ギルティを許さない少女たちのドレス。\nギルティあるところに姿あり、姿あるところに\nセクシーあり ! この世の悪事にお仕置きを !\n行け行け、セクシーギルティ !", /*open_type*/5, /*dress_type*/3);
-INSERT INTO `dress_data` VALUES (/*id*/7026000, /*name*/"マイディア・ドリーム", /*description*/"夢を見続ける、少女たちのドレス。\n輝きたい気持ちを持ち続ける限り、\nアイドルの物語が終わることはない。\nいつまでもどこまでも、夢は続いていく。", /*open_type*/3, /*dress_type*/0);
+INSERT INTO `dress_data` VALUES (/*id*/7026000, /*name*/"マイディア・ドリーム", /*description*/"夢を見続ける、少女たちのドレス。\n輝きたい気持ちを持ち続ける限り、\nアイドルの物語が終わることはない。\nいつまでもどこまでも、夢は続いていく。", /*open_type*/2, /*dress_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/7027000, /*name*/"スターリー・フューチャーズ", /*description*/"未来に向かって星のように輝き続ける\nアイドルたちの特別な衣装。\nさあ笑って、\n「これからも、アイドル ! ! ! ! ! 」", /*open_type*/6, /*dress_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/7028000, /*name*/"メイク・マイ・スマイル", /*description*/"笑顔をみんなに届ける、少女たちのドレス。\n変わりたいと願うのは、憧れがあるから。\n昨日までの自分から受け取ったバトンが、\n明日からもっと輝く自分にしてくれる。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7029000, /*name*/"トリニティ・スパークル", /*description*/"磨かれることで輝きを増す少女たちのドレス。\n仲間でライバルだから、譲れない想いがある。\n見ている方向はそれぞれ違っていても、\n本気のぶつかり合いは、頂へと到達する。", /*open_type*/5, /*dress_type*/3);
@@ -73,4 +73,6 @@ INSERT INTO `dress_data` VALUES (/*id*/7044000, /*name*/"カメラしょうじ�
 INSERT INTO `dress_data` VALUES (/*id*/7045000, /*name*/"ノトーリアス・ガール", /*description*/"既成の価値観に抗う少女たちのドレス。\n燃えるような色は、彼女たちの決意の証。\n他の何にも縛られることなく、己の意志を\n貫き通し、この世界を生き抜いていく。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7046000, /*name*/"ヒーロースピリッツ", /*description*/"己の正義を信じる少女たちのスーツ。\nどんな逆境の中にいても、人々の笑顔を\n守るため、仲間たちと共に立ち上がる。\nヒーローたちのそんな覚悟を象徴している。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7047000, /*name*/"ハングリー・デザイア", /*description*/"大人の束縛を拒む少女たちのドレス。\n彼女たちが身にまとうのは、大胆でしたたかな\n揺るぎない意志の証。それは危険な闇の中でも\n子どもたちの心を奮い立たせるだろう。", /*open_type*/5, /*dress_type*/3);
+INSERT INTO `dress_data` VALUES (/*id*/7048000, /*name*/"スウィート・テラー", /*description*/"恐ろしい物語を紡ぐ少女たちのドレス。\nひとりでは心細くても、みんなと一緒なら、\nホラーでも楽しい思い出に変えられる。\nそんな仲間たちの心を繋ぐ、舞台衣装。", /*open_type*/5, /*dress_type*/3);
+INSERT INTO `dress_data` VALUES (/*id*/7050000, /*name*/"リレイト・ストーリー", /*description*/"自分たちの物語をつづる少女たちのドレス。\n舞台できらめくこの衣装も、数々の出会いから\n始まったキセキの証。積み重ねてきた思い出と\n描き続けていく未来の景色を、彩ってくれる。", /*open_type*/3, /*dress_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/7052000, /*name*/"ピュア・クレイドル", /*description*/"管理された箱庭で生きる少女たちのドレス。\n子どもたちを優しく包み育む、大人たちの愛。\nだがそれは時として、未来に芽吹く可能性を\n抑圧する檻となるのかもしれない。", /*open_type*/5, /*dress_type*/3);

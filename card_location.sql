@@ -1340,3 +1340,6 @@ INSERT INTO `card_location` VALUES (/*index*/1353, /*text*/"デザイナーの�
 INSERT INTO `card_location` VALUES (/*index*/1354, /*text*/"輝くランウェイ");
 INSERT INTO `card_location` VALUES (/*index*/1355, /*text*/"アニバーサリーパーティー会場");
 INSERT INTO `card_location` VALUES (/*index*/1356, /*text*/"西園寺邸・温室");
+INSERT INTO `card_location` VALUES (/*index*/1357, /*text*/"Girls＆Monstersのスタジオ");
+INSERT INTO `card_location` VALUES (/*index*/1358, /*text*/"廃工場・撮影中");
+INSERT INTO `card_location` VALUES (/*index*/1359, /*text*/"撮影スポット・化学室");

@@ -242,4 +242,11 @@ INSERT INTO `tour_story_detail` VALUES (/*id*/5496, /*event_id*/5027, /*type*/0,
 INSERT INTO `tour_story_detail` VALUES (/*id*/5497, /*event_id*/5027, /*type*/2, /*open_event_point*/0, /*next_detail_id*/0);
 INSERT INTO `tour_story_detail` VALUES (/*id*/5498, /*event_id*/5027, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
 INSERT INTO `tour_story_detail` VALUES (/*id*/5499, /*event_id*/5027, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
+INSERT INTO `tour_story_detail` VALUES (/*id*/5640, /*event_id*/5028, /*type*/1, /*open_event_point*/0, /*next_detail_id*/5641);
+INSERT INTO `tour_story_detail` VALUES (/*id*/5641, /*event_id*/5028, /*type*/0, /*open_event_point*/500, /*next_detail_id*/5642);
+INSERT INTO `tour_story_detail` VALUES (/*id*/5642, /*event_id*/5028, /*type*/0, /*open_event_point*/1000, /*next_detail_id*/5643);
+INSERT INTO `tour_story_detail` VALUES (/*id*/5643, /*event_id*/5028, /*type*/0, /*open_event_point*/2000, /*next_detail_id*/5644);
+INSERT INTO `tour_story_detail` VALUES (/*id*/5644, /*event_id*/5028, /*type*/0, /*open_event_point*/3000, /*next_detail_id*/5645);
+INSERT INTO `tour_story_detail` VALUES (/*id*/5645, /*event_id*/5028, /*type*/0, /*open_event_point*/5000, /*next_detail_id*/5646);
+INSERT INTO `tour_story_detail` VALUES (/*id*/5646, /*event_id*/5028, /*type*/2, /*open_event_point*/0, /*next_detail_id*/0);
 CREATE INDEX 'tour_story_detail_0_event_id_1_type' on 'tour_story_detail'('event_id','type');
