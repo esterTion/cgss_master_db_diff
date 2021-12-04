@@ -1343,3 +1343,8 @@ INSERT INTO `card_location` VALUES (/*index*/1356, /*text*/"西園寺邸・温�
 INSERT INTO `card_location` VALUES (/*index*/1357, /*text*/"Girls＆Monstersのスタジオ");
 INSERT INTO `card_location` VALUES (/*index*/1358, /*text*/"廃工場・撮影中");
 INSERT INTO `card_location` VALUES (/*index*/1359, /*text*/"撮影スポット・化学室");
+INSERT INTO `card_location` VALUES (/*index*/1360, /*text*/"夜景の見える海辺");
+INSERT INTO `card_location` VALUES (/*index*/1361, /*text*/"光が彩る並木道");
+INSERT INTO `card_location` VALUES (/*index*/1362, /*text*/"雪の降る駅前広場");
+INSERT INTO `card_location` VALUES (/*index*/1363, /*text*/"雪の積もった広場");
+INSERT INTO `card_location` VALUES (/*index*/1364, /*text*/"マッシュルームガーデン入口");

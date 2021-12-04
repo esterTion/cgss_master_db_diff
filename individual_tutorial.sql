@@ -261,7 +261,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30018, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30019, /*img*/1, /*discription*/"新機能「オートLIVE」を追加しました。\nリズムゲームをオートプレイして報酬を獲得できる機能です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30019, /*img*/2, /*discription*/"「オートLIVE」を利用するには、専用の「オートLIVEチケット」\nが必要です。「オートLIVEチケット」は毎日のログイン時または\nマニーでの購入により獲得することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30019, /*img*/2, /*discription*/"「オートLIVEチケット」は一度に複数枚使用可能です。\n使用したチケットの枚数に応じて報酬を獲得できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「クリスマススペシャルLIVEキャンペーン」\n開催中 ! 期間中にLIVEをクリアすると、\nクリスマス限定のアイテムを獲得できます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");

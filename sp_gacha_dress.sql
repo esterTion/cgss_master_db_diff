@@ -1,0 +1,1 @@
+CREATE TABLE 'sp_gacha_dress' ('id' INTEGER NOT NULL, 'dress_id' INTEGER NOT NULL, 'pos_no' INTEGER NOT NULL, 'chara_id' INTEGER NOT NULL, 'pose_id' INTEGER NOT NULL, PRIMARY KEY('id'), UNIQUE('dress_id','pos_no','chara_id'));

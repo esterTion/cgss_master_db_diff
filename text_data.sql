@@ -1967,6 +1967,10 @@ INSERT INTO `text_data` VALUES (/*category*/26, /*index*/41, /*text*/"端末の�
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/42, /*text*/"ARスタジオの起動には\nカメラ使用の許可が必要です。\n【アプリ設定】の「権限」から\nカメラ使用の許可をお願いします。");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/43, /*text*/"スターピース交換");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/44, /*text*/"操作説明");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/45, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/46, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/47, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/26, /*index*/48, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/1, /*text*/"LIVEへ");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/2, /*text*/"{0}マス");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/3, /*text*/"チケットを\n使用する");
@@ -3361,6 +3365,10 @@ INSERT INTO `text_data` VALUES (/*category*/65, /*index*/402, /*text*/"キャン
 INSERT INTO `text_data` VALUES (/*category*/65, /*index*/403, /*text*/"キャンペーンに参加しています。\nブラウザを立ち上げて特設サイトに遷移しますか？");
 INSERT INTO `text_data` VALUES (/*category*/65, /*index*/404, /*text*/"プロデューサーLv20に達していない場合、応募はできません。\n2ndパネルミッションを解放していない場合、応募はできません。");
 INSERT INTO `text_data` VALUES (/*category*/65, /*index*/405, /*text*/"キャンペーン参加は特設サイトから行えます。\nブラウザを立ち上げて特設サイトに遷移しますか？");
+INSERT INTO `text_data` VALUES (/*category*/65, /*index*/410, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/65, /*index*/411, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/65, /*index*/412, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/65, /*index*/413, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/66, /*index*/1, /*text*/"プロデューサー設定");
 INSERT INTO `text_data` VALUES (/*category*/66, /*index*/2, /*text*/"プロデュース方針の変更や、ゲストアイドルの設定ができます");
 INSERT INTO `text_data` VALUES (/*category*/66, /*index*/3, /*text*/"プロデュース方針");
@@ -3844,7 +3852,7 @@ INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1307, /*text*/"画像�
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1401, /*text*/"フォトを作成したよ！ #デレステ #シンデレラフォト");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1402, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1411, /*text*/"SNSシェア");
-INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1412, /*text*/"ブラウザを立ち上げてTwitterを開きます。\ピクチャの画像をアップロードして投稿することができます。");
+INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1412, /*text*/"ブラウザを立ち上げてTwitterを開きます。\nピクチャの画像をアップロードして投稿することができます。");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/5101, /*text*/"ファイルを書き出しする権限がありません");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/5102, /*text*/"端末側の容量等の原因でファイルを書き込む事ができません");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/5103, /*text*/"ファイルの保存に失敗しました");
@@ -3852,7 +3860,7 @@ INSERT INTO `text_data` VALUES (/*category*/77, /*index*/5104, /*text*/"ギャ�
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/5105, /*text*/"ギャラリーへのファイルの書き込みが拒否されました");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/5106, /*text*/"ギャラリーのファイルの保存に失敗しました");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/5201, /*text*/"エラー");
-INSERT INTO `text_data` VALUES (/*category*/77, /*index*/5202, /*text*/"タイトルに遷移します");
+INSERT INTO `text_data` VALUES (/*category*/77, /*index*/5202, /*text*/"エラーが発生しました。\nタイトルへ戻ります。");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/5301, /*text*/"プレビュー生成エラー");
 INSERT INTO `text_data` VALUES (/*category*/78, /*index*/1, /*text*/"特技変更");
 INSERT INTO `text_data` VALUES (/*category*/78, /*index*/2, /*text*/"センター効果変更");
@@ -3878,6 +3886,7 @@ INSERT INTO `text_data` VALUES (/*category*/78, /*index*/21, /*text*/"特技な�
 INSERT INTO `text_data` VALUES (/*category*/78, /*index*/22, /*text*/"見た目変更");
 INSERT INTO `text_data` VALUES (/*category*/78, /*index*/23, /*text*/"変更する");
 INSERT INTO `text_data` VALUES (/*category*/78, /*index*/24, /*text*/"使用する");
+INSERT INTO `text_data` VALUES (/*category*/80, /*index*/1, /*text*/"機能説明");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/1, /*text*/"利用規約とプライバシーポリシーに\n同意してから本サービスをご利用ください。\n\nまた、未成年の方は、\n法定代理人（ご両親等）の同意が必要です。\n\n※ないようがわからないときは\nおうちのひとにがめんをみせてください。");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/2, /*text*/"利用規約");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/3, /*text*/"同意しない");
