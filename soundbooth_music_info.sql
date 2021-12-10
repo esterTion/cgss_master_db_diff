@@ -189,3 +189,5 @@ INSERT INTO `soundbooth_music_info` VALUES (/*music_id*/200140, /*description*/"
 INSERT INTO `soundbooth_music_info` VALUES (/*music_id*/200141, /*description*/"", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `soundbooth_music_info` VALUES (/*music_id*/200142, /*description*/"", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `soundbooth_music_info` VALUES (/*music_id*/200143, /*description*/"", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `soundbooth_music_info` VALUES (/*music_id*/200144, /*description*/"", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `soundbooth_music_info` VALUES (/*music_id*/200145, /*description*/"", /*android_url*/"", /*ios_url*/"");

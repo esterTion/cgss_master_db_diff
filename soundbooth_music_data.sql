@@ -189,3 +189,5 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200140, /*name*/"星環�
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200141, /*name*/"Drastic Melody（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/141);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200142, /*name*/"かぼちゃ姫（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/142);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200143, /*name*/"Let's Sail Away!!!（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/143);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200144, /*name*/"堕ちる果実（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/144);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200145, /*name*/"堕ちる果実（オルゴール VERSION）", /*album_id*/9, /*jacket_id*/200001, /*sort*/145);
