@@ -1350,3 +1350,7 @@ INSERT INTO `card_location` VALUES (/*index*/1363, /*text*/"雪の積もった�
 INSERT INTO `card_location` VALUES (/*index*/1364, /*text*/"マッシュルームガーデン入口");
 INSERT INTO `card_location` VALUES (/*index*/1365, /*text*/"VIPルーム");
 INSERT INTO `card_location` VALUES (/*index*/1366, /*text*/"冬の夜の窓辺");
+INSERT INTO `card_location` VALUES (/*index*/1367, /*text*/"ぬいぐるみショップ前");
+INSERT INTO `card_location` VALUES (/*index*/1368, /*text*/"なつかしの駄菓子屋");
+INSERT INTO `card_location` VALUES (/*index*/1369, /*text*/"レトロポップな撮影セット");
+INSERT INTO `card_location` VALUES (/*index*/1370, /*text*/"TV番組収録");
