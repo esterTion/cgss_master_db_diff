@@ -1354,3 +1354,5 @@ INSERT INTO `card_location` VALUES (/*index*/1367, /*text*/"ぬいぐるみシ�
 INSERT INTO `card_location` VALUES (/*index*/1368, /*text*/"なつかしの駄菓子屋");
 INSERT INTO `card_location` VALUES (/*index*/1369, /*text*/"レトロポップな撮影セット");
 INSERT INTO `card_location` VALUES (/*index*/1370, /*text*/"TV番組収録");
+INSERT INTO `card_location` VALUES (/*index*/1371, /*text*/"都内某所・会議室");
+INSERT INTO `card_location` VALUES (/*index*/1372, /*text*/"働きすぎなこの世の中");
