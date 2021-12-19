@@ -466,3 +466,4 @@ INSERT INTO `story_category` VALUES (/*id*/487, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/488, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"日下部若葉 / 姫川友紀", /*sub_title*/"日下部若葉 / 姫川友紀", /*disp_order*/168, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/489, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"EVERLASTING", /*sub_title*/"EVERLASTING", /*disp_order*/169, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/491, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"キセキの証", /*sub_title*/"キセキの証", /*disp_order*/170, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/492, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"VOY@GER", /*sub_title*/"VOY@GER", /*disp_order*/171, /*filter_type*/0);
