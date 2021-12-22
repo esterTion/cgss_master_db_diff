@@ -1203,7 +1203,6 @@ INSERT INTO `buzzer_question` VALUES (/*id*/1201, /*question_name*/"問題", /*q
 INSERT INTO `buzzer_question` VALUES (/*id*/1202, /*question_name*/"問題", /*question_type*/1, /*question_text_speed*/125, /*song_id*/0, /*question_motion_id*/0);
 INSERT INTO `buzzer_question` VALUES (/*id*/1203, /*question_name*/"問題", /*question_type*/1, /*question_text_speed*/125, /*song_id*/0, /*question_motion_id*/0);
 INSERT INTO `buzzer_question` VALUES (/*id*/1204, /*question_name*/"問題", /*question_type*/1, /*question_text_speed*/125, /*song_id*/0, /*question_motion_id*/0);
-INSERT INTO `buzzer_question` VALUES (/*id*/1205, /*question_name*/"問題", /*question_type*/1, /*question_text_speed*/125, /*song_id*/0, /*question_motion_id*/0);
 INSERT INTO `buzzer_question` VALUES (/*id*/1206, /*question_name*/"問題", /*question_type*/1, /*question_text_speed*/125, /*song_id*/0, /*question_motion_id*/0);
 INSERT INTO `buzzer_question` VALUES (/*id*/1207, /*question_name*/"問題", /*question_type*/1, /*question_text_speed*/125, /*song_id*/0, /*question_motion_id*/0);
 INSERT INTO `buzzer_question` VALUES (/*id*/1208, /*question_name*/"問題", /*question_type*/1, /*question_text_speed*/125, /*song_id*/0, /*question_motion_id*/0);

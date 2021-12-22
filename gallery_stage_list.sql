@@ -49,3 +49,5 @@ INSERT INTO `gallery_stage_list` VALUES (/*id*/52, /*disp_order*/44, /*disp_name
 INSERT INTO `gallery_stage_list` VALUES (/*id*/53, /*disp_order*/45, /*disp_name*/"ステージ 美に入り彩を穿つ④", /*bg_id*/4037, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360, /*location_no*/4);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/54, /*disp_order*/46, /*disp_name*/"ステージ 美に入り彩を穿つ⑤", /*bg_id*/4037, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360, /*location_no*/5);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/55, /*disp_order*/47, /*disp_name*/"ステージ Frost", /*bg_id*/2008, /*bg_type*/1, /*left_degree*/100, /*right_degree*/100, /*location_no*/0);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/56, /*disp_order*/48, /*disp_name*/"ステージ Vast world①", /*bg_id*/4040, /*bg_type*/1, /*left_degree*/80, /*right_degree*/80, /*location_no*/1);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/57, /*disp_order*/49, /*disp_name*/"ステージ Vast world②", /*bg_id*/4040, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360, /*location_no*/2);
