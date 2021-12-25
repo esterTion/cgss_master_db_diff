@@ -1,2 +1,14 @@
 CREATE TABLE 'external_campaign_reward' ('id' INTEGER NOT NULL, 'campaign_id' INTEGER NOT NULL, 'rank' INTEGER NOT NULL, 'reward_text' TEXT NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `external_campaign_reward` VALUES (/*id*/1, /*campaign_id*/80001, /*rank*/1, /*reward_text*/"A賞：特製オリジナル\nオルゴール");
+INSERT INTO `external_campaign_reward` VALUES (/*id*/2, /*campaign_id*/80001, /*rank*/2, /*reward_text*/"B賞：特大オリジナル\nブランケット");
+INSERT INTO `external_campaign_reward` VALUES (/*id*/3, /*campaign_id*/80001, /*rank*/3, /*reward_text*/"C賞：オリジナルジグソーパズル\n1000ピース（額縁付き）");
+INSERT INTO `external_campaign_reward` VALUES (/*id*/4, /*campaign_id*/80001, /*rank*/4, /*reward_text*/"D賞：オリジナルマスク\n（6枚セット）");
+INSERT INTO `external_campaign_reward` VALUES (/*id*/5, /*campaign_id*/80001, /*rank*/5, /*reward_text*/"E賞：オリジナルポストカード\n（190枚セット）");
+INSERT INTO `external_campaign_reward` VALUES (/*id*/6, /*campaign_id*/80001, /*rank*/6, /*reward_text*/"F賞：マスコットキャラクタービーズ\nクッション（ぴにゃこら太）");
+INSERT INTO `external_campaign_reward` VALUES (/*id*/7, /*campaign_id*/80001, /*rank*/7, /*reward_text*/"F賞：マスコットキャラクタービーズ\nクッション（りんごろう）");
+INSERT INTO `external_campaign_reward` VALUES (/*id*/8, /*campaign_id*/80001, /*rank*/8, /*reward_text*/"F賞：マスコットキャラクタービーズ\nクッション（杏のうさぎ）");
+INSERT INTO `external_campaign_reward` VALUES (/*id*/9, /*campaign_id*/80001, /*rank*/9, /*reward_text*/"G賞：オリジナルデザイン\nタンブラー");
+INSERT INTO `external_campaign_reward` VALUES (/*id*/10, /*campaign_id*/80001, /*rank*/10, /*reward_text*/"H賞：オリジナルビジネス\n手帳");
+INSERT INTO `external_campaign_reward` VALUES (/*id*/11, /*campaign_id*/80001, /*rank*/11, /*reward_text*/"I賞：オリジナル万年\n日めくりカレンダー");
+INSERT INTO `external_campaign_reward` VALUES (/*id*/12, /*campaign_id*/80001, /*rank*/12, /*reward_text*/"J賞：オリジナルデザインAmazon\nギフト券500円分");
 CREATE INDEX 'external_campaign_reward_0_campaign_id_1_rank' on 'external_campaign_reward'('campaign_id','rank');

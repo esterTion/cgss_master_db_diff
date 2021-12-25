@@ -241,3 +241,8 @@ INSERT INTO `gift_message` VALUES (/*id*/20069, /*discription*/"「祝6周年 ! 
 INSERT INTO `gift_message` VALUES (/*id*/20070, /*discription*/"「祝6周年 ! プラチナチャンス」特別賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20071, /*discription*/"「いつかこの宇宙の下で キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20072, /*discription*/"「10th ANNIVERSARY LIVE連動キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20073, /*discription*/"「10周年記念プレゼントキャンペーン Wチャンス 1等」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20074, /*discription*/"「10周年記念プレゼントキャンペーン Wチャンス 2等」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20075, /*discription*/"「10周年記念プレゼントキャンペーン Wチャンス 3等」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20076, /*discription*/"「10周年記念プレゼントキャンペーン 参加賞」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20077, /*discription*/"「ゆくM@S くるM@S 2021」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
