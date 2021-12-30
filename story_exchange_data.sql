@@ -1566,3 +1566,17 @@ INSERT INTO `story_exchange_data` VALUES (/*id*/1564, /*story_detail_id*/5548, /
 INSERT INTO `story_exchange_data` VALUES (/*id*/1565, /*story_detail_id*/5549, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/1, /*start_date*/"2021-12-13 15:00:00", /*end_date*/"");
 INSERT INTO `story_exchange_data` VALUES (/*id*/1566, /*story_detail_id*/5550, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/1, /*start_date*/"2021-12-13 15:00:00", /*end_date*/"");
 INSERT INTO `story_exchange_data` VALUES (/*id*/1567, /*story_detail_id*/5551, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/1, /*start_date*/"2021-12-13 15:00:00", /*end_date*/"");
+INSERT INTO `story_exchange_data` VALUES (/*id*/1568, /*story_detail_id*/5612, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/3, /*start_date*/"2021-12-30 15:00:00", /*end_date*/"");
+INSERT INTO `story_exchange_data` VALUES (/*id*/1569, /*story_detail_id*/5613, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/3, /*start_date*/"2021-12-30 15:00:00", /*end_date*/"");
+INSERT INTO `story_exchange_data` VALUES (/*id*/1570, /*story_detail_id*/5614, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/3, /*start_date*/"2021-12-30 15:00:00", /*end_date*/"");
+INSERT INTO `story_exchange_data` VALUES (/*id*/1571, /*story_detail_id*/5615, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/3, /*start_date*/"2021-12-30 15:00:00", /*end_date*/"");
+INSERT INTO `story_exchange_data` VALUES (/*id*/1572, /*story_detail_id*/5616, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/3, /*start_date*/"2021-12-30 15:00:00", /*end_date*/"");
+INSERT INTO `story_exchange_data` VALUES (/*id*/1573, /*story_detail_id*/5617, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/3, /*start_date*/"2021-12-30 15:00:00", /*end_date*/"");
+INSERT INTO `story_exchange_data` VALUES (/*id*/1574, /*story_detail_id*/5618, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/3, /*start_date*/"2021-12-30 15:00:00", /*end_date*/"");
+INSERT INTO `story_exchange_data` VALUES (/*id*/1575, /*story_detail_id*/5619, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/3, /*start_date*/"2021-12-30 15:00:00", /*end_date*/"");
+INSERT INTO `story_exchange_data` VALUES (/*id*/1576, /*story_detail_id*/5620, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/3, /*start_date*/"2021-12-30 15:00:00", /*end_date*/"");
+INSERT INTO `story_exchange_data` VALUES (/*id*/1577, /*story_detail_id*/5621, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/3, /*start_date*/"2021-12-30 15:00:00", /*end_date*/"");
+INSERT INTO `story_exchange_data` VALUES (/*id*/1578, /*story_detail_id*/5622, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/3, /*start_date*/"2021-12-30 15:00:00", /*end_date*/"");
+INSERT INTO `story_exchange_data` VALUES (/*id*/1579, /*story_detail_id*/5623, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/3, /*start_date*/"2021-12-30 15:00:00", /*end_date*/"");
+INSERT INTO `story_exchange_data` VALUES (/*id*/1580, /*story_detail_id*/5624, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/1, /*start_date*/"2021-12-30 15:00:00", /*end_date*/"");
+INSERT INTO `story_exchange_data` VALUES (/*id*/1581, /*story_detail_id*/5625, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/1, /*start_date*/"2021-12-30 15:00:00", /*end_date*/"");

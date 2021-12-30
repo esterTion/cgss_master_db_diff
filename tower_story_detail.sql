@@ -11,4 +11,6 @@ INSERT INTO `tower_story_detail` VALUES (/*id*/5620, /*event_id*/8001, /*type*/0
 INSERT INTO `tower_story_detail` VALUES (/*id*/5621, /*event_id*/8001, /*type*/0, /*open_event_point*/4500, /*next_detail_id*/5622);
 INSERT INTO `tower_story_detail` VALUES (/*id*/5622, /*event_id*/8001, /*type*/0, /*open_event_point*/5000, /*next_detail_id*/5623);
 INSERT INTO `tower_story_detail` VALUES (/*id*/5623, /*event_id*/8001, /*type*/2, /*open_event_point*/0, /*next_detail_id*/0);
+INSERT INTO `tower_story_detail` VALUES (/*id*/5624, /*event_id*/8001, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
+INSERT INTO `tower_story_detail` VALUES (/*id*/5625, /*event_id*/8001, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
 CREATE INDEX 'tower_story_detail_0_event_id_1_type' on 'tower_story_detail'('event_id','type');

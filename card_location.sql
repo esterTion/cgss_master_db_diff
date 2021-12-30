@@ -1361,3 +1361,5 @@ INSERT INTO `card_location` VALUES (/*index*/1374, /*text*/"宇宙博物館");
 INSERT INTO `card_location` VALUES (/*index*/1375, /*text*/"宇宙");
 INSERT INTO `card_location` VALUES (/*index*/1376, /*text*/"忘れ去られた廃墟");
 INSERT INTO `card_location` VALUES (/*index*/1377, /*text*/"電脳空間・撮影中");
+INSERT INTO `card_location` VALUES (/*index*/1378, /*text*/"元旦・本栖湖");
+INSERT INTO `card_location` VALUES (/*index*/1379, /*text*/"明け方の空・撮影スタジオ");
