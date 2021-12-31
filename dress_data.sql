@@ -76,5 +76,6 @@ INSERT INTO `dress_data` VALUES (/*id*/7045000, /*name*/"ノトーリアス・�
 INSERT INTO `dress_data` VALUES (/*id*/7046000, /*name*/"ヒーロースピリッツ", /*description*/"己の正義を信じる少女たちのスーツ。\nどんな逆境の中にいても、人々の笑顔を\n守るため、仲間たちと共に立ち上がる。\nヒーローたちのそんな覚悟を象徴している。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7047000, /*name*/"ハングリー・デザイア", /*description*/"大人の束縛を拒む少女たちのドレス。\n彼女たちが身にまとうのは、大胆でしたたかな\n揺るぎない意志の証。それは危険な闇の中でも\n子どもたちの心を奮い立たせるだろう。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7048000, /*name*/"スウィート・テラー", /*description*/"恐ろしい物語を紡ぐ少女たちのドレス。\nひとりでは心細くても、みんなと一緒なら、\nホラーでも楽しい思い出に変えられる。\nそんな仲間たちの心を繋ぐ、舞台衣装。", /*open_type*/5, /*dress_type*/3);
+INSERT INTO `dress_data` VALUES (/*id*/7049000, /*name*/"パッショネイト・フラワー", /*description*/"夏の情熱に身を任せる少女たちのドレス。\n鮮やかな花柄は、日差しを受けて咲き誇る\n南国の花のよう。そして彼女たちも、舞台上で\n熱く舞い踊り、魅惑の花を咲かせるだろう。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7050000, /*name*/"リレイト・ストーリー", /*description*/"自分たちの物語をつづる少女たちのドレス。\n舞台できらめくこの衣装も、数々の出会いから\n始まったキセキの証。積み重ねてきた思い出と\n描き続けていく未来の景色を、彩ってくれる。", /*open_type*/3, /*dress_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/7052000, /*name*/"ピュア・クレイドル", /*description*/"管理された箱庭で生きる少女たちのドレス。\n子どもたちを優しく包み育む、大人たちの愛。\nだがそれは時として、未来に芽吹く可能性を\n抑圧する檻となるのかもしれない。", /*open_type*/5, /*dress_type*/3);
