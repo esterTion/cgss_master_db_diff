@@ -468,3 +468,4 @@ INSERT INTO `story_category` VALUES (/*id*/489, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/490, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"オールスターカウントダウンLIVE2021", /*sub_title*/"オールスターカウントダウンLIVE2021", /*disp_order*/30, /*filter_type*/403);
 INSERT INTO `story_category` VALUES (/*id*/491, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"キセキの証", /*sub_title*/"キセキの証", /*disp_order*/170, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/492, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"VOY@GER", /*sub_title*/"VOY@GER", /*disp_order*/171, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/493, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ココカラミライヘ !", /*sub_title*/"ココカラミライヘ !", /*disp_order*/172, /*filter_type*/0);

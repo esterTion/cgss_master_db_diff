@@ -2814,6 +2814,7 @@ INSERT INTO `text_data` VALUES (/*category*/48, /*index*/132, /*text*/"獲得Ran
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/133, /*text*/"選択可能楽曲一覧");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/134, /*text*/"集計中");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/135, /*text*/"＋{0}％");
+INSERT INTO `text_data` VALUES (/*category*/48, /*index*/136, /*text*/"マイスタイルアイドルを編成中");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/201, /*text*/"CarnivalRank\n到達報酬");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/202, /*text*/"CarnivalRank到達報酬");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/203, /*text*/"イベントの報酬が確認できます");
