@@ -1366,3 +1366,10 @@ INSERT INTO `card_location` VALUES (/*index*/1379, /*text*/"明け方の空・�
 INSERT INTO `card_location` VALUES (/*index*/1380, /*text*/"テーマパークのダンスホール");
 INSERT INTO `card_location` VALUES (/*index*/1381, /*text*/"シンデレラたちのお城");
 INSERT INTO `card_location` VALUES (/*index*/1382, /*text*/"控え室");
+INSERT INTO `card_location` VALUES (/*index*/1383, /*text*/"古民家の台所");
+INSERT INTO `card_location` VALUES (/*index*/1384, /*text*/"レトロなカフェ");
+INSERT INTO `card_location` VALUES (/*index*/1385, /*text*/"広島・神社");
+INSERT INTO `card_location` VALUES (/*index*/1386, /*text*/"高舞台");
+INSERT INTO `card_location` VALUES (/*index*/1387, /*text*/"三重・神社境内");
+INSERT INTO `card_location` VALUES (/*index*/1388, /*text*/"夜の日本庭園");
+INSERT INTO `card_location` VALUES (/*index*/1389, /*text*/"ニューイヤーLIVE会場");
