@@ -152,7 +152,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/"ルームアイテムの並べ替えを行うことができます。\n「追加順」、「必要面積順」など並べ替え条件を選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーは\n倉庫収納数から除外されます。\n収納していても、収納数にカウントされません。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ルームショップにて「ソリ/クリスマス」を追加しました。\n「ソリ/クリスマス」を設置して\n12月25日 00:00を迎えましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"緒方智絵里が歌う「cherry＊merry＊cherry」を\nサウンドブースに追加 !\n購入するとLIVEでプレイできるようになります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「招き猫」をテーマにしたアイテムを追加 !\nコーデや一部アイテムは期間限定で登場 !\n福を呼ぶ猫たちと新しい年を迎えましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"ルームショップにて、「お正月」テーマの\nアイテム、コーデを復刻販売開始 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
@@ -494,7 +494,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/7, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/8, /*discription*/"イベント設定では、公演の準備画面の「おすすめ設定」で\n選曲される楽曲のLvを調整できます。\nまたツアーのタイトルを自由に変更できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/1, /*discription*/"「イベント参加ボーナス」、「MAP報酬」、「課題クリア報酬」\nで、イベント限定のSレアアイドルやルームアイテムを\n手にいれましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"本イベントでは、LIVEを行うことでアイドルたちが\nMAPを進んでいきます。楽曲の難易度やLIVEの\n結果に応じて、進行できるマス数が変化します。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"また、ルートはイベント限定アイドルごとに分かれており、\nそれぞれストーリーや報酬が異なります。\n※「姫川友紀」ルートのMAP1をクリアすると、\n「日下部若葉」ルートが解放されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"また、ルートはイベント限定アイドルごとに分かれており、\nそれぞれストーリーや報酬が異なります。\n※「水野翠」ルートのMAP1をクリアすると、\n「海老原菜帆」ルートが解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/3, /*discription*/"MAPやマスごとの条件を満たしてLIVEを行うと、\nMAP進行ボーナスが発生し、進行できるマス数がアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/3, /*discription*/"MAP進行ボーナスは、MAPにあわせたアイドルを編成したり、\n現在止まっているマスの色に応じた楽曲でLIVEを行うことで発生します。\nボーナス条件はイベントTOPや楽曲の選択画面等で確認できます。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/4, /*discription*/"ゴールに到着すると、トレーナーからMAPごとの課題が出されます。\n※課題の達成状況は累積でカウントされるため、1回のLIVEでクリアできない場合、\n複数回LIVEをすることで達成できます。\n");
@@ -710,15 +710,13 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90303, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90303, /*img*/1, /*discription*/"今回は各配信サービスに加えて、本アプリ内でも\n配信を行います。配信が開始されたら本ページ\nの視聴ボタンより番組視聴が可能 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90303, /*img*/2, /*discription*/"視聴画面ではリアルタイムでコメントや\nスタンプを送ることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90303, /*img*/2, /*discription*/"画面表示は切り替え可能です !\nみんなで一緒に盛り上がりましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/1, /*discription*/"オールスターカウントダウンLIVE開催 !\n開催期間は2021年12月31日0時～24時です。\nみんなでLIVEを楽しみながら1年を締めくくりましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/2, /*discription*/"全プロデューサーで対象楽曲をクリアして、「全体ミッション」を達成しま\nしょう ! LIVEのクリアされた回数によって獲得できる報酬が決定します !\n※全体ミッションの達成報酬は、結果発表後にまとめて配布されます\n※期間中に一度もLIVEをクリアしていない場合は獲得できません");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/3, /*discription*/"オールスターカウントダウンLIVEでは、\nLIVEをクリアすると「シンデレラ・コレクションチケット」がドロップします。\nドレスショップでチケット1枚を使用することで、\n好きなアイドル1人のドレスと交換できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/3, /*discription*/"ドレス交換チケットはオートLIVEでも獲得可能です。\n使用したオートLIVEチケットの枚数に応じて報酬を獲得できます。\n※オートLIVEではドレス交換チケットの獲得数および\nそのほかの報酬の獲得量が減少します。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/4, /*discription*/"「シンデレラ・コレクションチケット」に加えて、\nこれまでのドレス交換チケットが追加でドロップすることも！");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/1, /*discription*/"オールスターカウントダウンLIVE開催 !\n開催期間は2020年12月31日0時～24時です。\nみんなでLIVEを楽しみながら1年を締めくくりましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/2, /*discription*/"全プロデューサーで対象楽曲をクリアして、「全体ミッション」を達成しま\nしょう ! LIVEのクリアされた回数によって獲得できる報酬が決定します !\n※全体ミッションの達成報酬は、結果発表後に特設ページに\nアクセスいただくことで、まとめて配布されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/3, /*discription*/"オールスターカウントダウンLIVEでは、\nLIVEをクリアすると「ハピネス・エールチケット」がドロップします。\nドレスショップでチケット1枚を使用することで、\n好きなアイドル1人のドレスと交換できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/4, /*discription*/"今年は「ハピネス・エールチケット」に加えて、\n「シンデレラドリームチケット」や「クリスタルナイトパーティチケット」が\n追加でドロップすることも！");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/5, /*discription*/"時間ごとに設定されたボーナス対象タイプの楽曲でLIVEをクリアすると、\nチケットを多く獲得しやすくなります。\nまた、チケットの獲得枚数は選択した難易度ごとに異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/6, /*discription*/"「オールスターカウントダウンLIVE」には、「全体ミッション」のほかに\n「個人ミッション」があります。\n「チャンスチケット」や「Sレアスカウトチケット」などを含む、\n豪華景品をご用意しておりますので忘れずにチェックしてくださいね!");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/6, /*discription*/"「全体ミッション」および一部の「個人ミッション」は\nオートLIVEでも達成可能です。\n※オートLIVEチケットの使用枚数に応じてLIVE回数が加算されます\n※詳細はお知らせよりご確認ください");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/7, /*discription*/"特設ページ内「公開時間」に表示されている時間になると、\nアイドルたちがMCを務めるコミュが解放されます。\n2021年の「デレステ」のデータを大公開 ! !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/7, /*discription*/"特設ページ内「公開時間」に表示されている時間になると、\nアイドルたちがMCを務めるコミュが解放されます。\n2020年の「デレステ」のデータを大公開 ! !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/8, /*discription*/"特設ページ内「集計」ボタンから、\nオールスターカウントダウンの集計データを見ることができます。\nアイドルたちの活躍ぶりを確認しましょう !\n※データ集計のため、反映まで時間がかかることがあります");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90501, /*img*/1, /*discription*/"きらり博士のラボでは、うさぎロボをタップして\nミニゲームに挑戦できます。\nミニゲームでハピネシウムを集めて、\n最終決戦に挑みましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90502, /*img*/1, /*discription*/"魔法図書館では、本をタップしてミニゲームに挑戦できます。\nミニゲームを進めて、乃々をさがしましょう !");

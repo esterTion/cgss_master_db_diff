@@ -2957,6 +2957,7 @@ INSERT INTO `text_data` VALUES (/*category*/51, /*index*/7, /*text*/"デレス�
 INSERT INTO `text_data` VALUES (/*category*/52, /*index*/1, /*text*/"このアカウントは、本アプリの利用規約に\n違反する行為の疑いがあるため、コメント機能の\n利用を制限する対応を実施いたしました。\n\n上記の行為が発覚、または調査が必要と判断した場合、\n運営事務局の判断で、事前の通告なしにアカウント制限\nの対応を行うことがございます。");
 INSERT INTO `text_data` VALUES (/*category*/52, /*index*/2, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/52, /*index*/3, /*text*/"このアカウントは、本アプリの利用規約に\n違反する行為の疑いがあります。\n\n今後も上記の行為が発覚、\nまたは調査が必要と判断した場合、\n運営事務局の判断で、事前の通告なしに\nアカウント制限の対応を行うことがございます。");
+INSERT INTO `text_data` VALUES (/*category*/52, /*index*/4, /*text*/"このアカウントは、本アプリの利用規約に\n違反する行為の疑いがあります。\n\n今後も上記の行為が発覚、\nまたは調査が必要と判断した場合、\n運営事務局の判断で、事前の通告なしに\nアカウント制限の対応を行うことがございます。");
 INSERT INTO `text_data` VALUES (/*category*/53, /*index*/1, /*text*/"期限切れ");
 INSERT INTO `text_data` VALUES (/*category*/54, /*index*/1, /*text*/"ログインボーナス獲得エラー");
 INSERT INTO `text_data` VALUES (/*category*/54, /*index*/2, /*text*/"正常にログインボーナスが\n受け取れませんでした。\nタイトル画面に戻ります。");
