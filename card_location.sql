@@ -1373,4 +1373,8 @@ INSERT INTO `card_location` VALUES (/*index*/1386, /*text*/"高舞台");
 INSERT INTO `card_location` VALUES (/*index*/1387, /*text*/"三重・神社境内");
 INSERT INTO `card_location` VALUES (/*index*/1388, /*text*/"夜の日本庭園");
 INSERT INTO `card_location` VALUES (/*index*/1389, /*text*/"ニューイヤーLIVE会場");
+INSERT INTO `card_location` VALUES (/*index*/1390, /*text*/"足湯カフェ");
+INSERT INTO `card_location` VALUES (/*index*/1391, /*text*/"海の見える駅");
 INSERT INTO `card_location` VALUES (/*index*/1392, /*text*/"書き初め会場");
+INSERT INTO `card_location` VALUES (/*index*/1398, /*text*/"海沿いのドライブルート");
+INSERT INTO `card_location` VALUES (/*index*/1399, /*text*/"高層ビル屋上ステージ");
