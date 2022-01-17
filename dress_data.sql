@@ -80,3 +80,4 @@ INSERT INTO `dress_data` VALUES (/*id*/7049000, /*name*/"パッショネイト�
 INSERT INTO `dress_data` VALUES (/*id*/7050000, /*name*/"リレイト・ストーリー", /*description*/"自分たちの物語をつづる少女たちのドレス。\n舞台できらめくこの衣装も、数々の出会いから\n始まったキセキの証。積み重ねてきた思い出と\n描き続けていく未来の景色を、彩ってくれる。", /*open_type*/3, /*dress_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/7051000, /*name*/"プリンセス・オブ・テン", /*description*/"輝く10人の少女たちのドレス。\n数多の人を魅了し、高みに至った栄光の証。\n散りばめられた星々の輝きが、彼女たちの\n気高き姿を煌びやかに彩っている。", /*open_type*/3, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/7052000, /*name*/"ピュア・クレイドル", /*description*/"管理された箱庭で生きる少女たちのドレス。\n子どもたちを優しく包み育む、大人たちの愛。\nだがそれは時として、未来に芽吹く可能性を\n抑圧する檻となるのかもしれない。", /*open_type*/5, /*dress_type*/3);
+INSERT INTO `dress_data` VALUES (/*id*/7053000, /*name*/"あんず餅", /*description*/"お正月をテーマにした、杏の衣装。\n正月休みは何もせず、ずっと寝て過ごしたい。\nついでに不労所得も欲しい。そんな心の表れ。\nデザインした者の想いがこもっている。", /*open_type*/3, /*dress_type*/3);

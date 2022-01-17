@@ -403,4 +403,5 @@ INSERT INTO `latte_art_target` VALUES (/*id*/401, /*type*/1, /*latte_id*/478, /*
 INSERT INTO `latte_art_target` VALUES (/*id*/402, /*type*/2, /*latte_id*/479, /*val_id*/6025, /*card_id*/0);
 INSERT INTO `latte_art_target` VALUES (/*id*/403, /*type*/1, /*latte_id*/480, /*val_id*/30720, /*card_id*/201095);
 INSERT INTO `latte_art_target` VALUES (/*id*/404, /*type*/1, /*latte_id*/481, /*val_id*/30721, /*card_id*/301039);
+INSERT INTO `latte_art_target` VALUES (/*id*/405, /*type*/1, /*latte_id*/482, /*val_id*/30722, /*card_id*/201097);
 CREATE INDEX 'latte_art_target_0_type_1_val_id' on 'latte_art_target'('type','val_id');
