@@ -470,3 +470,4 @@ INSERT INTO `story_category` VALUES (/*id*/491, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/492, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"VOY@GER", /*sub_title*/"VOY@GER", /*disp_order*/171, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/493, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ココカラミライヘ !", /*sub_title*/"ココカラミライヘ !", /*disp_order*/172, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/494, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"海老原菜帆 / 水野翠", /*sub_title*/"海老原菜帆 / 水野翠", /*disp_order*/173, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/495, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"トロピカルガール", /*sub_title*/"トロピカルガール", /*disp_order*/174, /*filter_type*/0);

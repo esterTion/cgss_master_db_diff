@@ -148,3 +148,5 @@ INSERT INTO `witch_slide_color` VALUES (/*id*/146, /*red*/255, /*green*/111, /*b
 INSERT INTO `witch_slide_color` VALUES (/*id*/147, /*red*/254, /*green*/206, /*blue*/0, /*alpha*/195);
 INSERT INTO `witch_slide_color` VALUES (/*id*/148, /*red*/255, /*green*/255, /*blue*/175, /*alpha*/210);
 INSERT INTO `witch_slide_color` VALUES (/*id*/149, /*red*/255, /*green*/140, /*blue*/8, /*alpha*/220);
+INSERT INTO `witch_slide_color` VALUES (/*id*/150, /*red*/0, /*green*/0, /*blue*/0, /*alpha*/0);
+INSERT INTO `witch_slide_color` VALUES (/*id*/151, /*red*/115, /*green*/78, /*blue*/48, /*alpha*/160);
