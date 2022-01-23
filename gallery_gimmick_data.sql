@@ -9,4 +9,9 @@ INSERT INTO `gallery_gimmick_data` VALUES (/*id*/7, /*gimmick_type*/1, /*gimmick
 INSERT INTO `gallery_gimmick_data` VALUES (/*id*/8, /*gimmick_type*/1, /*gimmick_name*/"", /*fade_type*/1, /*source_type*/1, /*source_id*/52);
 INSERT INTO `gallery_gimmick_data` VALUES (/*id*/9, /*gimmick_type*/1, /*gimmick_name*/0293, /*fade_type*/1, /*source_type*/1, /*source_id*/53);
 INSERT INTO `gallery_gimmick_data` VALUES (/*id*/10, /*gimmick_type*/1, /*gimmick_name*/"0257_3617", /*fade_type*/1, /*source_type*/1, /*source_id*/37);
+INSERT INTO `gallery_gimmick_data` VALUES (/*id*/11, /*gimmick_type*/1, /*gimmick_name*/0175, /*fade_type*/1, /*source_type*/1, /*source_id*/62);
+INSERT INTO `gallery_gimmick_data` VALUES (/*id*/12, /*gimmick_type*/1, /*gimmick_name*/"0175_2014", /*fade_type*/1, /*source_type*/1, /*source_id*/62);
+INSERT INTO `gallery_gimmick_data` VALUES (/*id*/13, /*gimmick_type*/1, /*gimmick_name*/"0175_2314", /*fade_type*/1, /*source_type*/1, /*source_id*/62);
+INSERT INTO `gallery_gimmick_data` VALUES (/*id*/14, /*gimmick_type*/1, /*gimmick_name*/"0175_2614", /*fade_type*/1, /*source_type*/1, /*source_id*/62);
+INSERT INTO `gallery_gimmick_data` VALUES (/*id*/15, /*gimmick_type*/1, /*gimmick_name*/"0175_7001175", /*fade_type*/1, /*source_type*/1, /*source_id*/62);
 CREATE INDEX 'gallery_gimmick_data_0_source_type_1_source_id' on 'gallery_gimmick_data'('source_type','source_id');

@@ -482,3 +482,4 @@ INSERT INTO `latte_art_data` VALUES (/*id*/480, /*title*/"第480話", /*chara_li
 INSERT INTO `latte_art_data` VALUES (/*id*/481, /*title*/"第481話", /*chara_list*/"257,181,183", /*disp_order*/481, /*start_date*/"2022-01-14 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `latte_art_data` VALUES (/*id*/482, /*title*/"第482話", /*chara_list*/"227,119", /*disp_order*/482, /*start_date*/"2022-01-17 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `latte_art_data` VALUES (/*id*/483, /*title*/"第483話", /*chara_list*/"291,306,247,108,164", /*disp_order*/483, /*start_date*/"2022-01-20 15:00:00", /*end_date*/"2099-12-31 23:59:59");
+INSERT INTO `latte_art_data` VALUES (/*id*/484, /*title*/"第484話", /*chara_list*/157, /*disp_order*/484, /*start_date*/"2022-01-23 15:00:00", /*end_date*/"2099-12-31 23:59:59");

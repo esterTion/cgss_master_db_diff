@@ -929,6 +929,10 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/175, /*text*/"オート
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/176, /*text*/"最大所持数5枚");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/177, /*text*/"オートLIVEチケット消費");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/178, /*text*/"アンコールLIVEでの利用には、\nチケットは必要ありません");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/179, /*text*/"LIVE終了時ボイス");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/180, /*text*/"LIVE終了時にセンターアイドルのボイスが再生されます");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/181, /*text*/"カットインボイス");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/182, /*text*/"LIVE終了時ボイス");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/200, /*text*/"カバー楽曲表示");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/201, /*text*/"表示");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/202, /*text*/"非表示");
@@ -3929,6 +3933,13 @@ INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/128, /*text*/"ご利
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/129, /*text*/"プロデューサー身長設定");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/130, /*text*/"{0}cm");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/131, /*text*/"この設定はフォトスタジオ、VR LIVE\n3Dコミュに反映されます");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/132, /*text*/"ユーザーデータ削除");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/133, /*text*/"ユーザーデータ削除確認");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/134, /*text*/"端末に保存されているユーザーデータを削除しますか？");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/135, /*text*/"削除されたユーザーデータは戻すことができません");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/136, /*text*/"削除されたユーザーデータは戻すことができません\n本当によろしいですか？");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/137, /*text*/"ユーザーデータ削除完了");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/138, /*text*/"ユーザーデータを削除しました。\nアプリを再起動します。");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/201, /*text*/"VIEWモード選択");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/202, /*text*/"3Dコミュ選択");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/203, /*text*/"連続再生確認");

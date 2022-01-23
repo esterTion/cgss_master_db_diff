@@ -1383,3 +1383,5 @@ INSERT INTO `card_location` VALUES (/*index*/1396, /*text*/"無人島");
 INSERT INTO `card_location` VALUES (/*index*/1397, /*text*/"LIVE会場・客席通路");
 INSERT INTO `card_location` VALUES (/*index*/1398, /*text*/"海沿いのドライブルート");
 INSERT INTO `card_location` VALUES (/*index*/1399, /*text*/"高層ビル屋上ステージ");
+INSERT INTO `card_location` VALUES (/*index*/1400, /*text*/"撮影セット・待ち時間");
+INSERT INTO `card_location` VALUES (/*index*/1401, /*text*/"撮影セット・本番中");
