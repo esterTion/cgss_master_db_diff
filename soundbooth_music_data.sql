@@ -193,3 +193,4 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200144, /*name*/"堕ち�
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200145, /*name*/"堕ちる果実（オルゴール VERSION）", /*album_id*/9, /*jacket_id*/200001, /*sort*/145);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200146, /*name*/"EVERLASTING（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/146);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200147, /*name*/"キセキの証（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/147);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200148, /*name*/"VOY@GER（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/148);
