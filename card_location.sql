@@ -1389,3 +1389,7 @@ INSERT INTO `card_location` VALUES (/*index*/1402, /*text*/"バイク・ナイ�
 INSERT INTO `card_location` VALUES (/*index*/1403, /*text*/"朝焼けのエアーズロック上空");
 INSERT INTO `card_location` VALUES (/*index*/1404, /*text*/"オーストラリア・ステージ");
 INSERT INTO `card_location` VALUES (/*index*/1405, /*text*/"オーストラリア・ビーチ");
+INSERT INTO `card_location` VALUES (/*index*/1406, /*text*/"チョコ売り場のフォトブース");
+INSERT INTO `card_location` VALUES (/*index*/1407, /*text*/"宝石の庭園");
+INSERT INTO `card_location` VALUES (/*index*/1408, /*text*/"甘さ香る撮影スタジオ");
+INSERT INTO `card_location` VALUES (/*index*/1409, /*text*/"待ち合わせの公園");
