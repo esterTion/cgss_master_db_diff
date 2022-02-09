@@ -1393,3 +1393,5 @@ INSERT INTO `card_location` VALUES (/*index*/1406, /*text*/"チョコ売り場�
 INSERT INTO `card_location` VALUES (/*index*/1407, /*text*/"宝石の庭園");
 INSERT INTO `card_location` VALUES (/*index*/1408, /*text*/"甘さ香る撮影スタジオ");
 INSERT INTO `card_location` VALUES (/*index*/1409, /*text*/"待ち合わせの公園");
+INSERT INTO `card_location` VALUES (/*index*/1410, /*text*/"お菓子の丘・撮影中");
+INSERT INTO `card_location` VALUES (/*index*/1411, /*text*/"銀座・チョコレート専門店");

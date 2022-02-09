@@ -1,0 +1,1 @@
+CREATE TABLE 'tower_floor_mission_8002' ('id' INTEGER NOT NULL, 'target_type' INTEGER NOT NULL, 'target_value' INTEGER NOT NULL, 'target_value_2' INTEGER NOT NULL, PRIMARY KEY('id'));

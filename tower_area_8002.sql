@@ -1,0 +1,1 @@
+CREATE TABLE 'tower_area_8002' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, PRIMARY KEY('id'));
