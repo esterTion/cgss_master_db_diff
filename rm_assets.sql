@@ -404,4 +404,5 @@ INSERT INTO `rm_assets` VALUES (/*id*/402, /*name*/"title_bg_50366.unity3d");
 INSERT INTO `rm_assets` VALUES (/*id*/403, /*name*/"title_bg_50367.unity3d");
 INSERT INTO `rm_assets` VALUES (/*id*/404, /*name*/"title_bg_50368.unity3d");
 INSERT INTO `rm_assets` VALUES (/*id*/405, /*name*/"title_bg_50369.unity3d");
+INSERT INTO `rm_assets` VALUES (/*id*/406, /*name*/"event_announce_8002.acb");
 CREATE INDEX 'rm_assets_0_name' on 'rm_assets'('name');
