@@ -3079,6 +3079,8 @@ INSERT INTO `card_reward_detail` VALUES (/*id*/301051, /*reward_type*/3);
 INSERT INTO `card_reward_detail` VALUES (/*id*/301052, /*reward_type*/3);
 INSERT INTO `card_reward_detail` VALUES (/*id*/301053, /*reward_type*/5);
 INSERT INTO `card_reward_detail` VALUES (/*id*/301054, /*reward_type*/5);
+INSERT INTO `card_reward_detail` VALUES (/*id*/301055, /*reward_type*/6);
+INSERT INTO `card_reward_detail` VALUES (/*id*/301056, /*reward_type*/6);
 INSERT INTO `card_reward_detail` VALUES (/*id*/320209, /*reward_type*/1);
 INSERT INTO `card_reward_detail` VALUES (/*id*/320210, /*reward_type*/1);
 INSERT INTO `card_reward_detail` VALUES (/*id*/320223, /*reward_type*/1);
