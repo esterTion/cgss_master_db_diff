@@ -21,4 +21,6 @@ INSERT INTO `live_notes_data` VALUES (/*id*/18, /*name*/"TYPE 1", /*mode*/3, /*n
 INSERT INTO `live_notes_data` VALUES (/*id*/19, /*name*/"TYPE 2", /*mode*/3, /*notes_id_mode*/2, /*noteline_2d*/1, /*color_type*/0, /*ribbon_type*/0, /*party_my_idol*/1, /*sp_type*/0);
 INSERT INTO `live_notes_data` VALUES (/*id*/20, /*name*/"TYPE 14", /*mode*/0, /*notes_id_mode*/14, /*noteline_2d*/0, /*color_type*/0, /*ribbon_type*/0, /*party_my_idol*/0, /*sp_type*/0);
 INSERT INTO `live_notes_data` VALUES (/*id*/21, /*name*/"TYPE 15", /*mode*/0, /*notes_id_mode*/15, /*noteline_2d*/0, /*color_type*/0, /*ribbon_type*/0, /*party_my_idol*/0, /*sp_type*/0);
+INSERT INTO `live_notes_data` VALUES (/*id*/22, /*name*/"TYPE D1", /*mode*/0, /*notes_id_mode*/16, /*noteline_2d*/1, /*color_type*/0, /*ribbon_type*/0, /*party_my_idol*/1, /*sp_type*/4);
+INSERT INTO `live_notes_data` VALUES (/*id*/23, /*name*/"TYPE D2", /*mode*/0, /*notes_id_mode*/17, /*noteline_2d*/1, /*color_type*/0, /*ribbon_type*/0, /*party_my_idol*/1, /*sp_type*/4);
 CREATE INDEX 'live_notes_data_0_mode' on 'live_notes_data'('mode');

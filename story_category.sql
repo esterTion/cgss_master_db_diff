@@ -472,3 +472,4 @@ INSERT INTO `story_category` VALUES (/*id*/493, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/494, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"海老原菜帆 / 水野翠", /*sub_title*/"海老原菜帆 / 水野翠", /*disp_order*/173, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/495, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"トロピカルガール", /*sub_title*/"トロピカルガール", /*disp_order*/174, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/496, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"CoCo夏夏夏 Holiday", /*sub_title*/"CoCo夏夏夏 Holiday", /*disp_order*/175, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/497, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Demolish", /*sub_title*/"Demolish", /*disp_order*/176, /*filter_type*/0);
