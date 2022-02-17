@@ -526,6 +526,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/11, /*discription*
 INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/1, /*discription*/"「イベントpt報酬」、「アイドルpt報酬」、「ハイスコアランキング報酬」で、\nイベント限定のSレアアイドルやルームアイテムが獲得できます。\n本イベントではさらに「マイスタイルアイドル」の獲得と育成を\n行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/2, /*discription*/"まずは育成する「マイスタイルアイドル」を選択して\nタワーに挑戦しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/2, /*discription*/"「マイスタイルアイドル」はタワーのフロア課題を達成していくことで、\n育成ptによって各ステータスが上昇したり、\nレアリティやスターランクがアップしていく特別なアイドルです。\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/2, /*discription*/"過去のイベントで育成したことがあるマイスタイルアイドルも\n獲得が可能です。加入済みのアイドルと同じアイドルを選択すると、\n新たに別のマイスタイルアイドルとして加入します。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/3, /*discription*/"育成ptは、特定のフロアの課題達成で獲得できます。\n育成ptには「ボーカルpt」「ダンスpt」「ビジュアルpt」「ライフpt」\nがあり、獲得したptの種類によって、マイスタイルアイドルの\nステータスが成長します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/3, /*discription*/"メインタワーには育成pt以外にも\n「レアリティアップ」「スターランクアップ」が獲得できるフロアがあり、\nマイスタイルアイドルのレアリティやスターランクが成長します。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/3, /*discription*/"メインタワーのフロア課題を達成していくと、\n新しいタワーやフロアが解放されます。\nタワーごとに獲得できる育成ptなどに特色があるので、\nアイドルの育成方針にあわせて挑戦するタワーを選びましょう。");
