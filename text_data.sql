@@ -2445,6 +2445,8 @@ INSERT INTO `text_data` VALUES (/*category*/37, /*index*/96, /*text*/"限定ア�
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/97, /*text*/"限定アイテム");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/98, /*text*/"おすすめ");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/99, /*text*/"おすすめギフトアイテム選択");
+INSERT INTO `text_data` VALUES (/*category*/37, /*index*/100, /*text*/"大成功率アップ!");
+INSERT INTO `text_data` VALUES (/*category*/37, /*index*/101, /*text*/"特技Lv上昇率アップ!");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/102, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/103, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/104, /*text*/"");
