@@ -52,3 +52,5 @@ INSERT INTO `gallery_stage_list` VALUES (/*id*/55, /*disp_order*/47, /*disp_name
 INSERT INTO `gallery_stage_list` VALUES (/*id*/56, /*disp_order*/48, /*disp_name*/"ステージ Vast world①", /*bg_id*/4040, /*bg_type*/1, /*left_degree*/80, /*right_degree*/80, /*location_no*/1);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/57, /*disp_order*/49, /*disp_name*/"ステージ Vast world②", /*bg_id*/4040, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360, /*location_no*/2);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/58, /*disp_order*/50, /*disp_name*/"ステージ Virgin Love", /*bg_id*/4042, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360, /*location_no*/0);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/59, /*disp_order*/51, /*disp_name*/"ステージ 凸凹スピードスター①", /*bg_id*/1011, /*bg_type*/1, /*left_degree*/55, /*right_degree*/55, /*location_no*/1);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/60, /*disp_order*/52, /*disp_name*/"ステージ 凸凹スピードスター②", /*bg_id*/1011, /*bg_type*/1, /*left_degree*/46, /*right_degree*/50, /*location_no*/2);
