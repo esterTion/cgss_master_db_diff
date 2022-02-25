@@ -195,3 +195,4 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200146, /*name*/"EVERLAS
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200147, /*name*/"キセキの証（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/147);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200148, /*name*/"VOY@GER（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/148);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200149, /*name*/"ココカラミライヘ ! （BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/149);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200150, /*name*/"トロピカルガール（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/150);
