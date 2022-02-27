@@ -23,6 +23,7 @@ INSERT INTO `dress_data` VALUES (/*id*/23, /*name*/"アド・アストラ", /*de
 INSERT INTO `dress_data` VALUES (/*id*/24, /*name*/"シンデレラ・コレクション/カラー", /*description*/"ステージに輝く、シンデレラたちのドレス。\nそれぞれの個性と輝きが彩られている。\n紡いできた日々は、解けることのない魔法。", /*open_type*/4, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/25, /*name*/"シンデレラ・コレクション", /*description*/"ステージに輝く、シンデレラたちのドレス。\nそれぞれの個性と輝きが彩られている。\n紡いできた日々は、解けることのない魔法。", /*open_type*/4, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/26, /*name*/"レインボー・カラーズ／コーデ", /*description*/"パーツごとにカラーを変更できる\nドレスコーデ対応衣装になります。", /*open_type*/2, /*dress_type*/2);
+INSERT INTO `dress_data` VALUES (/*id*/27, /*name*/"MV登場衣装2", /*description*/"ストリートランウェイMV登場衣装", /*open_type*/99, /*dress_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/100, /*name*/"SSレア衣装", /*description*/"", /*open_type*/1, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/201, /*name*/"Sレア衣装", /*description*/"", /*open_type*/0, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/202, /*name*/"レア衣装", /*description*/"", /*open_type*/0, /*dress_type*/3);
@@ -82,3 +83,4 @@ INSERT INTO `dress_data` VALUES (/*id*/7051000, /*name*/"プリンセス・オ�
 INSERT INTO `dress_data` VALUES (/*id*/7052000, /*name*/"ピュア・クレイドル", /*description*/"管理された箱庭で生きる少女たちのドレス。\n子どもたちを優しく包み育む、大人たちの愛。\nだがそれは時として、未来に芽吹く可能性を\n抑圧する檻となるのかもしれない。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7053000, /*name*/"あんず餅", /*description*/"お正月をテーマにした、杏の衣装。\n正月休みは何もせず、ずっと寝て過ごしたい。\nついでに不労所得も欲しい。そんな心の表れ。\nデザインした者の想いがこもっている。", /*open_type*/3, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7054000, /*name*/"アイディール・カラー", /*description*/"理想を実現する少女たちのドレス。\n少女たちが思い描き、追い求めた気高さ。\nその輝きはいま、鮮烈な真紅の衣と靴となり\n舞台に立つ彼女たちを美しく飾り上げている。", /*open_type*/5, /*dress_type*/3);
+INSERT INTO `dress_data` VALUES (/*id*/7055000, /*name*/"レイジング・ソウル", /*description*/"世界に声を響かせる少女たちの衣装。\n鮮烈な姿と激情の旋律を、彼女たちは\nその身にまとう。残酷な世界に、\n自分たちの存在を刻みつけるために。", /*open_type*/5, /*dress_type*/3);

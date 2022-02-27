@@ -1401,6 +1401,12 @@ INSERT INTO `card_location` VALUES (/*index*/1414, /*text*/"ライラの部屋")
 INSERT INTO `card_location` VALUES (/*index*/1415, /*text*/"アイスクリームショップ");
 INSERT INTO `card_location` VALUES (/*index*/1416, /*text*/"雪の積もった庭園");
 INSERT INTO `card_location` VALUES (/*index*/1417, /*text*/"朽ちた神殿");
+INSERT INTO `card_location` VALUES (/*index*/1418, /*text*/"ウィーン旧市街");
+INSERT INTO `card_location` VALUES (/*index*/1419, /*text*/"大聖堂のステージ");
+INSERT INTO `card_location` VALUES (/*index*/1420, /*text*/"女子寮・朝");
+INSERT INTO `card_location` VALUES (/*index*/1421, /*text*/"創り上げた世界・撮影中");
+INSERT INTO `card_location` VALUES (/*index*/1422, /*text*/"ゲームセンター・夜");
+INSERT INTO `card_location` VALUES (/*index*/1423, /*text*/"創り上げる世界・撮影中");
 INSERT INTO `card_location` VALUES (/*index*/1424, /*text*/"屋内セット");
 INSERT INTO `card_location` VALUES (/*index*/1425, /*text*/"廃劇場・舞台袖");
 INSERT INTO `card_location` VALUES (/*index*/1426, /*text*/"美紗希の部屋");
