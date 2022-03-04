@@ -1411,3 +1411,8 @@ INSERT INTO `card_location` VALUES (/*index*/1424, /*text*/"屋内セット");
 INSERT INTO `card_location` VALUES (/*index*/1425, /*text*/"廃劇場・舞台袖");
 INSERT INTO `card_location` VALUES (/*index*/1426, /*text*/"美紗希の部屋");
 INSERT INTO `card_location` VALUES (/*index*/1427, /*text*/"ブロードウェイ・ステージ");
+INSERT INTO `card_location` VALUES (/*index*/1428, /*text*/"台湾・路地");
+INSERT INTO `card_location` VALUES (/*index*/1429, /*text*/"撮影本番中・商店街");
+INSERT INTO `card_location` VALUES (/*index*/1430, /*text*/"生け花教室");
+INSERT INTO `card_location` VALUES (/*index*/1431, /*text*/"花城の天守閣");
+INSERT INTO `card_location` VALUES (/*index*/1433, /*text*/"ファストフードショップ");
