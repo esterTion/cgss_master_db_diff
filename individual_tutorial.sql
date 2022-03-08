@@ -773,4 +773,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90604, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90604, /*img*/3, /*discription*/"全体順位上位3名のアイドルには、\nキャラクターボイスの追加と、専用の楽曲の制作を行います !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90701, /*img*/1, /*discription*/"ハッピーバレンタインキャンペーン開催 !\n2/14～2/28に特設ページにアクセスすると、\n3名のアイドルから手作りチョコをプレゼント !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90701, /*img*/2, /*discription*/"手作りチョコは、2月14日00:00時点のリーダーアイドルから\n必ず1つもらうことができます。\nその他の2個のチョコがどのアイドルからもらえるか\n当日まで楽しみにお待ちください !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90702, /*img*/1, /*discription*/"ハッピーホワイトデーキャンペーン開催 !\n3/14～3/31に特設ページにアクセスして、\n3名のアイドルへプレゼントを贈りましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90702, /*img*/2, /*discription*/"特設ページ右上にある『用意したプレゼント』ボタンを\nタップすると、アイドルに渡せるプレゼントを\n選ぶことができます。\n※3/14以降にアクセスした場合もプレゼントは選択可能です。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90702, /*img*/3, /*discription*/"用意したプレゼントは3/14 00:00以降にアイドルへ\n渡すことができます。あなたが選んだプレゼントを\nアイドルに渡して感謝の気持ちを伝えましょう !");
 CREATE INDEX 'individual_tutorial_0_id' on 'individual_tutorial'('id');

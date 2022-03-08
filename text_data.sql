@@ -3644,7 +3644,7 @@ INSERT INTO `text_data` VALUES (/*category*/72, /*index*/19, /*text*/"デレス�
 INSERT INTO `text_data` VALUES (/*category*/72, /*index*/20, /*text*/"投稿確認");
 INSERT INTO `text_data` VALUES (/*category*/72, /*index*/21, /*text*/"[D33D98]{0}[-]との思い出を\n投稿することができます");
 INSERT INTO `text_data` VALUES (/*category*/72, /*index*/22, /*text*/"思い出を振り返る");
-INSERT INTO `text_data` VALUES (/*category*/72, /*index*/23, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/72, /*index*/23, /*text*/"デレステでホワイトデーキャンペーン中!!\n{0}に{1}をプレゼントしました!! #デレステ");
 INSERT INTO `text_data` VALUES (/*category*/73, /*index*/1, /*text*/"[2d2d2d]RATE[-][D33D98]{0}[-][2d2d2d]以上[-]");
 INSERT INTO `text_data` VALUES (/*category*/73, /*index*/2, /*text*/"ぴにゃこら太と遊ぼう ! ");
 INSERT INTO `text_data` VALUES (/*category*/73, /*index*/3, /*text*/"～アイドルクイズ王決定戦～");
