@@ -26,3 +26,4 @@ INSERT INTO `album_jacket` VALUES (/*id*/24, /*album_id*/7, /*jacket_id*/1903);
 INSERT INTO `album_jacket` VALUES (/*id*/25, /*album_id*/7, /*jacket_id*/1904);
 INSERT INTO `album_jacket` VALUES (/*id*/26, /*album_id*/8, /*jacket_id*/100001);
 INSERT INTO `album_jacket` VALUES (/*id*/27, /*album_id*/9, /*jacket_id*/200001);
+INSERT INTO `album_jacket` VALUES (/*id*/28, /*album_id*/10, /*jacket_id*/200001);

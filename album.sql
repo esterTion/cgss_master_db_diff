@@ -7,4 +7,5 @@ INSERT INTO `album` VALUES (/*album_id*/5, /*name*/"from Animation", /*category_
 INSERT INTO `album` VALUES (/*album_id*/6, /*name*/"ReArrange&ReMix", /*category_id*/1);
 INSERT INTO `album` VALUES (/*album_id*/7, /*name*/"Special Tracks", /*category_id*/1);
 INSERT INTO `album` VALUES (/*album_id*/8, /*name*/"STARLIGHT STAGE BGM", /*category_id*/2);
-INSERT INTO `album` VALUES (/*album_id*/9, /*name*/"Arrange BGM", /*category_id*/2);
+INSERT INTO `album` VALUES (/*album_id*/9, /*name*/"Arrange BGM 1", /*category_id*/2);
+INSERT INTO `album` VALUES (/*album_id*/10, /*name*/"Arrange BGM 2", /*category_id*/2);
