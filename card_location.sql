@@ -1416,6 +1416,10 @@ INSERT INTO `card_location` VALUES (/*index*/1429, /*text*/"撮影本番中・�
 INSERT INTO `card_location` VALUES (/*index*/1430, /*text*/"生け花教室");
 INSERT INTO `card_location` VALUES (/*index*/1431, /*text*/"花城の天守閣");
 INSERT INTO `card_location` VALUES (/*index*/1433, /*text*/"ファストフードショップ");
+INSERT INTO `card_location` VALUES (/*index*/1434, /*text*/"花のみち");
+INSERT INTO `card_location` VALUES (/*index*/1435, /*text*/"ミュージカルセット");
+INSERT INTO `card_location` VALUES (/*index*/1436, /*text*/"ハムスターカフェ");
+INSERT INTO `card_location` VALUES (/*index*/1437, /*text*/"魔法学校の実習室・撮影中");
 INSERT INTO `card_location` VALUES (/*index*/1438, /*text*/"アロマテラピー・施術中");
 INSERT INTO `card_location` VALUES (/*index*/1439, /*text*/"イタリア");
 INSERT INTO `card_location` VALUES (/*index*/1440, /*text*/"セレクトショップ");

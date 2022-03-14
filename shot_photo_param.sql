@@ -1,0 +1,2 @@
+CREATE TABLE 'shot_photo_param' ('photo_param_id' INTEGER NOT NULL, 'minigame_id' INTEGER NOT NULL, 'limit_photo_count' INTEGER NOT NULL, 'interval_frame_burst_capture' INTEGER NOT NULL, 'min_zoom_scale' REAL NOT NULL, 'max_zoom_scale' REAL NOT NULL, PRIMARY KEY('photo_param_id'));
+INSERT INTO `shot_photo_param` VALUES (/*photo_param_id*/0, /*minigame_id*/0, /*limit_photo_count*/0, /*interval_frame_burst_capture*/0, /*min_zoom_scale*/0.0, /*max_zoom_scale*/0.0);

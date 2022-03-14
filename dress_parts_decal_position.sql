@@ -1,2 +1,3 @@
 CREATE TABLE 'dress_parts_decal_position' ('id' INTEGER NOT NULL, 'dress_id' INTEGER NOT NULL, 'parts_id' INTEGER NOT NULL, 'tab_position' INTEGER NOT NULL, 'position_x' INTEGER NOT NULL, 'position_y' INTEGER NOT NULL, 'position_z' INTEGER NOT NULL, 'rotate_y' INTEGER NOT NULL, 'focus_target_number' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `dress_parts_decal_position` VALUES (/*id*/1, /*dress_id*/1, /*parts_id*/1, /*tab_position*/0, /*position_x*/0, /*position_y*/0, /*position_z*/0, /*rotate_y*/0, /*focus_target_number*/0);
 CREATE INDEX 'dress_parts_decal_position_0_dress_id_1_parts_id' on 'dress_parts_decal_position'('dress_id','parts_id');

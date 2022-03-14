@@ -173,6 +173,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20104, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20105, /*img*/1, /*discription*/"ルームにいないアイドルにも\nギフトアイテムを渡すことができます。\nギフト保管庫のアイドル一覧ボタンから移動できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20106, /*img*/1, /*discription*/"ルーム3部屋目はマニーで購入することができます。\n「ルーム3」ボタンをタップすることで利用できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20107, /*img*/1, /*discription*/"ルームでLikeスタンプ設定を「ON」にすることで\nチャットスタンプでLikeができるようになります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20108, /*img*/1, /*discription*/"ぷちデレラのアニメーションにアイドルたちの専用ポーズを追加 !\nアイドルたちのいろいろなポーズを是非ご覧ください !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20201, /*img*/1, /*discription*/"全国各地で営業を行い、\nアイドルたちの魅力を全国に広めましょう。\n営業は最大3種類まで同時に行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20201, /*img*/2, /*discription*/"獲得できる報酬、必要時間、実行可能な回数などは\n営業ごとに異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20201, /*img*/2, /*discription*/"営業には、解放条件のない「通常営業」と\n特定の条件を満たすと解放される「スペシャル営業」\nがあります。");

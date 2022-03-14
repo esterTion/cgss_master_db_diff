@@ -1,2 +1,2 @@
 CREATE TABLE 'dress_decal' ('id' INTEGER NOT NULL, 'disp_order' INTEGER NOT NULL, 'lock_flag' INTEGER NOT NULL, 'cost_type' INTEGER NOT NULL, 'cost_id' INTEGER NOT NULL, 'cost_value' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'));
-INSERT INTO `dress_decal` VALUES (/*id*/1, /*disp_order*/0, /*lock_flag*/0, /*cost_type*/0, /*cost_id*/0, /*cost_value*/0, /*start_date*/"2029-09-18 15:00:00", /*end_date*/"2030-04-01 14:00:00");
+INSERT INTO `dress_decal` VALUES (/*id*/1, /*disp_order*/0, /*lock_flag*/0, /*cost_type*/0, /*cost_id*/0, /*cost_value*/0, /*start_date*/"2030-01-01 00:00:00", /*end_date*/"2030-01-01 23:59:59");

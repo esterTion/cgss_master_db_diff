@@ -1,0 +1,1 @@
+CREATE TABLE 'gallery_excluded_order' ('id' INTEGER NOT NULL, 'order_type' INTEGER NOT NULL, 'order_id' INTEGER NOT NULL, 'stage_list' TEXT NOT NULL, 'exclusion_mode' INTEGER NOT NULL, PRIMARY KEY('id'));
