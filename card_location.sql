@@ -1424,3 +1424,5 @@ INSERT INTO `card_location` VALUES (/*index*/1438, /*text*/"アロマテラピ�
 INSERT INTO `card_location` VALUES (/*index*/1439, /*text*/"イタリア");
 INSERT INTO `card_location` VALUES (/*index*/1440, /*text*/"セレクトショップ");
 INSERT INTO `card_location` VALUES (/*index*/1441, /*text*/"写真館前");
+INSERT INTO `card_location` VALUES (/*index*/1442, /*text*/"特急列車・夜");
+INSERT INTO `card_location` VALUES (/*index*/1443, /*text*/"世界で最も孤独な女王の城");
