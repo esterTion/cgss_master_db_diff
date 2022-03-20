@@ -1,8 +1,8 @@
 CREATE TABLE 'atapon_detail' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'live_detail_id' INTEGER NOT NULL, 'max_event_point' INTEGER NOT NULL, 'cost_type' INTEGER NOT NULL, 'cost_id' INTEGER NOT NULL, 'cost_value' INTEGER NOT NULL, 'bet_type' INTEGER NOT NULL, PRIMARY KEY('id'));
-INSERT INTO `atapon_detail` VALUES (/*id*/1, /*event_id*/1076, /*live_detail_id*/2890, /*max_event_point*/130, /*cost_type*/5, /*cost_id*/50076, /*cost_value*/75, /*bet_type*/1);
-INSERT INTO `atapon_detail` VALUES (/*id*/2, /*event_id*/1076, /*live_detail_id*/2891, /*max_event_point*/170, /*cost_type*/5, /*cost_id*/50076, /*cost_value*/90, /*bet_type*/1);
-INSERT INTO `atapon_detail` VALUES (/*id*/3, /*event_id*/1076, /*live_detail_id*/2892, /*max_event_point*/240, /*cost_type*/5, /*cost_id*/50076, /*cost_value*/120, /*bet_type*/1);
-INSERT INTO `atapon_detail` VALUES (/*id*/4, /*event_id*/1076, /*live_detail_id*/2893, /*max_event_point*/320, /*cost_type*/5, /*cost_id*/50076, /*cost_value*/150, /*bet_type*/1);
-INSERT INTO `atapon_detail` VALUES (/*id*/5, /*event_id*/1076, /*live_detail_id*/2894, /*max_event_point*/320, /*cost_type*/5, /*cost_id*/50076, /*cost_value*/150, /*bet_type*/1);
+INSERT INTO `atapon_detail` VALUES (/*id*/1, /*event_id*/1077, /*live_detail_id*/2961, /*max_event_point*/130, /*cost_type*/5, /*cost_id*/50077, /*cost_value*/75, /*bet_type*/1);
+INSERT INTO `atapon_detail` VALUES (/*id*/2, /*event_id*/1077, /*live_detail_id*/2962, /*max_event_point*/170, /*cost_type*/5, /*cost_id*/50077, /*cost_value*/90, /*bet_type*/1);
+INSERT INTO `atapon_detail` VALUES (/*id*/3, /*event_id*/1077, /*live_detail_id*/2963, /*max_event_point*/240, /*cost_type*/5, /*cost_id*/50077, /*cost_value*/120, /*bet_type*/1);
+INSERT INTO `atapon_detail` VALUES (/*id*/4, /*event_id*/1077, /*live_detail_id*/2964, /*max_event_point*/320, /*cost_type*/5, /*cost_id*/50077, /*cost_value*/150, /*bet_type*/1);
+INSERT INTO `atapon_detail` VALUES (/*id*/5, /*event_id*/1077, /*live_detail_id*/2965, /*max_event_point*/320, /*cost_type*/5, /*cost_id*/50077, /*cost_value*/150, /*bet_type*/1);
 CREATE INDEX 'atapon_detail_0_event_id' on 'atapon_detail'('event_id');
 CREATE INDEX 'atapon_detail_0_event_id_1_live_detail_id' on 'atapon_detail'('event_id','live_detail_id');

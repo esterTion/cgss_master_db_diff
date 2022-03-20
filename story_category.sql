@@ -475,3 +475,4 @@ INSERT INTO `story_category` VALUES (/*id*/496, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/497, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Demolish", /*sub_title*/"Demolish", /*disp_order*/176, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/498, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ストリート・ランウェイ", /*sub_title*/"ストリート・ランウェイ", /*disp_order*/177, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/499, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"伊集院惠 / 江上椿", /*sub_title*/"伊集院惠 / 江上椿", /*disp_order*/178, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/501, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ラビューダ♡トライアングル", /*sub_title*/"ラビューダ♡トライアングル", /*disp_order*/179, /*filter_type*/0);
