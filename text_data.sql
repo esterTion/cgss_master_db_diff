@@ -3951,6 +3951,10 @@ INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/6, /*text*/"利用�
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/7, /*text*/"アプリ終了");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/8, /*text*/"デレステへ戻りますか");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/9, /*text*/"デレステへ戻る");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/10, /*text*/"利用規約、プライバシーポリシー、\nグローバルコンセントに\n同意してから本サービスをご利用ください。\n\nまた、未成年の方は、\n法定代理人（ご両親等）の同意が必要です。\n\n※ないようがわからないときは\nおうちのひとにがめんをみせてください。");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/11, /*text*/"同意確認");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/12, /*text*/"このたび一部改定を行ったため、\n本サービスの最新の利用規約、\nプライバシーポリシー、\nグローバルコンセントをご確認ください。\n\nまた、未成年の方は、\n法定代理人（ご両親等）の同意が必要です。\n\n※ないようがわからないときは\nおうちのひとにがめんをみせてください。");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/13, /*text*/"利用規約、プライバシーポリシー、\nグローバルコンセントに同意して頂かないと\nゲームをプレイできません");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/101, /*text*/"デレステと\n同期する");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/102, /*text*/"メニュー");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/103, /*text*/"撮影セッティング");
@@ -3989,6 +3993,7 @@ INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/135, /*text*/"削除
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/136, /*text*/"削除されたユーザーデータは戻すことができません\n本当によろしいですか？");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/137, /*text*/"ユーザーデータ削除完了");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/138, /*text*/"ユーザーデータを削除しました。\nアプリを再起動します。");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/139, /*text*/"グローバルコンセント");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/201, /*text*/"VIEWモード選択");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/202, /*text*/"3Dコミュ選択");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/203, /*text*/"連続再生確認");

@@ -1430,3 +1430,5 @@ INSERT INTO `card_location` VALUES (/*index*/1444, /*text*/"稽古場");
 INSERT INTO `card_location` VALUES (/*index*/1445, /*text*/"玄関前・告白3秒前");
 INSERT INTO `card_location` VALUES (/*index*/1446, /*text*/"駅前");
 INSERT INTO `card_location` VALUES (/*index*/1447, /*text*/"リビング・告白中");
+INSERT INTO `card_location` VALUES (/*index*/1448, /*text*/"修行の名所");
+INSERT INTO `card_location` VALUES (/*index*/1449, /*text*/"神が見守る機械仕掛けの舞台");

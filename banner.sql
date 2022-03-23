@@ -1514,6 +1514,10 @@ INSERT INTO `banner` VALUES (/*banner_id*/1533, /*type*/1, /*img_id*/30743, /*tr
 INSERT INTO `banner` VALUES (/*banner_id*/1534, /*type*/1, /*img_id*/60188, /*transition*/3, /*page_index*/60188, /*order_num*/3, /*start_date*/"2022-03-20 15:00:00", /*end_date*/"2022-03-21 14:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/1535, /*type*/1, /*img_id*/60189, /*transition*/3, /*page_index*/60189, /*order_num*/3, /*start_date*/"2022-03-21 15:00:00", /*end_date*/"2022-03-22 14:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/1536, /*type*/1, /*img_id*/60190, /*transition*/3, /*page_index*/60190, /*order_num*/3, /*start_date*/"2022-03-22 15:00:00", /*end_date*/"2022-03-23 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1537, /*type*/1, /*img_id*/30744, /*transition*/0, /*page_index*/30744, /*order_num*/3, /*start_date*/"2022-03-23 15:00:00", /*end_date*/"2022-03-26 14:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/1538, /*type*/2, /*img_id*/1077, /*transition*/0, /*page_index*/0, /*order_num*/20, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
 INSERT INTO `banner` VALUES (/*banner_id*/1539, /*type*/17, /*img_id*/2, /*transition*/0, /*page_index*/0, /*order_num*/22, /*start_date*/"2022-03-19 00:00:00", /*end_date*/"2022-04-03 23:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/1540, /*type*/17, /*img_id*/3, /*transition*/1, /*page_index*/0, /*order_num*/22, /*start_date*/"2022-04-04 00:00:00", /*end_date*/"2022-05-31 23:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1541, /*type*/1, /*img_id*/30745, /*transition*/0, /*page_index*/30745, /*order_num*/4, /*start_date*/"2022-03-26 15:00:00", /*end_date*/"2022-03-30 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1542, /*type*/1, /*img_id*/30746, /*transition*/0, /*page_index*/30746, /*order_num*/5, /*start_date*/"2022-03-26 15:00:00", /*end_date*/"2022-03-30 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1543, /*type*/1, /*img_id*/30747, /*transition*/0, /*page_index*/30747, /*order_num*/6, /*start_date*/"2022-03-26 15:00:00", /*end_date*/"2022-03-30 14:59:59");
