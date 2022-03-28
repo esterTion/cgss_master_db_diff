@@ -1,5 +1,5 @@
 CREATE TABLE 'witch_slide_color' ('id' INTEGER NOT NULL, 'red' INTEGER NOT NULL, 'green' INTEGER NOT NULL, 'blue' INTEGER NOT NULL, 'alpha' INTEGER NOT NULL, PRIMARY KEY('id'));
-INSERT INTO `witch_slide_color` VALUES (/*id*/1, /*red*/255, /*green*/255, /*blue*/255, /*alpha*/160);
+INSERT INTO `witch_slide_color` VALUES (/*id*/1, /*red*/255, /*green*/255, /*blue*/255, /*alpha*/180);
 INSERT INTO `witch_slide_color` VALUES (/*id*/2, /*red*/192, /*green*/192, /*blue*/192, /*alpha*/160);
 INSERT INTO `witch_slide_color` VALUES (/*id*/3, /*red*/128, /*green*/128, /*blue*/128, /*alpha*/160);
 INSERT INTO `witch_slide_color` VALUES (/*id*/4, /*red*/64, /*green*/64, /*blue*/64, /*alpha*/160);
@@ -150,3 +150,6 @@ INSERT INTO `witch_slide_color` VALUES (/*id*/148, /*red*/255, /*green*/255, /*b
 INSERT INTO `witch_slide_color` VALUES (/*id*/149, /*red*/255, /*green*/140, /*blue*/8, /*alpha*/220);
 INSERT INTO `witch_slide_color` VALUES (/*id*/150, /*red*/0, /*green*/0, /*blue*/0, /*alpha*/0);
 INSERT INTO `witch_slide_color` VALUES (/*id*/151, /*red*/115, /*green*/78, /*blue*/48, /*alpha*/160);
+INSERT INTO `witch_slide_color` VALUES (/*id*/152, /*red*/255, /*green*/189, /*blue*/209, /*alpha*/240);
+INSERT INTO `witch_slide_color` VALUES (/*id*/153, /*red*/176, /*green*/246, /*blue*/92, /*alpha*/240);
+INSERT INTO `witch_slide_color` VALUES (/*id*/154, /*red*/226, /*green*/65, /*blue*/175, /*alpha*/240);

@@ -197,3 +197,4 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200148, /*name*/"VOY@GER
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200149, /*name*/"ココカラミライヘ ! （BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/149);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200150, /*name*/"トロピカルガール（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/150);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200151, /*name*/"CoCo夏夏夏 Holiday（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/1);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200152, /*name*/"Demolish（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/2);

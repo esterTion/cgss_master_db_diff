@@ -334,6 +334,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40503, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40503, /*img*/2, /*discription*/"また、「おすすめコーデ」機能では\nあらかじめコーディネイトされたカラーを\n反映、解放できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40504, /*img*/1, /*discription*/"ドレスコーデ専用衣装「レッスンウェア」は\nクローゼットごとにボトムスのデザインを\n選択して保存することができます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40505, /*img*/1, /*discription*/"コーデメモ機能ではクローゼット内容を保存し、\n他のクローゼットに上書きすることができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40506, /*img*/1, /*discription*/"ドレスコーデに「シール機能」が追加されました。\n「シール機能」では、衣装ごとの決まった位置に\nシールを追加できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40506, /*img*/1, /*discription*/"シールはカラー選択の下にあるタブから、\n貼り付けたい位置ごとに設定できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40506, /*img*/1, /*discription*/"未解放のシールは、イベントなどで入手可能な\n「魔法の生地」を使用すること使えるようになります。\n※必要数はパーツごとに異なる場合があります");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/1, /*discription*/"アイドル編成画面右上にある「表示切替ボタン」で\n編成中のユニットを表示できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/2, /*discription*/"ユニットのポジションを選択して、\n所属アイドルを編成することができます。\nまた、ユニット内のアイドル同士を\n入れ替えることも可能です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/2, /*discription*/"設定内容は他の画面に移動すると保存されます。\n※他の画面に移動せずにアプリを終了した場合、\n編成内容は保存されません。");

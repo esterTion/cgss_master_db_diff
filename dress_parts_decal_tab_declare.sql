@@ -1,3 +1,10 @@
 CREATE TABLE 'dress_parts_decal_tab_declare' ('parts_id' INTEGER NOT NULL, 'dress_id' INTEGER NOT NULL, 'parts_code' INTEGER NOT NULL, 'main_tab2key' TEXT NOT NULL, 'sub_tab2key' TEXT NOT NULL, PRIMARY KEY('parts_id'));
-INSERT INTO `dress_parts_decal_tab_declare` VALUES (/*parts_id*/1, /*dress_id*/1, /*parts_code*/0, /*main_tab2key*/"0,0,E,E", /*sub_tab2key*/"E,E,E,E");
+INSERT INTO `dress_parts_decal_tab_declare` VALUES (/*parts_id*/1, /*dress_id*/10, /*parts_code*/0, /*main_tab2key*/"0,1,E,E", /*sub_tab2key*/"E,E,E,E");
+INSERT INTO `dress_parts_decal_tab_declare` VALUES (/*parts_id*/2, /*dress_id*/10, /*parts_code*/1, /*main_tab2key*/"0,1,E,E", /*sub_tab2key*/"E,E,E,E");
+INSERT INTO `dress_parts_decal_tab_declare` VALUES (/*parts_id*/3, /*dress_id*/10, /*parts_code*/2, /*main_tab2key*/"0,1,E,E", /*sub_tab2key*/"E,E,E,E");
+INSERT INTO `dress_parts_decal_tab_declare` VALUES (/*parts_id*/4, /*dress_id*/10, /*parts_code*/3, /*main_tab2key*/"0,1,E,E", /*sub_tab2key*/"E,E,E,E");
+INSERT INTO `dress_parts_decal_tab_declare` VALUES (/*parts_id*/10, /*dress_id*/10, /*parts_code*/100, /*main_tab2key*/"E,E,0,1", /*sub_tab2key*/"E,E,E,E");
+INSERT INTO `dress_parts_decal_tab_declare` VALUES (/*parts_id*/11, /*dress_id*/10, /*parts_code*/101, /*main_tab2key*/"E,E,0,1", /*sub_tab2key*/"E,E,E,E");
+INSERT INTO `dress_parts_decal_tab_declare` VALUES (/*parts_id*/12, /*dress_id*/10, /*parts_code*/102, /*main_tab2key*/"E,E,0,1", /*sub_tab2key*/"E,E,E,E");
+INSERT INTO `dress_parts_decal_tab_declare` VALUES (/*parts_id*/14, /*dress_id*/10, /*parts_code*/103, /*main_tab2key*/"E,E,0,1", /*sub_tab2key*/"E,E,E,E");
 CREATE INDEX 'dress_parts_decal_tab_declare_0_dress_id_1_parts_code' on 'dress_parts_decal_tab_declare'('dress_id','parts_code');
