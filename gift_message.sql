@@ -76,6 +76,7 @@ INSERT INTO `gift_message` VALUES (/*id*/92, /*discription*/"ホワイトデー�
 INSERT INTO `gift_message` VALUES (/*id*/93, /*discription*/"ぴにゃこら太と遊ぼう ! ～アイドルクイズ王決定戦～ で獲得した報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/94, /*discription*/"ミニゲーム「{0}」ランク「{1}」達成報酬です。", /*type_1*/39, /*type_2*/41, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/95, /*discription*/"ミニゲーム「{0}」ランク「{1}」で加入したアイドルです。", /*type_1*/39, /*type_2*/41, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/96, /*discription*/"アイドルをパシャ♪～Pがカメラを持ったなら～で獲得した報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1001, /*discription*/"イベント「{0}」{1}イベントpt達成報酬です。", /*type_1*/19, /*type_2*/20, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1002, /*discription*/"イベント「{0}」ポイントランキング{1}位～{2}位で獲得した報酬です。", /*type_1*/19, /*type_2*/21, /*type_3*/22, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1003, /*discription*/"イベント「{0}」ハイスコアランキング{1}位～{2}位で獲得した報酬です。", /*type_1*/19, /*type_2*/23, /*type_3*/24, /*type_4*/0);

@@ -12,3 +12,4 @@ INSERT INTO `room_common_action` VALUES (/*action_id*/10, /*action_type*/102, /*
 INSERT INTO `room_common_action` VALUES (/*action_id*/11, /*action_type*/100, /*icon_id*/1007, /*icon_pos_x*/20000, /*icon_pos_y*/120000);
 INSERT INTO `room_common_action` VALUES (/*action_id*/12, /*action_type*/100, /*icon_id*/1008, /*icon_pos_x*/20000, /*icon_pos_y*/120000);
 INSERT INTO `room_common_action` VALUES (/*action_id*/13, /*action_type*/103, /*icon_id*/1009, /*icon_pos_x*/20000, /*icon_pos_y*/120000);
+INSERT INTO `room_common_action` VALUES (/*action_id*/14, /*action_type*/100, /*icon_id*/1010, /*icon_pos_x*/20000, /*icon_pos_y*/120000);

@@ -121,4 +121,5 @@ INSERT INTO `lab_preset_detail` VALUES (/*id*/119, /*preset_id*/5, /*child_id*/2
 INSERT INTO `lab_preset_detail` VALUES (/*id*/120, /*preset_id*/5, /*child_id*/22, /*serial_id*/22, /*item_id*/3146, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/154);
 INSERT INTO `lab_preset_detail` VALUES (/*id*/121, /*preset_id*/5, /*child_id*/23, /*serial_id*/23, /*item_id*/3140, /*item_type*/1, /*level*/1, /*dir_type*/1, /*pos_no*/216);
 INSERT INTO `lab_preset_detail` VALUES (/*id*/122, /*preset_id*/5, /*child_id*/24, /*serial_id*/24, /*item_id*/3153, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/75);
+INSERT INTO `lab_preset_detail` VALUES (/*id*/123, /*preset_id*/6, /*child_id*/1, /*serial_id*/1, /*item_id*/3153, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/75);
 CREATE INDEX 'lab_preset_detail_0_preset_id' on 'lab_preset_detail'('preset_id');

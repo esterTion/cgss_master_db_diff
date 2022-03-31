@@ -213,6 +213,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/21007, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/21007, /*img*/1, /*discription*/"なるべく早く提供できるほどスコアがアップ !\n連続でメニューを提供したりメインメニュー作成中のゲージが明るい緑のときにタップをすると\nスコアにボーナスが付くよ !\n手順を間違えずにハイスコアを狙おう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21008, /*img*/1, /*discription*/"4人オンライン対戦の早押しクイズバトル ! \nクイズに正解して誰よりも早く100点獲得を目指そう ! \n文字パネルを選んで正解を完成させよう ! \n順位に応じて、獲得できるゲームメダルの枚数がアップするよ ! ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21009, /*img*/1, /*discription*/"素材を自由に配置してフォトを作成 ! \nロゴや背景などを組み合わせて素敵な1枚にしよう ! \n完成したフォトは端末への保存や\nTwitterへの投稿をすることができるよ ! ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/21010, /*img*/1, /*discription*/"カメラでアイドルを撮影 ! \nポジションを選択しつつシャッターチャンスを狙おう ! \n撮影後は撮った写真の評価をしてもらえるよ ! \n評価に応じて、獲得できるゲームメダルの枚数が変化するよ ! ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/22001, /*img*/1, /*discription*/"ゲームセンターでは、ミニゲームを遊ぶことで、\n「ゲームメダル」が獲得できます。\n「ゲームメダル」を集めると、\nアイテム交換所で景品と交換できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEでは、ミュージックセレクタ右上の動作設定ボタンから\nLIVEの背景演出を変更することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEプレイ中のSE再生設定もここから変更できます。\nSEをオフにすることで、動作が軽くなる場合があります。");
@@ -336,7 +337,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40504, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40505, /*img*/1, /*discription*/"コーデメモ機能ではクローゼット内容を保存し、\n他のクローゼットに上書きすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40506, /*img*/1, /*discription*/"ドレスコーデに「シール機能」が追加されました。\n「シール機能」では、衣装ごとの決まった位置に\nシールを追加できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40506, /*img*/1, /*discription*/"シールはカラー選択の下にあるタブから、\n貼り付けたい位置ごとに設定できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/40506, /*img*/1, /*discription*/"未解放のシールは、イベントなどで入手可能な\n「魔法の生地」を使用すること使えるようになります。\n※必要数はパーツごとに異なる場合があります");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40506, /*img*/1, /*discription*/"未解放のシールは、イベントなどで入手可能な\n「魔法の生地」を使用することで使えるようになります。\n※必要数はパーツごとに異なる場合があります");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/1, /*discription*/"アイドル編成画面右上にある「表示切替ボタン」で\n編成中のユニットを表示できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/2, /*discription*/"ユニットのポジションを選択して、\n所属アイドルを編成することができます。\nまた、ユニット内のアイドル同士を\n入れ替えることも可能です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/2, /*discription*/"設定内容は他の画面に移動すると保存されます。\n※他の画面に移動せずにアプリを終了した場合、\n編成内容は保存されません。");
@@ -759,6 +760,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90512, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90512, /*img*/4, /*discription*/"正解で得点がプラス ! 不正解だとマイナスになるよ ! \n得点や減点は早押しの順番で変動 ! \n誰よりも早く100点を目指そう ! ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90512, /*img*/5, /*discription*/"不正解になるとライフがひとつ減少 ! \n不正解4回でライフが0になって失格になり、以降のクイズで解答不能に ! ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90512, /*img*/6, /*discription*/"ゲーム終了時の順位でレートポイントが変動 ! \nレートポイントを上げてSSSランクを目指そう ! ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90513, /*img*/1, /*discription*/"カメラでアイドルを撮影 ! \nポジションを選択しつつシャッターチャンスを狙おう ! \n撮影後は撮った写真の評価をしてもらえるよ ! ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90513, /*img*/2, /*discription*/"カメラは向きの操作やズームも可能 ! \nカメラを上手く操作して自分だけのベストショットを見つけよう ! ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90513, /*img*/3, /*discription*/"ポジションを移動してアイドルを見つけよう ! \n撮影中にチャンスボタンが反応したらタップしてみよう ! \nシャッターチャンスができるよ ! ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90513, /*img*/4, /*discription*/"高評価のヒントをチェック ! \nこれらのヒントを意識してアイドルを撮ってみよう ! ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90601, /*img*/1, /*discription*/"「第10回シンデレラガール総選挙」が始まりました !\n「第10回シンデレラガール総選挙」は、\nソーシャルゲーム「アイドルマスター シンデレラガールズ」\nとの合同開催となります。※得票数は各アプリの合算となります");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90601, /*img*/2, /*discription*/"ログインボーナスや期間限定ミッション、\n総選挙応援セットなどで投票券を入手して、\nお気に入りのアイドルに投票しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90601, /*img*/3, /*discription*/"全体順位上位5名のアイドルは、本アプリ内のイベントに登場 !\nさらに、イベント時の衣装を、3DLIVEで着用可能になります !\n");

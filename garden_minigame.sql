@@ -21,5 +21,7 @@ INSERT INTO `garden_minigame` VALUES (/*minigame_id*/19, /*ranking_type*/1, /*pa
 INSERT INTO `garden_minigame` VALUES (/*minigame_id*/20, /*ranking_type*/2, /*package_id*/9, /*sort_order*/1, /*need_cost*/0, /*result_resource_id*/9, /*title*/"クイズdeシンデレラ", /*explain*/"クイズdeシンデレラ");
 INSERT INTO `garden_minigame` VALUES (/*minigame_id*/21, /*ranking_type*/0, /*package_id*/9, /*sort_order*/2, /*need_cost*/0, /*result_resource_id*/9, /*title*/"クイズdeシンデレラ", /*explain*/"クイズdeシンデレラ(中級)");
 INSERT INTO `garden_minigame` VALUES (/*minigame_id*/22, /*ranking_type*/0, /*package_id*/9, /*sort_order*/3, /*need_cost*/0, /*result_resource_id*/9, /*title*/"クイズdeシンデレラ", /*explain*/"クイズdeシンデレラ(上級)");
+INSERT INTO `garden_minigame` VALUES (/*minigame_id*/23, /*ranking_type*/0, /*package_id*/11, /*sort_order*/1, /*need_cost*/0, /*result_resource_id*/11, /*title*/"トレーニングルーム", /*explain*/"トレーニングルーム");
+INSERT INTO `garden_minigame` VALUES (/*minigame_id*/24, /*ranking_type*/0, /*package_id*/11, /*sort_order*/2, /*need_cost*/0, /*result_resource_id*/11, /*title*/"控え室", /*explain*/"控え室");
 CREATE INDEX 'garden_minigame_0_package_id' on 'garden_minigame'('package_id');
 CREATE INDEX 'garden_minigame_0_package_id_1_sort_order' on 'garden_minigame'('package_id','sort_order');

@@ -16,4 +16,6 @@ INSERT INTO `lab_story_detail` VALUES (/*id*/3814, /*group_id*/2019, /*type*/4, 
 INSERT INTO `lab_story_detail` VALUES (/*id*/3815, /*group_id*/2019, /*type*/5, /*next_detail_id*/3816);
 INSERT INTO `lab_story_detail` VALUES (/*id*/3816, /*group_id*/2019, /*type*/6, /*next_detail_id*/3817);
 INSERT INTO `lab_story_detail` VALUES (/*id*/3817, /*group_id*/2019, /*type*/7, /*next_detail_id*/0);
+INSERT INTO `lab_story_detail` VALUES (/*id*/5783, /*group_id*/2022, /*type*/1, /*next_detail_id*/0);
+INSERT INTO `lab_story_detail` VALUES (/*id*/5784, /*group_id*/2022, /*type*/1, /*next_detail_id*/0);
 CREATE INDEX 'lab_story_detail_0_group_id_1_type' on 'lab_story_detail'('group_id','type');
