@@ -121,6 +121,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/11071, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/11071, /*img*/1, /*discription*/"今回は、「100万マニー」を獲得できます。\n※有償スタージュエルでのみ購入することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11071, /*img*/2, /*discription*/"「スカウトチケット」はアイドルをスカウトできるチケット\nです。スカウトできるアイドルは、「対象アイドル」ボタン\nからご確認ください。※スカウトチケットの種類によって\nスカウトできるアイドルは異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11071, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で出現します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11072, /*img*/1, /*discription*/"10th ANNIVERSARY TOUR FINAL記念 ! スペシャルガシャセットは\n期間限定販売です。\n購入すると「SSレアスカウトチケット」と\n「プラチナ10連ガシャチケット」に加え、");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11072, /*img*/1, /*discription*/"今回は、「スタミナドリンク50 2個」と\n「思い出の鍵 10個」、「魔法の生地 10個」を獲得できます。\n※有償スタージュエルでのみ購入することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11072, /*img*/2, /*discription*/"「SSレアスカウトチケット」はプレミアムカット解放済みの\n好きなSSレアアイドルをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11072, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で出現します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20001, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20001, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、\n様々な効果を発揮する物があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20001, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
