@@ -358,6 +358,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/50004, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/50005, /*img*/1, /*discription*/"専用の営業を成功することで、「営業コミュ」が\n解放されます。国内・海外で活躍する\nアイドルたちのコミュを見てみましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50005, /*img*/2, /*discription*/"画面右上の「コミュ検索」ボタンからご利用いただけます。\n気になるアイドルで検索してみましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50005, /*img*/3, /*discription*/"特定のコミュ営業をクリアすることで、\n関連コミュが解放できます。関連があるコミュは、\n「関連」ボタンから確認できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/50006, /*img*/1, /*discription*/"コミュの絞り込みを行えます。\n任意の条件を選択することで、絞り込みを行うことができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60001, /*img*/1, /*discription*/"手に入れたアイドルはアルバムに登録され\nアイドルのプロフィール、ステータス、\n親愛度演出やコミュを確認することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60002, /*img*/1, /*discription*/"ローディング中に表示される1コマ劇場やウワサで\nアイドルの意外な一面を知ることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60002, /*img*/1, /*discription*/"一度見た1コマ劇場とウワサは、\nアイドルトピックスで確認することができます。");
