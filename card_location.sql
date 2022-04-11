@@ -1444,3 +1444,7 @@ INSERT INTO `card_location` VALUES (/*index*/1458, /*text*/"学校の屋上・�
 INSERT INTO `card_location` VALUES (/*index*/1459, /*text*/"電車・車内");
 INSERT INTO `card_location` VALUES (/*index*/1460, /*text*/"学園・花舞う中庭");
 INSERT INTO `card_location` VALUES (/*index*/1461, /*text*/"黄昏時の踏切");
+INSERT INTO `card_location` VALUES (/*index*/1462, /*text*/"ショッピングビル前");
+INSERT INTO `card_location` VALUES (/*index*/1463, /*text*/"ソーダ専門店前・広告撮影中");
+INSERT INTO `card_location` VALUES (/*index*/1464, /*text*/"テラスレストラン");
+INSERT INTO `card_location` VALUES (/*index*/1465, /*text*/"中国庭園・撮影中");
