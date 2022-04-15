@@ -1951,6 +1951,8 @@ INSERT INTO `text_data` VALUES (/*category*/25, /*index*/102, /*text*/"5人ver")
 INSERT INTO `text_data` VALUES (/*category*/25, /*index*/103, /*text*/"エラー");
 INSERT INTO `text_data` VALUES (/*category*/25, /*index*/104, /*text*/"エラーが発生したため\nタイトルへ戻ります");
 INSERT INTO `text_data` VALUES (/*category*/25, /*index*/105, /*text*/"[ff7a7a]「ムービー」非対応楽曲は「2Dリッチ」になります[-]");
+INSERT INTO `text_data` VALUES (/*category*/25, /*index*/106, /*text*/"キャンペーン終了");
+INSERT INTO `text_data` VALUES (/*category*/25, /*index*/107, /*text*/"キャンペーンが終了したため\nプレイリストの再生を終了します");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/1, /*text*/"撮影セッティング");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/2, /*text*/"メニュー");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/3, /*text*/"オーダー");
@@ -3740,6 +3742,10 @@ INSERT INTO `text_data` VALUES (/*category*/73, /*index*/208, /*text*/"クイズ
 INSERT INTO `text_data` VALUES (/*category*/73, /*index*/209, /*text*/"クイズの中断データがあります。\nクイズを再開しますか？");
 INSERT INTO `text_data` VALUES (/*category*/73, /*index*/210, /*text*/"クイズを再開せず、ホーム画面へ移動します。\nここでクイズを再開しなかった場合、\nあとからクイズを再開することはできません。\n\n本当によろしいですか？");
 INSERT INTO `text_data` VALUES (/*category*/74, /*index*/1, /*text*/"ご利用の端末で課金が制限されているため、\n購入できませんでした。");
+INSERT INTO `text_data` VALUES (/*category*/75, /*index*/1, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/75, /*index*/2, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/75, /*index*/3, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/75, /*index*/4, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/76, /*index*/1, /*text*/"開催期間");
 INSERT INTO `text_data` VALUES (/*category*/76, /*index*/2, /*text*/"{0}～{1}");
 INSERT INTO `text_data` VALUES (/*category*/76, /*index*/3, /*text*/"集計中");
