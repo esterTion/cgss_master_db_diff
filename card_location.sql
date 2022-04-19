@@ -1452,3 +1452,7 @@ INSERT INTO `card_location` VALUES (/*index*/1466, /*text*/"商売繁盛の駅")
 INSERT INTO `card_location` VALUES (/*index*/1467, /*text*/"地方のバス停");
 INSERT INTO `card_location` VALUES (/*index*/1468, /*text*/"コインランドリー・MV撮影中");
 INSERT INTO `card_location` VALUES (/*index*/1469, /*text*/"幻想世界の女王の私室");
+INSERT INTO `card_location` VALUES (/*index*/1472, /*text*/"劇団事務所・控え室");
+INSERT INTO `card_location` VALUES (/*index*/1473, /*text*/"寝室");
+INSERT INTO `card_location` VALUES (/*index*/1474, /*text*/"劇団事務所・稽古場");
+INSERT INTO `card_location` VALUES (/*index*/1475, /*text*/"おとぎ話の世界");

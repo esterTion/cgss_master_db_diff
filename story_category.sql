@@ -479,3 +479,4 @@ INSERT INTO `story_category` VALUES (/*id*/499, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/500, /*type*/5, /*chara_type*/0, /*chara_id*/0, /*title*/"アイドルをパシャ♪", /*sub_title*/"アイドルをパシャ♪", /*disp_order*/1, /*filter_type*/404);
 INSERT INTO `story_category` VALUES (/*id*/501, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ラビューダ♡トライアングル", /*sub_title*/"ラビューダ♡トライアングル", /*disp_order*/179, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/502, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"New bright stars", /*sub_title*/"New bright stars", /*disp_order*/180, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/503, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"まほうのまくら", /*sub_title*/"まほうのまくら", /*disp_order*/181, /*filter_type*/0);
