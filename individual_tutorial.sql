@@ -13,7 +13,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/10006, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/10008, /*img*/1, /*discription*/"所属済みのSSレアアイドルが、プラチナオーディションガシャで\n再度所属すると、『プラチナメダル』を獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10008, /*img*/1, /*discription*/"『プラチナメダル』は、ショップの「プラチナメダル交換」から\nプレミアムなアイテムと交換することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10009, /*img*/1, /*discription*/"『ルナシャイン』を必要数獲得すると、\n対象のアイドルを1人スカウトすることができます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/10009, /*img*/2, /*discription*/"「ルナシャイン」は一定期間ごとの変換は行われず、\n必要数までため続けることができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/10009, /*img*/2, /*discription*/"『ルナシャイン』は一定期間ごとの変換は行われず、\n必要数までため続けることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10010, /*img*/1, /*discription*/"過去の期間限定アイドルが専用ガシャで登場 !\nSレアアイドル、SSレアアイドルは対象の限定アイドルのみが出現 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10011, /*img*/1, /*discription*/"プラチナセレクションガシャチケットでは\n対象のSSレアアイドルのみが登場します。\nさらに、登場SSレアアイドルをしぼりこむことが出来ます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10011, /*img*/2, /*discription*/"しぼりこむことができる数は\nアルバムのSSレアアイドル登録数と同数までとなります。\n※SSレア+アイドルの登録数はカウントされません。");

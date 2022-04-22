@@ -56,3 +56,4 @@ INSERT INTO `gallery_stage_list` VALUES (/*id*/59, /*disp_order*/51, /*disp_name
 INSERT INTO `gallery_stage_list` VALUES (/*id*/60, /*disp_order*/52, /*disp_name*/"ステージ 凸凹スピードスター②", /*bg_id*/1011, /*bg_type*/1, /*left_degree*/46, /*right_degree*/50, /*location_no*/2);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/61, /*disp_order*/53, /*disp_name*/"ステージ クレイジークレイジー①", /*bg_id*/1012, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360, /*location_no*/1);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/62, /*disp_order*/54, /*disp_name*/"ステージ クレイジークレイジー②", /*bg_id*/1012, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360, /*location_no*/2);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/63, /*disp_order*/55, /*disp_name*/"ステージ HARURUNRUN", /*bg_id*/1010, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360, /*location_no*/0);

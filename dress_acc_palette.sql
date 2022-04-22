@@ -125,6 +125,7 @@ INSERT INTO `dress_acc_palette` VALUES (/*id*/5009, /*dress_id*/26, /*model_type
 INSERT INTO `dress_acc_palette` VALUES (/*id*/5010, /*dress_id*/26, /*model_type*/3, /*layer_id*/1, /*color_code*/"484FB7", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/5011, /*dress_id*/26, /*model_type*/3, /*layer_id*/1, /*color_code*/"FDAD5C", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/5012, /*dress_id*/26, /*model_type*/3, /*layer_id*/1, /*color_code*/"EE3E3E", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
+INSERT INTO `dress_acc_palette` VALUES (/*id*/5017, /*dress_id*/26, /*model_type*/3, /*layer_id*/1, /*color_code*/"8028C3", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/5018, /*dress_id*/26, /*model_type*/3, /*layer_id*/2, /*color_code*/"FFC0A7", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/5019, /*dress_id*/26, /*model_type*/3, /*layer_id*/2, /*color_code*/"D6D8E2", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/5020, /*dress_id*/26, /*model_type*/3, /*layer_id*/2, /*color_code*/"FFBB69", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
@@ -140,3 +141,4 @@ INSERT INTO `dress_acc_palette` VALUES (/*id*/5030, /*dress_id*/26, /*model_type
 INSERT INTO `dress_acc_palette` VALUES (/*id*/5031, /*dress_id*/26, /*model_type*/3, /*layer_id*/3, /*color_code*/"FFA7DB", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/5032, /*dress_id*/26, /*model_type*/3, /*layer_id*/3, /*color_code*/"91D93A", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
 INSERT INTO `dress_acc_palette` VALUES (/*id*/5033, /*dress_id*/26, /*model_type*/3, /*layer_id*/3, /*color_code*/"FFDADA", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);
+INSERT INTO `dress_acc_palette` VALUES (/*id*/5036, /*dress_id*/26, /*model_type*/3, /*layer_id*/3, /*color_code*/"E6E1FF", /*package*/-1, /*parts_priority*/-1, /*parts_id*/-1);

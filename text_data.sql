@@ -4422,6 +4422,8 @@ INSERT INTO `text_data` VALUES (/*category*/10006, /*index*/57, /*text*/"検索"
 INSERT INTO `text_data` VALUES (/*category*/10006, /*index*/58, /*text*/"リセット");
 INSERT INTO `text_data` VALUES (/*category*/10006, /*index*/59, /*text*/"ユニットに誰も編成されていないため\nコピーできません");
 INSERT INTO `text_data` VALUES (/*category*/10006, /*index*/60, /*text*/"未設定");
+INSERT INTO `text_data` VALUES (/*category*/10006, /*index*/79, /*text*/"変更する");
+INSERT INTO `text_data` VALUES (/*category*/10006, /*index*/80, /*text*/"セット中");
 INSERT INTO `text_data` VALUES (/*category*/10007, /*index*/1, /*text*/"範囲外です");
 INSERT INTO `text_data` VALUES (/*category*/10007, /*index*/2, /*text*/"ポジション選択");
 INSERT INTO `text_data` VALUES (/*category*/10007, /*index*/3, /*text*/"キャンセル");
