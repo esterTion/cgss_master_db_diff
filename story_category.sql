@@ -389,7 +389,8 @@ INSERT INTO `story_category` VALUES (/*id*/404, /*type*/1, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/405, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第66話", /*sub_title*/"It's My Own", /*disp_order*/267, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/406, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第67話", /*sub_title*/"Let's give it a try !", /*disp_order*/268, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/407, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第68話", /*sub_title*/"The sun is always here", /*disp_order*/269, /*filter_type*/0);
-INSERT INTO `story_category` VALUES (/*id*/408, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第69話", /*sub_title*/"coming soon", /*disp_order*/270, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/408, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第69話", /*sub_title*/"It's Her Will", /*disp_order*/270, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/409, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第70話", /*sub_title*/"coming soon", /*disp_order*/271, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/414, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ギュっとMilky Way", /*sub_title*/"ギュっとMilky Way", /*disp_order*/111, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/415, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"夢をのぞいたら", /*sub_title*/"夢をのぞいたら", /*disp_order*/112, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/416, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"今井加奈 / 若林智香", /*sub_title*/"今井加奈 / 若林智香", /*disp_order*/113, /*filter_type*/0);

@@ -206,8 +206,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20206, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20206, /*img*/2, /*discription*/"さらに、複数まとめて確認した営業は\nそのまま再出発することができます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20207, /*img*/1, /*discription*/"「まとめて確認」、「まとめて短縮」を行った場合は、\n再出発時も複数営業をまとめて短縮することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20207, /*img*/2, /*discription*/"営業ごとに消費するスタミナを選択できます !\n消費するスタミナは1単位で選択でき、\nスタミナ1あたり、15分短縮できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「LIVE Carnival開催直前 ! 強化合宿限定\n育成強化キャンペーン」開催中 ! !\n強化合宿キャンペーン中は、トレチケが獲得できる\nスペシャル営業を2種類追加 ! 詳細はお知らせよりご確認ください。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/2, /*discription*/"「LIVE Carnival開催直前 ! 強化合宿限定\n特訓支援キャンペーン」開催中 ! ! 強化合宿キャンペーン中は、\n必ず複数の特訓アイテムが獲得できるスペシャル営業が\n1日3回行えます ! 詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「春のプロデューサーExp「超」獲得キャンペーン」開催中 ! !\n大量のプロデューサーExpが獲得できるスペシャル営業が\nキャンペーン期間中1回可能です !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「プレミアムパス」や、「プロデュース方針」の\n『営業回数アップ』『営業獲得プロデューサーExpアップ』で\nさらにExpを獲得 !\n詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/2, /*discription*/"「ゴールデンウィーク\nマニー獲得キャンペーン」開催中 ! ! キャンペーン中は、\nたくさんのマニーが獲得できるスペシャル営業が\n1日1回行えます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/2, /*discription*/"「プレミアムパス」や、「プロデュース方針」の\n『営業回数アップ』『営業獲得マニーアップ』で\nさらにマニーを獲得 ! \n詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21001, /*img*/1, /*discription*/"拘束のまゆからの攻撃を避けつつ、ハピネシウムを集めよう。\n集めたハピネシウムをラボに届けるとスコアをゲットできるよ ! \nラボにまとめて届けるとスコアがアップ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21002, /*img*/1, /*discription*/"誘惑の奏の攻撃や障害物を回避して、ハピネシウムを集めよう。\nタップするとうさぎロボがジャンプ ! \nうさぎロボは1回だけ空中ジャンプが可能だよ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21003, /*img*/1, /*discription*/"グラスザニンジャあやめの攻撃をはじきつつ、ハピネシウムを集めよう。\nフリック操作で、照準に入った障害物をはじけ ! \n飛んでくるハピネシウムを見極めてスコアをゲットしよう ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
@@ -283,8 +285,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30020, /*img*/7, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30020, /*img*/8, /*discription*/"帯で結ばれた矢印のリズムアイコンが出てきた場合でも、\nリズムアイコンがアイドルアイコンに重なるタイミングで、\nキーボードのキーを押します。\n※フリックの操作は必要ありません");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30020, /*img*/9, /*discription*/"「MASTER＋」で登場する「スライド」のリズムアイコンは、 \n最初のリズムアイコンがアイドルアイコンに重なったタイミングと\nスライド方向が折り返すポイントでキーを押します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30020, /*img*/9, /*discription*/"また、最後のリズムアイコンがアイドルアイコンに重なる\nタイミングで、キーボードのキーを押して離してください。\n※スライド方向が折り返すポイントや最後のリズムアイコンがアイドル\nアイコンに重なるタイミング以外で、キーを押しつづける必要はありません");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「LIVE Carnival開催直前 ! 強化合宿限定\nスペシャルLIVEキャンペーン」開催中 ! !\n期間中にクリアしたLIVEでは、期間限定のアイテムと\n今まで出現した限定トレチケを獲得できます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「LIVE Carnival開催直前 ! 強化合宿限定\n特訓支援キャンペーン」開催中 ! ! 強化合宿キャンペーン中は、\nLIVE成功時のティアラと魔法のドレスのドロップ率が\nさらにアップします ! 詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「ゴールデンウィークスペシャルLIVEキャンペーン」開催中 ! !\n期間中にLIVEをクリアすると、\n期間限定のアイテムを獲得できます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");
@@ -350,8 +352,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/2, /*discription*/"設定内容は他の画面に移動すると保存されます。\n※他の画面に移動せずにアプリを終了した場合、\n編成内容は保存されません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40701, /*img*/1, /*discription*/"ギフトアイテム画面では、ルーム外でも\nギフトアイテムを渡すことができます。ギフトアイテムを\nアイドルに渡すと親愛度が上がります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40801, /*img*/1, /*discription*/"衣装をまとめて変更することができます !\n選択した衣装を他のアイドルにも反映できます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/50001, /*img*/1, /*discription*/"ストーリーコミュでは、アイドルたちが\n織り成すストーリーが描かれています。\n解放条件を達成することで解放されます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/50001, /*img*/1, /*discription*/"ストーリー中に行われるコミュLIVEでは、\n新たなコミュは解放されません。\nLIVEで特定の難易度でのクリアが必要となります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/50001, /*img*/1, /*discription*/"ストーリーコミュでは、アイドルたちが\n織り成すストーリーが描かれています。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50002, /*img*/1, /*discription*/"メモリアルコミュでは、アイドル一人ひとりの\nアイドルとしての活動の軌跡が描かれています。\nLIVEでファン数を増やすことで解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50003, /*img*/1, /*discription*/"エピソードコミュでは、アイドルたちが特訓を通じて\n成長していくエピソードが描かれています。\n特訓をすることで解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50004, /*img*/1, /*discription*/"「ストーリーコミュ」、「イベントコミュ」にて、\n登場アイドルや楽曲でコミュを検索できます。");
@@ -362,6 +363,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/50005, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/50005, /*img*/2, /*discription*/"画面右上の「コミュ検索」ボタンからご利用いただけます。\n気になるアイドルで検索してみましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50005, /*img*/3, /*discription*/"特定のコミュ営業をクリアすることで、\n関連コミュが解放できます。関連があるコミュは、\n「関連」ボタンから確認できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50006, /*img*/1, /*discription*/"コミュの絞り込みを行えます。\n任意の条件を選択することで、絞り込みを行うことができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/50007, /*img*/1, /*discription*/"コミュの連続視聴が可能になりました。\nコミュ視聴後にそのコミュの続きを視聴することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60001, /*img*/1, /*discription*/"手に入れたアイドルはアルバムに登録され\nアイドルのプロフィール、ステータス、\n親愛度演出やコミュを確認することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60002, /*img*/1, /*discription*/"ローディング中に表示される1コマ劇場やウワサで\nアイドルの意外な一面を知ることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60002, /*img*/1, /*discription*/"一度見た1コマ劇場とウワサは、\nアイドルトピックスで確認することができます。");
