@@ -50,6 +50,8 @@ INSERT INTO `premium_sc_detail` VALUES (/*item_id*/80048, /*jewel_shop_id*/66, /
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/80049, /*jewel_shop_id*/71, /*use_period_day*/7, /*all_user_use_end_date*/"");
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/80050, /*jewel_shop_id*/71, /*use_period_day*/7, /*all_user_use_end_date*/"");
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/80051, /*jewel_shop_id*/72, /*use_period_day*/7, /*all_user_use_end_date*/"");
+INSERT INTO `premium_sc_detail` VALUES (/*item_id*/80052, /*jewel_shop_id*/74, /*use_period_day*/7, /*all_user_use_end_date*/"");
+INSERT INTO `premium_sc_detail` VALUES (/*item_id*/80053, /*jewel_shop_id*/74, /*use_period_day*/7, /*all_user_use_end_date*/"");
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/81001, /*jewel_shop_id*/4, /*use_period_day*/0, /*all_user_use_end_date*/"2017-02-28 23:59:59");
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/81002, /*jewel_shop_id*/5, /*use_period_day*/0, /*all_user_use_end_date*/"2017-02-28 23:59:59");
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/81003, /*jewel_shop_id*/8, /*use_period_day*/0, /*all_user_use_end_date*/"2017-11-10 23:59:59");
@@ -82,6 +84,7 @@ INSERT INTO `premium_sc_detail` VALUES (/*item_id*/84006, /*jewel_shop_id*/52, /
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/84007, /*jewel_shop_id*/59, /*use_period_day*/0, /*all_user_use_end_date*/"");
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/84008, /*jewel_shop_id*/62, /*use_period_day*/0, /*all_user_use_end_date*/"");
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/84009, /*jewel_shop_id*/67, /*use_period_day*/0, /*all_user_use_end_date*/"");
+INSERT INTO `premium_sc_detail` VALUES (/*item_id*/84010, /*jewel_shop_id*/73, /*use_period_day*/0, /*all_user_use_end_date*/"");
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/85001, /*jewel_shop_id*/41, /*use_period_day*/7, /*all_user_use_end_date*/"");
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/85002, /*jewel_shop_id*/42, /*use_period_day*/7, /*all_user_use_end_date*/"");
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/87001, /*jewel_shop_id*/51, /*use_period_day*/0, /*all_user_use_end_date*/"");

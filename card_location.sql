@@ -1458,3 +1458,6 @@ INSERT INTO `card_location` VALUES (/*index*/1472, /*text*/"劇団事務所・�
 INSERT INTO `card_location` VALUES (/*index*/1473, /*text*/"寝室");
 INSERT INTO `card_location` VALUES (/*index*/1474, /*text*/"劇団事務所・稽古場");
 INSERT INTO `card_location` VALUES (/*index*/1475, /*text*/"おとぎ話の世界");
+INSERT INTO `card_location` VALUES (/*index*/1476, /*text*/"スイス・ハイキングコース");
+INSERT INTO `card_location` VALUES (/*index*/1477, /*text*/"フラワーパーク");
+INSERT INTO `card_location` VALUES (/*index*/1478, /*text*/"温室");
