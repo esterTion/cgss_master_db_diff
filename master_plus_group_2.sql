@@ -90,3 +90,4 @@ INSERT INTO `master_plus_group_2` VALUES (/*id*/89, /*live_data_id*/449, /*live_
 INSERT INTO `master_plus_group_2` VALUES (/*id*/90, /*live_data_id*/39, /*live_detail_id*/2955, /*term_id*/134);
 INSERT INTO `master_plus_group_2` VALUES (/*id*/91, /*live_data_id*/450, /*live_detail_id*/3016, /*term_id*/137);
 INSERT INTO `master_plus_group_2` VALUES (/*id*/92, /*live_data_id*/868, /*live_detail_id*/3014, /*term_id*/137);
+INSERT INTO `master_plus_group_2` VALUES (/*id*/93, /*live_data_id*/869, /*live_detail_id*/3029, /*term_id*/137);
