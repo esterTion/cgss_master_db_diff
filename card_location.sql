@@ -1461,3 +1461,10 @@ INSERT INTO `card_location` VALUES (/*index*/1475, /*text*/"おとぎ話の世�
 INSERT INTO `card_location` VALUES (/*index*/1476, /*text*/"スイス・ハイキングコース");
 INSERT INTO `card_location` VALUES (/*index*/1477, /*text*/"フラワーパーク");
 INSERT INTO `card_location` VALUES (/*index*/1478, /*text*/"温室");
+INSERT INTO `card_location` VALUES (/*index*/1479, /*text*/"猫のいる喫茶店・休憩中");
+INSERT INTO `card_location` VALUES (/*index*/1480, /*text*/"洋室風セット");
+INSERT INTO `card_location` VALUES (/*index*/1481, /*text*/"コンセプトカフェ・休憩中");
+INSERT INTO `card_location` VALUES (/*index*/1482, /*text*/"とある外国の路地");
+INSERT INTO `card_location` VALUES (/*index*/1483, /*text*/"イギリスの洋館・休憩中");
+INSERT INTO `card_location` VALUES (/*index*/1484, /*text*/"お屋敷の書斎");
+INSERT INTO `card_location` VALUES (/*index*/1485, /*text*/"食卓風セット・撮影中");
