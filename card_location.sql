@@ -1468,3 +1468,6 @@ INSERT INTO `card_location` VALUES (/*index*/1482, /*text*/"とある外国の�
 INSERT INTO `card_location` VALUES (/*index*/1483, /*text*/"イギリスの洋館・休憩中");
 INSERT INTO `card_location` VALUES (/*index*/1484, /*text*/"お屋敷の書斎");
 INSERT INTO `card_location` VALUES (/*index*/1485, /*text*/"食卓風セット・撮影中");
+INSERT INTO `card_location` VALUES (/*index*/1486, /*text*/"収録スタジオ・本番後");
+INSERT INTO `card_location` VALUES (/*index*/1487, /*text*/"夢の彼方・いつかの未来");
+INSERT INTO `card_location` VALUES (/*index*/1488, /*text*/"過去・小学校の体育館");

@@ -200,3 +200,4 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200151, /*name*/"CoCo夏
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200152, /*name*/"Demolish（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/2);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200153, /*name*/"ストリート・ランウェイ（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/3);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200154, /*name*/"ラビューダ♡トライアングル（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/4);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200155, /*name*/"New bright stars（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/5);

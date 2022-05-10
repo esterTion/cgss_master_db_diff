@@ -483,3 +483,4 @@ INSERT INTO `story_category` VALUES (/*id*/502, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/503, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"まほうのまくら", /*sub_title*/"まほうのまくら", /*disp_order*/181, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/504, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"ももいろクローバーZコラボ", /*sub_title*/"ももいろクローバーZコラボ", /*disp_order*/31, /*filter_type*/402);
 INSERT INTO `story_category` VALUES (/*id*/505, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"メモリーブロッサム", /*sub_title*/"メモリーブロッサム", /*disp_order*/182, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/506, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"柳瀬美由紀 / 仙崎恵磨", /*sub_title*/"柳瀬美由紀 / 仙崎恵磨", /*disp_order*/183, /*filter_type*/0);
