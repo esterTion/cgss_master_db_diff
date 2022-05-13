@@ -247,3 +247,4 @@ INSERT INTO `gift_message` VALUES (/*id*/20074, /*discription*/"「10周年記�
 INSERT INTO `gift_message` VALUES (/*id*/20075, /*discription*/"「10周年記念プレゼントキャンペーン Wチャンス 3等」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20076, /*discription*/"「10周年記念プレゼントキャンペーン 参加賞」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20077, /*discription*/"「ゆくM@S くるM@S 2021」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20078, /*discription*/"「バンナムフェス2nd開催記念キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

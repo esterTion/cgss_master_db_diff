@@ -553,7 +553,7 @@ INSERT INTO `text_data` VALUES (/*category*/12, /*index*/28, /*text*/"デレス�
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/29, /*text*/"#デレステ1日1回無料");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/30, /*text*/"デレステでプラチナオーディションガシャ1日1回10連無料キャンペーン中!!\n{0}さんの本日の結果はこちら!!\n {1}");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/31, /*text*/"#デレステ\n {0}");
-INSERT INTO `text_data` VALUES (/*category*/12, /*index*/32, /*text*/"#デレステ10連ガシャ無料");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/32, /*text*/"#デレステ10連ガシャ無料\n #バンナムフェス2nd");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/33, /*text*/"プレゼント一覧にてお受け取りください");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/34, /*text*/"{0} [D33D98]{1}[FFFFFF]個");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/35, /*text*/"所持数が上限に達しているため\nプレゼントに送られました。");
@@ -3757,10 +3757,10 @@ INSERT INTO `text_data` VALUES (/*category*/74, /*index*/8, /*text*/"[FF7A7A]200
 INSERT INTO `text_data` VALUES (/*category*/74, /*index*/9, /*text*/"[FF7A7A]20歳以上[-]");
 INSERT INTO `text_data` VALUES (/*category*/74, /*index*/10, /*text*/"[FF7A7A]5000DMMポイントまで[-]");
 INSERT INTO `text_data` VALUES (/*category*/74, /*index*/11, /*text*/"[FF7A7A]20000DMMポイントまで[-]");
-INSERT INTO `text_data` VALUES (/*category*/75, /*index*/1, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/75, /*index*/2, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/75, /*index*/3, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/75, /*index*/4, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/75, /*index*/1, /*text*/"閉じる");
+INSERT INTO `text_data` VALUES (/*category*/75, /*index*/2, /*text*/"OK");
+INSERT INTO `text_data` VALUES (/*category*/75, /*index*/3, /*text*/"特訓");
+INSERT INTO `text_data` VALUES (/*category*/75, /*index*/4, /*text*/"育成");
 INSERT INTO `text_data` VALUES (/*category*/76, /*index*/1, /*text*/"開催期間");
 INSERT INTO `text_data` VALUES (/*category*/76, /*index*/2, /*text*/"{0}～{1}");
 INSERT INTO `text_data` VALUES (/*category*/76, /*index*/3, /*text*/"集計中");

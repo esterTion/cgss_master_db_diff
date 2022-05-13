@@ -166,8 +166,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーは\n倉庫収納数から除外されます。\n収納していても、収納数にカウントされません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"『ももクロ×デレステコラボキャンペーン第1弾』開催中 !\nももクロメンバーのぬいぐるみなど、\nももいろクローバーZをモチーフにした\nコラボルームアイテムを期間限定で販売中です !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"「名刀モノノフライト」を設置すると\nももいろクローバーZのメンバーがボイス付きで登場します !\n※メンバーの登場は5月12日 14:59までの期間限定です");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"U149コミックス9,10巻発売記念 !\nコラボルームアイテム『ラジオブース/A』『ラジオブース/B』を\n販売開始しました !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"After20コミックス7,8巻発売記念 !\nコラボルームアイテム、コーデを販売開始しました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「フラワーショップ」をテーマにしたアイテムとコーデを追加 !\n花に囲まれた街の、素敵なお花屋さんです !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -211,10 +210,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20206, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20206, /*img*/2, /*discription*/"さらに、複数まとめて確認した営業は\nそのまま再出発することができます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20207, /*img*/1, /*discription*/"「まとめて確認」、「まとめて短縮」を行った場合は、\n再出発時も複数営業をまとめて短縮することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20207, /*img*/2, /*discription*/"営業ごとに消費するスタミナを選択できます !\n消費するスタミナは1単位で選択でき、\nスタミナ1あたり、15分短縮できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「春のプロデューサーExp「超」獲得キャンペーン」開催中 ! !\n大量のプロデューサーExpが獲得できるスペシャル営業が\nキャンペーン期間中1回可能です !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「プレミアムパス」や、「プロデュース方針」の\n『営業回数アップ』『営業獲得プロデューサーExpアップ』で\nさらにExpを獲得 !\n詳細はお知らせよりご確認ください。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/2, /*discription*/"「ゴールデンウィーク\nマニー獲得キャンペーン」開催中 ! ! キャンペーン中は、\nたくさんのマニーが獲得できるスペシャル営業が\n1日1回行えます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/2, /*discription*/"「プレミアムパス」や、「プロデュース方針」の\n『営業回数アップ』『営業獲得マニーアップ』で\nさらにマニーを獲得 ! \n詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\n必ず複数の特訓アイテムを獲得できる\nスペシャル営業が1日1回行えます !\n詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21001, /*img*/1, /*discription*/"拘束のまゆからの攻撃を避けつつ、ハピネシウムを集めよう。\n集めたハピネシウムをラボに届けるとスコアをゲットできるよ ! \nラボにまとめて届けるとスコアがアップ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21002, /*img*/1, /*discription*/"誘惑の奏の攻撃や障害物を回避して、ハピネシウムを集めよう。\nタップするとうさぎロボがジャンプ ! \nうさぎロボは1回だけ空中ジャンプが可能だよ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21003, /*img*/1, /*discription*/"グラスザニンジャあやめの攻撃をはじきつつ、ハピネシウムを集めよう。\nフリック操作で、照準に入った障害物をはじけ ! \n飛んでくるハピネシウムを見極めてスコアをゲットしよう ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
@@ -290,8 +286,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30020, /*img*/7, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30020, /*img*/8, /*discription*/"帯で結ばれた矢印のリズムアイコンが出てきた場合でも、\nリズムアイコンがアイドルアイコンに重なるタイミングで、\nキーボードのキーを押します。\n※フリックの操作は必要ありません");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30020, /*img*/9, /*discription*/"「MASTER＋」で登場する「スライド」のリズムアイコンは、 \n最初のリズムアイコンがアイドルアイコンに重なったタイミングと\nスライド方向が折り返すポイントでキーを押します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30020, /*img*/9, /*discription*/"また、最後のリズムアイコンがアイドルアイコンに重なる\nタイミングで、キーボードのキーを押して離してください。\n※スライド方向が折り返すポイントや最後のリズムアイコンがアイドル\nアイコンに重なるタイミング以外で、キーを押しつづける必要はありません");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「ゴールデンウィークスペシャルLIVEキャンペーン」開催中 ! !\n期間中にLIVEをクリアすると、\n期間限定のアイテムを獲得できます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");
@@ -357,6 +352,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/2, /*discription*/"設定内容は他の画面に移動すると保存されます。\n※他の画面に移動せずにアプリを終了した場合、\n編成内容は保存されません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40701, /*img*/1, /*discription*/"ギフトアイテム画面では、ルーム外でも\nギフトアイテムを渡すことができます。ギフトアイテムを\nアイドルに渡すと親愛度が上がります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40801, /*img*/1, /*discription*/"衣装をまとめて変更することができます !\n選択した衣装を他のアイドルにも反映できます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40901, /*img*/1, /*discription*/"アイドル詳細ポップアップから、\n直接アイドルの育成メニューへ移動することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50001, /*img*/1, /*discription*/"ストーリーコミュでは、アイドルたちが\n織り成すストーリーが描かれています。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50002, /*img*/1, /*discription*/"メモリアルコミュでは、アイドル一人ひとりの\nアイドルとしての活動の軌跡が描かれています。\nLIVEでファン数を増やすことで解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/50003, /*img*/1, /*discription*/"エピソードコミュでは、アイドルたちが特訓を通じて\n成長していくエピソードが描かれています。\n特訓をすることで解放されます。");
