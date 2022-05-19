@@ -555,8 +555,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/6, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/7, /*discription*/"「マイスタイルアイドル」の見た目は、自分のアルバムに\n登録されているアイドルの中から選択できます。また特技名も変更できます。\n※見た目設定、特技名はマイスタイルアイドルの詳細画面から\n変更できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/8, /*discription*/"「イベントpt」はイベント開催期間中に\nLIVEやイベント限定営業を行うことで獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/8, /*discription*/"「アイドルpt」は育成アイドルごとに獲得できるptです。\nイベントptと同様、LIVEやイベント限定営業を行うことで、\nタワーを進行中のアイドルのptを獲得できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/9, /*discription*/"今回のイベントで獲得できるバッジの一部をご紹介します !\nセンター効果バッジ「トリコロール・ボイス」\n「クール・クロス・キュート」「パッション・クロス・クール」\n");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/9, /*discription*/"特技バッジ「PERFECTサポート」「アンコール」\n「チューニング」「ロングアクト」「コンセントレーション」\n※獲得できるバッジはイベント開催ごとに異なり、\n次回開催時には獲得できない場合があります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/9, /*discription*/"今回のイベントで獲得できるバッジの一部をご紹介します !\nセンター効果バッジ「トリコロール・ステップ」「シンデレラチャーム」\n「キュート・クロス・パッション」「クール・クロス・パッション」\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/9, /*discription*/"特技バッジ「コーディネイト」「オールラウンド」\n「スライドアクト」「コンセントレーション」\n※獲得できるバッジはイベント開催ごとに異なり、\n次回開催時には獲得できない場合があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/83001, /*img*/1, /*discription*/"「プラチナスカウトチケット」はレア、Sレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/83002, /*img*/1, /*discription*/"「スカウトチケット」はレア、Sレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/85001, /*img*/1, /*discription*/"「プライズスカウトチケット」は対象のSレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
