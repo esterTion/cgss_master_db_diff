@@ -92,3 +92,5 @@ INSERT INTO `master_plus_group_2` VALUES (/*id*/91, /*live_data_id*/450, /*live_
 INSERT INTO `master_plus_group_2` VALUES (/*id*/92, /*live_data_id*/868, /*live_detail_id*/3014, /*term_id*/137);
 INSERT INTO `master_plus_group_2` VALUES (/*id*/93, /*live_data_id*/869, /*live_detail_id*/3029, /*term_id*/137);
 INSERT INTO `master_plus_group_2` VALUES (/*id*/94, /*live_data_id*/870, /*live_detail_id*/3043, /*term_id*/137);
+INSERT INTO `master_plus_group_2` VALUES (/*id*/95, /*live_data_id*/455, /*live_detail_id*/3063, /*term_id*/140);
+INSERT INTO `master_plus_group_2` VALUES (/*id*/96, /*live_data_id*/119, /*live_detail_id*/3064, /*term_id*/140);

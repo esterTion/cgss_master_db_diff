@@ -137,3 +137,6 @@ INSERT INTO `master_plus_term` VALUES (/*id*/135, /*start_date*/"2022-04-04 00:0
 INSERT INTO `master_plus_term` VALUES (/*id*/136, /*start_date*/"2022-04-18 00:00:00", /*end_date*/"2022-05-01 23:59:59", /*master_plus_group*/1, /*notice_start_date*/"2022-04-15 14:30:00");
 INSERT INTO `master_plus_term` VALUES (/*id*/137, /*start_date*/"2022-05-02 00:00:00", /*end_date*/"2022-05-15 23:59:59", /*master_plus_group*/2, /*notice_start_date*/"2022-04-15 14:30:00");
 INSERT INTO `master_plus_term` VALUES (/*id*/138, /*start_date*/"2022-05-16 00:00:00", /*end_date*/"2022-05-29 23:59:59", /*master_plus_group*/3, /*notice_start_date*/"2022-04-18 00:00:00");
+INSERT INTO `master_plus_term` VALUES (/*id*/139, /*start_date*/"2022-05-30 00:00:00", /*end_date*/"2022-06-12 23:59:59", /*master_plus_group*/1, /*notice_start_date*/"2022-05-27 14:30:00");
+INSERT INTO `master_plus_term` VALUES (/*id*/140, /*start_date*/"2022-06-13 00:00:00", /*end_date*/"2022-06-26 23:59:59", /*master_plus_group*/2, /*notice_start_date*/"2022-05-27 14:30:00");
+INSERT INTO `master_plus_term` VALUES (/*id*/141, /*start_date*/"2022-06-27 00:00:00", /*end_date*/"2022-07-10 23:59:59", /*master_plus_group*/3, /*notice_start_date*/"2022-05-30 00:00:00");
