@@ -1479,3 +1479,9 @@ INSERT INTO `card_location` VALUES (/*index*/1493, /*text*/"撮影セット・�
 INSERT INTO `card_location` VALUES (/*index*/1494, /*text*/"民家の庭");
 INSERT INTO `card_location` VALUES (/*index*/1495, /*text*/"西部劇の町");
 INSERT INTO `card_location` VALUES (/*index*/1496, /*text*/"夜の街の路地裏");
+INSERT INTO `card_location` VALUES (/*index*/1497, /*text*/"パリの公園");
+INSERT INTO `card_location` VALUES (/*index*/1498, /*text*/"アンティーク風撮影スタジオ");
+INSERT INTO `card_location` VALUES (/*index*/1499, /*text*/"落ち着いたカフェ");
+INSERT INTO `card_location` VALUES (/*index*/1500, /*text*/"モニタールーム");
+INSERT INTO `card_location` VALUES (/*index*/1501, /*text*/"VRアトラクション");
+INSERT INTO `card_location` VALUES (/*index*/1502, /*text*/"コントロールルーム");
