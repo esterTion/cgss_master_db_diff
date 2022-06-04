@@ -528,3 +528,6 @@ INSERT INTO `latte_art_data` VALUES (/*id*/526, /*title*/"第526話", /*chara_li
 INSERT INTO `latte_art_data` VALUES (/*id*/527, /*title*/"第527話", /*chara_list*/128, /*disp_order*/527, /*start_date*/"2022-05-22 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `latte_art_data` VALUES (/*id*/528, /*title*/"第528話", /*chara_list*/"119,218,272", /*disp_order*/528, /*start_date*/"2022-05-30 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `latte_art_data` VALUES (/*id*/529, /*title*/"第529話", /*chara_list*/"201,176,223,190", /*disp_order*/529, /*start_date*/"2022-05-30 15:00:00", /*end_date*/"2099-12-31 23:59:59");
+INSERT INTO `latte_art_data` VALUES (/*id*/530, /*title*/"第530話", /*chara_list*/235, /*disp_order*/530, /*start_date*/"2022-06-04 15:00:00", /*end_date*/"2099-12-31 23:59:59");
+INSERT INTO `latte_art_data` VALUES (/*id*/531, /*title*/"第531話", /*chara_list*/214, /*disp_order*/531, /*start_date*/"2022-06-04 15:00:00", /*end_date*/"2099-12-31 23:59:59");
+INSERT INTO `latte_art_data` VALUES (/*id*/532, /*title*/"第532話", /*chara_list*/133, /*disp_order*/532, /*start_date*/"2022-06-04 15:00:00", /*end_date*/"2099-12-31 23:59:59");
