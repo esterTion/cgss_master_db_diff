@@ -1490,3 +1490,7 @@ INSERT INTO `card_location` VALUES (/*index*/1504, /*text*/"永遠の教会");
 INSERT INTO `card_location` VALUES (/*index*/1505, /*text*/"結婚式場・映画の撮影中");
 INSERT INTO `card_location` VALUES (/*index*/1506, /*text*/"花いっぱいの庭園");
 INSERT INTO `card_location` VALUES (/*index*/1507, /*text*/"森の式場");
+INSERT INTO `card_location` VALUES (/*index*/1508, /*text*/"日本庭園");
+INSERT INTO `card_location` VALUES (/*index*/1509, /*text*/"日本の空港");
+INSERT INTO `card_location` VALUES (/*index*/1510, /*text*/"チャペル・光射すテラス");
+INSERT INTO `card_location` VALUES (/*index*/1511, /*text*/"夕暮れの赤レンガ倉庫");

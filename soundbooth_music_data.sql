@@ -202,3 +202,4 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200153, /*name*/"スト�
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200154, /*name*/"ラビューダ♡トライアングル（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/4);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200155, /*name*/"New bright stars（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/5);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200156, /*name*/"まほうのまくら（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/6);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200157, /*name*/"メモリーブロッサム（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/7);
