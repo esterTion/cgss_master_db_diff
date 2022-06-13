@@ -24,6 +24,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/10013, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/10014, /*img*/1, /*discription*/"「カムバックSレアスカウトチケット」は、アルバム登録済の\nSレア・レア・ノーマルアイドルから好きなアイドルを\nスカウトできるチケットです。対象アイドルごとに年1回まで\nスカウトすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10015, /*img*/1, /*discription*/"メモリアルガシャ3rdが新たに追加されました ! \n画面右上ボタンで各メモリアルガシャを切り替えることが可能です。\n※出現するアイドルはアイドル詳細でご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10016, /*img*/1, /*discription*/"「アイドル別Sレアスカウトチケット」は、\n特定のアイドルのSレア・レア・ノーマルアイドルから、好きなアイドルを\nスカウトできるチケットです。スカウトできるアイドルは、\n「対象アイドル」ボタンからご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/10017, /*img*/1, /*discription*/"期間中に『スターシャイン』を獲得すると『シャインゲージ』が増加します。\n『シャインゲージ』が一定値に達すると報酬が獲得できます。\n※『ルナシャイン』を獲得した場合は増加しません。\n※『スターシャインスカウト』も引き続きご利用になれます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/10017, /*img*/2, /*discription*/"報酬や『シャインゲージ』の詳細は\n『スターシャイン』横の「i」ボタンから確認できます。\n※『シャインゲージ』は『スターシャイン』の\n　提供期間終了時にリセットされます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/1, /*discription*/"スペシャルガシャセットは期間限定販売です。\n購入すると「スカウトチケット」と「プラチナ10連ガシャ\nチケット」を1枚ずつ獲得できます。\n※有償スタージュエルでのみ購入することができます");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/2, /*discription*/"「スカウトチケット」はレア、Sレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で出現します。");
@@ -165,7 +167,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーは\n倉庫収納数から除外されます。\n収納していても、収納数にカウントされません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"北条加蓮が歌う「Frozen Tears」をサウンドブースに追加 !\n購入するとLIVEでプレイできるようになります。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「フラワーショップ」をテーマにしたアイテムとコーデを追加 !\n花に囲まれた街の、素敵なお花屋さんです !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"ニコニコ生放送「もっと ! デレステ☆NIGHT」にて、\n制作が決定した「視力検査のやつ」が登場 ! !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");

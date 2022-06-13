@@ -1,2 +1,9 @@
 CREATE TABLE 'gacha_l_reward' ('id' INTEGER NOT NULL, 'group_id' INTEGER NOT NULL, 'need_point' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_value' INTEGER NOT NULL, 'add_value_1' INTEGER NOT NULL, 'add_value_2' INTEGER NOT NULL, 'add_value_3' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `gacha_l_reward` VALUES (/*id*/1, /*group_id*/1, /*need_point*/10, /*reward_type*/5, /*reward_id*/5, /*reward_value*/5, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `gacha_l_reward` VALUES (/*id*/2, /*group_id*/1, /*need_point*/40, /*reward_type*/5, /*reward_id*/4007, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `gacha_l_reward` VALUES (/*id*/3, /*group_id*/1, /*need_point*/70, /*reward_type*/5, /*reward_id*/4107, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `gacha_l_reward` VALUES (/*id*/4, /*group_id*/1, /*need_point*/100, /*reward_type*/5, /*reward_id*/1002, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `gacha_l_reward` VALUES (/*id*/5, /*group_id*/1, /*need_point*/150, /*reward_type*/5, /*reward_id*/30007, /*reward_value*/3, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `gacha_l_reward` VALUES (/*id*/6, /*group_id*/1, /*need_point*/200, /*reward_type*/5, /*reward_id*/30030, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `gacha_l_reward` VALUES (/*id*/7, /*group_id*/1, /*need_point*/250, /*reward_type*/5, /*reward_id*/1006, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 CREATE INDEX 'gacha_l_reward_0_group_id' on 'gacha_l_reward'('group_id');
