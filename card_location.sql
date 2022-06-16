@@ -1497,3 +1497,5 @@ INSERT INTO `card_location` VALUES (/*index*/1511, /*text*/"夕暮れの赤レ�
 INSERT INTO `card_location` VALUES (/*index*/1512, /*text*/"石川県・海岸沿い");
 INSERT INTO `card_location` VALUES (/*index*/1513, /*text*/"ホテル・バスルーム");
 INSERT INTO `card_location` VALUES (/*index*/1514, /*text*/"ショーパブ");
+INSERT INTO `card_location` VALUES (/*index*/1515, /*text*/"ヨーロッパの豪華列車");
+INSERT INTO `card_location` VALUES (/*index*/1516, /*text*/"廃墟・ガラスの棺");

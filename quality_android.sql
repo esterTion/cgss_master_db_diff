@@ -13,6 +13,7 @@ Mali,T7,3
 Mali,T8,3
 Mali,G7,3
 Mali,G5,3
+Mali,G6,3
 NVIDIA,Tegra 3,1
 NVIDIA,K1,2
 PowerVR,Rogue,2
