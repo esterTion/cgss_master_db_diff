@@ -24,6 +24,8 @@ INSERT INTO `dress_data` VALUES (/*id*/24, /*name*/"シンデレラ・コレク�
 INSERT INTO `dress_data` VALUES (/*id*/25, /*name*/"シンデレラ・コレクション", /*description*/"ステージに輝く、シンデレラたちのドレス。\nそれぞれの個性と輝きが彩られている。\n紡いできた日々は、解けることのない魔法。", /*open_type*/4, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/26, /*name*/"レインボー・カラーズ／コーデ", /*description*/"パーツごとにカラーを変更できる\nドレスコーデ対応衣装になります。", /*open_type*/2, /*dress_type*/2);
 INSERT INTO `dress_data` VALUES (/*id*/27, /*name*/"MV登場衣装2", /*description*/"ストリートランウェイMV登場衣装", /*open_type*/99, /*dress_type*/0);
+INSERT INTO `dress_data` VALUES (/*id*/30, /*name*/"MV登場衣装3", /*description*/"チカラ ! イズ ! ぱわー ! MV登場衣装", /*open_type*/99, /*dress_type*/0);
+INSERT INTO `dress_data` VALUES (/*id*/31, /*name*/"MV登場衣装4", /*description*/"チカラ ! イズ ! ぱわー ! MV登場衣装", /*open_type*/99, /*dress_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/100, /*name*/"SSレア衣装", /*description*/"", /*open_type*/1, /*dress_type*/1);
 INSERT INTO `dress_data` VALUES (/*id*/201, /*name*/"Sレア衣装", /*description*/"", /*open_type*/0, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/202, /*name*/"レア衣装", /*description*/"", /*open_type*/0, /*dress_type*/3);

@@ -487,3 +487,4 @@ INSERT INTO `story_category` VALUES (/*id*/505, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/506, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"柳瀬美由紀 / 仙崎恵磨", /*sub_title*/"柳瀬美由紀 / 仙崎恵磨", /*disp_order*/183, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/507, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Blooming Days", /*sub_title*/"Blooming Days", /*disp_order*/184, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/508, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"No One Knows", /*sub_title*/"No One Knows", /*disp_order*/185, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/509, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"チカラ ! イズ ! ぱわー ! ! ", /*sub_title*/"チカラ ! イズ ! ぱわー ! ! ", /*disp_order*/186, /*filter_type*/0);

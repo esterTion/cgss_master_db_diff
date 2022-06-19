@@ -1499,3 +1499,7 @@ INSERT INTO `card_location` VALUES (/*index*/1513, /*text*/"ホテル・バス�
 INSERT INTO `card_location` VALUES (/*index*/1514, /*text*/"ショーパブ");
 INSERT INTO `card_location` VALUES (/*index*/1515, /*text*/"ヨーロッパの豪華列車");
 INSERT INTO `card_location` VALUES (/*index*/1516, /*text*/"廃墟・ガラスの棺");
+INSERT INTO `card_location` VALUES (/*index*/1517, /*text*/"ロケバス車内");
+INSERT INTO `card_location` VALUES (/*index*/1518, /*text*/"体育祭・特設ステージ");
+INSERT INTO `card_location` VALUES (/*index*/1519, /*text*/"女子寮・茜の部屋");
+INSERT INTO `card_location` VALUES (/*index*/1520, /*text*/"野外アスレチックセット");
