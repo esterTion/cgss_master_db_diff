@@ -79,6 +79,8 @@ INSERT INTO `gift_message` VALUES (/*id*/95, /*discription*/"ミニゲーム「{
 INSERT INTO `gift_message` VALUES (/*id*/96, /*discription*/"アイドルをパシャ♪～Pがカメラを持ったなら～で獲得した報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/97, /*discription*/"「{0}」のシャインゲージ{1}到達で加入したアイドルです。", /*type_1*/8, /*type_2*/90, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/98, /*discription*/"「{0}」のシャインゲージ{1}到達の報酬です。", /*type_1*/8, /*type_2*/90, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/99, /*discription*/"「{0}」のシャインゲージ{1}到達で加入したアイドルです。", /*type_1*/43, /*type_2*/90, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/100, /*discription*/"「{0}」のシャインゲージ{1}到達の報酬です。", /*type_1*/43, /*type_2*/90, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1001, /*discription*/"イベント「{0}」{1}イベントpt達成報酬です。", /*type_1*/19, /*type_2*/20, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1002, /*discription*/"イベント「{0}」ポイントランキング{1}位～{2}位で獲得した報酬です。", /*type_1*/19, /*type_2*/21, /*type_3*/22, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1003, /*discription*/"イベント「{0}」ハイスコアランキング{1}位～{2}位で獲得した報酬です。", /*type_1*/19, /*type_2*/23, /*type_3*/24, /*type_4*/0);
@@ -250,3 +252,4 @@ INSERT INTO `gift_message` VALUES (/*id*/20075, /*discription*/"「10周年記�
 INSERT INTO `gift_message` VALUES (/*id*/20076, /*discription*/"「10周年記念プレゼントキャンペーン 参加賞」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20077, /*discription*/"「ゆくM@S くるM@S 2021」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20078, /*discription*/"「バンナムフェス2nd開催記念キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20079, /*discription*/"「新総選挙 Stage for Cinderella 組分け抽選会」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

@@ -58,3 +58,5 @@ INSERT INTO `gallery_stage_list` VALUES (/*id*/61, /*disp_order*/53, /*disp_name
 INSERT INTO `gallery_stage_list` VALUES (/*id*/62, /*disp_order*/54, /*disp_name*/"ステージ クレイジークレイジー②", /*bg_id*/1012, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360, /*location_no*/2);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/63, /*disp_order*/55, /*disp_name*/"ステージ HARURUNRUN", /*bg_id*/1010, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360, /*location_no*/0);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/64, /*disp_order*/56, /*disp_name*/"ステージ Spring Screaming", /*bg_id*/3010, /*bg_type*/1, /*left_degree*/93, /*right_degree*/123, /*location_no*/0);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/65, /*disp_order*/57, /*disp_name*/"ステージ With Love①", /*bg_id*/4027, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360, /*location_no*/1);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/66, /*disp_order*/58, /*disp_name*/"ステージ With Love②", /*bg_id*/4027, /*bg_type*/1, /*left_degree*/50, /*right_degree*/50, /*location_no*/2);
