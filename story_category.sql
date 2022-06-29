@@ -478,7 +478,7 @@ INSERT INTO `story_category` VALUES (/*id*/496, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/497, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Demolish", /*sub_title*/"Demolish", /*disp_order*/176, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/498, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ストリート・ランウェイ", /*sub_title*/"ストリート・ランウェイ", /*disp_order*/177, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/499, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"伊集院惠 / 江上椿", /*sub_title*/"伊集院惠 / 江上椿", /*disp_order*/178, /*filter_type*/0);
-INSERT INTO `story_category` VALUES (/*id*/500, /*type*/5, /*chara_type*/0, /*chara_id*/0, /*title*/"アイドルをパシャ♪", /*sub_title*/"アイドルをパシャ♪", /*disp_order*/1, /*filter_type*/404);
+INSERT INTO `story_category` VALUES (/*id*/500, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"アイドルをパシャ♪", /*sub_title*/"アイドルをパシャ♪", /*disp_order*/32, /*filter_type*/404);
 INSERT INTO `story_category` VALUES (/*id*/501, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ラビューダ♡トライアングル", /*sub_title*/"ラビューダ♡トライアングル", /*disp_order*/179, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/502, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"New bright stars", /*sub_title*/"New bright stars", /*disp_order*/180, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/503, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"まほうのまくら", /*sub_title*/"まほうのまくら", /*disp_order*/181, /*filter_type*/0);
@@ -488,3 +488,4 @@ INSERT INTO `story_category` VALUES (/*id*/506, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/507, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Blooming Days", /*sub_title*/"Blooming Days", /*disp_order*/184, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/508, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"No One Knows", /*sub_title*/"No One Knows", /*disp_order*/185, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/509, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"チカラ ! イズ ! ぱわー ! ! ", /*sub_title*/"チカラ ! イズ ! ぱわー ! ! ", /*disp_order*/186, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/510, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ささのはに、うたかたに。", /*sub_title*/"ささのはに、うたかたに。", /*disp_order*/187, /*filter_type*/0);

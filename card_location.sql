@@ -1505,3 +1505,8 @@ INSERT INTO `card_location` VALUES (/*index*/1519, /*text*/"女子寮・茜の�
 INSERT INTO `card_location` VALUES (/*index*/1520, /*text*/"野外アスレチックセット");
 INSERT INTO `card_location` VALUES (/*index*/1521, /*text*/"インド・廟堂前");
 INSERT INTO `card_location` VALUES (/*index*/1522, /*text*/"インド・宮殿の回廊");
+INSERT INTO `card_location` VALUES (/*index*/1523, /*text*/"NY・マンハッタン");
+INSERT INTO `card_location` VALUES (/*index*/1524, /*text*/"NY・自分だけのランウェイ");
+INSERT INTO `card_location` VALUES (/*index*/1525, /*text*/"古民家の庭・撮影休憩中");
+INSERT INTO `card_location` VALUES (/*index*/1526, /*text*/"京都・川床");
+INSERT INTO `card_location` VALUES (/*index*/1527, /*text*/"天の川の見える川辺");
