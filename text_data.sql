@@ -3558,6 +3558,7 @@ INSERT INTO `text_data` VALUES (/*category*/65, /*index*/410, /*text*/"[ef2782]�
 INSERT INTO `text_data` VALUES (/*category*/65, /*index*/411, /*text*/"入力\nフォームへ");
 INSERT INTO `text_data` VALUES (/*category*/65, /*index*/412, /*text*/"シンデレラライブラリー");
 INSERT INTO `text_data` VALUES (/*category*/65, /*index*/413, /*text*/"シンデレラ\nライブラリー");
+INSERT INTO `text_data` VALUES (/*category*/65, /*index*/414, /*text*/"応募サイトへ");
 INSERT INTO `text_data` VALUES (/*category*/66, /*index*/1, /*text*/"プロデューサー設定");
 INSERT INTO `text_data` VALUES (/*category*/66, /*index*/2, /*text*/"プロデュース方針の変更や、ゲストアイドルの設定ができます");
 INSERT INTO `text_data` VALUES (/*category*/66, /*index*/3, /*text*/"プロデュース方針");
