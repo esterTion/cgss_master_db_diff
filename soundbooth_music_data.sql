@@ -204,3 +204,4 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200155, /*name*/"New bri
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200156, /*name*/"まほうのまくら（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/6);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200157, /*name*/"メモリーブロッサム（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/7);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200158, /*name*/"Blooming Days（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/8);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200159, /*name*/"No One Knows（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/9);
