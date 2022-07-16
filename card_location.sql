@@ -1525,3 +1525,5 @@ INSERT INTO `card_location` VALUES (/*index*/1539, /*text*/"古民家庭先・�
 INSERT INTO `card_location` VALUES (/*index*/1540, /*text*/"海の見える踏切前");
 INSERT INTO `card_location` VALUES (/*index*/1541, /*text*/"波打ち際");
 INSERT INTO `card_location` VALUES (/*index*/1542, /*text*/"インフィニティプール");
+INSERT INTO `card_location` VALUES (/*index*/1543, /*text*/"京都・老舗の喫茶店");
+INSERT INTO `card_location` VALUES (/*index*/1544, /*text*/"京の夜空に舞う夢のひとひら");
