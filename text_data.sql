@@ -981,6 +981,8 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/203, /*text*/"カバー
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/204, /*text*/"カバー楽曲を含める");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/210, /*text*/"{0}/15枚");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/211, /*text*/"最大所持数15枚");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/212, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/213, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/1, /*text*/"月間獲得ファン数ランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/2, /*text*/"今期のランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/3, /*text*/"前期のランキング");
@@ -2566,7 +2568,7 @@ INSERT INTO `text_data` VALUES (/*category*/38, /*index*/4, /*text*/"ゲーム�
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/5, /*text*/"交換{0}数は毎日更新");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/6, /*text*/"交換{0}数は毎週更新");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/7, /*text*/"交換{0}数は毎月更新");
-INSERT INTO `text_data` VALUES (/*category*/38, /*index*/8, /*text*/"コミュ再生");
+INSERT INTO `text_data` VALUES (/*category*/38, /*index*/8, /*text*/"コミュ視聴");
 INSERT INTO `text_data` VALUES (/*category*/39, /*index*/1, /*text*/"楽曲購入");
 INSERT INTO `text_data` VALUES (/*category*/39, /*index*/2, /*text*/"確認");
 INSERT INTO `text_data` VALUES (/*category*/39, /*index*/3, /*text*/"外部サイトへ接続します。\n楽曲配信情報サイトへ移動してもよろしいですか？");
@@ -3136,6 +3138,11 @@ INSERT INTO `text_data` VALUES (/*category*/52, /*index*/1, /*text*/"このア�
 INSERT INTO `text_data` VALUES (/*category*/52, /*index*/2, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/52, /*index*/3, /*text*/"このアカウントは、本アプリの利用規約に\n違反する行為の疑いがあります。\n\n今後も上記の行為が発覚、\nまたは調査が必要と判断した場合、\n運営事務局の判断で、事前の通告なしに\nアカウント制限の対応を行うことがございます。");
 INSERT INTO `text_data` VALUES (/*category*/52, /*index*/4, /*text*/"このアカウントは、本アプリの利用規約に\n違反する行為の疑いがあります。\n\n今後も上記の行為が発覚、\nまたは調査が必要と判断した場合、\n運営事務局の判断で、事前の通告なしに\nアカウント制限の対応を行うことがございます。");
+INSERT INTO `text_data` VALUES (/*category*/52, /*index*/101, /*text*/"運営からのお知らせ");
+INSERT INTO `text_data` VALUES (/*category*/52, /*index*/102, /*text*/"運営からのお知らせ");
+INSERT INTO `text_data` VALUES (/*category*/52, /*index*/103, /*text*/"運営からのお知らせ");
+INSERT INTO `text_data` VALUES (/*category*/52, /*index*/104, /*text*/"運営からのお知らせ");
+INSERT INTO `text_data` VALUES (/*category*/52, /*index*/201, /*text*/"確認しました");
 INSERT INTO `text_data` VALUES (/*category*/53, /*index*/1, /*text*/"期限切れ");
 INSERT INTO `text_data` VALUES (/*category*/54, /*index*/1, /*text*/"ログインボーナス獲得エラー");
 INSERT INTO `text_data` VALUES (/*category*/54, /*index*/2, /*text*/"正常にログインボーナスが\n受け取れませんでした。\nタイトル画面に戻ります。");
@@ -3511,6 +3518,14 @@ INSERT INTO `text_data` VALUES (/*category*/64, /*index*/32, /*text*/"アプリ�
 INSERT INTO `text_data` VALUES (/*category*/64, /*index*/33, /*text*/"[ff7a7a]非対応端末のため設定できません。[-]");
 INSERT INTO `text_data` VALUES (/*category*/64, /*index*/34, /*text*/"16:9(推奨)");
 INSERT INTO `text_data` VALUES (/*category*/64, /*index*/35, /*text*/"全画面");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/36, /*text*/"コメント受信設定");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/37, /*text*/"他のプロデューサーからのコメント受信を設定できます。");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/38, /*text*/"受け取る");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/39, /*text*/"同僚のみ受け取る");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/40, /*text*/"受け取らない");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/41, /*text*/"[FF7A7A]設定変更前のコメントには反映されません[-]");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/42, /*text*/"コメント送信エラー");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/43, /*text*/"相手がコメントを受け取らない設定のため、\nコメントは送れません");
 INSERT INTO `text_data` VALUES (/*category*/65, /*index*/1, /*text*/"キャンペーン");
 INSERT INTO `text_data` VALUES (/*category*/65, /*index*/2, /*text*/"応募期間 {0} ～ {1}\n詳細は、特設サイトをご覧ください");
 INSERT INTO `text_data` VALUES (/*category*/65, /*index*/3, /*text*/"");
@@ -4307,6 +4322,12 @@ INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/10, /*text*/"利用�
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/11, /*text*/"同意確認");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/12, /*text*/"このたび一部改定を行ったため、\n本サービスの最新の利用規約、\nプライバシーポリシー、\nグローバルコンセントをご確認ください。\n\nまた、18歳未満の方は、\n法定代理人（ご両親等）の同意が必要です。\n\n※ないようがわからないときは\nおうちのひとにがめんをみせてください。");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/13, /*text*/"利用規約、プライバシーポリシー、\nグローバルコンセントに同意して頂かないと\nゲームをプレイできません");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/14, /*text*/"お客様情報の取扱いについて");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/15, /*text*/"各項目のボタンを押すとブラウザが立ち上がり、\n専用Webサイトに遷移します。");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/16, /*text*/"各項目をチェックすると同意、\nチェックを外すと同意撤回になります。");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/17, /*text*/"概要");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/18, /*text*/"分析");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/19, /*text*/"広告出稿");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/101, /*text*/"デレステと\n同期する");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/102, /*text*/"メニュー");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/103, /*text*/"撮影セッティング");
@@ -4348,6 +4369,7 @@ INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/138, /*text*/"ユー
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/139, /*text*/"グローバルコンセント");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/140, /*text*/"アカウント削除");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/141, /*text*/"ブラウザを立ち上げて専用Webサイトに\n遷移してもよろしいですか？");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/142, /*text*/"プライバシーオプション");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/201, /*text*/"VIEWモード選択");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/202, /*text*/"3Dコミュ選択");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/203, /*text*/"連続再生確認");
