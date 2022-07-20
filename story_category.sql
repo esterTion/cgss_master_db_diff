@@ -490,3 +490,4 @@ INSERT INTO `story_category` VALUES (/*id*/508, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/509, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"チカラ ! イズ ! ぱわー ! ! ", /*sub_title*/"チカラ ! イズ ! ぱわー ! ! ", /*disp_order*/186, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/510, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ささのはに、うたかたに。", /*sub_title*/"ささのはに、うたかたに。", /*disp_order*/187, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/511, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"氏家むつみ / 沢田麻理菜", /*sub_title*/"氏家むつみ / 沢田麻理菜", /*disp_order*/188, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/512, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"サマーサイダー", /*sub_title*/"サマーサイダー", /*disp_order*/189, /*filter_type*/0);

@@ -193,3 +193,4 @@ INSERT INTO `room_idol_individual_anime` VALUES (/*id*/400, /*type*/1, /*idol_id
 INSERT INTO `room_idol_individual_anime` VALUES (/*id*/401, /*type*/1, /*idol_id*/"127,131,178,234,242,249,250,258,270,283,292,297,309");
 INSERT INTO `room_idol_individual_anime` VALUES (/*id*/402, /*type*/1, /*idol_id*/"108,149,272,275");
 INSERT INTO `room_idol_individual_anime` VALUES (/*id*/403, /*type*/1, /*idol_id*/"313,314");
+INSERT INTO `room_idol_individual_anime` VALUES (/*id*/404, /*type*/1, /*idol_id*/"104,134,150,180,188,205,214,237,243,256,268,114,115,118,124,148,157,162,166,192,216,218,221,229,232,254,260,262,283,287,289,293,295,298");
