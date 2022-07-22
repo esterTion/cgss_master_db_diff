@@ -86,3 +86,4 @@ INSERT INTO `dress_data` VALUES (/*id*/7052000, /*name*/"ピュア・クレイ�
 INSERT INTO `dress_data` VALUES (/*id*/7053000, /*name*/"あんず餅", /*description*/"お正月をテーマにした、杏の衣装。\n正月休みは何もせず、ずっと寝て過ごしたい。\nついでに不労所得も欲しい。そんな心の表れ。\nデザインした者の想いがこもっている。", /*open_type*/3, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7054000, /*name*/"アイディール・カラー", /*description*/"理想を実現する少女たちのドレス。\n少女たちが思い描き、追い求めた気高さ。\nその輝きはいま、鮮烈な真紅の衣と靴となり\n舞台に立つ彼女たちを美しく飾り上げている。", /*open_type*/5, /*dress_type*/3);
 INSERT INTO `dress_data` VALUES (/*id*/7055000, /*name*/"レイジング・ソウル", /*description*/"世界に声を響かせる少女たちの衣装。\n鮮烈な姿と激情の旋律を、彼女たちは\nその身にまとう。残酷な世界に、\n自分たちの存在を刻みつけるために。", /*open_type*/5, /*dress_type*/3);
+INSERT INTO `dress_data` VALUES (/*id*/7056000, /*name*/"しろくま♡", /*description*/"夏をテーマにした、かな子の衣装。\nしっかりした着ぐるみだが、中は意外と快適。\nしろくまの気分で夏も涼しく過ごせそう。\nデザインした者の想いがこもっている。", /*open_type*/3, /*dress_type*/3);

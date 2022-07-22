@@ -86,3 +86,4 @@ INSERT INTO `dress_target_2` VALUES (/*id*/7052000, /*target_chara_type*/0, /*ta
 INSERT INTO `dress_target_2` VALUES (/*id*/7053000, /*target_chara_type*/0, /*target_chara*/134);
 INSERT INTO `dress_target_2` VALUES (/*id*/7054000, /*target_chara_type*/0, /*target_chara*/"181,184,231,256");
 INSERT INTO `dress_target_2` VALUES (/*id*/7055000, /*target_chara_type*/0, /*target_chara*/"167,194,308");
+INSERT INTO `dress_target_2` VALUES (/*id*/7056000, /*target_chara_type*/0, /*target_chara*/108);
