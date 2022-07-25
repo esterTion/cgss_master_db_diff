@@ -2422,7 +2422,7 @@ INSERT INTO `text_data` VALUES (/*category*/35, /*index*/230, /*text*/"投票券
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/231, /*text*/"その他");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/232, /*text*/"7月25日 0:00～8月14日 23:59の期間中に\nログインすると、投票券を毎日1枚獲得できます。");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/233, /*text*/"[d33d98]{0}[-]セット / 最大[d33d98]{1}[-]セット");
-INSERT INTO `text_data` VALUES (/*category*/35, /*index*/234, /*text*/"1セットにつき{0}が{1}枚獲得できます。\n特設ページの「特別セット」から購入画面に移動できます。");
+INSERT INTO `text_data` VALUES (/*category*/35, /*index*/234, /*text*/"1セットにつき{0}が{1}枚獲得できます。\n特設ページの「応援セット」から購入画面に移動できます。");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/235, /*text*/"購入には有償スタージュエルが必要です");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/236, /*text*/"ログインボーナス");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/251, /*text*/"予選グループA投票告知");
