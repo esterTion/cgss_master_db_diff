@@ -11,4 +11,5 @@ INSERT INTO `external_campaign_reward` VALUES (/*id*/9, /*campaign_id*/80001, /*
 INSERT INTO `external_campaign_reward` VALUES (/*id*/10, /*campaign_id*/80001, /*rank*/10, /*reward_text*/"H賞：オリジナルビジネス\n手帳");
 INSERT INTO `external_campaign_reward` VALUES (/*id*/11, /*campaign_id*/80001, /*rank*/11, /*reward_text*/"I賞：オリジナル万年\n日めくりカレンダー");
 INSERT INTO `external_campaign_reward` VALUES (/*id*/12, /*campaign_id*/80001, /*rank*/12, /*reward_text*/"J賞：オリジナルデザインAmazon\nギフト券500円分");
+INSERT INTO `external_campaign_reward` VALUES (/*id*/13, /*campaign_id*/80002, /*rank*/1, /*reward_text*/"");
 CREATE INDEX 'external_campaign_reward_0_campaign_id_1_rank' on 'external_campaign_reward'('campaign_id','rank');

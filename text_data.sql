@@ -2329,12 +2329,12 @@ INSERT INTO `text_data` VALUES (/*category*/35, /*index*/26, /*text*/"投票履�
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/27, /*text*/"中間発表");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/28, /*text*/"全体順位");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/29, /*text*/"位");
-INSERT INTO `text_data` VALUES (/*category*/35, /*index*/30, /*text*/"【アイドルマスター シンデレラガールズ　スターライトステージ】で\nシンデレラガール総選挙開催中!!\n{0}に投票したよ!!\n#第10回シンデレラガール総選挙 #デレステ");
+INSERT INTO `text_data` VALUES (/*category*/35, /*index*/30, /*text*/"「Stage for Cinderella」予選グループAでこの5人に投票しました!!\n#StageforCinderella #SfC予選A #デレステ");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/31, /*text*/"アイドルに投票できます");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/32, /*text*/"期間外エラー");
-INSERT INTO `text_data` VALUES (/*category*/35, /*index*/33, /*text*/"Stage for Cinderellaの期間外です");
+INSERT INTO `text_data` VALUES (/*category*/35, /*index*/33, /*text*/"「Stage for Cinderella」予選グループA投票期間外です");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/34, /*text*/"期間外エラー");
-INSERT INTO `text_data` VALUES (/*category*/35, /*index*/35, /*text*/"Stage for Cinderellaの期間外です");
+INSERT INTO `text_data` VALUES (/*category*/35, /*index*/35, /*text*/"「Stage for Cinderella」予選グループA投票期間外です");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/36, /*text*/"タイプ別順位（{0}）");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/37, /*text*/"{0}が{1}に達していない場合投票できません");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/38, /*text*/"{1}{0}を解放していない場合投票できません");
@@ -2425,8 +2425,8 @@ INSERT INTO `text_data` VALUES (/*category*/35, /*index*/233, /*text*/"[d33d98]{
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/234, /*text*/"1セットにつき{0}が{1}枚獲得できます。\n特設ページの「特別セット」から購入画面に移動できます。");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/235, /*text*/"購入には有償スタージュエルが必要です");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/236, /*text*/"ログインボーナス");
-INSERT INTO `text_data` VALUES (/*category*/35, /*index*/251, /*text*/"投票最終日告知");
-INSERT INTO `text_data` VALUES (/*category*/35, /*index*/252, /*text*/"投票最終日になります。期間を過ぎると投票を行えません。");
+INSERT INTO `text_data` VALUES (/*category*/35, /*index*/251, /*text*/"予選グループA投票告知");
+INSERT INTO `text_data` VALUES (/*category*/35, /*index*/252, /*text*/"予選グループA投票期間中です。\n「特設ページ」から投票を行えます。");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/3, /*text*/"シンデレラシアター");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/4, /*text*/"シンデレラシアターを閲覧することができます");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/5, /*text*/"シンデレラシアター一覧");
@@ -4066,7 +4066,7 @@ INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1103, /*text*/"背景�
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1104, /*text*/"カード");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1105, /*text*/"2D");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1106, /*text*/"3D");
-INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1107, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1107, /*text*/"その他");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1150, /*text*/"対象の素材はありません");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1201, /*text*/"前へ");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1202, /*text*/"後へ");
@@ -4082,7 +4082,7 @@ INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1304, /*text*/"書き�
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1305, /*text*/"キャンバス保存");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1306, /*text*/"キャンバスを保存しました。");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1307, /*text*/"画像書き出し失敗");
-INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1401, /*text*/"フォトを作成したよ！ #デレステ #シンデレラフォト");
+INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1401, /*text*/"フォトを作成したよ！ #デレステ #シンデレラフォト #StageforCinderella #SfC予選A");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1402, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1411, /*text*/"SNSシェア");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1412, /*text*/"ブラウザを立ち上げてTwitterを開きます。\nピクチャの画像をアップロードして投稿することができます。");
