@@ -3523,7 +3523,7 @@ INSERT INTO `text_data` VALUES (/*category*/64, /*index*/37, /*text*/"他のプ�
 INSERT INTO `text_data` VALUES (/*category*/64, /*index*/38, /*text*/"受け取る");
 INSERT INTO `text_data` VALUES (/*category*/64, /*index*/39, /*text*/"同僚のみ受け取る");
 INSERT INTO `text_data` VALUES (/*category*/64, /*index*/40, /*text*/"受け取らない");
-INSERT INTO `text_data` VALUES (/*category*/64, /*index*/41, /*text*/"[FF7A7A]設定変更前のコメントには反映されません[-]");
+INSERT INTO `text_data` VALUES (/*category*/64, /*index*/41, /*text*/"[FF7A7A]設定変更前のコメントには反映されません。[-]");
 INSERT INTO `text_data` VALUES (/*category*/64, /*index*/42, /*text*/"コメント送信エラー");
 INSERT INTO `text_data` VALUES (/*category*/64, /*index*/43, /*text*/"相手がコメントを受け取らない設定のため、\nコメントは送れません");
 INSERT INTO `text_data` VALUES (/*category*/65, /*index*/1, /*text*/"キャンペーン");
