@@ -234,8 +234,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30002, /*img*/1, /*discription*/"ユニット確認画面では、右上のLIVE設定ボタンから\nリズムゲームプレイ中の設定をカスタマイズできます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30002, /*img*/1, /*discription*/"リズムアイコンの流れてくる速度や、ボイスの音量など、\nプレイしやすいように調整してみましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30003, /*img*/1, /*discription*/"難易度「MASTER+」は、楽曲選択画面でカテゴリタブを\n「MASTER+」に変更することでプレイできます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30003, /*img*/2, /*discription*/"「MASTER+」がプレイできる楽曲は、一定期間ごとに変化します。\n対象となる楽曲や期間は「詳細」ボタンから確認できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30003, /*img*/3, /*discription*/"「MASTER+」をプレイするには、専用の「EXTRA LIVEチケット」が必要です。\n「EXTRA LIVEチケット」はミッション達成やマニーショップなどで\n獲得することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30003, /*img*/3, /*discription*/"「MASTER+」をプレイするには、スタミナか専用の「EXTRA LIVEチケット」\nが必要です。\n「EXTRA LIVEチケット」はミッション達成やマニーショップなどで\n獲得することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30003, /*img*/3, /*discription*/"スタミナを使用して「MASTER+」をプレイすることで\n各種イベントを進行することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30003, /*img*/4, /*discription*/"難易度「MASTER+」には、新たなリズムアイコン\n「スライド」が出現することがあります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30003, /*img*/4, /*discription*/"リズムアイコンがラインに重なっている間、\nタップしつづけながら、帯の流れに合わせて\n指を左右にスライドしましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30004, /*img*/1, /*discription*/"「ぴにゃリクエスト」は選択できる楽曲の中から\nDJぴにゃが選んだ楽曲をプレイする機能です。");
@@ -515,7 +515,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/2, /*discription*/"全国各地で公演を行い、LIVEツアーを盛り上げましょう。\n公演目標を達成してLIVEをクリアすると、\n新しい公演が解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/3, /*discription*/"公演の目標が達成できるように、楽曲やユニットを選びましょう。\n公演によって消費スタミナやLIVEを行う曲数が異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/4, /*discription*/"公演を行うと、観客動員数が増加します。\n対象のエリアの観客動員数が一定値に到達すると、\n新しいエリアが解放されます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/4, /*discription*/"エリア2に到達すると、イベント楽曲のMASTER+の\n難易度が選曲可能となります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/4, /*discription*/"エリア2、3に到達すると、イベント楽曲のMASTER+の\n難易度が選曲可能となります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/5, /*discription*/"日替わりで切り替わる「流行曲」を含めて公演を行ったり、\nマニーを使用して「LIVEオプション」を設定すると、\nエリアの観客動員数がさらにアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/5, /*discription*/"また観客動員数の多いエリアで公演を行うと、\n獲得できるファン数がアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/6, /*discription*/"イベント限定営業、「LIVE PARTY!!」では、\nイベントptやLIVEオプションを獲得できます。\nLIVEオプションを使用すると、LIVEで獲得できる\n観客動員数がアップします。");

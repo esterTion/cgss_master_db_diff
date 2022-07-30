@@ -1533,3 +1533,9 @@ INSERT INTO `card_location` VALUES (/*index*/1547, /*text*/"南の島・ビー�
 INSERT INTO `card_location` VALUES (/*index*/1548, /*text*/"ビーチサイドのLIVEステージ");
 INSERT INTO `card_location` VALUES (/*index*/1549, /*text*/"キラキラのサマーLIVE");
 INSERT INTO `card_location` VALUES (/*index*/1550, /*text*/"熱い季節の中");
+INSERT INTO `card_location` VALUES (/*index*/1551, /*text*/"アメリカ・スタジアム前");
+INSERT INTO `card_location` VALUES (/*index*/1552, /*text*/"夜の球場・マウンド");
+INSERT INTO `card_location` VALUES (/*index*/1553, /*text*/"しーわーるど・水族館エリア");
+INSERT INTO `card_location` VALUES (/*index*/1554, /*text*/"冒険船のアトラクション");
+INSERT INTO `card_location` VALUES (/*index*/1555, /*text*/"しーわーるど・キッチン");
+INSERT INTO `card_location` VALUES (/*index*/1556, /*text*/"海底の撮影セット");
