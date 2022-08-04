@@ -550,3 +550,6 @@ INSERT INTO `latte_art_data` VALUES (/*id*/548, /*title*/"第548話", /*chara_li
 INSERT INTO `latte_art_data` VALUES (/*id*/549, /*title*/"第549話", /*chara_list*/"166,187,282", /*disp_order*/549, /*start_date*/"2022-07-22 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `latte_art_data` VALUES (/*id*/550, /*title*/"第550話", /*chara_list*/"247,236", /*disp_order*/550, /*start_date*/"2022-07-30 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `latte_art_data` VALUES (/*id*/551, /*title*/"第551話", /*chara_list*/"192,283,237,121,127,203", /*disp_order*/551, /*start_date*/"2022-07-30 15:00:00", /*end_date*/"2099-12-31 23:59:59");
+INSERT INTO `latte_art_data` VALUES (/*id*/552, /*title*/"第552話", /*chara_list*/"126,230,131", /*disp_order*/552, /*start_date*/"2022-08-04 15:00:00", /*end_date*/"2099-12-31 23:59:59");
+INSERT INTO `latte_art_data` VALUES (/*id*/553, /*title*/"第553話", /*chara_list*/"262,258,112", /*disp_order*/553, /*start_date*/"2022-08-04 15:00:00", /*end_date*/"2099-12-31 23:59:59");
+INSERT INTO `latte_art_data` VALUES (/*id*/554, /*title*/"第554話", /*chara_list*/"190,267,106,188,223,258,159", /*disp_order*/554, /*start_date*/"2022-08-04 15:00:00", /*end_date*/"2099-12-31 23:59:59");

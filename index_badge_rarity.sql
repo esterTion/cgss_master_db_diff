@@ -1,0 +1,1 @@
+CREATE TABLE 'index_badge_rarity' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'rarity' TEXT NOT NULL, 'disp_order' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'));

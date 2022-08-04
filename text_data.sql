@@ -2195,6 +2195,7 @@ INSERT INTO `text_data` VALUES (/*category*/28, /*index*/124, /*text*/"完了し
 INSERT INTO `text_data` VALUES (/*category*/28, /*index*/125, /*text*/"営業時間短縮で消費するスタミナを選択してください");
 INSERT INTO `text_data` VALUES (/*category*/28, /*index*/126, /*text*/"未選択");
 INSERT INTO `text_data` VALUES (/*category*/28, /*index*/127, /*text*/"[2D2D2D]{0}pt[-]");
+INSERT INTO `text_data` VALUES (/*category*/28, /*index*/128, /*text*/"まとめて確認");
 INSERT INTO `text_data` VALUES (/*category*/29, /*index*/1, /*text*/"ノーマル");
 INSERT INTO `text_data` VALUES (/*category*/29, /*index*/2, /*text*/"アナザー");
 INSERT INTO `text_data` VALUES (/*category*/29, /*index*/3, /*text*/"スケジュール");
@@ -3991,6 +3992,13 @@ INSERT INTO `text_data` VALUES (/*category*/76, /*index*/114, /*text*/"アイド
 INSERT INTO `text_data` VALUES (/*category*/76, /*index*/115, /*text*/"選択したアイドルのマイスタイルアイドルを\n既に所持しています。\n\n本当にこのアイドルを獲得しますか？");
 INSERT INTO `text_data` VALUES (/*category*/76, /*index*/116, /*text*/"アイドル獲得確認");
 INSERT INTO `text_data` VALUES (/*category*/76, /*index*/117, /*text*/"イベントを進行するアイドルを選択してください。");
+INSERT INTO `text_data` VALUES (/*category*/76, /*index*/118, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/76, /*index*/119, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/76, /*index*/120, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/76, /*index*/121, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/76, /*index*/122, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/76, /*index*/123, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/76, /*index*/124, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1, /*text*/"キャンセル");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/2, /*text*/"削除する");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/3, /*text*/"複製する");
@@ -4119,6 +4127,8 @@ INSERT INTO `text_data` VALUES (/*category*/78, /*index*/21, /*text*/"特技な�
 INSERT INTO `text_data` VALUES (/*category*/78, /*index*/22, /*text*/"見た目変更");
 INSERT INTO `text_data` VALUES (/*category*/78, /*index*/23, /*text*/"変更する");
 INSERT INTO `text_data` VALUES (/*category*/78, /*index*/24, /*text*/"使用する");
+INSERT INTO `text_data` VALUES (/*category*/78, /*index*/25, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/78, /*index*/26, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/80, /*index*/1, /*text*/"機能説明");
 INSERT INTO `text_data` VALUES (/*category*/81, /*index*/10001, /*text*/"エラー");
 INSERT INTO `text_data` VALUES (/*category*/81, /*index*/10002, /*text*/"エラーが発生しました。タイトルに遷移します。");
