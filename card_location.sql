@@ -1544,3 +1544,6 @@ INSERT INTO `card_location` VALUES (/*index*/1558, /*text*/"鹿児島・離島�
 INSERT INTO `card_location` VALUES (/*index*/1559, /*text*/"ラグジュアリーホテル");
 INSERT INTO `card_location` VALUES (/*index*/1560, /*text*/"ビーチ・撮影前");
 INSERT INTO `card_location` VALUES (/*index*/1561, /*text*/"夕暮れ時の水上コテージ");
+INSERT INTO `card_location` VALUES (/*index*/1562, /*text*/"クルージングレストラン");
+INSERT INTO `card_location` VALUES (/*index*/1563, /*text*/"南国のプライベートビーチ");
+INSERT INTO `card_location` VALUES (/*index*/1564, /*text*/"海沿いのプロムナード");
