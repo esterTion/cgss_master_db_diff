@@ -193,8 +193,8 @@ INSERT INTO `text_data` VALUES (/*category*/7, /*index*/45, /*text*/"新たな�
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/46, /*text*/"[D33D98]{0}[-]pt達成 ! ");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/47, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/48, /*text*/"<color=#2D2D2DFF>{0}</color>");
-INSERT INTO `text_data` VALUES (/*category*/7, /*index*/49, /*text*/"{0}×[D33D98]{1}[-]{2}");
-INSERT INTO `text_data` VALUES (/*category*/7, /*index*/50, /*text*/"{0}×<color=#D33D98FF>{1}</color>{2}");
+INSERT INTO `text_data` VALUES (/*category*/7, /*index*/49, /*text*/"{0} [D33D98]{1}[-]{2}");
+INSERT INTO `text_data` VALUES (/*category*/7, /*index*/50, /*text*/"{0} <color=#D33D98FF>{1}</color>{2}");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/51, /*text*/"[D33D98]{0}[-]マニー");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/52, /*text*/"<color=#D33D98FF>{0}</color><color=#2D2D2DFF>マニー</color>");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/53, /*text*/"[FFFFFF]スタージュエル[-] [D33D98]{0}[-][FFFFFF]個[-]");
@@ -215,7 +215,7 @@ INSERT INTO `text_data` VALUES (/*category*/7, /*index*/67, /*text*/"イベン�
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/68, /*text*/"TOP");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/69, /*text*/"全てのイベントpt報酬を\n獲得済みです");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/70, /*text*/"\nスターランク {0}");
-INSERT INTO `text_data` VALUES (/*category*/7, /*index*/71, /*text*/"{0} × [c][D33D98]{1}[-][/c]{2}");
+INSERT INTO `text_data` VALUES (/*category*/7, /*index*/71, /*text*/"{0} [c][D33D98]{1}[-][/c]{2}");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/72, /*text*/"結果発表");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/73, /*text*/"イベントに参加していないため\nコミュは解放されていません");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/74, /*text*/"イベント終了後に先行プレイできます");
@@ -426,7 +426,7 @@ INSERT INTO `text_data` VALUES (/*category*/11, /*index*/2, /*text*/"アイド�
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/3, /*text*/"アイテム");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/4, /*text*/"{0}枚");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/5, /*text*/"[D33D98]初回サービス中![-]");
-INSERT INTO `text_data` VALUES (/*category*/11, /*index*/6, /*text*/"{0}×[D33D98]{1}[-]{2}");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/6, /*text*/"{0} [D33D98]{1}[-]{2}");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/7, /*text*/"個");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/8, /*text*/"[FF7A7A]あと{0}回交換可能[-]");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/9, /*text*/"[FF7A7A]あと{0}回スカウト可能[-]");
@@ -438,7 +438,7 @@ INSERT INTO `text_data` VALUES (/*category*/11, /*index*/14, /*text*/"キャラ�
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/15, /*text*/"{0}メダル交換");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/16, /*text*/"{0}メダルを{1}枚使用して\n");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/17, /*text*/"以下のアイテムを交換しますか？");
-INSERT INTO `text_data` VALUES (/*category*/11, /*index*/18, /*text*/"×[D33D98]{0}[-]人");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/18, /*text*/" [D33D98]{0}[-]人");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/19, /*text*/"交換結果");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/20, /*text*/"以下のアイテムを交換しました。");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/21, /*text*/"以下のアイドルをスカウトしました。");
@@ -491,8 +491,8 @@ INSERT INTO `text_data` VALUES (/*category*/11, /*index*/67, /*text*/"[E13939]{0
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/68, /*text*/"イベントコミュ解放");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/69, /*text*/"新たなイベントコミュが解放されました");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/70, /*text*/"<color=#2D2D2FFD>{0}</color>");
-INSERT INTO `text_data` VALUES (/*category*/11, /*index*/71, /*text*/"{0}×[D33D98]{1}[-]{2}");
-INSERT INTO `text_data` VALUES (/*category*/11, /*index*/72, /*text*/"{0}×<color=#D33D98FF>{1}</color>{2}");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/71, /*text*/"{0} [D33D98]{1}[-]{2}");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/72, /*text*/"{0} <color=#D33D98FF>{1}</color>{2}");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/73, /*text*/"[D33D98]{0}[-]マニー");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/74, /*text*/"<color=#D33D98FF>{0}</color><color=#2D2D2DFF>マニー</color>");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/75, /*text*/"[FFFFFF]スタージュエル[-] [D33D98]{0}[-][FFFFFF]個[-]");
@@ -621,7 +621,7 @@ INSERT INTO `text_data` VALUES (/*category*/12, /*index*/96, /*text*/"名称・�
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/97, /*text*/"出現確率");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/98, /*text*/"プライズガシャ詳細");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/99, /*text*/"コイン交換所");
-INSERT INTO `text_data` VALUES (/*category*/12, /*index*/100, /*text*/"{0}×[D33D98]{1}[-]{2}");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/100, /*text*/"{0} [D33D98]{1}[-]{2}");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/101, /*text*/"プライズ結果");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/102, /*text*/"プライズごとに表示している提供割合は、表示上小数第4位にて切り捨てしているため\n全てを合算しても100%にならない場合があります。");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/103, /*text*/"各提供割合は、以下のタブをご覧ください。\n・「1回引く」および、10連ガシャの1～9個目は、「{0}」\n・10連ガシャの10個目は、「{1}」");
@@ -1522,8 +1522,8 @@ INSERT INTO `text_data` VALUES (/*category*/17, /*index*/88, /*text*/"イベン�
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/89, /*text*/"解放していません");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/90, /*text*/"イベント");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/91, /*text*/"次の報酬はありません");
-INSERT INTO `text_data` VALUES (/*category*/17, /*index*/92, /*text*/"{0}×[D33D98]{1}[-]{2}");
-INSERT INTO `text_data` VALUES (/*category*/17, /*index*/93, /*text*/"{0}×<color=#D33D98FF>{1}</color>{2}");
+INSERT INTO `text_data` VALUES (/*category*/17, /*index*/92, /*text*/"{0} [D33D98]{1}[-]{2}");
+INSERT INTO `text_data` VALUES (/*category*/17, /*index*/93, /*text*/"{0} <color=#D33D98FF>{1}</color>{2}");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/94, /*text*/"[D33D98]{0}[-]マニー");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/95, /*text*/"<color=#D33D98FF>{0}</color><color=#2D2D2DFF>マニー</color>");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/96, /*text*/"[FFFFFF]スタージュエル[-] [D33D98]{0}[-][FFFFFF]個[-]");
@@ -1744,7 +1744,7 @@ INSERT INTO `text_data` VALUES (/*category*/23, /*index*/2, /*text*/"アイド�
 INSERT INTO `text_data` VALUES (/*category*/23, /*index*/3, /*text*/"アイテム");
 INSERT INTO `text_data` VALUES (/*category*/23, /*index*/4, /*text*/"{0}個");
 INSERT INTO `text_data` VALUES (/*category*/23, /*index*/5, /*text*/"[D33D98]初回サービス中![-]");
-INSERT INTO `text_data` VALUES (/*category*/23, /*index*/6, /*text*/"{0}×[D33D98]{1}[-]{2}");
+INSERT INTO `text_data` VALUES (/*category*/23, /*index*/6, /*text*/"{0} [D33D98]{1}[-]{2}");
 INSERT INTO `text_data` VALUES (/*category*/23, /*index*/7, /*text*/"個");
 INSERT INTO `text_data` VALUES (/*category*/23, /*index*/8, /*text*/"[FF7A7A]あと{0}回交換可能[-]");
 INSERT INTO `text_data` VALUES (/*category*/23, /*index*/9, /*text*/"[FF7A7A]あと{0}回スカウト可能[-]");
@@ -1756,7 +1756,7 @@ INSERT INTO `text_data` VALUES (/*category*/23, /*index*/14, /*text*/"パーテ�
 INSERT INTO `text_data` VALUES (/*category*/23, /*index*/15, /*text*/"スターエンブレム交換");
 INSERT INTO `text_data` VALUES (/*category*/23, /*index*/16, /*text*/"スターエンブレムを{0}個使用して\n");
 INSERT INTO `text_data` VALUES (/*category*/23, /*index*/17, /*text*/"以下のアイテムを交換しますか？");
-INSERT INTO `text_data` VALUES (/*category*/23, /*index*/18, /*text*/"×[D33D98]{0}[-]人");
+INSERT INTO `text_data` VALUES (/*category*/23, /*index*/18, /*text*/" [D33D98]{0}[-]人");
 INSERT INTO `text_data` VALUES (/*category*/23, /*index*/19, /*text*/"交換結果");
 INSERT INTO `text_data` VALUES (/*category*/23, /*index*/20, /*text*/"以下のアイテムを交換しました。");
 INSERT INTO `text_data` VALUES (/*category*/23, /*index*/21, /*text*/"以下のアイドルをスカウトしました。");
@@ -3150,7 +3150,7 @@ INSERT INTO `text_data` VALUES (/*category*/54, /*index*/2, /*text*/"正常に�
 INSERT INTO `text_data` VALUES (/*category*/55, /*index*/1, /*text*/"アイテムセット");
 INSERT INTO `text_data` VALUES (/*category*/55, /*index*/2, /*text*/"アイテム\nセット");
 INSERT INTO `text_data` VALUES (/*category*/55, /*index*/3, /*text*/"セット内容");
-INSERT INTO `text_data` VALUES (/*category*/55, /*index*/4, /*text*/"{0}×[D33D98]{1}[-]{2}");
+INSERT INTO `text_data` VALUES (/*category*/55, /*index*/4, /*text*/"{0} [D33D98]{1}[-]{2}");
 INSERT INTO `text_data` VALUES (/*category*/56, /*index*/1, /*text*/"必要ゲームメダル");
 INSERT INTO `text_data` VALUES (/*category*/56, /*index*/2, /*text*/"挑戦する");
 INSERT INTO `text_data` VALUES (/*category*/56, /*index*/3, /*text*/"ミニゲームTOP");
@@ -3636,7 +3636,7 @@ INSERT INTO `text_data` VALUES (/*category*/66, /*index*/58, /*text*/"方針変�
 INSERT INTO `text_data` VALUES (/*category*/66, /*index*/59, /*text*/"[3DA1FF]{0}[-]");
 INSERT INTO `text_data` VALUES (/*category*/66, /*index*/60, /*text*/"発動しているプロデュース方針はありません");
 INSERT INTO `text_data` VALUES (/*category*/66, /*index*/61, /*text*/"方針変更書を保持していません");
-INSERT INTO `text_data` VALUES (/*category*/66, /*index*/62, /*text*/"{0}×[D64498FF]{1}[-]個");
+INSERT INTO `text_data` VALUES (/*category*/66, /*index*/62, /*text*/"{0} [D64498FF]{1}[-]個");
 INSERT INTO `text_data` VALUES (/*category*/66, /*index*/63, /*text*/"プロデュース方針変更へ");
 INSERT INTO `text_data` VALUES (/*category*/66, /*index*/64, /*text*/"有償スタージュエルが不足しています");
 INSERT INTO `text_data` VALUES (/*category*/66, /*index*/65, /*text*/"方針変更書購入確認");
@@ -3889,7 +3889,7 @@ INSERT INTO `text_data` VALUES (/*category*/76, /*index*/11, /*text*/"アイド�
 INSERT INTO `text_data` VALUES (/*category*/76, /*index*/12, /*text*/"次の報酬");
 INSERT INTO `text_data` VALUES (/*category*/76, /*index*/13, /*text*/"次の報酬はありません");
 INSERT INTO `text_data` VALUES (/*category*/76, /*index*/14, /*text*/"次の報酬まで[c][d33d98]{0}[-][/c]pt");
-INSERT INTO `text_data` VALUES (/*category*/76, /*index*/15, /*text*/"{0}×[D33D98]{1}[-]{2}");
+INSERT INTO `text_data` VALUES (/*category*/76, /*index*/15, /*text*/"{0} [D33D98]{1}[-]{2}");
 INSERT INTO `text_data` VALUES (/*category*/76, /*index*/16, /*text*/"[D33D98]{0}[-]マニー");
 INSERT INTO `text_data` VALUES (/*category*/76, /*index*/17, /*text*/"[FFFFFF]スタージュエル[-] [D33D98]{0}[-][FFFFFF]個[-]");
 INSERT INTO `text_data` VALUES (/*category*/76, /*index*/18, /*text*/"[D33D98]{0}[-]友情pt");
@@ -3957,7 +3957,7 @@ INSERT INTO `text_data` VALUES (/*category*/76, /*index*/79, /*text*/"<color=#3D
 INSERT INTO `text_data` VALUES (/*category*/76, /*index*/80, /*text*/"イベントを開始していません");
 INSERT INTO `text_data` VALUES (/*category*/76, /*index*/81, /*text*/"フロア解放");
 INSERT INTO `text_data` VALUES (/*category*/76, /*index*/82, /*text*/"フロア新規解放\n「{0}」を解放");
-INSERT INTO `text_data` VALUES (/*category*/76, /*index*/83, /*text*/"マイスタイルアイドルの選択枠 × {0}");
+INSERT INTO `text_data` VALUES (/*category*/76, /*index*/83, /*text*/"マイスタイルアイドルの選択枠[c][3da1fe]+{0}[-][/c]");
 INSERT INTO `text_data` VALUES (/*category*/76, /*index*/84, /*text*/"<color=#D33D98FF>{0}</color>");
 INSERT INTO `text_data` VALUES (/*category*/76, /*index*/85, /*text*/"イベント開催中");
 INSERT INTO `text_data` VALUES (/*category*/76, /*index*/86, /*text*/"イベント「{0}」開催中です ! \nイベントのページで詳細を確認しましょう ! ");
@@ -4127,8 +4127,8 @@ INSERT INTO `text_data` VALUES (/*category*/78, /*index*/21, /*text*/"特技な�
 INSERT INTO `text_data` VALUES (/*category*/78, /*index*/22, /*text*/"見た目変更");
 INSERT INTO `text_data` VALUES (/*category*/78, /*index*/23, /*text*/"変更する");
 INSERT INTO `text_data` VALUES (/*category*/78, /*index*/24, /*text*/"使用する");
-INSERT INTO `text_data` VALUES (/*category*/78, /*index*/25, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/78, /*index*/26, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/78, /*index*/25, /*text*/"絞り込み");
+INSERT INTO `text_data` VALUES (/*category*/78, /*index*/26, /*text*/"対象のアイテムがありません");
 INSERT INTO `text_data` VALUES (/*category*/80, /*index*/1, /*text*/"機能説明");
 INSERT INTO `text_data` VALUES (/*category*/81, /*index*/10001, /*text*/"エラー");
 INSERT INTO `text_data` VALUES (/*category*/81, /*index*/10002, /*text*/"エラーが発生しました。タイトルに遷移します。");
