@@ -1,0 +1,4 @@
+CREATE TABLE 'reliance_mission' ('id' INTEGER NOT NULL, 'campaign_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'mission_id' INTEGER NOT NULL, 'discription' TEXT NOT NULL, 'discription_detail' TEXT NOT NULL, 'disp_order' INTEGER NOT NULL, 'step_group_id' INTEGER NOT NULL, 'step_order' INTEGER NOT NULL, 'condition_type' INTEGER NOT NULL, 'condition_value_1' INTEGER NOT NULL, 'condition_value_2' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_num' INTEGER NOT NULL, 'add_value_1' INTEGER NOT NULL, 'add_value_2' INTEGER NOT NULL, 'add_value_3' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'));
+CREATE INDEX 'reliance_mission_0_campaign_id' on 'reliance_mission'('campaign_id');
+CREATE INDEX 'reliance_mission_0_campaign_id_1_mission_id' on 'reliance_mission'('campaign_id','mission_id');
+CREATE INDEX 'reliance_mission_0_mission_id' on 'reliance_mission'('mission_id');

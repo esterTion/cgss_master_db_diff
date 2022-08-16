@@ -124,6 +124,7 @@ INSERT INTO `gift_message` VALUES (/*id*/1040, /*discription*/"イベント「{0
 INSERT INTO `gift_message` VALUES (/*id*/1041, /*discription*/"イベント「{0}」{1}アイドルpt達成で加入したアイドルです。", /*type_1*/19, /*type_2*/20, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1042, /*discription*/"イベント「{0}」フロア課題クリアで加入したアイドルです。", /*type_1*/19, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1043, /*discription*/"イベント「{0}」フロア課題クリア報酬です。", /*type_1*/19, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/1044, /*discription*/"過去の「LIVE Infinity」にて条件を達成したイベント称号です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1999, /*discription*/"協力LIVE βテスト {0}イベントpt達成報酬です。", /*type_1*/20, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2001, /*discription*/"デイリーミッション「{0}」で獲得した報酬です。", /*type_1*/25, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2002, /*discription*/"デイリーミッション「{0}」で加入したアイドルです。", /*type_1*/25, /*type_2*/0, /*type_3*/0, /*type_4*/0);

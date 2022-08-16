@@ -1,0 +1,1 @@
+CREATE TABLE 'dress_up_motif_data' ('id' INTEGER NOT NULL, 'dress_id' INTEGER NOT NULL, 'chara_id' INTEGER NOT NULL, 'parts_category' INTEGER NOT NULL, 'parts_id' INTEGER NOT NULL, PRIMARY KEY('id'));

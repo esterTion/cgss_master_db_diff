@@ -1,0 +1,3 @@
+CREATE TABLE 'reliance_card_list' ('id' INTEGER NOT NULL, 'campaign_id' INTEGER NOT NULL, 'card_id' INTEGER NOT NULL, 'chara_id' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_value' INTEGER NOT NULL, 'add_value_1' INTEGER NOT NULL, 'add_value_2' INTEGER NOT NULL, 'add_value_3' INTEGER NOT NULL, 'message_id' INTEGER NOT NULL, 'achieved_id' INTEGER NOT NULL, 'achieved_message_id' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE INDEX 'reliance_card_list_0_campaign_id' on 'reliance_card_list'('campaign_id');
+CREATE INDEX 'reliance_card_list_0_campaign_id_1_chara_id' on 'reliance_card_list'('campaign_id','chara_id');
