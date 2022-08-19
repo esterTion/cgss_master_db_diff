@@ -1,2 +1,13 @@
 CREATE TABLE 'asset_policy_setting' ('id' INTEGER NOT NULL, 'asset_name' TEXT NOT NULL, 'release_date' TEXT NOT NULL, PRIMARY KEY('id'));
-INSERT INTO `asset_policy_setting` VALUES (/*id*/1, /*asset_name*/"v/event_announce_8002.acb", /*release_date*/"2022-02-13 14:59");
+INSERT INTO `asset_policy_setting` VALUES (/*id*/1, /*asset_name*/"m/AnivCount/007/movie_0001.usm", /*release_date*/"2022-08-21 23:59");
+INSERT INTO `asset_policy_setting` VALUES (/*id*/2, /*asset_name*/"m/AnivCount/007/movie_0001_alt.usm", /*release_date*/"2022-08-21 23:59");
+INSERT INTO `asset_policy_setting` VALUES (/*id*/3, /*asset_name*/"m/AnivCount/007/movie_0002.usm", /*release_date*/"2022-08-21 23:59");
+INSERT INTO `asset_policy_setting` VALUES (/*id*/4, /*asset_name*/"m/AnivCount/007/movie_0002_alt.usm", /*release_date*/"2022-08-21 23:59");
+INSERT INTO `asset_policy_setting` VALUES (/*id*/5, /*asset_name*/"m/AnivCount/007/movie_0003.usm", /*release_date*/"2022-08-21 23:59");
+INSERT INTO `asset_policy_setting` VALUES (/*id*/6, /*asset_name*/"m/AnivCount/007/movie_0003_alt.usm", /*release_date*/"2022-08-21 23:59");
+INSERT INTO `asset_policy_setting` VALUES (/*id*/7, /*asset_name*/"m/AnivCount/007/movie_0004.usm", /*release_date*/"2022-08-22 23:59");
+INSERT INTO `asset_policy_setting` VALUES (/*id*/8, /*asset_name*/"m/AnivCount/007/movie_0004_alt.usm", /*release_date*/"2022-08-22 23:59");
+INSERT INTO `asset_policy_setting` VALUES (/*id*/9, /*asset_name*/"m/AnivCount/007/movie_0005.usm", /*release_date*/"2022-08-22 23:59");
+INSERT INTO `asset_policy_setting` VALUES (/*id*/10, /*asset_name*/"m/AnivCount/007/movie_0005_alt.usm", /*release_date*/"2022-08-22 23:59");
+INSERT INTO `asset_policy_setting` VALUES (/*id*/11, /*asset_name*/"m/AnivCount/007/movie_0006.usm", /*release_date*/"2022-08-22 23:59");
+INSERT INTO `asset_policy_setting` VALUES (/*id*/12, /*asset_name*/"m/AnivCount/007/movie_0006_alt.usm", /*release_date*/"2022-08-22 23:59");

@@ -260,3 +260,10 @@ INSERT INTO `gift_message` VALUES (/*id*/20077, /*discription*/"「ゆくM@S く
 INSERT INTO `gift_message` VALUES (/*id*/20078, /*discription*/"「バンナムフェス2nd開催記念キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20079, /*discription*/"「新総選挙 Stage for Cinderella 組分け抽選会」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20080, /*discription*/"「アイドルマスター17周年生配信～17th Anniversary P@rty!!!!!～」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20081, /*discription*/"「祝7周年 ! プラチナチャンス」のミッション達成数{0}で獲得した報酬です。", /*type_1*/90, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20082, /*discription*/"「7周年記念!!カウントダウンログインボーナス」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20083, /*discription*/"「祝7周年 ! プラチナチャンス」{0}等当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20084, /*discription*/"「祝7周年 ! プラチナチャンス」{0}等A賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20085, /*discription*/"「祝7周年 ! プラチナチャンス」{0}等B賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20086, /*discription*/"「祝7周年 ! プラチナチャンス」{0}等C賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20087, /*discription*/"「祝7周年 ! プラチナチャンス」特別賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);

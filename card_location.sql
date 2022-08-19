@@ -1550,3 +1550,6 @@ INSERT INTO `card_location` VALUES (/*index*/1564, /*text*/"海沿いのプロ�
 INSERT INTO `card_location` VALUES (/*index*/1565, /*text*/"真奈美の車");
 INSERT INTO `card_location` VALUES (/*index*/1566, /*text*/"雨のロンドン・ホテルの前");
 INSERT INTO `card_location` VALUES (/*index*/1567, /*text*/"お屋敷・書斎");
+INSERT INTO `card_location` VALUES (/*index*/1568, /*text*/"屋敷の一室");
+INSERT INTO `card_location` VALUES (/*index*/1569, /*text*/"夏祭りの神社");
+INSERT INTO `card_location` VALUES (/*index*/1570, /*text*/"夜中の参道");

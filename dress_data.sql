@@ -26,6 +26,7 @@ INSERT INTO `dress_data` VALUES (/*id*/26, /*name*/"レインボー・カラー�
 INSERT INTO `dress_data` VALUES (/*id*/27, /*name*/"MV登場衣装2", /*description*/"ストリートランウェイMV登場衣装", /*open_type*/99, /*dress_type*/0, /*closet_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/30, /*name*/"MV登場衣装3", /*description*/"チカラ ! イズ ! ぱわー ! MV登場衣装", /*open_type*/99, /*dress_type*/0, /*closet_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/31, /*name*/"MV登場衣装4", /*description*/"チカラ ! イズ ! ぱわー ! MV登場衣装", /*open_type*/99, /*dress_type*/0, /*closet_type*/0);
+INSERT INTO `dress_data` VALUES (/*id*/34, /*name*/"MV登場衣装5", /*description*/"廻談詣り MV登場衣装", /*open_type*/99, /*dress_type*/0, /*closet_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/100, /*name*/"SSレア衣装", /*description*/"", /*open_type*/1, /*dress_type*/1, /*closet_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/201, /*name*/"Sレア衣装", /*description*/"", /*open_type*/0, /*dress_type*/3, /*closet_type*/0);
 INSERT INTO `dress_data` VALUES (/*id*/202, /*name*/"レア衣装", /*description*/"", /*open_type*/0, /*dress_type*/3, /*closet_type*/0);
