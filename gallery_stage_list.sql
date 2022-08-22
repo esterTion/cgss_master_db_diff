@@ -61,3 +61,6 @@ INSERT INTO `gallery_stage_list` VALUES (/*id*/64, /*disp_order*/56, /*disp_name
 INSERT INTO `gallery_stage_list` VALUES (/*id*/65, /*disp_order*/57, /*disp_name*/"ステージ With Love①", /*bg_id*/4027, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360, /*location_no*/1);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/66, /*disp_order*/58, /*disp_name*/"ステージ With Love②", /*bg_id*/4027, /*bg_type*/1, /*left_degree*/50, /*right_degree*/50, /*location_no*/2);
 INSERT INTO `gallery_stage_list` VALUES (/*id*/67, /*disp_order*/59, /*disp_name*/"ステージ 双翼の独奏歌", /*bg_id*/2005, /*bg_type*/1, /*left_degree*/360, /*right_degree*/360, /*location_no*/0);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/68, /*disp_order*/60, /*disp_name*/"ステージ ラビューダ♡トライアングル①", /*bg_id*/1033, /*bg_type*/1, /*left_degree*/90, /*right_degree*/90, /*location_no*/1);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/69, /*disp_order*/61, /*disp_name*/"ステージ ラビューダ♡トライアングル②", /*bg_id*/1033, /*bg_type*/1, /*left_degree*/60, /*right_degree*/60, /*location_no*/2);
+INSERT INTO `gallery_stage_list` VALUES (/*id*/70, /*disp_order*/62, /*disp_name*/"ステージ ラビューダ♡トライアングル③", /*bg_id*/1033, /*bg_type*/1, /*left_degree*/80, /*right_degree*/80, /*location_no*/3);
