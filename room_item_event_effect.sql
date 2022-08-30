@@ -6,3 +6,4 @@ INSERT INTO `room_item_event_effect` VALUES (/*event_id*/7007, /*room_item_ids*/
 INSERT INTO `room_item_event_effect` VALUES (/*event_id*/7008, /*room_item_ids*/4664);
 INSERT INTO `room_item_event_effect` VALUES (/*event_id*/7009, /*room_item_ids*/4826);
 INSERT INTO `room_item_event_effect` VALUES (/*event_id*/7010, /*room_item_ids*/5104);
+INSERT INTO `room_item_event_effect` VALUES (/*event_id*/7011, /*room_item_ids*/5284);

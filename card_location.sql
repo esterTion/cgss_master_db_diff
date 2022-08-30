@@ -1555,3 +1555,10 @@ INSERT INTO `card_location` VALUES (/*index*/1569, /*text*/"夏祭りの神社")
 INSERT INTO `card_location` VALUES (/*index*/1570, /*text*/"夜中の参道");
 INSERT INTO `card_location` VALUES (/*index*/1571, /*text*/"早朝・住宅街");
 INSERT INTO `card_location` VALUES (/*index*/1572, /*text*/"屋内アスレチックプール");
+INSERT INTO `card_location` VALUES (/*index*/1573, /*text*/"光射す病室");
+INSERT INTO `card_location` VALUES (/*index*/1574, /*text*/"血濡れたエレベーター");
+INSERT INTO `card_location` VALUES (/*index*/1575, /*text*/"放課後の美術室");
+INSERT INTO `card_location` VALUES (/*index*/1576, /*text*/"朽ちかけの騎士を捧げる古城");
+INSERT INTO `card_location` VALUES (/*index*/1577, /*text*/"にぎやかな街・動画撮影中");
+INSERT INTO `card_location` VALUES (/*index*/1578, /*text*/"流行の中心地");
+INSERT INTO `card_location` VALUES (/*index*/1579, /*text*/"憧れのブティック・試着中");

@@ -81,4 +81,5 @@ INSERT INTO `onetime_story` VALUES (/*id*/84, /*name*/"Live Before ～10th ANNIV
 INSERT INTO `onetime_story` VALUES (/*id*/85, /*name*/"エイプリルフール2022", /*story_id*/5783, /*transition*/3610, /*page_index*/0, /*start_date*/"2022-04-01 00:00:00", /*end_date*/"2022-04-01 23:59:59", /*play_order*/761, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/86, /*name*/"Live Before ～10th ANNIVERSARY M@GICAL WONDERLAND!!!編～", /*story_id*/5812, /*transition*/6, /*page_index*/0, /*start_date*/"2022-03-28 15:00:00", /*end_date*/"2022-04-02 15:59:59", /*play_order*/762, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/87, /*name*/"ももいろクローバーZコラボ企画", /*story_id*/5839, /*transition*/0, /*page_index*/0, /*start_date*/"2022-04-29 15:00:00", /*end_date*/"2022-05-12 14:59:59", /*play_order*/763, /*notice_type*/2);
+INSERT INTO `onetime_story` VALUES (/*id*/88, /*name*/"Live Before ～LIKE4LIVE #cg_ootd 編～", /*story_id*/6011, /*transition*/6, /*page_index*/0, /*start_date*/"2022-08-31 15:00:00", /*end_date*/"2022-09-03 15:59:59", /*play_order*/764, /*notice_type*/2);
 CREATE INDEX 'onetime_story_0_story_id' on 'onetime_story'('story_id');

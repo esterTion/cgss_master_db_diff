@@ -170,7 +170,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/"ルームアイテムの並べ替えを行うことができます。\n「追加順」、「必要面積順」など並べ替え条件を選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーは\n倉庫収納数から除外されます。\n収納していても、収納数にカウントされません。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"「運動会」をテーマにしたアイテムとコーデを追加 !\n赤組も白組も頑張ってください !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"楽曲「MOTTO ! 」の公開を記念して、\n「衣装スタンド/メイク・マイ・トレンド」をルームショップに追加しました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「七夕」をテーマにしたアイテムとコーデが登場 !\n満天の星が輝く夜空を楽しみましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
@@ -235,8 +235,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30002, /*img*/1, /*discription*/"ユニット確認画面では、右上のLIVE設定ボタンから\nリズムゲームプレイ中の設定をカスタマイズできます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30002, /*img*/1, /*discription*/"リズムアイコンの流れてくる速度や、ボイスの音量など、\nプレイしやすいように調整してみましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30003, /*img*/1, /*discription*/"難易度「MASTER+」は、楽曲選択画面でカテゴリタブを\n「MASTER+」に変更することでプレイできます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30003, /*img*/3, /*discription*/"「MASTER+」をプレイするには、スタミナか専用の「EXTRA LIVEチケット」\nが必要です。\n「EXTRA LIVEチケット」はミッション達成やマニーショップなどで\n獲得することができます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30003, /*img*/3, /*discription*/"スタミナを使用して「MASTER+」をプレイすることで\n各種イベントを進行することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30003, /*img*/2, /*discription*/"「MASTER+」がプレイできる楽曲は、一定期間ごとに変化します。\n対象となる楽曲や期間は「詳細」ボタンから確認できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30003, /*img*/3, /*discription*/"「MASTER+」をプレイするには、専用の「EXTRA LIVEチケット」が必要です。\n「EXTRA LIVEチケット」はミッション達成やマニーショップなどで\n獲得することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30003, /*img*/4, /*discription*/"難易度「MASTER+」には、新たなリズムアイコン\n「スライド」が出現することがあります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30003, /*img*/4, /*discription*/"リズムアイコンがラインに重なっている間、\nタップしつづけながら、帯の流れに合わせて\n指を左右にスライドしましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30004, /*img*/1, /*discription*/"「ぴにゃリクエスト」は選択できる楽曲の中から\nDJぴにゃが選んだ楽曲をプレイする機能です。");
@@ -324,7 +324,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40007, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40008, /*img*/1, /*discription*/"レッスンパートナーは最大250人まで選択でき、\n一度にレッスンできます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40008, /*img*/2, /*discription*/"一度のレッスンで特技Lvを複数上昇させることができます");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40008, /*img*/3, /*discription*/"おすすめ選択では、特技Lvを条件にして\n自動的にパートナー選択ができます。\n※選択されたパートナーの内容は必ずご確認ください");
-INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/1, /*discription*/"最大27ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/3, /*discription*/"お気に入りのアイドルを編成することができます。\nお気に入りのアイドルはホームとルームに登場します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/4, /*discription*/"特訓後のアイドルは、特訓前の状態にすることができます。\n切り替えを行うと、ホームやルームで登場するアイドルが\n特訓前の状態になります。");
@@ -336,7 +336,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40202, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40301, /*img*/1, /*discription*/"女子寮には、アイドルを入寮させることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40301, /*img*/2, /*discription*/"入寮中のアイドルは、直接他の寮へ移動することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40301, /*img*/3, /*discription*/"女子寮はショップからスタージュエルを使用して\n追加することができます。\n※女子寮機能公開後、第1女子寮は無条件で使用できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/40401, /*img*/1, /*discription*/"ユニットは最大「18」まで編成することができます。\n「切り替えボタン」を押すと表示するユニットの切り替えができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40401, /*img*/1, /*discription*/"ユニットは最大「27」まで編成することができます。\n「切り替えボタン」を押すと表示するユニットの切り替えができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40401, /*img*/2, /*discription*/"LIVEでは、左下の「ユニットボタン」を押すことで\n表示するユニットの切り替えができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40501, /*img*/1, /*discription*/"「2D衣装変更機能」を利用すると、\n2DLIVEやルームでアイドルたちの衣装を\n変更することができます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40501, /*img*/2, /*discription*/"2D衣装はアイドル編成、お気に入り編成、\nおよびMVモードのユニット確認画面にて変更することができます。");
@@ -354,6 +354,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40505, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40506, /*img*/1, /*discription*/"ドレスコーデに「シール機能」が追加されました。\n「シール機能」では、衣装ごとの決まった位置に\nシールを追加できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40506, /*img*/1, /*discription*/"シールはカラー選択の下にあるタブから、\n貼り付けたい位置ごとに設定できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40506, /*img*/1, /*discription*/"未解放のシールは、イベントなどで入手可能な\n「魔法の生地」を使用することで使えるようになります。\n※必要数はパーツごとに異なる場合があります");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40507, /*img*/1, /*discription*/"衣装「メイク・マイ・トレンド」専用の\n着せ替え機能をドレスコーデ画面に追加しました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40507, /*img*/1, /*discription*/"衣装を組み合わせて、お好みの\n衣装「メイク・マイ・トレンド」を製作できますよ !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40507, /*img*/1, /*discription*/"衣装「メイク・マイ・トレンド」を\nドレスショップで受け取ることで利用できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/1, /*discription*/"アイドル編成画面右上にある「表示切替ボタン」で\n編成中のユニットを表示できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/2, /*discription*/"ユニットのポジションを選択して、\n所属アイドルを編成することができます。\nまた、ユニット内のアイドル同士を\n入れ替えることも可能です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40601, /*img*/2, /*discription*/"設定内容は他の画面に移動すると保存されます。\n※他の画面に移動せずにアプリを終了した場合、\n編成内容は保存されません。");
@@ -534,7 +537,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/6, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/7, /*discription*/"イベント限定営業で、ススメチケットを獲得できます。\nイベントTOPの「チケットを使用する」ボタンから\n使用でき、1枚につき、MAPを1マス進行可能です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/1, /*discription*/"本イベントではイベントガシャ「カーニバルメダルチャンス」を\n引くことで、イベント限定のSレアアイドルや、\nルームアイテム、限定コミュが獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/2, /*discription*/"ガシャを引くために必要な「カーニバルメダル」は、\nマップ上にあるLIVEステージ型の建物「BOOTH」から\nLIVEを行う事で獲得できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/3, /*discription*/"BOOTHに合わせた楽曲とユニットを設定して\nLIVEを開始しましょう！\n※複数のBOOTHに同じ楽曲や\nユニットを設定することはできません。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/3, /*discription*/"BOOTHに合わせた楽曲とユニットを設定して\nLIVEを開始しましょう !\n※複数のBOOTHに同じ楽曲や\nユニットを設定することはできません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/4, /*discription*/"BOOTHでLIVEを行うユニットは、\nイベント専用のユニットとなります。\nテント型の建物「控え室」から、\nユニットを編成しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/5, /*discription*/"本イベントでは、同じイラストのアイドルを\n複数のユニットに編成できません。\n※同じイラストのアイドルは、\n特訓状態に関わらず複数編成できません");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/6, /*discription*/"BOOTHでLIVEすると、スコアに応じてVoltagePointが\n記録されます。全てのBOOTHのVoltagePointを合わせて\nVoltageがMAXになると、Carnival Rankが上がります。");
@@ -544,7 +547,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/7, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/8, /*discription*/"最終RankであるCarnivalRank SSSに到達すると、\n「VoltagePointランキング」に参加できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/8, /*discription*/"「VoltagePointランキング」は、CarnivalRank SSSでの\nVoltagePointの合計を競うランキングとなります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/8, /*discription*/"「VoltagePointランキング」では、\n結果に応じて限定のルームアイテムや\nイベント限定の順位付き称号を入手できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/12, /*discription*/"ランキングで手に入るトロフィー/虹は\n次回開催時のLIVE Carnivalイベントにて効果のある\n特別なトロフィーとなっています。\nカーニバルメダルの獲得量がアップする効果を予定しております！");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/12, /*discription*/"ランキングで手に入るトロフィー/虹は\n次回開催時のLIVE Carnivalイベントにて効果のある\n特別なトロフィーとなっています。\nカーニバルメダルの獲得量がアップする効果を予定しております !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/9, /*discription*/"楽曲・ユニットおすすめ設定を使えば、\nおすすめのBOOTH設定を自動で選択してくれます。\n楽曲Lvや条件を決めて、活用しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/10, /*discription*/"BOOTHには、それぞれBOOTH効果という、\nアイドルのアピール値が上がる効果が設定されています。\nその効果に合うユニットでLIVEする事で、\nVoltageが上がりやすくなります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/11, /*discription*/"イベント専用ユニットには、他のプロデューサーさんのアイドルを\n1ユニットにつき1人までゲストアイドルとして\n編成することが出来ます。\nゲストアイドルの力を借りてBOOTHを攻略しましょう !");

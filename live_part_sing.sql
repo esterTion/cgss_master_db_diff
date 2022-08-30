@@ -27,7 +27,8 @@ INSERT INTO `live_part_sing` VALUES (/*live_data_id*/370, /*type*/1, /*member*/2
 INSERT INTO `live_part_sing` VALUES (/*live_data_id*/373, /*type*/5, /*member*/5, /*chara_id*/"127,227,230,246,247", /*chara_slot_id*/"");
 INSERT INTO `live_part_sing` VALUES (/*live_data_id*/376, /*type*/1, /*member*/2, /*chara_id*/"184,262", /*chara_slot_id*/"");
 INSERT INTO `live_part_sing` VALUES (/*live_data_id*/377, /*type*/1, /*member*/3, /*chara_id*/"101,111,113", /*chara_slot_id*/"");
+INSERT INTO `live_part_sing` VALUES (/*live_data_id*/385, /*type*/1, /*member*/5, /*chara_id*/"154,178,185,263,268", /*chara_slot_id*/"");
 INSERT INTO `live_part_sing` VALUES (/*live_data_id*/393, /*type*/5, /*member*/9, /*chara_id*/"164,184,227,235,267,307,308,309,310", /*chara_slot_id*/"1,2,3,4,5,6,8,11,12");
 INSERT INTO `live_part_sing` VALUES (/*live_data_id*/401, /*type*/4, /*member*/15, /*chara_id*/"101,102,103,105,108,111,112,113,115,119,121,122,124,126,127,131,132,133,134,141,150,154,159,161,162,164,167,173,174,175,176,178,180,181,184,185,188,189,190,192,194,197,198,201,205,214,220,221,223,226,227,228,229,230,231,233,234,235,237,238,243,246,247,249,250,253,254,256,257,258,260,262,263,267,268,270,271,272,273,280,283,284,291,292,293,297,298,304,305,306,307,308,309,310", /*chara_slot_id*/"");
 INSERT INTO `live_part_sing` VALUES (/*live_data_id*/419, /*type*/5, /*member*/9, /*chara_id*/"113,121,126,173,201,233,246,297,306", /*chara_slot_id*/"1,2,3,4,5,6,8,11,12");
-INSERT INTO `live_part_sing` VALUES (/*live_data_id*/448, /*type*/5, /*member*/10, /*chara_id*/"134,150,173,188,227,234,238,262,273,304", /*chara_slot_id*/"1,2,3,4,5,6,8,11,12,13");
+INSERT INTO `live_part_sing` VALUES (/*live_data_id*/448, /*type*/5, /*member*/10, /*chara_id*/"101,119,134,150,164,173,174,185,188,227,230,234,238,249,262,271,273,293,304", /*chara_slot_id*/"1,2,3,4,5,6,8,11,12,13");

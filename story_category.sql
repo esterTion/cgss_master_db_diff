@@ -493,3 +493,5 @@ INSERT INTO `story_category` VALUES (/*id*/511, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/512, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"サマーサイダー", /*sub_title*/"サマーサイダー", /*disp_order*/189, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/513, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ギョーてん ! しーわーるど !", /*sub_title*/"ギョーてん ! しーわーるど !", /*disp_order*/190, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/514, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"廻談詣り", /*sub_title*/"廻談詣り", /*disp_order*/191, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/515, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"MOTTO!", /*sub_title*/"MOTTO!", /*disp_order*/192, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/516, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"LIKE4LIVE #cg_ootd連動企画", /*sub_title*/"LIKE4LIVE #cg_ootd連動企画", /*disp_order*/33, /*filter_type*/401);
