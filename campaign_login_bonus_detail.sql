@@ -47,3 +47,4 @@ INSERT INTO `campaign_login_bonus_detail` VALUES (/*id*/9205, /*bg_music_img*/0,
 INSERT INTO `campaign_login_bonus_detail` VALUES (/*id*/9206, /*bg_music_img*/0, /*plate_img_id*/19, /*pos_y_diff*/0);
 INSERT INTO `campaign_login_bonus_detail` VALUES (/*id*/9207, /*bg_music_img*/0, /*plate_img_id*/14, /*pos_y_diff*/0);
 INSERT INTO `campaign_login_bonus_detail` VALUES (/*id*/9209, /*bg_music_img*/9008, /*plate_img_id*/15, /*pos_y_diff*/0);
+INSERT INTO `campaign_login_bonus_detail` VALUES (/*id*/9211, /*bg_music_img*/9045, /*plate_img_id*/20, /*pos_y_diff*/0);

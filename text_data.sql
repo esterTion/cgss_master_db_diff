@@ -553,7 +553,7 @@ INSERT INTO `text_data` VALUES (/*category*/12, /*index*/28, /*text*/"デレス�
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/29, /*text*/"#デレステ1日1回無料");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/30, /*text*/"デレステでプラチナオーディションガシャ1日1回10連無料キャンペーン中!!\n{0}さんの本日の結果はこちら!!\n {1}");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/31, /*text*/"#デレステ\n {0}");
-INSERT INTO `text_data` VALUES (/*category*/12, /*index*/32, /*text*/"#デレステ10連ガシャ無料\n #バンナムフェス2nd");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/32, /*text*/"#デレステ7周年\n #デレステ10連ガシャ無料");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/33, /*text*/"プレゼント一覧にてお受け取りください");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/34, /*text*/"{0} [D33D98]{1}[FFFFFF]個");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/35, /*text*/"所持数が上限に達しているため\nプレゼントに送られました。");
@@ -1076,6 +1076,7 @@ INSERT INTO `text_data` VALUES (/*category*/16, /*index*/121, /*text*/"それじ
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/122, /*text*/"かんぱーいっ♪\nはいっ。えへへ、いっぱい練習しましたもんねっ。\nこれからも頑張りましょう、一緒にっ !");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/123, /*text*/"おやー、今はそこにいたのですねー。お疲れさまでしてー。\nみなの晴れ姿、とても素晴らしいものでしたねー。\n");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/124, /*text*/"これから先も、きっとたくさん見られるよ……。\n明日から始まる物語は、まだ誰も知らない、\nでも誰もが見たいと願う、新しい景色が待っているから……ふふ……♪");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/125, /*text*/"アイドルマスターシンデレラガールズスターライトステージが\n7周年を迎えましたよ !");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/501, /*text*/"LIVEへ");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/502, /*text*/"ルームへ");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/503, /*text*/"ガシャへ");
@@ -1515,6 +1516,10 @@ INSERT INTO `text_data` VALUES (/*category*/16, /*index*/71204, /*text*/"わあ�
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/71205, /*text*/"それでは、みなみなさまにて、わいわいと語り尽くすのでしてー。\n仲睦まじきは、よきかなー、よきかなー。\n");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/71206, /*text*/"ぶおおー♪ これにて『#MemorialCinema』、\n全日程の幕引きなのでしてー。いざ、みなみなさま、\n心を清らかに、体を健やかに、新たなる日々を迎えましょうー。\n");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/71207, /*text*/"とっても楽しい一年だったね……。\n次の一年も、きっと出会いがいっぱいだよ。\nみんな……よろしくね……♪\n");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/71301, /*text*/"じゃんっ ! プロデューサーさんにとびっきりのお知らせです !\nアイドルマスターシンデレラガールズスターライトステージは、\n9月3日をもって、7周年を迎えました !");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/71302, /*text*/"これもひとえに、アイドルたちをまっすぐに想い、\nひたむきにプロデュースを続けてくださった、\nプロデューサーさんのおかげです。本当にありがとうございます !");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/71303, /*text*/"私からも感謝の気持ちを込めて、とっておきのプレゼント、\nそしてさまざまなサプライズをご用意しました !\nぜひ受け取って、楽しんでくださいね♪");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/71304, /*text*/"アイドルたちはこれからも、新しい日々を歩んでいきます。\nそんな彼女たちを見守り、背を押してあげてください。\nそして、アイドルたちと過ごすイマを、楽しんでいきましょう♪");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/1, /*text*/"公演設定");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/2, /*text*/"公演情報");
 INSERT INTO `text_data` VALUES (/*category*/17, /*index*/3, /*text*/"LIVE曲数");

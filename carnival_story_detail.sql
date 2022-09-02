@@ -116,5 +116,12 @@ INSERT INTO `carnival_story_detail` VALUES (/*id*/5997, /*event_id*/7011, /*type
 INSERT INTO `carnival_story_detail` VALUES (/*id*/5998, /*event_id*/7011, /*type*/0, /*open_step_id*/4, /*next_detail_id*/5999);
 INSERT INTO `carnival_story_detail` VALUES (/*id*/5999, /*event_id*/7011, /*type*/0, /*open_step_id*/5, /*next_detail_id*/6000);
 INSERT INTO `carnival_story_detail` VALUES (/*id*/6000, /*event_id*/7011, /*type*/0, /*open_step_id*/6, /*next_detail_id*/6008);
+INSERT INTO `carnival_story_detail` VALUES (/*id*/6001, /*event_id*/7011, /*type*/3, /*open_step_id*/0, /*next_detail_id*/0);
+INSERT INTO `carnival_story_detail` VALUES (/*id*/6002, /*event_id*/7011, /*type*/3, /*open_step_id*/0, /*next_detail_id*/0);
+INSERT INTO `carnival_story_detail` VALUES (/*id*/6003, /*event_id*/7011, /*type*/3, /*open_step_id*/0, /*next_detail_id*/0);
+INSERT INTO `carnival_story_detail` VALUES (/*id*/6004, /*event_id*/7011, /*type*/3, /*open_step_id*/0, /*next_detail_id*/0);
+INSERT INTO `carnival_story_detail` VALUES (/*id*/6005, /*event_id*/7011, /*type*/3, /*open_step_id*/0, /*next_detail_id*/0);
+INSERT INTO `carnival_story_detail` VALUES (/*id*/6006, /*event_id*/7011, /*type*/3, /*open_step_id*/0, /*next_detail_id*/0);
+INSERT INTO `carnival_story_detail` VALUES (/*id*/6007, /*event_id*/7011, /*type*/3, /*open_step_id*/0, /*next_detail_id*/0);
 INSERT INTO `carnival_story_detail` VALUES (/*id*/6008, /*event_id*/7011, /*type*/2, /*open_step_id*/0, /*next_detail_id*/0);
 CREATE INDEX 'carnival_story_detail_0_event_id_1_type' on 'carnival_story_detail'('event_id','type');

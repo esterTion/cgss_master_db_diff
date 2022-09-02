@@ -439,4 +439,8 @@ INSERT INTO `aniv_count_perform_data` VALUES (/*id*/437, /*aniv_count_data_id*/6
 INSERT INTO `aniv_count_perform_data` VALUES (/*id*/438, /*aniv_count_data_id*/64, /*step*/5, /*color_id*/4, /*text_id*/71205, /*text_speed*/5000, /*name*/"芳乃");
 INSERT INTO `aniv_count_perform_data` VALUES (/*id*/439, /*aniv_count_data_id*/64, /*step*/6, /*color_id*/4, /*text_id*/71206, /*text_speed*/8300, /*name*/"芳乃");
 INSERT INTO `aniv_count_perform_data` VALUES (/*id*/440, /*aniv_count_data_id*/64, /*step*/7, /*color_id*/3, /*text_id*/71207, /*text_speed*/5100, /*name*/"小梅");
+INSERT INTO `aniv_count_perform_data` VALUES (/*id*/441, /*aniv_count_data_id*/65, /*step*/1, /*color_id*/1, /*text_id*/71301, /*text_speed*/8200, /*name*/"ちひろ");
+INSERT INTO `aniv_count_perform_data` VALUES (/*id*/442, /*aniv_count_data_id*/65, /*step*/2, /*color_id*/1, /*text_id*/71302, /*text_speed*/7700, /*name*/"ちひろ");
+INSERT INTO `aniv_count_perform_data` VALUES (/*id*/443, /*aniv_count_data_id*/65, /*step*/3, /*color_id*/1, /*text_id*/71303, /*text_speed*/7000, /*name*/"ちひろ");
+INSERT INTO `aniv_count_perform_data` VALUES (/*id*/444, /*aniv_count_data_id*/65, /*step*/4, /*color_id*/1, /*text_id*/71304, /*text_speed*/8300, /*name*/"ちひろ");
 CREATE INDEX 'aniv_count_perform_data_0_aniv_count_data_id' on 'aniv_count_perform_data'('aniv_count_data_id');

@@ -122,3 +122,4 @@ INSERT INTO `login_bonus_data` VALUES (/*id*/9207, /*name*/"海へようこそ !
 INSERT INTO `login_bonus_data` VALUES (/*id*/9208, /*name*/"予選グループA　ログインボーナス", /*type*/7, /*count_num*/21, /*rap*/1, /*img*/0, /*start_date*/"2022-07-25 00:00:00", /*end_date*/"2022-08-14 23:59:59");
 INSERT INTO `login_bonus_data` VALUES (/*id*/9209, /*name*/"サマーバケーションログインボーナス", /*type*/4, /*count_num*/20, /*rap*/1, /*img*/0, /*start_date*/"2022-07-23 00:00:00", /*end_date*/"2022-08-11 23:59:59");
 INSERT INTO `login_bonus_data` VALUES (/*id*/9210, /*name*/"「祝7周年 ! プラチナチャンス」キャンペーン", /*type*/6, /*count_num*/20, /*rap*/1, /*img*/0, /*start_date*/"2022-08-22 00:00:00", /*end_date*/"2022-09-10 23:59:59");
+INSERT INTO `login_bonus_data` VALUES (/*id*/9211, /*name*/"MOTTO ! Motto ! ログインボーナス", /*type*/4, /*count_num*/34, /*rap*/1, /*img*/0, /*start_date*/"2022-09-03 00:00:00", /*end_date*/"2022-10-06 23:59:59");

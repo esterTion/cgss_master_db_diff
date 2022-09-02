@@ -267,3 +267,4 @@ INSERT INTO `gift_message` VALUES (/*id*/20084, /*discription*/"「祝7周年 ! 
 INSERT INTO `gift_message` VALUES (/*id*/20085, /*discription*/"「祝7周年 ! プラチナチャンス」{0}等B賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20086, /*discription*/"「祝7周年 ! プラチナチャンス」{0}等C賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20087, /*discription*/"「祝7周年 ! プラチナチャンス」特別賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20088, /*discription*/"「LIKE4LIVE #cg_ootd連動キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
