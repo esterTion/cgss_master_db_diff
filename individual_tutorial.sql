@@ -179,7 +179,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーは\n倉庫収納数から除外されます。\n収納していても、収納数にカウントされません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"楽曲「MOTTO ! 」の公開を記念して、\n「衣装スタンド/メイク・マイ・トレンド」をルームショップに追加しました !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「七夕」をテーマにしたアイテムとコーデが登場 !\n満天の星が輝く夜空を楽しみましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"マイセットを保存できる数を「10」から「20」に変更 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"「7th Anniversary」をテーマにした\nアイテムとコーデを追加 !\nおしゃれをしてにぎやかな街へ出かけましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/3, /*discription*/"過去に期間限定で販売していた\nルームアイテムを復刻販売中 !\n復刻販売のラインナップは毎週変わります !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");

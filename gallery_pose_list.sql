@@ -6,6 +6,10 @@ INSERT INTO `gallery_pose_list` VALUES (/*id*/103, /*disp_order*/4, /*disp_name*
 INSERT INTO `gallery_pose_list` VALUES (/*id*/104, /*disp_order*/5, /*disp_name*/"わっ !", /*motion_id*/104, /*fade_msec*/1000, /*cutt_name*/"Cutt_Pose0104", /*motion_num*/1, /*attribute*/4);
 INSERT INTO `gallery_pose_list` VALUES (/*id*/105, /*disp_order*/6, /*disp_name*/"1着のポーズッ !", /*motion_id*/105, /*fade_msec*/1000, /*cutt_name*/"Cutt_Pose0105", /*motion_num*/1, /*attribute*/4);
 INSERT INTO `gallery_pose_list` VALUES (/*id*/106, /*disp_order*/7, /*disp_name*/"ピスピース !", /*motion_id*/106, /*fade_msec*/1000, /*cutt_name*/"Cutt_Pose0106", /*motion_num*/1, /*attribute*/4);
+INSERT INTO `gallery_pose_list` VALUES (/*id*/107, /*disp_order*/8, /*disp_name*/"「MOTTO!」ポーズ①", /*motion_id*/107, /*fade_msec*/1000, /*cutt_name*/"Cutt_Pose0107", /*motion_num*/1, /*attribute*/4);
+INSERT INTO `gallery_pose_list` VALUES (/*id*/108, /*disp_order*/9, /*disp_name*/"「MOTTO!」ポーズ②", /*motion_id*/108, /*fade_msec*/1000, /*cutt_name*/"Cutt_Pose0108", /*motion_num*/1, /*attribute*/4);
+INSERT INTO `gallery_pose_list` VALUES (/*id*/109, /*disp_order*/10, /*disp_name*/"「MOTTO!」ポーズ③", /*motion_id*/109, /*fade_msec*/1000, /*cutt_name*/"Cutt_Pose0109", /*motion_num*/1, /*attribute*/4);
+INSERT INTO `gallery_pose_list` VALUES (/*id*/110, /*disp_order*/11, /*disp_name*/"「MOTTO!」ポーズ④", /*motion_id*/110, /*fade_msec*/1000, /*cutt_name*/"Cutt_Pose0110", /*motion_num*/1, /*attribute*/4);
 INSERT INTO `gallery_pose_list` VALUES (/*id*/201, /*disp_order*/21, /*disp_name*/"手を振って !", /*motion_id*/201, /*fade_msec*/1000, /*cutt_name*/"Cutt_Pose0201", /*motion_num*/2, /*attribute*/4);
 INSERT INTO `gallery_pose_list` VALUES (/*id*/202, /*disp_order*/22, /*disp_name*/"挨拶しよう !", /*motion_id*/202, /*fade_msec*/1000, /*cutt_name*/"Cutt_Pose0202", /*motion_num*/2, /*attribute*/4);
 INSERT INTO `gallery_pose_list` VALUES (/*id*/203, /*disp_order*/23, /*disp_name*/"ポーズをとってみて !", /*motion_id*/203, /*fade_msec*/1000, /*cutt_name*/"Cutt_Pose0203", /*motion_num*/2, /*attribute*/4);
