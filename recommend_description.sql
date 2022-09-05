@@ -1,0 +1,1 @@
+CREATE TABLE 'recommend_description' ('id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'description' TEXT NOT NULL, 'page_index' INTEGER NOT NULL, 'panel_icon_asset' TEXT NOT NULL, 'panel_icon_name' TEXT NOT NULL, 'panel_frame_id' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'));

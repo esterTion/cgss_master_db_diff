@@ -760,7 +760,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90181, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90181, /*img*/2, /*discription*/"「リミテッドver」では、期間限定SSレアアイドルがスカウトできる\n特別なスカウトチケットに加え、「プラチナ10連ガシャチケット2枚」\nなどのアイテム4種を獲得できます。\n※対象アイドルはセット購入画面よりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90181, /*img*/3, /*discription*/"「フェスver」では、フェス限定SSレアアイドルがスカウトできる\n特別なスカウトチケットに加え、「プラチナ10連ガシャチケット2枚」\nなどのアイテム4種を獲得できます。\n※対象アイドルはセット購入画面よりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90181, /*img*/4, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様にSレア以上のアイドル1人が\n確定で出現します。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90182, /*img*/1, /*discription*/"楽曲「？？？？」の\nGRAND VERSION公開予定 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90182, /*img*/1, /*discription*/"楽曲「Star!!」の\nGRAND VERSION公開予定 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90182, /*img*/1, /*discription*/"GRAND VERSION専用MVも新たに制作 !\n※楽曲は公開と同時に発表します");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90183, /*img*/1, /*discription*/"デレスポにて、VRLIVEの対応楽曲を追加予定 !\n公開までお待ちください !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90184, /*img*/1, /*discription*/"メモリアルガシャ4th近日公開 !\nSレアとSSレアは対象の限定アイドルのみ登場します !");
