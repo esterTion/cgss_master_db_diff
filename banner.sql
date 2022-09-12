@@ -1654,3 +1654,4 @@ INSERT INTO `banner` VALUES (/*banner_id*/1676, /*type*/3, /*img_id*/0, /*transi
 INSERT INTO `banner` VALUES (/*banner_id*/1677, /*type*/3, /*img_id*/0, /*transition*/103, /*page_index*/29, /*order_num*/27, /*start_date*/"2022-09-06 00:30:00", /*end_date*/"2022-10-06 23:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/1678, /*type*/2, /*img_id*/7011, /*transition*/0, /*page_index*/0, /*order_num*/20, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
 INSERT INTO `banner` VALUES (/*banner_id*/1679, /*type*/3, /*img_id*/0, /*transition*/103, /*page_index*/28, /*order_num*/26, /*start_date*/"2022-09-04 20:00:00", /*end_date*/"2030-04-01 14:00:00");
+INSERT INTO `banner` VALUES (/*banner_id*/1681, /*type*/2, /*img_id*/6029, /*transition*/0, /*page_index*/0, /*order_num*/20, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");

@@ -208,3 +208,4 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200159, /*name*/"No One 
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200160, /*name*/"チカラ ! イズ ! ぱわー ! ! （BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/10);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200161, /*name*/"ささのはに、うたかたに。（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/11);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200162, /*name*/"サマーサイダー（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/12);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200163, /*name*/"ギョーてん ! しーわーるど ! （BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/13);
