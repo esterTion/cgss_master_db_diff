@@ -1576,3 +1576,7 @@ INSERT INTO `card_location` VALUES (/*index*/1590, /*text*/"レトロな遊園�
 INSERT INTO `card_location` VALUES (/*index*/1591, /*text*/"大河・小舟の上");
 INSERT INTO `card_location` VALUES (/*index*/1592, /*text*/"表参道・ファッションビル");
 INSERT INTO `card_location` VALUES (/*index*/1593, /*text*/"ウォールアートからの脱却");
+INSERT INTO `card_location` VALUES (/*index*/1594, /*text*/"夢ねむる地下ステージ");
+INSERT INTO `card_location` VALUES (/*index*/1595, /*text*/"夢かがやくステージ");
+INSERT INTO `card_location` VALUES (/*index*/1596, /*text*/"新幹線のホーム");
+INSERT INTO `card_location` VALUES (/*index*/1597, /*text*/"思い思いにつないだ部屋");
