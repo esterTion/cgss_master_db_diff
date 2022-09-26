@@ -24,6 +24,8 @@ INSERT INTO `dress_target_2` VALUES (/*id*/24, /*target_chara_type*/7, /*target_
 INSERT INTO `dress_target_2` VALUES (/*id*/25, /*target_chara_type*/7, /*target_chara*/0);
 INSERT INTO `dress_target_2` VALUES (/*id*/26, /*target_chara_type*/7, /*target_chara*/0);
 INSERT INTO `dress_target_2` VALUES (/*id*/27, /*target_chara_type*/7, /*target_chara*/0);
+INSERT INTO `dress_target_2` VALUES (/*id*/28, /*target_chara_type*/7, /*target_chara*/0);
+INSERT INTO `dress_target_2` VALUES (/*id*/29, /*target_chara_type*/7, /*target_chara*/0);
 INSERT INTO `dress_target_2` VALUES (/*id*/30, /*target_chara_type*/7, /*target_chara*/0);
 INSERT INTO `dress_target_2` VALUES (/*id*/31, /*target_chara_type*/7, /*target_chara*/0);
 INSERT INTO `dress_target_2` VALUES (/*id*/32, /*target_chara_type*/7, /*target_chara*/0);

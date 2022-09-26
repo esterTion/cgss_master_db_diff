@@ -15,5 +15,6 @@ INSERT INTO `campaign_description` VALUES (/*id*/111, /*title*/"LIVE", /*descrip
 INSERT INTO `campaign_description` VALUES (/*id*/112, /*title*/"アイドル編成", /*description*/"ルームのお気に入り編成で未所持SSレア・Sレア衣装が着用可能 !", /*page_index*/503, /*panel_icon_id*/2, /*panel_frame_id*/0);
 INSERT INTO `campaign_description` VALUES (/*id*/113, /*title*/"プロデュースノート", /*description*/"フォトスタジオで未所持SSレアの衣装が着用可能 !", /*page_index*/907, /*panel_icon_id*/8, /*panel_frame_id*/0);
 INSERT INTO `campaign_description` VALUES (/*id*/114, /*title*/"デレスポ", /*description*/"フォトスタジオ、VRLIVEでドリームユニットキャンペーン中 !", /*page_index*/14, /*panel_icon_id*/11, /*panel_frame_id*/0);
+INSERT INTO `campaign_description` VALUES (/*id*/115, /*title*/"キャンペーン", /*description*/"SSレアアイドル勧誘チャレンジ開催中 !", /*page_index*/4000, /*panel_icon_id*/2, /*panel_frame_id*/0);
 INSERT INTO `campaign_description` VALUES (/*id*/201, /*title*/"オートLIVEチケット", /*description*/"ログインボーナスでオートLIVE\nチケットを追加獲得 ! ", /*page_index*/100, /*panel_icon_id*/4, /*panel_frame_id*/0);
 INSERT INTO `campaign_description` VALUES (/*id*/202, /*title*/"LIVE PARTY!!", /*description*/"LIVE PARTY!!の獲得スター\nエンブレムが1.5倍 !", /*page_index*/2900, /*panel_icon_id*/13, /*panel_frame_id*/0);

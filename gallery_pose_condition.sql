@@ -192,5 +192,17 @@ INSERT INTO `gallery_pose_condition` VALUES (/*id*/191, /*source_id*/3101, /*con
 INSERT INTO `gallery_pose_condition` VALUES (/*id*/201, /*source_id*/201, /*condition_type*/304, /*condition_id*/201, /*condition_value*/1);
 INSERT INTO `gallery_pose_condition` VALUES (/*id*/202, /*source_id*/202, /*condition_type*/304, /*condition_id*/202, /*condition_value*/1);
 INSERT INTO `gallery_pose_condition` VALUES (/*id*/203, /*source_id*/203, /*condition_type*/304, /*condition_id*/203, /*condition_value*/1);
+INSERT INTO `gallery_pose_condition` VALUES (/*id*/382, /*source_id*/1102, /*condition_type*/301, /*condition_id*/1102, /*condition_value*/1);
+INSERT INTO `gallery_pose_condition` VALUES (/*id*/383, /*source_id*/1282, /*condition_type*/301, /*condition_id*/1282, /*condition_value*/1);
+INSERT INTO `gallery_pose_condition` VALUES (/*id*/384, /*source_id*/1402, /*condition_type*/301, /*condition_id*/1402, /*condition_value*/1);
+INSERT INTO `gallery_pose_condition` VALUES (/*id*/385, /*source_id*/1932, /*condition_type*/301, /*condition_id*/1932, /*condition_value*/1);
+INSERT INTO `gallery_pose_condition` VALUES (/*id*/386, /*source_id*/2962, /*condition_type*/301, /*condition_id*/2962, /*condition_value*/1);
+INSERT INTO `gallery_pose_condition` VALUES (/*id*/387, /*source_id*/3042, /*condition_type*/301, /*condition_id*/3042, /*condition_value*/1);
+INSERT INTO `gallery_pose_condition` VALUES (/*id*/388, /*source_id*/3052, /*condition_type*/301, /*condition_id*/3052, /*condition_value*/1);
+INSERT INTO `gallery_pose_condition` VALUES (/*id*/389, /*source_id*/3062, /*condition_type*/301, /*condition_id*/3062, /*condition_value*/1);
+INSERT INTO `gallery_pose_condition` VALUES (/*id*/390, /*source_id*/3072, /*condition_type*/301, /*condition_id*/3072, /*condition_value*/1);
+INSERT INTO `gallery_pose_condition` VALUES (/*id*/391, /*source_id*/3082, /*condition_type*/301, /*condition_id*/3082, /*condition_value*/1);
+INSERT INTO `gallery_pose_condition` VALUES (/*id*/392, /*source_id*/3092, /*condition_type*/301, /*condition_id*/3092, /*condition_value*/1);
+INSERT INTO `gallery_pose_condition` VALUES (/*id*/393, /*source_id*/3102, /*condition_type*/301, /*condition_id*/3102, /*condition_value*/1);
 INSERT INTO `gallery_pose_condition` VALUES (/*id*/1001, /*source_id*/10001, /*condition_type*/303, /*condition_id*/10001, /*condition_value*/1);
 CREATE INDEX 'gallery_pose_condition_0_source_id' on 'gallery_pose_condition'('source_id');

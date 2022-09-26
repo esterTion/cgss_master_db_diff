@@ -26,6 +26,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/10015, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/10016, /*img*/1, /*discription*/"「アイドル別Sレアスカウトチケット」は、\n特定のアイドルのSレア・レア・ノーマルアイドルから、好きなアイドルを\nスカウトできるチケットです。スカウトできるアイドルは、\n「対象アイドル」ボタンからご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10017, /*img*/1, /*discription*/"期間中に『スターシャイン』を獲得すると『シャインゲージ』が増加します。\n『シャインゲージ』が一定値に達すると報酬が獲得できます。\n※『ルナシャイン』を獲得した場合は増加しません。\n※『スターシャインスカウト』も引き続きご利用になれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10017, /*img*/2, /*discription*/"報酬や『シャインゲージ』の詳細は\n『スターシャイン』横の「i」ボタンから確認できます。\n※『シャインゲージ』は『スターシャイン』の\n　提供期間終了時にリセットされます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/10018, /*img*/1, /*discription*/"メモリアルガシャ4thが新たに追加されました ! \n画面右上ボタンで各メモリアルガシャを切り替えることが可能です。\n※出現するアイドルはアイドル詳細でご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/1, /*discription*/"スペシャルガシャセットは期間限定販売です。\n購入すると「スカウトチケット」と「プラチナ10連ガシャ\nチケット」を1枚ずつ獲得できます。\n※有償スタージュエルでのみ購入することができます");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/2, /*discription*/"「スカウトチケット」はレア、Sレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で出現します。");
@@ -742,7 +743,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90177, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90177, /*img*/1, /*discription*/"キャンペーン期間中1日1回無料で\n10連ガシャを引くことができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90177, /*img*/1, /*discription*/"1日1回無料で引ける10連ガシャは、\n毎日24時にリセットされます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90177, /*img*/2, /*discription*/"今回のキャンペーンで引いたガシャの結果は、\nアプリからツイッターに投稿することができます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90178, /*img*/1, /*discription*/"条件を満たすとSSレアアイドルを獲得できる\n「SSレアアイドル勧誘チャレンジ」\nキャンペーン開催を予定しています。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90178, /*img*/1, /*discription*/"条件を満たすとSSレアアイドルを獲得できる\n「SSレアアイドル勧誘チャレンジ」\nキャンペーン開催中 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90178, /*img*/1, /*discription*/"本キャンペーンでは対象の恒常SSレアアイドルから\n1人を選択して勧誘できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90178, /*img*/1, /*discription*/"選択したアイドルは仮所属となり、キャンペーン期間中\nLIVEなどで編成することができます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90178, /*img*/1, /*discription*/"キャンペーン期間中に専用ミッションをクリアすることで\nアイドルの信頼度が上がります。信頼度が一定値に達すると\n選択したSSレアアイドルが正式に所属します。");
@@ -760,11 +761,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90181, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90181, /*img*/2, /*discription*/"「リミテッドver」では、期間限定SSレアアイドルがスカウトできる\n特別なスカウトチケットに加え、「プラチナ10連ガシャチケット2枚」\nなどのアイテム4種を獲得できます。\n※対象アイドルはセット購入画面よりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90181, /*img*/3, /*discription*/"「フェスver」では、フェス限定SSレアアイドルがスカウトできる\n特別なスカウトチケットに加え、「プラチナ10連ガシャチケット2枚」\nなどのアイテム4種を獲得できます。\n※対象アイドルはセット購入画面よりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90181, /*img*/4, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様にSレア以上のアイドル1人が\n確定で出現します。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90182, /*img*/1, /*discription*/"楽曲「Star!!」の\nGRAND VERSION公開予定 !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90182, /*img*/1, /*discription*/"GRAND VERSION専用MVも新たに制作 !\n※楽曲は公開と同時に発表します");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90182, /*img*/1, /*discription*/"「Star!!（GRAND VERSION）」を公開しました !\n14人のアイドルが登場する\n新しい「Star!!」をお楽しみください !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90183, /*img*/1, /*discription*/"デレスポにて、VRLIVEの対応楽曲を追加予定 !\n公開までお待ちください !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90184, /*img*/1, /*discription*/"メモリアルガシャ4th近日公開 !\nSレアとSSレアは対象の限定アイドルのみ登場します !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90185, /*img*/1, /*discription*/"ドレスコーデ対応衣装に楽曲「Go Just Go!」の\n衣装「Go To Paradise」を追加予定です。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90184, /*img*/1, /*discription*/"メモリアルガシャ4th公開中 !\nSレアとSSレアは対象の限定アイドルのみ登場します !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90185, /*img*/1, /*discription*/"ドレスコーデ対応衣装に楽曲「Go Just Go!」の\n衣装「Go To Paradise」を追加しました。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90185, /*img*/1, /*discription*/"衣装「Go To Paradise」をドレスショップで\n受け取ることでドレスコーデ機能で使用できるように\nなります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90186, /*img*/1, /*discription*/"マイセットを保存できる数を「10」から「20」に変更 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90186, /*img*/2, /*discription*/"「7th Anniversary」をテーマにした\nアイテムとコーデを追加 !\nおしゃれをしてにぎやかな街へ出かけましょう !");
@@ -795,6 +795,15 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90303, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90303, /*img*/1, /*discription*/"今回は各配信サービスに加えて、本アプリ内でも\n配信を行います。配信が開始されたら本ページ\nの視聴ボタンより番組視聴が可能 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90303, /*img*/2, /*discription*/"視聴画面ではリアルタイムでコメントや\nスタンプを送ることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90303, /*img*/2, /*discription*/"画面表示は切り替え可能です !\nみんなで一緒に盛り上がりましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90304, /*img*/1, /*discription*/"「SSレアアイドル勧誘チャレンジ」は\n対象の恒常SSレアアイドルから、\n1人を選択して勧誘できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90304, /*img*/1, /*discription*/"勧誘したアイドルは「仮所属」となりキャンペーンが\n開始します。仮所属アイドルはLIVEなどで\n編成することができます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90304, /*img*/2, /*discription*/"キャンペーン開始後、「チャレンジミッション」を\nクリアすることで信頼度が獲得できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90304, /*img*/2, /*discription*/"LIVEが対象の「チャレンジミッション」は\nオートLIVEでも達成可能です !\n※使用したチケットの枚数に応じて、\nミッションの達成条件にカウントされます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90304, /*img*/2, /*discription*/"また、選択したアイドルに関連した\n「チャレンジミッション」もあります。\nアイドルを育成して信頼度を獲得しましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90304, /*img*/3, /*discription*/"キャンペーン期間中に、信頼度の獲得量が\n一定を越えたら仮所属アイドルは正式加入となり、\nキャンペーン期間後も所属アイドルとして活躍します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90304, /*img*/3, /*discription*/"正式加入に必要な信頼度は「信頼度報酬」から確認できます。\n正式加入のほかにも獲得できる報酬があります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90304, /*img*/3, /*discription*/"キャンペーン期間後に選択したアイドルが\n仮所属の状態だった場合、自動的に\n所属アイドル一覧からいなくなります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90304, /*img*/3, /*discription*/"仮所属アイドルの育成などで消費したアイテムなどは\n返却されません。ご注意ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/1, /*discription*/"オールスターカウントダウンLIVE開催 !\n開催期間は2021年12月31日0時～24時です。\nみんなでLIVEを楽しみながら1年を締めくくりましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/2, /*discription*/"全プロデューサーで対象楽曲をクリアして、「全体ミッション」を達成しま\nしょう ! LIVEのクリアされた回数によって獲得できる報酬が決定します !\n※全体ミッションの達成報酬は、結果発表後にまとめて配布されます\n※期間中に一度もLIVEをクリアしていない場合は獲得できません");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90401, /*img*/3, /*discription*/"オールスターカウントダウンLIVEでは、\nLIVEをクリアすると「シンデレラ・コレクションチケット」がドロップします。\nドレスショップでチケット1枚を使用することで、\n好きなアイドル1人のドレスと交換できます。");

@@ -558,4 +558,14 @@ INSERT INTO `latte_art_target` VALUES (/*id*/556, /*type*/2, /*latte_id*/565, /*
 INSERT INTO `latte_art_target` VALUES (/*id*/557, /*type*/1, /*latte_id*/566, /*val_id*/30799, /*card_id*/101151);
 INSERT INTO `latte_art_target` VALUES (/*id*/558, /*type*/1, /*latte_id*/567, /*val_id*/30800, /*card_id*/201181);
 INSERT INTO `latte_art_target` VALUES (/*id*/559, /*type*/2, /*latte_id*/568, /*val_id*/1081, /*card_id*/0);
+INSERT INTO `latte_art_target` VALUES (/*id*/560, /*type*/1, /*latte_id*/569, /*val_id*/30802, /*card_id*/301127);
+INSERT INTO `latte_art_target` VALUES (/*id*/561, /*type*/1, /*latte_id*/442, /*val_id*/30803, /*card_id*/201055);
+INSERT INTO `latte_art_target` VALUES (/*id*/562, /*type*/1, /*latte_id*/443, /*val_id*/30803, /*card_id*/101029);
+INSERT INTO `latte_art_target` VALUES (/*id*/563, /*type*/1, /*latte_id*/444, /*val_id*/30803, /*card_id*/301007);
+INSERT INTO `latte_art_target` VALUES (/*id*/564, /*type*/1, /*latte_id*/309, /*val_id*/30804, /*card_id*/200909);
+INSERT INTO `latte_art_target` VALUES (/*id*/565, /*type*/1, /*latte_id*/310, /*val_id*/30804, /*card_id*/100885);
+INSERT INTO `latte_art_target` VALUES (/*id*/566, /*type*/1, /*latte_id*/311, /*val_id*/30804, /*card_id*/300871);
+INSERT INTO `latte_art_target` VALUES (/*id*/567, /*type*/1, /*latte_id*/170, /*val_id*/30805, /*card_id*/300723);
+INSERT INTO `latte_art_target` VALUES (/*id*/568, /*type*/1, /*latte_id*/171, /*val_id*/30805, /*card_id*/200741);
+INSERT INTO `latte_art_target` VALUES (/*id*/569, /*type*/1, /*latte_id*/172, /*val_id*/30805, /*card_id*/100733);
 CREATE INDEX 'latte_art_target_0_type_1_val_id' on 'latte_art_target'('type','val_id');
