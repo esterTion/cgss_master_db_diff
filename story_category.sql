@@ -497,3 +497,4 @@ INSERT INTO `story_category` VALUES (/*id*/515, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/516, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"LIKE4LIVE #cg_ootd連動企画", /*sub_title*/"LIKE4LIVE #cg_ootd連動企画", /*disp_order*/33, /*filter_type*/401);
 INSERT INTO `story_category` VALUES (/*id*/517, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"UNIQU3 VOICES!!!", /*sub_title*/"UNIQU3 VOICES!!!", /*disp_order*/194, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/518, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"和久井留美 / 椎名法子", /*sub_title*/"和久井留美 / 椎名法子", /*disp_order*/193, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/519, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"認めてくれなくたっていいよ", /*sub_title*/"認めてくれなくたっていいよ", /*disp_order*/195, /*filter_type*/0);

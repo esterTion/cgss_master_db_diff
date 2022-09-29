@@ -1582,3 +1582,8 @@ INSERT INTO `card_location` VALUES (/*index*/1596, /*text*/"新幹線のホー�
 INSERT INTO `card_location` VALUES (/*index*/1597, /*text*/"思い思いにつないだ部屋");
 INSERT INTO `card_location` VALUES (/*index*/1598, /*text*/"GMが管理する世界・選択の間");
 INSERT INTO `card_location` VALUES (/*index*/1599, /*text*/"ウィンドウディスプレイ前");
+INSERT INTO `card_location` VALUES (/*index*/1600, /*text*/"女子寮・七海の部屋");
+INSERT INTO `card_location` VALUES (/*index*/1601, /*text*/"深海の城の大広間");
+INSERT INTO `card_location` VALUES (/*index*/1602, /*text*/"ビル・屋上");
+INSERT INTO `card_location` VALUES (/*index*/1603, /*text*/"見つめ直した街並み");
+INSERT INTO `card_location` VALUES (/*index*/1604, /*text*/"移り変わる街並み");

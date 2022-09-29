@@ -1344,4 +1344,18 @@ INSERT INTO `dress_color_data` VALUES (/*chara_id*/297, /*dress_id*/33, /*model_
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/304, /*dress_id*/33, /*model_type*/1, /*color_id*/3);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/307, /*dress_id*/33, /*model_type*/1, /*color_id*/3);
 INSERT INTO `dress_color_data` VALUES (/*chara_id*/309, /*dress_id*/33, /*model_type*/1, /*color_id*/3);
+INSERT INTO `dress_color_data` VALUES (/*chara_id*/117, /*dress_id*/8001000, /*model_type*/1, /*color_id*/5);
+INSERT INTO `dress_color_data` VALUES (/*chara_id*/119, /*dress_id*/8001000, /*model_type*/1, /*color_id*/5);
+INSERT INTO `dress_color_data` VALUES (/*chara_id*/123, /*dress_id*/8001000, /*model_type*/1, /*color_id*/5);
+INSERT INTO `dress_color_data` VALUES (/*chara_id*/126, /*dress_id*/8001000, /*model_type*/1, /*color_id*/5);
+INSERT INTO `dress_color_data` VALUES (/*chara_id*/141, /*dress_id*/8001000, /*model_type*/1, /*color_id*/5);
+INSERT INTO `dress_color_data` VALUES (/*chara_id*/153, /*dress_id*/8001000, /*model_type*/1, /*color_id*/5);
+INSERT INTO `dress_color_data` VALUES (/*chara_id*/159, /*dress_id*/8001000, /*model_type*/1, /*color_id*/5);
+INSERT INTO `dress_color_data` VALUES (/*chara_id*/230, /*dress_id*/8001000, /*model_type*/1, /*color_id*/5);
+INSERT INTO `dress_color_data` VALUES (/*chara_id*/235, /*dress_id*/8001000, /*model_type*/1, /*color_id*/5);
+INSERT INTO `dress_color_data` VALUES (/*chara_id*/239, /*dress_id*/8001000, /*model_type*/1, /*color_id*/5);
+INSERT INTO `dress_color_data` VALUES (/*chara_id*/242, /*dress_id*/8001000, /*model_type*/1, /*color_id*/5);
+INSERT INTO `dress_color_data` VALUES (/*chara_id*/287, /*dress_id*/8001000, /*model_type*/1, /*color_id*/5);
+INSERT INTO `dress_color_data` VALUES (/*chara_id*/304, /*dress_id*/8001000, /*model_type*/1, /*color_id*/5);
+INSERT INTO `dress_color_data` VALUES (/*chara_id*/309, /*dress_id*/8001000, /*model_type*/1, /*color_id*/5);
 CREATE INDEX 'dress_color_data_0_chara_id_1_model_type' on 'dress_color_data'('chara_id','model_type');

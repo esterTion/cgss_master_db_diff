@@ -455,6 +455,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60032, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60032, /*img*/3, /*discription*/"「方針変更書」はショップから\n有償スタージュエルと交換することなどで入手できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60033, /*img*/1, /*discription*/"「デレマス観光大使ギャラリー」では、アイドルたちが\n自身の出身地を巡るイラストを見ることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60034, /*img*/1, /*discription*/"アプリアイコン設定が追加されました。\nホーム画面などに表示されるアプリアイコンを\n変更することができますよ !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60035, /*img*/1, /*discription*/"「セレクトショップ プリヴェ」オープン ! \nセレクトショップでは、\nアイドルが着用できる私服を販売しています。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60035, /*img*/1, /*discription*/"私服ごとの着用可能アイドルは\n各私服の「衣装詳細」ボタンで確認ができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60035, /*img*/2, /*discription*/"購入した私服は3DLIVEや\nフォトスタジオなどで利用できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/1, /*discription*/"「LIVE PARTY!!」では、協力LIVEを行うことで、\n「スターエンブレム」が獲得できます。\n「スターエンブレム」を集めると、過去イベントの報酬や、\nアイテムとの交換ができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。\n楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/3, /*discription*/"カジュアルマッチを有効にした場合は、\n異なる難易度を選択したプロデューサーもマッチング対象となり、\nLIVEを行います。");
@@ -501,7 +504,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/3, /*discription*/"LIVE Grooveでは、その3曲で連続してLIVEを行います。\n※3曲の間ライフは引き継がれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/4, /*discription*/"LIVE中、盛り上がりに応じて「ハコユレLv」が計測されます。\n3曲合わせた「ハコユレLv」が17以上になると、\nアンコールが発生します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/5, /*discription*/"難易度がMASTER以上で、ハコユレLvが21以上の場合、\nアンコール楽曲の難易度で「MASTER+」が選択できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/6, /*discription*/"LIVE Groove Visual burstでは、ビジュアルのアピール値が\n通常よりアップします。\nビジュアルアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/6, /*discription*/"LIVE Groove Dance burstでは、ダンスのアピール値が\n通常よりアップします。\nダンスアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80202, /*img*/1, /*discription*/" ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/1, /*discription*/"「達成pt報酬」、「イベントptランキング報酬」、\n「ハイスコアランキング報酬」で、イベント限定の\nSレアアイドルやルームアイテムが獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/1, /*discription*/"イベント限定営業で「イベントpt」を獲得できます。\nイベント限定営業はイベント期間中のみ\nプレイすることができます。");
@@ -510,7 +513,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/3, /*discription*/"LIVE Grooveでは、その3曲で連続してLIVEを行います。\n※3曲の間ライフは引き継がれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/4, /*discription*/"LIVE中、盛り上がりに応じて「ハコユレLv」が計測されます。\n3曲合わせた「ハコユレLv」が17以上になると、\nアンコールが発生します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/5, /*discription*/"難易度がMASTER以上で、ハコユレLvが21以上の場合、\nアンコール楽曲の難易度で「MASTER+」が選択できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/6, /*discription*/"LIVE Groove Visual burstでは、ビジュアルのアピール値が\n通常よりアップします。\nビジュアルアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/6, /*discription*/"LIVE Groove Dance burstでは、ダンスのアピール値が\n通常よりアップします。\nダンスアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/1, /*discription*/"「達成pt報酬」で、イベント限定のSレアアイドルや\nルームアイテムを手にいれましょう。\nまた期間中にイベントのLIVEをプレイすると、\n限定のアイドルを確率で手に入れることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。\n楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/3, /*discription*/"本イベントは、専用ユニットでLIVEを行います。ユニットには5つの「ポジション」があります。\n各プロデューサーのアイドルが、ポジションを1つずつ担当し、5人の共通ユニットが編成されます。\n※自分のアイドルがどのポジションを担当するかはランダムで決定されます。\n※楽曲タイプとポジションごとにアイドルを設定できます。");
@@ -738,7 +741,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90173, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90173, /*img*/3, /*discription*/"過去に期間限定で販売していた\nルームアイテムを復刻販売中 !\n復刻販売のラインナップは毎週変わります ! !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90174, /*img*/1, /*discription*/"チャンスチケットの配布は終了しました。\n結果発表までお楽しみに !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90175, /*img*/1, /*discription*/"現在当選結果を発表中です。\n配布期間中にチャンスチケットを獲得した方は\n当選結果を確認しましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90176, /*img*/1, /*discription*/"「セレクトショップ」近日オープン ! \n現在開店準備を進めています ! \n詳細はオープン日に公開します。お楽しみに ! ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90176, /*img*/1, /*discription*/"「セレクトショップ プリヴェ」オープン ! \nセレクトショップでは、\nアイドルが着用できる私服を販売しています。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90176, /*img*/1, /*discription*/"私服ごとの着用可能アイドルは\n各私服の「衣装詳細」ボタンで確認ができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90176, /*img*/2, /*discription*/"購入した私服は3DLIVEや\nフォトスタジオなどで利用できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90177, /*img*/1, /*discription*/"「プラチナオーディションガシャ\n1日1回10連無料キャンペーン」を開催中 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90177, /*img*/1, /*discription*/"キャンペーン期間中1日1回無料で\n10連ガシャを引くことができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90177, /*img*/1, /*discription*/"1日1回無料で引ける10連ガシャは、\n毎日24時にリセットされます。");
