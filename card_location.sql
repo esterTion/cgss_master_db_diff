@@ -1587,3 +1587,9 @@ INSERT INTO `card_location` VALUES (/*index*/1601, /*text*/"深海の城の大�
 INSERT INTO `card_location` VALUES (/*index*/1602, /*text*/"ビル・屋上");
 INSERT INTO `card_location` VALUES (/*index*/1603, /*text*/"見つめ直した街並み");
 INSERT INTO `card_location` VALUES (/*index*/1604, /*text*/"移り変わる街並み");
+INSERT INTO `card_location` VALUES (/*index*/1605, /*text*/"撮影スタジオ・休憩中");
+INSERT INTO `card_location` VALUES (/*index*/1606, /*text*/"廃墟の館");
+INSERT INTO `card_location` VALUES (/*index*/1607, /*text*/"サーカス風LIVEステージ");
+INSERT INTO `card_location` VALUES (/*index*/1608, /*text*/"廃病院のお化け屋敷");
+INSERT INTO `card_location` VALUES (/*index*/1609, /*text*/"ハロウィンナイト★診察室");
+INSERT INTO `card_location` VALUES (/*index*/1610, /*text*/"マスカレードパーティー");
