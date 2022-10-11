@@ -1013,6 +1013,7 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/210, /*text*/"{0}/15枚
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/211, /*text*/"最大所持数15枚");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/212, /*text*/"[ff7a7a]並べ替え設定は楽曲タイプ毎に保存されています[-]");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/213, /*text*/"「レガシーMASTER+」をONにすると、\nイベント開催当時のMASTER+をプレイできます。\n\nレガシーMASTER+の詳細については、\nメニュー画面「ヘルプ」の大項目「LIVE」より\n項目『難易度「MASTER+」』をご確認ください。");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/214, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/1, /*text*/"月間獲得ファン数ランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/2, /*text*/"今期のランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/3, /*text*/"前期のランキング");
@@ -2099,6 +2100,7 @@ INSERT INTO `text_data` VALUES (/*category*/25, /*index*/104, /*text*/"エラー
 INSERT INTO `text_data` VALUES (/*category*/25, /*index*/105, /*text*/"[ff7a7a]「ムービー」非対応楽曲は「2Dリッチ」になります[-]");
 INSERT INTO `text_data` VALUES (/*category*/25, /*index*/106, /*text*/"キャンペーン終了");
 INSERT INTO `text_data` VALUES (/*category*/25, /*index*/107, /*text*/"キャンペーンが終了したため\nプレイリストの再生を終了します");
+INSERT INTO `text_data` VALUES (/*category*/25, /*index*/108, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/1, /*text*/"撮影セッティング");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/2, /*text*/"メニュー");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/3, /*text*/"オーダー");
@@ -2198,6 +2200,15 @@ INSERT INTO `text_data` VALUES (/*category*/27, /*index*/44, /*text*/"ルート�
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/45, /*text*/"Ex");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/46, /*text*/"MAP{0}");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/47, /*text*/"課題は1回のLIVEで、全て達成する必要はありません");
+INSERT INTO `text_data` VALUES (/*category*/27, /*index*/48, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/27, /*index*/49, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/27, /*index*/50, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/27, /*index*/51, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/27, /*index*/52, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/27, /*index*/53, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/27, /*index*/54, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/27, /*index*/56, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/27, /*index*/58, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/28, /*index*/1, /*text*/"営業");
 INSERT INTO `text_data` VALUES (/*category*/28, /*index*/2, /*text*/"アイドルを営業に行かせることができます");
 INSERT INTO `text_data` VALUES (/*category*/28, /*index*/3, /*text*/"未選択");
