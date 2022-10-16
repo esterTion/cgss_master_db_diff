@@ -1594,3 +1594,4 @@ INSERT INTO `card_location` VALUES (/*index*/1608, /*text*/"廃病院のお化�
 INSERT INTO `card_location` VALUES (/*index*/1609, /*text*/"ハロウィンナイト★診察室");
 INSERT INTO `card_location` VALUES (/*index*/1610, /*text*/"マスカレードパーティー");
 INSERT INTO `card_location` VALUES (/*index*/1611, /*text*/"ヨーロッパの空・夜");
+INSERT INTO `card_location` VALUES (/*index*/1612, /*text*/"観覧車の中");
