@@ -1595,3 +1595,4 @@ INSERT INTO `card_location` VALUES (/*index*/1609, /*text*/"ハロウィンナ�
 INSERT INTO `card_location` VALUES (/*index*/1610, /*text*/"マスカレードパーティー");
 INSERT INTO `card_location` VALUES (/*index*/1611, /*text*/"ヨーロッパの空・夜");
 INSERT INTO `card_location` VALUES (/*index*/1612, /*text*/"観覧車の中");
+INSERT INTO `card_location` VALUES (/*index*/1613, /*text*/"雫の部屋");

@@ -16,6 +16,7 @@ INSERT INTO `dress_data` VALUES (/*id*/15, /*name*/"Go To Paradise", /*descripti
 INSERT INTO `dress_data` VALUES (/*id*/16, /*name*/"Go To Paradise/リゾート", /*description*/"楽園を満喫するためのドレス。\nステージは爽やかな青空と白い雲のように、\nリゾートでの姿は、地上で輝く太陽のよう。\n2つの着回しで、アイドルも遊びも楽しもう。", /*open_type*/2, /*dress_type*/1, /*closet_type*/0, /*brand_id*/0);
 INSERT INTO `dress_data` VALUES (/*id*/17, /*name*/"ネクスト・フロンティア／コーデ", /*description*/"パーツごとにカラーを変更できる\nドレスコーデ対応衣装になります。", /*open_type*/2, /*dress_type*/2, /*closet_type*/1, /*brand_id*/0);
 INSERT INTO `dress_data` VALUES (/*id*/18, /*name*/"ハピネス・エール", /*description*/"みんなの幸せを願う、少女たちの衣装。\n新しい時代は、すぐそこまで来ている。\n次の扉をアイドルと一緒に開いて、\n笑顔溢れる毎日にしよう。", /*open_type*/4, /*dress_type*/1, /*closet_type*/0, /*brand_id*/0);
+INSERT INTO `dress_data` VALUES (/*id*/19, /*name*/"VRコミュ衣装", /*description*/"VR第5話で使用/ダンシングデッドで使用", /*open_type*/99, /*dress_type*/0, /*closet_type*/0, /*brand_id*/0);
 INSERT INTO `dress_data` VALUES (/*id*/20, /*name*/"コネクテッド・パラレル", /*description*/"全世界と繋がる、最先端のドレス。\n時代に合わせて形を変えながら、\n少女たちの夢は、変わらず輝き続ける。", /*open_type*/2, /*dress_type*/1, /*closet_type*/0, /*brand_id*/0);
 INSERT INTO `dress_data` VALUES (/*id*/21, /*name*/"コネクテッド・パラレル/パンツ", /*description*/"全世界と繋がる、最先端のドレス。\n時代に合わせて形を変えながら、\n少女たちの夢は、変わらず輝き続ける。", /*open_type*/2, /*dress_type*/1, /*closet_type*/0, /*brand_id*/0);
 INSERT INTO `dress_data` VALUES (/*id*/22, /*name*/"MV登場衣装１", /*description*/"just-us-justiceMV登場衣装", /*open_type*/99, /*dress_type*/0, /*closet_type*/0, /*brand_id*/0);
