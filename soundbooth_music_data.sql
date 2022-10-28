@@ -211,3 +211,4 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200162, /*name*/"サマ�
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200163, /*name*/"ギョーてん ! しーわーるど ! （BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/13);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200164, /*name*/"廻談詣り（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/14);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200165, /*name*/"MOTTO!（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/15);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200166, /*name*/"UNIQU3 VOICES!!!（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/16);
