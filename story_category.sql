@@ -499,3 +499,4 @@ INSERT INTO `story_category` VALUES (/*id*/517, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/518, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"和久井留美 / 椎名法子", /*sub_title*/"和久井留美 / 椎名法子", /*disp_order*/193, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/519, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"認めてくれなくたっていいよ", /*sub_title*/"認めてくれなくたっていいよ", /*disp_order*/195, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/520, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ダンシング・デッド", /*sub_title*/"ダンシング・デッド", /*disp_order*/196, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/522, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"秋めいて Ding Dong Dang !", /*sub_title*/"秋めいて Ding Dong Dang !", /*disp_order*/197, /*filter_type*/0);
