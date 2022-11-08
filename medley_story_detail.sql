@@ -358,4 +358,6 @@ INSERT INTO `medley_story_detail` VALUES (/*id*/6050, /*event_id*/3042, /*type*/
 INSERT INTO `medley_story_detail` VALUES (/*id*/6051, /*event_id*/3042, /*type*/0, /*open_event_point*/3000, /*next_detail_id*/6052);
 INSERT INTO `medley_story_detail` VALUES (/*id*/6052, /*event_id*/3042, /*type*/0, /*open_event_point*/5000, /*next_detail_id*/6053);
 INSERT INTO `medley_story_detail` VALUES (/*id*/6053, /*event_id*/3042, /*type*/2, /*open_event_point*/0, /*next_detail_id*/0);
+INSERT INTO `medley_story_detail` VALUES (/*id*/6054, /*event_id*/3042, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
+INSERT INTO `medley_story_detail` VALUES (/*id*/6055, /*event_id*/3042, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
 CREATE INDEX 'medley_story_detail_0_event_id_1_type' on 'medley_story_detail'('event_id','type');

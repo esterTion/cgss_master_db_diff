@@ -1611,5 +1611,7 @@ INSERT INTO `card_location` VALUES (/*index*/1625, /*text*/"温泉街の観光�
 INSERT INTO `card_location` VALUES (/*index*/1626, /*text*/"花燃ゆる地");
 INSERT INTO `card_location` VALUES (/*index*/1627, /*text*/"野天風呂");
 INSERT INTO `card_location` VALUES (/*index*/1628, /*text*/"約束の太鼓橋");
+INSERT INTO `card_location` VALUES (/*index*/1629, /*text*/"里山の温泉");
+INSERT INTO `card_location` VALUES (/*index*/1630, /*text*/"レトロモダン・ハイカラ喫茶");
 INSERT INTO `card_location` VALUES (/*index*/1636, /*text*/"紅葉を臨む露天風呂");
 INSERT INTO `card_location` VALUES (/*index*/1637, /*text*/"紅葉の舞うお寺");

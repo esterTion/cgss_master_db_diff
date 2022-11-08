@@ -543,13 +543,14 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/6, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/7, /*discription*/"イベント設定では、公演の準備画面の「おすすめ設定」で\n選曲される楽曲のLvを調整できます。\nまたツアーのタイトルを自由に変更できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/1, /*discription*/"「イベント参加ボーナス」、「MAP報酬」、「課題クリア報酬」\nで、イベント限定のSレアアイドルやルームアイテムを\n手にいれましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"本イベントでは、LIVEを行うことでアイドルたちが\nMAPを進んでいきます。楽曲の難易度やLIVEの\n結果に応じて、進行できるマス数が変化します。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"また、ルートはイベント限定アイドルごとに分かれており、\nそれぞれストーリーや報酬が異なります。\n※「和久井留美」ルートのMAP1をクリアすると、\n「椎名法子」ルートが解放されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/2, /*discription*/"また、ルートはイベント限定アイドルごとに分かれており、\nそれぞれストーリーや報酬が異なります。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/3, /*discription*/"MAPやマスごとの条件を満たしてLIVEを行うと、\nMAP進行ボーナスが発生し、進行できるマス数がアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/3, /*discription*/"MAP進行ボーナスは、MAPにあわせたアイドルを編成したり、\n現在止まっているマスの色に応じた楽曲でLIVEを行うことで発生します。\nボーナス条件はイベントTOPや楽曲の選択画面等で確認できます。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/4, /*discription*/"ゴールに到着すると、トレーナーからMAPごとの課題が出されます。\n※課題の達成状況は累積でカウントされるため、1回のLIVEでクリアできない場合、\n複数回LIVEをすることで達成できます。\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/4, /*discription*/"課題はLIVE以外にも、ススメチケットを消費して\nクリアすることが可能です。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/5, /*discription*/"MAPを進行していると、たまに「進行2倍ボーナス」が\n発生することがあります。進行2倍ボーナスが発生すると、\n次回のLIVEクリア時に進行できるマス数が2倍になります。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/6, /*discription*/"楽曲選択画面の並べ替えメニューで「イベントボーナス」を\n選択すると、現在止まっているマスに適した楽曲を\n簡単に絞り込むことができます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/7, /*discription*/"イベント限定営業で、ススメチケットを獲得できます。\nイベントTOPの「チケットを使用する」ボタンから\n使用でき、1枚につき、MAPを1マス進行可能です。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80701, /*img*/7, /*discription*/"イベント限定営業、「LIVE PARTY!!」では、\nススメチケットを獲得できます。\nイベントTOP等の「チケットを使用する」ボタンから\n使用でき、1枚につき、MAPを1マス進行可能です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/1, /*discription*/"本イベントではイベントガシャ「カーニバルメダルチャンス」を\n引くことで、イベント限定のSレアアイドルや、\nルームアイテム、限定コミュが獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/2, /*discription*/"ガシャを引くために必要な「カーニバルメダル」は、\nマップ上にあるLIVEステージ型の建物「BOOTH」から\nLIVEを行う事で獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/3, /*discription*/"BOOTHに合わせた楽曲とユニットを設定して\nLIVEを開始しましょう !\n※複数のBOOTHに同じ楽曲や\nユニットを設定することはできません。");
