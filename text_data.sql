@@ -3313,8 +3313,8 @@ INSERT INTO `text_data` VALUES (/*category*/53, /*index*/8, /*text*/"プラチ�
 INSERT INTO `text_data` VALUES (/*category*/53, /*index*/9, /*text*/"結果発表時に配布されます");
 INSERT INTO `text_data` VALUES (/*category*/54, /*index*/1, /*text*/"ログインボーナス獲得エラー");
 INSERT INTO `text_data` VALUES (/*category*/54, /*index*/2, /*text*/"正常にログインボーナスが\n受け取れませんでした。\nタイトル画面に戻ります。");
-INSERT INTO `text_data` VALUES (/*category*/54, /*index*/3, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/54, /*index*/4, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/54, /*index*/3, /*text*/"プレゼント付与");
+INSERT INTO `text_data` VALUES (/*category*/54, /*index*/4, /*text*/"運営からのプレゼントです。");
 INSERT INTO `text_data` VALUES (/*category*/55, /*index*/1, /*text*/"アイテムセット");
 INSERT INTO `text_data` VALUES (/*category*/55, /*index*/2, /*text*/"アイテム\nセット");
 INSERT INTO `text_data` VALUES (/*category*/55, /*index*/3, /*text*/"セット内容");
@@ -3813,9 +3813,9 @@ INSERT INTO `text_data` VALUES (/*category*/66, /*index*/65, /*text*/"方針変�
 INSERT INTO `text_data` VALUES (/*category*/66, /*index*/66, /*text*/"購入数");
 INSERT INTO `text_data` VALUES (/*category*/66, /*index*/67, /*text*/"有償スタージュエル");
 INSERT INTO `text_data` VALUES (/*category*/66, /*index*/68, /*text*/"アイテム所持数");
-INSERT INTO `text_data` VALUES (/*category*/66, /*index*/69, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/66, /*index*/70, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/66, /*index*/71, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/66, /*index*/69, /*text*/"期限付きアイテム所持");
+INSERT INTO `text_data` VALUES (/*category*/66, /*index*/70, /*text*/"[D64498FF]{0}[-]を所持しています");
+INSERT INTO `text_data` VALUES (/*category*/66, /*index*/71, /*text*/"期間限定アイテムを\n所持しています");
 INSERT INTO `text_data` VALUES (/*category*/67, /*index*/1, /*text*/"デレステビンGO !");
 INSERT INTO `text_data` VALUES (/*category*/67, /*index*/2, /*text*/"5月23日まで抽選結果発表中 !");
 INSERT INTO `text_data` VALUES (/*category*/67, /*index*/3, /*text*/"ビンゴシート\n作り直し");
