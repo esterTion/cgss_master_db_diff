@@ -1615,5 +1615,8 @@ INSERT INTO `card_location` VALUES (/*index*/1629, /*text*/"里山の温泉");
 INSERT INTO `card_location` VALUES (/*index*/1630, /*text*/"レトロモダン・ハイカラ喫茶");
 INSERT INTO `card_location` VALUES (/*index*/1631, /*text*/"街を見渡せるビルの上");
 INSERT INTO `card_location` VALUES (/*index*/1632, /*text*/"撮影セット・サーカス");
+INSERT INTO `card_location` VALUES (/*index*/1633, /*text*/"アンティークショップ");
+INSERT INTO `card_location` VALUES (/*index*/1634, /*text*/"菌糸に覆われた森");
+INSERT INTO `card_location` VALUES (/*index*/1635, /*text*/"クラブ・DJイベント");
 INSERT INTO `card_location` VALUES (/*index*/1636, /*text*/"紅葉を臨む露天風呂");
 INSERT INTO `card_location` VALUES (/*index*/1637, /*text*/"紅葉の舞うお寺");

@@ -36,8 +36,8 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100034, /*name*/"LIVE SU
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100035, /*name*/"ルーム ～night", /*album_id*/8, /*jacket_id*/100001, /*sort*/35);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100036, /*name*/"bonus track タイトル「Shine!!」", /*album_id*/8, /*jacket_id*/100001, /*sort*/36);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100037, /*name*/"コミュ ～newyear", /*album_id*/8, /*jacket_id*/100001, /*sort*/37);
-INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100038, /*name*/"プラチナ宝くじ", /*album_id*/8, /*jacket_id*/100001, /*sort*/38);
-INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100039, /*name*/"プラチナ宝くじ結果発表", /*album_id*/8, /*jacket_id*/100001, /*sort*/39);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100038, /*name*/"プラチナチャンス", /*album_id*/8, /*jacket_id*/100001, /*sort*/38);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100039, /*name*/"プラチナチャンス結果発表", /*album_id*/8, /*jacket_id*/100001, /*sort*/39);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100040, /*name*/"3周年カウントダウン", /*album_id*/8, /*jacket_id*/100001, /*sort*/40);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100041, /*name*/"シンデレラガール総選挙", /*album_id*/8, /*jacket_id*/100001, /*sort*/41);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100042, /*name*/"きらりんラボ", /*album_id*/8, /*jacket_id*/100001, /*sort*/42);

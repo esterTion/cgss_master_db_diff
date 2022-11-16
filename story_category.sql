@@ -501,3 +501,4 @@ INSERT INTO `story_category` VALUES (/*id*/519, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/520, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ダンシング・デッド", /*sub_title*/"ダンシング・デッド", /*disp_order*/196, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/522, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"秋めいて Ding Dong Dang !", /*sub_title*/"秋めいて Ding Dong Dang !", /*disp_order*/197, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/523, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"大原みちる / 真鍋いつき", /*sub_title*/"大原みちる / 真鍋いつき", /*disp_order*/198, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/524, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ダンス・ダンス・ダンス", /*sub_title*/"ダンス・ダンス・ダンス", /*disp_order*/199, /*filter_type*/0);
