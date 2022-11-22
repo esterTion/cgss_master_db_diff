@@ -1620,3 +1620,6 @@ INSERT INTO `card_location` VALUES (/*index*/1634, /*text*/"菌糸に覆われ�
 INSERT INTO `card_location` VALUES (/*index*/1635, /*text*/"クラブ・DJイベント");
 INSERT INTO `card_location` VALUES (/*index*/1636, /*text*/"紅葉を臨む露天風呂");
 INSERT INTO `card_location` VALUES (/*index*/1637, /*text*/"紅葉の舞うお寺");
+INSERT INTO `card_location` VALUES (/*index*/1638, /*text*/"牛丼チェーン店");
+INSERT INTO `card_location` VALUES (/*index*/1639, /*text*/"女子プロレス会場");
+INSERT INTO `card_location` VALUES (/*index*/1640, /*text*/"秋めくLIVEステージ");
