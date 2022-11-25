@@ -271,3 +271,4 @@ INSERT INTO `gift_message` VALUES (/*id*/20088, /*discription*/"「LIKE4LIVE #cg
 INSERT INTO `gift_message` VALUES (/*id*/20089, /*discription*/"SSレアアイドル勧誘チャレンジの信頼度{0}達成報酬です。", /*type_1*/90, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20090, /*discription*/"SSレアアイドル勧誘チャレンジの参加報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20091, /*discription*/"SSレアアイドル勧誘チャレンジの正式加入報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20093, /*discription*/"「Twinkle LIVE Constellation Gradation連動キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
