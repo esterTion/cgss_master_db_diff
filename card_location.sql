@@ -1623,3 +1623,5 @@ INSERT INTO `card_location` VALUES (/*index*/1637, /*text*/"紅葉の舞うお�
 INSERT INTO `card_location` VALUES (/*index*/1638, /*text*/"牛丼チェーン店");
 INSERT INTO `card_location` VALUES (/*index*/1639, /*text*/"女子プロレス会場");
 INSERT INTO `card_location` VALUES (/*index*/1640, /*text*/"秋めくLIVEステージ");
+INSERT INTO `card_location` VALUES (/*index*/1641, /*text*/"地方の和菓子屋");
+INSERT INTO `card_location` VALUES (/*index*/1642, /*text*/"特設ステージ");
