@@ -1625,3 +1625,5 @@ INSERT INTO `card_location` VALUES (/*index*/1639, /*text*/"女子プロレス�
 INSERT INTO `card_location` VALUES (/*index*/1640, /*text*/"秋めくLIVEステージ");
 INSERT INTO `card_location` VALUES (/*index*/1641, /*text*/"地方の和菓子屋");
 INSERT INTO `card_location` VALUES (/*index*/1642, /*text*/"特設ステージ");
+INSERT INTO `card_location` VALUES (/*index*/1643, /*text*/"綿毛舞う午後の河川敷");
+INSERT INTO `card_location` VALUES (/*index*/1644, /*text*/"いつか、もう一度踏む石畳");
