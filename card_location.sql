@@ -1627,3 +1627,10 @@ INSERT INTO `card_location` VALUES (/*index*/1641, /*text*/"地方の和菓子�
 INSERT INTO `card_location` VALUES (/*index*/1642, /*text*/"特設ステージ");
 INSERT INTO `card_location` VALUES (/*index*/1643, /*text*/"綿毛舞う午後の河川敷");
 INSERT INTO `card_location` VALUES (/*index*/1644, /*text*/"いつか、もう一度踏む石畳");
+INSERT INTO `card_location` VALUES (/*index*/1645, /*text*/"雪の積もった公園");
+INSERT INTO `card_location` VALUES (/*index*/1646, /*text*/"夜のバルコニー");
+INSERT INTO `card_location` VALUES (/*index*/1647, /*text*/"海外・ホテルのラウンジ");
+INSERT INTO `card_location` VALUES (/*index*/1648, /*text*/"雑貨屋の入り口");
+INSERT INTO `card_location` VALUES (/*index*/1649, /*text*/"パーティールーム・キッチン");
+INSERT INTO `card_location` VALUES (/*index*/1650, /*text*/"飾り付けられたログハウス");
+INSERT INTO `card_location` VALUES (/*index*/1651, /*text*/"イタズラされたログハウス");
