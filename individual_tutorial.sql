@@ -183,7 +183,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/"ルームアイテムの並べ替えを行うことができます。\n「追加順」、「必要面積順」など並べ替え条件を選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーは\n倉庫収納数から除外されます。\n収納していても、収納数にカウントされません。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"「さつまいも農園」をテーマにしたアイテムとコーデを追加 !\nホクホク香ばしい焼き芋の香りが、アイドルたちを誘っていますよ !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"「屋上天体観測」をテーマにしたアイテムとコーデを追加 !\n学校の屋上で空いっぱいに広がる星々を見上げてみましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"ルームショップにて、「クリスマス」テーマの\nアイテム、コーデを復刻販売開始 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"ももクロメンバーのぬいぐるみなど、\nももいろクローバーZをモチーフにした\nコラボルームアイテムを期間限定で復刻販売中です !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"「名刀モノノフライト」を設置すると「Majoram Therapie」で\n着用している新衣装で、ももいろクローバーZのメンバーが登場 !\n※メンバーの登場は12月11日 14:59までの期間限定です");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
@@ -930,4 +931,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90701, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90702, /*img*/1, /*discription*/"ハッピーホワイトデーキャンペーン開催 !\n3/14～3/31に特設ページにアクセスして、\n3名のアイドルへプレゼントを贈りましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90702, /*img*/2, /*discription*/"特設ページ右上にある『用意したプレゼント』ボタンを\nタップすると、アイドルに渡せるプレゼントを\n選ぶことができます。\n※3/14以降にアクセスした場合もプレゼントは選択可能です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90702, /*img*/3, /*discription*/"用意したプレゼントは3/14 00:00以降にアイドルへ\n渡すことができます。あなたが選んだプレゼントを\nアイドルに渡して感謝の気持ちを伝えましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90703, /*img*/1, /*discription*/"ハッピークリスマスキャンペーン開催 !\n特設ページにいるブリッツェンのやる気を上げて\nアイドルにクリスマスプレゼントを渡しましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90703, /*img*/2, /*discription*/"集めた「やる気UPにんじん」を特設ページにいるブリッツェンに\n渡すとやる気ゲージが溜まります ! やる気ゲージが満タンになると\nやる気レベルが上がり、報酬を獲得することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90703, /*img*/3, /*discription*/"「やる気UPにんじん」は初めて特設ページに入った際に獲得でき、\nキャンペーン期間中の12/13～12/24の間にLIVEをプレイするか\n1日1回限定のスペシャル営業のプレイでも獲得できます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90703, /*img*/4, /*discription*/"やる気レベルが上がったら、特設ページ右にある「アイドルに会う」\nボタンをタップしてプレゼントを渡すアイドルを選択しましょう ! \nやる気レベルに応じて最大5人まで選択できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90703, /*img*/5, /*discription*/"プレゼントは12/25 00:00以降にアイドルへ渡すことができます。\nブリッツェンと一緒にクリスマスプレゼントをアイドルに渡して\nクリスマスを楽しみましょう !");
 CREATE INDEX 'individual_tutorial_0_id' on 'individual_tutorial'('id');

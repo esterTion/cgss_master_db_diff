@@ -22,3 +22,4 @@ INSERT INTO `item_category` VALUES (/*category_type*/21, /*category_name*/"プ�
 INSERT INTO `item_category` VALUES (/*category_type*/22, /*category_name*/"センター効果バッジ");
 INSERT INTO `item_category` VALUES (/*category_type*/23, /*category_name*/"特技バッジ");
 INSERT INTO `item_category` VALUES (/*category_type*/24, /*category_name*/"アイドル別Sレアチケット");
+INSERT INTO `item_category` VALUES (/*category_type*/25, /*category_name*/"クリスマスキャンペーン");
