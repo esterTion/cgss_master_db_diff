@@ -1642,3 +1642,5 @@ INSERT INTO `card_location` VALUES (/*index*/1656, /*text*/"撮影後の古民�
 INSERT INTO `card_location` VALUES (/*index*/1657, /*text*/"夜の館・スイーツが並ぶ食卓");
 INSERT INTO `card_location` VALUES (/*index*/1658, /*text*/"お花屋さん");
 INSERT INTO `card_location` VALUES (/*index*/1659, /*text*/"ナチュラルテイストな部屋");
+INSERT INTO `card_location` VALUES (/*index*/1660, /*text*/"城前の庭園");
+INSERT INTO `card_location` VALUES (/*index*/1661, /*text*/"愛しき姫との部屋");
