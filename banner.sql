@@ -1731,5 +1731,9 @@ INSERT INTO `banner` VALUES (/*banner_id*/1756, /*type*/1, /*img_id*/30831, /*tr
 INSERT INTO `banner` VALUES (/*banner_id*/1757, /*type*/1, /*img_id*/30832, /*transition*/0, /*page_index*/30832, /*order_num*/1, /*start_date*/"2022-12-16 15:00:00", /*end_date*/"2022-12-19 14:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/1758, /*type*/2, /*img_id*/2048, /*transition*/0, /*page_index*/0, /*order_num*/26, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
 INSERT INTO `banner` VALUES (/*banner_id*/1759, /*type*/17, /*img_id*/4, /*transition*/0, /*page_index*/0, /*order_num*/30, /*start_date*/"2022-12-10 00:00:00", /*end_date*/"2022-12-17 23:59:59");
-INSERT INTO `banner` VALUES (/*banner_id*/1760, /*type*/2, /*img_id*/1083, /*transition*/0, /*page_index*/0, /*order_num*/11, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
+INSERT INTO `banner` VALUES (/*banner_id*/1760, /*type*/2, /*img_id*/1083, /*transition*/0, /*page_index*/0, /*order_num*/26, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
 INSERT INTO `banner` VALUES (/*banner_id*/1761, /*type*/17, /*img_id*/4, /*transition*/0, /*page_index*/0, /*order_num*/30, /*start_date*/"2022-12-18 00:00:00", /*end_date*/"2022-12-31 23:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1763, /*type*/1, /*img_id*/30833, /*transition*/0, /*page_index*/30833, /*order_num*/13, /*start_date*/"2022-12-19 15:00:00", /*end_date*/"2022-12-22 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1764, /*type*/1, /*img_id*/60229, /*transition*/3, /*page_index*/60229, /*order_num*/12, /*start_date*/"2022-12-19 15:00:00", /*end_date*/"2022-12-20 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1765, /*type*/1, /*img_id*/60230, /*transition*/3, /*page_index*/60230, /*order_num*/12, /*start_date*/"2022-12-20 15:00:00", /*end_date*/"2022-12-21 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/1766, /*type*/1, /*img_id*/60231, /*transition*/3, /*page_index*/60231, /*order_num*/12, /*start_date*/"2022-12-21 15:00:00", /*end_date*/"2022-12-22 14:59:59");
