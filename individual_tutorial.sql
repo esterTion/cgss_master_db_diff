@@ -185,8 +185,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーは\n倉庫収納数から除外されます。\n収納していても、収納数にカウントされません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"「屋上天体観測」をテーマにしたアイテムとコーデを追加 !\n学校の屋上で空いっぱいに広がる星々を見上げてみましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"ルームショップにて、「クリスマス」テーマの\nアイテム、コーデを復刻販売開始 !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"ももクロメンバーのぬいぐるみなど、\nももいろクローバーZをモチーフにした\nコラボルームアイテムを期間限定で復刻販売中です !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"「名刀モノノフライト」を設置すると「Majoram Therapie」で\n着用している新衣装で、ももいろクローバーZのメンバーが登場 !\n※メンバーの登場は12月11日 14:59までの期間限定です");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「初日の出キャンプ」をテーマにしたアイテムを追加 !\nコーデや一部アイテムは期間限定で登場 !\n新年は日常から離れて、\nアイドルたちとキャンプをして過ごしませんか？");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"ルームショップにて、「お正月」テーマの\nアイテム、コーデを復刻販売開始 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -787,8 +787,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/1, /*discription*/"獲得可能期間終了後に当選発表を行います。\n当選組み合わせと一致しているチケットが当選となり、\n報酬を獲得することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/2, /*discription*/"当選結果によっては「スカウトチケット」などの\n豪華景品もGETできます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/3, /*discription*/"※1等から9等までと特別賞には当選条件があります。\n詳しくはヘルプをご覧ください。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/4, /*discription*/"今回のプラチナチャンスでは\n「5等確定のチャンスチケット」の獲得条件をリニューアル !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/4, /*discription*/"新たな条件の「プラチナチャンスミッション」は、\nプレイ次第で1日で達成可能となっています。\n自分のプレイスタイルでミッションを達成していきましょう !\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/4, /*discription*/"今回のプラチナチャンスでは\n「5等確定のチャンスチケット」の獲得に必要な\nミッション数を「20」に変更 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/4, /*discription*/"「プラチナチャンスミッション」は、\nプレイ次第で1日で達成可能となっています。\n自分のプレイスタイルでミッションを達成していきましょう !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/4, /*discription*/"LIVEが対象の「プラチナチャンスミッション」は\nオートLIVEでも達成可能です !\n※使用したチケットの枚数に応じて\nミッションの達成条件にカウントされます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/4, /*discription*/"プラチナチャンスミッションを全て達成すると結果発表時に\n「5等確定のチャンスチケット」をゲットできます !\n※9等以上の当選条件を満たしていない場合は獲得できません。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/4, /*discription*/"その他にも、プラチナチャンスミッションを\n一定数達成するごとに報酬をゲットできます !");
