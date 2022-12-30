@@ -15,4 +15,14 @@ INSERT INTO `gacha_condition` VALUES (/*id*/13, /*gacha_id*/63013, /*condition_t
 INSERT INTO `gacha_condition` VALUES (/*id*/14, /*gacha_id*/63014, /*condition_type*/141, /*condition_value_1*/200, /*condition_value_2*/0);
 INSERT INTO `gacha_condition` VALUES (/*id*/15, /*gacha_id*/63015, /*condition_type*/141, /*condition_value_1*/250, /*condition_value_2*/0);
 INSERT INTO `gacha_condition` VALUES (/*id*/16, /*gacha_id*/63016, /*condition_type*/141, /*condition_value_1*/300, /*condition_value_2*/0);
+INSERT INTO `gacha_condition` VALUES (/*id*/17, /*gacha_id*/63017, /*condition_type*/141, /*condition_value_1*/2, /*condition_value_2*/0);
+INSERT INTO `gacha_condition` VALUES (/*id*/18, /*gacha_id*/63018, /*condition_type*/141, /*condition_value_1*/20, /*condition_value_2*/0);
+INSERT INTO `gacha_condition` VALUES (/*id*/19, /*gacha_id*/63019, /*condition_type*/141, /*condition_value_1*/50, /*condition_value_2*/0);
+INSERT INTO `gacha_condition` VALUES (/*id*/20, /*gacha_id*/63020, /*condition_type*/141, /*condition_value_1*/100, /*condition_value_2*/0);
+INSERT INTO `gacha_condition` VALUES (/*id*/21, /*gacha_id*/63021, /*condition_type*/141, /*condition_value_1*/150, /*condition_value_2*/0);
+INSERT INTO `gacha_condition` VALUES (/*id*/22, /*gacha_id*/63022, /*condition_type*/141, /*condition_value_1*/200, /*condition_value_2*/0);
+INSERT INTO `gacha_condition` VALUES (/*id*/23, /*gacha_id*/63023, /*condition_type*/141, /*condition_value_1*/250, /*condition_value_2*/0);
+INSERT INTO `gacha_condition` VALUES (/*id*/24, /*gacha_id*/63024, /*condition_type*/141, /*condition_value_1*/300, /*condition_value_2*/0);
+INSERT INTO `gacha_condition` VALUES (/*id*/25, /*gacha_id*/63025, /*condition_type*/141, /*condition_value_1*/350, /*condition_value_2*/0);
+INSERT INTO `gacha_condition` VALUES (/*id*/26, /*gacha_id*/63026, /*condition_type*/141, /*condition_value_1*/400, /*condition_value_2*/0);
 CREATE INDEX 'gacha_condition_0_gacha_id' on 'gacha_condition'('gacha_id');

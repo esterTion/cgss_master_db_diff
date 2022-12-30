@@ -32,6 +32,7 @@ INSERT INTO `dress_target_2` VALUES (/*id*/31, /*target_chara_type*/7, /*target_
 INSERT INTO `dress_target_2` VALUES (/*id*/32, /*target_chara_type*/7, /*target_chara*/0);
 INSERT INTO `dress_target_2` VALUES (/*id*/33, /*target_chara_type*/7, /*target_chara*/0);
 INSERT INTO `dress_target_2` VALUES (/*id*/34, /*target_chara_type*/7, /*target_chara*/0);
+INSERT INTO `dress_target_2` VALUES (/*id*/35, /*target_chara_type*/7, /*target_chara*/0);
 INSERT INTO `dress_target_2` VALUES (/*id*/100, /*target_chara_type*/0, /*target_chara*/0);
 INSERT INTO `dress_target_2` VALUES (/*id*/201, /*target_chara_type*/0, /*target_chara*/0);
 INSERT INTO `dress_target_2` VALUES (/*id*/202, /*target_chara_type*/0, /*target_chara*/0);
@@ -94,6 +95,7 @@ INSERT INTO `dress_target_2` VALUES (/*id*/7054000, /*target_chara_type*/0, /*ta
 INSERT INTO `dress_target_2` VALUES (/*id*/7055000, /*target_chara_type*/0, /*target_chara*/"167,194,308");
 INSERT INTO `dress_target_2` VALUES (/*id*/7056000, /*target_chara_type*/0, /*target_chara*/108);
 INSERT INTO `dress_target_2` VALUES (/*id*/7057000, /*target_chara_type*/0, /*target_chara*/"133,246,306,201");
+INSERT INTO `dress_target_2` VALUES (/*id*/7059000, /*target_chara_type*/0, /*target_chara*/"162,178,230,258,305");
 INSERT INTO `dress_target_2` VALUES (/*id*/7065000, /*target_chara_type*/0, /*target_chara*/233);
 INSERT INTO `dress_target_2` VALUES (/*id*/8001000, /*target_chara_type*/0, /*target_chara*/"101,102,103,106,107,109,110,111,112,113,116,117,119,121,122,123,126,129,132,135,137,140,141,145,148,151,153,155,156,159,161,163,172,174,175,176,178,179,184,191,192,198,202,216,218,222,225,226,230,232,234,235,236,238,239,242,247,249,250,254,255,258,262,263,264,266,267,268,269,270,274,284,286,287,289,291,292,296,304,305,308,309,310");
 INSERT INTO `dress_target_2` VALUES (/*id*/8002000, /*target_chara_type*/0, /*target_chara*/"167,182,187,211,219,165,177,185,186,203,212,244,259,288,297,131,147,158,197,220,227,290,300,307,139,168,169,171,181,183,195,200,210,241,245,265,280,189,196,213,228,231,261,164,253,271");

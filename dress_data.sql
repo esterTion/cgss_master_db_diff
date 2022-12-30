@@ -32,6 +32,7 @@ INSERT INTO `dress_data` VALUES (/*id*/31, /*name*/"MV登場衣装4", /*descript
 INSERT INTO `dress_data` VALUES (/*id*/32, /*name*/"メイク・マイ・トレンド", /*description*/"新しい自分へと踏み出す少女たちのドレス。\n街はこの瞬間にも、目まぐるしく変化する。\nコーデは自由。服と一緒に気分も着替えて、\nまだ見ぬ自分に会いに出かけよう。", /*open_type*/2, /*dress_type*/1, /*closet_type*/0, /*brand_id*/0);
 INSERT INTO `dress_data` VALUES (/*id*/33, /*name*/"メイク・マイ・トレンド／着せ替え", /*description*/"新しい自分へと踏み出す少女たちのドレス。\n街はこの瞬間にも、目まぐるしく変化する。\nコーデは自由。服と一緒に気分も着替えて、\nまだ見ぬ自分に会いに出かけよう。", /*open_type*/2, /*dress_type*/4, /*closet_type*/2, /*brand_id*/0);
 INSERT INTO `dress_data` VALUES (/*id*/34, /*name*/"MV登場衣装5", /*description*/"廻談詣り MV登場衣装", /*open_type*/99, /*dress_type*/0, /*closet_type*/0, /*brand_id*/0);
+INSERT INTO `dress_data` VALUES (/*id*/35, /*name*/"マイファーストスター", /*description*/"夢見る少女たちのドレス。\n少女たちは扉を開け、\n輝く星を目指し一歩を踏み出した。\nその一歩は小さくとも希望に満ちている。", /*open_type*/4, /*dress_type*/1, /*closet_type*/0, /*brand_id*/0);
 INSERT INTO `dress_data` VALUES (/*id*/100, /*name*/"SSレア衣装", /*description*/"", /*open_type*/1, /*dress_type*/1, /*closet_type*/0, /*brand_id*/0);
 INSERT INTO `dress_data` VALUES (/*id*/201, /*name*/"Sレア衣装", /*description*/"", /*open_type*/0, /*dress_type*/3, /*closet_type*/0, /*brand_id*/0);
 INSERT INTO `dress_data` VALUES (/*id*/202, /*name*/"レア衣装", /*description*/"", /*open_type*/0, /*dress_type*/3, /*closet_type*/0, /*brand_id*/0);
@@ -94,6 +95,7 @@ INSERT INTO `dress_data` VALUES (/*id*/7054000, /*name*/"アイディール・�
 INSERT INTO `dress_data` VALUES (/*id*/7055000, /*name*/"レイジング・ソウル", /*description*/"世界に声を響かせる少女たちの衣装。\n鮮烈な姿と激情の旋律を、彼女たちは\nその身にまとう。残酷な世界に、\n自分たちの存在を刻みつけるために。", /*open_type*/5, /*dress_type*/3, /*closet_type*/0, /*brand_id*/0);
 INSERT INTO `dress_data` VALUES (/*id*/7056000, /*name*/"しろくま♡", /*description*/"夏をテーマにした、かな子の衣装。\nしっかりした着ぐるみだが、中は意外と快適。\nしろくまの気分で夏も涼しく過ごせそう。\nデザインした者の想いがこもっている。", /*open_type*/3, /*dress_type*/3, /*closet_type*/0, /*brand_id*/0);
 INSERT INTO `dress_data` VALUES (/*id*/7057000, /*name*/"ミラクル・キラパス", /*description*/"時空を超えてめぐり逢った少女たちのドレス。\nいまできる全力で、みんなに笑顔を。\nこれは、そんな願いで形作られた、\n幸せを届ける魔法。", /*open_type*/3, /*dress_type*/1, /*closet_type*/0, /*brand_id*/0);
+INSERT INTO `dress_data` VALUES (/*id*/7059000, /*name*/"ビビッド・マイ・ワールド", /*description*/"自分の「好き」を貫く少女たちのドレス。\nそれぞれ個性があって、違うからこそ面白い。\nそんな想いを形にした一着は、身にまとう者を\nより色鮮やかな世界へと連れてゆく。", /*open_type*/5, /*dress_type*/3, /*closet_type*/0, /*brand_id*/0);
 INSERT INTO `dress_data` VALUES (/*id*/7065000, /*name*/"黒ネコサンタ", /*description*/"冬とクリスマスをテーマにした、茄子の衣装。\n縁起のいい黒ネコサンタが、\n癒しと幸せをみんなにプレゼント。\nデザインした者の想いがこもっている。", /*open_type*/3, /*dress_type*/3, /*closet_type*/0, /*brand_id*/0);
 INSERT INTO `dress_data` VALUES (/*id*/8001000, /*name*/"リボンブラウスデート", /*description*/"島村卯月がPRをつとめる、\nブランド「Stella Closet」の一着。\n少し背伸びした上品なガーリーさで、\nとっておきのお出かけをきらきらの一日に。", /*open_type*/7, /*dress_type*/0, /*closet_type*/0, /*brand_id*/1);
 INSERT INTO `dress_data` VALUES (/*id*/8002000, /*name*/"オトナのアーバンカジュアル", /*description*/"渋谷凛がPRをつとめる、\nブランド「etc. Style」のコーデ。\n強気のデニムを、ジャケットでまとめて。\n秘めた意思は、大人の証。", /*open_type*/7, /*dress_type*/0, /*closet_type*/0, /*brand_id*/2);

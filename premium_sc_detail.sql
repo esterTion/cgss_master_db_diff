@@ -60,6 +60,8 @@ INSERT INTO `premium_sc_detail` VALUES (/*item_id*/80058, /*jewel_shop_id*/79, /
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/80059, /*jewel_shop_id*/79, /*use_period_day*/7, /*all_user_use_end_date*/"", /*is_cartoon*/0);
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/80060, /*jewel_shop_id*/84, /*use_period_day*/7, /*all_user_use_end_date*/"", /*is_cartoon*/0);
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/80061, /*jewel_shop_id*/84, /*use_period_day*/7, /*all_user_use_end_date*/"", /*is_cartoon*/0);
+INSERT INTO `premium_sc_detail` VALUES (/*item_id*/80062, /*jewel_shop_id*/85, /*use_period_day*/7, /*all_user_use_end_date*/"", /*is_cartoon*/0);
+INSERT INTO `premium_sc_detail` VALUES (/*item_id*/80063, /*jewel_shop_id*/85, /*use_period_day*/7, /*all_user_use_end_date*/"", /*is_cartoon*/0);
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/81001, /*jewel_shop_id*/4, /*use_period_day*/0, /*all_user_use_end_date*/"2017-02-28 23:59:59", /*is_cartoon*/0);
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/81002, /*jewel_shop_id*/5, /*use_period_day*/0, /*all_user_use_end_date*/"2017-02-28 23:59:59", /*is_cartoon*/0);
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/81003, /*jewel_shop_id*/8, /*use_period_day*/0, /*all_user_use_end_date*/"2017-11-10 23:59:59", /*is_cartoon*/0);
@@ -100,4 +102,5 @@ INSERT INTO `premium_sc_detail` VALUES (/*item_id*/85001, /*jewel_shop_id*/41, /
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/85002, /*jewel_shop_id*/42, /*use_period_day*/7, /*all_user_use_end_date*/"", /*is_cartoon*/0);
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/87001, /*jewel_shop_id*/51, /*use_period_day*/0, /*all_user_use_end_date*/"", /*is_cartoon*/0);
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/87002, /*jewel_shop_id*/68, /*use_period_day*/0, /*all_user_use_end_date*/"", /*is_cartoon*/0);
+INSERT INTO `premium_sc_detail` VALUES (/*item_id*/87003, /*jewel_shop_id*/82, /*use_period_day*/0, /*all_user_use_end_date*/"", /*is_cartoon*/0);
 CREATE INDEX 'premium_sc_detail_0_jewel_shop_id' on 'premium_sc_detail'('jewel_shop_id');
