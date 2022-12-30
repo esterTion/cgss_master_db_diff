@@ -1650,3 +1650,5 @@ INSERT INTO `card_location` VALUES (/*index*/1664, /*text*/"レモネード工�
 INSERT INTO `card_location` VALUES (/*index*/1665, /*text*/"正門前");
 INSERT INTO `card_location` VALUES (/*index*/1666, /*text*/"スタジオ");
 INSERT INTO `card_location` VALUES (/*index*/1667, /*text*/"収録スタジオ・舞台裏");
+INSERT INTO `card_location` VALUES (/*index*/1668, /*text*/"キラキラに彩られた場所");
+INSERT INTO `card_location` VALUES (/*index*/1669, /*text*/"キラキラに輝くLIVEステージ");
