@@ -570,7 +570,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/2, /*discription*/"ガシャを引くために必要な「カーニバルメダル」は、\nマップ上にあるLIVEステージ型の建物「BOOTH」から\nLIVEを行う事で獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/3, /*discription*/"BOOTHに合わせた楽曲とユニットを設定して\nLIVEを開始しましょう !\n※複数のBOOTHに同じ楽曲や\nユニットを設定することはできません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/4, /*discription*/"BOOTHでLIVEを行うユニットは、\nイベント専用のユニットとなります。\nテント型の建物「控え室」から、\nユニットを編成しましょう。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/5, /*discription*/"本イベントでは、同じイラストのアイドルを\n複数のユニットに編成できません。\n※同じイラストのアイドルは、\n特訓状態に関わらず複数編成できません");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/5, /*discription*/"本イベントでは、同じイラストのアイドルを\n複数のユニットに編成できません。\n※同じイラストのアイドルは、\n特訓状態に関わらず複数編成できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/6, /*discription*/"BOOTHでLIVEすると、スコアに応じてVoltagePointが\n記録されます。全てのBOOTHのVoltagePointを合わせて\nVoltageがMAXになると、Carnival Rankが上がります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/6, /*discription*/"CarnivalRankが上がると到達報酬を獲得できます。\nまた、LIVEで獲得できる「カーニバルメダル」が増加します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/7, /*discription*/"お城型の建物から、「カーニバルメダルチャンス」が利用できます。\n「カーニバルメダルチャンス」は景品ごとに獲得できる数が\n決まっています。");
@@ -800,7 +800,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/4, /*discription*/"今回のプラチナチャンスでは\n「5等確定のチャンスチケット」の獲得に必要な\nミッション数を「20」に変更 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/4, /*discription*/"「プラチナチャンスミッション」は、\nプレイ次第で1日で達成可能となっています。\n自分のプレイスタイルでミッションを達成していきましょう !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/4, /*discription*/"LIVEが対象の「プラチナチャンスミッション」は\nオートLIVEでも達成可能です !\n※使用したチケットの枚数に応じて\nミッションの達成条件にカウントされます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/4, /*discription*/"プラチナチャンスミッションを全て達成すると結果発表時に\n「5等確定のチャンスチケット」をゲットできます !\n※9等以上の当選条件を満たしていない場合は獲得できません。\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/4, /*discription*/"プラチナチャンスミッションを20個達成すると結果発表時に\n「5等確定のチャンスチケット」をゲットできます !\n※9等以上の当選条件を満たしていない場合は獲得できません。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90201, /*img*/4, /*discription*/"その他にも、プラチナチャンスミッションを\n一定数達成するごとに報酬をゲットできます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90202, /*img*/1, /*discription*/"本キャンペーンは宝くじ獲得可能期間に「宝くじチケット」を\n集めることで参加できます ! 獲得可能期間終了後に\n獲得した「宝くじチケット」毎に景品の抽選を行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90202, /*img*/2, /*discription*/"抽選の結果によって、「スカウトチケット」など豪華景品を\nGETできます ! ※1等から8等までは抽選条件があります。\n詳しくはヘルプをご覧ください。");

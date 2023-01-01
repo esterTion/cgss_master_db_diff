@@ -368,6 +368,11 @@ INSERT INTO `music_vocalist` VALUES (/*music_data_id*/1070, /*chara_id*/162, /*d
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/1070, /*chara_id*/184, /*disp_order*/184);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/1075, /*chara_id*/197, /*disp_order*/197);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/1075, /*chara_id*/198, /*disp_order*/198);
+INSERT INTO `music_vocalist` VALUES (/*music_data_id*/1076, /*chara_id*/309, /*disp_order*/309);
+INSERT INTO `music_vocalist` VALUES (/*music_data_id*/1076, /*chara_id*/246, /*disp_order*/246);
+INSERT INTO `music_vocalist` VALUES (/*music_data_id*/1076, /*chara_id*/197, /*disp_order*/197);
+INSERT INTO `music_vocalist` VALUES (/*music_data_id*/1076, /*chara_id*/232, /*disp_order*/232);
+INSERT INTO `music_vocalist` VALUES (/*music_data_id*/1076, /*chara_id*/185, /*disp_order*/185);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/1201, /*chara_id*/101, /*disp_order*/101);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/1201, /*chara_id*/111, /*disp_order*/111);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/1201, /*chara_id*/113, /*disp_order*/113);
@@ -1015,6 +1020,8 @@ INSERT INTO `music_vocalist` VALUES (/*music_data_id*/8084, /*chara_id*/231, /*d
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/8085, /*chara_id*/174, /*disp_order*/174);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/8085, /*chara_id*/270, /*disp_order*/270);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/8085, /*chara_id*/111, /*disp_order*/111);
+INSERT INTO `music_vocalist` VALUES (/*music_data_id*/8086, /*chara_id*/310, /*disp_order*/310);
+INSERT INTO `music_vocalist` VALUES (/*music_data_id*/8086, /*chara_id*/164, /*disp_order*/164);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9001, /*chara_id*/101, /*disp_order*/101);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9001, /*chara_id*/167, /*disp_order*/167);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9001, /*chara_id*/234, /*disp_order*/234);

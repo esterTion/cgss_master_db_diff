@@ -506,3 +506,4 @@ INSERT INTO `story_category` VALUES (/*id*/524, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/525, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"Twinkle LIVE Constellation Gradation連動企画", /*sub_title*/"Twinkle LIVE Constellation Gradation連動企画", /*disp_order*/34, /*filter_type*/401);
 INSERT INTO `story_category` VALUES (/*id*/526, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Majoram Therapie", /*sub_title*/"Majoram Therapie", /*disp_order*/200, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/527, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"チョコレート？レモネード？どっち？？", /*sub_title*/"チョコレート？レモネード？どっち？？", /*disp_order*/201, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/528, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Dreamy Anniversary", /*sub_title*/"Dreamy Anniversary", /*disp_order*/202, /*filter_type*/0);
