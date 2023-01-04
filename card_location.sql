@@ -1654,3 +1654,9 @@ INSERT INTO `card_location` VALUES (/*index*/1668, /*text*/"キラキラに彩�
 INSERT INTO `card_location` VALUES (/*index*/1669, /*text*/"キラキラに輝くLIVEステージ");
 INSERT INTO `card_location` VALUES (/*index*/1670, /*text*/"トーク番組の撮影セット");
 INSERT INTO `card_location` VALUES (/*index*/1671, /*text*/"ボイストレーニング室");
+INSERT INTO `card_location` VALUES (/*index*/1672, /*text*/"おしるこ屋");
+INSERT INTO `card_location` VALUES (/*index*/1673, /*text*/"カレンダー撮影・松の雪吊り");
+INSERT INTO `card_location` VALUES (/*index*/1674, /*text*/"正月の日本家屋");
+INSERT INTO `card_location` VALUES (/*index*/1675, /*text*/"正月の宴会場セット");
+INSERT INTO `card_location` VALUES (/*index*/1676, /*text*/"神楽殿・奉納LIVE");
+INSERT INTO `card_location` VALUES (/*index*/1677, /*text*/"新春舞台");
