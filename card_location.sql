@@ -1660,3 +1660,6 @@ INSERT INTO `card_location` VALUES (/*index*/1674, /*text*/"正月の日本家�
 INSERT INTO `card_location` VALUES (/*index*/1675, /*text*/"正月の宴会場セット");
 INSERT INTO `card_location` VALUES (/*index*/1676, /*text*/"神楽殿・奉納LIVE");
 INSERT INTO `card_location` VALUES (/*index*/1677, /*text*/"新春舞台");
+INSERT INTO `card_location` VALUES (/*index*/1678, /*text*/"餅つき大会会場");
+INSERT INTO `card_location` VALUES (/*index*/1679, /*text*/"参道");
+INSERT INTO `card_location` VALUES (/*index*/1680, /*text*/"正月特番収録スタジオ");

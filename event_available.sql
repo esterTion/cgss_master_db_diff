@@ -501,4 +501,6 @@ INSERT INTO `event_available` VALUES (/*event_id*/2048, /*reward_id*/101177, /*r
 INSERT INTO `event_available` VALUES (/*event_id*/2048, /*reward_id*/201213, /*recommend_order*/5);
 INSERT INTO `event_available` VALUES (/*event_id*/1083, /*reward_id*/101183, /*recommend_order*/1);
 INSERT INTO `event_available` VALUES (/*event_id*/1083, /*reward_id*/101185, /*recommend_order*/2);
+INSERT INTO `event_available` VALUES (/*event_id*/6031, /*reward_id*/101191, /*recommend_order*/12);
+INSERT INTO `event_available` VALUES (/*event_id*/6031, /*reward_id*/201227, /*recommend_order*/13);
 CREATE INDEX 'event_available_0_event_id' on 'event_available'('event_id');

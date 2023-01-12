@@ -178,7 +178,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20008, /*img*/4, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20009, /*img*/1, /*discription*/"画面右側の矢印ボタンをタップすると\nショップや倉庫などのボタンが表示できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20009, /*img*/2, /*discription*/"ルームには名前を付けることができます。\nルーム名はいつでも自由に変更できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20009, /*img*/3, /*discription*/"「一括受取」ボタンで宅配ボックスや\nチケットボードに届いているアイテムを\nまとめて受け取ることができます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/1, /*discription*/"フリールームでは、より自由にルームアイテムの\n設置が行えます。「ルーム移動」ボタンをタップすると\nフリールームへ移動できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/1, /*discription*/"フリールームでは、より自由にルームアイテムの\n設置が行えます。各ルームのボタンをタップすると\nフリールームへ移動できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/2, /*discription*/"ルーム名変更ボタンから\nメインに設定するルームを設定することができます。\n自分や同僚がルームに入った際に、\nメイン設定を行っているルームが最初に表示されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/3, /*discription*/"別のルームに設置中のアイテムは、\nルームアイテム一覧から直接移動できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20010, /*img*/4, /*discription*/"「お気に入り編成」から、事務所とフリールームに\n登場するアイドルを個別に設定できます。");
