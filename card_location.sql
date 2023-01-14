@@ -1663,3 +1663,6 @@ INSERT INTO `card_location` VALUES (/*index*/1677, /*text*/"新春舞台");
 INSERT INTO `card_location` VALUES (/*index*/1678, /*text*/"餅つき大会会場");
 INSERT INTO `card_location` VALUES (/*index*/1679, /*text*/"参道");
 INSERT INTO `card_location` VALUES (/*index*/1680, /*text*/"正月特番収録スタジオ");
+INSERT INTO `card_location` VALUES (/*index*/1681, /*text*/"夜のウィーン・歌劇場の前");
+INSERT INTO `card_location` VALUES (/*index*/1682, /*text*/"月光差し込む森の中");
+INSERT INTO `card_location` VALUES (/*index*/1683, /*text*/"風香の実家");
