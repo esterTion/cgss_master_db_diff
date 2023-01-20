@@ -5,4 +5,5 @@ INSERT INTO `event_master_plus_data` VALUES (/*id*/3, /*live_detail_id*/3239, /*
 INSERT INTO `event_master_plus_data` VALUES (/*id*/4, /*live_detail_id*/3269, /*start_date*/"2022-10-30 15:00:00");
 INSERT INTO `event_master_plus_data` VALUES (/*id*/5, /*live_detail_id*/3302, /*start_date*/"2022-11-28 15:00:00");
 INSERT INTO `event_master_plus_data` VALUES (/*id*/6, /*live_detail_id*/3350, /*start_date*/"2023-01-01 15:00:00");
+INSERT INTO `event_master_plus_data` VALUES (/*id*/7, /*live_detail_id*/3365, /*start_date*/"2023-01-29 12:00:00");
 CREATE INDEX 'event_master_plus_data_0_live_detail_id' on 'event_master_plus_data'('live_detail_id');

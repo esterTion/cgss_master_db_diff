@@ -508,3 +508,4 @@ INSERT INTO `story_category` VALUES (/*id*/526, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/527, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"チョコレート？レモネード？どっち？？", /*sub_title*/"チョコレート？レモネード？どっち？？", /*disp_order*/201, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/528, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Dreamy Anniversary", /*sub_title*/"Dreamy Anniversary", /*disp_order*/202, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/529, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"丹羽仁美 / 松尾千鶴", /*sub_title*/"丹羽仁美 / 松尾千鶴", /*disp_order*/203, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/530, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ハートボイルドウォーズ", /*sub_title*/"ハートボイルドウォーズ", /*disp_order*/204, /*filter_type*/0);
