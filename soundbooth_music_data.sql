@@ -217,3 +217,4 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200168, /*name*/"ダン�
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200169, /*name*/"秋めいて Ding Dong Dang!（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/19);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200170, /*name*/"ダンス・ダンス・ダンス（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/20);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200171, /*name*/"Majoram Therapie（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/21);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200172, /*name*/"チョコレート？レモネード？どっち？？（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/22);
