@@ -3,3 +3,5 @@ INSERT INTO `brand_data` VALUES (/*id*/1, /*brand_name*/"Stella Closet", /*brand
 INSERT INTO `brand_data` VALUES (/*id*/2, /*brand_name*/"etc. Style", /*brand_text*/"etc. Style");
 INSERT INTO `brand_data` VALUES (/*id*/3, /*brand_name*/"HAVE FUN", /*brand_text*/"HAVE FUN");
 INSERT INTO `brand_data` VALUES (/*id*/4, /*brand_name*/"pastel dream", /*brand_text*/"pastel dream");
+INSERT INTO `brand_data` VALUES (/*id*/5, /*brand_name*/"rafinest", /*brand_text*/"rafinest");
+INSERT INTO `brand_data` VALUES (/*id*/6, /*brand_name*/"Dear Eliza", /*brand_text*/"Dear Eliza");
