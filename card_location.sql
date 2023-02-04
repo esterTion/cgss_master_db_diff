@@ -1679,3 +1679,10 @@ INSERT INTO `card_location` VALUES (/*index*/1693, /*text*/"凪のおとぎ話")
 INSERT INTO `card_location` VALUES (/*index*/1694, /*text*/"天空のステージ");
 INSERT INTO `card_location` VALUES (/*index*/1695, /*text*/"デパート・屋上ステージ");
 INSERT INTO `card_location` VALUES (/*index*/1696, /*text*/"硝子の花畑");
+INSERT INTO `card_location` VALUES (/*index*/1697, /*text*/"誰もいないLIVEハウス");
+INSERT INTO `card_location` VALUES (/*index*/1698, /*text*/"街中のレッドカーペット");
+INSERT INTO `card_location` VALUES (/*index*/1699, /*text*/"山小屋風ペンション");
+INSERT INTO `card_location` VALUES (/*index*/1700, /*text*/"森の奥");
+INSERT INTO `card_location` VALUES (/*index*/1701, /*text*/"京都・すいーつかふぇ");
+INSERT INTO `card_location` VALUES (/*index*/1702, /*text*/"洋館・お嬢様の私室");
+INSERT INTO `card_location` VALUES (/*index*/1703, /*text*/"事務所内・キッチンルーム");
