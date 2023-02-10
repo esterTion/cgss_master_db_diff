@@ -1686,3 +1686,6 @@ INSERT INTO `card_location` VALUES (/*index*/1700, /*text*/"森の奥");
 INSERT INTO `card_location` VALUES (/*index*/1701, /*text*/"京都・すいーつかふぇ");
 INSERT INTO `card_location` VALUES (/*index*/1702, /*text*/"洋館・お嬢様の私室");
 INSERT INTO `card_location` VALUES (/*index*/1703, /*text*/"事務所内・キッチンルーム");
+INSERT INTO `card_location` VALUES (/*index*/1704, /*text*/"女の子がカワイくなれる部屋");
+INSERT INTO `card_location` VALUES (/*index*/1705, /*text*/"撮影セット・学園祭");
+INSERT INTO `card_location` VALUES (/*index*/1706, /*text*/"撮影セット・夢魔の世界");

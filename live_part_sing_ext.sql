@@ -62,4 +62,7 @@ INSERT INTO `live_part_sing_ext` VALUES (/*id*/60, /*song_id*/9035, /*ref_pos*/4
 INSERT INTO `live_part_sing_ext` VALUES (/*id*/61, /*song_id*/9035, /*ref_pos*/5, /*file_id*/1);
 INSERT INTO `live_part_sing_ext` VALUES (/*id*/62, /*song_id*/9035, /*ref_pos*/6, /*file_id*/1);
 INSERT INTO `live_part_sing_ext` VALUES (/*id*/63, /*song_id*/9035, /*ref_pos*/7, /*file_id*/1);
+INSERT INTO `live_part_sing_ext` VALUES (/*id*/64, /*song_id*/1050, /*ref_pos*/7, /*file_id*/1);
+INSERT INTO `live_part_sing_ext` VALUES (/*id*/65, /*song_id*/1050, /*ref_pos*/8, /*file_id*/1);
+INSERT INTO `live_part_sing_ext` VALUES (/*id*/66, /*song_id*/1050, /*ref_pos*/9, /*file_id*/1);
 CREATE INDEX 'live_part_sing_ext_0_song_id' on 'live_part_sing_ext'('song_id');

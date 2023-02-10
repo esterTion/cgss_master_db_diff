@@ -192,8 +192,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーは\n倉庫収納数から除外されます。\n収納していても、収納数にカウントされません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"「和風カフェ」をテーマにしたアイテムとコーデを追加 !\nバレンタインプレゼントに、ハート形のどら焼きはいかがでしょうか？");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"ルームショップにて、「バレンタイン」テーマの\nアイテム、コーデを復刻販売開始 !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「初日の出キャンプ」をテーマにしたアイテムを追加 !\nコーデや一部アイテムは期間限定で登場 !\n新年は日常から離れて、\nアイドルたちとキャンプをして過ごしませんか？");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"ルームショップにて、「お正月」テーマの\nアイテム、コーデを復刻販売開始 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"小早川紗枝が歌う「薄紅」をサウンドブースに追加 !\n購入するとLIVEでプレイできるようになります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
