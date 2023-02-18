@@ -1694,3 +1694,4 @@ INSERT INTO `card_location` VALUES (/*index*/1708, /*text*/"待ちぼうけの�
 INSERT INTO `card_location` VALUES (/*index*/1709, /*text*/"スタジオの裏手");
 INSERT INTO `card_location` VALUES (/*index*/1710, /*text*/"雨の音が響く車内");
 INSERT INTO `card_location` VALUES (/*index*/1711, /*text*/"花散る眠りの園");
+INSERT INTO `card_location` VALUES (/*index*/1712, /*text*/"雷鳴が轟く荒野");

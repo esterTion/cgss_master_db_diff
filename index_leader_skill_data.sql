@@ -14,7 +14,7 @@ INSERT INTO `index_leader_skill_data` VALUES (/*id*/12, /*name*/"トリコロー
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/13, /*name*/"トリコロール\nステップ", /*skill_id*/"71,83,5083", /*disp_order*/11, /*start_date*/"2019-02-26 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/14, /*name*/"トリコロール\nメイク", /*skill_id*/"72,84,5084", /*disp_order*/12, /*start_date*/"2019-02-26 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/15, /*name*/"トリコロール\nアビリティ", /*skill_id*/"73,114,5114", /*disp_order*/13, /*start_date*/"2019-02-26 15:00:00", /*end_date*/"2099-12-31 23:59:59");
-INSERT INTO `index_leader_skill_data` VALUES (/*id*/16, /*name*/"キュート・クロス・クール", /*skill_id*/"89,107,5107", /*disp_order*/16, /*start_date*/"2019-07-12 15:00:00", /*end_date*/"2099-12-31 23:59:59");
+INSERT INTO `index_leader_skill_data` VALUES (/*id*/16, /*name*/"キュート・クロス・クール", /*skill_id*/"89,107,5089,5107", /*disp_order*/16, /*start_date*/"2019-07-12 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/17, /*name*/"キュート・クロス・パッション", /*skill_id*/"90,108,5090,5108", /*disp_order*/17, /*start_date*/"2019-11-24 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/18, /*name*/"クール・クロス・キュート", /*skill_id*/"91,109,5091,5109", /*disp_order*/18, /*start_date*/"2019-09-24 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/19, /*name*/"クール・クロス・パッション", /*skill_id*/"92,110,5110,5092", /*disp_order*/19, /*start_date*/"2019-05-17 15:00:00", /*end_date*/"2099-12-31 23:59:59");

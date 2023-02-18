@@ -592,8 +592,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/7, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/8, /*discription*/"「イベントpt」はイベント開催期間中に\nLIVEやイベント限定営業、「LIVE PARTY!!」を\n行うことで獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/8, /*discription*/"「アイドルpt」は育成アイドルごとに獲得できるptです。\nイベントptと同様、LIVEやイベント限定営業、「LIVE PARTY!!」を\n行うことで、タワーを進行中のアイドルのptを獲得できます。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/9, /*discription*/"メインタワーの50階をクリアすると、\nアイドルごとのイベント限定称号が獲得できます。\n※称号の獲得は各アイドルごとに1度までです");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/10, /*discription*/"今回のイベントで獲得できる報酬の一部をご紹介します !\n「Myスターレッスントレーナーチケット」\nセンター効果バッジ「トリコロール・ボイス」「シンデレラチャーム」\n「クール・クロス・パッション」「キュート・クロス・パッション」");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/10, /*discription*/"特技バッジ「PERFECTサポート」「オールラウンド」\n「ロングアクト」「コンセントレーション」\n※獲得できるバッジはイベント開催ごとに異なり、\n次回開催時には獲得できない場合があります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/10, /*discription*/"今回のイベントで獲得できる報酬の一部をご紹介します !\n「Myスターレッスントレーナーチケット」\nセンター効果バッジ「トリコロール・ステップ」\n「クール・クロス・キュート」「キュート・クロス・クール」");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/10, /*discription*/"特技バッジ「コーディネイト」「アンコール」\n「チューニング」「スライドアクト」「コンセントレーション」\n※獲得できるバッジはイベント開催ごとに異なり、\n次回開催時には獲得できない場合があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/83001, /*img*/1, /*discription*/"「プラチナスカウトチケット」はレア、Sレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/83002, /*img*/1, /*discription*/"「スカウトチケット」はレア、Sレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/85001, /*img*/1, /*discription*/"「プライズスカウトチケット」は対象のSレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
