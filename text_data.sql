@@ -1029,7 +1029,8 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/210, /*text*/"{0}/15枚
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/211, /*text*/"最大所持数15枚");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/212, /*text*/"[ff7a7a]並べ替え設定は楽曲タイプ毎に保存されています[-]");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/213, /*text*/"「レガシーMASTER+」をONにすると、\nイベント開催当時のMASTER+をプレイできます。\n\nレガシーMASTER+の詳細については、\nメニュー画面「ヘルプ」の大項目「LIVE」より\n項目『難易度「MASTER+」』をご確認ください。");
-INSERT INTO `text_data` VALUES (/*category*/14, /*index*/214, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/214, /*text*/"オリジナル");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/215, /*text*/"ver");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/1, /*text*/"月間獲得ファン数ランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/2, /*text*/"今期のランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/3, /*text*/"前期のランキング");
@@ -2116,7 +2117,7 @@ INSERT INTO `text_data` VALUES (/*category*/25, /*index*/104, /*text*/"エラー
 INSERT INTO `text_data` VALUES (/*category*/25, /*index*/105, /*text*/"[ff7a7a]「ムービー」非対応楽曲は「2Dリッチ」になります[-]");
 INSERT INTO `text_data` VALUES (/*category*/25, /*index*/106, /*text*/"キャンペーン終了");
 INSERT INTO `text_data` VALUES (/*category*/25, /*index*/107, /*text*/"キャンペーンが終了したため\nプレイリストの再生を終了します");
-INSERT INTO `text_data` VALUES (/*category*/25, /*index*/108, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/25, /*index*/108, /*text*/"オリジナルver");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/1, /*text*/"撮影セッティング");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/2, /*text*/"メニュー");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/3, /*text*/"オーダー");

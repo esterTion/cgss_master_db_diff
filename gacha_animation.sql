@@ -675,4 +675,5 @@ INSERT INTO `gacha_animation` VALUES (/*gacha_id*/30849, /*seq*/2, /*card_id*/10
 INSERT INTO `gacha_animation` VALUES (/*gacha_id*/30849, /*seq*/3, /*card_id*/301171);
 INSERT INTO `gacha_animation` VALUES (/*gacha_id*/30850, /*seq*/1, /*card_id*/201239);
 INSERT INTO `gacha_animation` VALUES (/*gacha_id*/30851, /*seq*/1, /*card_id*/201241);
+INSERT INTO `gacha_animation` VALUES (/*gacha_id*/30853, /*seq*/1, /*card_id*/301179);
 CREATE INDEX 'gacha_animation_0_gacha_id' on 'gacha_animation'('gacha_id');
