@@ -1698,3 +1698,9 @@ INSERT INTO `card_location` VALUES (/*index*/1712, /*text*/"雷鳴が轟く荒�
 INSERT INTO `card_location` VALUES (/*index*/1713, /*text*/"サーキット場・客席");
 INSERT INTO `card_location` VALUES (/*index*/1714, /*text*/"サーキット場・コース");
 INSERT INTO `card_location` VALUES (/*index*/1715, /*text*/"買い出し中・紅茶店前");
+INSERT INTO `card_location` VALUES (/*index*/1716, /*text*/"ウィーンの老舗カフェ");
+INSERT INTO `card_location` VALUES (/*index*/1717, /*text*/"お嬢さまのティールーム");
+INSERT INTO `card_location` VALUES (/*index*/1718, /*text*/"雨に濡れた街");
+INSERT INTO `card_location` VALUES (/*index*/1719, /*text*/"光に手が届くビル");
+INSERT INTO `card_location` VALUES (/*index*/1720, /*text*/"断罪劇・舞踏会");
+INSERT INTO `card_location` VALUES (/*index*/1721, /*text*/"光に見守られたビル");

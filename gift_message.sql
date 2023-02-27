@@ -85,6 +85,8 @@ INSERT INTO `gift_message` VALUES (/*id*/101, /*discription*/"ハッピークリ
 INSERT INTO `gift_message` VALUES (/*id*/102, /*discription*/"{0}でスカウトしたアイドルです。", /*type_1*/46, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/103, /*discription*/"{0}で獲得した報酬です。", /*type_1*/46, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/104, /*discription*/"提供期間を過ぎた{0}を自動変換したアイテムです。", /*type_1*/46, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/105, /*discription*/"「{0}」です。", /*type_1*/47, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/106, /*discription*/"「{0}」です。", /*type_1*/48, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1001, /*discription*/"イベント「{0}」{1}イベントpt達成報酬です。", /*type_1*/19, /*type_2*/20, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1002, /*discription*/"イベント「{0}」ポイントランキング{1}位～{2}位で獲得した報酬です。", /*type_1*/19, /*type_2*/21, /*type_3*/22, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1003, /*discription*/"イベント「{0}」ハイスコアランキング{1}位～{2}位で獲得した報酬です。", /*type_1*/19, /*type_2*/23, /*type_3*/24, /*type_4*/0);
@@ -279,3 +281,4 @@ INSERT INTO `gift_message` VALUES (/*id*/20092, /*discription*/"「{0}」の参�
 INSERT INTO `gift_message` VALUES (/*id*/20093, /*discription*/"「Twinkle LIVE Constellation Gradation連動キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20094, /*discription*/"「ゆくM@S くるM@S 2022」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20095, /*discription*/"「新春 ! プラチナチャンス」のミッション達成数{0}で獲得した報酬です。", /*type_1*/90, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20097, /*discription*/"「熱い想いを届けマス ! みんな元気!!!!!プロジェクト」達成記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

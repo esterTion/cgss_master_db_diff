@@ -1,0 +1,2 @@
+CREATE TABLE 'atapon_score_rank_reward_keyboard' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'rank_min' INTEGER NOT NULL, 'rank_max' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_value' INTEGER NOT NULL, 'add_value_1' INTEGER NOT NULL, 'add_value_2' INTEGER NOT NULL, 'add_value_3' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE INDEX 'atapon_score_rank_reward_keyboard_0_event_id' on 'atapon_score_rank_reward_keyboard'('event_id');
