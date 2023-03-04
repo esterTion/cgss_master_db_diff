@@ -1704,3 +1704,9 @@ INSERT INTO `card_location` VALUES (/*index*/1718, /*text*/"雨に濡れた街")
 INSERT INTO `card_location` VALUES (/*index*/1719, /*text*/"光に手が届くビル");
 INSERT INTO `card_location` VALUES (/*index*/1720, /*text*/"断罪劇・舞踏会");
 INSERT INTO `card_location` VALUES (/*index*/1721, /*text*/"光に見守られたビル");
+INSERT INTO `card_location` VALUES (/*index*/1722, /*text*/"宇宙・最終防衛線のコロニー");
+INSERT INTO `card_location` VALUES (/*index*/1723, /*text*/"チャイナタウン");
+INSERT INTO `card_location` VALUES (/*index*/1724, /*text*/"撮影セット・中華風の廃墟");
+INSERT INTO `card_location` VALUES (/*index*/1725, /*text*/"京都の神社");
+INSERT INTO `card_location` VALUES (/*index*/1726, /*text*/"撮影セット・古の都");
+INSERT INTO `card_location` VALUES (/*index*/1727, /*text*/"ファンタジー世界");
