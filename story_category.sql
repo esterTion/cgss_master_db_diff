@@ -512,3 +512,4 @@ INSERT INTO `story_category` VALUES (/*id*/530, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/531, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Isosceles", /*sub_title*/"Isosceles", /*disp_order*/205, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/532, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"N.O.R.〜Notes of Revolution〜革命についての覚書", /*sub_title*/"N.O.R.〜Notes of Revolution〜革命についての覚書", /*disp_order*/206, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/533, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Starry Night", /*sub_title*/"Starry Night", /*disp_order*/207, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/534, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"衛藤美紗希 / 安斎都", /*sub_title*/"衛藤美紗希 / 安斎都", /*disp_order*/208, /*filter_type*/0);

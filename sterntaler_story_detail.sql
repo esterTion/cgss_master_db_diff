@@ -308,3 +308,5 @@ INSERT INTO `sterntaler_story_detail` VALUES (/*id*/6123, /*data_1*/39276, /*dat
 INSERT INTO `sterntaler_story_detail` VALUES (/*id*/6124, /*data_1*/39277, /*data_2*/307, /*data_3*/0);
 INSERT INTO `sterntaler_story_detail` VALUES (/*id*/6125, /*data_1*/39730, /*data_2*/308, /*data_3*/0);
 INSERT INTO `sterntaler_story_detail` VALUES (/*id*/6126, /*data_1*/39731, /*data_2*/309, /*data_3*/39);
+INSERT INTO `sterntaler_story_detail` VALUES (/*id*/6127, /*data_1*/39787, /*data_2*/310, /*data_3*/39);
+INSERT INTO `sterntaler_story_detail` VALUES (/*id*/6128, /*data_1*/39788, /*data_2*/311, /*data_3*/0);

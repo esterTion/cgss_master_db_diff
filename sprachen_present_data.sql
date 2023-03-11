@@ -198,7 +198,6 @@ INSERT INTO `sprachen_present_data` VALUES (/*present_id*/196, /*present_name*/"
 INSERT INTO `sprachen_present_data` VALUES (/*present_id*/197, /*present_name*/"アサイーボウル", /*icon_type*/6);
 INSERT INTO `sprachen_present_data` VALUES (/*present_id*/198, /*present_name*/"チョコミントアイス", /*icon_type*/6);
 INSERT INTO `sprachen_present_data` VALUES (/*present_id*/199, /*present_name*/"星型のパンケーキ", /*icon_type*/3);
-INSERT INTO `sprachen_present_data` VALUES (/*present_id*/200, /*present_name*/"歌舞伎揚げ", /*icon_type*/4);
 INSERT INTO `sprachen_present_data` VALUES (/*present_id*/201, /*present_name*/"わさびスナック", /*icon_type*/4);
 INSERT INTO `sprachen_present_data` VALUES (/*present_id*/202, /*present_name*/"落花生", /*icon_type*/5);
 INSERT INTO `sprachen_present_data` VALUES (/*present_id*/203, /*present_name*/"コスメセット", /*icon_type*/5);

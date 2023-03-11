@@ -1710,3 +1710,7 @@ INSERT INTO `card_location` VALUES (/*index*/1724, /*text*/"撮影セット・�
 INSERT INTO `card_location` VALUES (/*index*/1725, /*text*/"京都の神社");
 INSERT INTO `card_location` VALUES (/*index*/1726, /*text*/"撮影セット・古の都");
 INSERT INTO `card_location` VALUES (/*index*/1727, /*text*/"ファンタジー世界");
+INSERT INTO `card_location` VALUES (/*index*/1728, /*text*/"小学校の教室");
+INSERT INTO `card_location` VALUES (/*index*/1729, /*text*/"再現VTR・夕暮れの教室");
+INSERT INTO `card_location` VALUES (/*index*/1730, /*text*/"英国風カフェ");
+INSERT INTO `card_location` VALUES (/*index*/1731, /*text*/"霧深き都の黎明");

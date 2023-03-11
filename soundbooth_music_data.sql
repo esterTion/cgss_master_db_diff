@@ -220,3 +220,4 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200171, /*name*/"Majoram
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200172, /*name*/"チョコレート？レモネード？どっち？？（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/22);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200173, /*name*/"Dreamy Anniversary（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/23);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200174, /*name*/"ハートボイルドウォーズ（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/24);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200175, /*name*/"Isosceles（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/25);
