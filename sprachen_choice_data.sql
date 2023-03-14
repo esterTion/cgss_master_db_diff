@@ -1258,7 +1258,7 @@ INSERT INTO `sprachen_choice_data` VALUES (/*campaign_id*/2003, /*chara_id*/224,
 INSERT INTO `sprachen_choice_data` VALUES (/*campaign_id*/2003, /*chara_id*/225, /*present_id*/"256,61,22,192,137,36,2");
 INSERT INTO `sprachen_choice_data` VALUES (/*campaign_id*/2003, /*chara_id*/226, /*present_id*/"84,34,237,69,132,30,152");
 INSERT INTO `sprachen_choice_data` VALUES (/*campaign_id*/2003, /*chara_id*/227, /*present_id*/"3,17,107,76,57,124,44");
-INSERT INTO `sprachen_choice_data` VALUES (/*campaign_id*/2003, /*chara_id*/228, /*present_id*/"122,19,56,162,144,61,49");
+INSERT INTO `sprachen_choice_data` VALUES (/*campaign_id*/2003, /*chara_id*/228, /*present_id*/"122,19,56,113,144,61,49");
 INSERT INTO `sprachen_choice_data` VALUES (/*campaign_id*/2003, /*chara_id*/229, /*present_id*/"257,109,211,163,3,69,61");
 INSERT INTO `sprachen_choice_data` VALUES (/*campaign_id*/2003, /*chara_id*/230, /*present_id*/"57,121,95,122,35,289,49");
 INSERT INTO `sprachen_choice_data` VALUES (/*campaign_id*/2003, /*chara_id*/231, /*present_id*/"53,4,122,63,12,144,146");
