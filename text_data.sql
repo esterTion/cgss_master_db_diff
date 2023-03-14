@@ -2729,9 +2729,9 @@ INSERT INTO `text_data` VALUES (/*category*/38, /*index*/5, /*text*/"交換{0}�
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/6, /*text*/"交換{0}数は毎週更新");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/7, /*text*/"交換{0}数は毎月更新");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/8, /*text*/"コミュ視聴");
-INSERT INTO `text_data` VALUES (/*category*/38, /*index*/9, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/38, /*index*/10, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/38, /*index*/11, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/38, /*index*/9, /*text*/"ゲーム\nセンターへ");
+INSERT INTO `text_data` VALUES (/*category*/38, /*index*/10, /*text*/"閉じる");
+INSERT INTO `text_data` VALUES (/*category*/38, /*index*/11, /*text*/"衣装の\n受け取りへ");
 INSERT INTO `text_data` VALUES (/*category*/39, /*index*/1, /*text*/"楽曲購入");
 INSERT INTO `text_data` VALUES (/*category*/39, /*index*/2, /*text*/"確認");
 INSERT INTO `text_data` VALUES (/*category*/39, /*index*/3, /*text*/"外部サイトへ接続します。\n楽曲配信情報サイトへ移動してもよろしいですか？");
@@ -3466,8 +3466,8 @@ INSERT INTO `text_data` VALUES (/*category*/56, /*index*/110, /*text*/"発動可
 INSERT INTO `text_data` VALUES (/*category*/56, /*index*/111, /*text*/"シナジー");
 INSERT INTO `text_data` VALUES (/*category*/56, /*index*/112, /*text*/"キャンセル");
 INSERT INTO `text_data` VALUES (/*category*/56, /*index*/113, /*text*/"イベント\nTOPへ");
-INSERT INTO `text_data` VALUES (/*category*/56, /*index*/114, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/56, /*index*/115, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/56, /*index*/114, /*text*/"{0}(Touch)");
+INSERT INTO `text_data` VALUES (/*category*/56, /*index*/115, /*text*/"{0}(Key)");
 INSERT INTO `text_data` VALUES (/*category*/56, /*index*/200, /*text*/"スキップ確認");
 INSERT INTO `text_data` VALUES (/*category*/56, /*index*/201, /*text*/"スタンバイエリアにアイドルがいないため\nアピールフェイズに進みます。");
 INSERT INTO `text_data` VALUES (/*category*/57, /*index*/1, /*text*/"プレミアムパス{0}");
