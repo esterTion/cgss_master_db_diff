@@ -720,6 +720,15 @@ INSERT INTO `text_data` VALUES (/*category*/12, /*index*/179, /*text*/"その他
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/180, /*text*/"購入できるアイテムはありません。");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/181, /*text*/"ドレス\nコーデへ");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/182, /*text*/"アイドル\n編成へ");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/183, /*text*/"ガシャ履歴");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/184, /*text*/"履歴がありません。");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/185, /*text*/"戻る");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/186, /*text*/"ガシャ結果");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/187, /*text*/"{0}に加入しました");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/188, /*text*/"ガシャ履歴");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/189, /*text*/"結果");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/190, /*text*/"無料キャンペーン");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/191, /*text*/"履歴はガシャを引いてから14日間、最大10件まで表示されます。");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/201, /*text*/"超低");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/202, /*text*/"低");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/203, /*text*/"中");
