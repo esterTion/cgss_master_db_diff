@@ -1040,6 +1040,8 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/212, /*text*/"[ff7a7a]�
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/213, /*text*/"「レガシーMASTER+」をONにすると、\nイベント開催当時のMASTER+をプレイできます。\n\nレガシーMASTER+の詳細については、\nメニュー画面「ヘルプ」の大項目「LIVE」より\n項目『難易度「MASTER+」』をご確認ください。");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/214, /*text*/"オリジナル");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/215, /*text*/"ver");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/216, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/217, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/1, /*text*/"月間獲得ファン数ランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/2, /*text*/"今期のランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/3, /*text*/"前期のランキング");
@@ -2127,6 +2129,8 @@ INSERT INTO `text_data` VALUES (/*category*/25, /*index*/105, /*text*/"[ff7a7a]�
 INSERT INTO `text_data` VALUES (/*category*/25, /*index*/106, /*text*/"キャンペーン終了");
 INSERT INTO `text_data` VALUES (/*category*/25, /*index*/107, /*text*/"キャンペーンが終了したため\nプレイリストの再生を終了します");
 INSERT INTO `text_data` VALUES (/*category*/25, /*index*/108, /*text*/"オリジナルver");
+INSERT INTO `text_data` VALUES (/*category*/25, /*index*/109, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/25, /*index*/110, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/1, /*text*/"撮影セッティング");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/2, /*text*/"メニュー");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/3, /*text*/"オーダー");
@@ -2615,6 +2619,9 @@ INSERT INTO `text_data` VALUES (/*category*/36, /*index*/26, /*text*/"しんげ�
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/27, /*text*/"えくすて");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/28, /*text*/"シアターに動画追加!");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/29, /*text*/"シンデレラシアターで{0}が更新されました!是非ご覧になってください!");
+INSERT INTO `text_data` VALUES (/*category*/36, /*index*/30, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/36, /*index*/31, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/36, /*index*/32, /*text*/"{0}");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/1, /*text*/"{0}を使用する");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/2, /*text*/"　[FF7A7A]{0}[-]を使用して\nアイドルのポテンシャルをすべて0に戻しますか？");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/3, /*text*/"返還アイテム");
