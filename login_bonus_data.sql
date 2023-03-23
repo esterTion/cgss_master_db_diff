@@ -136,3 +136,4 @@ INSERT INTO `login_bonus_data` VALUES (/*id*/9221, /*name*/"M@STERS OF IDOL WORL
 INSERT INTO `login_bonus_data` VALUES (/*id*/9222, /*name*/"ひなまつりログインボーナス", /*type*/4, /*count_num*/10, /*rap*/1, /*img*/0, /*start_date*/"2023-02-22 00:00:00", /*end_date*/"2023-03-03 23:59:59");
 INSERT INTO `login_bonus_data` VALUES (/*id*/9223, /*name*/"ホワイトデーログインボーナス", /*type*/4, /*count_num*/11, /*rap*/1, /*img*/0, /*start_date*/"2023-03-04 00:00:00", /*end_date*/"2023-03-14 23:59:59");
 INSERT INTO `login_bonus_data` VALUES (/*id*/9224, /*name*/"新生活応援ログインボーナス", /*type*/4, /*count_num*/16, /*rap*/1, /*img*/0, /*start_date*/"2023-03-19 00:00:00", /*end_date*/"2023-04-03 23:59:59");
+INSERT INTO `login_bonus_data` VALUES (/*id*/9225, /*name*/"予選グループD　ログインボーナス", /*type*/7, /*count_num*/21, /*rap*/1, /*img*/0, /*start_date*/"2023-03-27 00:00:00", /*end_date*/"2023-04-16 23:59:59");
