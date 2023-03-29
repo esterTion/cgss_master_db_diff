@@ -1,2 +1,11 @@
 CREATE TABLE 'generic_sp_page_random_petit_list' ('id' INTEGER NOT NULL, 'group_id' INTEGER NOT NULL, 'petit_id' INTEGER NOT NULL, 'dress_id' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `generic_sp_page_random_petit_list` VALUES (/*id*/1, /*group_id*/1, /*petit_id*/100127, /*dress_id*/0);
+INSERT INTO `generic_sp_page_random_petit_list` VALUES (/*id*/2, /*group_id*/1, /*petit_id*/100455, /*dress_id*/0);
+INSERT INTO `generic_sp_page_random_petit_list` VALUES (/*id*/3, /*group_id*/1, /*petit_id*/200141, /*dress_id*/0);
+INSERT INTO `generic_sp_page_random_petit_list` VALUES (/*id*/4, /*group_id*/1, /*petit_id*/200205, /*dress_id*/0);
+INSERT INTO `generic_sp_page_random_petit_list` VALUES (/*id*/5, /*group_id*/1, /*petit_id*/201199, /*dress_id*/0);
+INSERT INTO `generic_sp_page_random_petit_list` VALUES (/*id*/6, /*group_id*/1, /*petit_id*/300007, /*dress_id*/0);
+INSERT INTO `generic_sp_page_random_petit_list` VALUES (/*id*/7, /*group_id*/1, /*petit_id*/300013, /*dress_id*/0);
+INSERT INTO `generic_sp_page_random_petit_list` VALUES (/*id*/8, /*group_id*/1, /*petit_id*/300155, /*dress_id*/0);
+INSERT INTO `generic_sp_page_random_petit_list` VALUES (/*id*/9, /*group_id*/1, /*petit_id*/300471, /*dress_id*/0);
 CREATE INDEX 'generic_sp_page_random_petit_list_0_group_id' on 'generic_sp_page_random_petit_list'('group_id');
