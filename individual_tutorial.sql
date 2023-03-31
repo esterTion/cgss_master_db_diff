@@ -253,6 +253,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/21007, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/21008, /*img*/1, /*discription*/"4人オンライン対戦の早押しクイズバトル ! \nクイズに正解して誰よりも早く100点獲得を目指そう ! \n文字パネルを選んで正解を完成させよう ! \n順位に応じて、獲得できるゲームメダルの枚数がアップするよ ! ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21009, /*img*/1, /*discription*/"素材を自由に配置してフォトを作成 ! \nロゴや背景などを組み合わせて素敵な1枚にしよう ! \n完成したフォトは端末への保存や\nTwitterへの投稿をすることができるよ ! ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21010, /*img*/1, /*discription*/"カメラでアイドルを撮影 ! \nポジションを選択しつつシャッターチャンスを狙おう ! \n撮影後は撮った写真の評価をしてもらえるよ ! \n評価に応じて、獲得できるゲームメダルの枚数が変化するよ ! ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/21011, /*img*/1, /*discription*/"カメラやスタンプを組み合わせて\n自分だけの特別なMVを作ろう ! \nアイドルにポーズを取ってもらうこともできちゃう ! \n完成したMVは投稿をすることができるよ ! ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/22001, /*img*/1, /*discription*/"ゲームセンターでは、ミニゲームを遊ぶことで、\n「ゲームメダル」が獲得できます。\n「ゲームメダル」を集めると、\nアイテム交換所で景品と交換できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEでは、ミュージックセレクタ右上の動作設定ボタンから\nLIVEの背景演出を変更することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30001, /*img*/1, /*discription*/"LIVEプレイ中のSE再生設定もここから変更できます。\nSEをオフにすることで、動作が軽くなる場合があります。");

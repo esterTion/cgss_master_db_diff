@@ -86,4 +86,6 @@ INSERT INTO `onetime_story` VALUES (/*id*/89, /*name*/"Live Before ～Twinkle LI
 INSERT INTO `onetime_story` VALUES (/*id*/90, /*name*/"オールスターカウントダウンLIVE予告", /*story_id*/6071, /*transition*/6, /*page_index*/0, /*start_date*/"2022-12-27 15:00:00", /*end_date*/"2022-12-30 23:59:59", /*play_order*/766, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/91, /*name*/"オールスターカウントダウンLIVEオープニング", /*story_id*/6072, /*transition*/6, /*page_index*/0, /*start_date*/"2022-12-31 00:00:00", /*end_date*/"2022-12-31 05:59:59", /*play_order*/767, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/92, /*name*/"オールスターカウントダウンLIVEエンディング", /*story_id*/6078, /*transition*/6, /*page_index*/0, /*start_date*/"2023-01-01 00:00:00", /*end_date*/"2023-01-01 11:59:59", /*play_order*/768, /*notice_type*/2);
+INSERT INTO `onetime_story` VALUES (/*id*/93, /*name*/"エイプリルフール2023 OP", /*story_id*/6341, /*transition*/4201, /*page_index*/12, /*start_date*/"2023-04-01 00:00:00", /*end_date*/"2023-04-01 23:59:59", /*play_order*/769, /*notice_type*/2);
+INSERT INTO `onetime_story` VALUES (/*id*/94, /*name*/"エイプリルフール2023 ED", /*story_id*/6343, /*transition*/301, /*page_index*/0, /*start_date*/"2023-04-02 00:00:00", /*end_date*/"2023-04-11 14:59:59", /*play_order*/770, /*notice_type*/2);
 CREATE INDEX 'onetime_story_0_story_id' on 'onetime_story'('story_id');

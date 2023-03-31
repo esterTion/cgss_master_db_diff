@@ -514,3 +514,4 @@ INSERT INTO `story_category` VALUES (/*id*/532, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/533, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Starry Night", /*sub_title*/"Starry Night", /*disp_order*/207, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/534, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"衛藤美紗希 / 安斎都", /*sub_title*/"衛藤美紗希 / 安斎都", /*disp_order*/208, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/535, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ミライコンパス", /*sub_title*/"ミライコンパス", /*disp_order*/209, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/536, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"MVメイカー", /*sub_title*/"MVメイカー", /*disp_order*/36, /*filter_type*/404);
