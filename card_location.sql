@@ -1727,3 +1727,6 @@ INSERT INTO `card_location` VALUES (/*index*/1741, /*text*/"監獄の撮影セ�
 INSERT INTO `card_location` VALUES (/*index*/1742, /*text*/"星空のセット");
 INSERT INTO `card_location` VALUES (/*index*/1743, /*text*/"海外ロケ・古城");
 INSERT INTO `card_location` VALUES (/*index*/1744, /*text*/"玉座の間");
+INSERT INTO `card_location` VALUES (/*index*/1745, /*text*/"琴歌の屋敷の一室");
+INSERT INTO `card_location` VALUES (/*index*/1746, /*text*/"歌劇の舞台");
+INSERT INTO `card_location` VALUES (/*index*/1747, /*text*/"夕美の家の庭");
