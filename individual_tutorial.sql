@@ -240,7 +240,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20206, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20206, /*img*/2, /*discription*/"さらに、複数まとめて確認した営業は\nそのまま再出発することができます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20207, /*img*/1, /*discription*/"「まとめて確認」、「まとめて短縮」を行った場合は、\n再出発時も複数営業をまとめて短縮することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20207, /*img*/2, /*discription*/"営業ごとに消費するスタミナを選択できます !\n消費するスタミナは1単位で選択でき、\nスタミナ1あたり、15分短縮できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\n必ず複数の特訓アイテムを獲得できる\nスペシャル営業が1日1回行えます !\n詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「わくわく☆スプリング親愛度アップキャンペーン」開催中 ! !\nキャンペーン中は、必ず複数のギフトアイテムが獲得できる\nスペシャル営業を3種類追加 !\n詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21001, /*img*/1, /*discription*/"拘束のまゆからの攻撃を避けつつ、ハピネシウムを集めよう。\n集めたハピネシウムをラボに届けるとスコアをゲットできるよ ! \nラボにまとめて届けるとスコアがアップ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21002, /*img*/1, /*discription*/"誘惑の奏の攻撃や障害物を回避して、ハピネシウムを集めよう。\nタップするとうさぎロボがジャンプ ! \nうさぎロボは1回だけ空中ジャンプが可能だよ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21003, /*img*/1, /*discription*/"グラスザニンジャあやめの攻撃をはじきつつ、ハピネシウムを集めよう。\nフリック操作で、照準に入った障害物をはじけ ! \n飛んでくるハピネシウムを見極めてスコアをゲットしよう ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
@@ -976,6 +976,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90801, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90901, /*img*/1, /*discription*/"TVアニメ「アイドルマスター シンデレラガールズ U149」は\nテレビ東京にて毎週水曜24:00から放送開始 !\nBS11、AT-X、BS日テレ、TVQでも順次放送 !\n ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90901, /*img*/1, /*discription*/"さらにニコニコ他、各プラットフォームでの配信も !\n※詳細はアニメ公式サイトをご確認ください。\n \n ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90902, /*img*/1, /*discription*/"4/5から、TVアニメ「U149」の放送を記念して\n毎週水曜15:00に「スタージュエル 250個」をプレゼントします !\nプレゼント期間は翌週水曜14:59までです。\nログインして受け取ってくださいね !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90903, /*img*/1, /*discription*/"4/6から、TVアニメ「U149」の放送を記念して\n毎週木曜15:00に「ルームアイテム」をプレゼントします !\nプレゼント期間は翌週木曜14:59までです。\nログインして受け取ってくださいね !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"アニメ連動のボイスドラマ「NO MAKE」をシンデレラシアターで公開予定 !\n「NO MAKE」は不定期更新となります。\nどの話数のサイドストーリーが公開されるか\n楽しみにしていてくださいね !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90903, /*img*/1, /*discription*/"TVアニメ「U149」第1話の放送を記念して\n今週は「U149のポスター①、②」をプレゼント !\n次週のルームアイテムプレゼントもお楽しみに !\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"ボイスドラマ「NO MAKE」#01を公開しました !\nアニメ第1話のサイドストーリーを楽しむことができますよ !\nシンデレラシアターまたはデレスポの\nサウンドブースからチェックしてくださいね !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"■ 登場人物\n橘ありす、古賀小春、赤城みりあ\n市原仁奈、櫻井桃華、佐々木千枝\n的場梨沙、龍崎薫、結城晴");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"■ あらすじ\n新規プロジェクトである第3芸能課に集まったアイドルたち。\nプロデューサーを待ちながら、\nまだお互いを知らない少女たちは、");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"小さなきっかけから一歩ずつ歩み寄ります。 \n今回のNO MAKEは、その時のお話です…。\n \n ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90905, /*img*/1, /*discription*/"TVアニメ「U149」第1話の放送を記念し、SSレアアイドル1人確定の\n『「U149」アニメ放送記念ガシャ 第1話』を開催中です !\nSSレア・Sレアアイドルは「U149」アイドルのみ !\nさらに一部の期間限定アイドルも再登場しますよ !");
 CREATE INDEX 'individual_tutorial_0_id' on 'individual_tutorial'('id');

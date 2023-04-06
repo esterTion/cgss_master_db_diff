@@ -9,3 +9,4 @@ INSERT INTO `album` VALUES (/*album_id*/7, /*name*/"Special Tracks", /*category_
 INSERT INTO `album` VALUES (/*album_id*/8, /*name*/"STARLIGHT STAGE BGM", /*category_id*/2);
 INSERT INTO `album` VALUES (/*album_id*/9, /*name*/"Arrange BGM 1", /*category_id*/2);
 INSERT INTO `album` VALUES (/*album_id*/10, /*name*/"Arrange BGM 2", /*category_id*/2);
+INSERT INTO `album` VALUES (/*album_id*/11, /*name*/"U149ボイスドラマ「NO MAKE」", /*category_id*/3);

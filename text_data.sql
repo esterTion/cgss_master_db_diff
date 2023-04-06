@@ -2619,9 +2619,9 @@ INSERT INTO `text_data` VALUES (/*category*/36, /*index*/26, /*text*/"しんげ�
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/27, /*text*/"えくすて");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/28, /*text*/"シアターに動画追加!");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/29, /*text*/"シンデレラシアターで{0}が更新されました!是非ご覧になってください!");
-INSERT INTO `text_data` VALUES (/*category*/36, /*index*/30, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/36, /*index*/31, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/36, /*index*/32, /*text*/"{0}");
+INSERT INTO `text_data` VALUES (/*category*/36, /*index*/30, /*text*/"U149");
+INSERT INTO `text_data` VALUES (/*category*/36, /*index*/31, /*text*/"シアターにボイスドラマ追加 !");
+INSERT INTO `text_data` VALUES (/*category*/36, /*index*/32, /*text*/"シンデレラシアターが更新されました !\n「{0}」タブをチェック !");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/1, /*text*/"{0}を使用する");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/2, /*text*/"　[FF7A7A]{0}[-]を使用して\nアイドルのポテンシャルをすべて0に戻しますか？");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/3, /*text*/"返還アイテム");
