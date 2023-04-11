@@ -222,4 +222,5 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200173, /*name*/"Dreamy 
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200174, /*name*/"ハートボイルドウォーズ（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/24);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200175, /*name*/"Isosceles（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/25);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200176, /*name*/"N.O.R.〜Notes of Revolution〜革命についての覚書（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/26);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200177, /*name*/"Starry Night（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/27);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/300001, /*name*/"#01 動き出す物語", /*album_id*/11, /*jacket_id*/300001, /*sort*/1);

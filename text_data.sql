@@ -1040,8 +1040,8 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/212, /*text*/"[ff7a7a]�
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/213, /*text*/"「レガシーMASTER+」をONにすると、\nイベント開催当時のMASTER+をプレイできます。\n\nレガシーMASTER+の詳細については、\nメニュー画面「ヘルプ」の大項目「LIVE」より\n項目『難易度「MASTER+」』をご確認ください。");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/214, /*text*/"オリジナル");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/215, /*text*/"ver");
-INSERT INTO `text_data` VALUES (/*category*/14, /*index*/216, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/14, /*index*/217, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/216, /*text*/"うたいわけ対応");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/217, /*text*/"別verあり");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/1, /*text*/"月間獲得ファン数ランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/2, /*text*/"今期のランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/3, /*text*/"前期のランキング");
@@ -2129,8 +2129,8 @@ INSERT INTO `text_data` VALUES (/*category*/25, /*index*/105, /*text*/"[ff7a7a]�
 INSERT INTO `text_data` VALUES (/*category*/25, /*index*/106, /*text*/"キャンペーン終了");
 INSERT INTO `text_data` VALUES (/*category*/25, /*index*/107, /*text*/"キャンペーンが終了したため\nプレイリストの再生を終了します");
 INSERT INTO `text_data` VALUES (/*category*/25, /*index*/108, /*text*/"オリジナルver");
-INSERT INTO `text_data` VALUES (/*category*/25, /*index*/109, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/25, /*index*/110, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/25, /*index*/109, /*text*/"うたいわけ対応");
+INSERT INTO `text_data` VALUES (/*category*/25, /*index*/110, /*text*/"別verあり");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/1, /*text*/"撮影セッティング");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/2, /*text*/"メニュー");
 INSERT INTO `text_data` VALUES (/*category*/26, /*index*/3, /*text*/"オーダー");
@@ -5093,6 +5093,15 @@ INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/800, /*text*/"既に
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/801, /*text*/"データ連携エラー");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/802, /*text*/"データ連携でエラーが発生しました\nお手数ですが、再度連携をお試しください");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/803, /*text*/"通信エラーが発生したため\nホームへ戻ります");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/900, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/901, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/902, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/903, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/904, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/905, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/906, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/907, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/908, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/10003, /*index*/1, /*text*/"外部サイトに接続します\n楽曲配信情報サイトへ移動してもよろしいですか？");
 INSERT INTO `text_data` VALUES (/*category*/10003, /*index*/10, /*text*/"（{0} VERSION）");
 INSERT INTO `text_data` VALUES (/*category*/10003, /*index*/11, /*text*/"{0}（CV：{1}）");
