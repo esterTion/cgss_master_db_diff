@@ -982,4 +982,5 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"■ あらすじ\n新規プロジェクトである第3芸能課に集まったアイドルたち。\nプロデューサーを待ちながら、\nまだお互いを知らない少女たちは、");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"小さなきっかけから一歩ずつ歩み寄ります。 \n今回のNO MAKEは、その時のお話です…。\n \n ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90905, /*img*/1, /*discription*/"TVアニメ「U149」第1話の放送を記念し、SSレアアイドル1人確定の\n『「U149」アニメ放送記念ガシャ 第1話』を開催中です !\nSSレア・Sレアアイドルは「U149」アイドルのみ !\nさらに一部の期間限定アイドルも再登場しますよ !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90908, /*img*/1, /*discription*/"期間限定イベントの開催が決定しました ! イベント楽曲は\nTVアニメ「U149」オープニングテーマ曲の「Shine In The Sky☆」 !\n「イベント予告へ」からメッセージを\n聴いてくださいね !");
 CREATE INDEX 'individual_tutorial_0_id' on 'individual_tutorial'('id');
