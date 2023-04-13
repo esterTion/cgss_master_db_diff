@@ -1,5 +1,6 @@
 CREATE TABLE 'music_another_data' ('music_id' TEXT NOT NULL, 'name' TEXT NOT NULL, 'type' INTEGER NOT NULL, 'music_data_id' INTEGER NOT NULL, PRIMARY KEY('music_id'));
 INSERT INTO `music_another_data` VALUES (/*music_id*/"1018_another", /*name*/"ゴキゲンParty Night（EVENT VERSION）", /*type*/4, /*music_data_id*/1019);
+INSERT INTO `music_another_data` VALUES (/*music_id*/"1024_another", /*name*/"きみにいっぱい☆（U149 VERSION）", /*type*/3, /*music_data_id*/5501);
 INSERT INTO `music_another_data` VALUES (/*music_id*/"1032_another", /*name*/"Take me☆Take you（EVENT VERSION）", /*type*/4, /*music_data_id*/1031);
 INSERT INTO `music_another_data` VALUES (/*music_id*/"1038_another", /*name*/"キミのそばでずっと（EVENT VERSION）", /*type*/4, /*music_data_id*/1033);
 INSERT INTO `music_another_data` VALUES (/*music_id*/"1047_another", /*name*/"恋が咲く季節（EVENT VERSION）", /*type*/4, /*music_data_id*/1036);

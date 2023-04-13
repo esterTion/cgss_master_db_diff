@@ -262,6 +262,7 @@ INSERT INTO `music_duration` VALUES (/*music_id*/5042, /*music_duration*/124);
 INSERT INTO `music_duration` VALUES (/*music_id*/5043, /*music_duration*/120);
 INSERT INTO `music_duration` VALUES (/*music_id*/5044, /*music_duration*/128);
 INSERT INTO `music_duration` VALUES (/*music_id*/5045, /*music_duration*/130);
+INSERT INTO `music_duration` VALUES (/*music_id*/5046, /*music_duration*/132);
 INSERT INTO `music_duration` VALUES (/*music_id*/7003, /*music_duration*/125);
 INSERT INTO `music_duration` VALUES (/*music_id*/7004, /*music_duration*/122);
 INSERT INTO `music_duration` VALUES (/*music_id*/7005, /*music_duration*/129);
@@ -652,6 +653,7 @@ INSERT INTO `music_duration` VALUES (/*music_id*/"1001_308", /*music_duration*/1
 INSERT INTO `music_duration` VALUES (/*music_id*/"1001_309", /*music_duration*/124);
 INSERT INTO `music_duration` VALUES (/*music_id*/"1001_310", /*music_duration*/124);
 INSERT INTO `music_duration` VALUES (/*music_id*/"1018_another", /*music_duration*/124);
+INSERT INTO `music_duration` VALUES (/*music_id*/"1024_another", /*music_duration*/122);
 INSERT INTO `music_duration` VALUES (/*music_id*/"1032_another", /*music_duration*/123);
 INSERT INTO `music_duration` VALUES (/*music_id*/"1038_another", /*music_duration*/125);
 INSERT INTO `music_duration` VALUES (/*music_id*/"1047_another", /*music_duration*/124);

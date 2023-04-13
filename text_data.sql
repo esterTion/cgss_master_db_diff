@@ -2486,7 +2486,7 @@ INSERT INTO `text_data` VALUES (/*category*/35, /*index*/12, /*text*/"投票数�
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/13, /*text*/"投票確認");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/14, /*text*/"投票完了");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/15, /*text*/"投票履歴");
-INSERT INTO `text_data` VALUES (/*category*/35, /*index*/16, /*text*/"プロデューサーLVが20に達していない\n場合投票できません");
+INSERT INTO `text_data` VALUES (/*category*/35, /*index*/16, /*text*/"プロデューサーLvが20に達していない\n場合投票できません");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/17, /*text*/"2ndパネルミッションを解放していない\n場合投票できません");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/18, /*text*/"投票する");
 INSERT INTO `text_data` VALUES (/*category*/35, /*index*/19, /*text*/"[D33D98]{0}[-]に[D33D98]{1}[-]票投票しますか？");
@@ -3594,7 +3594,7 @@ INSERT INTO `text_data` VALUES (/*category*/59, /*index*/12, /*text*/"投票数�
 INSERT INTO `text_data` VALUES (/*category*/59, /*index*/13, /*text*/"投票確認");
 INSERT INTO `text_data` VALUES (/*category*/59, /*index*/14, /*text*/"投票完了");
 INSERT INTO `text_data` VALUES (/*category*/59, /*index*/15, /*text*/"投票履歴");
-INSERT INTO `text_data` VALUES (/*category*/59, /*index*/16, /*text*/"プロデューサーLVが20に達していない\n場合投票できません");
+INSERT INTO `text_data` VALUES (/*category*/59, /*index*/16, /*text*/"プロデューサーLvが20に達していない\n場合投票できません");
 INSERT INTO `text_data` VALUES (/*category*/59, /*index*/17, /*text*/"2ndパネルミッションを解放していない\n場合投票できません");
 INSERT INTO `text_data` VALUES (/*category*/59, /*index*/18, /*text*/"投票する");
 INSERT INTO `text_data` VALUES (/*category*/59, /*index*/19, /*text*/"[D33D98]{0}[-]に[D33D98]{1}[-]票投票しますか？");
@@ -3631,7 +3631,7 @@ INSERT INTO `text_data` VALUES (/*category*/59, /*index*/51, /*text*/"---");
 INSERT INTO `text_data` VALUES (/*category*/60, /*index*/1, /*text*/"特設ページ");
 INSERT INTO `text_data` VALUES (/*category*/60, /*index*/2, /*text*/"特設ページへ");
 INSERT INTO `text_data` VALUES (/*category*/60, /*index*/3, /*text*/"条件達成で\n購入可能");
-INSERT INTO `text_data` VALUES (/*category*/60, /*index*/4, /*text*/"プロデューサーLVが20に達していない\n場合投票できません");
+INSERT INTO `text_data` VALUES (/*category*/60, /*index*/4, /*text*/"プロデューサーLvが20に達していない\n場合投票できません");
 INSERT INTO `text_data` VALUES (/*category*/60, /*index*/5, /*text*/"2ndパネルミッションを解放していない\n場合投票できません");
 INSERT INTO `text_data` VALUES (/*category*/60, /*index*/6, /*text*/"詳細");
 INSERT INTO `text_data` VALUES (/*category*/60, /*index*/7, /*text*/"投票");

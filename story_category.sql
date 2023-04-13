@@ -516,3 +516,4 @@ INSERT INTO `story_category` VALUES (/*id*/534, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/535, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ミライコンパス", /*sub_title*/"ミライコンパス", /*disp_order*/209, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/536, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"MVメイカー", /*sub_title*/"MVメイカー", /*disp_order*/36, /*filter_type*/404);
 INSERT INTO `story_category` VALUES (/*id*/537, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"さやけき花の生命に", /*sub_title*/"さやけき花の生命に", /*disp_order*/210, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/538, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Shine In The Sky☆", /*sub_title*/"Shine In The Sky☆", /*disp_order*/211, /*filter_type*/0);

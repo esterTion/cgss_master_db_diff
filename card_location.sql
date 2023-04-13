@@ -1736,3 +1736,8 @@ INSERT INTO `card_location` VALUES (/*index*/1750, /*text*/"学校校門前・�
 INSERT INTO `card_location` VALUES (/*index*/1751, /*text*/"通学路・春");
 INSERT INTO `card_location` VALUES (/*index*/1752, /*text*/"夢見る蕾の寄宿学校");
 INSERT INTO `card_location` VALUES (/*index*/1753, /*text*/"教室・撮影の休憩中");
+INSERT INTO `card_location` VALUES (/*index*/1754, /*text*/"フランス・パリ");
+INSERT INTO `card_location` VALUES (/*index*/1755, /*text*/"ボルダリングジム");
+INSERT INTO `card_location` VALUES (/*index*/1756, /*text*/"事務所・第3芸能課");
+INSERT INTO `card_location` VALUES (/*index*/1757, /*text*/"いつかの青空の下");
+INSERT INTO `card_location` VALUES (/*index*/1758, /*text*/"いつかの草原の上");
