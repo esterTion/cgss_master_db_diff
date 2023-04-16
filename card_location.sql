@@ -1741,3 +1741,5 @@ INSERT INTO `card_location` VALUES (/*index*/1755, /*text*/"ボルダリング�
 INSERT INTO `card_location` VALUES (/*index*/1756, /*text*/"事務所・第3芸能課");
 INSERT INTO `card_location` VALUES (/*index*/1757, /*text*/"いつかの青空の下");
 INSERT INTO `card_location` VALUES (/*index*/1758, /*text*/"いつかの草原の上");
+INSERT INTO `card_location` VALUES (/*index*/1759, /*text*/"オーストリア・湖のほとり");
+INSERT INTO `card_location` VALUES (/*index*/1760, /*text*/"微睡みの水没都市");
