@@ -5100,7 +5100,7 @@ INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/903, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/904, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/905, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/906, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/907, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/907, /*text*/"OK");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/908, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/10003, /*index*/1, /*text*/"外部サイトに接続します\n楽曲配信情報サイトへ移動してもよろしいですか？");
 INSERT INTO `text_data` VALUES (/*category*/10003, /*index*/10, /*text*/"（{0} VERSION）");
