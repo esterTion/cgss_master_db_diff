@@ -978,14 +978,15 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90801, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90901, /*img*/1, /*discription*/"TVアニメ「アイドルマスター シンデレラガールズ U149」は\nテレビ東京にて毎週水曜24:00から放送開始 !\nBS11、AT-X、BS日テレ、TVQでも順次放送 !\n ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90901, /*img*/1, /*discription*/"さらにニコニコ他、各プラットフォームでの配信も !\n※詳細はアニメ公式サイトをご確認ください。\n \n ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90902, /*img*/1, /*discription*/"4/5から、TVアニメ「U149」の放送を記念して\n毎週水曜15:00に「スタージュエル 250個」をプレゼントします !\nプレゼント期間は翌週水曜14:59までです。\nログインして受け取ってくださいね !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90903, /*img*/1, /*discription*/"TVアニメ「U149」第2話の放送を記念して\n今週は「市原仁奈のぬいぐるみ/Shine In The Sky☆」をプレゼント !\n次週のルームアイテムプレゼントもお楽しみに !\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90903, /*img*/1, /*discription*/"TVアニメ「U149」第3話の放送を記念して\n今週は「赤城みりあのぬいぐるみ/Shine In The Sky☆」をプレゼント !\n次週のルームアイテムプレゼントもお楽しみに !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"ボイスドラマ「NO MAKE」#01を公開しました !\nアニメ第1話のサイドストーリーを楽しむことができますよ !\nシンデレラシアターまたはデレスポの\nサウンドブースからチェックしてくださいね !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"■ 登場人物\n橘ありす、古賀小春、赤城みりあ\n市原仁奈、櫻井桃華、佐々木千枝\n的場梨沙、龍崎薫、結城晴");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"■ あらすじ\n新規プロジェクトである第3芸能課に集まったアイドルたち。\nプロデューサーを待ちながら、\nまだお互いを知らない少女たちは、");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"小さなきっかけから一歩ずつ歩み寄ります。 \n今回のNO MAKEは、その時のお話です…。\n \n ");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90905, /*img*/1, /*discription*/"TVアニメ「U149」第2話の放送を記念し、\n『「U149」アニメ放送記念ガシャ 第2話』を開催中です !\nSSレア・Sレアアイドルは「U149」アイドルのみ !\nさらに10人目は「市原仁奈」のSSレア確定です !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90906, /*img*/1, /*discription*/"アニメ第2話で初披露 !\n楽曲「きみにいっぱい☆」にU149verを追加しました !\n「市原仁奈、一ノ瀬志希、宮本フレデリカ」の\n歌唱を楽しむことができますよ !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90905, /*img*/1, /*discription*/"TVアニメ「U149」第3話の放送を記念し、\n『「U149」アニメ放送記念ガシャ 第3話』を開催中です !\nSSレア・Sレアアイドルは「U149」アイドルのみ !\nさらに10人目は「赤城みりあ」のSSレア確定です !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90906, /*img*/1, /*discription*/"アニメ第3話で初披露 !\n楽曲「凸凹スピードスター」にU149verを追加しました !\n「赤城みりあ、安部菜々、佐藤心」の\n歌唱を楽しむことができますよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90908, /*img*/1, /*discription*/"期間限定イベント開始です ! イベント楽曲は\nTVアニメ「U149」オープニングテーマ曲の「Shine In The Sky☆」 !\n小さなアイドルたちと新人プロデューサーが活躍する\nアナザーストーリーをお楽しみください !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90908, /*img*/1, /*discription*/"さらに、GRAND LIVEに「Shine In The Sky☆」を\n通常楽曲として追加しました !\n9人でのLIVEを存分に楽しみましょう !\n※イベント楽曲とは別楽曲扱いとなります");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90909, /*img*/1, /*discription*/"期間限定イベントは終了いたしました。\n現在集計中です。\n \n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90910, /*img*/1, /*discription*/"「ゆるっとふわっと シンデレラ×フォト」に\nTVアニメ「U149」のコラボ素材が追加されました !\n「U149」アイドルがモチーフのアイコンを使って\nフォトを作成してみましょう !");
 CREATE INDEX 'individual_tutorial_0_id' on 'individual_tutorial'('id');
