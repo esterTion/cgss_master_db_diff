@@ -1409,12 +1409,16 @@ INSERT INTO `live_notes_number` VALUES (/*live_id*/370, /*difficulty*/2, /*notes
 INSERT INTO `live_notes_number` VALUES (/*live_id*/370, /*difficulty*/3, /*notes_number*/368, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/370, /*difficulty*/4, /*notes_number*/732, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/370, /*difficulty*/5, /*notes_number*/866, /*damage_note_number*/0);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/370, /*difficulty*/11, /*notes_number*/112, /*damage_note_number*/0);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/370, /*difficulty*/12, /*notes_number*/325, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/370, /*difficulty*/101, /*notes_number*/865, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/371, /*difficulty*/1, /*notes_number*/122, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/371, /*difficulty*/2, /*notes_number*/220, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/371, /*difficulty*/3, /*notes_number*/404, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/371, /*difficulty*/4, /*notes_number*/534, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/371, /*difficulty*/5, /*notes_number*/883, /*damage_note_number*/0);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/371, /*difficulty*/11, /*notes_number*/108, /*damage_note_number*/0);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/371, /*difficulty*/12, /*notes_number*/400, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/371, /*difficulty*/101, /*notes_number*/871, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/372, /*difficulty*/1, /*notes_number*/100, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/372, /*difficulty*/2, /*notes_number*/200, /*damage_note_number*/0);

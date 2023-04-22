@@ -72,4 +72,6 @@ INSERT INTO `gallery_stage_condition` VALUES (/*id*/71, /*source_id*/82, /*condi
 INSERT INTO `gallery_stage_condition` VALUES (/*id*/72, /*source_id*/83, /*condition_type*/301, /*condition_id*/83, /*condition_value*/1);
 INSERT INTO `gallery_stage_condition` VALUES (/*id*/73, /*source_id*/84, /*condition_type*/301, /*condition_id*/84, /*condition_value*/1);
 INSERT INTO `gallery_stage_condition` VALUES (/*id*/74, /*source_id*/85, /*condition_type*/301, /*condition_id*/85, /*condition_value*/1);
+INSERT INTO `gallery_stage_condition` VALUES (/*id*/75, /*source_id*/86, /*condition_type*/301, /*condition_id*/86, /*condition_value*/1);
+INSERT INTO `gallery_stage_condition` VALUES (/*id*/76, /*source_id*/87, /*condition_type*/301, /*condition_id*/87, /*condition_value*/1);
 CREATE INDEX 'gallery_stage_condition_0_source_id' on 'gallery_stage_condition'('source_id');
