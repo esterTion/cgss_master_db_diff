@@ -987,6 +987,6 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90905, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90906, /*img*/1, /*discription*/"アニメ第3話で初披露 !\n楽曲「凸凹スピードスター」にU149verを追加しました !\n「赤城みりあ、安部菜々、佐藤心」の\n歌唱を楽しむことができますよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90908, /*img*/1, /*discription*/"期間限定イベント開始です ! イベント楽曲は\nTVアニメ「U149」オープニングテーマ曲の「Shine In The Sky☆」 !\n小さなアイドルたちと新人プロデューサーが活躍する\nアナザーストーリーをお楽しみください !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90908, /*img*/1, /*discription*/"さらに、GRAND LIVEに「Shine In The Sky☆」を\n通常楽曲として追加しました !\n9人でのLIVEを存分に楽しみましょう !\n※イベント楽曲とは別楽曲扱いとなります");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90909, /*img*/1, /*discription*/"期間限定イベントは終了いたしました。\n現在集計中です。\n \n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90909, /*img*/1, /*discription*/"期間限定イベントは終了いたしました。\n現在結果発表中です。\n \n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90910, /*img*/1, /*discription*/"「ゆるっとふわっと シンデレラ×フォト」に\nTVアニメ「U149」のコラボ素材が追加されました !\n「U149」アイドルがモチーフのアイコンを使って\nフォトを作成してみましょう !");
 CREATE INDEX 'individual_tutorial_0_id' on 'individual_tutorial'('id');
