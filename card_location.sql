@@ -1746,3 +1746,6 @@ INSERT INTO `card_location` VALUES (/*index*/1760, /*text*/"微睡みの水没�
 INSERT INTO `card_location` VALUES (/*index*/1761, /*text*/"甲府・ワイナリー");
 INSERT INTO `card_location` VALUES (/*index*/1762, /*text*/"レクチャールーム");
 INSERT INTO `card_location` VALUES (/*index*/1763, /*text*/"筑波山中腹・休憩所");
+INSERT INTO `card_location` VALUES (/*index*/1764, /*text*/"小江戸・蔵造りの通り");
+INSERT INTO `card_location` VALUES (/*index*/1765, /*text*/"レトロモダン純喫茶");
+INSERT INTO `card_location` VALUES (/*index*/1766, /*text*/"バラ園");
