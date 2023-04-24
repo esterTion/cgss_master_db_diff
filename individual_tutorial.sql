@@ -975,7 +975,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90801, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90801, /*img*/2, /*discription*/"リクエスト用紙は、\n投票期間中にログインすることで\n1枚獲得することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90801, /*img*/2, /*discription*/"リクエスト用紙を使用して投票に参加すると、\n報酬として「魔法の生地」20個を獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90801, /*img*/2, /*discription*/"衣装の詳細は本特設ページの「i」ボタンで開く\n衣装詳細から確認できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90901, /*img*/1, /*discription*/"TVアニメ「アイドルマスター シンデレラガールズ U149」は\nテレビ東京にて毎週水曜24:00から放送開始 !\nBS11、AT-X、BS日テレ、TVQでも順次放送 !\n ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90901, /*img*/1, /*discription*/"TVアニメ「アイドルマスター シンデレラガールズ U149」は\nテレビ東京にて毎週水曜24:00から放送予定 !\nBS11、AT-X、BS日テレ、TVQでも順次放送 !\n ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90901, /*img*/1, /*discription*/"さらにニコニコ他、各プラットフォームでの配信も !\n※詳細はアニメ公式サイトをご確認ください。\n \n ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90902, /*img*/1, /*discription*/"4/5から、TVアニメ「U149」の放送を記念して\n毎週水曜15:00に「スタージュエル 250個」をプレゼントします !\nプレゼント期間は翌週水曜14:59までです。\nログインして受け取ってくださいね !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90903, /*img*/1, /*discription*/"TVアニメ「U149」第3話の放送を記念して\n今週は「赤城みりあのぬいぐるみ/Shine In The Sky☆」をプレゼント !\n次週のルームアイテムプレゼントもお楽しみに !\n");
