@@ -11,4 +11,5 @@ INSERT INTO `music_another_data` VALUES (/*music_id*/"1904_another", /*name*/"�
 INSERT INTO `music_another_data` VALUES (/*music_id*/"2013_another", /*name*/"凸凹スピードスター（U149 VERSION）", /*type*/1, /*music_data_id*/5502);
 INSERT INTO `music_another_data` VALUES (/*music_id*/"5025_call", /*name*/"M@GIC☆（CHEER VERSION）", /*type*/4, /*music_data_id*/5025);
 INSERT INTO `music_another_data` VALUES (/*music_id*/"9021_another", /*name*/"ガールズ・イン・ザ・フロンティア（EVENT VERSION）", /*type*/4, /*music_data_id*/9018);
+INSERT INTO `music_another_data` VALUES (/*music_id*/"9022_another", /*name*/"無重力シャトル（U149 VERSION）", /*type*/4, /*music_data_id*/5503);
 INSERT INTO `music_another_data` VALUES (/*music_id*/"9902_another", /*name*/"Yes! Party Time!!（EVENT VERSION）", /*type*/4, /*music_data_id*/9901);
