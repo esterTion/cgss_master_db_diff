@@ -9,3 +9,5 @@ INSERT INTO `brand_data` VALUES (/*id*/7, /*brand_name*/"Ewig Maiden", /*brand_t
 INSERT INTO `brand_data` VALUES (/*id*/8, /*brand_name*/"Mimi", /*brand_text*/"Mimi");
 INSERT INTO `brand_data` VALUES (/*id*/9, /*brand_name*/"GENES", /*brand_text*/"GENES");
 INSERT INTO `brand_data` VALUES (/*id*/10, /*brand_name*/"Abbie&Libby", /*brand_text*/"Abbie&Libby");
+INSERT INTO `brand_data` VALUES (/*id*/11, /*brand_name*/"Nostalgia", /*brand_text*/"Nostalgia");
+INSERT INTO `brand_data` VALUES (/*id*/12, /*brand_name*/"KTS", /*brand_text*/"KTS");
