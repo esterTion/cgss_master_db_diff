@@ -949,13 +949,12 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90614, /*img*/6, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90614, /*img*/6, /*discription*/"予選グループD応援セットは購入すると「プラチナ10連ガシャ\nチケット」を1枚、「予選グループD投票券」を300枚、");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90614, /*img*/6, /*discription*/"「スタミナドリンク50」を3個獲得できます。\n※有償スタージュエルでのみ購入することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90614, /*img*/6, /*discription*/"※予選グループDの投票終了時間と応援セットの\n販売終了時間は異なります。ご注意ください。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90615, /*img*/1, /*discription*/"「Stage for Cinderella」プレイオフは\n5月2日15:00より投票開始となります。\n※予告なく変更・中止となる場合がございます");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90615, /*img*/1, /*discription*/"各予選グループの上位6位～15位、\n合計40名のアイドルが参加します。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90615, /*img*/1, /*discription*/"投票期間は5月2日15:00～\n5月6日23:59までの5日間となります。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90615, /*img*/2, /*discription*/"プレイオフで1位となったアイドルは\n本選に出場となります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90615, /*img*/1, /*discription*/"「Stage for Cinderella」プレイオフが開始されました !\nプレイオフ得票数1位のアイドルが本選に出場となります !\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90615, /*img*/1, /*discription*/"参加するアイドルは40名 ! アイドルの詳細は\n本特設ページの「i」ボタンで開く選挙詳細から確認できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90615, /*img*/1, /*discription*/"投票期間は5月2日15:00～5月6日23:59までの5日間となります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90615, /*img*/2, /*discription*/"投票には、プレイオフ投票券が必要です。\n投票券を使って、1人のアイドルを選んで投票します。\nお気に入りのアイドルに投票しましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90615, /*img*/2, /*discription*/"※「プレイオフ投票券」は、本選では使用できません");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90615, /*img*/3, /*discription*/"プレイオフ投票期間中に\n1度ログインすることでプレイオフ投票券を15枚獲得できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90615, /*img*/3, /*discription*/"また、各予選の累計投票数報酬にて\nプレイオフ投票券を1枚ずつ、合計4枚獲得できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90615, /*img*/3, /*discription*/"※各予選の累計投票数報酬はそれぞれの投票期間を\n過ぎると獲得できなくなるのでご注意ください");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90616, /*img*/1, /*discription*/"「Stage for Cinderella」本選は\n5月15日15:00より投票開始となります。\n※予告なく変更・中止となる場合がございます");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90616, /*img*/1, /*discription*/"各予選の上位1位～5位のアイドルに\nプレイオフ1位のアイドルを加えた合計21名の\nアイドルが参加します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90616, /*img*/1, /*discription*/"投票期間は5月15日15:00～\n5月28日23:59までの2週間となります。");
