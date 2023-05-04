@@ -197,6 +197,7 @@ INSERT INTO `carnival_live_exclude` VALUES (/*event_id*/7013, /*live_id*/908);
 INSERT INTO `carnival_live_exclude` VALUES (/*event_id*/7013, /*live_id*/909);
 INSERT INTO `carnival_live_exclude` VALUES (/*event_id*/7013, /*live_id*/910);
 INSERT INTO `carnival_live_exclude` VALUES (/*event_id*/7013, /*live_id*/911);
+INSERT INTO `carnival_live_exclude` VALUES (/*event_id*/7013, /*live_id*/912);
 INSERT INTO `carnival_live_exclude` VALUES (/*event_id*/7013, /*live_id*/10441);
 INSERT INTO `carnival_live_exclude` VALUES (/*event_id*/7013, /*live_id*/10632);
 INSERT INTO `carnival_live_exclude` VALUES (/*event_id*/7013, /*live_id*/10642);
