@@ -828,7 +828,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90304, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90304, /*img*/2, /*discription*/"キャンペーン開始後、「チャレンジミッション」を\nクリアすることで信頼度が獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90304, /*img*/2, /*discription*/"LIVEが対象の「チャレンジミッション」は\nオートLIVEでも達成可能です !\n※使用したチケットの枚数に応じて、\nミッションの達成条件にカウントされます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90304, /*img*/2, /*discription*/"また、選択したアイドルに関連した\n「チャレンジミッション」もあります。\nアイドルを育成して信頼度を獲得しましょう。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90304, /*img*/3, /*discription*/"キャンペーン期間中に、信頼度の獲得量が\n一定を越えたら仮所属アイドルは正式加入となり、\nキャンペーン期間後も所属アイドルとして活躍します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90304, /*img*/3, /*discription*/"キャンペーン期間中に、信頼度の獲得量が\n一定を超えたら仮所属アイドルは正式加入となり、\nキャンペーン期間後も所属アイドルとして活躍します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90304, /*img*/3, /*discription*/"正式加入に必要な信頼度は「信頼度報酬」から確認できます。\n正式加入のほかにも獲得できる報酬があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90304, /*img*/3, /*discription*/"キャンペーン期間後に選択したアイドルが\n仮所属の状態だった場合、自動的に\n所属アイドル一覧からいなくなります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90304, /*img*/3, /*discription*/"仮所属アイドルの育成などで消費したアイテムなどは\n返却されません。ご注意ください。");
