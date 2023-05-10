@@ -995,4 +995,5 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90908, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90908, /*img*/1, /*discription*/"さらに、GRAND LIVEに「Shine In The Sky☆」を\n通常楽曲として追加しました !\n9人でのLIVEを存分に楽しみましょう !\n※イベント楽曲とは別楽曲扱いとなります");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90909, /*img*/1, /*discription*/"期間限定イベントは終了いたしました。\n現在結果発表中です。\n \n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90910, /*img*/1, /*discription*/"「ゆるっとふわっと シンデレラ×フォト」に\nTVアニメ「U149」のコラボ素材が追加されました !\n「U149」アイドルがモチーフのアイコンを使って\nフォトを作成してみましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90911, /*img*/1, /*discription*/"期間限定イベントの開催が決定しました ! イベント楽曲は\nTVアニメ「U149」第6話で初披露された「Nightwear」 !\n「イベント予告へ」からメッセージを\n聴いてくださいね !");
 CREATE INDEX 'individual_tutorial_0_id' on 'individual_tutorial'('id');
