@@ -1,4 +1,5 @@
 CREATE TABLE 'live_part_sing' ('live_data_id' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'member' INTEGER NOT NULL, 'chara_id' TEXT NOT NULL, 'chara_slot_id' TEXT NOT NULL, PRIMARY KEY('live_data_id'));
+INSERT INTO `live_part_sing` VALUES (/*live_data_id*/2, /*type*/1, /*member*/5, /*chara_id*/"101,150,167,197,198,227,234", /*chara_slot_id*/"");
 INSERT INTO `live_part_sing` VALUES (/*live_data_id*/23, /*type*/1, /*member*/3, /*chara_id*/"108,112,134", /*chara_slot_id*/"");
 INSERT INTO `live_part_sing` VALUES (/*live_data_id*/25, /*type*/1, /*member*/2, /*chara_id*/"185,198,227", /*chara_slot_id*/"");
 INSERT INTO `live_part_sing` VALUES (/*live_data_id*/41, /*type*/1, /*member*/5, /*chara_id*/"101,111,127,134,154", /*chara_slot_id*/"");

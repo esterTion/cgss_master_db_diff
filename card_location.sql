@@ -1763,3 +1763,6 @@ INSERT INTO `card_location` VALUES (/*index*/1777, /*text*/"ホテル・セラ�
 INSERT INTO `card_location` VALUES (/*index*/1778, /*text*/"さらけ出されたシーツの海");
 INSERT INTO `card_location` VALUES (/*index*/1779, /*text*/"ホカンス・ジャグジー");
 INSERT INTO `card_location` VALUES (/*index*/1780, /*text*/"大胆になれるシーツの海");
+INSERT INTO `card_location` VALUES (/*index*/1781, /*text*/"長野・風吹く街並み");
+INSERT INTO `card_location` VALUES (/*index*/1782, /*text*/"屋外練習場");
+INSERT INTO `card_location` VALUES (/*index*/1783, /*text*/"森林・屋外射場");
