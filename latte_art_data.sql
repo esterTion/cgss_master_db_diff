@@ -648,3 +648,4 @@ INSERT INTO `latte_art_data` VALUES (/*id*/646, /*title*/"第645話", /*chara_li
 INSERT INTO `latte_art_data` VALUES (/*id*/647, /*title*/"第646話", /*chara_list*/"162,226,159", /*disp_order*/647, /*start_date*/"2023-05-04 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `latte_art_data` VALUES (/*id*/648, /*title*/"第647話", /*chara_list*/"223,267,131,126,220", /*disp_order*/648, /*start_date*/"2023-05-11 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `latte_art_data` VALUES (/*id*/649, /*title*/"第648話", /*chara_list*/116, /*disp_order*/649, /*start_date*/"2023-05-13 15:00:00", /*end_date*/"2099-12-31 23:59:59");
+INSERT INTO `latte_art_data` VALUES (/*id*/650, /*title*/"第649話", /*chara_list*/188, /*disp_order*/650, /*start_date*/"2023-05-16 15:00:00", /*end_date*/"2099-12-31 23:59:59");
