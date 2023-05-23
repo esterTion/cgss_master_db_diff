@@ -1769,3 +1769,7 @@ INSERT INTO `card_location` VALUES (/*index*/1783, /*text*/"森林・屋外射�
 INSERT INTO `card_location` VALUES (/*index*/1784, /*text*/"夜景の見えるカフェのテラス");
 INSERT INTO `card_location` VALUES (/*index*/1785, /*text*/"こどものおへや");
 INSERT INTO `card_location` VALUES (/*index*/1786, /*text*/"ネオン輝くストリート");
+INSERT INTO `card_location` VALUES (/*index*/1787, /*text*/"旅館の受付");
+INSERT INTO `card_location` VALUES (/*index*/1788, /*text*/"異なる世界での旅路");
+INSERT INTO `card_location` VALUES (/*index*/1789, /*text*/"バリ・フラワーバス");
+INSERT INTO `card_location` VALUES (/*index*/1790, /*text*/"エルフの森");
