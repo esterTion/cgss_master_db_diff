@@ -994,7 +994,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"■ 登場人物\n的場梨沙、結城晴、赤城みりあ\n櫻井桃華、プロデューサー\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"■ あらすじ\nオーディションを経て、映画の役を獲得した梨沙。\n最初の目標とは異なる役柄でしたが、\nまじめに練習に打ち込みながら、");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"役を演じるということに向き合っていきます。 \n今回のNO MAKEは、その時のお話です…。\n \n ");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90905, /*img*/1, /*discription*/"TVアニメ「U149」第7話の放送を記念し、\n『「U149」アニメ放送記念ガシャ 第7話』を開催中です !\nSSレア・Sレアアイドルは「U149」アイドルのみ !\nさらに10人目は「古賀小春」のSSレア確定です !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90905, /*img*/1, /*discription*/"TVアニメ「U149」総集編の放送を記念し、SSレアアイドル1人確定の\n『「U149」アニメ放送記念ガシャ 総集編』を開催中です !\nSSレア・Sレアはアニメで先輩として登場した\nアイドルのみ ! さらに一部限定アイドルも再登場 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90906, /*img*/1, /*discription*/"アニメ第5話で初披露 !\n楽曲「BEYOND THE STARLIGHT」にU149verを追加しました !\n「的場梨沙」の歌唱を楽しむことができますよ !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90907, /*img*/1, /*discription*/"TVアニメ「U149」第1話ED\n「よりみちリトルスター」を新たに追加しました !\n本楽曲では「U149」アイドルが登場する\n2DリッチMVをお楽しみいただけます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90908, /*img*/1, /*discription*/"期間限定イベント開始です ! イベント楽曲は\nTVアニメ「U149」オープニングテーマ曲の「Shine In The Sky☆」 !\n小さなアイドルたちと新人プロデューサーが活躍する\nアナザーストーリーをお楽しみください !");
