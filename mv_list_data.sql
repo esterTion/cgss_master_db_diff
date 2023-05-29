@@ -48,3 +48,7 @@ INSERT INTO `mv_list_data` VALUES (/*stage_id*/46, /*start_date*/"2022-08-04 15:
 INSERT INTO `mv_list_data` VALUES (/*stage_id*/47, /*start_date*/"2022-08-04 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/24, /*day*/2, /*name*/"10th ANNIVERSARY M@GICAL WONDERLAND TOUR!!! \nTropical Land　2日目");
 INSERT INTO `mv_list_data` VALUES (/*stage_id*/48, /*start_date*/"2022-08-04 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/25, /*day*/1, /*name*/"10th ANNIVERSARY M@GICAL WONDERLAND!!!　\n1日目");
 INSERT INTO `mv_list_data` VALUES (/*stage_id*/49, /*start_date*/"2022-08-04 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/25, /*day*/2, /*name*/"10th ANNIVERSARY M@GICAL WONDERLAND!!!　\n2日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/50, /*start_date*/"2023-05-29 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/26, /*day*/1, /*name*/"LIKE4LIVE #cg_ootd　\n1日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/51, /*start_date*/"2023-05-29 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/26, /*day*/2, /*name*/"LIKE4LIVE #cg_ootd　\n2日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/52, /*start_date*/"2023-05-29 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/27, /*day*/1, /*name*/"Twinkle LIVE Constellation Gradation　\n1日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/53, /*start_date*/"2023-05-29 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/27, /*day*/2, /*name*/"Twinkle LIVE Constellation Gradation　\n2日目");
