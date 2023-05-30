@@ -11,3 +11,4 @@ INSERT INTO `brand_data` VALUES (/*id*/9, /*brand_name*/"GENES", /*brand_text*/"
 INSERT INTO `brand_data` VALUES (/*id*/10, /*brand_name*/"Abbie&Libby", /*brand_text*/"Abbie&Libby");
 INSERT INTO `brand_data` VALUES (/*id*/11, /*brand_name*/"Nostalgia", /*brand_text*/"Nostalgia");
 INSERT INTO `brand_data` VALUES (/*id*/12, /*brand_name*/"KTS", /*brand_text*/"KTS");
+INSERT INTO `brand_data` VALUES (/*id*/13, /*brand_name*/"Kasa Blanca", /*brand_text*/"Kasa Blanca");

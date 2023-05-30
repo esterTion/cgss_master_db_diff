@@ -521,3 +521,4 @@ INSERT INTO `story_category` VALUES (/*id*/537, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/538, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Shine In The Sky☆", /*sub_title*/"Shine In The Sky☆", /*disp_order*/211, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/539, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"全開 ! ミラクルアドベンチャー !", /*sub_title*/"全開 ! ミラクルアドベンチャー !", /*disp_order*/212, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/540, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Nightwear", /*sub_title*/"Nightwear", /*disp_order*/213, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/556, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"なつっこ音頭", /*sub_title*/"なつっこ音頭", /*disp_order*/214, /*filter_type*/0);
