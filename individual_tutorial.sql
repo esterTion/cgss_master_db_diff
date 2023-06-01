@@ -244,7 +244,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20206, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20206, /*img*/2, /*discription*/"さらに、複数まとめて確認した営業は\nそのまま再出発することができます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20207, /*img*/1, /*discription*/"「まとめて確認」、「まとめて短縮」を行った場合は、\n再出発時も複数営業をまとめて短縮することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20207, /*img*/2, /*discription*/"営業ごとに消費するスタミナを選択できます !\n消費するスタミナは1単位で選択でき、\nスタミナ1あたり、15分短縮できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\n必ず複数の特訓アイテムを獲得できる\nスペシャル営業が1日1回行えます !\n詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「エンジョイ♪レイニーデイ親愛度アップキャンペーン」開催中 ! !\nキャンペーン中は、必ず複数のギフトアイテムが獲得できる\nスペシャル営業を3種類追加 !\n詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21001, /*img*/1, /*discription*/"拘束のまゆからの攻撃を避けつつ、ハピネシウムを集めよう。\n集めたハピネシウムをラボに届けるとスコアをゲットできるよ ! \nラボにまとめて届けるとスコアがアップ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21002, /*img*/1, /*discription*/"誘惑の奏の攻撃や障害物を回避して、ハピネシウムを集めよう。\nタップするとうさぎロボがジャンプ ! \nうさぎロボは1回だけ空中ジャンプが可能だよ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21003, /*img*/1, /*discription*/"グラスザニンジャあやめの攻撃をはじきつつ、ハピネシウムを集めよう。\nフリック操作で、照準に入った障害物をはじけ ! \n飛んでくるハピネシウムを見極めてスコアをゲットしよう ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
@@ -989,13 +989,13 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90801, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90901, /*img*/1, /*discription*/"TVアニメ「アイドルマスター シンデレラガールズ U149」は\nテレビ東京にて毎週水曜24:00から放送予定 !\nBS11、AT-X、BS日テレ、TVQでも順次放送 !\n ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90901, /*img*/1, /*discription*/"さらにニコニコ他、各プラットフォームでの配信も !\n※詳細はアニメ公式サイトをご確認ください。\n \n ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90902, /*img*/1, /*discription*/"4/5から、TVアニメ「U149」の放送を記念して\n毎週水曜15:00に「スタージュエル 250個」をプレゼントします !\nプレゼント期間は翌週水曜14:59までです。\nログインして受け取ってくださいね !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90903, /*img*/1, /*discription*/"TVアニメ「U149」第7話の放送を記念して\n今週は「古賀小春のぬいぐるみ/Shine In The Sky☆」をプレゼント !\n次週のルームアイテムプレゼントもお楽しみに !\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90903, /*img*/1, /*discription*/"TVアニメ「U149」第8話の放送を記念して\n今週は「佐々木千枝のぬいぐるみ/Shine In The Sky☆」をプレゼント !\n次週のルームアイテムプレゼントもお楽しみに !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"ボイスドラマ「NO MAKE」#02を公開しました !\nアニメ第5話のサイドストーリーを楽しむことができますよ !\nシンデレラシアターまたはデレスポの\nサウンドブースからチェックしてくださいね !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"■ 登場人物\n的場梨沙、結城晴、赤城みりあ\n櫻井桃華、プロデューサー\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"■ あらすじ\nオーディションを経て、映画の役を獲得した梨沙。\n最初の目標とは異なる役柄でしたが、\nまじめに練習に打ち込みながら、");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"役を演じるということに向き合っていきます。 \n今回のNO MAKEは、その時のお話です…。\n \n ");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90905, /*img*/1, /*discription*/"TVアニメ「U149」総集編の放送を記念し、SSレアアイドル1人確定の\n『「U149」アニメ放送記念ガシャ 総集編』を開催中です !\nSSレア・Sレアはアニメで先輩として登場した\nアイドルのみ ! さらに一部限定アイドルも再登場 !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90906, /*img*/1, /*discription*/"アニメ第5話で初披露 !\n楽曲「BEYOND THE STARLIGHT」にU149verを追加しました !\n「的場梨沙」の歌唱を楽しむことができますよ !\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90905, /*img*/1, /*discription*/"TVアニメ「U149」第8話の放送を記念し、\n『「U149」アニメ放送記念ガシャ 第8話』を開催中です !\nSSレア・Sレアアイドルは「U149」アイドルのみ !\nさらに10人目は「佐々木千枝」のSSレア確定です !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90906, /*img*/1, /*discription*/"アニメ第8話で初披露 !\n楽曲「Sing the Prologue♪」にU149verを追加しました !\n「佐々木千枝、桐生つかさ」の\n歌唱を楽しむことができますよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90907, /*img*/1, /*discription*/"TVアニメ「U149」第1話ED\n「よりみちリトルスター」を新たに追加しました !\n本楽曲では「U149」アイドルが登場する\n2DリッチMVをお楽しみいただけます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90908, /*img*/1, /*discription*/"期間限定イベント開始です ! イベント楽曲は\nTVアニメ「U149」オープニングテーマ曲の「Shine In The Sky☆」 !\n小さなアイドルたちと新人プロデューサーが活躍する\nアナザーストーリーをお楽しみください !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90908, /*img*/1, /*discription*/"さらに、GRAND LIVEに「Shine In The Sky☆」を\n通常楽曲として追加しました !\n9人でのLIVEを存分に楽しみましょう !\n※イベント楽曲とは別楽曲扱いとなります");

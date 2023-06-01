@@ -278,6 +278,7 @@ INSERT INTO `music_info` VALUES (/*id*/5501, /*discription*/"U149 Version\n\n市
 INSERT INTO `music_info` VALUES (/*id*/5502, /*discription*/"U149 Version\n\n赤城みりあ（CV：黒沢ともよ）\n安部菜々（CV：三宅麻理恵）\n佐藤心（CV：花守ゆみり）\n\n\n作詞・作曲・編曲：ゆよゆっぺ", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/5503, /*discription*/"U149 Version\n\n櫻井桃華（CV：照井春佳）\n\n\n作詞・作曲：北川悠仁\n編曲：玉屋2060%（Wienners）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/5504, /*discription*/"U149 Version\n\n的場梨沙（CV：集貝はな）\n\n\n作詞：八城雄太\n作曲・編曲：石濱翔（MONACA）", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/5505, /*discription*/"U149 Version\n\n佐々木千枝（CV：今井麻夏）\n桐生つかさ（CV：河瀬茉希）\n\n\n作詞：高瀬愛虹\n作曲：滝澤俊輔（TRYTONELABO）\n編曲：TAKT（TRYTONELABO）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/7003, /*discription*/"棟方愛海（CV：藤本彩花）\n及川雫（CV：のぐちゆり）\n\n\n作詞：木村有希\n作曲：滝澤俊輔（TRYTONELABO）\n編曲：渡部チェル", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/7004, /*discription*/"三船美優（CV：原田彩楓）\n藤原肇（CV：鈴木みのり）\n\n\n作詞・作曲：AJURIKA\n編曲：滝澤俊輔（TRYTONELABO）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/7005, /*discription*/"荒木比奈（CV：田辺留依）\n上条春菜（CV：長島光那）\n\n\n作詞・作曲：ミト\n編曲：BNSI（北谷光浩）", /*android_url*/"", /*ios_url*/"");
