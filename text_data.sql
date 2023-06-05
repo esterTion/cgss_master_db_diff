@@ -4336,7 +4336,7 @@ INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1304, /*text*/"書き�
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1305, /*text*/"キャンバス保存");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1306, /*text*/"キャンバスを保存しました。");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1307, /*text*/"画像書き出し失敗");
-INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1401, /*text*/"フォトを作成したよ！ #デレステ #シンデレラフォト #StageforCinderella #SfC本選");
+INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1401, /*text*/"フォトを作成したよ！ #デレステ #シンデレラフォト");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1402, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1411, /*text*/"SNSシェア");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1412, /*text*/"ブラウザを立ち上げてTwitterを開きます。\nピクチャの画像をアップロードして投稿することができます。");
