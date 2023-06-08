@@ -10,6 +10,7 @@ INSERT INTO `music_another_data` VALUES (/*music_id*/"1903_another", /*name*/"�
 INSERT INTO `music_another_data` VALUES (/*music_id*/"1904_another", /*name*/"∀NSWER ～ののの物語～（VOCAL VERSION）", /*type*/4, /*music_data_id*/1904);
 INSERT INTO `music_another_data` VALUES (/*music_id*/"2013_another", /*name*/"凸凹スピードスター（U149 VERSION）", /*type*/1, /*music_data_id*/5502);
 INSERT INTO `music_another_data` VALUES (/*music_id*/"5025_call", /*name*/"M@GIC☆（CHEER VERSION）", /*type*/4, /*music_data_id*/5025);
+INSERT INTO `music_another_data` VALUES (/*music_id*/"5034_another", /*name*/"SUN♡FLOWER（U149 VERSION）", /*type*/3, /*music_data_id*/5506);
 INSERT INTO `music_another_data` VALUES (/*music_id*/"5038_another", /*name*/"Sing the Prologue♪（U149 VERSION）", /*type*/1, /*music_data_id*/5505);
 INSERT INTO `music_another_data` VALUES (/*music_id*/"9009_another", /*name*/"BEYOND THE STARLIGHT（U149 VERSION）", /*type*/4, /*music_data_id*/5504);
 INSERT INTO `music_another_data` VALUES (/*music_id*/"9021_another", /*name*/"ガールズ・イン・ザ・フロンティア（EVENT VERSION）", /*type*/4, /*music_data_id*/9018);
