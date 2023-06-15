@@ -1042,6 +1042,12 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/214, /*text*/"オリジ
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/215, /*text*/"ver");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/216, /*text*/"うたいわけ対応");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/217, /*text*/"別verあり");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/218, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/219, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/220, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/221, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/222, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/223, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/1, /*text*/"月間獲得ファン数ランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/2, /*text*/"今期のランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/3, /*text*/"前期のランキング");
@@ -2737,6 +2743,8 @@ INSERT INTO `text_data` VALUES (/*category*/37, /*index*/115, /*text*/"{0}アイ
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/116, /*text*/"女子寮のアイドルが選択されています。また、上限を超えた分は破棄されます");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/117, /*text*/"パートナーの選択人数が250人を超えるため、");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/118, /*text*/"未到達のフロアがあるマイスタイルアイドルです");
+INSERT INTO `text_data` VALUES (/*category*/37, /*index*/119, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/37, /*index*/120, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/1, /*text*/"近日公開予定の機能のため、現在利用できません");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/2, /*text*/"ルームアイテム");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/3, /*text*/"回");
