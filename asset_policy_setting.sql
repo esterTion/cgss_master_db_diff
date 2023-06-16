@@ -1,10 +1,2 @@
 CREATE TABLE 'asset_policy_setting' ('id' INTEGER NOT NULL, 'asset_name' TEXT NOT NULL, 'release_date' TEXT NOT NULL, PRIMARY KEY('id'));
-INSERT INTO `asset_policy_setting` VALUES (/*id*/1, /*asset_name*/"banner_bnr_shine_003.unity3d", /*release_date*/"2022-12-31 23:59");
-INSERT INTO `asset_policy_setting` VALUES (/*id*/2, /*asset_name*/"banner_bnr_gacha_030839.unity3d", /*release_date*/"2022-12-31 23:59");
-INSERT INTO `asset_policy_setting` VALUES (/*id*/3, /*asset_name*/"gachaselect_30839.unity3d", /*release_date*/"2022-12-31 23:59");
-INSERT INTO `asset_policy_setting` VALUES (/*id*/4, /*asset_name*/"gachaselect_gacha_l_05001.unity3d", /*release_date*/"2022-12-31 23:59");
-INSERT INTO `asset_policy_setting` VALUES (/*id*/5, /*asset_name*/"icon_shine_h_003.unity3d", /*release_date*/"2022-12-31 23:59");
-INSERT INTO `asset_policy_setting` VALUES (/*id*/6, /*asset_name*/"icon_shine_p_003.unity3d", /*release_date*/"2022-12-31 23:59");
-INSERT INTO `asset_policy_setting` VALUES (/*id*/7, /*asset_name*/"announce_announce_bg_0515.unity3d", /*release_date*/"2022-12-31 23:59");
-INSERT INTO `asset_policy_setting` VALUES (/*id*/8, /*asset_name*/"announce_announce_text_0515.unity3d", /*release_date*/"2022-12-31 23:59");
-INSERT INTO `asset_policy_setting` VALUES (/*id*/9, /*asset_name*/"announce_announce_title_0515.unity3d", /*release_date*/"2022-12-31 23:59");
+INSERT INTO `asset_policy_setting` VALUES (/*id*/1, /*asset_name*/"anime_fl_cmp_questionnaire_00.unity3d", /*release_date*/"2023-06-16 21:59");

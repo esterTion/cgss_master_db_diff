@@ -1789,3 +1789,5 @@ INSERT INTO `card_location` VALUES (/*index*/1803, /*text*/"撮影現場・日�
 INSERT INTO `card_location` VALUES (/*index*/1804, /*text*/"撮影現場・結婚式場");
 INSERT INTO `card_location` VALUES (/*index*/1805, /*text*/"浜辺の披露宴会場");
 INSERT INTO `card_location` VALUES (/*index*/1806, /*text*/"華々しい大通り");
+INSERT INTO `card_location` VALUES (/*index*/1807, /*text*/"島村卯月・バカンス中♪");
+INSERT INTO `card_location` VALUES (/*index*/1808, /*text*/"ハートいっぱいのステージ");
