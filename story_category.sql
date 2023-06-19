@@ -524,3 +524,4 @@ INSERT INTO `story_category` VALUES (/*id*/540, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/556, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"なつっこ音頭", /*sub_title*/"なつっこ音頭", /*disp_order*/214, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/557, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"奥山沙織 / 水木聖來", /*sub_title*/"奥山沙織 / 水木聖來", /*disp_order*/215, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/558, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"燿城夜祭 -かがやきよまつり-連動企画", /*sub_title*/"燿城夜祭 -かがやきよまつり-連動企画", /*disp_order*/37, /*filter_type*/401);
+INSERT INTO `story_category` VALUES (/*id*/559, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"悠久星涼", /*sub_title*/"悠久星涼", /*disp_order*/216, /*filter_type*/0);
