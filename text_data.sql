@@ -2623,10 +2623,10 @@ INSERT INTO `text_data` VALUES (/*category*/36, /*index*/24, /*text*/"シアタ�
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/25, /*text*/"その他");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/26, /*text*/"しんげき");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/27, /*text*/"えくすて");
-INSERT INTO `text_data` VALUES (/*category*/36, /*index*/28, /*text*/"シアターに動画追加!");
+INSERT INTO `text_data` VALUES (/*category*/36, /*index*/28, /*text*/"シアターに動画追加 !");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/29, /*text*/"シンデレラシアターで{0}が更新されました!是非ご覧になってください!");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/30, /*text*/"U149");
-INSERT INTO `text_data` VALUES (/*category*/36, /*index*/31, /*text*/"シアターにボイスドラマ追加 !");
+INSERT INTO `text_data` VALUES (/*category*/36, /*index*/31, /*text*/"シアターに動画追加 !");
 INSERT INTO `text_data` VALUES (/*category*/36, /*index*/32, /*text*/"シンデレラシアターが更新されました !\n「{0}」タブをチェック !");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/1, /*text*/"{0}を使用する");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/2, /*text*/"　[FF7A7A]{0}[-]を使用して\nアイドルのポテンシャルをすべて0に戻しますか？");
@@ -5011,6 +5011,8 @@ INSERT INTO `text_data` VALUES (/*category*/87, /*index*/53002, /*text*/"該当�
 INSERT INTO `text_data` VALUES (/*category*/89, /*index*/1, /*text*/"コメント内容確認");
 INSERT INTO `text_data` VALUES (/*category*/89, /*index*/2, /*text*/"以下のコメントを送信します。\nよろしいですか？");
 INSERT INTO `text_data` VALUES (/*category*/89, /*index*/3, /*text*/"個人情報や、公序良俗に反する内容は\n投稿しないでください");
+INSERT INTO `text_data` VALUES (/*category*/9999, /*index*/1, /*text*/"期間外エラー");
+INSERT INTO `text_data` VALUES (/*category*/9999, /*index*/2, /*text*/"期間外です");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/1, /*text*/"利用規約とプライバシーポリシーに\n同意してから本サービスをご利用ください。\n\nまた、18歳未満の方は、\n法定代理人（ご両親等）の同意が必要です。\n\n※ないようがわからないときは\nおうちのひとにがめんをみせてください。");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/2, /*text*/"利用規約");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/3, /*text*/"同意しない");

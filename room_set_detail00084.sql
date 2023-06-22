@@ -1,0 +1,18 @@
+CREATE TABLE 'room_set_detail00084' ('id' INTEGER NOT NULL, 'set_id' INTEGER NOT NULL, 'serial_id' INTEGER NOT NULL, 'item_id' INTEGER NOT NULL, 'item_type' INTEGER NOT NULL, 'level' INTEGER NOT NULL, 'dir_type' INTEGER NOT NULL, 'pos_no' INTEGER NOT NULL, 'sort' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `room_set_detail00084` VALUES (/*id*/1, /*set_id*/84, /*serial_id*/1, /*item_id*/6119, /*item_type*/5, /*level*/1, /*dir_type*/0, /*pos_no*/0, /*sort*/18);
+INSERT INTO `room_set_detail00084` VALUES (/*id*/2, /*set_id*/84, /*serial_id*/2, /*item_id*/6118, /*item_type*/3, /*level*/1, /*dir_type*/0, /*pos_no*/1, /*sort*/16);
+INSERT INTO `room_set_detail00084` VALUES (/*id*/3, /*set_id*/84, /*serial_id*/3, /*item_id*/6117, /*item_type*/4, /*level*/1, /*dir_type*/0, /*pos_no*/2, /*sort*/17);
+INSERT INTO `room_set_detail00084` VALUES (/*id*/4, /*set_id*/84, /*serial_id*/4, /*item_id*/6110, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/105, /*sort*/3);
+INSERT INTO `room_set_detail00084` VALUES (/*id*/5, /*set_id*/84, /*serial_id*/5, /*item_id*/6121, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/111, /*sort*/1);
+INSERT INTO `room_set_detail00084` VALUES (/*id*/6, /*set_id*/84, /*serial_id*/6, /*item_id*/6120, /*item_type*/1, /*level*/1, /*dir_type*/1, /*pos_no*/4, /*sort*/0);
+INSERT INTO `room_set_detail00084` VALUES (/*id*/7, /*set_id*/84, /*serial_id*/7, /*item_id*/6111, /*item_type*/1, /*level*/1, /*dir_type*/1, /*pos_no*/7, /*sort*/4);
+INSERT INTO `room_set_detail00084` VALUES (/*id*/8, /*set_id*/84, /*serial_id*/8, /*item_id*/6112, /*item_type*/1, /*level*/1, /*dir_type*/1, /*pos_no*/10, /*sort*/5);
+INSERT INTO `room_set_detail00084` VALUES (/*id*/9, /*set_id*/84, /*serial_id*/9, /*item_id*/6114, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/47, /*sort*/8);
+INSERT INTO `room_set_detail00084` VALUES (/*id*/10, /*set_id*/84, /*serial_id*/10, /*item_id*/6113, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/157, /*sort*/7);
+INSERT INTO `room_set_detail00084` VALUES (/*id*/11, /*set_id*/84, /*serial_id*/11, /*item_id*/6115, /*item_type*/1, /*level*/1, /*dir_type*/1, /*pos_no*/239, /*sort*/9);
+INSERT INTO `room_set_detail00084` VALUES (/*id*/12, /*set_id*/84, /*serial_id*/12, /*item_id*/6115, /*item_type*/1, /*level*/1, /*dir_type*/1, /*pos_no*/236, /*sort*/9);
+INSERT INTO `room_set_detail00084` VALUES (/*id*/13, /*set_id*/84, /*serial_id*/13, /*item_id*/6115, /*item_type*/1, /*level*/1, /*dir_type*/1, /*pos_no*/226, /*sort*/9);
+INSERT INTO `room_set_detail00084` VALUES (/*id*/14, /*set_id*/84, /*serial_id*/14, /*item_id*/6115, /*item_type*/1, /*level*/1, /*dir_type*/1, /*pos_no*/229, /*sort*/9);
+INSERT INTO `room_set_detail00084` VALUES (/*id*/15, /*set_id*/84, /*serial_id*/15, /*item_id*/6116, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/49, /*sort*/13);
+INSERT INTO `room_set_detail00084` VALUES (/*id*/16, /*set_id*/84, /*serial_id*/16, /*item_id*/6116, /*item_type*/1, /*level*/1, /*dir_type*/0, /*pos_no*/161, /*sort*/13);
+CREATE INDEX 'room_set_detail00084_0_set_id' on 'room_set_detail00084'('set_id');

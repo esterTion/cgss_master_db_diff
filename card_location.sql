@@ -1794,3 +1794,6 @@ INSERT INTO `card_location` VALUES (/*index*/1808, /*text*/"ハートいっぱ�
 INSERT INTO `card_location` VALUES (/*index*/1809, /*text*/"道頓堀");
 INSERT INTO `card_location` VALUES (/*index*/1810, /*text*/"夏祭りイベント会場");
 INSERT INTO `card_location` VALUES (/*index*/1811, /*text*/"LIVE会場・祭りのあと");
+INSERT INTO `card_location` VALUES (/*index*/1812, /*text*/"大型ゲームセンター");
+INSERT INTO `card_location` VALUES (/*index*/1813, /*text*/"青空のバスケットコート");
+INSERT INTO `card_location` VALUES (/*index*/1814, /*text*/"行きつけのジャズバー");

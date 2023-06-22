@@ -198,8 +198,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/"ルームアイテムの並べ替えを行うことができます。\n「追加順」、「必要面積順」など並べ替え条件を選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーは\n倉庫収納数から除外されます。\n収納していても、収納数にカウントされません。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"U149コミックス13巻発売記念 !\nコラボルームアイテム『ミニステージ/サマーライブ』を\n販売開始しました !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"After20コミックス11巻発売記念 !\nコラボルームアイテム『座敷席/水餃子鍋』\n『三船美優のぬいぐるみ/After20』を販売開始しました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"「夏まつり」をテーマにしたアイテムとコーデを追加 !\nみんなでお祭りに出かけましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"ルームショップにて、「七夕」テーマの\nアイテム、コーデを復刻販売開始 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「もっと ! デレステ☆NIGHT」にて制作が決定した\n「ねこねこしゃぼん」が登場 ! !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
@@ -989,14 +989,14 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90801, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90901, /*img*/1, /*discription*/"TVアニメ「アイドルマスター シンデレラガールズ U149」は\nテレビ東京にて毎週水曜24:00から放送予定 !\nBS11、AT-X、BS日テレ、TVQでも順次放送 !\n ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90901, /*img*/1, /*discription*/"さらにニコニコ他、各プラットフォームでの配信も !\n※詳細はアニメ公式サイトをご確認ください。\n \n ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90902, /*img*/1, /*discription*/"4/5から、TVアニメ「U149」の放送を記念して\n毎週水曜15:00に「スタージュエル 250個」をプレゼントします !\nプレゼント期間は翌週水曜14:59までです。\nログインして受け取ってくださいね !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90903, /*img*/1, /*discription*/"TVアニメ「U149」第10話の放送を記念して\n今週は「手作りミニステージ/U149」をプレゼント !\n次週のルームアイテムプレゼントもお楽しみに !\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90903, /*img*/1, /*discription*/"TVアニメ「U149」第11話の放送を記念して\n今週は「橘ありすのぬいぐるみ/Shine In The Sky☆」をプレゼント !\n次週のルームアイテムプレゼントもお楽しみに !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"ボイスドラマ「NO MAKE」#03を公開しました !\nアニメ第9話のサイドストーリーを楽しむことができますよ !\nシンデレラシアターまたはデレスポの\nサウンドブースからチェックしてくださいね !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"■ 登場人物\n龍崎薫、橘ありす、市原仁奈\n佐々木千枝、古賀小春\nプロデューサー、課長");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"■ あらすじ\nアイドルたちも、学業が本分。オフの日のおでかけを終えて、\n薫は夏休みの宿題である絵日記に\nとりかかることにしました。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"どんな絵になるでしょう？\n今回のNO MAKEは、その時のお話です…。\n \n ");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90905, /*img*/1, /*discription*/"TVアニメ「U149」第10話の放送を記念し、SSレアアイドル1人確定の\n『「U149」アニメ放送記念ガシャ 第10話』を開催中です !\nSSレア・Sレアアイドルは「U149」アイドルのみ !\nさらに一部の期間限定アイドルも再登場しますよ !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90905, /*img*/1, /*discription*/"TVアニメ「U149」第11話の放送を記念し、\n『「U149」アニメ放送記念ガシャ 第11話』を開催中です !\nSSレア・Sレアアイドルは「U149」アイドルのみ !\nさらに10人目は「橘ありす」のSSレア確定です !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90906, /*img*/1, /*discription*/"アニメ第9話で初披露 !\n楽曲「SUN♡FLOWER」にU149verを追加しました !\n「橘ありす、結城晴、龍崎薫」の\n歌唱を楽しむことができますよ !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90907, /*img*/1, /*discription*/"TVアニメ「U149」第10話ED\n「グッデイ・グッナイ」を新たに追加しました !\nぜひプレイしてみてくださいね !\n※LIVE演出は「2D標準」「2D軽量」のみです");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90907, /*img*/1, /*discription*/"TVアニメ「U149」第10話挿入歌\n「ゼロトゥワン!!」を新たに追加しました !\nぜひプレイしてみてくださいね !\n※LIVE演出は「2D標準」「2D軽量」のみです");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90908, /*img*/1, /*discription*/"期間限定イベント開始です ! イベント楽曲は\nTVアニメ「U149」オープニングテーマ曲の「Shine In The Sky☆」 !\n小さなアイドルたちと新人プロデューサーが活躍する\nアナザーストーリーをお楽しみください !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90908, /*img*/1, /*discription*/"さらに、GRAND LIVEに「Shine In The Sky☆」を\n通常楽曲として追加しました !\n9人でのLIVEを存分に楽しみましょう !\n※イベント楽曲とは別楽曲扱いとなります");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90909, /*img*/1, /*discription*/"期間限定イベントは終了いたしました。\n現在結果発表中です。\n \n");
