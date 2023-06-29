@@ -32,3 +32,4 @@ INSERT INTO `index_skill_data` VALUES (/*id*/40, /*name*/"リフレイン", /*sk
 INSERT INTO `index_skill_data` VALUES (/*id*/41, /*name*/"シンデレラ\nマジック", /*skill_id*/41);
 INSERT INTO `index_skill_data` VALUES (/*id*/42, /*name*/"ミュー\nチャル", /*skill_id*/42);
 INSERT INTO `index_skill_data` VALUES (/*id*/43, /*name*/"オーバー\nドライブ", /*skill_id*/43);
+INSERT INTO `index_skill_data` VALUES (/*id*/44, /*name*/"トリコロール\n・スパイク", /*skill_id*/44);

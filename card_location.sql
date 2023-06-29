@@ -1797,3 +1797,8 @@ INSERT INTO `card_location` VALUES (/*index*/1811, /*text*/"LIVE会場・祭り�
 INSERT INTO `card_location` VALUES (/*index*/1812, /*text*/"大型ゲームセンター");
 INSERT INTO `card_location` VALUES (/*index*/1813, /*text*/"青空のバスケットコート");
 INSERT INTO `card_location` VALUES (/*index*/1814, /*text*/"行きつけのジャズバー");
+INSERT INTO `card_location` VALUES (/*index*/1815, /*text*/"お屋敷の庭");
+INSERT INTO `card_location` VALUES (/*index*/1816, /*text*/"夢見るデビルのマイルーム");
+INSERT INTO `card_location` VALUES (/*index*/1817, /*text*/"雨の降る街");
+INSERT INTO `card_location` VALUES (/*index*/1818, /*text*/"シアター");
+INSERT INTO `card_location` VALUES (/*index*/1819, /*text*/"心の自宅・ベランダ");
