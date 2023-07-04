@@ -1802,3 +1802,9 @@ INSERT INTO `card_location` VALUES (/*index*/1816, /*text*/"夢見るデビル�
 INSERT INTO `card_location` VALUES (/*index*/1817, /*text*/"雨の降る街");
 INSERT INTO `card_location` VALUES (/*index*/1818, /*text*/"シアター");
 INSERT INTO `card_location` VALUES (/*index*/1819, /*text*/"心の自宅・ベランダ");
+INSERT INTO `card_location` VALUES (/*index*/1820, /*text*/"朝顔の咲く小道");
+INSERT INTO `card_location` VALUES (/*index*/1821, /*text*/"淡い陽光のさす朝");
+INSERT INTO `card_location` VALUES (/*index*/1822, /*text*/"星降る湖");
+INSERT INTO `card_location` VALUES (/*index*/1823, /*text*/"海辺の花火大会");
+INSERT INTO `card_location` VALUES (/*index*/1824, /*text*/"星が流れる渓谷");
+INSERT INTO `card_location` VALUES (/*index*/1825, /*text*/"夏祭りの野外ステージ");
