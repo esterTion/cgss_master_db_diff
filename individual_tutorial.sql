@@ -202,8 +202,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/"ルームアイテムの並べ替えを行うことができます。\n「追加順」、「必要面積順」など並べ替え条件を選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーは\n倉庫収納数から除外されます。\n収納していても、収納数にカウントされません。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"「夏まつり」をテーマにしたアイテムとコーデを追加 !\nみんなでお祭りに出かけましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"ルームショップにて、「七夕」テーマの\nアイテム、コーデを復刻販売開始 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ルームショップに、TVアニメ「U149」\n連動キャンペーンルームアイテムを追加 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"U149コミックス14巻発売記念ルームアイテム\n『モニター/サマーライブ』を販売開始しました !\n13巻発売記念記念ルームアイテムの\n『ミニステージ/サマーライブ』と並べてみてくださいね !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"After20コミックス12巻発売記念 !\nコラボルームアイテム『座敷席/春野菜の天ぷら』\n『柊志乃のぬいぐるみ/After20』を販売開始しました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
