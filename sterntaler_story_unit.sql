@@ -850,4 +850,9 @@ INSERT INTO `sterntaler_story_unit` VALUES (/*id*/848, /*data_1*/323, /*data_2*/
 INSERT INTO `sterntaler_story_unit` VALUES (/*id*/849, /*data_1*/324, /*data_2*/306);
 INSERT INTO `sterntaler_story_unit` VALUES (/*id*/850, /*data_1*/324, /*data_2*/196);
 INSERT INTO `sterntaler_story_unit` VALUES (/*id*/851, /*data_1*/324, /*data_2*/198);
+INSERT INTO `sterntaler_story_unit` VALUES (/*id*/852, /*data_1*/325, /*data_2*/186);
+INSERT INTO `sterntaler_story_unit` VALUES (/*id*/853, /*data_1*/325, /*data_2*/184);
+INSERT INTO `sterntaler_story_unit` VALUES (/*id*/854, /*data_1*/325, /*data_2*/204);
+INSERT INTO `sterntaler_story_unit` VALUES (/*id*/855, /*data_1*/326, /*data_2*/239);
+INSERT INTO `sterntaler_story_unit` VALUES (/*id*/856, /*data_1*/326, /*data_2*/183);
 CREATE INDEX 'sterntaler_story_unit_0_data_1' on 'sterntaler_story_unit'('data_1');

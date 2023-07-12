@@ -1808,3 +1808,6 @@ INSERT INTO `card_location` VALUES (/*index*/1822, /*text*/"星降る湖");
 INSERT INTO `card_location` VALUES (/*index*/1823, /*text*/"海辺の花火大会");
 INSERT INTO `card_location` VALUES (/*index*/1824, /*text*/"星が流れる渓谷");
 INSERT INTO `card_location` VALUES (/*index*/1825, /*text*/"夏祭りの野外ステージ");
+INSERT INTO `card_location` VALUES (/*index*/1826, /*text*/"夏祭り会場・縁日");
+INSERT INTO `card_location` VALUES (/*index*/1827, /*text*/"佐賀・温泉街");
+INSERT INTO `card_location` VALUES (/*index*/1828, /*text*/"風そよぐ邸宅");
