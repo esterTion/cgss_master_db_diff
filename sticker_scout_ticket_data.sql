@@ -1,0 +1,1 @@
+CREATE TABLE 'sticker_scout_ticket_data' ('id' INTEGER NOT NULL, 'ticket_category' INTEGER NOT NULL, 'ticket_id' INTEGER NOT NULL, 'cost_number_1' INTEGER NOT NULL, 'cost_number_2' INTEGER NOT NULL, 'is_replace' INTEGER NOT NULL, 'replace_number_1' INTEGER NOT NULL, 'replace_number_2' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'));
