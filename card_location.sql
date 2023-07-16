@@ -1814,3 +1814,5 @@ INSERT INTO `card_location` VALUES (/*index*/1828, /*text*/"風そよぐ邸宅")
 INSERT INTO `card_location` VALUES (/*index*/1829, /*text*/"海が見えるレストラン");
 INSERT INTO `card_location` VALUES (/*index*/1830, /*text*/"マンハッタンの煌めき");
 INSERT INTO `card_location` VALUES (/*index*/1831, /*text*/"ビーチのバラエティセット");
+INSERT INTO `card_location` VALUES (/*index*/1832, /*text*/"まだ長い階段のとちゅう☆");
+INSERT INTO `card_location` VALUES (/*index*/1833, /*text*/"クイーンはぁとのお部屋");
