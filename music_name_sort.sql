@@ -158,7 +158,7 @@ INSERT INTO `music_name_sort` VALUES (/*id*/3016, /*sort_id*/128, /*name_kana*/"
 INSERT INTO `music_name_sort` VALUES (/*id*/3017, /*sort_id*/297, /*name_kana*/"ねいきっどろまんす");
 INSERT INTO `music_name_sort` VALUES (/*id*/3018, /*sort_id*/15, /*name_kana*/"あっぷるぱいぷりんせす");
 INSERT INTO `music_name_sort` VALUES (/*id*/3019, /*sort_id*/55, /*name_kana*/"えんじぇるぶりーず");
-INSERT INTO `music_name_sort` VALUES (/*id*/3020, /*sort_id*/300, /*name_kana*/"ねっけつおとめえーす");
+INSERT INTO `music_name_sort` VALUES (/*id*/3020, /*sort_id*/300, /*name_kana*/"ねっけつおとめえー");
 INSERT INTO `music_name_sort` VALUES (/*id*/3021, /*sort_id*/401, /*name_kana*/"めるへんでびゅー");
 INSERT INTO `music_name_sort` VALUES (/*id*/3022, /*sort_id*/255, /*name_kana*/"とぅーまいだーりん");
 INSERT INTO `music_name_sort` VALUES (/*id*/3023, /*sort_id*/52, /*name_kana*/"えぶりでいどりーむ");

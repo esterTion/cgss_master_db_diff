@@ -1820,3 +1820,6 @@ INSERT INTO `card_location` VALUES (/*index*/1834, /*text*/"ワーキングス�
 INSERT INTO `card_location` VALUES (/*index*/1835, /*text*/"支配者の城門");
 INSERT INTO `card_location` VALUES (/*index*/1836, /*text*/"クラブラウンジ");
 INSERT INTO `card_location` VALUES (/*index*/1837, /*text*/"支配者のバルコニー");
+INSERT INTO `card_location` VALUES (/*index*/1838, /*text*/"都内・蚤の市");
+INSERT INTO `card_location` VALUES (/*index*/1839, /*text*/"パリ・5区");
+INSERT INTO `card_location` VALUES (/*index*/1840, /*text*/"ジャングルステージ");
