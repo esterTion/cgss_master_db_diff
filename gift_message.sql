@@ -285,3 +285,4 @@ INSERT INTO `gift_message` VALUES (/*id*/20095, /*discription*/"「新春 ! プ�
 INSERT INTO `gift_message` VALUES (/*id*/20096, /*discription*/"TVアニメ「U149」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20097, /*discription*/"「熱い想いを届けマス ! みんな元気!!!!!プロジェクト」達成記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20098, /*discription*/"「燿城夜祭 -かがやきよまつり-連動キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20099, /*discription*/"「アイドルマスター18周年生配信～18th Anniversary Colorful P@rty!!!!!～」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
