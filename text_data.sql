@@ -1042,7 +1042,7 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/214, /*text*/"オリジ
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/215, /*text*/"ver");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/216, /*text*/"うたいわけ対応");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/217, /*text*/"別verあり");
-INSERT INTO `text_data` VALUES (/*category*/14, /*index*/218, /*text*/"アイドル重複時の設定");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/218, /*text*/"ランダムで登場するアイドルの設定");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/219, /*text*/"SSレア衣装を所持したアイドルが選出されたとき、SSレア衣装を優先的に着用するか選択できます。\n※SSレア衣装を複数所持していた場合、所持している中からランダムで選出されます。\n※2D設定時は適用外となります。");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/220, /*text*/"SSレア衣装を優先的に着用する");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/221, /*text*/"[ff7a7a]SSレア衣装の無いアイドルはランダムで衣装が選ばれます[-]");
