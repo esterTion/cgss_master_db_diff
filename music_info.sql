@@ -279,6 +279,7 @@ INSERT INTO `music_info` VALUES (/*id*/5047, /*discription*/"市原仁奈（CV�
 INSERT INTO `music_info` VALUES (/*id*/5048, /*discription*/"龍崎薫（CV：春瀬なつみ）\n橘ありす（CV：佐藤亜美菜）\n結城晴（CV：小市眞琴）\n城ヶ崎莉嘉（CV：山本希望）\n赤城みりあ（CV：黒沢ともよ）\n\n\n作詞：三浦誠司\n作曲・編曲：岡野裕次郎（TRYTONELABO）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/5049, /*discription*/"佐々木千枝（CV：今井麻夏）\n古賀小春（CV：小森結梨）\n市原仁奈（CV：久野美咲）\n的場梨沙（CV：集貝はな）\n橘ありす（CV：佐藤亜美菜）\n赤城みりあ（CV：黒沢ともよ）\n結城晴（CV：小市眞琴）\n櫻井桃華（CV：照井春佳）\n龍崎薫（CV：春瀬なつみ）\n\n\n作詞・作曲・編曲：ヒゲドライバー", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/5050, /*discription*/"赤城みりあ（CV：黒沢ともよ）\n橘ありす（CV：佐藤亜美菜）\n結城晴（CV：小市眞琴）\n佐々木千枝（CV：今井麻夏）\n古賀小春（CV：小森結梨）\n市原仁奈（CV：久野美咲）\n龍崎薫（CV：春瀬なつみ）\n的場梨沙（CV：集貝はな）\n櫻井桃華（CV：照井春佳）\n\n\n作詞・作曲・編曲：宮崎誠", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/5052, /*discription*/"中野有香（CV：下地紫野）\n宮本フレデリカ（CV：髙野麻美）\n藤本里奈（CV：金子真由美）\n十時愛梨（CV：原田ひとみ）\n木村夏樹（CV：安野希世乃）\n\n\n作詞・作曲・編曲：宮崎誠", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/5501, /*discription*/"U149 Version\n\n市原仁奈（CV：久野美咲）\n一ノ瀬志希（CV：藍原ことみ）\n宮本フレデリカ（CV：髙野麻美）\n\n\n作詞：Apis（TRYTONELABO）\n作曲・編曲：滝澤俊輔（TRYTONELABO）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/5502, /*discription*/"U149 Version\n\n赤城みりあ（CV：黒沢ともよ）\n安部菜々（CV：三宅麻理恵）\n佐藤心（CV：花守ゆみり）\n\n\n作詞・作曲・編曲：ゆよゆっぺ", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/5503, /*discription*/"U149 Version\n\n櫻井桃華（CV：照井春佳）\n\n\n作詞・作曲：北川悠仁\n編曲：玉屋2060%（Wienners）", /*android_url*/"", /*ios_url*/"");
@@ -383,6 +384,7 @@ INSERT INTO `music_info` VALUES (/*id*/8084, /*discription*/"DNA狂詩曲（も�
 INSERT INTO `music_info` VALUES (/*id*/8085, /*discription*/"Chai Maxx（ももいろクローバー）\n\n神谷奈緒（CV：松井恵理子）\n日野茜（CV：赤﨑千夏）\n小日向美穂（CV：津田美波）\n\n\n作詞：只野菜摘\n作曲：横山克", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8086, /*discription*/"走れ !（ももいろクローバー）\n\n久川颯（CV：長江里加）\n乙倉悠貴（CV：中島由貴）\n\n\n作詞：INFLAVA\n作曲：KOJI OBA、michitomo", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8087, /*discription*/"ぱ ぴ ぷ ぺ POP!\n\n荒木比奈（CV：田辺留依）\n神谷奈緒（CV：松井恵理子）\n安部菜々（CV：三宅麻理恵）\n\n\n作詞・作曲：玉屋2060%", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/8088, /*discription*/"第六感\n\n砂塚あきら（CV：富田美憂）\n\n\n作詞：Reol\n作曲：Reol / Giga", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/9001, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n双葉杏（CV：五十嵐裕美）\n諸星きらり（CV：松嵜麗）\n\n\n作詞：marhy\n作曲・編曲：BNSI（内田哲也）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/9002, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n大槻唯（CV：山下七海）\n上条春菜（CV：長島光那）\n\n\n作詞：俊龍\n作曲：俊龍\n編曲：Sizuk", /*android_url*/"http://columbia.jp/sl-stage/haishin/COCC-17141.html", /*ios_url*/"http://columbia.jp/sl-stage/haishin/COCC-17141.html");
 INSERT INTO `music_info` VALUES (/*id*/9003, /*discription*/"速水奏（CV：飯田友子）\n塩見周子（CV：ルゥ ティン）\n城ヶ崎美嘉（CV：佳村はるか）\n宮本フレデリカ（CV：髙野麻美）\n一ノ瀬志希（CV：藍原ことみ）\n\n\n作詞：森由⾥⼦\n作曲・編曲：石濱翔（MONACA）", /*android_url*/"http://columbia.jp/sl-stage/haishin/COCC-17142.html", /*ios_url*/"http://columbia.jp/sl-stage/haishin/COCC-17142.html");

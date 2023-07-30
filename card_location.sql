@@ -1823,3 +1823,7 @@ INSERT INTO `card_location` VALUES (/*index*/1837, /*text*/"支配者のバル�
 INSERT INTO `card_location` VALUES (/*index*/1838, /*text*/"都内・蚤の市");
 INSERT INTO `card_location` VALUES (/*index*/1839, /*text*/"パリ・5区");
 INSERT INTO `card_location` VALUES (/*index*/1840, /*text*/"ジャングルステージ");
+INSERT INTO `card_location` VALUES (/*index*/1841, /*text*/"リゾートホテルのテラス");
+INSERT INTO `card_location` VALUES (/*index*/1842, /*text*/"イパネマビーチ");
+INSERT INTO `card_location` VALUES (/*index*/1843, /*text*/"褪せない思い出のビーチ");
+INSERT INTO `card_location` VALUES (/*index*/1844, /*text*/"夏の終わりのビーチ");
