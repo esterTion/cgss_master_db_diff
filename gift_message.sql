@@ -88,6 +88,7 @@ INSERT INTO `gift_message` VALUES (/*id*/104, /*discription*/"提供期間を過
 INSERT INTO `gift_message` VALUES (/*id*/105, /*discription*/"「{0}」で獲得した報酬です。", /*type_1*/47, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/106, /*discription*/"「{0}」で獲得した報酬です。", /*type_1*/48, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/107, /*discription*/"MVメイカーで獲得した報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/108, /*discription*/"アイテム所持数が上限に達しているため、プレゼントに送られました。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1001, /*discription*/"イベント「{0}」{1}イベントpt達成報酬です。", /*type_1*/19, /*type_2*/20, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1002, /*discription*/"イベント「{0}」ポイントランキング{1}位～{2}位で獲得した報酬です。", /*type_1*/19, /*type_2*/21, /*type_3*/22, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1003, /*discription*/"イベント「{0}」ハイスコアランキング{1}位～{2}位で獲得した報酬です。", /*type_1*/19, /*type_2*/23, /*type_3*/24, /*type_4*/0);
@@ -286,3 +287,4 @@ INSERT INTO `gift_message` VALUES (/*id*/20096, /*discription*/"TVアニメ「U1
 INSERT INTO `gift_message` VALUES (/*id*/20097, /*discription*/"「熱い想いを届けマス ! みんな元気!!!!!プロジェクト」達成記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20098, /*discription*/"「燿城夜祭 -かがやきよまつり-連動キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20099, /*discription*/"「アイドルマスター18周年生配信～18th Anniversary Colorful P@rty!!!!!～」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20100, /*discription*/"新機能「あにぷち」追加記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

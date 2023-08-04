@@ -6,4 +6,14 @@ INSERT INTO `gacha_l_reward` VALUES (/*id*/4, /*group_id*/1, /*need_point*/100, 
 INSERT INTO `gacha_l_reward` VALUES (/*id*/5, /*group_id*/1, /*need_point*/150, /*reward_type*/5, /*reward_id*/30007, /*reward_value*/3, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `gacha_l_reward` VALUES (/*id*/6, /*group_id*/1, /*need_point*/200, /*reward_type*/5, /*reward_id*/30030, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `gacha_l_reward` VALUES (/*id*/7, /*group_id*/1, /*need_point*/250, /*reward_type*/5, /*reward_id*/1006, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `gacha_l_reward` VALUES (/*id*/8, /*group_id*/2, /*need_point*/10, /*reward_type*/5, /*reward_id*/5, /*reward_value*/5, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `gacha_l_reward` VALUES (/*id*/9, /*group_id*/2, /*need_point*/20, /*reward_type*/5, /*reward_id*/22001, /*reward_value*/5, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `gacha_l_reward` VALUES (/*id*/10, /*group_id*/2, /*need_point*/30, /*reward_type*/5, /*reward_id*/22001, /*reward_value*/5, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `gacha_l_reward` VALUES (/*id*/11, /*group_id*/2, /*need_point*/40, /*reward_type*/5, /*reward_id*/4007, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `gacha_l_reward` VALUES (/*id*/12, /*group_id*/2, /*need_point*/50, /*reward_type*/5, /*reward_id*/22001, /*reward_value*/5, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `gacha_l_reward` VALUES (/*id*/13, /*group_id*/2, /*need_point*/70, /*reward_type*/5, /*reward_id*/4107, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `gacha_l_reward` VALUES (/*id*/14, /*group_id*/2, /*need_point*/100, /*reward_type*/5, /*reward_id*/1002, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `gacha_l_reward` VALUES (/*id*/15, /*group_id*/2, /*need_point*/150, /*reward_type*/5, /*reward_id*/30007, /*reward_value*/3, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `gacha_l_reward` VALUES (/*id*/16, /*group_id*/2, /*need_point*/200, /*reward_type*/5, /*reward_id*/30030, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `gacha_l_reward` VALUES (/*id*/17, /*group_id*/2, /*need_point*/250, /*reward_type*/5, /*reward_id*/1006, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 CREATE INDEX 'gacha_l_reward_0_group_id' on 'gacha_l_reward'('group_id');

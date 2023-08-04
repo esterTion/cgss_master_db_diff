@@ -480,6 +480,14 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60035, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60035, /*img*/1, /*discription*/"私服ごとの着用可能アイドルは\n各私服の「衣装詳細」ボタンで確認ができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60035, /*img*/2, /*discription*/"購入した私服は3DLIVEや\nフォトスタジオなどで利用できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60036, /*img*/1, /*discription*/"過去のオールスターカウントダウンLIVEで手に入れた\nドレスチケット同士を交換することができます。\n※一部チケットには交換できない期間があります");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60037, /*img*/1, /*discription*/"「あにぷち」は、\nアニメーションするぷちデレラを集めて楽しむことができる機能です。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60037, /*img*/1, /*discription*/"集めたあにぷちを、「あにぷちブック」で眺めたり\nロード画面に表示させることができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60038, /*img*/1, /*discription*/"あにぷち設定画面では、ロード画面に表示するあにぷちの設定ができます。\n設定は「OFF」、「シングル」、「ダブル」から選択することができます。\n※メニューのシステム設定からでも設定できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60039, /*img*/1, /*discription*/"あにぷちガシャを引くことであにぷちを獲得することができます。\nあにぷちガシャは、「あにぷちガシャチケット」を消費して\n引くことができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60039, /*img*/1, /*discription*/"「あにぷちガシャチケット」はシャインゲージ報酬で入手することができます。\n※「あにぷちガシャチケット」は、今後、別の手段でも獲得可能となる場合が\nあります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60039, /*img*/1, /*discription*/"また、あにぷちを獲得すると、スタンプも同時に獲得することが\nできます。\n※獲得したスタンプはアニメーションしません。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60039, /*img*/2, /*discription*/"入手済のあにぷちを再度入手することで、「あにぷち交換チケット」を\n獲得することができます。再度入手したあにぷちのレア度によって獲得できる\n「あにぷち交換チケット」の枚数は異なります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60039, /*img*/2, /*discription*/"「あにぷち交換チケット」を必要数消費することで、\n対象のあにぷちから好きなあにぷち1個を選んで\n交換することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/1, /*discription*/"「LIVE PARTY!!」では、協力LIVEを行うことで、\n「スターエンブレム」が獲得できます。\n「スターエンブレム」を集めると、過去イベントの報酬や、\nアイテムとの交換ができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。\n楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/3, /*discription*/"カジュアルマッチを有効にした場合は、\n異なる難易度を選択したプロデューサーもマッチング対象となり、\nLIVEを行います。");

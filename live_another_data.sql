@@ -1,0 +1,15 @@
+CREATE TABLE 'live_another_data' ('id' INTEGER NOT NULL, 'live_data_id' INTEGER NOT NULL, 'live_data_id_another' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `live_another_data` VALUES (/*id*/1, /*live_data_id*/50, /*live_data_id_another*/510);
+INSERT INTO `live_another_data` VALUES (/*id*/2, /*live_data_id*/334, /*live_data_id_another*/542);
+INSERT INTO `live_another_data` VALUES (/*id*/3, /*live_data_id*/338, /*live_data_id_another*/545);
+INSERT INTO `live_another_data` VALUES (/*id*/4, /*live_data_id*/343, /*live_data_id_another*/549);
+INSERT INTO `live_another_data` VALUES (/*id*/5, /*live_data_id*/347, /*live_data_id_another*/553);
+INSERT INTO `live_another_data` VALUES (/*id*/6, /*live_data_id*/353, /*live_data_id_another*/557);
+INSERT INTO `live_another_data` VALUES (/*id*/7, /*live_data_id*/369, /*live_data_id_another*/571);
+INSERT INTO `live_another_data` VALUES (/*id*/8, /*live_data_id*/316, /*live_data_id_another*/908);
+INSERT INTO `live_another_data` VALUES (/*id*/9, /*live_data_id*/305, /*live_data_id_another*/909);
+INSERT INTO `live_another_data` VALUES (/*id*/10, /*live_data_id*/367, /*live_data_id_another*/910);
+INSERT INTO `live_another_data` VALUES (/*id*/11, /*live_data_id*/385, /*live_data_id_another*/911);
+INSERT INTO `live_another_data` VALUES (/*id*/12, /*live_data_id*/313, /*live_data_id_another*/912);
+INSERT INTO `live_another_data` VALUES (/*id*/13, /*live_data_id*/421, /*live_data_id_another*/913);
+INSERT INTO `live_another_data` VALUES (/*id*/14, /*live_data_id*/366, /*live_data_id_another*/914);

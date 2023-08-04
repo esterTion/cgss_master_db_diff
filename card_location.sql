@@ -1827,3 +1827,9 @@ INSERT INTO `card_location` VALUES (/*index*/1841, /*text*/"リゾートホテ�
 INSERT INTO `card_location` VALUES (/*index*/1842, /*text*/"イパネマビーチ");
 INSERT INTO `card_location` VALUES (/*index*/1843, /*text*/"褪せない思い出のビーチ");
 INSERT INTO `card_location` VALUES (/*index*/1844, /*text*/"夏の終わりのビーチ");
+INSERT INTO `card_location` VALUES (/*index*/1845, /*text*/"なんでもない夜の、輝ける月");
+INSERT INTO `card_location` VALUES (/*index*/1846, /*text*/"貸別荘のプール");
+INSERT INTO `card_location` VALUES (/*index*/1847, /*text*/"海底の花畑");
+INSERT INTO `card_location` VALUES (/*index*/1848, /*text*/"デスゲーム開始直前の監禁室");
+INSERT INTO `card_location` VALUES (/*index*/1849, /*text*/"ドキッ☆夏のデスゲーム会場");
+INSERT INTO `card_location` VALUES (/*index*/1850, /*text*/"うみべのステージ");

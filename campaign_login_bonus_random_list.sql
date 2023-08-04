@@ -1,4 +1,4 @@
-CREATE TABLE 'campaign_login_bonus_random_list' ('id' INTEGER NOT NULL, 'random_list_id' INTEGER NOT NULL, 'petit_id' INTEGER NOT NULL, 'dress_id' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE TABLE 'campaign_login_bonus_random_list' ('id' INTEGER NOT NULL, 'random_list_id' INTEGER NOT NULL, 'petit_id' INTEGER NOT NULL, 'dress_id' INTEGER NOT NULL, PRIMARY KEY('id'), UNIQUE('random_list_id','petit_id'));
 INSERT INTO `campaign_login_bonus_random_list` VALUES (/*id*/1, /*random_list_id*/10000001, /*petit_id*/101, /*dress_id*/11);
 INSERT INTO `campaign_login_bonus_random_list` VALUES (/*id*/2, /*random_list_id*/10000001, /*petit_id*/102, /*dress_id*/11);
 INSERT INTO `campaign_login_bonus_random_list` VALUES (/*id*/3, /*random_list_id*/10000001, /*petit_id*/103, /*dress_id*/11);
