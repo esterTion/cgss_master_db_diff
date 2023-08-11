@@ -1833,3 +1833,6 @@ INSERT INTO `card_location` VALUES (/*index*/1847, /*text*/"海底の花畑");
 INSERT INTO `card_location` VALUES (/*index*/1848, /*text*/"デスゲーム開始直前の監禁室");
 INSERT INTO `card_location` VALUES (/*index*/1849, /*text*/"ドキッ☆夏のデスゲーム会場");
 INSERT INTO `card_location` VALUES (/*index*/1850, /*text*/"うみべのステージ");
+INSERT INTO `card_location` VALUES (/*index*/1851, /*text*/"海底遺跡・財宝の間");
+INSERT INTO `card_location` VALUES (/*index*/1852, /*text*/"白砂の浜辺");
+INSERT INTO `card_location` VALUES (/*index*/1853, /*text*/"薄暮の海");

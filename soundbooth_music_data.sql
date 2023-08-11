@@ -230,6 +230,7 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200181, /*name*/"全開 
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200182, /*name*/"Nightwear（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/32);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200183, /*name*/"なつっこ音頭（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/33);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200184, /*name*/"悠久星涼（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/34);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200185, /*name*/"Next Chapter（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/35);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/300001, /*name*/"#01 動き出す物語", /*album_id*/11, /*jacket_id*/300001, /*sort*/1);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/300002, /*name*/"#02 想いを声にのせて", /*album_id*/11, /*jacket_id*/300001, /*sort*/2);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/300003, /*name*/"#03 思い出はカラフルに", /*album_id*/11, /*jacket_id*/300001, /*sort*/3);

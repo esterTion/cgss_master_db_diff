@@ -529,3 +529,4 @@ INSERT INTO `story_category` VALUES (/*id*/559, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/560, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Next Chapter", /*sub_title*/"Next Chapter", /*disp_order*/217, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/561, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Night Time Wander", /*sub_title*/"Night Time Wander", /*disp_order*/218, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/562, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"さよならアロハ", /*sub_title*/"さよならアロハ", /*disp_order*/219, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/563, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"土屋亜子 / 涼宮星花", /*sub_title*/"土屋亜子 / 涼宮星花", /*disp_order*/220, /*filter_type*/0);
