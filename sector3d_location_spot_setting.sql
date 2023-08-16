@@ -1,0 +1,2 @@
+CREATE TABLE 'sector3d_location_spot_setting' ('id' INTEGER NOT NULL, 'location_id' INTEGER NOT NULL, 'location_spot_id' INTEGER NOT NULL, 'tile_size_x' INTEGER NOT NULL, 'tile_size_y' INTEGER NOT NULL, 'tile_size_z' INTEGER NOT NULL, 'default_room_item_id' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE INDEX 'sector3d_location_spot_setting_0_location_id' on 'sector3d_location_spot_setting'('location_id');

@@ -1,0 +1,1 @@
+CREATE TABLE 'sector3d_location' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'description' TEXT NOT NULL, 'sort' INTEGER NOT NULL, 'new_flag' INTEGER NOT NULL, 'idol_num' INTEGER NOT NULL, 'thumbnail_id' INTEGER NOT NULL, 'itemset_id' INTEGER NOT NULL, 'default_open' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'));

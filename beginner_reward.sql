@@ -1,0 +1,3 @@
+CREATE TABLE 'beginner_reward' ('id' INTEGER NOT NULL, 'campaign_id' INTEGER NOT NULL, 'need_point' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_value' INTEGER NOT NULL, 'add_value_1' INTEGER NOT NULL, 'add_value_2' INTEGER NOT NULL, 'add_value_3' INTEGER NOT NULL, 'step' INTEGER NOT NULL, 'step_group' INTEGER NOT NULL, 'recieve_type' INTEGER NOT NULL, 'message_id' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE INDEX 'beginner_reward_0_campaign_id' on 'beginner_reward'('campaign_id');
+CREATE INDEX 'beginner_reward_0_campaign_id_1_step_group' on 'beginner_reward'('campaign_id','step_group');

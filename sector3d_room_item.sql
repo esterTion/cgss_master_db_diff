@@ -1,0 +1,2 @@
+CREATE TABLE 'sector3d_room_item' ('id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'description' TEXT NOT NULL, 'category' INTEGER NOT NULL, 'type' INTEGER NOT NULL, 'sort' INTEGER NOT NULL, 'flag_shop' INTEGER NOT NULL, 'tile_size_x' INTEGER NOT NULL, 'tile_size_y' INTEGER NOT NULL, 'tile_size_z' INTEGER NOT NULL, 'icon_id' INTEGER NOT NULL, 'itemset_id' INTEGER NOT NULL, 'personality_anime' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'));
+CREATE INDEX 'sector3d_room_item_0_itemset_id' on 'sector3d_room_item'('itemset_id');
