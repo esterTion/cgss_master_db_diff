@@ -1,2 +1,6 @@
 CREATE TABLE 'aniv_count_top_data' ('id' INTEGER NOT NULL, 'aniv' INTEGER NOT NULL, 'count' INTEGER NOT NULL, 'number' INTEGER NOT NULL, 'position' INTEGER NOT NULL, 'chara_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'message' TEXT NOT NULL, 'time' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `aniv_count_top_data` VALUES (/*id*/1, /*aniv*/8, /*count*/1, /*number*/1, /*position*/0, /*chara_id*/304, /*name*/"あかり", /*message*/"ドッキリを考えるのって難しいなぁ……。\n暗闇からいきなり、りんごろうさんが登場するとか……？\n", /*time*/4600);
+INSERT INTO `aniv_count_top_data` VALUES (/*id*/2, /*aniv*/8, /*count*/1, /*number*/2, /*position*/1, /*chara_id*/305, /*name*/"あきら", /*message*/"#ドッキリ #それはホラーでは？\n#シンデレラ・ヴィジョン #交差点ジャック中\n#拡散よろ\n", /*time*/4500);
+INSERT INTO `aniv_count_top_data` VALUES (/*id*/3, /*aniv*/8, /*count*/2, /*number*/1, /*position*/0, /*chara_id*/297, /*name*/"心", /*message*/"また雫ちゃんに可愛い服、いろいろ着せたくなってきちゃった♪\n次はどんなの着てもらっちゃおっかな～♪\n", /*time*/4900);
+INSERT INTO `aniv_count_top_data` VALUES (/*id*/4, /*aniv*/8, /*count*/2, /*number*/2, /*position*/1, /*chara_id*/253, /*name*/"雫", /*message*/"選んでもらうのももちろんですけどー、\n次はもーっと自分で、服を選んでみますねー♪\n", /*time*/4000);
 CREATE INDEX 'aniv_count_top_data_0_aniv' on 'aniv_count_top_data'('aniv');

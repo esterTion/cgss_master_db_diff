@@ -288,3 +288,10 @@ INSERT INTO `gift_message` VALUES (/*id*/20097, /*discription*/"「熱い想い�
 INSERT INTO `gift_message` VALUES (/*id*/20098, /*discription*/"「燿城夜祭 -かがやきよまつり-連動キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20099, /*discription*/"「アイドルマスター18周年生配信～18th Anniversary Colorful P@rty!!!!!～」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20100, /*discription*/"新機能「あにぷち」追加記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20101, /*discription*/"「8周年記念!!カウントダウンログインボーナス」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20102, /*discription*/"「祝8周年 ! プラチナチャンス」のミッション達成数{0}で獲得した報酬です。", /*type_1*/90, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20103, /*discription*/"「祝8周年 ! プラチナチャンス」{0}等当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20104, /*discription*/"「祝8周年 ! プラチナチャンス」{0}等A賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20105, /*discription*/"「祝8周年 ! プラチナチャンス」{0}等B賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20106, /*discription*/"「祝8周年 ! プラチナチャンス」{0}等C賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20107, /*discription*/"「祝8周年 ! プラチナチャンス」特別賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
