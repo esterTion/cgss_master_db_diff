@@ -11,4 +11,15 @@ INSERT INTO `aniv_count_movie_data` VALUES (/*id*/9, /*aniv*/8, /*count*/2, /*nu
 INSERT INTO `aniv_count_movie_data` VALUES (/*id*/10, /*aniv*/8, /*count*/2, /*number*/204, /*enable_skip*/0, /*play_bgm*/0, /*next_play*/0);
 INSERT INTO `aniv_count_movie_data` VALUES (/*id*/11, /*aniv*/8, /*count*/2, /*number*/205, /*enable_skip*/0, /*play_bgm*/0, /*next_play*/0);
 INSERT INTO `aniv_count_movie_data` VALUES (/*id*/12, /*aniv*/8, /*count*/2, /*number*/206, /*enable_skip*/0, /*play_bgm*/1, /*next_play*/1);
+INSERT INTO `aniv_count_movie_data` VALUES (/*id*/13, /*aniv*/8, /*count*/3, /*number*/301, /*enable_skip*/0, /*play_bgm*/1, /*next_play*/1);
+INSERT INTO `aniv_count_movie_data` VALUES (/*id*/14, /*aniv*/8, /*count*/3, /*number*/302, /*enable_skip*/0, /*play_bgm*/1, /*next_play*/0);
+INSERT INTO `aniv_count_movie_data` VALUES (/*id*/15, /*aniv*/8, /*count*/3, /*number*/303, /*enable_skip*/0, /*play_bgm*/0, /*next_play*/0);
+INSERT INTO `aniv_count_movie_data` VALUES (/*id*/16, /*aniv*/8, /*count*/3, /*number*/304, /*enable_skip*/0, /*play_bgm*/0, /*next_play*/0);
+INSERT INTO `aniv_count_movie_data` VALUES (/*id*/17, /*aniv*/8, /*count*/3, /*number*/305, /*enable_skip*/0, /*play_bgm*/0, /*next_play*/0);
+INSERT INTO `aniv_count_movie_data` VALUES (/*id*/18, /*aniv*/8, /*count*/3, /*number*/306, /*enable_skip*/0, /*play_bgm*/1, /*next_play*/1);
+INSERT INTO `aniv_count_movie_data` VALUES (/*id*/19, /*aniv*/8, /*count*/4, /*number*/401, /*enable_skip*/0, /*play_bgm*/1, /*next_play*/1);
+INSERT INTO `aniv_count_movie_data` VALUES (/*id*/20, /*aniv*/8, /*count*/4, /*number*/402, /*enable_skip*/0, /*play_bgm*/1, /*next_play*/0);
+INSERT INTO `aniv_count_movie_data` VALUES (/*id*/21, /*aniv*/8, /*count*/4, /*number*/403, /*enable_skip*/0, /*play_bgm*/0, /*next_play*/0);
+INSERT INTO `aniv_count_movie_data` VALUES (/*id*/22, /*aniv*/8, /*count*/4, /*number*/404, /*enable_skip*/0, /*play_bgm*/0, /*next_play*/0);
+INSERT INTO `aniv_count_movie_data` VALUES (/*id*/23, /*aniv*/8, /*count*/4, /*number*/405, /*enable_skip*/0, /*play_bgm*/1, /*next_play*/1);
 CREATE INDEX 'aniv_count_movie_data_0_aniv' on 'aniv_count_movie_data'('aniv');

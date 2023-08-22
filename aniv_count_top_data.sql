@@ -3,4 +3,8 @@ INSERT INTO `aniv_count_top_data` VALUES (/*id*/1, /*aniv*/8, /*count*/1, /*numb
 INSERT INTO `aniv_count_top_data` VALUES (/*id*/2, /*aniv*/8, /*count*/1, /*number*/2, /*position*/1, /*chara_id*/305, /*name*/"あきら", /*message*/"#ドッキリ #それはホラーでは？\n#シンデレラ・ヴィジョン #交差点ジャック中\n#拡散よろ\n", /*time*/4500);
 INSERT INTO `aniv_count_top_data` VALUES (/*id*/3, /*aniv*/8, /*count*/2, /*number*/1, /*position*/0, /*chara_id*/297, /*name*/"心", /*message*/"また雫ちゃんに可愛い服、いろいろ着せたくなってきちゃった♪\n次はどんなの着てもらっちゃおっかな～♪\n", /*time*/4900);
 INSERT INTO `aniv_count_top_data` VALUES (/*id*/4, /*aniv*/8, /*count*/2, /*number*/2, /*position*/1, /*chara_id*/253, /*name*/"雫", /*message*/"選んでもらうのももちろんですけどー、\n次はもーっと自分で、服を選んでみますねー♪\n", /*time*/4000);
+INSERT INTO `aniv_count_top_data` VALUES (/*id*/5, /*aniv*/8, /*count*/3, /*number*/1, /*position*/0, /*chara_id*/246, /*name*/"唯", /*message*/"年末は、歌合戦にも呼んでもらっちゃってさー !\nも～、めっちゃキラキラだったー ! 次の夢、さっそく叶っちゃったよ～ !\n", /*time*/6300);
+INSERT INTO `aniv_count_top_data` VALUES (/*id*/6, /*aniv*/8, /*count*/3, /*number*/2, /*position*/1, /*chara_id*/201, /*name*/"加蓮", /*message*/"離れていても、一緒に夢を追う仲間たちがいることを忘れない。\n出会えた奇跡を誇れるように、私たちも、もっと頑張らなきゃね。\n", /*time*/6300);
+INSERT INTO `aniv_count_top_data` VALUES (/*id*/7, /*aniv*/8, /*count*/4, /*number*/1, /*position*/0, /*chara_id*/119, /*name*/"裕美", /*message*/"楽しかったな、クリスマスパーティー。みんなでまたプロデューサーさんに\n「どっち？」って迫って、いっぱい困らせたりしてもいいかも。ふふ♪\n", /*time*/7000);
+INSERT INTO `aniv_count_top_data` VALUES (/*id*/8, /*aniv*/8, /*count*/4, /*number*/2, /*position*/1, /*chara_id*/164, /*name*/"悠貴", /*message*/"甘えられる人がいるって、やっぱり素敵ですっ。プロデューサーさんが\nこれからもずっと……私たちのことを選びつづけてくれますようにっ♪\n", /*time*/6800);
 CREATE INDEX 'aniv_count_top_data_0_aniv' on 'aniv_count_top_data'('aniv');
