@@ -7,4 +7,6 @@ INSERT INTO `aniv_count_top_data` VALUES (/*id*/5, /*aniv*/8, /*count*/3, /*numb
 INSERT INTO `aniv_count_top_data` VALUES (/*id*/6, /*aniv*/8, /*count*/3, /*number*/2, /*position*/1, /*chara_id*/201, /*name*/"加蓮", /*message*/"離れていても、一緒に夢を追う仲間たちがいることを忘れない。\n出会えた奇跡を誇れるように、私たちも、もっと頑張らなきゃね。\n", /*time*/6300);
 INSERT INTO `aniv_count_top_data` VALUES (/*id*/7, /*aniv*/8, /*count*/4, /*number*/1, /*position*/0, /*chara_id*/119, /*name*/"裕美", /*message*/"楽しかったな、クリスマスパーティー。みんなでまたプロデューサーさんに\n「どっち？」って迫って、いっぱい困らせたりしてもいいかも。ふふ♪\n", /*time*/7000);
 INSERT INTO `aniv_count_top_data` VALUES (/*id*/8, /*aniv*/8, /*count*/4, /*number*/2, /*position*/1, /*chara_id*/164, /*name*/"悠貴", /*message*/"甘えられる人がいるって、やっぱり素敵ですっ。プロデューサーさんが\nこれからもずっと……私たちのことを選びつづけてくれますようにっ♪\n", /*time*/6800);
+INSERT INTO `aniv_count_top_data` VALUES (/*id*/9, /*aniv*/8, /*count*/5, /*number*/1, /*position*/0, /*chara_id*/185, /*name*/"美波", /*message*/"ギャルになった聖ちゃんも、可愛かったなぁ。\n今度は、ルーズソックスはどうって菜々ちゃんが言ってたっけ。\n", /*time*/5100);
+INSERT INTO `aniv_count_top_data` VALUES (/*id*/10, /*aniv*/8, /*count*/5, /*number*/2, /*position*/1, /*chara_id*/232, /*name*/"聖", /*message*/"前に、大人のみなさんにも……少し教えてもらいました……。\nナウでチョベリグな体験したいです。キャハ♪ ……合ってますか、これ？\n", /*time*/6300);
 CREATE INDEX 'aniv_count_top_data_0_aniv' on 'aniv_count_top_data'('aniv');

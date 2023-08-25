@@ -15,3 +15,4 @@ INSERT INTO `brand_data` VALUES (/*id*/13, /*brand_name*/"Kasa Blanca", /*brand_
 INSERT INTO `brand_data` VALUES (/*id*/14, /*brand_name*/"浅井洋品店", /*brand_text*/"浅井洋品店");
 INSERT INTO `brand_data` VALUES (/*id*/15, /*brand_name*/"晴れ晴゛れ", /*brand_text*/"晴れ晴゛れ");
 INSERT INTO `brand_data` VALUES (/*id*/16, /*brand_name*/"Freely", /*brand_text*/"Freely");
+INSERT INTO `brand_data` VALUES (/*id*/17, /*brand_name*/"765ショップ", /*brand_text*/"765ショップ");

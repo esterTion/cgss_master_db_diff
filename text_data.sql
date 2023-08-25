@@ -1129,10 +1129,10 @@ INSERT INTO `text_data` VALUES (/*category*/16, /*index*/107, /*text*/"宇宙博
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/108, /*text*/"もうっ、べつに特別なことじゃないったら。\nMCの勉強がしたくて、いろんな本を集めてたの。\nアドリブ上手の周子ちゃんにも負けないからっ♪");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/109, /*text*/"振り返ってみると、りあむはんはホンマ、\nぎょうさん体張ってるわー !\n同じ芸人としては羨ましいぐらいやで !\n");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/110, /*text*/"そんなに褒められると調子に乗っちゃう……って、芸人じゃなくて\nアイドルだから ! いや、確かに芸人ばりに体張る時もあるけど……\nりあむちゃんはアイドルだかんなー !");
-INSERT INTO `text_data` VALUES (/*category*/16, /*index*/111, /*text*/"またみんなで、泊りがけでゲームやろっか。\n夜中まで……いや、いっそのこと、朝までやってもいいかも。\n");
-INSERT INTO `text_data` VALUES (/*category*/16, /*index*/112, /*text*/"いいぞッ ! いくらでも付き合ってやるッ !\nあ、でも……寝落ちしても、許してくれよな？");
-INSERT INTO `text_data` VALUES (/*category*/16, /*index*/113, /*text*/"そういや、アタシらが集まってる間、プロデューサーとちひろさんも\nいろんな楽曲について語り合ってたって……それ、どこ情報よ？\n");
-INSERT INTO `text_data` VALUES (/*category*/16, /*index*/114, /*text*/"ええぇっ？ き、気になるよ…… !\nなんだろう、私たちにないしょの裏話とかっ……？\nぷ、プロデューサーさん～～っ !");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/111, /*text*/"実は『N.O.R.』以来……後輩たちからお菓子をいただくようになって\nしまい……いえ、決して ! 餌づけされているわけではない ! はずですが !\n");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/112, /*text*/"リア充っぽい、エピソード……これも、革命のひとつかも……。\nやるな、珠美ちゃん。フ……フヒヒ……。\n");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/113, /*text*/"都ちゃん、ずっと難しい顔してるぅ……？\nでも、謎に立ち向かってるときが一番、いきいきしてるよねぇ♪\n");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/114, /*text*/"『シンデレラ・ヴィジョン』……この名がどうにも引っかかるのです。\n名探偵の勘というか……。こうなったら何度でも現場に足を運びましょう !\n");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/115, /*text*/"ふわぁ……あんず……おしごとしたー。えらいねー……。\nそれじゃあこずえと、おねんねしよー？\n");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/116, /*text*/"うん、そうしようっ。杏はお仕事がんばったんだから、\nこずえちゃんとお昼寝する権利があるはずだもんねっ♪");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/117, /*text*/"脱出ゲームってさ、けっこう燃えるもんだよね。\nまた4人でこっそり挑戦しない？\n次はさらにタイム縮めて、他のお客さんたちをびっくりさせちゃお♪\n");

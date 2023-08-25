@@ -4,3 +4,4 @@ INSERT INTO `dress_decal` VALUES (/*id*/2, /*disp_order*/2, /*lock_flag*/1, /*co
 INSERT INTO `dress_decal` VALUES (/*id*/3, /*disp_order*/3, /*lock_flag*/1, /*cost_type*/5, /*cost_id*/1005, /*cost_value*/3, /*start_date*/"2018-09-18 15:00:00", /*end_date*/"2030-04-01 14:00:00");
 INSERT INTO `dress_decal` VALUES (/*id*/4, /*disp_order*/4, /*lock_flag*/1, /*cost_type*/5, /*cost_id*/1005, /*cost_value*/3, /*start_date*/"2018-09-18 15:00:00", /*end_date*/"2030-04-01 14:00:00");
 INSERT INTO `dress_decal` VALUES (/*id*/11, /*disp_order*/6, /*lock_flag*/1, /*cost_type*/5, /*cost_id*/1005, /*cost_value*/3, /*start_date*/"2018-09-18 15:00:00", /*end_date*/"2030-04-01 14:00:00");
+INSERT INTO `dress_decal` VALUES (/*id*/101, /*disp_order*/7, /*lock_flag*/1, /*cost_type*/5, /*cost_id*/1005, /*cost_value*/3, /*start_date*/"2023-08-25 15:00:00", /*end_date*/"2030-04-01 14:00:00");
