@@ -9,4 +9,8 @@ INSERT INTO `aniv_count_top_data` VALUES (/*id*/7, /*aniv*/8, /*count*/4, /*numb
 INSERT INTO `aniv_count_top_data` VALUES (/*id*/8, /*aniv*/8, /*count*/4, /*number*/2, /*position*/1, /*chara_id*/164, /*name*/"悠貴", /*message*/"甘えられる人がいるって、やっぱり素敵ですっ。プロデューサーさんが\nこれからもずっと……私たちのことを選びつづけてくれますようにっ♪\n", /*time*/6800);
 INSERT INTO `aniv_count_top_data` VALUES (/*id*/9, /*aniv*/8, /*count*/5, /*number*/1, /*position*/0, /*chara_id*/185, /*name*/"美波", /*message*/"ギャルになった聖ちゃんも、可愛かったなぁ。\n今度は、ルーズソックスはどうって菜々ちゃんが言ってたっけ。\n", /*time*/5100);
 INSERT INTO `aniv_count_top_data` VALUES (/*id*/10, /*aniv*/8, /*count*/5, /*number*/2, /*position*/1, /*chara_id*/232, /*name*/"聖", /*message*/"前に、大人のみなさんにも……少し教えてもらいました……。\nナウでチョベリグな体験したいです。キャハ♪ ……合ってますか、これ？\n", /*time*/6300);
+INSERT INTO `aniv_count_top_data` VALUES (/*id*/11, /*aniv*/8, /*count*/8, /*number*/1, /*position*/0, /*chara_id*/188, /*name*/"ありす", /*message*/"夢を見ることに、早すぎることも遅すぎることもありません。\n昨日より今日。今日より明日。私たちらしく成長していきましょう。\n", /*time*/6000);
+INSERT INTO `aniv_count_top_data` VALUES (/*id*/12, /*aniv*/8, /*count*/8, /*number*/2, /*position*/1, /*chara_id*/157, /*name*/"小春", /*message*/"キラキラ光って、みんなのこともキラキラ照らしますよ～。\n長～い階段も、小春たちなら上っていけます～。\n", /*time*/5000);
+INSERT INTO `aniv_count_top_data` VALUES (/*id*/13, /*aniv*/8, /*count*/9, /*number*/1, /*position*/0, /*chara_id*/223, /*name*/"奏", /*message*/"私たちのジャケット撮影も、みんな見てくれたのかしら。\nあられもない5人の姿、刺激が強すぎて……直視できなかったかしら？\n", /*time*/5900);
+INSERT INTO `aniv_count_top_data` VALUES (/*id*/14, /*aniv*/8, /*count*/9, /*number*/2, /*position*/1, /*chara_id*/267, /*name*/"美嘉", /*message*/"志希ちゃんもフレちゃんも、耳元でこしょこしょ言ってくるしで、\nもう笑っちゃった ! それから……ふふっ、あとは内緒かな★\n", /*time*/6000);
 CREATE INDEX 'aniv_count_top_data_0_aniv' on 'aniv_count_top_data'('aniv');
