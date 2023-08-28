@@ -9,6 +9,7 @@ INSERT INTO `campaign_description` VALUES (/*id*/81, /*title*/"ガシャ", /*des
 INSERT INTO `campaign_description` VALUES (/*id*/84, /*title*/"ガシャ", /*description*/"プラチナオーディションガシャ1日1回無料 !", /*page_index*/400, /*panel_icon_id*/7, /*panel_frame_id*/155);
 INSERT INTO `campaign_description` VALUES (/*id*/85, /*title*/"ガシャ", /*description*/"プラチナオーディションガシャ1日1回10連無料 !", /*page_index*/400, /*panel_icon_id*/7, /*panel_frame_id*/155);
 INSERT INTO `campaign_description` VALUES (/*id*/86, /*title*/"ガシャ", /*description*/"シンデレラフェス ノワール開催中 ! ", /*page_index*/400, /*panel_icon_id*/7, /*panel_frame_id*/155);
+INSERT INTO `campaign_description` VALUES (/*id*/87, /*title*/"ガシャ", /*description*/"プラチナオーディションガシャ1日1回無料 !", /*page_index*/400, /*panel_icon_id*/7, /*panel_frame_id*/155);
 INSERT INTO `campaign_description` VALUES (/*id*/92, /*title*/"営業", /*description*/"営業での獲得経験値{0}倍 ! ", /*page_index*/3300, /*panel_icon_id*/6, /*panel_frame_id*/0);
 INSERT INTO `campaign_description` VALUES (/*id*/93, /*title*/"営業", /*description*/"営業での獲得ファン数{0}倍 ! ", /*page_index*/3300, /*panel_icon_id*/6, /*panel_frame_id*/0);
 INSERT INTO `campaign_description` VALUES (/*id*/111, /*title*/"LIVE", /*description*/"ドリームユニットキャンペーン実施中 !", /*page_index*/100, /*panel_icon_id*/4, /*panel_frame_id*/0);
