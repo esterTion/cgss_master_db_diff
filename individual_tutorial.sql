@@ -204,7 +204,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーは\n倉庫収納数から除外されます。\n収納していても、収納数にカウントされません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"U149コミックス15巻発売記念 !\nコラボルームアイテム『宿題テーブル/U149』を\n販売開始しました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"After20コミックス13巻発売記念 !\nコラボルームアイテム『座敷席/イカ料理』\n『片桐早苗のぬいぐるみ/After20』を販売開始しました !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"ルームショップに新ルームコーデを追加 !\nショップにあるアイテムを組み合わせた新作ルームコーデです。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"U149コミックス16巻発売記念 !\nコラボルームアイテム『舞台稽古スペース/U149』を\n販売開始しました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"After20コミックス14巻発売記念 !\nコラボルームアイテム『座敷席/秋の味覚』\n『高橋礼子のぬいぐるみ/After20』を販売開始しました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/3, /*discription*/"楽曲「無限L∞PだLOVE♡」の公開を記念して、\n「衣装スタンド/シャウトアウト・ラヴ」を\nルームショップに追加しました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");

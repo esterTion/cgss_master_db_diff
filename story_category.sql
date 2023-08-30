@@ -531,3 +531,4 @@ INSERT INTO `story_category` VALUES (/*id*/561, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/562, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"さよならアロハ", /*sub_title*/"さよならアロハ", /*disp_order*/219, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/563, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"土屋亜子 / 涼宮星花", /*sub_title*/"土屋亜子 / 涼宮星花", /*disp_order*/220, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/564, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ノートの中のテラリウム", /*sub_title*/"ノートの中のテラリウム", /*disp_order*/221, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/565, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"無限L∞PだLOVE♡", /*sub_title*/"無限L∞PだLOVE♡", /*disp_order*/222, /*filter_type*/0);

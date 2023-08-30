@@ -1846,3 +1846,9 @@ INSERT INTO `card_location` VALUES (/*index*/1860, /*text*/"文房具売り場")
 INSERT INTO `card_location` VALUES (/*index*/1861, /*text*/"メルヘンな世界");
 INSERT INTO `card_location` VALUES (/*index*/1862, /*text*/"沖縄の浜辺");
 INSERT INTO `card_location` VALUES (/*index*/1863, /*text*/"屋内プールのステージ");
+INSERT INTO `card_location` VALUES (/*index*/1864, /*text*/"プール付きのヴィラ");
+INSERT INTO `card_location` VALUES (/*index*/1865, /*text*/"南国のリゾート");
+INSERT INTO `card_location` VALUES (/*index*/1866, /*text*/"特設フォトスポット");
+INSERT INTO `card_location` VALUES (/*index*/1867, /*text*/"ファン感謝祭・LIVEステージ");
+INSERT INTO `card_location` VALUES (/*index*/1868, /*text*/"フォトスタジオ");
+INSERT INTO `card_location` VALUES (/*index*/1869, /*text*/"ファン感謝祭・ステージ通路");
