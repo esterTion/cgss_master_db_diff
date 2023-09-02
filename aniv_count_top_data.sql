@@ -19,4 +19,5 @@ INSERT INTO `aniv_count_top_data` VALUES (/*id*/17, /*aniv*/8, /*count*/11, /*nu
 INSERT INTO `aniv_count_top_data` VALUES (/*id*/18, /*aniv*/8, /*count*/11, /*number*/2, /*position*/1, /*chara_id*/190, /*name*/"マキノ", /*message*/"フフ……暑い季節に脳を活性化させるなら、香辛料よりも糖分。\nリッチチョコ・トロピカル・パフェ・デラックスこそ至高よ。\n", /*time*/5800);
 INSERT INTO `aniv_count_top_data` VALUES (/*id*/19, /*aniv*/8, /*count*/12, /*number*/1, /*position*/0, /*chara_id*/309, /*name*/"凪", /*message*/"ハンディ扇風機、まだまだ手放せない残暑が続きますね。\nハンディ凪とハンディ乃々さんも流行の兆し。\nみなさんMVでお楽しみ。\n", /*time*/6100);
 INSERT INTO `aniv_count_top_data` VALUES (/*id*/20, /*aniv*/8, /*count*/12, /*number*/2, /*position*/1, /*chara_id*/226, /*name*/"乃々", /*message*/"実は……ハンディ扇風機、もりくぼも買っちゃいました……。\n机の下も快適で……みんなにも評判です……。\n", /*time*/5000);
+INSERT INTO `aniv_count_top_data` VALUES (/*id*/21, /*aniv*/8, /*count*/13, /*number*/1, /*position*/0, /*chara_id*/-1, /*name*/"ちひろ", /*message*/"アイドルマスターシンデレラガールズスターライトステージが\n8周年を迎えましたよ !\n", /*time*/4100);
 CREATE INDEX 'aniv_count_top_data_0_aniv' on 'aniv_count_top_data'('aniv');
