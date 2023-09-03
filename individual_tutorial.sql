@@ -210,8 +210,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/"ルームアイテムの並べ替えを行うことができます。\n「追加順」、「必要面積順」など並べ替え条件を選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーは\n倉庫収納数から除外されます。\n収納していても、収納数にカウントされません。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"U149コミックス15巻発売記念 !\nコラボルームアイテム『宿題テーブル/U149』を\n販売開始しました !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"After20コミックス13巻発売記念 !\nコラボルームアイテム『座敷席/イカ料理』\n『片桐早苗のぬいぐるみ/After20』を販売開始しました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ルーム倉庫収納数の拡張上限を「5000」に増加 !\nまた、イベントでもらえるルームアイテムが収納数に\nカウントされないよう変更しました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"「ラブファクトリー」テーマのアイテムとコーデを追加 !\nみんなの愛を大きく育てましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/3, /*discription*/"過去に期間限定で販売していた\nルームアイテムを復刻販売中 !\n復刻販売のラインナップは毎週変わります !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"U149コミックス16巻発売記念 !\nコラボルームアイテム『舞台稽古スペース/U149』を\n販売開始しました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"After20コミックス14巻発売記念 !\nコラボルームアイテム『座敷席/秋の味覚』\n『高橋礼子のぬいぐるみ/After20』を販売開始しました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/3, /*discription*/"楽曲「無限L∞PだLOVE♡」の公開を記念して、\n「衣装スタンド/シャウトアウト・ラヴ」を\nルームショップに追加しました !");
@@ -1060,9 +1061,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/91006, /*img*/4, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/91008, /*img*/1, /*discription*/"メモリアルガシャ5th近日公開 !\nSレアとSSレアは対象の限定アイドルのみ登場します !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91009, /*img*/1, /*discription*/"ドレスコーデ対応衣装に楽曲「星環世界」の\n衣装「アド・アストラ」を追加予定です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91009, /*img*/1, /*discription*/"衣装「アド・アストラ」をドレスショップで\n受け取ることでドレスコーデ機能で使用できるように\nなります。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/91010, /*img*/1, /*discription*/"ルーム倉庫収納数の拡張上限を「5000」に変更いたします。\nまた、イベントでもらえるルームアイテムが\n収納数にカウントされないよう変更予定です。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/91010, /*img*/2, /*discription*/"「ラブファクトリー」テーマのアイテムとコーデを追加予定です。\nみんなの愛を大きく育てましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/91010, /*img*/3, /*discription*/"過去に期間限定で販売していた\nルームアイテムを復刻販売予定です。\n復刻販売のラインナップは毎週変わります !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/91010, /*img*/1, /*discription*/"ルーム倉庫収納数の拡張上限を「5000」に増加 !\nまた、イベントでもらえるルームアイテムが収納数に\nカウントされないよう変更しました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/91010, /*img*/2, /*discription*/"「ラブファクトリー」テーマのアイテムとコーデを追加 !\nみんなの愛を大きく育てましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/91010, /*img*/3, /*discription*/"過去に期間限定で販売していた\nルームアイテムを復刻販売中 !\n復刻販売のラインナップは毎週変わります !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91012, /*img*/1, /*discription*/"チャンスチケットの配布は終了しました。\n結果発表までお楽しみに !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91013, /*img*/1, /*discription*/"現在当選結果を発表中です。\n配布期間中にチャンスチケットを獲得した方は\n当選結果を確認しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91014, /*img*/1, /*discription*/"詳細は近日発表予定 !\nお楽しみに !");
