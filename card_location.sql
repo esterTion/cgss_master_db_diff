@@ -1852,3 +1852,9 @@ INSERT INTO `card_location` VALUES (/*index*/1866, /*text*/"特設フォトス�
 INSERT INTO `card_location` VALUES (/*index*/1867, /*text*/"ファン感謝祭・LIVEステージ");
 INSERT INTO `card_location` VALUES (/*index*/1868, /*text*/"フォトスタジオ");
 INSERT INTO `card_location` VALUES (/*index*/1869, /*text*/"ファン感謝祭・ステージ通路");
+INSERT INTO `card_location` VALUES (/*index*/1870, /*text*/"ヴェネツィア・ゴンドラ船");
+INSERT INTO `card_location` VALUES (/*index*/1871, /*text*/"マフィアの屋敷・大広間");
+INSERT INTO `card_location` VALUES (/*index*/1872, /*text*/"ロサンゼルス");
+INSERT INTO `card_location` VALUES (/*index*/1873, /*text*/"愛が詰まったクローゼット");
+INSERT INTO `card_location` VALUES (/*index*/1874, /*text*/"ふたりきりの展望台");
+INSERT INTO `card_location` VALUES (/*index*/1875, /*text*/"愛が注がれるバスタブ");
