@@ -394,7 +394,7 @@ INSERT INTO `story_category` VALUES (/*id*/409, /*type*/1, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/410, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第71話", /*sub_title*/"What the Hero Left Behind", /*disp_order*/272, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/411, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第72話", /*sub_title*/"Navigate a ray of light", /*disp_order*/273, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/412, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第73話", /*sub_title*/"Road to the Fantasista", /*disp_order*/274, /*filter_type*/0);
-INSERT INTO `story_category` VALUES (/*id*/413, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第74話", /*sub_title*/"coming soon", /*disp_order*/275, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/413, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第74話", /*sub_title*/"The Blooming Flower", /*disp_order*/275, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/414, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ギュっとMilky Way", /*sub_title*/"ギュっとMilky Way", /*disp_order*/111, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/415, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"夢をのぞいたら", /*sub_title*/"夢をのぞいたら", /*disp_order*/112, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/416, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"今井加奈 / 若林智香", /*sub_title*/"今井加奈 / 若林智香", /*disp_order*/113, /*filter_type*/0);
@@ -522,6 +522,7 @@ INSERT INTO `story_category` VALUES (/*id*/537, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/538, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Shine In The Sky☆", /*sub_title*/"Shine In The Sky☆", /*disp_order*/211, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/539, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"全開 ! ミラクルアドベンチャー !", /*sub_title*/"全開 ! ミラクルアドベンチャー !", /*disp_order*/212, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/540, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Nightwear", /*sub_title*/"Nightwear", /*disp_order*/213, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/541, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第75話", /*sub_title*/"coming soon", /*disp_order*/276, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/556, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"なつっこ音頭", /*sub_title*/"なつっこ音頭", /*disp_order*/214, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/557, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"奥山沙織 / 水木聖來", /*sub_title*/"奥山沙織 / 水木聖來", /*disp_order*/215, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/558, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"燿城夜祭 -かがやきよまつり-連動企画", /*sub_title*/"燿城夜祭 -かがやきよまつり-連動企画", /*disp_order*/37, /*filter_type*/401);
@@ -532,3 +533,4 @@ INSERT INTO `story_category` VALUES (/*id*/562, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/563, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"土屋亜子 / 涼宮星花", /*sub_title*/"土屋亜子 / 涼宮星花", /*disp_order*/220, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/564, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ノートの中のテラリウム", /*sub_title*/"ノートの中のテラリウム", /*disp_order*/221, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/565, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"無限L∞PだLOVE♡", /*sub_title*/"無限L∞PだLOVE♡", /*disp_order*/222, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/566, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"Shout out Live ! ! ! 連動企画", /*sub_title*/"Shout out Live ! ! ! 連動企画", /*disp_order*/38, /*filter_type*/401);
