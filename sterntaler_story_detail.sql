@@ -41,7 +41,7 @@ INSERT INTO `sterntaler_story_detail` VALUES (/*id*/3598, /*data_1*/12694, /*dat
 INSERT INTO `sterntaler_story_detail` VALUES (/*id*/3599, /*data_1*/13137, /*data_2*/40, /*data_3*/0);
 INSERT INTO `sterntaler_story_detail` VALUES (/*id*/3600, /*data_1*/13138, /*data_2*/41, /*data_3*/0);
 INSERT INTO `sterntaler_story_detail` VALUES (/*id*/3601, /*data_1*/13139, /*data_2*/42, /*data_3*/0);
-INSERT INTO `sterntaler_story_detail` VALUES (/*id*/3602, /*data_1*/13140, /*data_2*/43, /*data_3*/0);
+INSERT INTO `sterntaler_story_detail` VALUES (/*id*/3602, /*data_1*/13140, /*data_2*/43, /*data_3*/41);
 INSERT INTO `sterntaler_story_detail` VALUES (/*id*/3603, /*data_1*/13561, /*data_2*/44, /*data_3*/0);
 INSERT INTO `sterntaler_story_detail` VALUES (/*id*/3604, /*data_1*/13562, /*data_2*/45, /*data_3*/0);
 INSERT INTO `sterntaler_story_detail` VALUES (/*id*/3605, /*data_1*/13563, /*data_2*/46, /*data_3*/0);
@@ -331,3 +331,5 @@ INSERT INTO `sterntaler_story_detail` VALUES (/*id*/6146, /*data_1*/42506, /*dat
 INSERT INTO `sterntaler_story_detail` VALUES (/*id*/6147, /*data_1*/42507, /*data_2*/330, /*data_3*/0);
 INSERT INTO `sterntaler_story_detail` VALUES (/*id*/6148, /*data_1*/43067, /*data_2*/331, /*data_3*/0);
 INSERT INTO `sterntaler_story_detail` VALUES (/*id*/6149, /*data_1*/43068, /*data_2*/332, /*data_3*/0);
+INSERT INTO `sterntaler_story_detail` VALUES (/*id*/6150, /*data_1*/43117, /*data_2*/333, /*data_3*/41);
+INSERT INTO `sterntaler_story_detail` VALUES (/*id*/6151, /*data_1*/43118, /*data_2*/334, /*data_3*/0);
