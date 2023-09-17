@@ -213,9 +213,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ルーム倉庫収納数の拡張上限を「5000」に増加 !\nまた、イベントでもらえるルームアイテムが収納数に\nカウントされないよう変更しました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"「ラブファクトリー」テーマのアイテムとコーデを追加 !\nみんなの愛を大きく育てましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/3, /*discription*/"過去に期間限定で販売していた\nルームアイテムを復刻販売中 !\n復刻販売のラインナップは毎週変わります !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"U149コミックス16巻発売記念 !\nコラボルームアイテム『舞台稽古スペース/U149』を\n販売開始しました !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"After20コミックス14巻発売記念 !\nコラボルームアイテム『座敷席/秋の味覚』\n『高橋礼子のぬいぐるみ/After20』を販売開始しました !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/3, /*discription*/"楽曲「無限L∞PだLOVE♡」の公開を記念して、\n「衣装スタンド/シャウトアウト・ラヴ」を\nルームショップに追加しました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"アイドルがリアクションするルームアイテムに\nアイコンが表示され、一目でわかるようになりました !\nまたリアクション開始位置も表示されるようになりました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"ルームアイテムの一覧にトロフィーカテゴリを追加 !\n獲得したトロフィーが、より見つけやすくなりました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -1065,6 +1064,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/91009, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/91010, /*img*/1, /*discription*/"ルーム倉庫収納数の拡張上限を「5000」に増加 !\nまた、イベントでもらえるルームアイテムが収納数に\nカウントされないよう変更しました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91010, /*img*/2, /*discription*/"「ラブファクトリー」テーマのアイテムとコーデを追加 !\nみんなの愛を大きく育てましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91010, /*img*/3, /*discription*/"過去に期間限定で販売していた\nルームアイテムを復刻販売中 !\n復刻販売のラインナップは毎週変わります !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/91011, /*img*/1, /*discription*/"アイドルがリアクションするルームアイテムに\nアイコンが表示され、一目でわかるようになりました !\nまたリアクション開始位置も\n表示されるようになりました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/91011, /*img*/1, /*discription*/"ルームアイテムの一覧にトロフィーカテゴリを追加 !\n獲得したトロフィーが、より見つけやすくなりました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91012, /*img*/1, /*discription*/"チャンスチケットの配布は終了しました。\n結果発表までお楽しみに !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91013, /*img*/1, /*discription*/"現在当選結果を発表中です。\n配布期間中にチャンスチケットを獲得した方は\n当選結果を確認しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91014, /*img*/1, /*discription*/"詳細は近日発表予定 !\nお楽しみに !");

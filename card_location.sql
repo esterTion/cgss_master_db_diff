@@ -1867,3 +1867,5 @@ INSERT INTO `card_location` VALUES (/*index*/1881, /*text*/"王者ヘレンの�
 INSERT INTO `card_location` VALUES (/*index*/1882, /*text*/"ススキ野原");
 INSERT INTO `card_location` VALUES (/*index*/1883, /*text*/"さつまいも畑");
 INSERT INTO `card_location` VALUES (/*index*/1884, /*text*/"秋の彩りステージ");
+INSERT INTO `card_location` VALUES (/*index*/1885, /*text*/"時子様の休日・海外のホテル");
+INSERT INTO `card_location` VALUES (/*index*/1886, /*text*/"廃墟になった儀式場");

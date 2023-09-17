@@ -7,6 +7,7 @@ INSERT INTO `room_item_category` VALUES (/*id*/199, /*category_name*/"家具", /
 INSERT INTO `room_item_category` VALUES (/*id*/201, /*category_name*/"家電・雑貨", /*name*/"家電");
 INSERT INTO `room_item_category` VALUES (/*id*/202, /*category_name*/"家電・雑貨", /*name*/"雑貨");
 INSERT INTO `room_item_category` VALUES (/*id*/203, /*category_name*/"家電・雑貨", /*name*/"ホビー");
+INSERT INTO `room_item_category` VALUES (/*id*/204, /*category_name*/"家電・雑貨", /*name*/"トロフィー");
 INSERT INTO `room_item_category` VALUES (/*id*/299, /*category_name*/"家電・雑貨", /*name*/"その他");
 INSERT INTO `room_item_category` VALUES (/*id*/301, /*category_name*/"装飾", /*name*/"壁飾り");
 INSERT INTO `room_item_category` VALUES (/*id*/302, /*category_name*/"装飾", /*name*/"敷き物");

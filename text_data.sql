@@ -2059,6 +2059,7 @@ INSERT INTO `text_data` VALUES (/*category*/24, /*index*/38, /*text*/"[FF7A7A]�
 INSERT INTO `text_data` VALUES (/*category*/24, /*index*/39, /*text*/"[FF7A7A]コーデに登録されているアイテムです。[-]\n");
 INSERT INTO `text_data` VALUES (/*category*/24, /*index*/40, /*text*/"[FF7A7A]コーデのルームアイテムを\n収納するために必要な倉庫の空きがありません。[-]\n倉庫を拡張するか、倉庫内のルームアイテムを\n設置、または売却してください。");
 INSERT INTO `text_data` VALUES (/*category*/24, /*index*/41, /*text*/"[FF7A7A]コーデのルームアイテムを\n収納するために必要な倉庫の空きがありません。[-]\n倉庫内のルームアイテムを\n設置、または売却してください。");
+INSERT INTO `text_data` VALUES (/*category*/24, /*index*/42, /*text*/"トロフィー");
 INSERT INTO `text_data` VALUES (/*category*/25, /*index*/1, /*text*/"MVプレイリスト");
 INSERT INTO `text_data` VALUES (/*category*/25, /*index*/2, /*text*/"MVプレイリスト");
 INSERT INTO `text_data` VALUES (/*category*/25, /*index*/3, /*text*/"MVを連続再生できます");
