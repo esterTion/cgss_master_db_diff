@@ -140,6 +140,7 @@ INSERT INTO `music_info` VALUES (/*id*/2058, /*discription*/"西園寺琴歌（C
 INSERT INTO `music_info` VALUES (/*id*/2059, /*discription*/"浅利七海（CV：井上ほの花）\n安部菜々（CV：三宅麻理恵）\n前川みく（CV：高森奈津美）\n\n\n作詞・作曲・編曲：橘亮祐", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/2060, /*discription*/"桐生つかさ（CV：河瀬茉希）\n大槻唯（CV：山下七海）\n八神マキノ（CV：二ノ宮ゆい）\n\n\n作詞：烏屋茶房\n作曲・編曲：篠崎あやと", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/2061, /*discription*/"久川凪（CV：立花日菜）\n森久保乃々（CV：高橋花林）\n\n\n作詞：烏屋茶房、八城雄太\n作曲・編曲：seibin（ESTIMATE）", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/2062, /*discription*/"砂塚あきら（CV：富田美憂）\n早坂美玲（CV：朝井彩加）\n\n\n作詞・作曲・編曲：安島龍人", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/3001, /*discription*/"島村卯月（CV：大橋彩香）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（Yoshi）\nコーラス：Mitsu（BNSI）\nギター：後藤貴徳\nバイオリン：Bloom Quartet & Ensemble", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/3002, /*discription*/"渋谷凛（CV：福原綾香）\n\n\n作詞・作曲：BNEI（遠山明孝・八城雄太）\n作曲：BNEI（遠山明孝）\n編曲：関淳二郎\nギター・コーラス：関淳二郎", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/3003, /*discription*/"本田未央（CV：原紗友里）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（kyo）\nギター：後藤貴徳", /*android_url*/"", /*ios_url*/"");
@@ -387,6 +388,8 @@ INSERT INTO `music_info` VALUES (/*id*/8085, /*discription*/"Chai Maxx（もも�
 INSERT INTO `music_info` VALUES (/*id*/8086, /*discription*/"走れ !（ももいろクローバー）\n\n久川颯（CV：長江里加）\n乙倉悠貴（CV：中島由貴）\n\n\n作詞：INFLAVA\n作曲：KOJI OBA、michitomo", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8087, /*discription*/"ぱ ぴ ぷ ぺ POP!\n\n荒木比奈（CV：田辺留依）\n神谷奈緒（CV：松井恵理子）\n安部菜々（CV：三宅麻理恵）\n\n\n作詞・作曲：玉屋2060%", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8088, /*discription*/"第六感\n\n砂塚あきら（CV：富田美憂）\n\n\n作詞：Reol\n作曲：Reol / Giga", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/8091, /*discription*/"世界はそれを愛と呼ぶんだぜ\n\n佐藤心（CV：花守ゆみり）\n\n\n作詞・作曲：山口 隆", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/8092, /*discription*/"可愛くてごめん\n\n輿水幸子（CV：竹達彩奈）\n\n\n作詞・作曲：shito", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/9001, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n双葉杏（CV：五十嵐裕美）\n諸星きらり（CV：松嵜麗）\n\n\n作詞：marhy\n作曲・編曲：BNSI（内田哲也）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/9002, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n大槻唯（CV：山下七海）\n上条春菜（CV：長島光那）\n\n\n作詞：俊龍\n作曲：俊龍\n編曲：Sizuk", /*android_url*/"http://columbia.jp/sl-stage/haishin/COCC-17141.html", /*ios_url*/"http://columbia.jp/sl-stage/haishin/COCC-17141.html");
 INSERT INTO `music_info` VALUES (/*id*/9003, /*discription*/"速水奏（CV：飯田友子）\n塩見周子（CV：ルゥ ティン）\n城ヶ崎美嘉（CV：佳村はるか）\n宮本フレデリカ（CV：髙野麻美）\n一ノ瀬志希（CV：藍原ことみ）\n\n\n作詞：森由⾥⼦\n作曲・編曲：石濱翔（MONACA）", /*android_url*/"http://columbia.jp/sl-stage/haishin/COCC-17142.html", /*ios_url*/"http://columbia.jp/sl-stage/haishin/COCC-17142.html");
