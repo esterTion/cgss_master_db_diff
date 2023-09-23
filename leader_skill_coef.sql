@@ -1,1 +1,2 @@
 CREATE TABLE 'leader_skill_coef' ('leader_skill_type' INTEGER NOT NULL, 'attribute_1_coefficient' INTEGER NOT NULL, 'sub_attribute_1_coefficient' INTEGER NOT NULL, 'attribute_2_coefficient' INTEGER NOT NULL, 'sub_attribute_2_coefficient' INTEGER NOT NULL, PRIMARY KEY('leader_skill_type'));
+INSERT INTO `leader_skill_coef` VALUES (/*leader_skill_type*/120, /*attribute_1_coefficient*/1000, /*sub_attribute_1_coefficient*/1000, /*attribute_2_coefficient*/1000, /*sub_attribute_2_coefficient*/1000);

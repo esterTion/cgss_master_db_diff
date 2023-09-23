@@ -34,4 +34,9 @@ INSERT INTO `dress_decal_position` VALUES (/*id*/32, /*dress_id*/29, /*tab_posit
 INSERT INTO `dress_decal_position` VALUES (/*id*/33, /*dress_id*/29, /*tab_position*/3, /*position_x*/0, /*position_y*/0, /*position_z*/0, /*rotate_y*/120, /*focus_target_number*/1);
 INSERT INTO `dress_decal_position` VALUES (/*id*/34, /*dress_id*/29, /*tab_position*/4, /*position_x*/0, /*position_y*/0, /*position_z*/0, /*rotate_y*/-120, /*focus_target_number*/1);
 INSERT INTO `dress_decal_position` VALUES (/*id*/35, /*dress_id*/29, /*tab_position*/5, /*position_x*/0, /*position_y*/0, /*position_z*/0, /*rotate_y*/120, /*focus_target_number*/11);
+INSERT INTO `dress_decal_position` VALUES (/*id*/36, /*dress_id*/41, /*tab_position*/1, /*position_x*/0, /*position_y*/0, /*position_z*/0, /*rotate_y*/0, /*focus_target_number*/4);
+INSERT INTO `dress_decal_position` VALUES (/*id*/37, /*dress_id*/41, /*tab_position*/2, /*position_x*/0, /*position_y*/0, /*position_z*/0, /*rotate_y*/-50, /*focus_target_number*/1);
+INSERT INTO `dress_decal_position` VALUES (/*id*/38, /*dress_id*/41, /*tab_position*/3, /*position_x*/0, /*position_y*/0, /*position_z*/0, /*rotate_y*/30, /*focus_target_number*/1);
+INSERT INTO `dress_decal_position` VALUES (/*id*/39, /*dress_id*/41, /*tab_position*/4, /*position_x*/0, /*position_y*/0, /*position_z*/0, /*rotate_y*/-30, /*focus_target_number*/13);
+INSERT INTO `dress_decal_position` VALUES (/*id*/40, /*dress_id*/41, /*tab_position*/5, /*position_x*/0, /*position_y*/0, /*position_z*/0, /*rotate_y*/10, /*focus_target_number*/14);
 CREATE INDEX 'dress_decal_position_0_dress_id_1_tab_position' on 'dress_decal_position'('dress_id','tab_position');

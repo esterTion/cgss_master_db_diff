@@ -100,3 +100,4 @@ INSERT INTO `gallery_music_list` VALUES (/*id*/101, /*disp_order*/6000, /*live_i
 INSERT INTO `gallery_music_list` VALUES (/*id*/102, /*disp_order*/1002, /*live_id*/29, /*motion_id*/9001, /*fade_msec*/1000, /*cutt_name*/"Cutt_Todoke", /*sound_offset*/1144);
 INSERT INTO `gallery_music_list` VALUES (/*id*/103, /*disp_order*/1003, /*live_id*/2, /*motion_id*/1002, /*fade_msec*/1000, /*cutt_name*/"Cutt_Kagayaku", /*sound_offset*/1791);
 INSERT INTO `gallery_music_list` VALUES (/*id*/104, /*disp_order*/1004, /*live_id*/3, /*motion_id*/1003, /*fade_msec*/1000, /*cutt_name*/"Cutt_werefri", /*sound_offset*/1653);
+INSERT INTO `gallery_music_list` VALUES (/*id*/105, /*disp_order*/1005, /*live_id*/4, /*motion_id*/1004, /*fade_msec*/1000, /*cutt_name*/"Cutt_message", /*sound_offset*/1819);

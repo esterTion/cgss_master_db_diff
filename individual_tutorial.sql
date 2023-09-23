@@ -1082,9 +1082,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/91006, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/91006, /*img*/2, /*discription*/"「リミテッドver」では、期間限定SSレアアイドルがスカウトできる\n特別なスカウトチケットに加え、「プラチナ10連ガシャチケット2枚」\nなどのアイテム4種を獲得できます。\n※対象アイドルはセット購入画面よりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91006, /*img*/3, /*discription*/"「フェスver」では、フェス限定SSレアアイドルがスカウトできる\n特別なスカウトチケットに加え、「プラチナ10連ガシャチケット2枚」\nなどのアイテム4種を獲得できます。\n※対象アイドルはセット購入画面よりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91006, /*img*/4, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様にSレア以上のアイドル1人が\n確定で登場します。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/91007, /*img*/1, /*discription*/"アイドル本来のタイプに加え、2つ目のタイプを持つ\n「ドミナントアイドル」が新たに登場 !\n9月下旬より開催予定の「ドミナントガシャ」から\n限定アイドルとして登場します !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/91007, /*img*/1, /*discription*/"渋谷凛が2つのタイプを持つ「ドミナントアイドル」として登場 ! \n新ガシャ「ドミナントガシャ」開催 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91008, /*img*/1, /*discription*/"メモリアルガシャ5th近日公開 !\nSレアとSSレアは対象の限定アイドルのみ登場します !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/91009, /*img*/1, /*discription*/"ドレスコーデ対応衣装に楽曲「星環世界」の\n衣装「アド・アストラ」を追加予定です。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/91009, /*img*/1, /*discription*/"ドレスコーデ対応衣装に楽曲「星環世界」の\n衣装「アド・アストラ」を追加しました。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91009, /*img*/1, /*discription*/"衣装「アド・アストラ」をドレスショップで\n受け取ることでドレスコーデ機能で使用できるように\nなります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91010, /*img*/1, /*discription*/"ルーム倉庫収納数の拡張上限を「5000」に増加 !\nまた、イベントでもらえるルームアイテムが収納数に\nカウントされないよう変更しました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91010, /*img*/2, /*discription*/"「ラブファクトリー」テーマのアイテムとコーデを追加 !\nみんなの愛を大きく育てましょう !");

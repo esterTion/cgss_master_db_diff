@@ -757,7 +757,7 @@ INSERT INTO `text_data` VALUES (/*category*/12, /*index*/265, /*text*/"アイテ
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/266, /*text*/"ノーマルアイドルを\n自動移籍しました");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/267, /*text*/"プレミアムパス1日1回無料!\n{0}\nを1回引きますか?");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/268, /*text*/"無料ガシャ特典");
-INSERT INTO `text_data` VALUES (/*category*/12, /*index*/269, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/269, /*text*/"■ドミナントガシャ限定アイドル");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/1, /*text*/"エクストラコミュ解放");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/2, /*text*/"新たなエクストラコミュが解放されました");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/3, /*text*/"事務所");
@@ -1083,6 +1083,7 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/263, /*text*/"うたい
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/264, /*text*/"楽器\nver");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/265, /*text*/"5人\nver");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/266, /*text*/"コラボ");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/267, /*text*/"優先するドミナントタイプ");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/1, /*text*/"月間獲得ファン数ランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/2, /*text*/"今期のランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/3, /*text*/"前期のランキング");
@@ -2781,7 +2782,7 @@ INSERT INTO `text_data` VALUES (/*category*/37, /*index*/117, /*text*/"パート
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/118, /*text*/"未到達のフロアがあるマイスタイルアイドルです");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/119, /*text*/"ホーム、ルームでは、重複しているアイドルは1人しか表示されません\nLIVE中のダンスでは、重複しているアイドルに代\nわって、アルバムに登録されているアイドルがラ\nンダムで登場します。また、所持している衣装の\n中からランダムで着用します\n\n※LIVE中に発動する特技やステータスは、\n[D33D98]編成されているアイドル[-]の効果が適用されます\n※SSレア衣装を所持したアイドルが選出されたとき、[D33D98]SSレア衣装を優先的に着用[-]するか選択できます");
 INSERT INTO `text_data` VALUES (/*category*/37, /*index*/120, /*text*/"[FF7A7A]同じアイドルが編成されています[-]");
-INSERT INTO `text_data` VALUES (/*category*/37, /*index*/121, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/37, /*index*/121, /*text*/"ドミナントタイプ");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/1, /*text*/"近日公開予定の機能のため、現在利用できません");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/2, /*text*/"ルームアイテム");
 INSERT INTO `text_data` VALUES (/*category*/38, /*index*/3, /*text*/"回");
@@ -2936,8 +2937,8 @@ INSERT INTO `text_data` VALUES (/*category*/40, /*index*/136, /*text*/"[D33D98]{
 INSERT INTO `text_data` VALUES (/*category*/40, /*index*/137, /*text*/"着せ替え保存完了");
 INSERT INTO `text_data` VALUES (/*category*/40, /*index*/138, /*text*/"[D33D98]{0}[-]に\nコーデを保存しました。\nこのコーデで衣装を製作しますか？");
 INSERT INTO `text_data` VALUES (/*category*/40, /*index*/139, /*text*/"受取");
-INSERT INTO `text_data` VALUES (/*category*/40, /*index*/140, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/40, /*index*/141, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/40, /*index*/140, /*text*/"受け取る");
+INSERT INTO `text_data` VALUES (/*category*/40, /*index*/141, /*text*/"購入する");
 INSERT INTO `text_data` VALUES (/*category*/41, /*index*/1, /*text*/"北東");
 INSERT INTO `text_data` VALUES (/*category*/41, /*index*/2, /*text*/"首都");
 INSERT INTO `text_data` VALUES (/*category*/41, /*index*/3, /*text*/"中央");
@@ -5389,7 +5390,7 @@ INSERT INTO `text_data` VALUES (/*category*/92, /*index*/6, /*text*/"{0}%");
 INSERT INTO `text_data` VALUES (/*category*/92, /*index*/7, /*text*/"閉じる");
 INSERT INTO `text_data` VALUES (/*category*/92, /*index*/8, /*text*/"ぴにゃっぴっぴっ !\nぴにゃぴっぴにゃ、\nぴにゃにゃーにゃ !");
 INSERT INTO `text_data` VALUES (/*category*/92, /*index*/9, /*text*/"ぴーにゃっ …\nぴにゃにゃーにゃ !\n（遂に…完成だ ! ）");
-INSERT INTO `text_data` VALUES (/*category*/92, /*index*/10, /*text*/"ぴにゃ博士からのミッションは達成済です。");
+INSERT INTO `text_data` VALUES (/*category*/92, /*index*/10, /*text*/"ぴにゃ博士からの\nミッションは達成済です。");
 INSERT INTO `text_data` VALUES (/*category*/92, /*index*/11, /*text*/"[d33d98]＋{0}[-]");
 INSERT INTO `text_data` VALUES (/*category*/92, /*index*/101, /*text*/"ミッション");
 INSERT INTO `text_data` VALUES (/*category*/92, /*index*/102, /*text*/"デイリー");
