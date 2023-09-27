@@ -2056,3 +2056,12 @@ INSERT INTO `story_exchange_data` VALUES (/*id*/2054, /*story_detail_id*/6531, /
 INSERT INTO `story_exchange_data` VALUES (/*id*/2055, /*story_detail_id*/6532, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/1, /*start_date*/"2023-09-14 15:00:00", /*end_date*/"");
 INSERT INTO `story_exchange_data` VALUES (/*id*/2056, /*story_detail_id*/6533, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/1, /*start_date*/"2023-09-14 15:00:00", /*end_date*/"");
 INSERT INTO `story_exchange_data` VALUES (/*id*/2057, /*story_detail_id*/6534, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/1, /*start_date*/"2023-09-14 15:00:00", /*end_date*/"");
+INSERT INTO `story_exchange_data` VALUES (/*id*/2058, /*story_detail_id*/6540, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/3, /*start_date*/"2023-09-27 15:00:00", /*end_date*/"");
+INSERT INTO `story_exchange_data` VALUES (/*id*/2059, /*story_detail_id*/6541, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/3, /*start_date*/"2023-09-27 15:00:00", /*end_date*/"");
+INSERT INTO `story_exchange_data` VALUES (/*id*/2060, /*story_detail_id*/6542, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/3, /*start_date*/"2023-09-27 15:00:00", /*end_date*/"");
+INSERT INTO `story_exchange_data` VALUES (/*id*/2061, /*story_detail_id*/6543, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/3, /*start_date*/"2023-09-27 15:00:00", /*end_date*/"");
+INSERT INTO `story_exchange_data` VALUES (/*id*/2062, /*story_detail_id*/6544, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/3, /*start_date*/"2023-09-27 15:00:00", /*end_date*/"");
+INSERT INTO `story_exchange_data` VALUES (/*id*/2063, /*story_detail_id*/6545, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/3, /*start_date*/"2023-09-27 15:00:00", /*end_date*/"");
+INSERT INTO `story_exchange_data` VALUES (/*id*/2064, /*story_detail_id*/6546, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/3, /*start_date*/"2023-09-27 15:00:00", /*end_date*/"");
+INSERT INTO `story_exchange_data` VALUES (/*id*/2065, /*story_detail_id*/6547, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/1, /*start_date*/"2023-09-27 15:00:00", /*end_date*/"");
+INSERT INTO `story_exchange_data` VALUES (/*id*/2066, /*story_detail_id*/6548, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/1, /*start_date*/"2023-09-27 15:00:00", /*end_date*/"");

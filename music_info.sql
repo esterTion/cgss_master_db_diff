@@ -388,6 +388,8 @@ INSERT INTO `music_info` VALUES (/*id*/8085, /*discription*/"Chai Maxx（もも�
 INSERT INTO `music_info` VALUES (/*id*/8086, /*discription*/"走れ !（ももいろクローバー）\n\n久川颯（CV：長江里加）\n乙倉悠貴（CV：中島由貴）\n\n\n作詞：INFLAVA\n作曲：KOJI OBA、michitomo", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8087, /*discription*/"ぱ ぴ ぷ ぺ POP!\n\n荒木比奈（CV：田辺留依）\n神谷奈緒（CV：松井恵理子）\n安部菜々（CV：三宅麻理恵）\n\n\n作詞・作曲：玉屋2060%", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8088, /*discription*/"第六感\n\n砂塚あきら（CV：富田美憂）\n\n\n作詞：Reol\n作曲：Reol / Giga", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/8089, /*discription*/"Overdose\n\n塩見周子（CV：ルゥ ティン）\n\n\n作詞・作曲：なとり", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/8090, /*discription*/"トウキョウ・シャンディ・ランデヴ\n\n的場梨沙（CV：集貝はな）\n\n\n作詞・作曲：ツミキ", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8091, /*discription*/"世界はそれを愛と呼ぶんだぜ\n\n佐藤心（CV：花守ゆみり）\n\n\n作詞・作曲：山口 隆", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8092, /*discription*/"可愛くてごめん\n\n輿水幸子（CV：竹達彩奈）\n\n\n作詞・作曲：shito", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/9001, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n双葉杏（CV：五十嵐裕美）\n諸星きらり（CV：松嵜麗）\n\n\n作詞：marhy\n作曲・編曲：BNSI（内田哲也）", /*android_url*/"", /*ios_url*/"");
