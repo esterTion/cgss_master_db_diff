@@ -211,9 +211,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/"ルームアイテムの並べ替えを行うことができます。\n「追加順」、「必要面積順」など並べ替え条件を選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーは\n倉庫収納数から除外されます。\n収納していても、収納数にカウントされません。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ルーム倉庫収納数の拡張上限を「5000」に増加 !\nまた、イベントでもらえるルームアイテムが収納数に\nカウントされないよう変更しました !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"「ラブファクトリー」テーマのアイテムとコーデを追加 !\nみんなの愛を大きく育てましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/3, /*discription*/"過去に期間限定で販売していた\nルームアイテムを復刻販売中 !\n復刻販売のラインナップは毎週変わります !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"「セレクトショップ・プリヴェ」をテーマにした\nアイテムとコーデを追加 !\nお気に入りの1着を見つけましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"「レジカウンター/セレクトショップ」を設置すると\nセレクトショップ・プリヴェの店長がボイス付きで登場します !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"アイドルがリアクションするルームアイテムに\nアイコンが表示され、一目でわかるようになりました !\nまたリアクション開始位置も表示されるようになりました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"ルームアイテムの一覧にトロフィーカテゴリを追加 !\n獲得したトロフィーが、より見つけやすくなりました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
