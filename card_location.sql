@@ -1873,3 +1873,7 @@ INSERT INTO `card_location` VALUES (/*index*/1887, /*text*/"夕方の空き教�
 INSERT INTO `card_location` VALUES (/*index*/1888, /*text*/"仮想世界のLIVEステージ");
 INSERT INTO `card_location` VALUES (/*index*/1889, /*text*/"キュートなブティック");
 INSERT INTO `card_location` VALUES (/*index*/1890, /*text*/"リンちゃんのクローゼット");
+INSERT INTO `card_location` VALUES (/*index*/1891, /*text*/"お屋敷から出た外の世界");
+INSERT INTO `card_location` VALUES (/*index*/1892, /*text*/"恋愛研究所");
+INSERT INTO `card_location` VALUES (/*index*/1893, /*text*/"秘密のベッドルーム");
+INSERT INTO `card_location` VALUES (/*index*/1894, /*text*/"大きな吊り橋");

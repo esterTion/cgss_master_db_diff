@@ -68,6 +68,7 @@ INSERT INTO `music_duration` VALUES (/*music_id*/1075, /*music_duration*/136);
 INSERT INTO `music_duration` VALUES (/*music_id*/1076, /*music_duration*/127);
 INSERT INTO `music_duration` VALUES (/*music_id*/1077, /*music_duration*/125);
 INSERT INTO `music_duration` VALUES (/*music_id*/1078, /*music_duration*/131);
+INSERT INTO `music_duration` VALUES (/*music_id*/1079, /*music_duration*/121);
 INSERT INTO `music_duration` VALUES (/*music_id*/1201, /*music_duration*/124);
 INSERT INTO `music_duration` VALUES (/*music_id*/1202, /*music_duration*/125);
 INSERT INTO `music_duration` VALUES (/*music_id*/1901, /*music_duration*/124);
