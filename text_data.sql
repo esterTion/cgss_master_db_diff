@@ -4705,6 +4705,8 @@ INSERT INTO `text_data` VALUES (/*category*/82, /*index*/7, /*text*/"2文字以�
 INSERT INTO `text_data` VALUES (/*category*/82, /*index*/8, /*text*/"有効な文字が2文字以上ありません");
 INSERT INTO `text_data` VALUES (/*category*/82, /*index*/9, /*text*/"対象の衣装はありません");
 INSERT INTO `text_data` VALUES (/*category*/82, /*index*/10, /*text*/"セレクト\nショップ");
+INSERT INTO `text_data` VALUES (/*category*/82, /*index*/11, /*text*/"未購入");
+INSERT INTO `text_data` VALUES (/*category*/82, /*index*/12, /*text*/"購入済み");
 INSERT INTO `text_data` VALUES (/*category*/83, /*index*/1, /*text*/"インフォメーション");
 INSERT INTO `text_data` VALUES (/*category*/83, /*index*/2, /*text*/"キャンペーン");
 INSERT INTO `text_data` VALUES (/*category*/83, /*index*/3, /*text*/"Pパス");
@@ -4773,6 +4775,7 @@ INSERT INTO `text_data` VALUES (/*category*/85, /*index*/9, /*text*/"シリア�
 INSERT INTO `text_data` VALUES (/*category*/85, /*index*/10, /*text*/"無効なシリアルコードが入力されました。\n再度入力してください。");
 INSERT INTO `text_data` VALUES (/*category*/85, /*index*/11, /*text*/"連続で無効なシリアルコードが入力されたため、\n一時的に機能を制限しています。\n制限が解除されるまで、しばらくお待ちください。");
 INSERT INTO `text_data` VALUES (/*category*/85, /*index*/12, /*text*/"使用済みのシリアルコードが入力されました。\n別のシリアルコードを入力してください。");
+INSERT INTO `text_data` VALUES (/*category*/85, /*index*/13, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/85, /*index*/14, /*text*/"獲得済みの報酬のシリアルコードです。\nこのゲームIDで本シリアルコードは\nご利用いただけません。");
 INSERT INTO `text_data` VALUES (/*category*/87, /*index*/10001, /*text*/"…");
 INSERT INTO `text_data` VALUES (/*category*/87, /*index*/10101, /*text*/"エラー");
@@ -5445,6 +5448,8 @@ INSERT INTO `text_data` VALUES (/*category*/94, /*index*/8, /*text*/"A");
 INSERT INTO `text_data` VALUES (/*category*/94, /*index*/9, /*text*/"B");
 INSERT INTO `text_data` VALUES (/*category*/94, /*index*/10, /*text*/"C");
 INSERT INTO `text_data` VALUES (/*category*/94, /*index*/11, /*text*/"{0}:{1:D2}");
+INSERT INTO `text_data` VALUES (/*category*/94, /*index*/12, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/94, /*index*/13, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/9999, /*index*/1, /*text*/"期間外エラー");
 INSERT INTO `text_data` VALUES (/*category*/9999, /*index*/2, /*text*/"期間外です");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/1, /*text*/"利用規約とプライバシーポリシーに\n同意してから本サービスをご利用ください。\n\nまた、18歳未満の方は、\n法定代理人（ご両親等）の同意が必要です。\n\n※ないようがわからないときは\nおうちのひとにがめんをみせてください。");

@@ -1,7 +1,6 @@
 CREATE TABLE 'carnival_live_exclude' ('event_id' INTEGER NOT NULL, 'live_id' INTEGER NOT NULL, PRIMARY KEY('event_id','live_id'));
 INSERT INTO `carnival_live_exclude` VALUES (/*event_id*/7014, /*live_id*/401);
 INSERT INTO `carnival_live_exclude` VALUES (/*event_id*/7014, /*live_id*/402);
-INSERT INTO `carnival_live_exclude` VALUES (/*event_id*/7014, /*live_id*/478);
 INSERT INTO `carnival_live_exclude` VALUES (/*event_id*/7014, /*live_id*/493);
 INSERT INTO `carnival_live_exclude` VALUES (/*event_id*/7014, /*live_id*/499);
 INSERT INTO `carnival_live_exclude` VALUES (/*event_id*/7014, /*live_id*/501);

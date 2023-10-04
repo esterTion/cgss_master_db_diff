@@ -1877,3 +1877,8 @@ INSERT INTO `card_location` VALUES (/*index*/1891, /*text*/"お屋敷から出�
 INSERT INTO `card_location` VALUES (/*index*/1892, /*text*/"恋愛研究所");
 INSERT INTO `card_location` VALUES (/*index*/1893, /*text*/"秘密のベッドルーム");
 INSERT INTO `card_location` VALUES (/*index*/1894, /*text*/"大きな吊り橋");
+INSERT INTO `card_location` VALUES (/*index*/1895, /*text*/"天使と悪魔の部屋");
+INSERT INTO `card_location` VALUES (/*index*/1896, /*text*/"ハロウィンの夜の街");
+INSERT INTO `card_location` VALUES (/*index*/1897, /*text*/"テーマパーク・実験室セット");
+INSERT INTO `card_location` VALUES (/*index*/1898, /*text*/"復活の祭壇");
+INSERT INTO `card_location` VALUES (/*index*/1899, /*text*/"ふたりのためのアトリエ");
