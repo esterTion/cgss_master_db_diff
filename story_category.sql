@@ -536,3 +536,4 @@ INSERT INTO `story_category` VALUES (/*id*/565, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/566, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"Shout out Live ! ! ! 連動企画", /*sub_title*/"Shout out Live ! ! ! 連動企画", /*disp_order*/38, /*filter_type*/401);
 INSERT INTO `story_category` VALUES (/*id*/568, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Hardcore Toyworld", /*sub_title*/"Hardcore Toyworld", /*disp_order*/223, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/569, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"パジャマジャマ", /*sub_title*/"パジャマジャマ", /*disp_order*/224, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/570, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"綾瀬穂乃香 / 杉坂海", /*sub_title*/"綾瀬穂乃香 / 杉坂海", /*disp_order*/225, /*filter_type*/0);

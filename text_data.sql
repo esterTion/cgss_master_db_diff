@@ -2265,7 +2265,7 @@ INSERT INTO `text_data` VALUES (/*category*/27, /*index*/36, /*text*/"課題ク�
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/37, /*text*/"イベントコミュ\n{0}解放");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/38, /*text*/"「{0}」編成でボーナス !");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/39, /*text*/"合計スターランクでボーナス !");
-INSERT INTO `text_data` VALUES (/*category*/27, /*index*/40, /*text*/"ボーカルアピール値でボーナス!");
+INSERT INTO `text_data` VALUES (/*category*/27, /*index*/40, /*text*/"ボーカルアピール値でボーナス !");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/41, /*text*/"ビジュアルアピール値でボーナス !");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/42, /*text*/"ダンスアピール値でボーナス !");
 INSERT INTO `text_data` VALUES (/*category*/27, /*index*/43, /*text*/"合計アピール値でボーナス !");
