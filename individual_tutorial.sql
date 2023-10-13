@@ -213,8 +213,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーは\n倉庫収納数から除外されます。\n収納していても、収納数にカウントされません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"「セレクトショップ・プリヴェ」をテーマにした\nアイテムとコーデを追加 !\nお気に入りの1着を見つけましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"「レジカウンター/セレクトショップ」を設置すると\nセレクトショップ・プリヴェの店長がボイス付きで登場します !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"アイドルがリアクションするルームアイテムに\nアイコンが表示され、一目でわかるようになりました !\nまたリアクション開始位置も表示されるようになりました !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"ルームアイテムの一覧にトロフィーカテゴリを追加 !\n獲得したトロフィーが、より見つけやすくなりました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「シックハロウィン」をテーマにしたアイテムとコーデが登場 !\n怪奇現象がちょっぴり刺激的なホラーハウスです !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"ルームショップにて、「ハロウィン」テーマの\nアイテム、コーデを復刻販売開始 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");

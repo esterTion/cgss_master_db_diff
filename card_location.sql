@@ -1885,3 +1885,9 @@ INSERT INTO `card_location` VALUES (/*index*/1899, /*text*/"ふたりのため�
 INSERT INTO `card_location` VALUES (/*index*/1900, /*text*/"街・ハロウィンイベント");
 INSERT INTO `card_location` VALUES (/*index*/1901, /*text*/"霊界と現世の境目");
 INSERT INTO `card_location` VALUES (/*index*/1902, /*text*/"合宿所・リビング");
+INSERT INTO `card_location` VALUES (/*index*/1903, /*text*/"下町の銭湯・脱衣所");
+INSERT INTO `card_location` VALUES (/*index*/1904, /*text*/"お祭り会場・山車の上");
+INSERT INTO `card_location` VALUES (/*index*/1905, /*text*/"農園");
+INSERT INTO `card_location` VALUES (/*index*/1906, /*text*/"星いっぱいのステージ");
+INSERT INTO `card_location` VALUES (/*index*/1907, /*text*/"レトロな喫茶店");
+INSERT INTO `card_location` VALUES (/*index*/1908, /*text*/"バーチャル空間");
