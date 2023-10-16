@@ -1891,3 +1891,5 @@ INSERT INTO `card_location` VALUES (/*index*/1905, /*text*/"農園");
 INSERT INTO `card_location` VALUES (/*index*/1906, /*text*/"星いっぱいのステージ");
 INSERT INTO `card_location` VALUES (/*index*/1907, /*text*/"レトロな喫茶店");
 INSERT INTO `card_location` VALUES (/*index*/1908, /*text*/"バーチャル空間");
+INSERT INTO `card_location` VALUES (/*index*/1909, /*text*/"秋を臨む和室");
+INSERT INTO `card_location` VALUES (/*index*/1910, /*text*/"撮影セット・桃源郷");

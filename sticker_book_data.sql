@@ -46,4 +46,8 @@ INSERT INTO `sticker_book_data` VALUES (/*id*/44, /*rarity*/1, /*page_index*/7, 
 INSERT INTO `sticker_book_data` VALUES (/*id*/45, /*rarity*/1, /*page_index*/7, /*sticker_order*/5, /*sticker_pos_x*/0, /*sticker_pos_y*/-103);
 INSERT INTO `sticker_book_data` VALUES (/*id*/46, /*rarity*/1, /*page_index*/7, /*sticker_order*/6, /*sticker_pos_x*/220, /*sticker_pos_y*/-103);
 INSERT INTO `sticker_book_data` VALUES (/*id*/47, /*rarity*/1, /*page_index*/8, /*sticker_order*/1, /*sticker_pos_x*/-220, /*sticker_pos_y*/103);
+INSERT INTO `sticker_book_data` VALUES (/*id*/48, /*rarity*/1, /*page_index*/8, /*sticker_order*/2, /*sticker_pos_x*/0, /*sticker_pos_y*/103);
+INSERT INTO `sticker_book_data` VALUES (/*id*/49, /*rarity*/1, /*page_index*/8, /*sticker_order*/3, /*sticker_pos_x*/220, /*sticker_pos_y*/103);
+INSERT INTO `sticker_book_data` VALUES (/*id*/50, /*rarity*/1, /*page_index*/8, /*sticker_order*/4, /*sticker_pos_x*/-220, /*sticker_pos_y*/-103);
+INSERT INTO `sticker_book_data` VALUES (/*id*/51, /*rarity*/2, /*page_index*/5, /*sticker_order*/1, /*sticker_pos_x*/0, /*sticker_pos_y*/0);
 CREATE INDEX 'sticker_book_data_0_rarity_1_page_index' on 'sticker_book_data'('rarity','page_index');
