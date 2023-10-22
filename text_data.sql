@@ -4775,7 +4775,7 @@ INSERT INTO `text_data` VALUES (/*category*/85, /*index*/9, /*text*/"シリア�
 INSERT INTO `text_data` VALUES (/*category*/85, /*index*/10, /*text*/"無効なシリアルコードが入力されました。\n再度入力してください。");
 INSERT INTO `text_data` VALUES (/*category*/85, /*index*/11, /*text*/"連続で無効なシリアルコードが入力されたため、\n一時的に機能を制限しています。\n制限が解除されるまで、しばらくお待ちください。");
 INSERT INTO `text_data` VALUES (/*category*/85, /*index*/12, /*text*/"使用済みのシリアルコードが入力されました。\n別のシリアルコードを入力してください。");
-INSERT INTO `text_data` VALUES (/*category*/85, /*index*/13, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/85, /*index*/13, /*text*/"報酬は直接付与されました。");
 INSERT INTO `text_data` VALUES (/*category*/85, /*index*/14, /*text*/"獲得済みの報酬のシリアルコードです。\nこのゲームIDで本シリアルコードは\nご利用いただけません。");
 INSERT INTO `text_data` VALUES (/*category*/87, /*index*/10001, /*text*/"…");
 INSERT INTO `text_data` VALUES (/*category*/87, /*index*/10101, /*text*/"エラー");

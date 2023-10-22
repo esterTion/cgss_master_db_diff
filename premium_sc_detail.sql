@@ -124,4 +124,5 @@ INSERT INTO `premium_sc_detail` VALUES (/*item_id*/89001, /*jewel_shop_id*/91, /
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/89002, /*jewel_shop_id*/97, /*use_period_day*/0, /*all_user_use_end_date*/"", /*is_cartoon*/0);
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/89003, /*jewel_shop_id*/98, /*use_period_day*/0, /*all_user_use_end_date*/"", /*is_cartoon*/0);
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/89004, /*jewel_shop_id*/104, /*use_period_day*/0, /*all_user_use_end_date*/"", /*is_cartoon*/0);
+INSERT INTO `premium_sc_detail` VALUES (/*item_id*/89005, /*jewel_shop_id*/105, /*use_period_day*/0, /*all_user_use_end_date*/"", /*is_cartoon*/0);
 CREATE INDEX 'premium_sc_detail_0_jewel_shop_id' on 'premium_sc_detail'('jewel_shop_id');

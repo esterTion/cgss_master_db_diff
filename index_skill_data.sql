@@ -33,4 +33,4 @@ INSERT INTO `index_skill_data` VALUES (/*id*/41, /*name*/"シンデレラ\nマ�
 INSERT INTO `index_skill_data` VALUES (/*id*/42, /*name*/"ミュー\nチャル", /*skill_id*/42, /*variation_group_id*/42);
 INSERT INTO `index_skill_data` VALUES (/*id*/43, /*name*/"オーバー\nドライブ", /*skill_id*/43, /*variation_group_id*/43);
 INSERT INTO `index_skill_data` VALUES (/*id*/44, /*name*/"トリコロール\n・スパイク", /*skill_id*/44, /*variation_group_id*/44);
-INSERT INTO `index_skill_data` VALUES (/*id*/45, /*name*/"ドミナント\n・ハーモニー", /*skill_id*/47, /*variation_group_id*/45);
+INSERT INTO `index_skill_data` VALUES (/*id*/45, /*name*/"ドミナント\n・ハーモニー", /*skill_id*/"47,50", /*variation_group_id*/45);
