@@ -3927,6 +3927,10 @@ INSERT INTO `text_data` VALUES (/*category*/66, /*index*/68, /*text*/"アイテ�
 INSERT INTO `text_data` VALUES (/*category*/66, /*index*/69, /*text*/"期限付きアイテム所持");
 INSERT INTO `text_data` VALUES (/*category*/66, /*index*/70, /*text*/"[D64498FF]{0}[-]を所持しています");
 INSERT INTO `text_data` VALUES (/*category*/66, /*index*/71, /*text*/"期間限定アイテムを\n所持しています");
+INSERT INTO `text_data` VALUES (/*category*/66, /*index*/72, /*text*/"プロデュース方針「LIVEコンティニュー可能」初期化のお知らせ");
+INSERT INTO `text_data` VALUES (/*category*/66, /*index*/73, /*text*/"LIVE時の「最初から」機能追加に伴う対応として、\nプロデュース方針「LIVEコンティニュー可能」を未設定の状態に戻し、\n使用していた場数ptの返還を行いました。");
+INSERT INTO `text_data` VALUES (/*category*/66, /*index*/74, /*text*/"引き続き「LIVEコンティニュー可能」をご利用の場合、\nプロデュース方針の再設定をお願いします");
+INSERT INTO `text_data` VALUES (/*category*/66, /*index*/75, /*text*/"上記の内容を確認しました");
 INSERT INTO `text_data` VALUES (/*category*/67, /*index*/1, /*text*/"デレステビンGO !");
 INSERT INTO `text_data` VALUES (/*category*/67, /*index*/2, /*text*/"5月23日まで抽選結果発表中 !");
 INSERT INTO `text_data` VALUES (/*category*/67, /*index*/3, /*text*/"ビンゴシート\n作り直し");

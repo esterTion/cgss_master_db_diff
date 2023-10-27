@@ -2007,3 +2007,4 @@ INSERT INTO `banner` VALUES (/*banner_id*/2043, /*type*/1, /*img_id*/30925, /*tr
 INSERT INTO `banner` VALUES (/*banner_id*/2044, /*type*/1, /*img_id*/30926, /*transition*/0, /*page_index*/30926, /*order_num*/1, /*start_date*/"2023-10-26 15:00:00", /*end_date*/"2023-10-30 14:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/2045, /*type*/1, /*img_id*/30927, /*transition*/0, /*page_index*/30927, /*order_num*/2, /*start_date*/"2023-10-26 15:00:00", /*end_date*/"2023-10-30 14:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/2046, /*type*/1, /*img_id*/30928, /*transition*/0, /*page_index*/30928, /*order_num*/3, /*start_date*/"2023-10-26 15:00:00", /*end_date*/"2023-10-30 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/2047, /*type*/2, /*img_id*/3047, /*transition*/0, /*page_index*/0, /*order_num*/16, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
