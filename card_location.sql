@@ -1897,3 +1897,8 @@ INSERT INTO `card_location` VALUES (/*index*/1911, /*text*/"ハロウィンの�
 INSERT INTO `card_location` VALUES (/*index*/1912, /*text*/"ハロウィン・ファン感謝祭");
 INSERT INTO `card_location` VALUES (/*index*/1913, /*text*/"渋谷・歩道橋デッキ");
 INSERT INTO `card_location` VALUES (/*index*/1914, /*text*/"ネオンを見下ろす特等席");
+INSERT INTO `card_location` VALUES (/*index*/1915, /*text*/"開放感のある浜辺");
+INSERT INTO `card_location` VALUES (/*index*/1916, /*text*/"高級感が演出された邸宅");
+INSERT INTO `card_location` VALUES (/*index*/1917, /*text*/"月明かりが照らす教会");
+INSERT INTO `card_location` VALUES (/*index*/1918, /*text*/"百合園前の公園");
+INSERT INTO `card_location` VALUES (/*index*/1919, /*text*/"翳り始めた世界");

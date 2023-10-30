@@ -173,6 +173,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/11100, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/11100, /*img*/1, /*discription*/"「プラチナSレアスカウトチケット」「プラチナ10連ガシャチケット 2枚」\n「スターレッスントレーナーチケット」「スタミナドリンク50 2個」\nを獲得できます。\n※有償スタージュエルでのみ購入することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11100, /*img*/2, /*discription*/"「プラチナSSレアスカチケ fes」は\nプレミアムカット解放済みの好きなSSレアアイドルを\nスカウトできるチケットです。スカウトできるアイドルは、\n「対象アイドル」ボタンからご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11100, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で登場します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11106, /*img*/1, /*discription*/"スペシャルガシャセットは期間限定販売です。\n購入すると2種類の「スカウトチケット」と「プラチナ\n10連ガシャチケット」に加え、");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11106, /*img*/1, /*discription*/"今回は、「プレミアムフィルム」を獲得できます。\n※有償スタージュエルでのみ購入することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11106, /*img*/2, /*discription*/"「スカウトチケット」はアイドルをスカウトできるチケット\nです。スカウトできるアイドルは、「対象アイドル」ボタン\nからご確認ください。※スカウトチケットの種類によって\nスカウトできるアイドルは異なります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11106, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で出現します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/12003, /*img*/1, /*discription*/"「CM記念 ! ハッピーウサイヤーガシャ」を引くと、\n『ウサシャイン』が獲得できます。\n※『ウサシャイン』は提供期間が決まっています。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/12003, /*img*/2, /*discription*/"期間中に『ウサシャイン』を必要数獲得すると、\n対象のアイドルを1人スカウトすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/12003, /*img*/3, /*discription*/"提供期間を過ぎた『ウサシャイン』は、\n『スターピース』に自動で変換されます。\n『スターピース』は、アイテムと交換することができます。");
@@ -211,8 +215,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/"ルームアイテムの並べ替えを行うことができます。\n「追加順」、「必要面積順」など並べ替え条件を選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーは\n倉庫収納数から除外されます。\n収納していても、収納数にカウントされません。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"「セレクトショップ・プリヴェ」をテーマにした\nアイテムとコーデを追加 !\nお気に入りの1着を見つけましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"「レジカウンター/セレクトショップ」を設置すると\nセレクトショップ・プリヴェの店長がボイス付きで登場します !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"セレクトショップで販売している私服の衣装スタンド\n『衣装スタンド/ドリーミーリボンサロペット』\n『衣装スタンド/清純派きれいめフリルブラウス』を追加 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「シックハロウィン」をテーマにしたアイテムとコーデが登場 !\n怪奇現象がちょっぴり刺激的なホラーハウスです !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/2, /*discription*/"ルームショップにて、「ハロウィン」テーマの\nアイテム、コーデを復刻販売開始 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
@@ -566,7 +569,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/3, /*discription*/"LIVE Grooveでは、その3曲で連続してLIVEを行います。\n※3曲の間ライフは引き継がれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/4, /*discription*/"LIVE中、盛り上がりに応じて「ハコユレLv」が計測されます。\n3曲合わせた「ハコユレLv」が17以上になると、\nアンコールが発生します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/5, /*discription*/"難易度がMASTER以上で、ハコユレLvが21以上の場合、\nアンコール楽曲の難易度で「MASTER+」が選択できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/6, /*discription*/"LIVE Groove Dance burstでは、ダンスのアピール値が\n通常よりアップします。\nダンスアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/6, /*discription*/"LIVE Groove Vocal burstでは、ボーカルのアピール値が\n通常よりアップします。\nボーカルアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80202, /*img*/1, /*discription*/" ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/1, /*discription*/"「達成pt報酬」、「イベントptランキング報酬」、\n「ハイスコアランキング報酬」で、イベント限定の\nSレアアイドルやルームアイテムが獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/1, /*discription*/"イベント限定営業で「イベントpt」を獲得できます。\nイベント限定営業はイベント期間中のみ\nプレイすることができます。");
@@ -575,7 +578,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/3, /*discription*/"LIVE Grooveでは、その3曲で連続してLIVEを行います。\n※3曲の間ライフは引き継がれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/4, /*discription*/"LIVE中、盛り上がりに応じて「ハコユレLv」が計測されます。\n3曲合わせた「ハコユレLv」が17以上になると、\nアンコールが発生します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/5, /*discription*/"難易度がMASTER以上で、ハコユレLvが21以上の場合、\nアンコール楽曲の難易度で「MASTER+」が選択できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/6, /*discription*/"LIVE Groove Dance burstでは、ダンスのアピール値が\n通常よりアップします。\nダンスアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/6, /*discription*/"LIVE Groove Vocal burstでは、ボーカルのアピール値が\n通常よりアップします。\nボーカルアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/1, /*discription*/"「達成pt報酬」で、イベント限定のSレアアイドルや\nルームアイテムを手にいれましょう。\nまた期間中にイベントのLIVEをプレイすると、\n限定のアイドルを確率で手に入れることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。\n楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/3, /*discription*/"本イベントは、専用ユニットでLIVEを行います。ユニットには5つの「ポジション」があります。\n各プロデューサーのアイドルが、ポジションを1つずつ担当し、5人の共通ユニットが編成されます。\n※自分のアイドルがどのポジションを担当するかはランダムで決定されます。\n※楽曲タイプとポジションごとにアイドルを設定できます。");

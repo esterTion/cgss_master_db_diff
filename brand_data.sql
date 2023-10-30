@@ -17,3 +17,5 @@ INSERT INTO `brand_data` VALUES (/*id*/15, /*brand_name*/"晴れ晴゛れ", /*br
 INSERT INTO `brand_data` VALUES (/*id*/16, /*brand_name*/"Freely", /*brand_text*/"Freely");
 INSERT INTO `brand_data` VALUES (/*id*/17, /*brand_name*/"765ショップ", /*brand_text*/"765ショップ");
 INSERT INTO `brand_data` VALUES (/*id*/18, /*brand_name*/"Re:Lucks", /*brand_text*/"Re:Lucks");
+INSERT INTO `brand_data` VALUES (/*id*/19, /*brand_name*/"Daily Happiness", /*brand_text*/"Daily Happiness");
+INSERT INTO `brand_data` VALUES (/*id*/20, /*brand_name*/"COSTUME LAB", /*brand_text*/"COSTUME LAB");
