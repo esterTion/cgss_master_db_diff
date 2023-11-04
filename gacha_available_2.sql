@@ -2179,4 +2179,8 @@ INSERT INTO `gacha_available_2` VALUES (/*gacha_id*/30929, /*card_id*/101205, /*
 INSERT INTO `gacha_available_2` VALUES (/*gacha_id*/30929, /*card_id*/201257, /*recommend_order*/0, /*limited_flag*/1, /*up_value*/1);
 INSERT INTO `gacha_available_2` VALUES (/*gacha_id*/30929, /*card_id*/301199, /*recommend_order*/0, /*limited_flag*/1, /*up_value*/1);
 INSERT INTO `gacha_available_2` VALUES (/*gacha_id*/30929, /*card_id*/101277, /*recommend_order*/0, /*limited_flag*/1, /*up_value*/1);
+INSERT INTO `gacha_available_2` VALUES (/*gacha_id*/30930, /*card_id*/101287, /*recommend_order*/1, /*limited_flag*/1, /*up_value*/1);
+INSERT INTO `gacha_available_2` VALUES (/*gacha_id*/30930, /*card_id*/201339, /*recommend_order*/2, /*limited_flag*/1, /*up_value*/1);
+INSERT INTO `gacha_available_2` VALUES (/*gacha_id*/30930, /*card_id*/301269, /*recommend_order*/3, /*limited_flag*/1, /*up_value*/1);
+INSERT INTO `gacha_available_2` VALUES (/*gacha_id*/30930, /*card_id*/201341, /*recommend_order*/4, /*limited_flag*/1, /*up_value*/1);
 CREATE INDEX 'gacha_available_2_0_gacha_id' on 'gacha_available_2'('gacha_id');

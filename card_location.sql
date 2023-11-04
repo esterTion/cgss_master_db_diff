@@ -1902,3 +1902,10 @@ INSERT INTO `card_location` VALUES (/*index*/1916, /*text*/"高級感が演出�
 INSERT INTO `card_location` VALUES (/*index*/1917, /*text*/"月明かりが照らす教会");
 INSERT INTO `card_location` VALUES (/*index*/1918, /*text*/"百合園前の公園");
 INSERT INTO `card_location` VALUES (/*index*/1919, /*text*/"翳り始めた世界");
+INSERT INTO `card_location` VALUES (/*index*/1920, /*text*/"貸切の露天風呂");
+INSERT INTO `card_location` VALUES (/*index*/1921, /*text*/"紅葉に包まれた露天風呂");
+INSERT INTO `card_location` VALUES (/*index*/1922, /*text*/"城へとつづく階段");
+INSERT INTO `card_location` VALUES (/*index*/1923, /*text*/"旅館・個室の露天風呂");
+INSERT INTO `card_location` VALUES (/*index*/1924, /*text*/"温泉郷・あずまや");
+INSERT INTO `card_location` VALUES (/*index*/1925, /*text*/"温泉宿・露天風呂");
+INSERT INTO `card_location` VALUES (/*index*/1926, /*text*/"秋の神楽殿");
