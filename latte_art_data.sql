@@ -703,3 +703,7 @@ INSERT INTO `latte_art_data` VALUES (/*id*/701, /*title*/"第700話", /*chara_li
 INSERT INTO `latte_art_data` VALUES (/*id*/702, /*title*/"第701話", /*chara_list*/"267,197,309,223", /*disp_order*/702, /*start_date*/"2023-10-22 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `latte_art_data` VALUES (/*id*/703, /*title*/"第702話", /*chara_list*/"231,305,304", /*disp_order*/703, /*start_date*/"2023-10-30 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `latte_art_data` VALUES (/*id*/704, /*title*/"第703話", /*chara_list*/"201,223", /*disp_order*/704, /*start_date*/"2023-10-30 15:00:00", /*end_date*/"2099-12-31 23:59:59");
+INSERT INTO `latte_art_data` VALUES (/*id*/705, /*title*/"第704話", /*chara_list*/"157,112,284,118,104", /*disp_order*/705, /*start_date*/"2023-11-10 15:00:00", /*end_date*/"2099-12-31 23:59:59");
+INSERT INTO `latte_art_data` VALUES (/*id*/706, /*title*/"第705話", /*chara_list*/"310,309", /*disp_order*/706, /*start_date*/"2023-11-10 15:00:00", /*end_date*/"2099-12-31 23:59:59");
+INSERT INTO `latte_art_data` VALUES (/*id*/707, /*title*/"第706話", /*chara_list*/"246,173,267,122,240", /*disp_order*/707, /*start_date*/"2023-11-10 15:00:00", /*end_date*/"2099-12-31 23:59:59");
+INSERT INTO `latte_art_data` VALUES (/*id*/708, /*title*/"第707話", /*chara_list*/"160,251,222,210", /*disp_order*/708, /*start_date*/"2023-11-10 15:00:00", /*end_date*/"2099-12-31 23:59:59");
