@@ -1912,3 +1912,8 @@ INSERT INTO `card_location` VALUES (/*index*/1926, /*text*/"秋の神楽殿");
 INSERT INTO `card_location` VALUES (/*index*/1927, /*text*/"紅葉舞う温泉街");
 INSERT INTO `card_location` VALUES (/*index*/1928, /*text*/"紅葉の泡風呂");
 INSERT INTO `card_location` VALUES (/*index*/1929, /*text*/"さくら色のお部屋");
+INSERT INTO `card_location` VALUES (/*index*/1930, /*text*/"淑女の特等席");
+INSERT INTO `card_location` VALUES (/*index*/1931, /*text*/"おもちゃのトモハウス");
+INSERT INTO `card_location` VALUES (/*index*/1932, /*text*/"ある子ども部屋");
+INSERT INTO `card_location` VALUES (/*index*/1933, /*text*/"公演後の劇場の席");
+INSERT INTO `card_location` VALUES (/*index*/1934, /*text*/"ガラス張りの高層ビル");

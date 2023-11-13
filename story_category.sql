@@ -522,7 +522,8 @@ INSERT INTO `story_category` VALUES (/*id*/537, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/538, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Shine In The Sky☆", /*sub_title*/"Shine In The Sky☆", /*disp_order*/211, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/539, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"全開 ! ミラクルアドベンチャー !", /*sub_title*/"全開 ! ミラクルアドベンチャー !", /*disp_order*/212, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/540, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Nightwear", /*sub_title*/"Nightwear", /*disp_order*/213, /*filter_type*/0);
-INSERT INTO `story_category` VALUES (/*id*/541, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第75話", /*sub_title*/"coming soon", /*disp_order*/276, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/541, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第75話", /*sub_title*/"Dazzling My Gemstone", /*disp_order*/276, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/542, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第76話", /*sub_title*/"coming soon", /*disp_order*/277, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/556, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"なつっこ音頭", /*sub_title*/"なつっこ音頭", /*disp_order*/214, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/557, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"奥山沙織 / 水木聖來", /*sub_title*/"奥山沙織 / 水木聖來", /*disp_order*/215, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/558, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"燿城夜祭 -かがやきよまつり-連動企画", /*sub_title*/"燿城夜祭 -かがやきよまつり-連動企画", /*disp_order*/37, /*filter_type*/401);
