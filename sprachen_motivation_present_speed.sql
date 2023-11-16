@@ -1,0 +1,1 @@
+CREATE TABLE 'sprachen_motivation_present_speed' ('item_minimum' INTEGER NOT NULL, 'wait_time' INTEGER NOT NULL, 'move_speed_adjust' INTEGER NOT NULL, 'fillamount_value' INTEGER NOT NULL, 'use_item_count' INTEGER NOT NULL, PRIMARY KEY('item_minimum'));

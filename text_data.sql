@@ -3128,6 +3128,7 @@ INSERT INTO `text_data` VALUES (/*category*/46, /*index*/46, /*text*/"字幕を�
 INSERT INTO `text_data` VALUES (/*category*/47, /*index*/1, /*text*/"特訓演出（プレミアムカットあり）");
 INSERT INTO `text_data` VALUES (/*category*/47, /*index*/2, /*text*/"ガシャ演出（プレミアムカットあり）");
 INSERT INTO `text_data` VALUES (/*category*/47, /*index*/3, /*text*/"該当なし");
+INSERT INTO `text_data` VALUES (/*category*/47, /*index*/4, /*text*/"キャラバン");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/1, /*text*/"開催期間");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/2, /*text*/"{0}～{1}");
 INSERT INTO `text_data` VALUES (/*category*/48, /*index*/3, /*text*/"所持カーニバルメダル");

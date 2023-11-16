@@ -1917,3 +1917,5 @@ INSERT INTO `card_location` VALUES (/*index*/1931, /*text*/"おもちゃのト�
 INSERT INTO `card_location` VALUES (/*index*/1932, /*text*/"ある子ども部屋");
 INSERT INTO `card_location` VALUES (/*index*/1933, /*text*/"公演後の劇場の席");
 INSERT INTO `card_location` VALUES (/*index*/1934, /*text*/"ガラス張りの高層ビル");
+INSERT INTO `card_location` VALUES (/*index*/1935, /*text*/"ドイツのベーカリー");
+INSERT INTO `card_location` VALUES (/*index*/1936, /*text*/"パン好き魔女の工房");
