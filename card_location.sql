@@ -1919,3 +1919,7 @@ INSERT INTO `card_location` VALUES (/*index*/1933, /*text*/"公演後の劇場�
 INSERT INTO `card_location` VALUES (/*index*/1934, /*text*/"ガラス張りの高層ビル");
 INSERT INTO `card_location` VALUES (/*index*/1935, /*text*/"ドイツのベーカリー");
 INSERT INTO `card_location` VALUES (/*index*/1936, /*text*/"パン好き魔女の工房");
+INSERT INTO `card_location` VALUES (/*index*/1937, /*text*/"中学校・校舎裏");
+INSERT INTO `card_location` VALUES (/*index*/1938, /*text*/"文化祭・恋の廊下");
+INSERT INTO `card_location` VALUES (/*index*/1939, /*text*/"中学校・昇降口");
+INSERT INTO `card_location` VALUES (/*index*/1940, /*text*/"文化祭・恋の階段");
