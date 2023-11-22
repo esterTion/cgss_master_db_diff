@@ -1923,3 +1923,5 @@ INSERT INTO `card_location` VALUES (/*index*/1937, /*text*/"中学校・校舎�
 INSERT INTO `card_location` VALUES (/*index*/1938, /*text*/"文化祭・恋の廊下");
 INSERT INTO `card_location` VALUES (/*index*/1939, /*text*/"中学校・昇降口");
 INSERT INTO `card_location` VALUES (/*index*/1940, /*text*/"文化祭・恋の階段");
+INSERT INTO `card_location` VALUES (/*index*/1941, /*text*/"海外・リゾートプール");
+INSERT INTO `card_location` VALUES (/*index*/1942, /*text*/"プールサイド・輝く瞬間");

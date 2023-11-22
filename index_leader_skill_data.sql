@@ -32,5 +32,6 @@ INSERT INTO `index_leader_skill_data` VALUES (/*id*/30, /*name*/"【タイプ】
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/31, /*name*/"【タイプ】デュエット（ステップ＆メイク）", /*skill_id*/"120,123,126", /*disp_order*/31, /*start_date*/"2021-09-05 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/32, /*name*/"【タイプ】デュエット（メイク＆ボイス）", /*skill_id*/"121,124,127", /*disp_order*/32, /*start_date*/"2021-10-04 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/33, /*name*/"トリコロール\nユニゾン", /*skill_id*/"128,129", /*disp_order*/33, /*start_date*/"2023-06-29 15:00:00", /*end_date*/"2099-12-31 23:59:59");
-INSERT INTO `index_leader_skill_data` VALUES (/*id*/34, /*name*/"ドミナント・デュエット（ボイス＆ステップ）", /*skill_id*/136, /*disp_order*/34, /*start_date*/"2023-09-23 15:00:00", /*end_date*/"2099-12-31 23:59:59");
-INSERT INTO `index_leader_skill_data` VALUES (/*id*/35, /*name*/"ドミナント・デュエット（ステップ＆メイク）", /*skill_id*/146, /*disp_order*/35, /*start_date*/"2023-10-22 15:00:00", /*end_date*/"2099-12-31 23:59:59");
+INSERT INTO `index_leader_skill_data` VALUES (/*id*/34, /*name*/"ドミナント・デュエット（ボイス＆ステップ）", /*skill_id*/"130,133,136,139,142,145", /*disp_order*/34, /*start_date*/"2023-09-23 15:00:00", /*end_date*/"2099-12-31 23:59:59");
+INSERT INTO `index_leader_skill_data` VALUES (/*id*/35, /*name*/"ドミナント・デュエット（ステップ＆メイク）", /*skill_id*/"131,134,137,140,143,146", /*disp_order*/35, /*start_date*/"2023-10-22 15:00:00", /*end_date*/"2099-12-31 23:59:59");
+INSERT INTO `index_leader_skill_data` VALUES (/*id*/36, /*name*/"ドミナント・デュエット（メイク＆ボイス）", /*skill_id*/"132,135,138,141,144,147", /*disp_order*/36, /*start_date*/"2023-11-22 15:00:00", /*end_date*/"2099-12-31 23:59:59");
