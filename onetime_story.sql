@@ -90,4 +90,5 @@ INSERT INTO `onetime_story` VALUES (/*id*/93, /*name*/"エイプリルフール2
 INSERT INTO `onetime_story` VALUES (/*id*/94, /*name*/"エイプリルフール2023 ED", /*story_id*/6343, /*transition*/301, /*page_index*/0, /*start_date*/"2023-04-02 00:00:00", /*end_date*/"2023-04-11 14:59:59", /*play_order*/770, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/95, /*name*/"Live Before ～燿城夜祭 -かがやきよまつり- 編～", /*story_id*/6455, /*transition*/6, /*page_index*/0, /*start_date*/"2023-06-08 15:00:00", /*end_date*/"2023-06-10 15:59:59", /*play_order*/771, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/96, /*name*/"Live Before ～Shout out Live ! ! ! 編～", /*story_id*/6574, /*transition*/6, /*page_index*/0, /*start_date*/"2023-09-06 15:00:00", /*end_date*/"2023-09-09 15:59:59", /*play_order*/772, /*notice_type*/2);
+INSERT INTO `onetime_story` VALUES (/*id*/97, /*name*/"ちひろのお知らせ ～シンデレラガールズ12周年記念編～", /*story_id*/6694, /*transition*/6, /*page_index*/0, /*start_date*/"2023-11-28 00:00:00", /*end_date*/"2023-12-04 23:59:59", /*play_order*/773, /*notice_type*/2);
 CREATE INDEX 'onetime_story_0_story_id' on 'onetime_story'('story_id');
