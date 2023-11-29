@@ -541,4 +541,5 @@ INSERT INTO `story_category` VALUES (/*id*/570, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/571, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"HALLOWEEN GAME", /*sub_title*/"HALLOWEEN GAME", /*disp_order*/226, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/572, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"D-ark L-ily's Grin", /*sub_title*/"D-ark L-ily's Grin", /*disp_order*/227, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/573, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"この恋の解を答えなさい", /*sub_title*/"この恋の解を答えなさい", /*disp_order*/228, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/574, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Teeenage☆Groovin'", /*sub_title*/"Teeenage☆Groovin'", /*disp_order*/229, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/575, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"ちひろのお知らせ", /*sub_title*/"～シンデレラガールズ12周年記念編～", /*disp_order*/39, /*filter_type*/499);

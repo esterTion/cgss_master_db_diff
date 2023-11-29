@@ -19,3 +19,4 @@ INSERT INTO `brand_data` VALUES (/*id*/17, /*brand_name*/"765ショップ", /*br
 INSERT INTO `brand_data` VALUES (/*id*/18, /*brand_name*/"Re:Lucks", /*brand_text*/"Re:Lucks");
 INSERT INTO `brand_data` VALUES (/*id*/19, /*brand_name*/"Daily Happiness", /*brand_text*/"Daily Happiness");
 INSERT INTO `brand_data` VALUES (/*id*/20, /*brand_name*/"COSTUME LAB", /*brand_text*/"COSTUME LAB");
+INSERT INTO `brand_data` VALUES (/*id*/21, /*brand_name*/"Ailes", /*brand_text*/"Ailes");

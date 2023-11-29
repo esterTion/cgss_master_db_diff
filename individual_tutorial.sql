@@ -215,7 +215,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/"ルームアイテムの並べ替えを行うことができます。\n「追加順」、「必要面積順」など並べ替え条件を選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーは\n倉庫収納数から除外されます。\n収納していても、収納数にカウントされません。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"セレクトショップで販売している私服の衣装スタンド\n『衣装スタンド/ドリーミーリボンサロペット』\n『衣装スタンド/清純派きれいめフリルブラウス』を追加 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"セレクトショップで販売している私服の衣装スタンド\n『衣装スタンド/淑女の辛口ハイブラコーデ』\n『衣装スタンド/ゴシックワンピ・夜薔薇姫の誘い』を追加 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"「金木犀カフェ」をテーマにしたアイテムとコーデを追加 !\n金木犀と紅茶の香りが溶け合う秋色の喫茶店です !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
@@ -599,7 +599,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/2, /*discription*/"全国各地で公演を行い、LIVEツアーを盛り上げましょう。\n公演目標を達成してLIVEをクリアすると、\n新しい公演が解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/3, /*discription*/"公演の目標が達成できるように、楽曲やユニットを選びましょう。\n公演によって消費スタミナやLIVEを行う曲数が異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/4, /*discription*/"公演を行うと、観客動員数が増加します。\n対象のエリアの観客動員数が一定値に到達すると、\n新しいエリアが解放されます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/4, /*discription*/"エリア2に到達すると、イベント楽曲のMASTER+の\n難易度が選曲可能となります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/4, /*discription*/"エリア2、3に到達すると、イベント楽曲のMASTER+の\n難易度が選曲可能となります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/5, /*discription*/"日替わりで切り替わる「流行曲」を含めて公演を行ったり、\nマニーを使用して「LIVEオプション」を設定すると、\nエリアの観客動員数がさらにアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/5, /*discription*/"また観客動員数の多いエリアで公演を行うと、\n獲得できるファン数がアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/6, /*discription*/"イベント限定営業、「LIVE PARTY!!」では、\nイベントptやLIVEオプションを獲得できます。\nLIVEオプションを使用すると、LIVEで獲得できる\n観客動員数がアップします。");
