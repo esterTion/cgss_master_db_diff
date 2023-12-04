@@ -1928,5 +1928,11 @@ INSERT INTO `card_location` VALUES (/*index*/1942, /*text*/"プールサイド�
 INSERT INTO `card_location` VALUES (/*index*/1943, /*text*/"ふれあいカフェ");
 INSERT INTO `card_location` VALUES (/*index*/1944, /*text*/"あまかわクッキングルーム");
 INSERT INTO `card_location` VALUES (/*index*/1945, /*text*/"あまかわスウィートルーム");
+INSERT INTO `card_location` VALUES (/*index*/1946, /*text*/"新潟・カフェ");
+INSERT INTO `card_location` VALUES (/*index*/1947, /*text*/"雪の降る屋上");
+INSERT INTO `card_location` VALUES (/*index*/1948, /*text*/"ヤラナーイ伯爵邸");
+INSERT INTO `card_location` VALUES (/*index*/1949, /*text*/"クリスマスパーティー会場");
+INSERT INTO `card_location` VALUES (/*index*/1950, /*text*/"広場・クリスマスイベント");
+INSERT INTO `card_location` VALUES (/*index*/1951, /*text*/"観覧車");
 INSERT INTO `card_location` VALUES (/*index*/1952, /*text*/"思い出のテーマパーク");
 INSERT INTO `card_location` VALUES (/*index*/1953, /*text*/"配信ステージ");

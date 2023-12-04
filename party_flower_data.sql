@@ -74,3 +74,4 @@ INSERT INTO `party_flower_data` VALUES (/*id*/72, /*name*/"フラワースタン
 INSERT INTO `party_flower_data` VALUES (/*id*/73, /*name*/"フラワースタンド", /*consume_pt*/1, /*flower_type*/1, /*order_num*/1, /*party_term_id*/73);
 INSERT INTO `party_flower_data` VALUES (/*id*/74, /*name*/"フラワースタンド", /*consume_pt*/1, /*flower_type*/1, /*order_num*/1, /*party_term_id*/74);
 INSERT INTO `party_flower_data` VALUES (/*id*/75, /*name*/"フラワースタンド", /*consume_pt*/1, /*flower_type*/1, /*order_num*/1, /*party_term_id*/75);
+INSERT INTO `party_flower_data` VALUES (/*id*/76, /*name*/"フラワースタンド", /*consume_pt*/1, /*flower_type*/1, /*order_num*/1, /*party_term_id*/76);
