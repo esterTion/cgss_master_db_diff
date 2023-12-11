@@ -233,7 +233,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20105, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20106, /*img*/1, /*discription*/"ルーム3部屋目はマニーで購入することができます。\n「ルーム3」ボタンをタップすることで利用できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20107, /*img*/1, /*discription*/"ルームでLikeスタンプ設定を「ON」にすることで\nチャットスタンプでLikeができるようになります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20108, /*img*/1, /*discription*/"ぷちデレラのアニメーションにアイドルたちの専用ポーズを追加 !\nアイドルたちのいろいろなポーズを是非ご覧ください !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20201, /*img*/1, /*discription*/"全国各地で営業を行い、\nアイドルたちの魅力を全国に広めましょう。\n営業は最大3種類まで同時に行えます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20201, /*img*/1, /*discription*/"全国各地で営業を行い、\nアイドルたちの魅力を全国に広めましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20201, /*img*/2, /*discription*/"獲得できる報酬、必要時間、実行可能な回数などは\n営業ごとに異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20201, /*img*/2, /*discription*/"営業には、解放条件のない「通常営業」と\n特定の条件を満たすと解放される「スペシャル営業」\nがあります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20201, /*img*/3, /*discription*/"営業へ送り出すアイドルは1人から5人まで編成できます。\n営業中のアイドルは、他の営業では編成できません。");
@@ -260,6 +260,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20206, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20206, /*img*/2, /*discription*/"さらに、複数まとめて確認した営業は\nそのまま再出発することができます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20207, /*img*/1, /*discription*/"「まとめて確認」、「まとめて短縮」を行った場合は、\n再出発時も複数営業をまとめて短縮することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20207, /*img*/2, /*discription*/"営業ごとに消費するスタミナを選択できます !\n消費するスタミナは1単位で選択でき、\nスタミナ1あたり、15分短縮できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20208, /*img*/1, /*discription*/"同時に実行できる営業の数が増加しました !\n最大4種類まで同時にアイドルを営業へ送り出せますよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「シンデレラガールズ12周年記念\nマニー獲得キャンペーン」開催中 ! ! キャンペーン中は、\nたくさんのマニーが獲得できるスペシャル営業が\n1日1回行えます ! ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「プレミアムパス」や、「プロデュース方針」の\n『営業回数アップ』『営業獲得マニーアップ』で\nさらにマニーを獲得 ! \n詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21001, /*img*/1, /*discription*/"拘束のまゆからの攻撃を避けつつ、ハピネシウムを集めよう。\n集めたハピネシウムをラボに届けるとスコアをゲットできるよ ! \nラボにまとめて届けるとスコアがアップ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");

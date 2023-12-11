@@ -1936,3 +1936,7 @@ INSERT INTO `card_location` VALUES (/*index*/1950, /*text*/"広場・クリス�
 INSERT INTO `card_location` VALUES (/*index*/1951, /*text*/"観覧車");
 INSERT INTO `card_location` VALUES (/*index*/1952, /*text*/"思い出のテーマパーク");
 INSERT INTO `card_location` VALUES (/*index*/1953, /*text*/"配信ステージ");
+INSERT INTO `card_location` VALUES (/*index*/1954, /*text*/"ネクタイ売り場");
+INSERT INTO `card_location` VALUES (/*index*/1955, /*text*/"デパート・イベント会場");
+INSERT INTO `card_location` VALUES (/*index*/1956, /*text*/"手作りパーティーの会場");
+INSERT INTO `card_location` VALUES (/*index*/1957, /*text*/"冬待つショーウィンドウ");
