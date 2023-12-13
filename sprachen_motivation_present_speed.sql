@@ -1,1 +1,13 @@
 CREATE TABLE 'sprachen_motivation_present_speed' ('item_minimum' INTEGER NOT NULL, 'wait_time' INTEGER NOT NULL, 'move_speed_adjust' INTEGER NOT NULL, 'fillamount_value' INTEGER NOT NULL, 'use_item_count' INTEGER NOT NULL, PRIMARY KEY('item_minimum'));
+INSERT INTO `sprachen_motivation_present_speed` VALUES (/*item_minimum*/0, /*wait_time*/80, /*move_speed_adjust*/0, /*fillamount_value*/500, /*use_item_count*/1);
+INSERT INTO `sprachen_motivation_present_speed` VALUES (/*item_minimum*/6, /*wait_time*/40, /*move_speed_adjust*/20, /*fillamount_value*/600, /*use_item_count*/1);
+INSERT INTO `sprachen_motivation_present_speed` VALUES (/*item_minimum*/12, /*wait_time*/20, /*move_speed_adjust*/40, /*fillamount_value*/700, /*use_item_count*/1);
+INSERT INTO `sprachen_motivation_present_speed` VALUES (/*item_minimum*/18, /*wait_time*/10, /*move_speed_adjust*/60, /*fillamount_value*/800, /*use_item_count*/1);
+INSERT INTO `sprachen_motivation_present_speed` VALUES (/*item_minimum*/24, /*wait_time*/10, /*move_speed_adjust*/60, /*fillamount_value*/1600, /*use_item_count*/2);
+INSERT INTO `sprachen_motivation_present_speed` VALUES (/*item_minimum*/36, /*wait_time*/10, /*move_speed_adjust*/60, /*fillamount_value*/3200, /*use_item_count*/4);
+INSERT INTO `sprachen_motivation_present_speed` VALUES (/*item_minimum*/60, /*wait_time*/10, /*move_speed_adjust*/60, /*fillamount_value*/6400, /*use_item_count*/8);
+INSERT INTO `sprachen_motivation_present_speed` VALUES (/*item_minimum*/108, /*wait_time*/10, /*move_speed_adjust*/60, /*fillamount_value*/12800, /*use_item_count*/16);
+INSERT INTO `sprachen_motivation_present_speed` VALUES (/*item_minimum*/204, /*wait_time*/10, /*move_speed_adjust*/60, /*fillamount_value*/256000, /*use_item_count*/32);
+INSERT INTO `sprachen_motivation_present_speed` VALUES (/*item_minimum*/396, /*wait_time*/10, /*move_speed_adjust*/60, /*fillamount_value*/512000, /*use_item_count*/64);
+INSERT INTO `sprachen_motivation_present_speed` VALUES (/*item_minimum*/780, /*wait_time*/10, /*move_speed_adjust*/60, /*fillamount_value*/1024000, /*use_item_count*/128);
+INSERT INTO `sprachen_motivation_present_speed` VALUES (/*item_minimum*/1548, /*wait_time*/10, /*move_speed_adjust*/60, /*fillamount_value*/2048000, /*use_item_count*/256);

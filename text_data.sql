@@ -4214,6 +4214,11 @@ INSERT INTO `text_data` VALUES (/*category*/72, /*index*/37, /*text*/"デレス�
 INSERT INTO `text_data` VALUES (/*category*/72, /*index*/38, /*text*/"対象のアイドルがいません");
 INSERT INTO `text_data` VALUES (/*category*/72, /*index*/39, /*text*/"ブリッツェンに渡そう ! ");
 INSERT INTO `text_data` VALUES (/*category*/72, /*index*/40, /*text*/"アイドル\nを選択");
+INSERT INTO `text_data` VALUES (/*category*/72, /*index*/41, /*text*/"[FF7A7A]「やる気レベル・別腹」ではプレゼントを\n渡せるアイドルは増えません[-]");
+INSERT INTO `text_data` VALUES (/*category*/72, /*index*/42, /*text*/"にんじんを渡すコツ");
+INSERT INTO `text_data` VALUES (/*category*/72, /*index*/43, /*text*/"ボタン長押しで素早く\nやる気UPにんじんを\n渡せますよ ! ");
+INSERT INTO `text_data` VALUES (/*category*/72, /*index*/44, /*text*/"{0}");
+INSERT INTO `text_data` VALUES (/*category*/72, /*index*/45, /*text*/"別腹{0}");
 INSERT INTO `text_data` VALUES (/*category*/73, /*index*/1, /*text*/"[2d2d2d]RATE[-][D33D98]{0}[-][2d2d2d]以上[-]");
 INSERT INTO `text_data` VALUES (/*category*/73, /*index*/2, /*text*/"ぴにゃこら太と遊ぼう ! ");
 INSERT INTO `text_data` VALUES (/*category*/73, /*index*/3, /*text*/"～アイドルクイズ王決定戦～");
