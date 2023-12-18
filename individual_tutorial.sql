@@ -348,6 +348,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30021, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30022, /*img*/1, /*discription*/"LIVEに「最初から」機能を追加しました。\nポーズ中やLIVE失敗時に「最初から」ボタンを押す事で、\nプレイ中のLIVEを最初からやり直せます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30022, /*img*/1, /*discription*/"「最初から」を利用しても、\nLIVEの開始に必要なスタミナやアイテムは消費しません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30022, /*img*/2, /*discription*/"また、ポーズ中やLIVE失敗時にリタイアをした場合でも\nそのLIVEの開始に必要だったスタミナやアイテムを消費しなくなりました。\n※スタミナやアイテムはLIVEをクリアしたタイミングで消費します。\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30023, /*img*/1, /*discription*/"リザルト画面に「もう一度LIVE開始」機能を追加しました。\n直前のLIVEに参加したユニットとゲストアイドルで\n同じ楽曲のLIVEを再度行うことができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「Happy Christmas ! 今年もプロデュースお疲れ様でした\nスペシャルLIVEキャンペーン」開催中 ! !\n期間中にLIVEをクリアすると、\n期間限定のアイテムを獲得できます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「LIVE Carnival開催直前 ! 強化合宿限定\nスペシャルLIVEキャンペーン」開催中 ! !\n期間中にクリアしたLIVEでは、期間限定のアイテムと\n今まで出現した限定トレチケを獲得できます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/3, /*discription*/"「LIVE Carnival開催直前 ! 強化合宿限定\n特訓支援キャンペーン」開催中 ! ! 強化合宿キャンペーン中は、\nLIVE成功時のティアラと魔法のドレスのドロップ率が\nさらにアップします ! 詳細はお知らせよりご確認ください。");
