@@ -544,3 +544,4 @@ INSERT INTO `story_category` VALUES (/*id*/573, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/574, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Teeenage☆Groovin'", /*sub_title*/"Teeenage☆Groovin'", /*disp_order*/229, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/575, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"ちひろのお知らせ", /*sub_title*/"～シンデレラガールズ12周年記念編～", /*disp_order*/39, /*filter_type*/499);
 INSERT INTO `story_category` VALUES (/*id*/576, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"横山千佳 / 小室千奈美", /*sub_title*/"横山千佳 / 小室千奈美", /*disp_order*/230, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/577, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"WINTER and WINDOW", /*sub_title*/"WINTER and WINDOW", /*disp_order*/231, /*filter_type*/0);

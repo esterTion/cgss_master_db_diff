@@ -3708,7 +3708,7 @@ INSERT INTO `text_data` VALUES (/*category*/57, /*index*/116, /*text*/"購入結
 INSERT INTO `text_data` VALUES (/*category*/57, /*index*/117, /*text*/"お支払い方法に問題が発生しているなどの理由で\nプレミアムパスの購入状況が\n反映されていない場合がございます。\n\nご利用状況について調査したく存じますため、\nお手数ですがアプリ内\n「メニュ」＞「サポート」＞「お問い合わせ」\nよりご連絡ください。");
 INSERT INTO `text_data` VALUES (/*category*/57, /*index*/118, /*text*/"プレミアムパス引き継ぎ通知");
 INSERT INTO `text_data` VALUES (/*category*/57, /*index*/119, /*text*/"引き継ぎ前のOSにてプレミアムパスを\n購入されていた可能性がございます。\n\n異なるOS間での引き継ぎを行った場合、\n引き継ぎ前のOSでは自動で解約が行われません。\n\nお客様ご自身で引き継ぎ前のOSで\nプレミアムパスをご解約のうえ、\n引き継ぎ後の端末にて\nプレミアムパスをご購入ください。");
-INSERT INTO `text_data` VALUES (/*category*/57, /*index*/120, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/57, /*index*/120, /*text*/"通信中にエラーが発生し\n購入に失敗しました。\nエラーコード：{0}");
 INSERT INTO `text_data` VALUES (/*category*/58, /*index*/1, /*text*/"Twitter移動確認");
 INSERT INTO `text_data` VALUES (/*category*/58, /*index*/2, /*text*/"最新の誕生日イラストが公開されている\n「アイドルマスター シンデレラガールズ\nスターライトステージ」の\n公式Twitterアカウントに移動します。\n\nよろしいですか？");
 INSERT INTO `text_data` VALUES (/*category*/58, /*index*/3, /*text*/"デフォルト順");
