@@ -103,3 +103,4 @@ INSERT INTO `gallery_music_list` VALUES (/*id*/104, /*disp_order*/1004, /*live_i
 INSERT INTO `gallery_music_list` VALUES (/*id*/105, /*disp_order*/1005, /*live_id*/4, /*motion_id*/1004, /*fade_msec*/1000, /*cutt_name*/"Cutt_message", /*sound_offset*/1819);
 INSERT INTO `gallery_music_list` VALUES (/*id*/106, /*disp_order*/6001, /*live_id*/20, /*motion_id*/5002, /*fade_msec*/1000, /*cutt_name*/"Cutt_Present", /*sound_offset*/1316);
 INSERT INTO `gallery_music_list` VALUES (/*id*/107, /*disp_order*/6002, /*live_id*/25, /*motion_id*/5007, /*fade_msec*/1000, /*cutt_name*/"Cutt_Memories", /*sound_offset*/2460);
+INSERT INTO `gallery_music_list` VALUES (/*id*/108, /*disp_order*/6003, /*live_id*/24, /*motion_id*/5006, /*fade_msec*/1000, /*cutt_name*/"Cutt_Legne", /*sound_offset*/1800);

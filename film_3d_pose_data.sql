@@ -16,6 +16,7 @@ INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/201, /*motion_fade_msec*/1000
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/202, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/203, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1011, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
+INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1012, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1021, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1022, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1031, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
@@ -29,7 +30,9 @@ INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1062, /*motion_fade_msec*/100
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1071, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1072, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1081, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
+INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1082, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1091, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
+INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1092, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1101, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1102, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1111, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
@@ -79,6 +82,7 @@ INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1322, /*motion_fade_msec*/100
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1331, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1332, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1341, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
+INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1342, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1351, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1352, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1361, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
@@ -136,9 +140,11 @@ INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1652, /*motion_fade_msec*/100
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1661, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1662, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1671, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
+INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1672, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1681, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1682, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1691, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
+INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1692, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1701, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1702, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1711, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
@@ -156,6 +162,7 @@ INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1762, /*motion_fade_msec*/100
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1771, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1772, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1781, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
+INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1782, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1791, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1792, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/1801, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
@@ -259,6 +266,7 @@ INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/2322, /*motion_fade_msec*/100
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/2331, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/2332, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/2341, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
+INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/2342, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/2351, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/2352, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/2361, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
@@ -328,9 +336,11 @@ INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/2692, /*motion_fade_msec*/100
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/2701, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/2702, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/2711, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
+INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/2712, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/2721, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/2722, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/2731, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
+INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/2732, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/2741, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/2742, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/9000);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/2751, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);

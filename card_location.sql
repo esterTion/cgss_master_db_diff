@@ -1947,3 +1947,5 @@ INSERT INTO `card_location` VALUES (/*index*/1961, /*text*/"おでん屋台");
 INSERT INTO `card_location` VALUES (/*index*/1962, /*text*/"今日も平和なネオン街");
 INSERT INTO `card_location` VALUES (/*index*/1963, /*text*/"夕方の公園");
 INSERT INTO `card_location` VALUES (/*index*/1964, /*text*/"ログハウス・サンタの家");
+INSERT INTO `card_location` VALUES (/*index*/1965, /*text*/"ハワイの浜辺");
+INSERT INTO `card_location` VALUES (/*index*/1966, /*text*/"妖精郷の花ブランコ");
