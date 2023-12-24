@@ -154,4 +154,5 @@ INSERT INTO `login_bonus_data` VALUES (/*id*/9239, /*name*/"Trick or treat ! ハ
 INSERT INTO `login_bonus_data` VALUES (/*id*/9240, /*name*/"シンデレラガールズ12周年カウントダウンログインボーナス", /*type*/4, /*count_num*/21, /*rap*/1, /*img*/0, /*start_date*/"2023-11-07 00:00:00", /*end_date*/"2023-11-27 23:59:59");
 INSERT INTO `login_bonus_data` VALUES (/*id*/9241, /*name*/"シンデレラガールズ12周年記念ログインボーナス", /*type*/4, /*count_num*/14, /*rap*/1, /*img*/0, /*start_date*/"2023-11-28 00:00:00", /*end_date*/"2023-12-11 23:59:59");
 INSERT INTO `login_bonus_data` VALUES (/*id*/9242, /*name*/"シンデレラガールズ12周年記念あにぷち配布用ログインボーナス", /*type*/12, /*count_num*/365, /*rap*/1, /*img*/0, /*start_date*/"2023-11-28 00:00:00", /*end_date*/"2030-04-01 23:59:59");
+INSERT INTO `login_bonus_data` VALUES (/*id*/9243, /*name*/"「新春 ! プラチナチャンス」キャンペーン", /*type*/6, /*count_num*/20, /*rap*/1, /*img*/0, /*start_date*/"2023-12-26 00:00:00", /*end_date*/"2024-01-14 23:59:59");
 INSERT INTO `login_bonus_data` VALUES (/*id*/9244, /*name*/"Happy Christmas ! 今年もプロデュースお疲れ様でしたログインボーナス", /*type*/4, /*count_num*/14, /*rap*/1, /*img*/0, /*start_date*/"2023-12-18 00:00:00", /*end_date*/"2023-12-31 23:59:59");

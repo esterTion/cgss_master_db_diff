@@ -300,3 +300,4 @@ INSERT INTO `gift_message` VALUES (/*id*/20108, /*discription*/"「Shout out Liv
 INSERT INTO `gift_message` VALUES (/*id*/20109, /*discription*/"新機能「ロケ撮」追加記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20110, /*discription*/"「Next LIVE Invit@tion!」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20111, /*discription*/"「異次元フェス」開催記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20112, /*discription*/"「ゆくM@SくるM@S」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
