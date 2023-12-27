@@ -535,6 +535,7 @@ INSERT INTO `story_category` VALUES (/*id*/563, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/564, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ノートの中のテラリウム", /*sub_title*/"ノートの中のテラリウム", /*disp_order*/221, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/565, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"無限L∞PだLOVE♡", /*sub_title*/"無限L∞PだLOVE♡", /*disp_order*/222, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/566, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"Shout out Live ! ! ! 連動企画", /*sub_title*/"Shout out Live ! ! ! 連動企画", /*disp_order*/38, /*filter_type*/401);
+INSERT INTO `story_category` VALUES (/*id*/567, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"オールスターカウントダウンLIVE2023", /*sub_title*/"オールスターカウントダウンLIVE2023", /*disp_order*/39, /*filter_type*/403);
 INSERT INTO `story_category` VALUES (/*id*/568, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Hardcore Toyworld", /*sub_title*/"Hardcore Toyworld", /*disp_order*/223, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/569, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"パジャマジャマ", /*sub_title*/"パジャマジャマ", /*disp_order*/224, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/570, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"綾瀬穂乃香 / 杉坂海", /*sub_title*/"綾瀬穂乃香 / 杉坂海", /*disp_order*/225, /*filter_type*/0);
@@ -542,6 +543,5 @@ INSERT INTO `story_category` VALUES (/*id*/571, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/572, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"D-ark L-ily's Grin", /*sub_title*/"D-ark L-ily's Grin", /*disp_order*/227, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/573, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"この恋の解を答えなさい", /*sub_title*/"この恋の解を答えなさい", /*disp_order*/228, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/574, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Teeenage☆Groovin'", /*sub_title*/"Teeenage☆Groovin'", /*disp_order*/229, /*filter_type*/0);
-INSERT INTO `story_category` VALUES (/*id*/575, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"ちひろのお知らせ", /*sub_title*/"～シンデレラガールズ12周年記念編～", /*disp_order*/39, /*filter_type*/499);
 INSERT INTO `story_category` VALUES (/*id*/576, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"横山千佳 / 小室千奈美", /*sub_title*/"横山千佳 / 小室千奈美", /*disp_order*/230, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/577, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"WINTER and WINDOW", /*sub_title*/"WINTER and WINDOW", /*disp_order*/231, /*filter_type*/0);
