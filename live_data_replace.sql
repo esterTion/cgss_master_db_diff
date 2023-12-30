@@ -16,4 +16,5 @@ INSERT INTO `live_data_replace` VALUES (/*id*/14, /*live_data_id*/867, /*new_liv
 INSERT INTO `live_data_replace` VALUES (/*id*/15, /*live_data_id*/389, /*new_live_data_id*/10389, /*type*/1, /*value_1*/0, /*value_2*/0, /*value_3*/0);
 INSERT INTO `live_data_replace` VALUES (/*id*/16, /*live_data_id*/493, /*new_live_data_id*/916, /*type*/10, /*value_1*/0, /*value_2*/0, /*value_3*/0);
 INSERT INTO `live_data_replace` VALUES (/*id*/17, /*live_data_id*/493, /*new_live_data_id*/915, /*type*/11, /*value_1*/0, /*value_2*/0, /*value_3*/0);
+INSERT INTO `live_data_replace` VALUES (/*id*/18, /*live_data_id*/404, /*new_live_data_id*/404, /*type*/4, /*value_1*/42, /*value_2*/12, /*value_3*/7);
 CREATE INDEX 'live_data_replace_0_live_data_id' on 'live_data_replace'('live_data_id');
