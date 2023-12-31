@@ -5,3 +5,4 @@ INSERT INTO `gacha_priority` VALUES (/*id*/30942, /*id_type*/1, /*priority*/95);
 INSERT INTO `gacha_priority` VALUES (/*id*/60298, /*id_type*/1, /*priority*/90);
 INSERT INTO `gacha_priority` VALUES (/*id*/60299, /*id_type*/1, /*priority*/90);
 INSERT INTO `gacha_priority` VALUES (/*id*/60300, /*id_type*/1, /*priority*/90);
+INSERT INTO `gacha_priority` VALUES (/*id*/108, /*id_type*/2, /*priority*/1);
