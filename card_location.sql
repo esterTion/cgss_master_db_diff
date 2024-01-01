@@ -1951,3 +1951,6 @@ INSERT INTO `card_location` VALUES (/*index*/1965, /*text*/"ハワイの浜辺")
 INSERT INTO `card_location` VALUES (/*index*/1966, /*text*/"妖精郷の花ブランコ");
 INSERT INTO `card_location` VALUES (/*index*/1967, /*text*/"冬の朝の河川敷");
 INSERT INTO `card_location` VALUES (/*index*/1968, /*text*/"輝きの聖堂");
+INSERT INTO `card_location` VALUES (/*index*/1969, /*text*/"福アイドルレース");
+INSERT INTO `card_location` VALUES (/*index*/1970, /*text*/"輝くLIVEステージ");
+INSERT INTO `card_location` VALUES (/*index*/1971, /*text*/"煌めくLIVEステージ");
