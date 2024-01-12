@@ -74,6 +74,7 @@ INSERT INTO `grimm_index_msc` VALUES (/*id*/109, /*data_1*/411, /*data_2*/3077);
 INSERT INTO `grimm_index_msc` VALUES (/*id*/110, /*data_1*/412, /*data_2*/9913);
 INSERT INTO `grimm_index_msc` VALUES (/*id*/111, /*data_1*/413, /*data_2*/3078);
 INSERT INTO `grimm_index_msc` VALUES (/*id*/112, /*data_1*/541, /*data_2*/9912);
+INSERT INTO `grimm_index_msc` VALUES (/*id*/113, /*data_1*/542, /*data_2*/9914);
 INSERT INTO `grimm_index_msc` VALUES (/*id*/1001, /*data_1*/215, /*data_2*/1009);
 INSERT INTO `grimm_index_msc` VALUES (/*id*/1002, /*data_1*/218, /*data_2*/1010);
 INSERT INTO `grimm_index_msc` VALUES (/*id*/1003, /*data_1*/220, /*data_2*/1011);

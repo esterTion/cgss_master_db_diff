@@ -466,4 +466,5 @@ INSERT INTO `music_info` VALUES (/*id*/9910, /*discription*/"佐々木千枝（C
 INSERT INTO `music_info` VALUES (/*id*/9911, /*discription*/"龍崎薫（CV：春瀬なつみ）\n\n\n作詞：高瀬愛虹\n作曲・編曲：渡部チェル", /*android_url*/"https://columbia.jp/sl-stage/haishin/COKM-43529.html", /*ios_url*/"https://columbia.jp/sl-stage/haishin/COKM-43529.html");
 INSERT INTO `music_info` VALUES (/*id*/9912, /*discription*/"的場梨沙（CV：集貝はな）\n\n\n作詞・作曲：出口遼\n編曲：出口遼、飯田涼太", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/9913, /*discription*/"結城晴（CV：小市眞琴）\n\n\n作詞：ミズノゲンキ\n作曲・編曲：睦月周平", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/9914, /*discription*/"古賀小春（CV：小森結梨）\n\n\n作詞：朝倉路\n作曲・編曲：渡部チェル", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/90001, /*discription*/"？", /*android_url*/"", /*ios_url*/"");
