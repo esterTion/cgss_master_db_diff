@@ -30,3 +30,4 @@ INSERT INTO `index_skill_condition` VALUES (/*id*/28, /*name*/"15秒毎\n高確�
 INSERT INTO `index_skill_condition` VALUES (/*id*/29, /*name*/"17秒毎\n中確率", /*condition*/17, /*probability_type*/3, /*disp_order*/173, /*start_date*/"2021-04-19 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `index_skill_condition` VALUES (/*id*/30, /*name*/"18秒毎\n中確率", /*condition*/18, /*probability_type*/3, /*disp_order*/183, /*start_date*/"2021-04-19 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `index_skill_condition` VALUES (/*id*/31, /*name*/"6秒毎\n高確率", /*condition*/6, /*probability_type*/4, /*disp_order*/64, /*start_date*/"2023-02-04 15:00:00", /*end_date*/"2099-12-31 23:59:59");
+INSERT INTO `index_skill_condition` VALUES (/*id*/32, /*name*/"LIVE\n開始", /*condition*/0, /*probability_type*/6, /*disp_order*/196, /*start_date*/"2024-01-14 15:00:00", /*end_date*/"2099-12-31 23:59:59");

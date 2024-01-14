@@ -8,7 +8,7 @@ INSERT INTO `index_leader_skill_data` VALUES (/*id*/6, /*name*/"特技アップ"
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/7, /*name*/"トリコロー\nル", /*skill_id*/"70,71,72,73,82,83,84,128,5082,5083,5084", /*disp_order*/7, /*start_date*/"2010-01-01 00:00:00", /*end_date*/"2019-02-26 14:59:59");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/8, /*name*/"プリンセス", /*skill_id*/"74,75,76,86,87,88,5086,5087,5088", /*disp_order*/8, /*start_date*/"2010-01-01 00:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/9, /*name*/"チアー", /*skill_id*/"77,78,79", /*disp_order*/9, /*start_date*/"2010-01-01 00:00:00", /*end_date*/"2099-12-31 23:59:59");
-INSERT INTO `index_leader_skill_data` VALUES (/*id*/10, /*name*/"プレゼント", /*skill_id*/"80,85", /*disp_order*/14, /*start_date*/"2010-01-01 00:00:00", /*end_date*/"2099-12-31 23:59:59");
+INSERT INTO `index_leader_skill_data` VALUES (/*id*/10, /*name*/"プレゼント", /*skill_id*/"80,85,148", /*disp_order*/14, /*start_date*/"2010-01-01 00:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/11, /*name*/"シンデレラ\nチャーム", /*skill_id*/"81,115,5115", /*disp_order*/15, /*start_date*/"2010-01-01 00:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/12, /*name*/"トリコロール\nボイス", /*skill_id*/"70,82,5082", /*disp_order*/10, /*start_date*/"2019-02-26 15:00:00", /*end_date*/"2099-12-31 23:59:59");
 INSERT INTO `index_leader_skill_data` VALUES (/*id*/13, /*name*/"トリコロール\nステップ", /*skill_id*/"71,83,5083", /*disp_order*/11, /*start_date*/"2019-02-26 15:00:00", /*end_date*/"2099-12-31 23:59:59");

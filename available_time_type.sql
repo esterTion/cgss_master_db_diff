@@ -4,3 +4,4 @@ INSERT INTO `available_time_type` VALUES (/*available_time_type*/2, /*available_
 INSERT INTO `available_time_type` VALUES (/*available_time_type*/3, /*available_time_min*/400, /*available_time_max*/600, /*explain*/"少しの間");
 INSERT INTO `available_time_type` VALUES (/*available_time_type*/4, /*available_time_min*/500, /*available_time_max*/750, /*explain*/"しばらくの間");
 INSERT INTO `available_time_type` VALUES (/*available_time_type*/5, /*available_time_min*/600, /*available_time_max*/900, /*explain*/"かなりの間");
+INSERT INTO `available_time_type` VALUES (/*available_time_type*/6, /*available_time_min*/600000, /*available_time_max*/600000, /*explain*/"常時");
