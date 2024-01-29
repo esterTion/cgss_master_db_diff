@@ -241,6 +241,7 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200192, /*name*/"HALLOWE
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200193, /*name*/"D-ark L-ily's Grin（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/43);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200194, /*name*/"この恋の解を答えなさい（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/44);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200195, /*name*/"Teeenage☆Groovin'（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/45);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200196, /*name*/"WINTER and WINDOW（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/46);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/300001, /*name*/"#01 動き出す物語", /*album_id*/11, /*jacket_id*/300001, /*sort*/1);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/300002, /*name*/"#02 想いを声にのせて", /*album_id*/11, /*jacket_id*/300001, /*sort*/2);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/300003, /*name*/"#03 思い出はカラフルに", /*album_id*/11, /*jacket_id*/300001, /*sort*/3);
