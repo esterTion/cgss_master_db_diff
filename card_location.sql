@@ -1967,3 +1967,9 @@ INSERT INTO `card_location` VALUES (/*index*/1981, /*text*/"会議室の手作�
 INSERT INTO `card_location` VALUES (/*index*/1982, /*text*/"舞台上");
 INSERT INTO `card_location` VALUES (/*index*/1983, /*text*/"ペンキ投げ会場");
 INSERT INTO `card_location` VALUES (/*index*/1984, /*text*/"穏やかな日差しのロッジ");
+INSERT INTO `card_location` VALUES (/*index*/1985, /*text*/"星空の帰り道");
+INSERT INTO `card_location` VALUES (/*index*/1986, /*text*/"銀河のメモリー");
+INSERT INTO `card_location` VALUES (/*index*/1987, /*text*/"とある館の廊下");
+INSERT INTO `card_location` VALUES (/*index*/1988, /*text*/"真夜中の子ども部屋");
+INSERT INTO `card_location` VALUES (/*index*/1989, /*text*/"不思議な旅の途中");
+INSERT INTO `card_location` VALUES (/*index*/1990, /*text*/"物語が眠る書斎");
