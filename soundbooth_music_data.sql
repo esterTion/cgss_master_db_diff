@@ -46,6 +46,18 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100044, /*name*/"はし�
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100045, /*name*/"はじけ ! うさぎロボ !", /*album_id*/8, /*jacket_id*/100001, /*sort*/45);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100046, /*name*/"LIVE Carnival", /*album_id*/8, /*jacket_id*/100001, /*sort*/46);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100047, /*name*/"ゲームセンター", /*album_id*/8, /*jacket_id*/100001, /*sort*/47);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100048, /*name*/"4周年カウントダウン", /*album_id*/8, /*jacket_id*/100001, /*sort*/48);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100049, /*name*/"ゲームセンター ～2020エイプリルフール", /*album_id*/8, /*jacket_id*/100001, /*sort*/49);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100050, /*name*/"Cinderella Versus", /*album_id*/8, /*jacket_id*/100001, /*sort*/50);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100051, /*name*/"5周年カウントダウン", /*album_id*/8, /*jacket_id*/100001, /*sort*/51);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100052, /*name*/"クイズ de シンデレラ ～OP", /*album_id*/8, /*jacket_id*/100001, /*sort*/52);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100053, /*name*/"クイズ de シンデレラ", /*album_id*/8, /*jacket_id*/100001, /*sort*/53);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100054, /*name*/"クイズ de シンデレラ ～シンキングタイム", /*album_id*/8, /*jacket_id*/100001, /*sort*/54);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100055, /*name*/"6周年カウントダウン", /*album_id*/8, /*jacket_id*/100001, /*sort*/55);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100056, /*name*/"ゆるっとふわっと　シンデレラ×フォト", /*album_id*/8, /*jacket_id*/100001, /*sort*/56);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100057, /*name*/"7周年カウントダウン", /*album_id*/8, /*jacket_id*/100001, /*sort*/57);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100058, /*name*/"あにぷちガシャ", /*album_id*/8, /*jacket_id*/100001, /*sort*/58);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100059, /*name*/"8周年カウントダウン", /*album_id*/8, /*jacket_id*/100001, /*sort*/59);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200001, /*name*/"アタシポンコツアンドロイド（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/1);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200002, /*name*/"Nation Blue（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/2);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200003, /*name*/"Orange Sapphire（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/3);
@@ -242,6 +254,7 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200193, /*name*/"D-ark L
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200194, /*name*/"この恋の解を答えなさい（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/44);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200195, /*name*/"Teeenage☆Groovin'（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/45);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200196, /*name*/"WINTER and WINDOW（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/46);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200197, /*name*/"Come to you（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/47);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/300001, /*name*/"#01 動き出す物語", /*album_id*/11, /*jacket_id*/300001, /*sort*/1);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/300002, /*name*/"#02 想いを声にのせて", /*album_id*/11, /*jacket_id*/300001, /*sort*/2);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/300003, /*name*/"#03 思い出はカラフルに", /*album_id*/11, /*jacket_id*/300001, /*sort*/3);
