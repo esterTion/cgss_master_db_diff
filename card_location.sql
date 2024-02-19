@@ -1978,3 +1978,9 @@ INSERT INTO `card_location` VALUES (/*index*/1992, /*text*/"素敵なデート�
 INSERT INTO `card_location` VALUES (/*index*/1993, /*text*/"あなたを待つ夕暮れ");
 INSERT INTO `card_location` VALUES (/*index*/1994, /*text*/"未央ちゃん’s Café");
 INSERT INTO `card_location` VALUES (/*index*/1995, /*text*/"フルーツパーラー");
+INSERT INTO `card_location` VALUES (/*index*/1996, /*text*/"製菓コーナー");
+INSERT INTO `card_location` VALUES (/*index*/1997, /*text*/"放課後の教室");
+INSERT INTO `card_location` VALUES (/*index*/1998, /*text*/"相原家のキッチン");
+INSERT INTO `card_location` VALUES (/*index*/1999, /*text*/"ティーポットの中");
+INSERT INTO `card_location` VALUES (/*index*/2000, /*text*/"サッチー王子の登校風景");
+INSERT INTO `card_location` VALUES (/*index*/2001, /*text*/"愛のエントランス");
