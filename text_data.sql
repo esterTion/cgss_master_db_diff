@@ -569,6 +569,9 @@ INSERT INTO `text_data` VALUES (/*category*/11, /*index*/109, /*text*/"クリア
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/110, /*text*/"{0}メダルを消費して\n以下のアイテムを交換しますか？");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/111, /*text*/"[2D2D2D]{0}枚[-]");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/112, /*text*/"[D33D98]{0}[-][2D2D2D]枚[-]");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/120, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/121, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/122, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/1, /*text*/"出現率");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/2, /*text*/"{0}のレア度別提供割合");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/3, /*text*/"{0}の提供アイドル一覧");
@@ -791,6 +794,12 @@ INSERT INTO `text_data` VALUES (/*category*/12, /*index*/267, /*text*/"プレミ
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/268, /*text*/"無料ガシャ特典");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/269, /*text*/"■ドミナントガシャ限定アイドル");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/270, /*text*/"■SfCアイドル");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/271, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/272, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/273, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/274, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/275, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/276, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/300, /*text*/"開始");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/1, /*text*/"エクストラコミュ解放");
 INSERT INTO `text_data` VALUES (/*category*/13, /*index*/2, /*text*/"新たなエクストラコミュが解放されました");
@@ -1121,6 +1130,12 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/267, /*text*/"優先す
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/268, /*text*/"期間限定");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/269, /*text*/"[FF7A7A]期間限定のチケットから消費されます[-]");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/270, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/271, /*text*/"COMBO表示の透明度を設定できます。");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/272, /*text*/"透明度低");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/273, /*text*/"透明度高");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/274, /*text*/"LIVE中に流れてくるリズムアイコンのデザインを選択できます。");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/275, /*text*/"※TYPE1、2は楽曲タイプに応じて色が変化します。");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/276, /*text*/"※TYPE1は楽曲タイプに応じて色が変化します。");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/1, /*text*/"月間獲得ファン数ランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/2, /*text*/"今期のランキング");
 INSERT INTO `text_data` VALUES (/*category*/15, /*index*/3, /*text*/"前期のランキング");
@@ -3543,6 +3558,7 @@ INSERT INTO `text_data` VALUES (/*category*/53, /*index*/6, /*text*/"プレゼ�
 INSERT INTO `text_data` VALUES (/*category*/53, /*index*/7, /*text*/"ミッションをクリアしました。");
 INSERT INTO `text_data` VALUES (/*category*/53, /*index*/8, /*text*/"プラチナチャンスミッションをクリアしました。");
 INSERT INTO `text_data` VALUES (/*category*/53, /*index*/9, /*text*/"結果発表時に配布されます");
+INSERT INTO `text_data` VALUES (/*category*/53, /*index*/10, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/54, /*index*/1, /*text*/"ログインボーナス獲得エラー");
 INSERT INTO `text_data` VALUES (/*category*/54, /*index*/2, /*text*/"正常にログインボーナスが\n受け取れませんでした。\nタイトル画面に戻ります。");
 INSERT INTO `text_data` VALUES (/*category*/54, /*index*/3, /*text*/"プレゼント付与");
@@ -5623,6 +5639,7 @@ INSERT INTO `text_data` VALUES (/*category*/96, /*index*/16, /*text*/"オール�
 INSERT INTO `text_data` VALUES (/*category*/96, /*index*/17, /*text*/"オールスターカウントダウンLIVEの\nボーナス対象楽曲が全タイプ楽曲に変更されました。\nそのまま続けますか？");
 INSERT INTO `text_data` VALUES (/*category*/96, /*index*/18, /*text*/"オールスターカウントダウンLIVEの\nボーナス対象楽曲が全楽曲に変更されました。\nそのまま続けますか？");
 INSERT INTO `text_data` VALUES (/*category*/96, /*index*/19, /*text*/"続ける");
+INSERT INTO `text_data` VALUES (/*category*/96, /*index*/20, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/97, /*index*/1, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/97, /*index*/2, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/97, /*index*/3, /*text*/"");

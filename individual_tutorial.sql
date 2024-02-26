@@ -351,6 +351,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30022, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30022, /*img*/1, /*discription*/"「最初から」を利用しても、\nLIVEの開始に必要なスタミナやアイテムは消費しません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30022, /*img*/2, /*discription*/"また、ポーズ中やLIVE失敗時にリタイアをした場合でも\nそのLIVEの開始に必要だったスタミナやアイテムを消費しなくなりました。\n※スタミナやアイテムはLIVEをクリアしたタイミングで消費します。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30023, /*img*/1, /*discription*/"LIVE結果画面に「もう一度LIVE開始」機能を追加しました。\n直前のLIVEに参加したユニットとゲストアイドルで\n同じ楽曲のLIVEを再度行うことができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30024, /*img*/1, /*discription*/"LIVE設定「COMBO表示」をリニューアルしました。\nユニット確認画面、右上の「LIVE設定」ポップアップの\n「表示」タブから設定変更できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30024, /*img*/2, /*discription*/"従来の表示サイズ「通常」「小さい」の2種に加えて、\n新たに「スリム」が選択できるようになりました。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30024, /*img*/3, /*discription*/"また、COMBO表示の透明度が設定できるようになりました。\nCOMBO表示を透過させることができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30024, /*img*/3, /*discription*/"設定した内容は、プレビューで確認できます。\nお好みの設定を組み合わせて、\n快適なLIVEを楽しみましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
