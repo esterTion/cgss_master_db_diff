@@ -181,6 +181,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/11108, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/11108, /*img*/1, /*discription*/"今回は、「スターレッスントレーナーチケット」と\n「プレミアムフィルム」を獲得できます。\n※有償スタージュエルでのみ購入することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11108, /*img*/2, /*discription*/"「スカウトチケット」はアイドルをスカウトできるチケット\nです。スカウトできるアイドルは、「対象アイドル」ボタン\nからご確認ください。※スカウトチケットの種類によって\nスカウトできるアイドルは異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11108, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で登場します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11112, /*img*/1, /*discription*/"スペシャルガシャセットは期間限定販売です。\n一部の期間限定アイドルもスカウトできる\nチケット2種と");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11112, /*img*/1, /*discription*/"プラチナ10連ガシャチケットなどの\nアイテム2種がセットに含まれます !\n※有償スタージュエルでのみ購入することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11112, /*img*/2, /*discription*/"「スカウトチケット」はアイドルをスカウトできるアイテム\nです。スカウトできるアイドルは、「対象アイドル」ボタン\nからご確認ください。※スカウトチケットの種類によって\nスカウトできるアイドルは異なります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11112, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で登場します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/12003, /*img*/1, /*discription*/"「CM記念 ! ハッピーウサイヤーガシャ」を引くと、\n『ウサシャイン』が獲得できます。\n※『ウサシャイン』は提供期間が決まっています。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/12003, /*img*/2, /*discription*/"期間中に『ウサシャイン』を必要数獲得すると、\n対象のアイドルを1人スカウトすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/12003, /*img*/3, /*discription*/"提供期間を過ぎた『ウサシャイン』は、\n『スターピース』に自動で変換されます。\n『スターピース』は、アイテムと交換することができます。");
@@ -220,7 +224,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーは\n倉庫収納数から除外されます。\n収納していても、収納数にカウントされません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"「ジャズバー」をテーマにしたアイテムとコーデを追加 !\n大人な雰囲気の漂うジャズバーで心休まるひとときを…♪");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"セレクトショップで販売している私服の衣装スタンド\n『衣装スタンド/一緒に過ごす休日パンツスタイル』\n『衣装スタンド/麗しのツイードワンピース』を追加 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"セレクトショップで販売している私服の衣装スタンド\n『衣装スタンド/がんばろ ! フィットネスウェア』\n『衣装スタンド/自分史上最高ワンピ』を追加 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -355,6 +359,17 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30024, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30024, /*img*/2, /*discription*/"従来の表示サイズ「通常」「小さい」の2種に加えて、\n新たに「スリム」が選択できるようになりました。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30024, /*img*/3, /*discription*/"また、COMBO表示の透明度が設定できるようになりました。\nCOMBO表示を透過させることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30024, /*img*/3, /*discription*/"設定した内容は、プレビューで確認できます。\nお好みの設定を組み合わせて、\n快適なLIVEを楽しみましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30031, /*img*/1, /*discription*/"「MVビューイング」では、\nたくさんのプロデューサーとステージに集まり、\n一緒にMVを視聴できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30031, /*img*/2, /*discription*/"MVビューイングには複数のステージがあります。\n参加者がいないステージは「ホスト」となって開催でき、\n開催されているステージは「ゲスト」として参加できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30031, /*img*/2, /*discription*/"参加したステージがMVを視聴中だった場合、\nMVは途中から再生されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30031, /*img*/3, /*discription*/"ステージのホストは、次に視聴するMVの楽曲や\n登場するアイドル、衣装を選択できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30031, /*img*/3, /*discription*/"また、「推薦を受け付ける」を選択すると\nゲストが推薦した楽曲やアイドルから抽選で選ばれます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30031, /*img*/4, /*discription*/"ゲストはアイドルや楽曲をそれぞれ1つ推薦できます。\n前回の推薦で人気だったアイドルや楽曲は\nランキングとして確認ができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30031, /*img*/5, /*discription*/"ステージの参加者とはチャットスタンプで\nコミュニケーションがとれます。\n使用するスタンプは「MVビューイング」内の\n「チャット設定」で設定できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30032, /*img*/1, /*discription*/"チャット設定では、ステージ内や\nMV再生中に使用するスタンプの設定が行えます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30032, /*img*/1, /*discription*/"まず「セット中スタンプ」の中から、変更したいスタンプを選択し、\n次にスタンプの一覧から、設定したいスタンプを選択しましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30032, /*img*/2, /*discription*/"スタンプの設定が済んだら、最後に「保存」ボタンを押しましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30032, /*img*/2, /*discription*/"スタンプの設定を初期状態に戻したい場合は、\n「初期設定」ボタンを押しましょう。\nおすすめのスタンプ設定が適用されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
@@ -609,7 +624,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/2, /*discription*/"全国各地で公演を行い、LIVEツアーを盛り上げましょう。\n公演目標を達成してLIVEをクリアすると、\n新しい公演が解放されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/3, /*discription*/"公演の目標が達成できるように、楽曲やユニットを選びましょう。\n公演によって消費スタミナやLIVEを行う曲数が異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/4, /*discription*/"公演を行うと、観客動員数が増加します。\n対象のエリアの観客動員数が一定値に到達すると、\n新しいエリアが解放されます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/4, /*discription*/"エリア2、3に到達すると、イベント楽曲のMASTER+の\n難易度が選曲可能となります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/4, /*discription*/"エリア2に到達すると、イベント楽曲のMASTER+の\n難易度が選曲可能となります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/5, /*discription*/"日替わりで切り替わる「流行曲」を含めて公演を行ったり、\nマニーを使用して「LIVEオプション」を設定すると、\nエリアの観客動員数がさらにアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/5, /*discription*/"また観客動員数の多いエリアで公演を行うと、\n獲得できるファン数がアップします。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80601, /*img*/6, /*discription*/"イベント限定営業、「LIVE PARTY!!」では、\nイベントptやLIVEオプションを獲得できます。\nLIVEオプションを使用すると、LIVEで獲得できる\n観客動員数がアップします。");

@@ -1984,3 +1984,7 @@ INSERT INTO `card_location` VALUES (/*index*/1998, /*text*/"相原家のキッ�
 INSERT INTO `card_location` VALUES (/*index*/1999, /*text*/"ティーポットの中");
 INSERT INTO `card_location` VALUES (/*index*/2000, /*text*/"サッチー王子の登校風景");
 INSERT INTO `card_location` VALUES (/*index*/2001, /*text*/"愛のエントランス");
+INSERT INTO `card_location` VALUES (/*index*/2002, /*text*/"月が輝く神殿");
+INSERT INTO `card_location` VALUES (/*index*/2003, /*text*/"夕暮れの遊園地");
+INSERT INTO `card_location` VALUES (/*index*/2004, /*text*/"星を臨む夜のグラウンド");
+INSERT INTO `card_location` VALUES (/*index*/2005, /*text*/"星を臨む学校の屋上");
