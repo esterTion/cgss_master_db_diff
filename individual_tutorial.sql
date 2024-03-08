@@ -1050,9 +1050,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90616, /*img*/7, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90616, /*img*/7, /*discription*/"※本選の投票終了時間と応援セットの\n販売終了時間は異なります。ご注意ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90701, /*img*/1, /*discription*/"ハッピーバレンタインキャンペーン開催 !\n2/14～2/29に特設ページにアクセスすると、\n5名のアイドルから特製チョコをプレゼント !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90701, /*img*/2, /*discription*/"特製チョコは、2月14日0:00時点のリーダーアイドルから\n必ず1個もらうことができます。\nその他の4個のチョコがどのアイドルからもらえるか\n当日まで楽しみにお待ちください !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90702, /*img*/1, /*discription*/"ハッピーホワイトデーキャンペーン開催 !\n3/14～3/31に特設ページにアクセスして、\n3名のアイドルへプレゼントを贈りましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90702, /*img*/1, /*discription*/"ハッピーホワイトデーキャンペーン開催 !\n3/14～3/31に特設ページにアクセスして、\n5名のアイドルへプレゼントを贈りましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90702, /*img*/2, /*discription*/"特設ページ右上にある『用意したプレゼント』ボタンを\nタップすると、アイドルに渡せるプレゼントを\n選ぶことができます。\n※3/14以降にアクセスした場合もプレゼントは選択可能です。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90702, /*img*/3, /*discription*/"用意したプレゼントは3/14 00:00以降にアイドルへ\n渡すことができます。あなたが選んだプレゼントを\nアイドルに渡して感謝の気持ちを伝えましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90702, /*img*/3, /*discription*/"用意したプレゼントは3月14日0:00以降にアイドルへ\n渡すことができます。あなたが選んだプレゼントを\nアイドルに渡して感謝の気持ちを伝えましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90703, /*img*/1, /*discription*/"ハッピークリスマスキャンペーン開催 !\n特設ページにいるブリッツェンのやる気を上げて\nアイドルにクリスマスプレゼントを渡しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90703, /*img*/2, /*discription*/"集めた「やる気UPにんじん」を特設ページにいるブリッツェンに\n渡すとやる気ゲージが溜まります ! やる気ゲージが満タンになると\nやる気レベルが上がり、報酬を獲得することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90703, /*img*/3, /*discription*/"「やる気UPにんじん」は初めて特設ページに入った際に獲得でき、\nキャンペーン期間中の12/13～12/24の間にLIVEをプレイするか\n1日1回限定のスペシャル営業のプレイでも獲得できます !");
