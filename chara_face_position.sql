@@ -1036,6 +1036,7 @@ INSERT INTO `chara_face_position` VALUES (/*chara_id*/234, /*pose*/91, /*positio
 INSERT INTO `chara_face_position` VALUES (/*chara_id*/235, /*pose*/28, /*position_x*/42, /*position_y*/320);
 INSERT INTO `chara_face_position` VALUES (/*chara_id*/703, /*pose*/0, /*position_x*/64, /*position_y*/390);
 INSERT INTO `chara_face_position` VALUES (/*chara_id*/46, /*pose*/0, /*position_x*/0, /*position_y*/394);
+INSERT INTO `chara_face_position` VALUES (/*chara_id*/315, /*pose*/0, /*position_x*/-7, /*position_y*/337);
 INSERT INTO `chara_face_position` VALUES (/*chara_id*/134, /*pose*/95, /*position_x*/1, /*position_y*/296);
 INSERT INTO `chara_face_position` VALUES (/*chara_id*/157, /*pose*/97, /*position_x*/18, /*position_y*/311);
 INSERT INTO `chara_face_position` VALUES (/*chara_id*/191, /*pose*/95, /*position_x*/-33, /*position_y*/308);
@@ -1046,3 +1047,4 @@ INSERT INTO `chara_face_position` VALUES (/*chara_id*/103, /*pose*/93, /*positio
 INSERT INTO `chara_face_position` VALUES (/*chara_id*/174, /*pose*/94, /*position_x*/-22, /*position_y*/314);
 INSERT INTO `chara_face_position` VALUES (/*chara_id*/178, /*pose*/94, /*position_x*/9, /*position_y*/322);
 INSERT INTO `chara_face_position` VALUES (/*chara_id*/224, /*pose*/97, /*position_x*/11, /*position_y*/324);
+INSERT INTO `chara_face_position` VALUES (/*chara_id*/315, /*pose*/1, /*position_x*/-7, /*position_y*/337);

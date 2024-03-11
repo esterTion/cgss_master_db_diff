@@ -19,4 +19,15 @@ INSERT INTO `concert_live_exclude` VALUES (/*id*/17, /*room_type*/2, /*live_id*/
 INSERT INTO `concert_live_exclude` VALUES (/*id*/18, /*room_type*/2, /*live_id*/867);
 INSERT INTO `concert_live_exclude` VALUES (/*id*/19, /*room_type*/2, /*live_id*/880);
 INSERT INTO `concert_live_exclude` VALUES (/*id*/20, /*room_type*/2, /*live_id*/10389);
+INSERT INTO `concert_live_exclude` VALUES (/*id*/21, /*room_type*/2, /*live_id*/435);
+INSERT INTO `concert_live_exclude` VALUES (/*id*/22, /*room_type*/2, /*live_id*/405);
+INSERT INTO `concert_live_exclude` VALUES (/*id*/23, /*room_type*/2, /*live_id*/404);
+INSERT INTO `concert_live_exclude` VALUES (/*id*/24, /*room_type*/2, /*live_id*/419);
+INSERT INTO `concert_live_exclude` VALUES (/*id*/25, /*room_type*/2, /*live_id*/448);
+INSERT INTO `concert_live_exclude` VALUES (/*id*/26, /*room_type*/2, /*live_id*/455);
+INSERT INTO `concert_live_exclude` VALUES (/*id*/27, /*room_type*/2, /*live_id*/463);
+INSERT INTO `concert_live_exclude` VALUES (/*id*/28, /*room_type*/2, /*live_id*/467);
+INSERT INTO `concert_live_exclude` VALUES (/*id*/29, /*room_type*/2, /*live_id*/1301);
+INSERT INTO `concert_live_exclude` VALUES (/*id*/30, /*room_type*/2, /*live_id*/1303);
+INSERT INTO `concert_live_exclude` VALUES (/*id*/31, /*room_type*/2, /*live_id*/429);
 CREATE INDEX 'concert_live_exclude_0_room_type' on 'concert_live_exclude'('room_type');

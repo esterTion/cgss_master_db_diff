@@ -552,3 +552,5 @@ INSERT INTO `story_category` VALUES (/*id*/581, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/582, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ワタシ御伽ばなシ", /*sub_title*/"ワタシ御伽ばなシ", /*disp_order*/234, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/583, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"小松伊吹 / 相原雪乃", /*sub_title*/"小松伊吹 / 相原雪乃", /*disp_order*/235, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/584, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"スバル", /*sub_title*/"スバル", /*disp_order*/236, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/585, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"星街すいせいコラボ", /*sub_title*/"星街すいせいコラボ", /*disp_order*/41, /*filter_type*/402);
+INSERT INTO `story_category` VALUES (/*id*/586, /*type*/2, /*chara_type*/2, /*chara_id*/315, /*title*/"星街すいせい", /*sub_title*/"", /*disp_order*/210, /*filter_type*/0);

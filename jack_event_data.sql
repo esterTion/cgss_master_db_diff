@@ -1,0 +1,1 @@
+CREATE TABLE 'jack_event_data' ('id' INTEGER NOT NULL, 'event_start' TEXT NOT NULL, 'event_end' TEXT NOT NULL, 'calc_start' TEXT NOT NULL, 'calc_end' TEXT NOT NULL, 'result_start' TEXT NOT NULL, 'result_end' TEXT NOT NULL, PRIMARY KEY('id'));

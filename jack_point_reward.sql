@@ -1,0 +1,1 @@
+CREATE TABLE 'jack_point_reward' ('id' INTEGER NOT NULL, 'need_point' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_value' INTEGER NOT NULL, 'reward_text' TEXT NOT NULL, PRIMARY KEY('id'));
