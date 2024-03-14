@@ -191,3 +191,4 @@ INSERT INTO `story_leadercommu_data` VALUES (/*chara_id*/309, /*backgroundex_id*
 INSERT INTO `story_leadercommu_data` VALUES (/*chara_id*/310, /*backgroundex_id*/5800111, /*bg_id*/3031);
 INSERT INTO `story_leadercommu_data` VALUES (/*chara_id*/313, /*backgroundex_id*/5800111, /*bg_id*/3383);
 INSERT INTO `story_leadercommu_data` VALUES (/*chara_id*/314, /*backgroundex_id*/5800111, /*bg_id*/3383);
+INSERT INTO `story_leadercommu_data` VALUES (/*chara_id*/315, /*backgroundex_id*/5800111, /*bg_id*/6235);
