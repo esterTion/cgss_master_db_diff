@@ -1076,8 +1076,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90902, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90903, /*img*/1, /*discription*/"コラボ期間中にログインすると\nホロライブ所属アイドル「星街すいせい（レア）」が加入 !\nホームのプレゼントから受け取ってくださいね !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90903, /*img*/1, /*discription*/"ユニットに編成してMVを再生すると、3DでLIVEパフォーマンス !\nいろいろな楽曲で楽しんでくださいね !\n※一部の楽曲でのMV登場に制限があります\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90903, /*img*/1, /*discription*/"「星街すいせい（レア）」は、コラボ期間中\n「ローカルオーディションガシャ」からも登場 !\n「ローカルオーディションガシャ」は1日1回\n無料で引くことができますよ !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"星街すいせいさんによる、デレステコラボ配信が決定 !\nみんなでデレステを一緒に楽しむ配信を予定しています !\n\n");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"「Suisei Channel」にて3月11日19:00より配信予定 !\nぜひご覧ください !\n※時期は予告なく変更になる場合がございます\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"星街すいせいさんによる、デレステコラボ配信を実施しました !\n「Suisei Channel」にてアーカイブが公開されているので、\nぜひご覧ください !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90905, /*img*/1, /*discription*/"木村夏樹が歌う「ソワレ」がデレステに登場 !\nぜひプレイしてみてくださいね !\n※ LIVE演出は2D標準・2D軽量のみとなります\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90905, /*img*/1, /*discription*/"カバー曲は今後も追加予定です !\n続報をお楽しみに !\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90906, /*img*/1, /*discription*/"コラボルームアイテムが期間限定で販売中 !\nホロライブ所属アイドル「星街すいせい」のぬいぐるみや、\n衣装がルームアイテムになって登場です !\n");
