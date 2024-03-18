@@ -1077,7 +1077,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90903, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90903, /*img*/1, /*discription*/"ユニットに編成してMVを再生すると、3DでLIVEパフォーマンス !\nいろいろな楽曲で楽しんでくださいね !\n※一部の楽曲でのMV登場に制限があります\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90903, /*img*/1, /*discription*/"「星街すいせい（レア）」は、コラボ期間中\n「ローカルオーディションガシャ」からも登場 !\n「ローカルオーディションガシャ」は1日1回\n無料で引くことができますよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"星街すいせいさんによる、デレステコラボ配信を実施しました !\n「Suisei Channel」にてアーカイブが公開されているので、\nぜひご覧ください !\n");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90905, /*img*/1, /*discription*/"木村夏樹が歌う「ソワレ」がデレステに登場 !\nぜひプレイしてみてくださいね !\n※ LIVE演出は2D標準・2D軽量のみとなります\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90905, /*img*/1, /*discription*/"黒埼ちとせが歌う「みちづれ」がデレステに登場 !\nぜひプレイしてみてくださいね !\n※ LIVE演出は2D標準・2D軽量のみとなります\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90905, /*img*/1, /*discription*/"カバー曲は今後も追加予定です !\n続報をお楽しみに !\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90906, /*img*/1, /*discription*/"コラボルームアイテムが期間限定で販売中 !\nホロライブ所属アイドル「星街すいせい」のぬいぐるみや、\n衣装がルームアイテムになって登場です !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90907, /*img*/1, /*discription*/"SSレア「星街すいせい」などが入手できるコラボガシャを開催予定です !\nミッションやログインボーナスを達成して、\nコラボガシャチケットを入手しましょう !\n");
@@ -1085,6 +1085,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90907, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90908, /*img*/1, /*discription*/"コラボ期間中にログインすると、ホロライブ所属アイドル\n「星街すいせい」のあにぷちをプレゼント !\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90908, /*img*/2, /*discription*/"コラボあにぷちは全2種類 !\n「あにぷち設定」から設定をして\nロード画面を彩りましょう !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90909, /*img*/1, /*discription*/"エクストラコミュに新たなコミュ\n「星街すいせいからのお知らせ」を追加いたしました !\nコラボ限定の特別なコミュをぜひご覧ください !\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90910, /*img*/1, /*discription*/"コラボデザインのリズムアイコン・SEが登場 !\n「LIVE設定」から設定をして、\nLIVEをもっと楽しんじゃいましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91001, /*img*/1, /*discription*/"新機能「ロケ撮」を追加しました !\nロケ撮は、アイドルを様々なロケーションで\n3D撮影できる機能です !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91001, /*img*/1, /*discription*/"ロケーション内の様々な場所に立ってもらい、\nポーズをオーダーすることもできます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91002, /*img*/1, /*discription*/"「プラチナオーディションガシャ\n1日1回10連無料キャンペーン」を開催中 !");

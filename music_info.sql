@@ -402,6 +402,7 @@ INSERT INTO `music_info` VALUES (/*id*/8092, /*discription*/"可愛くてごめ�
 INSERT INTO `music_info` VALUES (/*id*/8093, /*discription*/"ちゅ、多様性。\n\n宮本フレデリカ（CV：髙野麻美）\n\n\n作詞：あの / 真部脩一\n作曲：真部脩一", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8094, /*discription*/"青春コンプレックス\n\n星輝子（CV：松田颯水）\n\n\n作詞：樋口愛\n作曲：音羽-otoha-", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8096, /*discription*/"ソワレ\n\n木村夏樹（CV：安野希世乃）\n\n\n作詞：ナナホシ管弦楽団\n作曲：岩見陸", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/8097, /*discription*/"みちづれ\n\n黒埼ちとせ（CV：佐倉薫）\n\n\n作詞・作曲：Ayase", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/9001, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n双葉杏（CV：五十嵐裕美）\n諸星きらり（CV：松嵜麗）\n\n\n作詞：marhy\n作曲・編曲：BNSI（内田哲也）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/9002, /*discription*/"島村卯月（CV：大橋彩香）\n渋谷凛（CV：福原綾香）\n本田未央（CV：原紗友里）\n大槻唯（CV：山下七海）\n上条春菜（CV：長島光那）\n\n\n作詞：俊龍\n作曲：俊龍\n編曲：Sizuk", /*android_url*/"http://columbia.jp/sl-stage/haishin/COCC-17141.html", /*ios_url*/"http://columbia.jp/sl-stage/haishin/COCC-17141.html");
 INSERT INTO `music_info` VALUES (/*id*/9003, /*discription*/"速水奏（CV：飯田友子）\n塩見周子（CV：ルゥ ティン）\n城ヶ崎美嘉（CV：佳村はるか）\n宮本フレデリカ（CV：髙野麻美）\n一ノ瀬志希（CV：藍原ことみ）\n\n\n作詞：森由⾥⼦\n作曲・編曲：石濱翔（MONACA）", /*android_url*/"http://columbia.jp/sl-stage/haishin/COCC-17142.html", /*ios_url*/"http://columbia.jp/sl-stage/haishin/COCC-17142.html");
