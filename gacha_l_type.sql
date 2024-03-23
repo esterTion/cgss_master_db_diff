@@ -2,3 +2,4 @@ CREATE TABLE 'gacha_l_type' ('type_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, P
 INSERT INTO `gacha_l_type` VALUES (/*type_id*/1, /*name*/"スターシャイン");
 INSERT INTO `gacha_l_type` VALUES (/*type_id*/2, /*name*/"ルナシャイン");
 INSERT INTO `gacha_l_type` VALUES (/*type_id*/3, /*name*/"ウサシャイン");
+INSERT INTO `gacha_l_type` VALUES (/*type_id*/4, /*name*/"すいシャイン");

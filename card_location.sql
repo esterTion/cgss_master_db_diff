@@ -1993,3 +1993,7 @@ INSERT INTO `card_location` VALUES (/*index*/2007, /*text*/"お出かけ前の�
 INSERT INTO `card_location` VALUES (/*index*/2008, /*text*/"ティーパーティー");
 INSERT INTO `card_location` VALUES (/*index*/2009, /*text*/"花芽吹く庭園");
 INSERT INTO `card_location` VALUES (/*index*/2010, /*text*/"甘い夢のスイーツパーティー");
+INSERT INTO `card_location` VALUES (/*index*/2011, /*text*/"星空が見える窓辺");
+INSERT INTO `card_location` VALUES (/*index*/2012, /*text*/"星光と街の舞踏会");
+INSERT INTO `card_location` VALUES (/*index*/2013, /*text*/"LIVE前日のステージ");
+INSERT INTO `card_location` VALUES (/*index*/2014, /*text*/"事務所・配信部屋");
