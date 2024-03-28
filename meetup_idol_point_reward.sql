@@ -1,0 +1,2 @@
+CREATE TABLE 'meetup_idol_point_reward' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'meetup_chara_id' INTEGER NOT NULL, 'need_point' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_value' INTEGER NOT NULL, 'add_value_1' INTEGER NOT NULL, 'add_value_2' INTEGER NOT NULL, 'add_value_3' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE INDEX 'meetup_idol_point_reward_0_event_id_1_meetup_chara_id' on 'meetup_idol_point_reward'('event_id','meetup_chara_id');

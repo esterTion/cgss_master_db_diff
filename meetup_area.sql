@@ -1,0 +1,2 @@
+CREATE TABLE 'meetup_area' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'name' TEXT NOT NULL, 'short_name' TEXT NOT NULL, 'meetup_chara_id' INTEGER NOT NULL, 'rap_id' INTEGER NOT NULL, 'loop_flag' INTEGER NOT NULL, 'stamina' INTEGER NOT NULL, 'get_progress' INTEGER NOT NULL, 'bg_id' INTEGER NOT NULL, 'get_money' INTEGER NOT NULL, 'get_exp' INTEGER NOT NULL, 'get_fan' INTEGER NOT NULL, 'bgm_name' TEXT NOT NULL, PRIMARY KEY('id'));
+CREATE INDEX 'meetup_area_0_event_id_1_meetup_chara_id' on 'meetup_area'('event_id','meetup_chara_id');

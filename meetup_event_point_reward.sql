@@ -1,0 +1,3 @@
+CREATE TABLE 'meetup_event_point_reward' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'need_point' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_value' INTEGER NOT NULL, 'add_value_1' INTEGER NOT NULL, 'add_value_2' INTEGER NOT NULL, 'add_value_3' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `meetup_event_point_reward` VALUES (/*id*/1, /*event_id*/0, /*need_point*/0, /*reward_type*/0, /*reward_id*/0, /*reward_value*/0, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+CREATE INDEX 'meetup_event_point_reward_0_event_id' on 'meetup_event_point_reward'('event_id');

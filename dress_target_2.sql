@@ -150,3 +150,4 @@ INSERT INTO `dress_target_2` VALUES (/*id*/8023000, /*target_chara_type*/0, /*ta
 INSERT INTO `dress_target_2` VALUES (/*id*/8024000, /*target_chara_type*/7, /*target_chara*/0);
 INSERT INTO `dress_target_2` VALUES (/*id*/8025000, /*target_chara_type*/7, /*target_chara*/0);
 INSERT INTO `dress_target_2` VALUES (/*id*/8026000, /*target_chara_type*/0, /*target_chara*/"287,102,104,105,112,114,115,118,121,122,124,125,132,134,136,148,150,151,154,157,160,162,163,166,180,188,205,214,216,221,222,226,229,230,235,237,243,250,256,260,262,268,270,283,286,289,293,295,296,298,308");
+INSERT INTO `dress_target_2` VALUES (/*id*/8027000, /*target_chara_type*/0, /*target_chara*/"167,182,187,211,219,165,177,185,186,203,212,244,259,288,297,131,147,158,197,220,227,290,300,307,139,168,169,171,181,183,195,200,210,241,245,265,280,189,196,213,228,231,261,164,253,271");

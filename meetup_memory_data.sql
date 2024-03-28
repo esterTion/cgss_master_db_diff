@@ -1,0 +1,2 @@
+CREATE TABLE 'meetup_memory_data' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'memory_group_id' INTEGER NOT NULL, 'chara_id' INTEGER NOT NULL, 'title' TEXT NOT NULL, 'sub_title' TEXT NOT NULL, 'bg_id' INTEGER NOT NULL, 'bgm_name' TEXT NOT NULL, 'pose_id' INTEGER NOT NULL, 'face_id' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
+CREATE INDEX 'meetup_memory_data_0_event_id_1_chara_id' on 'meetup_memory_data'('event_id','chara_id');

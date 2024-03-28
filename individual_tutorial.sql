@@ -227,7 +227,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーは\n倉庫収納数から除外されます。\n収納していても、収納数にカウントされません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"コラボルームアイテムが期間限定で販売中 !\nホロライブ所属アイドル「星街すいせい」のぬいぐるみや、\n衣装がルームアイテムになって登場です !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"セレクトショップで販売している私服の衣装スタンド\n『衣装スタンド/がんばろ ! フィットネスウェア』\n『衣装スタンド/自分史上最高ワンピ』を追加 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"セレクトショップで販売している私服の衣装スタンド\n『衣装スタンド/なかよしチャイルドスモック』\n『衣装スタンド/ひらひら金魚のミニ浴衣』を追加 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -1074,14 +1074,13 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90801, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90801, /*img*/2, /*discription*/"衣装の詳細は本特設ページの「i」ボタンで開く\n衣装詳細から確認できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90901, /*img*/1, /*discription*/"ホロライブ所属アイドル「星街すいせい」を\nデレステでプロデュース !\n3月11日より「星街すいせい×デレステ」のコラボを開催 !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90901, /*img*/2, /*discription*/"コラボ開催を記念して、特別なキャンペーンを実施中 !\nガシャチケットの配布など、盛りだくさんの内容です !\n詳細はお知らせをご覧ください !\n");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90901, /*img*/2, /*discription*/"コラボ情報は今後も更新予定 !\n続報をお楽しみに !\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90902, /*img*/1, /*discription*/"コラボ特設サイトをオープンしました !\nスタージュエルがもらえるキャンペーンなどは\n「特設サイトへ」からチェック !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90903, /*img*/1, /*discription*/"コラボ期間中にログインすると\nホロライブ所属アイドル「星街すいせい（レア）」が加入 !\nホームのプレゼントから受け取ってくださいね !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90903, /*img*/1, /*discription*/"ユニットに編成してMVを再生すると、3DでLIVEパフォーマンス !\nいろいろな楽曲で楽しんでくださいね !\n※一部の楽曲でのMV登場に制限があります\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90903, /*img*/1, /*discription*/"「星街すいせい（レア）」は、コラボ期間中\n「ローカルオーディションガシャ」からも登場 !\n「ローカルオーディションガシャ」は1日1回\n無料で引くことができますよ !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"星街すいせいさんによる、2回目のデレステコラボ配信が決定 !\n「Suisei Channel」にて3月26日 20:00より配信予定 !\nぜひご覧ください !\n※時期は予告なく変更になる場合がございます");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90905, /*img*/1, /*discription*/"黒埼ちとせが歌う「みちづれ」がデレステに登場 !\nぜひプレイしてみてくださいね !\n※ LIVE演出は2D標準・2D軽量のみとなります\n");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90905, /*img*/1, /*discription*/"カバー曲は今後も追加予定です !\n続報をお楽しみに !\n\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"星街すいせいさんによる、2回目のデレステコラボ配信を実施しました !\n「Suisei Channel」にてアーカイブが公開されているので、\nぜひご覧ください !\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90905, /*img*/1, /*discription*/"星輝子が歌う「灼熱にて純情(wii-wii-woo)」がデレステに登場 !\nぜひプレイしてみてくださいね !\n※ LIVE演出は2D標準・2D軽量のみとなります\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90905, /*img*/1, /*discription*/"さらに ! 星街すいせいと渋谷凛が歌う「Stellar Stellar」が\n4月4日 15:00に追加予定 ! 配信開始をお楽しみに !\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90906, /*img*/1, /*discription*/"コラボルームアイテムが期間限定で販売中 !\nホロライブ所属アイドル「星街すいせい」のぬいぐるみや、\n衣装がルームアイテムになって登場です !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90907, /*img*/1, /*discription*/"「祝祭に吹く風 きらめく彗星 コラボガシャ」が開催中です !\nコラボガシャでは、楽曲「ジュビリー」の衣装をまとったSSレア「星街すいせい」\n「高垣楓」が期間限定で登場しますよ !\n※コラボガシャの詳細はお知らせをご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90907, /*img*/1, /*discription*/"コラボガシャチケットはログインボーナスやコラボミッション、\nイベント報酬などで入手できます !\n条件を達成して、コラボガシャチケットを\n入手しましょう !");
