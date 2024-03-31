@@ -547,6 +547,7 @@ INSERT INTO `story_category` VALUES (/*id*/574, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/576, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"横山千佳 / 小室千奈美", /*sub_title*/"横山千佳 / 小室千奈美", /*disp_order*/230, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/577, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"WINTER and WINDOW", /*sub_title*/"WINTER and WINDOW", /*disp_order*/231, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/578, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Come to you", /*sub_title*/"Come to you", /*disp_order*/232, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/579, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"ぴにゃこら大脱走 ! ", /*sub_title*/"ぴにゃこら大脱走 ! ", /*disp_order*/238, /*filter_type*/404);
 INSERT INTO `story_category` VALUES (/*id*/580, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"ConnecTrip ! 連動企画", /*sub_title*/"ConnecTrip ! 連動企画", /*disp_order*/40, /*filter_type*/401);
 INSERT INTO `story_category` VALUES (/*id*/581, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"西川保奈美 / 矢口美羽", /*sub_title*/"西川保奈美 / 矢口美羽", /*disp_order*/233, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/582, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ワタシ御伽ばなシ", /*sub_title*/"ワタシ御伽ばなシ", /*disp_order*/234, /*filter_type*/0);

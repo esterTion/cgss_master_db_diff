@@ -11,3 +11,4 @@ INSERT INTO `garden_action_package` VALUES (/*action_id*/12, /*package_id*/9);
 INSERT INTO `garden_action_package` VALUES (/*action_id*/13, /*package_id*/10);
 INSERT INTO `garden_action_package` VALUES (/*action_id*/14, /*package_id*/11);
 INSERT INTO `garden_action_package` VALUES (/*action_id*/15, /*package_id*/12);
+INSERT INTO `garden_action_package` VALUES (/*action_id*/16, /*package_id*/13);
