@@ -1094,7 +1094,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90908, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90908, /*img*/2, /*discription*/"コラボあにぷちは全2種類 !\n「あにぷち設定」から設定をして\nロード画面を彩りましょう !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90909, /*img*/1, /*discription*/"エクストラコミュに新たなコミュ\n「星街すいせいからのお知らせ」を追加いたしました !\nコラボ限定の特別なコミュをぜひご覧ください !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90910, /*img*/1, /*discription*/"コラボデザインのリズムアイコン・SEが登場 !\n「LIVE設定」から設定をして、\nLIVEをもっと楽しんじゃいましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90911, /*img*/1, /*discription*/"3月23日 15:00より、期間限定イベント「ジュビリー」を開催中です !\n「イベントptランキング報酬」、「達成pt報酬」、\n「ハイスコアランキング報酬」で、イベント限定の\nSレアアイドルやルームアイテムを手にいれましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90911, /*img*/1, /*discription*/"期間限定イベント「ジュビリー」は4月2日 20:59に終了します。\n「イベントptランキング報酬」、「達成pt報酬」、\n「ハイスコアランキング報酬」で、イベント限定の\nSレアアイドルやルームアイテムを手にいれましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90912, /*img*/1, /*discription*/"期間限定イベントは終了いたしました。\n現在集計中です。\n\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90913, /*img*/1, /*discription*/"期間限定イベントは終了いたしました。\n現在結果発表中です。\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91001, /*img*/1, /*discription*/"新機能「ロケ撮」を追加しました !\nロケ撮は、アイドルを様々なロケーションで\n3D撮影できる機能です !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91001, /*img*/1, /*discription*/"ロケーション内の様々な場所に立ってもらい、\nポーズをオーダーすることもできます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91002, /*img*/1, /*discription*/"「プラチナオーディションガシャ\n1日1回10連無料キャンペーン」を開催中 !");
