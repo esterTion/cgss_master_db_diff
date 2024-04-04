@@ -1999,3 +1999,11 @@ INSERT INTO `card_location` VALUES (/*index*/2013, /*text*/"LIVE前日のステ�
 INSERT INTO `card_location` VALUES (/*index*/2014, /*text*/"事務所・配信部屋");
 INSERT INTO `card_location` VALUES (/*index*/2015, /*text*/"古都の境内");
 INSERT INTO `card_location` VALUES (/*index*/2016, /*text*/"爛漫の桜の枝");
+INSERT INTO `card_location` VALUES (/*index*/2017, /*text*/"教室風撮影セット");
+INSERT INTO `card_location` VALUES (/*index*/2018, /*text*/"能力者たちが集う学園");
+INSERT INTO `card_location` VALUES (/*index*/2019, /*text*/"都内のカフェ");
+INSERT INTO `card_location` VALUES (/*index*/2020, /*text*/"校舎裏");
+INSERT INTO `card_location` VALUES (/*index*/2021, /*text*/"宿の露天風呂");
+INSERT INTO `card_location` VALUES (/*index*/2022, /*text*/"城址公園・特設LIVEステージ");
+INSERT INTO `card_location` VALUES (/*index*/2023, /*text*/"スイートルーム");
+INSERT INTO `card_location` VALUES (/*index*/2024, /*text*/"5人で歩むステージ");

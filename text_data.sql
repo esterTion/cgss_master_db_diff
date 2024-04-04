@@ -206,8 +206,8 @@ INSERT INTO `text_data` VALUES (/*category*/7, /*index*/57, /*text*/"所持ホ�
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/58, /*text*/"[FF7A7A]イベント曲はスタミナを消費せずに\nプレイする事ができます。[-]");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/59, /*text*/"ホシヨミキサー不足");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/60, /*text*/"{0}倍");
-INSERT INTO `text_data` VALUES (/*category*/7, /*index*/61, /*text*/"[FF7A7A]ホシヨミキサーの消費数が多いほど\n　イベントPtもより多く獲得できます。[-]");
-INSERT INTO `text_data` VALUES (/*category*/7, /*index*/62, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/7, /*index*/61, /*text*/"[FF7A7A]ホシヨミキサーの消費数が多いほど[-]");
+INSERT INTO `text_data` VALUES (/*category*/7, /*index*/62, /*text*/"[FF7A7A]イベントPtもより多く獲得できます。[-]");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/63, /*text*/"[D33D98]{0}[-]個");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/64, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/65, /*text*/"<color=#2D2D2DFF>{0}</color>");
@@ -222,7 +222,7 @@ INSERT INTO `text_data` VALUES (/*category*/7, /*index*/73, /*text*/"イベン�
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/74, /*text*/"イベント終了後に先行プレイできます");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/75, /*text*/"[FFFFFF]{0}\n先行プレイ権[-]");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/76, /*text*/"<color=#2D2D2DFF>{0}\n先行プレイ権</color>");
-INSERT INTO `text_data` VALUES (/*category*/7, /*index*/77, /*text*/"[FF7A7A]スタミナの消費量が多いほど\n　　　　ホシヨミキサーが多く獲得できます。[-]");
+INSERT INTO `text_data` VALUES (/*category*/7, /*index*/77, /*text*/"[FF7A7A]スタミナの消費量が多いほど");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/78, /*text*/"[FF7A7A]ホシヨミキサーが多く獲得できます。");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/79, /*text*/"{0:F1}倍");
 INSERT INTO `text_data` VALUES (/*category*/7, /*index*/80, /*text*/"{0}[E13939](-{1})[-]");

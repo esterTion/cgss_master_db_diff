@@ -556,3 +556,4 @@ INSERT INTO `story_category` VALUES (/*id*/584, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/585, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"星街すいせいコラボ", /*sub_title*/"星街すいせいコラボ", /*disp_order*/41, /*filter_type*/402);
 INSERT INTO `story_category` VALUES (/*id*/586, /*type*/2, /*chara_type*/2, /*chara_id*/315, /*title*/"星街すいせい", /*sub_title*/"", /*disp_order*/210, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/587, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ジュビリー", /*sub_title*/"ジュビリー", /*disp_order*/237, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/588, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"首藤葵 / 高橋礼子", /*sub_title*/"首藤葵 / 高橋礼子", /*disp_order*/238, /*filter_type*/0);

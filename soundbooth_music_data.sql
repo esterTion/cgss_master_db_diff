@@ -256,6 +256,7 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200195, /*name*/"Teeenag
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200196, /*name*/"WINTER and WINDOW（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/46);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200197, /*name*/"Come to you（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/47);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200198, /*name*/"ワタシ御伽ばなシ（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/48);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200199, /*name*/"スバル（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/49);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/300001, /*name*/"#01 動き出す物語", /*album_id*/11, /*jacket_id*/300001, /*sort*/1);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/300002, /*name*/"#02 想いを声にのせて", /*album_id*/11, /*jacket_id*/300001, /*sort*/2);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/300003, /*name*/"#03 思い出はカラフルに", /*album_id*/11, /*jacket_id*/300001, /*sort*/3);

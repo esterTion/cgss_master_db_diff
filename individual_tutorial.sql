@@ -1085,8 +1085,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90903, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90903, /*img*/1, /*discription*/"ユニットに編成してMVを再生すると、3DでLIVEパフォーマンス !\nいろいろな楽曲で楽しんでくださいね !\n※一部の楽曲でのMV登場に制限があります\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90903, /*img*/1, /*discription*/"「星街すいせい（レア）」は、コラボ期間中\n「ローカルオーディションガシャ」からも登場 !\n「ローカルオーディションガシャ」は1日1回\n無料で引くことができますよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90904, /*img*/1, /*discription*/"星街すいせいさんによる、2回目のデレステコラボ配信を実施しました !\n「Suisei Channel」にてアーカイブが公開されているので、\nぜひご覧ください !\n");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90905, /*img*/1, /*discription*/"星輝子が歌う「灼熱にて純情(wii-wii-woo)」がデレステに登場 !\nぜひプレイしてみてくださいね !\n※ LIVE演出は2D標準・2D軽量のみとなります\n");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90905, /*img*/1, /*discription*/"さらに ! 星街すいせいと渋谷凛が歌う「Stellar Stellar」が\n4月4日 15:00に追加予定 ! 配信開始をお楽しみに !\n\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90905, /*img*/1, /*discription*/"星街すいせいと渋谷凛が歌う「Stellar Stellar」がついに登場 !\nぜひプレイしてみてくださいね !\n※ LIVE演出は2D標準・2D軽量のみとなります\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90906, /*img*/1, /*discription*/"コラボルームアイテムが期間限定で販売中 !\nホロライブ所属アイドル「星街すいせい」のぬいぐるみや、\n衣装がルームアイテムになって登場です !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90907, /*img*/1, /*discription*/"「祝祭に吹く風 きらめく彗星 コラボガシャ」が開催中です !\nコラボガシャでは、楽曲「ジュビリー」の衣装をまとったSSレア「星街すいせい」\n「高垣楓」が期間限定で登場しますよ !\n※コラボガシャの詳細はお知らせをご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90907, /*img*/1, /*discription*/"コラボガシャチケットはログインボーナスやコラボミッション、\nイベント報酬などで入手できます !\n条件を達成して、コラボガシャチケットを\n入手しましょう !");
