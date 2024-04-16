@@ -5904,6 +5904,8 @@ INSERT INTO `text_data` VALUES (/*category*/9999, /*index*/2, /*text*/"期間外
 INSERT INTO `text_data` VALUES (/*category*/9999, /*index*/3, /*text*/"閉じる");
 INSERT INTO `text_data` VALUES (/*category*/9999, /*index*/4, /*text*/"キャンセル");
 INSERT INTO `text_data` VALUES (/*category*/9999, /*index*/5, /*text*/"決定");
+INSERT INTO `text_data` VALUES (/*category*/9999, /*index*/6, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/9999, /*index*/7, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/1, /*text*/"利用規約とプライバシーポリシーに\n同意してから本サービスをご利用ください。\n\nまた、18歳未満の方は、\n法定代理人（ご両親等）の同意が必要です。\n\n※ないようがわからないときは\nおうちのひとにがめんをみせてください。");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/2, /*text*/"利用規約");
 INSERT INTO `text_data` VALUES (/*category*/10002, /*index*/3, /*text*/"同意しない");
