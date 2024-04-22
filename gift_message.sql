@@ -91,6 +91,7 @@ INSERT INTO `gift_message` VALUES (/*id*/107, /*discription*/"MVメイカーで�
 INSERT INTO `gift_message` VALUES (/*id*/108, /*discription*/"アイテム所持数が上限に達しているため、プレゼントに送られました。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/109, /*discription*/"「ぴにゃ博士からのミッションキャンペーン」で獲得した報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/111, /*discription*/"ぴにゃこら大脱走 ! ～ゲーミングぴにゃこら太を捕獲せよ～で獲得したアイテムです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/112, /*discription*/"「{0}」を変換して獲得したアイテムです。", /*type_1*/29, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1001, /*discription*/"イベント「{0}」{1}イベントpt達成報酬です。", /*type_1*/19, /*type_2*/20, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1002, /*discription*/"イベント「{0}」ポイントランキング{1}位～{2}位で獲得した報酬です。", /*type_1*/19, /*type_2*/21, /*type_3*/22, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1003, /*discription*/"イベント「{0}」ハイスコアランキング{1}位～{2}位で獲得した報酬です。", /*type_1*/19, /*type_2*/23, /*type_3*/24, /*type_4*/0);
@@ -135,7 +136,18 @@ INSERT INTO `gift_message` VALUES (/*id*/1041, /*discription*/"イベント「{0
 INSERT INTO `gift_message` VALUES (/*id*/1042, /*discription*/"イベント「{0}」フロア課題クリアで加入したアイドルです。", /*type_1*/19, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1043, /*discription*/"イベント「{0}」フロア課題クリア報酬です。", /*type_1*/19, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1044, /*discription*/"過去の「LIVE Infinity」にて条件を達成したイベント称号です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/1999, /*discription*/"協力LIVE βテスト {0}イベントpt達成報酬です。", /*type_1*/20, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/1045, /*discription*/"イベント「{0}」イベントptランキング{1}位～{2}位で獲得した報酬です。", /*type_1*/19, /*type_2*/21, /*type_3*/22, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/1046, /*discription*/"イベント「{0}」イベントptランキング{1}位～{2}位で加入したアイドルです。", /*type_1*/19, /*type_2*/21, /*type_3*/22, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/1047, /*discription*/"イベント「{0}」アイドルptランキング{1}位～{2}位で獲得した報酬です。", /*type_1*/19, /*type_2*/21, /*type_3*/22, /*type_4*/2);
+INSERT INTO `gift_message` VALUES (/*id*/1048, /*discription*/"イベント「{0}」アイドルptランキング{1}位～{2}位で加入したアイドルです。", /*type_1*/19, /*type_2*/21, /*type_3*/22, /*type_4*/1);
+INSERT INTO `gift_message` VALUES (/*id*/1049, /*discription*/"イベント「{0}」アイドルptランキング{1}位で獲得した報酬です。", /*type_1*/19, /*type_2*/30, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/1050, /*discription*/"イベント「{0}」絆Lvアップで獲得した報酬です。", /*type_1*/19, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/1051, /*discription*/"イベント「{0}」絆Lvアップで加入したアイドルです。", /*type_1*/19, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/1052, /*discription*/"イベント「{0}」お仕事で獲得した報酬です。", /*type_1*/19, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/1053, /*discription*/"イベント「{0}」お仕事で加入したアイドルです。", /*type_1*/19, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/1054, /*discription*/"イベント「{0}」イベントメモリーコンプリート報酬です。", /*type_1*/19, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/1055, /*discription*/"イベント「{0}」ちひろさんからの差し入れです。", /*type_1*/19, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/1999, /*discription*/"協力LIVE βテスト {0}イベントpt達成報酬です。", /*type_1*/19, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2001, /*discription*/"デイリーミッション「{0}」で獲得した報酬です。", /*type_1*/25, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2002, /*discription*/"デイリーミッション「{0}」で加入したアイドルです。", /*type_1*/25, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/2003, /*discription*/"ウィークリーミッション「{0}」で獲得した報酬です。", /*type_1*/26, /*type_2*/0, /*type_3*/0, /*type_4*/0);

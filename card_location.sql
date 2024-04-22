@@ -2009,3 +2009,7 @@ INSERT INTO `card_location` VALUES (/*index*/2023, /*text*/"スイートルー�
 INSERT INTO `card_location` VALUES (/*index*/2024, /*text*/"5人で歩むステージ");
 INSERT INTO `card_location` VALUES (/*index*/2025, /*text*/"コンビニ前");
 INSERT INTO `card_location` VALUES (/*index*/2026, /*text*/"革命前夜");
+INSERT INTO `card_location` VALUES (/*index*/2027, /*text*/"山奥の小さな村");
+INSERT INTO `card_location` VALUES (/*index*/2028, /*text*/"上空");
+INSERT INTO `card_location` VALUES (/*index*/2029, /*text*/"崖っぷち崖のぼり");
+INSERT INTO `card_location` VALUES (/*index*/2030, /*text*/"秘境温泉");
