@@ -1471,6 +1471,11 @@ INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9057, /*chara_id*/164, /*d
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9057, /*chara_id*/178, /*disp_order*/178);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9057, /*chara_id*/103, /*disp_order*/103);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9057, /*chara_id*/174, /*disp_order*/174);
+INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9058, /*chara_id*/300, /*disp_order*/300);
+INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9058, /*chara_id*/133, /*disp_order*/133);
+INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9058, /*chara_id*/101, /*disp_order*/101);
+INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9058, /*chara_id*/235, /*disp_order*/235);
+INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9058, /*chara_id*/185, /*disp_order*/185);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9901, /*chara_id*/180, /*disp_order*/180);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9901, /*chara_id*/237, /*disp_order*/237);
 INSERT INTO `music_vocalist` VALUES (/*music_data_id*/9901, /*chara_id*/115, /*disp_order*/115);

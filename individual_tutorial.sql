@@ -189,6 +189,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/11113, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/11113, /*img*/1, /*discription*/"プラチナ10連ガシャチケットなどの\nアイテム2種がセットに含まれます !\n※有償スタージュエルでのみ購入することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11113, /*img*/2, /*discription*/"「スカウトチケット」はアイドルをスカウトできるアイテム\nです。スカウトできるアイドルは、「対象アイドル」ボタン\nからご確認ください。※スカウトチケットの種類によって\nスカウトできるアイドルは異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11113, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で登場します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11116, /*img*/1, /*discription*/"スペシャルガシャセットは期間限定販売です。\n一部の期間限定アイドルもスカウトできる\nチケット2種と");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11116, /*img*/1, /*discription*/"プラチナ10連ガシャチケットなどの\nアイテム2種がセットに含まれます !\n※有償スタージュエルでのみ購入することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11116, /*img*/2, /*discription*/"「スカウトチケット」はアイドルをスカウトできるアイテム\nです。スカウトできるアイドルは、「対象アイドル」ボタン\nからご確認ください。※スカウトチケットの種類によって\nスカウトできるアイドルは異なります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11116, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で登場します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/12003, /*img*/1, /*discription*/"「CM記念 ! ハッピーウサイヤーガシャ」を引くと、\n『ウサシャイン』が獲得できます。\n※『ウサシャイン』は提供期間が決まっています。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/12003, /*img*/2, /*discription*/"期間中に『ウサシャイン』を必要数獲得すると、\n対象のアイドルを1人スカウトすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/12003, /*img*/3, /*discription*/"提供期間を過ぎた『ウサシャイン』は、\n『スターピース』に自動で変換されます。\n『スターピース』は、アイテムと交換することができます。");
@@ -230,7 +234,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/"ルームアイテムの並べ替えを行うことができます。\n「追加順」、「必要面積順」など並べ替え条件を選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーは\n倉庫収納数から除外されます。\n収納していても、収納数にカウントされません。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"コラボルームアイテムが期間限定で販売中 !\nホロライブ所属アイドル「星街すいせい」のぬいぐるみや、\n衣装がルームアイテムになって登場です !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"セレクトショップで販売している私服の衣装スタンド\n『衣装スタンド/そよ風ひらりワンピース』を追加 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"セレクトショップで販売している私服の衣装スタンド\n『衣装スタンド/なかよしチャイルドスモック』\n『衣装スタンド/ひらひら金魚のミニ浴衣』を追加 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");

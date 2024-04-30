@@ -2013,3 +2013,5 @@ INSERT INTO `card_location` VALUES (/*index*/2027, /*text*/"山奥の小さな�
 INSERT INTO `card_location` VALUES (/*index*/2028, /*text*/"上空");
 INSERT INTO `card_location` VALUES (/*index*/2029, /*text*/"崖っぷち崖のぼり");
 INSERT INTO `card_location` VALUES (/*index*/2030, /*text*/"秘境温泉");
+INSERT INTO `card_location` VALUES (/*index*/2031, /*text*/"黒猫の館・主人の間");
+INSERT INTO `card_location` VALUES (/*index*/2032, /*text*/"銭湯");
