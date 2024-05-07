@@ -97,6 +97,6 @@ INSERT INTO `onetime_story` VALUES (/*id*/100, /*name*/"オールスターカウ
 INSERT INTO `onetime_story` VALUES (/*id*/101, /*name*/"Live Before ～山形公演編～", /*story_id*/6773, /*transition*/6, /*page_index*/0, /*start_date*/"2024-01-31 15:00:00", /*end_date*/"2024-02-03 12:59:59", /*play_order*/777, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/102, /*name*/"Live Before ～岩手公演編～", /*story_id*/6805, /*transition*/6, /*page_index*/0, /*start_date*/"2024-03-06 15:00:00", /*end_date*/"2024-03-10 12:29:59", /*play_order*/778, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/103, /*name*/"星街すいせいコラボ企画", /*story_id*/6807, /*transition*/6, /*page_index*/0, /*start_date*/"2024-03-11 15:00:00", /*end_date*/"2024-04-10 23:59:59", /*play_order*/779, /*notice_type*/2);
-INSERT INTO `onetime_story` VALUES (/*id*/104, /*name*/"エイプリルフール2024 OP", /*story_id*/6745, /*transition*/204, /*page_index*/0, /*start_date*/"2024-04-01 00:00:00", /*end_date*/"2024-04-01 23:59:59", /*play_order*/780, /*notice_type*/0);
+INSERT INTO `onetime_story` VALUES (/*id*/104, /*name*/"エイプリルフール2024 OP", /*story_id*/6745, /*transition*/204, /*page_index*/0, /*start_date*/"2024-04-01 00:00:00", /*end_date*/"2024-04-01 23:59:59", /*play_order*/780, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/105, /*name*/"Live Before ～大阪公演編～", /*story_id*/6838, /*transition*/6, /*page_index*/0, /*start_date*/"2024-04-04 15:00:00", /*end_date*/"2024-04-06 12:29:59", /*play_order*/781, /*notice_type*/2);
 CREATE INDEX 'onetime_story_0_story_id' on 'onetime_story'('story_id');

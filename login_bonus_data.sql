@@ -165,3 +165,4 @@ INSERT INTO `login_bonus_data` VALUES (/*id*/9250, /*name*/"星街すいせい×
 INSERT INTO `login_bonus_data` VALUES (/*id*/9251, /*name*/"星街すいせい×デレステコラボ記念ログインボーナス", /*type*/7, /*count_num*/31, /*rap*/1, /*img*/0, /*start_date*/"2024-03-11 00:00:00", /*end_date*/"2024-04-10 23:59:59");
 INSERT INTO `login_bonus_data` VALUES (/*id*/9252, /*name*/"わくわく☆スプリングログインボーナス", /*type*/4, /*count_num*/16, /*rap*/1, /*img*/0, /*start_date*/"2024-04-11 00:00:00", /*end_date*/"2024-04-26 23:59:59");
 INSERT INTO `login_bonus_data` VALUES (/*id*/9253, /*name*/"ゴールデンウィークログインボーナス", /*type*/4, /*count_num*/10, /*rap*/1, /*img*/0, /*start_date*/"2024-04-27 00:00:00", /*end_date*/"2024-05-06 23:59:59");
+INSERT INTO `login_bonus_data` VALUES (/*id*/9254, /*name*/"爽やかな風薫るプロデューサー応援ログインボーナス", /*type*/4, /*count_num*/16, /*rap*/1, /*img*/0, /*start_date*/"2024-05-14 00:00:00", /*end_date*/"2024-05-29 23:59:59");
