@@ -570,6 +570,11 @@ INSERT INTO `text_data` VALUES (/*category*/11, /*index*/109, /*text*/"クリア
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/110, /*text*/"{0}メダルを消費して\n以下のアイテムを交換しますか？");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/111, /*text*/"[2D2D2D]{0}枚[-]");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/112, /*text*/"[D33D98]{0}[-][2D2D2D]枚[-]");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/113, /*text*/"上限に達しているため、\n一部の報酬はプレゼントに送られました。");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/114, /*text*/"所属アイドル数が上限に達しているため、\nプレゼントに送られました。");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/115, /*text*/"アイテム所持数が上限に達しているため、\nプレゼントに送られました。");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/116, /*text*/"マニーが上限に達しているため、\nプレゼントに送られました。");
+INSERT INTO `text_data` VALUES (/*category*/11, /*index*/117, /*text*/"友情ptが上限に達しているため、\nプレゼントに送られました。");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/120, /*text*/"[FF7A7A]交換したアイテムはプレゼントに贈られました[-]");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/121, /*text*/"[FF7A7A]交換したアイテムは直接付与されました[-]");
 INSERT INTO `text_data` VALUES (/*category*/11, /*index*/122, /*text*/"[FF7A7A]一部のアイテムは直接付与されました[-]");
