@@ -149,6 +149,7 @@ INSERT INTO `music_info` VALUES (/*id*/2064, /*discription*/"喜多見柚（CV�
 INSERT INTO `music_info` VALUES (/*id*/2065, /*discription*/"星街すいせい\n高垣楓（CV：早見沙織）\n\n\n作詞・作曲・編曲：TAKU INOUE", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/2067, /*discription*/"宮本フレデリカ（CV：髙野麻美）\n速水奏（CV：飯田友子）\n\n\n作詞・作曲・編曲：PandaBoY", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/2068, /*discription*/"関裕美（CV：会沢紗弥）\n白菊ほたる（CV：天野聡美）\n森久保乃々（CV：高橋花林）\n\n\n作詞・作曲・編曲：トミタカズキ(SUPA LOVE)", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/2070, /*discription*/"片桐早苗（CV：和氣あず未）\n及川雫（CV：のぐちゆり）\n堀裕子（CV：鈴木絵理）\n\n\n作詞：fumi\n作曲・編曲：小野貴光", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/3001, /*discription*/"島村卯月（CV：大橋彩香）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（Yoshi）\nコーラス：Mitsu（BNSI）\nギター：後藤貴徳\nバイオリン：Bloom Quartet & Ensemble", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/3002, /*discription*/"渋谷凛（CV：福原綾香）\n\n\n作詞・作曲：BNEI（遠山明孝・八城雄太）\n作曲：BNEI（遠山明孝）\n編曲：関淳二郎\nギター・コーラス：関淳二郎", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/3003, /*discription*/"本田未央（CV：原紗友里）\n\n\n作詞：BNSI（八城雄太）\n作曲・編曲：BNSI（kyo）\nギター：後藤貴徳", /*android_url*/"", /*ios_url*/"");
