@@ -2019,3 +2019,5 @@ INSERT INTO `card_location` VALUES (/*index*/2033, /*text*/"書斎");
 INSERT INTO `card_location` VALUES (/*index*/2034, /*text*/"奇妙なお屋敷");
 INSERT INTO `card_location` VALUES (/*index*/2035, /*text*/"スイートルーム・ご奉仕中");
 INSERT INTO `card_location` VALUES (/*index*/2036, /*text*/"薄暗い書斎");
+INSERT INTO `card_location` VALUES (/*index*/2037, /*text*/"イイ感じの公園");
+INSERT INTO `card_location` VALUES (/*index*/2038, /*text*/"チャーミングな街");
