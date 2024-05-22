@@ -560,3 +560,4 @@ INSERT INTO `story_category` VALUES (/*id*/587, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/588, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"首藤葵 / 高橋礼子", /*sub_title*/"首藤葵 / 高橋礼子", /*disp_order*/238, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/589, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"アイドルプロデュース～幻の秘境温泉を、探せ ! ! ! ～", /*sub_title*/"アイドルプロデュース～幻の秘境温泉を、探せ ! ! ! ～", /*disp_order*/239, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/590, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"神様 ! 絶対だよ", /*sub_title*/"神様 ! 絶対だよ", /*disp_order*/240, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/591, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"井村雪菜 / 伊集院惠", /*sub_title*/"井村雪菜 / 伊集院惠", /*disp_order*/241, /*filter_type*/0);

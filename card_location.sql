@@ -2021,3 +2021,7 @@ INSERT INTO `card_location` VALUES (/*index*/2035, /*text*/"スイートルー�
 INSERT INTO `card_location` VALUES (/*index*/2036, /*text*/"薄暗い書斎");
 INSERT INTO `card_location` VALUES (/*index*/2037, /*text*/"イイ感じの公園");
 INSERT INTO `card_location` VALUES (/*index*/2038, /*text*/"チャーミングな街");
+INSERT INTO `card_location` VALUES (/*index*/2039, /*text*/"雪菜の部屋");
+INSERT INTO `card_location` VALUES (/*index*/2040, /*text*/"記念LIVEステージ");
+INSERT INTO `card_location` VALUES (/*index*/2041, /*text*/"異国のホテル・カフェテラス");
+INSERT INTO `card_location` VALUES (/*index*/2048, /*text*/"世界ツアー・凱旋パレード");
