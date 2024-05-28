@@ -1070,4 +1070,6 @@ INSERT INTO `chara_face_position` VALUES (/*chara_id*/116, /*pose*/98, /*positio
 INSERT INTO `chara_face_position` VALUES (/*chara_id*/199, /*pose*/97, /*position_x*/-12, /*position_y*/328);
 INSERT INTO `chara_face_position` VALUES (/*chara_id*/236, /*pose*/98, /*position_x*/-30, /*position_y*/335);
 INSERT INTO `chara_face_position` VALUES (/*chara_id*/274, /*pose*/98, /*position_x*/32, /*position_y*/325);
+INSERT INTO `chara_face_position` VALUES (/*chara_id*/173, /*pose*/7, /*position_x*/10, /*position_y*/330);
+INSERT INTO `chara_face_position` VALUES (/*chara_id*/293, /*pose*/6, /*position_x*/0, /*position_y*/309);
 INSERT INTO `chara_face_position` VALUES (/*chara_id*/131, /*pose*/90, /*position_x*/-9, /*position_y*/343);
