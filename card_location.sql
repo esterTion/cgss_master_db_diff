@@ -2024,4 +2024,10 @@ INSERT INTO `card_location` VALUES (/*index*/2038, /*text*/"チャーミング�
 INSERT INTO `card_location` VALUES (/*index*/2039, /*text*/"雪菜の部屋");
 INSERT INTO `card_location` VALUES (/*index*/2040, /*text*/"記念LIVEステージ");
 INSERT INTO `card_location` VALUES (/*index*/2041, /*text*/"異国のホテル・カフェテラス");
+INSERT INTO `card_location` VALUES (/*index*/2042, /*text*/"境界の水辺");
+INSERT INTO `card_location` VALUES (/*index*/2043, /*text*/"踏切の前");
+INSERT INTO `card_location` VALUES (/*index*/2044, /*text*/"ふたりきり、舞台の後で");
+INSERT INTO `card_location` VALUES (/*index*/2045, /*text*/"ふたり、ともに舞って");
+INSERT INTO `card_location` VALUES (/*index*/2046, /*text*/"ふたりきり、舞台の前に");
+INSERT INTO `card_location` VALUES (/*index*/2047, /*text*/"ふたり、隣り合って");
 INSERT INTO `card_location` VALUES (/*index*/2048, /*text*/"世界ツアー・凱旋パレード");
