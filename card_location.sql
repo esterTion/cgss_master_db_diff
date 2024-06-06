@@ -2031,3 +2031,6 @@ INSERT INTO `card_location` VALUES (/*index*/2045, /*text*/"ふたり、とも�
 INSERT INTO `card_location` VALUES (/*index*/2046, /*text*/"ふたりきり、舞台の前に");
 INSERT INTO `card_location` VALUES (/*index*/2047, /*text*/"ふたり、隣り合って");
 INSERT INTO `card_location` VALUES (/*index*/2048, /*text*/"世界ツアー・凱旋パレード");
+INSERT INTO `card_location` VALUES (/*index*/2049, /*text*/"ひとりで結婚記者会見");
+INSERT INTO `card_location` VALUES (/*index*/2050, /*text*/"ぶっ壊された披露宴");
+INSERT INTO `card_location` VALUES (/*index*/2051, /*text*/"世界の果ての大聖堂跡");
