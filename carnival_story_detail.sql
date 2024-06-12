@@ -176,4 +176,6 @@ INSERT INTO `carnival_story_detail` VALUES (/*id*/6853, /*event_id*/7016, /*type
 INSERT INTO `carnival_story_detail` VALUES (/*id*/6854, /*event_id*/7016, /*type*/0, /*open_step_id*/5, /*next_detail_id*/6855);
 INSERT INTO `carnival_story_detail` VALUES (/*id*/6855, /*event_id*/7016, /*type*/0, /*open_step_id*/6, /*next_detail_id*/6856);
 INSERT INTO `carnival_story_detail` VALUES (/*id*/6856, /*event_id*/7016, /*type*/2, /*open_step_id*/0, /*next_detail_id*/0);
+INSERT INTO `carnival_story_detail` VALUES (/*id*/6857, /*event_id*/7016, /*type*/0, /*open_step_id*/0, /*next_detail_id*/0);
+INSERT INTO `carnival_story_detail` VALUES (/*id*/6858, /*event_id*/7016, /*type*/0, /*open_step_id*/0, /*next_detail_id*/0);
 CREATE INDEX 'carnival_story_detail_0_event_id_1_type' on 'carnival_story_detail'('event_id','type');
