@@ -562,3 +562,4 @@ INSERT INTO `story_category` VALUES (/*id*/589, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/590, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"神様 ! 絶対だよ", /*sub_title*/"神様 ! 絶対だよ", /*disp_order*/240, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/591, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"井村雪菜 / 伊集院惠", /*sub_title*/"井村雪菜 / 伊集院惠", /*disp_order*/241, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/592, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"流星浪漫", /*sub_title*/"流星浪漫", /*disp_order*/242, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/593, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"松原早耶 / 瀬名詩織", /*sub_title*/"松原早耶 / 瀬名詩織", /*disp_order*/243, /*filter_type*/0);

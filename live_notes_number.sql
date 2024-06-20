@@ -3254,6 +3254,7 @@ INSERT INTO `live_notes_number` VALUES (/*live_id*/707, /*difficulty*/1, /*notes
 INSERT INTO `live_notes_number` VALUES (/*live_id*/707, /*difficulty*/2, /*notes_number*/185, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/707, /*difficulty*/3, /*notes_number*/280, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/707, /*difficulty*/4, /*notes_number*/668, /*damage_note_number*/0);
+INSERT INTO `live_notes_number` VALUES (/*live_id*/707, /*difficulty*/5, /*notes_number*/767, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/708, /*difficulty*/1, /*notes_number*/119, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/708, /*difficulty*/2, /*notes_number*/197, /*damage_note_number*/0);
 INSERT INTO `live_notes_number` VALUES (/*live_id*/708, /*difficulty*/3, /*notes_number*/380, /*damage_note_number*/0);
