@@ -19,4 +19,7 @@ NVIDIA,K1,2
 PowerVR,Rogue,2
 PowerVR,PowerVR,0
 NVIDIA,NVIDIA Tegra,2
+ANGLE,ANGLE (Samsung Xclipse 530),3
+ANGLE,ANGLE (Samsung Xclipse 920),3
+ANGLE,ANGLE (Samsung Xclipse 940),3
 ");

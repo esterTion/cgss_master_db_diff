@@ -2040,3 +2040,9 @@ INSERT INTO `card_location` VALUES (/*index*/2054, /*text*/"沖縄のビーチ")
 INSERT INTO `card_location` VALUES (/*index*/2055, /*text*/"サインライトの海");
 INSERT INTO `card_location` VALUES (/*index*/2056, /*text*/"体育祭");
 INSERT INTO `card_location` VALUES (/*index*/2057, /*text*/"光に満ちた水中");
+INSERT INTO `card_location` VALUES (/*index*/2058, /*text*/"静かな湖畔");
+INSERT INTO `card_location` VALUES (/*index*/2059, /*text*/"竜人族の棲む森");
+INSERT INTO `card_location` VALUES (/*index*/2060, /*text*/"賑やかな朝の民宿");
+INSERT INTO `card_location` VALUES (/*index*/2061, /*text*/"月と太陽の旅路");
+INSERT INTO `card_location` VALUES (/*index*/2062, /*text*/"いきどまりの小道");
+INSERT INTO `card_location` VALUES (/*index*/2063, /*text*/"太陽と月が交わるステージ");

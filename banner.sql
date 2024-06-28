@@ -2191,7 +2191,9 @@ INSERT INTO `banner` VALUES (/*banner_id*/2239, /*type*/1, /*img_id*/30996, /*tr
 INSERT INTO `banner` VALUES (/*banner_id*/2240, /*type*/2, /*img_id*/6041, /*transition*/0, /*page_index*/0, /*order_num*/46, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
 INSERT INTO `banner` VALUES (/*banner_id*/2241, /*type*/17, /*img_id*/2, /*transition*/0, /*page_index*/0, /*order_num*/50, /*start_date*/"2024-06-26 00:00:00", /*end_date*/"2024-07-09 23:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/2242, /*type*/17, /*img_id*/3, /*transition*/1, /*page_index*/0, /*order_num*/50, /*start_date*/"2024-07-10 00:00:00", /*end_date*/"2024-09-30 23:59:59");
-INSERT INTO `banner` VALUES (/*banner_id*/2243, /*type*/2, /*img_id*/1093, /*transition*/0, /*page_index*/0, /*order_num*/26, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
+INSERT INTO `banner` VALUES (/*banner_id*/2243, /*type*/2, /*img_id*/1093, /*transition*/0, /*page_index*/0, /*order_num*/46, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
 INSERT INTO `banner` VALUES (/*banner_id*/2244, /*type*/1, /*img_id*/30997, /*transition*/0, /*page_index*/30997, /*order_num*/1, /*start_date*/"2024-06-26 15:00:00", /*end_date*/"2024-06-28 14:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/2245, /*type*/1, /*img_id*/30998, /*transition*/0, /*page_index*/30998, /*order_num*/2, /*start_date*/"2024-06-26 15:00:00", /*end_date*/"2024-06-28 14:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/2246, /*type*/1, /*img_id*/30999, /*transition*/0, /*page_index*/30999, /*order_num*/3, /*start_date*/"2024-06-26 15:00:00", /*end_date*/"2024-06-28 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/2247, /*type*/1, /*img_id*/31000, /*transition*/0, /*page_index*/31000, /*order_num*/2, /*start_date*/"2024-06-28 15:00:00", /*end_date*/"2024-07-05 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/2248, /*type*/1, /*img_id*/80086, /*transition*/2, /*page_index*/118, /*order_num*/1, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
