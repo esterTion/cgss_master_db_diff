@@ -318,6 +318,7 @@ INSERT INTO `music_info` VALUES (/*id*/7013, /*discription*/"島村卯月（CV�
 INSERT INTO `music_info` VALUES (/*id*/7014, /*discription*/"作詞：遠藤フビト\n作曲：滝澤俊輔（TRYTONELABO）\n\nRemixed by ヒゲドライバー", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/7015, /*discription*/"作詞：BNEI（八城雄太・佐藤貴文）\n作曲：BNEI（佐藤貴文）\n\nRemixed by BNSI（LindaAI-CUE）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/7016, /*discription*/"作詞：烏屋茶房\n作曲：烏屋茶房、篠崎あやと\n\nRemixed by ヒゲドライバー", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/7017, /*discription*/"作詞・作曲：烏屋茶房\n\nRemixed by 石濱翔", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8001, /*discription*/"前川みく（CV：高森奈津美）\n川島瑞樹（CV：東山奈央）\n白坂小梅（CV：桜咲千依）\n三村かな子（CV：大坪由佳）\n\n\n作詞：Cygames / maimie\n作曲：UEMATSU NOBUO / NARITA TSUTOMU\n補作曲：MAEZAWA HIDENORI（picnic）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/8002, /*discription*/"緒方智絵里（CV：大空直美）\n多田李衣菜（CV：青木瑠璃子）\n城ヶ崎莉嘉（CV：山本希望）\n\n\n作詞：たかみつようこ\n作曲・編曲：岡部啓一（MONACA）", /*android_url*/"https://columbia.jp/sl-stage/haishin/COCC-17283_05.html", /*ios_url*/"https://columbia.jp/sl-stage/haishin/COCC-17283_05.html");
 INSERT INTO `music_info` VALUES (/*id*/8003, /*discription*/"夏色（ゆず）\n\n城ヶ崎美嘉（CV：佳村はるか）\n城ヶ崎莉嘉（CV：山本希望）\n\n\n作詞・作曲：北川悠仁", /*android_url*/"https://columbia.jp/sl-stage/haishin/COCC-17522_03.html", /*ios_url*/"https://columbia.jp/sl-stage/haishin/COCC-17522_03.html");
