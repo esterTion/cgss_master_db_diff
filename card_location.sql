@@ -2049,3 +2049,9 @@ INSERT INTO `card_location` VALUES (/*index*/2063, /*text*/"太陽と月が交�
 INSERT INTO `card_location` VALUES (/*index*/2064, /*text*/"ふたりきりのバカンス");
 INSERT INTO `card_location` VALUES (/*index*/2065, /*text*/"プライベートビーチ");
 INSERT INTO `card_location` VALUES (/*index*/2066, /*text*/"夏猫たちのビーチ");
+INSERT INTO `card_location` VALUES (/*index*/2067, /*text*/"建設途中で頓挫した廃ビル");
+INSERT INTO `card_location` VALUES (/*index*/2068, /*text*/"夜明けの休息");
+INSERT INTO `card_location` VALUES (/*index*/2069, /*text*/"胸アツのビーチ");
+INSERT INTO `card_location` VALUES (/*index*/2070, /*text*/"愛のビーチ");
+INSERT INTO `card_location` VALUES (/*index*/2071, /*text*/"青い月が照らす教室");
+INSERT INTO `card_location` VALUES (/*index*/2072, /*text*/"夜に支配されたチェス盤");
