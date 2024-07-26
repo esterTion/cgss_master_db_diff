@@ -318,3 +318,4 @@ INSERT INTO `gift_message` VALUES (/*id*/20113, /*discription*/"「ConnecTrip ! 
 INSERT INTO `gift_message` VALUES (/*id*/20114, /*discription*/"コラボキャンペーンで加入したアイドルです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20115, /*discription*/"「デレステ特訓パズル」キャンペーンのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20116, /*discription*/"「Celebration Night」公開記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20118, /*discription*/"「アイドルマスター特別生配信 19th→20th Special Party!!!!!!」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
