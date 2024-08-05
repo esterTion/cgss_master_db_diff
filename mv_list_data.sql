@@ -56,3 +56,15 @@ INSERT INTO `mv_list_data` VALUES (/*stage_id*/54, /*start_date*/"2024-02-09 15:
 INSERT INTO `mv_list_data` VALUES (/*stage_id*/55, /*start_date*/"2024-02-09 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/28, /*day*/2, /*name*/"燿城夜祭 -かがやきよまつり-　2日目");
 INSERT INTO `mv_list_data` VALUES (/*stage_id*/56, /*start_date*/"2024-02-09 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/29, /*day*/1, /*name*/"Shout out Live!!!　1日目");
 INSERT INTO `mv_list_data` VALUES (/*stage_id*/57, /*start_date*/"2024-02-09 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/29, /*day*/2, /*name*/"Shout out Live!!!　2日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/58, /*start_date*/"2024-08-05 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/30, /*day*/1, /*name*/"UNIT LIVE TOUR ConnecTrip! 山形公演　昼公演");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/59, /*start_date*/"2024-08-05 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/30, /*day*/2, /*name*/"UNIT LIVE TOUR ConnecTrip! 山形公演　夜公演");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/60, /*start_date*/"2024-08-05 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/31, /*day*/1, /*name*/"UNIT LIVE TOUR ConnecTrip! 岩手公演　昼公演");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/61, /*start_date*/"2024-08-05 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/31, /*day*/2, /*name*/"UNIT LIVE TOUR ConnecTrip! 岩手公演　夜公演");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/62, /*start_date*/"2024-08-05 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/32, /*day*/1, /*name*/"UNIT LIVE TOUR ConnecTrip! 大阪公演　昼公演");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/63, /*start_date*/"2024-08-05 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/32, /*day*/2, /*name*/"UNIT LIVE TOUR ConnecTrip! 大阪公演　夜公演");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/64, /*start_date*/"2024-08-05 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/33, /*day*/1, /*name*/"UNIT LIVE TOUR ConnecTrip! 福岡公演　昼公演");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/65, /*start_date*/"2024-08-05 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/33, /*day*/2, /*name*/"UNIT LIVE TOUR ConnecTrip! 福岡公演　夜公演");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/66, /*start_date*/"2024-08-05 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/34, /*day*/1, /*name*/"UNIT LIVE TOUR ConnecTrip! 東京公演　昼公演");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/67, /*start_date*/"2024-08-05 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/34, /*day*/2, /*name*/"UNIT LIVE TOUR ConnecTrip! 東京公演　夜公演");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/68, /*start_date*/"2024-08-05 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/35, /*day*/1, /*name*/"UNIT LIVE TOUR ConnecTrip! 石川公演　昼公演");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/69, /*start_date*/"2024-08-05 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/35, /*day*/2, /*name*/"UNIT LIVE TOUR ConnecTrip! 石川公演　夜公演");

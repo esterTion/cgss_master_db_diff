@@ -1,0 +1,2 @@
+CREATE TABLE 'aniv_count_commu_data' ('id' INTEGER NOT NULL, 'aniv' INTEGER NOT NULL, 'count' INTEGER NOT NULL, 'group_id' INTEGER NOT NULL, 'window_num' INTEGER NOT NULL, 'commu_wait' INTEGER NOT NULL, 'window_wait' INTEGER NOT NULL, 'chara_id' INTEGER NOT NULL, 'position' INTEGER NOT NULL, 'motion_id' INTEGER NOT NULL, 'window_text' TEXT NOT NULL, PRIMARY KEY('id'));
+CREATE INDEX 'aniv_count_commu_data_0_aniv_1_count' on 'aniv_count_commu_data'('aniv','count');

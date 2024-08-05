@@ -2061,3 +2061,7 @@ INSERT INTO `card_location` VALUES (/*index*/2075, /*text*/"星屑たちの夜�
 INSERT INTO `card_location` VALUES (/*index*/2076, /*text*/"ラジオ、オンエア中 !");
 INSERT INTO `card_location` VALUES (/*index*/2077, /*text*/"杏の部屋");
 INSERT INTO `card_location` VALUES (/*index*/2078, /*text*/"海辺のステージ");
+INSERT INTO `card_location` VALUES (/*index*/2079, /*text*/"ラグジュアリーなプール");
+INSERT INTO `card_location` VALUES (/*index*/2080, /*text*/"マーメイドはぁとのプール☆");
+INSERT INTO `card_location` VALUES (/*index*/2081, /*text*/"ビーチリゾート");
+INSERT INTO `card_location` VALUES (/*index*/2082, /*text*/"光が射しはじめた海");

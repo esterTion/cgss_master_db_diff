@@ -4591,6 +4591,12 @@ INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1401, /*text*/"フォ�
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1402, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1411, /*text*/"SNSシェア");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1412, /*text*/"ブラウザを立ち上げてXを開きます。\nピクチャの画像をアップロードして投稿することができます。");
+INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1500, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1501, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1502, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1503, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1504, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/77, /*index*/1505, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/5101, /*text*/"ファイルを書き出しする権限がありません");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/5102, /*text*/"端末側の容量等の原因でファイルを書き込む事ができません");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/5103, /*text*/"ファイルの保存に失敗しました");
