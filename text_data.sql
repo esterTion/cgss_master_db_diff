@@ -769,6 +769,7 @@ INSERT INTO `text_data` VALUES (/*category*/12, /*index*/188, /*text*/"ガシャ
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/189, /*text*/"結果");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/190, /*text*/"無料キャンペーン");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/191, /*text*/"履歴はガシャを引いてから14日間、最大10件まで表示されます。");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/192, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/201, /*text*/"超低");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/202, /*text*/"低");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/203, /*text*/"中");
@@ -1928,6 +1929,9 @@ INSERT INTO `text_data` VALUES (/*category*/18, /*index*/53, /*text*/"プラチ�
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/54, /*text*/"ミッション達成数");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/55, /*text*/"[D33D98]ミッション達成でさらにチケットが獲得できます[-]");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/56, /*text*/"現在開催中のプラチナチャンスミッションはありません");
+INSERT INTO `text_data` VALUES (/*category*/18, /*index*/57, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/18, /*index*/58, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/18, /*index*/59, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/19, /*index*/1, /*text*/"マニーショップ・購入");
 INSERT INTO `text_data` VALUES (/*category*/19, /*index*/2, /*text*/"アイテム売却");
 INSERT INTO `text_data` VALUES (/*category*/19, /*index*/3, /*text*/"マニーショップ・売却");
@@ -3780,6 +3784,7 @@ INSERT INTO `text_data` VALUES (/*category*/57, /*index*/122, /*text*/"イベン
 INSERT INTO `text_data` VALUES (/*category*/57, /*index*/123, /*text*/"お仕事の獲得経験値が1.5倍 !");
 INSERT INTO `text_data` VALUES (/*category*/57, /*index*/124, /*text*/"お仕事の獲得マニーが1.15倍 !");
 INSERT INTO `text_data` VALUES (/*category*/57, /*index*/125, /*text*/"お仕事の獲得ファン数が1.1倍 !");
+INSERT INTO `text_data` VALUES (/*category*/57, /*index*/126, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/58, /*index*/1, /*text*/"X（旧:Twitter）移動確認");
 INSERT INTO `text_data` VALUES (/*category*/58, /*index*/2, /*text*/"最新の誕生日イラストが公開されている\n「アイドルマスター シンデレラガールズ\nスターライトステージ」の\n公式X（旧:Twitter）アカウントに移動します。\n\nよろしいですか？");
 INSERT INTO `text_data` VALUES (/*category*/58, /*index*/3, /*text*/"デフォルト順");
