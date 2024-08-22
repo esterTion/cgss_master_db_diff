@@ -2067,3 +2067,7 @@ INSERT INTO `card_location` VALUES (/*index*/2081, /*text*/"ビーチリゾー�
 INSERT INTO `card_location` VALUES (/*index*/2082, /*text*/"光が射しはじめた海");
 INSERT INTO `card_location` VALUES (/*index*/2083, /*text*/"学園祭・メイド喫茶");
 INSERT INTO `card_location` VALUES (/*index*/2084, /*text*/"甘い香りの部屋");
+INSERT INTO `card_location` VALUES (/*index*/2085, /*text*/"福岡・博多");
+INSERT INTO `card_location` VALUES (/*index*/2086, /*text*/"真夏の夜のパレード");
+INSERT INTO `card_location` VALUES (/*index*/2087, /*text*/"故郷に似た海辺");
+INSERT INTO `card_location` VALUES (/*index*/2088, /*text*/"アタシの立つステージ");
