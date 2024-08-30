@@ -568,3 +568,4 @@ INSERT INTO `story_category` VALUES (/*id*/594, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/595, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"アイドルプロデュース～真夏のグッド・エスケープ～", /*sub_title*/"アイドルプロデュース～真夏のグッド・エスケープ～", /*disp_order*/245, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/596, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"モラトリアム", /*sub_title*/"モラトリアム", /*disp_order*/246, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/597, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"上田鈴帆 / 工藤忍", /*sub_title*/"上田鈴帆 / 工藤忍", /*disp_order*/247, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/598, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Fantasia for the Girls", /*sub_title*/"Fantasia for the Girls", /*disp_order*/248, /*filter_type*/0);

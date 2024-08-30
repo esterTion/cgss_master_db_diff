@@ -3714,11 +3714,11 @@ INSERT INTO `text_data` VALUES (/*category*/57, /*index*/9, /*text*/"キャン�
 INSERT INTO `text_data` VALUES (/*category*/57, /*index*/10, /*text*/"プレミアムパス");
 INSERT INTO `text_data` VALUES (/*category*/57, /*index*/11, /*text*/"開催中のキャンペーンはありません");
 INSERT INTO `text_data` VALUES (/*category*/57, /*index*/12, /*text*/"販売中のプレミアムパスはありません");
-INSERT INTO `text_data` VALUES (/*category*/57, /*index*/13, /*text*/"イベント限定アイドルとスタージュエルを追加獲得 !");
+INSERT INTO `text_data` VALUES (/*category*/57, /*index*/13, /*text*/"イベント限定アイドルやスタージュエル、ロケチケットを追加獲得 !");
 INSERT INTO `text_data` VALUES (/*category*/57, /*index*/14, /*text*/"イベントログインボーナスでカーニバルメダルを追加獲得 !");
-INSERT INTO `text_data` VALUES (/*category*/57, /*index*/15, /*text*/"CarnivalRank到達報酬でスタージュエルを追加獲得 !");
+INSERT INTO `text_data` VALUES (/*category*/57, /*index*/15, /*text*/"CarnivalRank到達報酬でスタージュエルとロケチケットを追加獲得 !");
 INSERT INTO `text_data` VALUES (/*category*/57, /*index*/16, /*text*/"イベントログインボーナスでススメチケットを追加獲得 !");
-INSERT INTO `text_data` VALUES (/*category*/57, /*index*/17, /*text*/"MAP報酬でスタージュエル追加獲得 !");
+INSERT INTO `text_data` VALUES (/*category*/57, /*index*/17, /*text*/"MAP報酬でスタージュエルとロケチケットを追加獲得 !");
 INSERT INTO `text_data` VALUES (/*category*/57, /*index*/18, /*text*/"LIVE報酬でイベント限定アイドルとキャラバンメダル追加獲得 !");
 INSERT INTO `text_data` VALUES (/*category*/57, /*index*/19, /*text*/"メダル交換所でイベント限定アイドルを追加スカウト !");
 INSERT INTO `text_data` VALUES (/*category*/57, /*index*/20, /*text*/"メダル交換所でスタージュエルを追加獲得 !");
@@ -3786,7 +3786,7 @@ INSERT INTO `text_data` VALUES (/*category*/57, /*index*/122, /*text*/"イベン
 INSERT INTO `text_data` VALUES (/*category*/57, /*index*/123, /*text*/"お仕事の獲得経験値が1.5倍 !");
 INSERT INTO `text_data` VALUES (/*category*/57, /*index*/124, /*text*/"お仕事の獲得マニーが1.15倍 !");
 INSERT INTO `text_data` VALUES (/*category*/57, /*index*/125, /*text*/"お仕事の獲得ファン数が1.1倍 !");
-INSERT INTO `text_data` VALUES (/*category*/57, /*index*/126, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/57, /*index*/126, /*text*/"メダル交換所でロケチケットを追加獲得 !");
 INSERT INTO `text_data` VALUES (/*category*/58, /*index*/1, /*text*/"X（旧:Twitter）移動確認");
 INSERT INTO `text_data` VALUES (/*category*/58, /*index*/2, /*text*/"最新の誕生日イラストが公開されている\n「アイドルマスター シンデレラガールズ\nスターライトステージ」の\n公式X（旧:Twitter）アカウントに移動します。\n\nよろしいですか？");
 INSERT INTO `text_data` VALUES (/*category*/58, /*index*/3, /*text*/"デフォルト順");
