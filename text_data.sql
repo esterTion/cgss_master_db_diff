@@ -769,7 +769,7 @@ INSERT INTO `text_data` VALUES (/*category*/12, /*index*/188, /*text*/"ガシャ
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/189, /*text*/"結果");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/190, /*text*/"無料キャンペーン");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/191, /*text*/"履歴はガシャを引いてから14日間、最大10件まで表示されます。");
-INSERT INTO `text_data` VALUES (/*category*/12, /*index*/192, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/192, /*text*/"各提供割合は、以下のタブをご覧ください。\n・1～9人目は、「{0}」\n・10人目は、「{1}」\n※プレミアムカットが解放されていないSSレアアイドルが登場した場合、\n　[D33D98]{2}[-]%の割合でプレミアムカットが解放されたアイドルとして登場します。");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/201, /*text*/"超低");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/202, /*text*/"低");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/203, /*text*/"中");

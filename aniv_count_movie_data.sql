@@ -27,4 +27,5 @@ INSERT INTO `aniv_count_movie_data` VALUES (/*id*/25, /*aniv*/9, /*count*/11, /*
 INSERT INTO `aniv_count_movie_data` VALUES (/*id*/26, /*aniv*/9, /*count*/11, /*number*/1102, /*enable_skip*/0, /*play_bgm*/0, /*next_play*/1);
 INSERT INTO `aniv_count_movie_data` VALUES (/*id*/27, /*aniv*/9, /*count*/12, /*number*/1201, /*enable_skip*/0, /*play_bgm*/0, /*next_play*/0);
 INSERT INTO `aniv_count_movie_data` VALUES (/*id*/28, /*aniv*/9, /*count*/12, /*number*/1202, /*enable_skip*/0, /*play_bgm*/0, /*next_play*/1);
+INSERT INTO `aniv_count_movie_data` VALUES (/*id*/29, /*aniv*/9, /*count*/13, /*number*/1301, /*enable_skip*/0, /*play_bgm*/1, /*next_play*/0);
 CREATE INDEX 'aniv_count_movie_data_0_aniv' on 'aniv_count_movie_data'('aniv');

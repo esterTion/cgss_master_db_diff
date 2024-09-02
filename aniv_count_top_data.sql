@@ -23,4 +23,5 @@ INSERT INTO `aniv_count_top_data` VALUES (/*id*/21, /*aniv*/9, /*count*/11, /*nu
 INSERT INTO `aniv_count_top_data` VALUES (/*id*/22, /*aniv*/9, /*count*/11, /*number*/2, /*position*/1, /*chara_id*/306, /*name*/"りあむ", /*message*/"うんうん、　無限に続く、　りあむちゃん着せ替え地獄……。　　　\nいや、　天国はここにあった。　　\nなんかいい匂いもしたな……　　　　へへへ。", /*time*/5000);
 INSERT INTO `aniv_count_top_data` VALUES (/*id*/23, /*aniv*/9, /*count*/12, /*number*/1, /*position*/0, /*chara_id*/250, /*name*/"鈴帆", /*message*/"ウチにはいつも、　魔法をかけてくれる人がいるばい。　　\nその人のためにも、　ウチも誰かに魔法をかける人間になりたかよ。　　　　　\n忍しゃんにも、　魔法はあると？　　　　　　　　　　", /*time*/7000);
 INSERT INTO `aniv_count_top_data` VALUES (/*id*/24, /*aniv*/9, /*count*/12, /*number*/2, /*position*/1, /*chara_id*/155, /*name*/"忍", /*message*/"あるよ。　\n自分が大切だって決めたものを、　何があっても愛しつづけること。　　\nその想いが、　魔法になるんだ。　　きっと、　誰にとってもね !", /*time*/5500);
+INSERT INTO `aniv_count_top_data` VALUES (/*id*/25, /*aniv*/9, /*count*/13, /*number*/1, /*position*/0, /*chara_id*/-1, /*name*/"ちひろ", /*message*/"アイドルマスター シンデレラガールズ スターライトステージが　\n9周年を迎えましたよ !\n", /*time*/3000);
 CREATE INDEX 'aniv_count_top_data_0_aniv' on 'aniv_count_top_data'('aniv');
