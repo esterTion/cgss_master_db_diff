@@ -19,3 +19,8 @@ INSERT INTO `card_storage_data` VALUES (/*id*/17, /*use_jewel*/250, /*max_card_n
 INSERT INTO `card_storage_data` VALUES (/*id*/18, /*use_jewel*/250, /*max_card_num*/100, /*name*/"第18女子寮", /*start_date*/"2018-03-29 15:00:00");
 INSERT INTO `card_storage_data` VALUES (/*id*/19, /*use_jewel*/250, /*max_card_num*/100, /*name*/"第19女子寮", /*start_date*/"2018-03-29 15:00:00");
 INSERT INTO `card_storage_data` VALUES (/*id*/20, /*use_jewel*/250, /*max_card_num*/100, /*name*/"第20女子寮", /*start_date*/"2018-03-29 15:00:00");
+INSERT INTO `card_storage_data` VALUES (/*id*/21, /*use_jewel*/250, /*max_card_num*/100, /*name*/"第21女子寮", /*start_date*/"2024-09-06 15:00:00");
+INSERT INTO `card_storage_data` VALUES (/*id*/22, /*use_jewel*/250, /*max_card_num*/100, /*name*/"第22女子寮", /*start_date*/"2024-09-06 15:00:00");
+INSERT INTO `card_storage_data` VALUES (/*id*/23, /*use_jewel*/250, /*max_card_num*/100, /*name*/"第23女子寮", /*start_date*/"2024-09-06 15:00:00");
+INSERT INTO `card_storage_data` VALUES (/*id*/24, /*use_jewel*/250, /*max_card_num*/100, /*name*/"第24女子寮", /*start_date*/"2024-09-06 15:00:00");
+INSERT INTO `card_storage_data` VALUES (/*id*/25, /*use_jewel*/250, /*max_card_num*/100, /*name*/"第25女子寮", /*start_date*/"2024-09-06 15:00:00");

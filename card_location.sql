@@ -2077,3 +2077,7 @@ INSERT INTO `card_location` VALUES (/*index*/2091, /*text*/"灰の中、世界�
 INSERT INTO `card_location` VALUES (/*index*/2092, /*text*/"戦いの後、世界の始まり");
 INSERT INTO `card_location` VALUES (/*index*/2093, /*text*/"旅の途中、灰との戦い");
 INSERT INTO `card_location` VALUES (/*index*/2094, /*text*/"旅の先、青空の下");
+INSERT INTO `card_location` VALUES (/*index*/2095, /*text*/"店じまい後の古書店");
+INSERT INTO `card_location` VALUES (/*index*/2096, /*text*/"貴方と私の物語");
+INSERT INTO `card_location` VALUES (/*index*/2097, /*text*/"自宅の台所");
+INSERT INTO `card_location` VALUES (/*index*/2098, /*text*/"忘れられた古城");
