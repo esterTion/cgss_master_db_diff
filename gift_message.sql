@@ -183,6 +183,7 @@ INSERT INTO `gift_message` VALUES (/*id*/9001, /*discription*/"運営からの�
 INSERT INTO `gift_message` VALUES (/*id*/9002, /*discription*/"運営からのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9003, /*discription*/"メンテナンス協力のお礼です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9004, /*discription*/"バージョンアップ協力のお礼です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/9005, /*discription*/"アップデート協力のお礼です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/9999, /*discription*/"デバッグツールで入手しました。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/10400, /*discription*/"400万DL突破記念キャンペーンのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/10500, /*discription*/"500万DL突破記念キャンペーンのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
@@ -327,3 +328,4 @@ INSERT INTO `gift_message` VALUES (/*id*/20123, /*discription*/"「祝9周年 ! 
 INSERT INTO `gift_message` VALUES (/*id*/20124, /*discription*/"「祝9周年 ! プラチナチャンス」{0}等C賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20125, /*discription*/"「祝9周年 ! プラチナチャンス」特別賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20126, /*discription*/"「デレステ特訓パズルクエスト」キャンペーンのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20127, /*discription*/"「STARLIGHT FANTASY連動キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
