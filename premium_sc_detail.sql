@@ -129,6 +129,7 @@ INSERT INTO `premium_sc_detail` VALUES (/*item_id*/81028, /*jewel_shop_id*/102, 
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/81029, /*jewel_shop_id*/103, /*use_period_day*/0, /*all_user_use_end_date*/"2023-11-11 23:59:59", /*is_cartoon*/0);
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/81030, /*jewel_shop_id*/110, /*use_period_day*/0, /*all_user_use_end_date*/"2024-03-12 23:59:59", /*is_cartoon*/0);
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/81031, /*jewel_shop_id*/111, /*use_period_day*/0, /*all_user_use_end_date*/"2024-03-12 23:59:59", /*is_cartoon*/0);
+INSERT INTO `premium_sc_detail` VALUES (/*item_id*/83501, /*jewel_shop_id*/120, /*use_period_day*/0, /*all_user_use_end_date*/"", /*is_cartoon*/0);
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/84001, /*jewel_shop_id*/25, /*use_period_day*/0, /*all_user_use_end_date*/"", /*is_cartoon*/0);
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/84002, /*jewel_shop_id*/26, /*use_period_day*/0, /*all_user_use_end_date*/"", /*is_cartoon*/0);
 INSERT INTO `premium_sc_detail` VALUES (/*item_id*/84003, /*jewel_shop_id*/32, /*use_period_day*/0, /*all_user_use_end_date*/"", /*is_cartoon*/0);

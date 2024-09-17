@@ -1,1 +1,11 @@
 CREATE TABLE 'paper_asset_cache_clear_target' ('id' INTEGER NOT NULL, 'wildcard' TEXT NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `paper_asset_cache_clear_target` VALUES (/*id*/1, /*wildcard*/"bg_?????_s.unity3d");
+INSERT INTO `paper_asset_cache_clear_target` VALUES (/*id*/2, /*wildcard*/"bg_?????_l.unity3d");
+INSERT INTO `paper_asset_cache_clear_target` VALUES (/*id*/3, /*wildcard*/"decoration_?????_s.unity3d");
+INSERT INTO `paper_asset_cache_clear_target` VALUES (/*id*/4, /*wildcard*/"decoration_?????_l.unity3d");
+INSERT INTO `paper_asset_cache_clear_target` VALUES (/*id*/5, /*wildcard*/"idol_3d_??????_s.unity3d");
+INSERT INTO `paper_asset_cache_clear_target` VALUES (/*id*/6, /*wildcard*/"idol_3d_??????_l.unity3d");
+INSERT INTO `paper_asset_cache_clear_target` VALUES (/*id*/7, /*wildcard*/"paper_idol_other_?????_s.unity3d");
+INSERT INTO `paper_asset_cache_clear_target` VALUES (/*id*/8, /*wildcard*/"paper_idol_other_?????_l.unity3d");
+INSERT INTO `paper_asset_cache_clear_target` VALUES (/*id*/9, /*wildcard*/"logo_?????_s.unity3d");
+INSERT INTO `paper_asset_cache_clear_target` VALUES (/*id*/10, /*wildcard*/"logo_?????_l.unity3d");

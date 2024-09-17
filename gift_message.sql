@@ -291,9 +291,9 @@ INSERT INTO `gift_message` VALUES (/*id*/20085, /*discription*/"「祝7周年 ! 
 INSERT INTO `gift_message` VALUES (/*id*/20086, /*discription*/"「祝7周年 ! プラチナチャンス」{0}等C賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20087, /*discription*/"「祝7周年 ! プラチナチャンス」特別賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20088, /*discription*/"「LIKE4LIVE #cg_ootd連動キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/20089, /*discription*/"SSレアアイドル勧誘チャレンジの信頼度{0}達成報酬です。", /*type_1*/90, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/20090, /*discription*/"SSレアアイドル勧誘チャレンジの参加報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/20091, /*discription*/"SSレアアイドル勧誘チャレンジの正式加入報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20089, /*discription*/"「SSレアアイドル勧誘チャレンジ」の通常報酬（信頼度{0}達成）です。", /*type_1*/90, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20090, /*discription*/"「SSレアアイドル勧誘チャレンジ」の参加報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20091, /*discription*/"「SSレアアイドル勧誘チャレンジ」の正式加入報酬です。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20092, /*discription*/"「{0}」の参加報酬です。", /*type_1*/45, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20093, /*discription*/"「Twinkle LIVE Constellation Gradation連動キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20094, /*discription*/"「ゆくM@S くるM@S 2022」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
@@ -319,6 +319,7 @@ INSERT INTO `gift_message` VALUES (/*id*/20113, /*discription*/"「ConnecTrip ! 
 INSERT INTO `gift_message` VALUES (/*id*/20114, /*discription*/"コラボキャンペーンで加入したアイドルです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20115, /*discription*/"「デレステ特訓パズル」キャンペーンのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20116, /*discription*/"「Celebration Night」公開記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20117, /*discription*/"「SSレアアイドル勧誘チャレンジ」のプラチナチャレンジパス追加報酬（信頼度{0}達成）です。", /*type_1*/90, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20118, /*discription*/"「アイドルマスター特別生配信 19th→20th Special Party!!!!!!」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20119, /*discription*/"「9周年記念!!カウントダウンログインボーナス」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20120, /*discription*/"「祝9周年 ! プラチナチャンス」のミッション達成数{0}で獲得した報酬です。", /*type_1*/90, /*type_2*/0, /*type_3*/0, /*type_4*/0);
@@ -329,3 +330,4 @@ INSERT INTO `gift_message` VALUES (/*id*/20124, /*discription*/"「祝9周年 ! 
 INSERT INTO `gift_message` VALUES (/*id*/20125, /*discription*/"「祝9周年 ! プラチナチャンス」特別賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20126, /*discription*/"「デレステ特訓パズルクエスト」キャンペーンのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20127, /*discription*/"「STARLIGHT FANTASY連動キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20128, /*discription*/"「ノスタルジーあにぷち」追加記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
