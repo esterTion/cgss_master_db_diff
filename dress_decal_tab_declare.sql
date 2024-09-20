@@ -7,3 +7,4 @@ INSERT INTO `dress_decal_tab_declare` VALUES (/*dress_id*/26, /*main_tab2key*/"0
 INSERT INTO `dress_decal_tab_declare` VALUES (/*dress_id*/28, /*main_tab2key*/"0,1,2,3,4", /*sub_tab2key*/"E,E,E,E,E");
 INSERT INTO `dress_decal_tab_declare` VALUES (/*dress_id*/29, /*main_tab2key*/"0,1,2,3,4", /*sub_tab2key*/"E,E,E,E,E");
 INSERT INTO `dress_decal_tab_declare` VALUES (/*dress_id*/41, /*main_tab2key*/"0,1,2,3,4", /*sub_tab2key*/"E,E,E,E,E");
+INSERT INTO `dress_decal_tab_declare` VALUES (/*dress_id*/45, /*main_tab2key*/"0,1,2,3,4", /*sub_tab2key*/"E,E,E,E,E");

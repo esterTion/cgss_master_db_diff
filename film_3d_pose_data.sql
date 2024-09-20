@@ -16,6 +16,7 @@ INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/113, /*motion_fade_msec*/1000
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/114, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/2500);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/115, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/2500);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/116, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/2500);
+INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/117, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/2500);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/201, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/202, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);
 INSERT INTO `film_3d_pose_data` VALUES (/*pose_id*/203, /*motion_fade_msec*/1000, /*motion_play_offset_msec*/500);

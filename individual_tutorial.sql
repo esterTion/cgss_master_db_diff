@@ -231,6 +231,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/12003, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/12004, /*img*/1, /*discription*/"「祝祭に吹く風 きらめく彗星 コラボガシャ」を引くと、\n『すいシャイン』が獲得できます。\n※『すいシャイン』は提供期間が決まっています。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/12004, /*img*/2, /*discription*/"期間中に『すいシャイン』を必要数獲得すると、\n対象のアイドルを1人スカウトすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/12004, /*img*/3, /*discription*/"提供期間を過ぎた『すいシャイン』は、\n『スターピース』に自動で変換されます。\n『スターピース』は、アイテムと交換することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/13131, /*img*/1, /*discription*/"「9周年記念 ! お得なガシャチケットセット」は期間限定販売です。\n購入すると「プラチナ10連ガシャチケット」を1枚、\n「プロデュースレシピ」を1個獲得できます。\n※有償スタージュエルでのみ購入することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/13131, /*img*/2, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に開催中の\nプラチナ10連ガシャを引けるチケットです。プラチナガシャと同様に、\nSレア以上のアイドル1人が確定で登場します。\n※本ガシャチケットに利用期限はありません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20001, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20001, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、\n様々な効果を発揮する物があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20001, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -1220,11 +1222,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/91019, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/91019, /*img*/2, /*discription*/"「ぴにゃエナジー」はキャンペーン期間中に\n「ぴにゃ博士からのミッション」をクリアすることで獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91019, /*img*/3, /*discription*/"特設ページ中央で眠っているぴにゃをタップすると、\nその時点でのクリア状況に応じた報酬を受け取ることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91019, /*img*/3, /*discription*/"眠れるぴにゃを目覚めさせ、\n「9周年ぴにゃ10連ガシャチケ」や\n「9周年ぴにゃSSレア確定ガシャチケ」などの\n豪華報酬をGETしましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/91020, /*img*/1, /*discription*/"ログインやミッションでチャンスチケットを集めて\n豪華な景品を獲得しましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/91020, /*img*/1, /*discription*/"※9月10日 23:59までに次ページの\n条件を満たしていないプロデューサーは、\n必ず「10等」が当選します。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/91020, /*img*/1, /*discription*/"・プロデューサーLvが20に達している\n・2ndパネルミッションを解放している");
-INSERT INTO `individual_tutorial` VALUES (/*id*/91020, /*img*/2, /*discription*/"「プラチナチャンスミッション」を20個達成すると結果発表時に\n「5等確定のチャンスチケット」をゲットできます !\n※9等以上の当選条件を満たしていない場合は\n獲得できません。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/91020, /*img*/2, /*discription*/"「プラチナチャンスミッション」は\nプレイ次第で1日で達成可能となっています。\n自分のプレイスタイルでミッションを\n達成していきましょう !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/91020, /*img*/1, /*discription*/"現在当選結果を発表中です。\n配布期間中にチャンスチケットを獲得した方は\n当選結果を確認しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91021, /*img*/1, /*discription*/"プラチナスペシャルガシャセットは期間限定販売です !\n「リミテッドver」3種、「フェスver」2種の全5種をラインナップ !\n各セット2回ずつ購入可能です。\n※有償スタージュエルでのみ購入することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91021, /*img*/2, /*discription*/"「リミテッドver（Cu）」では、キュートアイドルの\n期間限定SSレア、ドミナントガシャ限定SSレアがスカウトできる特別な\nスカウトチケットを獲得できます。対象アイドルと\nセット内容の詳細は購入画面よりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91021, /*img*/3, /*discription*/"「リミテッドver（Co）」では、クールアイドルの\n期間限定SSレア、ドミナントガシャ限定SSレアがスカウトできる特別な\nスカウトチケットを獲得できます。対象アイドルと\nセット内容の詳細は購入画面よりご確認ください。");
@@ -1234,8 +1232,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/91021, /*img*/6, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/91021, /*img*/7, /*discription*/"各セットに含まれる「プラチナ10連ガシャチケット」は、\nチケット使用時に開催中のプラチナ10連ガシャを\n引けるチケットです。プラチナガシャと同様に\nSレア以上のアイドル1人が確定で登場します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91022, /*img*/1, /*discription*/"メモリアルガシャ ブラン近日公開 !\nSSレアは対象のブラン限定アイドルのみ登場します !\n引いた時に獲得できる「ルナシャイン」は他のメモリアルガシャを\n引いた時に獲得できる「ルナシャイン」と共通です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91022, /*img*/2, /*discription*/"メモリアルガシャ6th近日公開 !\nSレアとSSレアは対象の限定アイドルのみ登場します !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/91023, /*img*/1, /*discription*/"ドレスコーデ対応衣装に「シンデレラドリーム」を追加予定です。\n衣装「シンデレラドリーム」をドレスショップで\n購入することでドレスコーデ機能で\n使用できるようになります。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/91023, /*img*/2, /*discription*/"ドレスコーデ機能アップデート予定 !\nデレステで作成したドレスコーデ対応衣装や\n着せ替え衣装がデレスポのフォトスタジオでも\n選択可能になります !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/91023, /*img*/1, /*discription*/"ドレスコーデ対応衣装に「シンデレラドリーム」を追加しました !\n衣装「シンデレラドリーム／コーデ」をドレスショップで\n購入することでドレスコーデ機能で\n使用できるようになります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/91023, /*img*/2, /*discription*/"ドレスコーデ機能アップデート !\nデレステで作成したドレスコーデ対応衣装や\n着せ替え衣装がデレスポのフォトスタジオでも\n選択可能になりました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91024, /*img*/1, /*discription*/"ルーム倉庫の収納数上限と\nマイセットを保存できる数が増加 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91024, /*img*/2, /*discription*/"「リビルド・キャッスル」テーマのアイテムとコーデを追加 !\n少女たちの魔法で、かつての姿を取り戻したお城です !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91025, /*img*/1, /*discription*/"ソーシャルゲーム版「アイドルマスター シンデレラガールズ」の\nミニゲーム「ダイスDEシンデレラ」の素材を追加しました !\n冒険の一幕を切り取ったフォトを\n作成してみましょう !");

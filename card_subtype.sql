@@ -15,6 +15,8 @@ INSERT INTO `card_subtype` VALUES (/*card_data_id*/201377, /*sub_attribute*/1);
 INSERT INTO `card_subtype` VALUES (/*card_data_id*/201378, /*sub_attribute*/1);
 INSERT INTO `card_subtype` VALUES (/*card_data_id*/201407, /*sub_attribute*/3);
 INSERT INTO `card_subtype` VALUES (/*card_data_id*/201408, /*sub_attribute*/3);
+INSERT INTO `card_subtype` VALUES (/*card_data_id*/201423, /*sub_attribute*/1);
+INSERT INTO `card_subtype` VALUES (/*card_data_id*/201424, /*sub_attribute*/1);
 INSERT INTO `card_subtype` VALUES (/*card_data_id*/301267, /*sub_attribute*/2);
 INSERT INTO `card_subtype` VALUES (/*card_data_id*/301268, /*sub_attribute*/2);
 INSERT INTO `card_subtype` VALUES (/*card_data_id*/301295, /*sub_attribute*/1);

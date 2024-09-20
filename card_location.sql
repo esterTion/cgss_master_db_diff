@@ -2081,3 +2081,9 @@ INSERT INTO `card_location` VALUES (/*index*/2095, /*text*/"店じまい後の�
 INSERT INTO `card_location` VALUES (/*index*/2096, /*text*/"貴方と私の物語");
 INSERT INTO `card_location` VALUES (/*index*/2097, /*text*/"自宅の台所");
 INSERT INTO `card_location` VALUES (/*index*/2098, /*text*/"忘れられた古城");
+INSERT INTO `card_location` VALUES (/*index*/2099, /*text*/"病院・真っ白の屋上");
+INSERT INTO `card_location` VALUES (/*index*/2100, /*text*/"ヘレンズワールドステージ");
+INSERT INTO `card_location` VALUES (/*index*/2101, /*text*/"カワイイ幸子島");
+INSERT INTO `card_location` VALUES (/*index*/2102, /*text*/"カワイイボクを祀る場所");
+INSERT INTO `card_location` VALUES (/*index*/2103, /*text*/"火の国・熊本の遊園地");
+INSERT INTO `card_location` VALUES (/*index*/2104, /*text*/"華やかな妖精郷の舞台");
