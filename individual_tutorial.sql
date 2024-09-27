@@ -28,6 +28,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/10017, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/10017, /*img*/2, /*discription*/"報酬や『シャインゲージ』の詳細は\n『スターシャイン』横の「i」ボタンから確認できます。\n※『シャインゲージ』は『スターシャイン』の\n　提供期間終了時にリセットされます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10018, /*img*/1, /*discription*/"メモリアルガシャ4thが新たに追加されました ! \n画面右上ボタンで各メモリアルガシャを切り替えることが可能です。\n※登場するアイドルはアイドル詳細でご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10019, /*img*/1, /*discription*/"メモリアルガシャ5thが新たに追加されました ! \n画面右上ボタンで各メモリアルガシャを切り替えることが可能です。\n※登場するアイドルはアイドル詳細でご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/10020, /*img*/1, /*discription*/"メモリアルガシャ6thが新たに追加されました ! \n画面右上ボタンで各メモリアルガシャを切り替えることが可能です。\n※登場するアイドルはアイドル詳細でご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/10020, /*img*/2, /*discription*/"メモリアルガシャ ブランが新たに追加されました !\n画面右上ボタンで各メモリアルガシャを切り替えることが可能です。\n引いた時に獲得できる「ルナシャイン」は他のメモリアルガシャを\n引いた時に獲得できる「ルナシャイン」と共通です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/1, /*discription*/"スペシャルガシャセットは期間限定販売です。\n購入すると「スカウトチケット」と「プラチナ10連ガシャ\nチケット」を1枚ずつ獲得できます。\n※有償スタージュエルでのみ購入することができます");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/2, /*discription*/"「スカウトチケット」はレア、Sレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で出現します。");
@@ -1230,8 +1232,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/91021, /*img*/4, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/91021, /*img*/5, /*discription*/"「フェスver（Blanc）」では、ブランフェス限定SSレアアイドルが\nスカウトできる特別なスカウトチケットを獲得できます。対象アイドルと\nセット内容の詳細は購入画面よりご確認ください。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91021, /*img*/6, /*discription*/"「フェスver（Noir）」では、ノワールフェス限定SSレアアイドルが\nスカウトできる特別なスカウトチケットを獲得できます。対象アイドルと\nセット内容の詳細は購入画面よりご確認ください。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91021, /*img*/7, /*discription*/"各セットに含まれる「プラチナ10連ガシャチケット」は、\nチケット使用時に開催中のプラチナ10連ガシャを\n引けるチケットです。プラチナガシャと同様に\nSレア以上のアイドル1人が確定で登場します。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/91022, /*img*/1, /*discription*/"メモリアルガシャ ブラン近日公開 !\nSSレアは対象のブラン限定アイドルのみ登場します !\n引いた時に獲得できる「ルナシャイン」は他のメモリアルガシャを\n引いた時に獲得できる「ルナシャイン」と共通です。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/91022, /*img*/2, /*discription*/"メモリアルガシャ6th近日公開 !\nSレアとSSレアは対象の限定アイドルのみ登場します !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/91022, /*img*/1, /*discription*/"メモリアルガシャ ブラン公開中 ! SSレアは対象のブラン限定アイドルのみ\n登場します ! 引いた時に獲得できる「ルナシャイン」は他のメモリアルガシャを\n引いた時に獲得できる「ルナシャイン」と共通です。\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/91022, /*img*/2, /*discription*/"メモリアルガシャ6th公開中 !\nSレアとSSレアは対象の限定アイドルのみ登場します !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91023, /*img*/1, /*discription*/"ドレスコーデ対応衣装に「シンデレラドリーム」を追加しました !\n衣装「シンデレラドリーム／コーデ」をドレスショップで\n購入することでドレスコーデ機能で\n使用できるようになります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91023, /*img*/2, /*discription*/"ドレスコーデ機能アップデート !\nデレステで作成したドレスコーデ対応衣装や\n着せ替え衣装がデレスポのフォトスタジオでも\n選択可能になりました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91024, /*img*/1, /*discription*/"ルーム倉庫の収納数上限と\nマイセットを保存できる数が増加 !");

@@ -526,7 +526,8 @@ INSERT INTO `story_category` VALUES (/*id*/541, /*type*/1, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/542, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第76話", /*sub_title*/"How to become a princess", /*disp_order*/277, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/543, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第77話", /*sub_title*/"I Know My Own Worth", /*disp_order*/278, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/544, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第78話", /*sub_title*/"Santa Claus Is Here !", /*disp_order*/279, /*filter_type*/0);
-INSERT INTO `story_category` VALUES (/*id*/545, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第79話", /*sub_title*/"coming soon", /*disp_order*/280, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/545, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第79話", /*sub_title*/"Life is A Will", /*disp_order*/280, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/546, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第80話", /*sub_title*/"coming soon", /*disp_order*/281, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/556, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"なつっこ音頭", /*sub_title*/"なつっこ音頭", /*disp_order*/214, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/557, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"奥山沙織 / 水木聖來", /*sub_title*/"奥山沙織 / 水木聖來", /*disp_order*/215, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/558, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"燿城夜祭 -かがやきよまつり-連動企画", /*sub_title*/"燿城夜祭 -かがやきよまつり-連動企画", /*disp_order*/37, /*filter_type*/401);
