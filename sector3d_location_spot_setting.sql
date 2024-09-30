@@ -1,7 +1,7 @@
 CREATE TABLE 'sector3d_location_spot_setting' ('id' INTEGER NOT NULL, 'location_id' INTEGER NOT NULL, 'location_spot_id' INTEGER NOT NULL, 'tile_size_x' INTEGER NOT NULL, 'tile_size_y' INTEGER NOT NULL, 'tile_size_z' INTEGER NOT NULL, 'default_room_item_id' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `sector3d_location_spot_setting` VALUES (/*id*/1, /*location_id*/10000001, /*location_spot_id*/0, /*tile_size_x*/3, /*tile_size_y*/2, /*tile_size_z*/1, /*default_room_item_id*/10000003);
 INSERT INTO `sector3d_location_spot_setting` VALUES (/*id*/2, /*location_id*/10000001, /*location_spot_id*/1, /*tile_size_x*/3, /*tile_size_y*/2, /*tile_size_z*/1, /*default_room_item_id*/10000004);
-INSERT INTO `sector3d_location_spot_setting` VALUES (/*id*/3, /*location_id*/10000001, /*location_spot_id*/2, /*tile_size_x*/5, /*tile_size_y*/2, /*tile_size_z*/1, /*default_room_item_id*/10000005);
+INSERT INTO `sector3d_location_spot_setting` VALUES (/*id*/3, /*location_id*/10000001, /*location_spot_id*/2, /*tile_size_x*/5, /*tile_size_y*/3, /*tile_size_z*/1, /*default_room_item_id*/10000005);
 INSERT INTO `sector3d_location_spot_setting` VALUES (/*id*/4, /*location_id*/10000001, /*location_spot_id*/3, /*tile_size_x*/3, /*tile_size_y*/2, /*tile_size_z*/1, /*default_room_item_id*/10000006);
 INSERT INTO `sector3d_location_spot_setting` VALUES (/*id*/5, /*location_id*/10000001, /*location_spot_id*/4, /*tile_size_x*/1, /*tile_size_y*/2, /*tile_size_z*/2, /*default_room_item_id*/40000002);
 INSERT INTO `sector3d_location_spot_setting` VALUES (/*id*/6, /*location_id*/20000002, /*location_spot_id*/0, /*tile_size_x*/4, /*tile_size_y*/4, /*tile_size_z*/1, /*default_room_item_id*/10000009);
