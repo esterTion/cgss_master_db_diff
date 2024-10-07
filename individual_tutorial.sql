@@ -276,7 +276,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーは\n倉庫収納数から除外されます。\n収納していても、収納数にカウントされません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ルーム倉庫の収納数上限と\nマイセットを保存できる数が増加 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"「リビルド・キャッスル」テーマのアイテムとコーデを追加 !\n少女たちの魔法で、かつての姿を取り戻したお城です !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"セレクトショップで販売している私服の衣装スタンド\n『衣装スタンド/貴方のクラシカルメイドコーデ』\n『衣装スタンド/パステル・ドーリィ・ロリィタ』を追加 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"セレクトショップで販売している私服の衣装スタンド\n『衣装スタンド/オトナのスプリングカジュアル』\n『衣装スタンド/よくばりガールのミニ丈コーデ』を追加 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -327,10 +327,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20209, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20210, /*img*/1, /*discription*/"完了時間を迎えると自動で再出発する\n「オート再出発」機能を追加しました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20210, /*img*/1, /*discription*/"営業開始時点で実行可能な回数分まで、自動で再出発を行います !\n回数制限に達している場合や\n期間が終了している場合は再出発できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20210, /*img*/1, /*discription*/"オート再出発した営業は、報酬がストックとして溜まります !\nストックされた報酬は「受取」ボタンから\nいつでも受け取ることができます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「プロデューサーExp「超」獲得キャンペーン」開催中 ! !\n大量のプロデューサーExpが獲得できるスペシャル営業が\nキャンペーン期間中1回可能です !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「プレミアムパス」や、「プロデュース方針」の\n『営業回数アップ』『営業獲得プロデューサーExpアップ』で\nさらにExpを獲得 !\n詳細はお知らせよりご確認ください。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/2, /*discription*/"「Fantasy Party\nマニー獲得キャンペーン」開催中 ! ! キャンペーン中は、\nたくさんのマニーが獲得できるスペシャル営業が\n1日1回行えます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/2, /*discription*/"「プレミアムパス」や、「プロデュース方針」の\n『営業回数アップ』『営業獲得マニーアップ』で\nさらにマニーを獲得 ! \n詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「Trick or treat ! ハッピーハロウィン親愛度アップキャンペーン」開催中 ! !\nキャンペーン中は、必ず複数のギフトアイテムが獲得できる\nスペシャル営業を3種類追加 !\n詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21001, /*img*/1, /*discription*/"拘束のまゆからの攻撃を避けつつ、ハピネシウムを集めよう。\n集めたハピネシウムをラボに届けるとスコアをゲットできるよ ! \nラボにまとめて届けるとスコアがアップ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21002, /*img*/1, /*discription*/"誘惑の奏の攻撃や障害物を回避して、ハピネシウムを集めよう。\nタップするとうさぎロボがジャンプ ! \nうさぎロボは1回だけ空中ジャンプが可能だよ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21003, /*img*/1, /*discription*/"グラスザニンジャあやめの攻撃をはじきつつ、ハピネシウムを集めよう。\nフリック操作で、照準に入った障害物をはじけ ! \n飛んでくるハピネシウムを見極めてスコアをゲットしよう ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
@@ -614,6 +611,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60043, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60043, /*img*/1, /*discription*/"また、ノスタルジーあにぷちを獲得すると、\nスタンプも同時に獲得することができます、\n※獲得したスタンプはアニメーションしません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60043, /*img*/2, /*discription*/"入手済のノスタルジーあにぷちを再度入手することで、\n「あにぷち交換チケット」を獲得することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60043, /*img*/2, /*discription*/"「あにぷち交換チケット」を必要数消費することで、\n対象のあにぷちから好きなあにぷち1個を選んで\n交換することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60044, /*img*/1, /*discription*/"セレクトショップ プリヴェの関連情報をまとめた\n「セレクトショップ ホーム」が追加されました !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60044, /*img*/1, /*discription*/"「セレクトショップ ホーム」では、\nプリヴェに入荷した新作の確認や\n「試着室」でプリヴェの商品を試着することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60044, /*img*/1, /*discription*/"「私服購入」から気に入った私服を購入したり\n「ロケ撮」からアイドルの撮影を行うこともできます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60045, /*img*/1, /*discription*/"「試着室」では、アイドルごとに着用可能な私服を試着できます。\n試着中の私服の詳細を確認したり、\nそのまま購入することもできますよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/1, /*discription*/"「LIVE PARTY!!」では、協力LIVEを行うことで、\n「スターエンブレム」が獲得できます。\n「スターエンブレム」を集めると、過去イベントの報酬や、\nアイテムとの交換ができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。\n楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/3, /*discription*/"カジュアルマッチを有効にした場合は、\n異なる難易度を選択したプロデューサーもマッチング対象となり、\nLIVEを行います。");

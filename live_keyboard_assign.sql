@@ -1,4 +1,5 @@
 CREATE TABLE 'live_keyboard_assign' ('id' INTEGER NOT NULL, 'key_code' TEXT NOT NULL, 'display_name' TEXT NOT NULL, 'assignable' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `live_keyboard_assign` VALUES (/*id*/0, /*key_code*/"None", /*display_name*/"", /*assignable*/0);
 INSERT INTO `live_keyboard_assign` VALUES (/*id*/8, /*key_code*/"Backspace", /*display_name*/"", /*assignable*/1);
 INSERT INTO `live_keyboard_assign` VALUES (/*id*/9, /*key_code*/"Tab", /*display_name*/"", /*assignable*/1);
 INSERT INTO `live_keyboard_assign` VALUES (/*id*/12, /*key_code*/"Clear", /*display_name*/"", /*assignable*/1);

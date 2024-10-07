@@ -1,2 +1,12 @@
 CREATE TABLE 'boutique_character_comment' ('text_group_id' INTEGER NOT NULL, 'seq' INTEGER NOT NULL, 'face_id' INTEGER NOT NULL, 'draw_ratio' INTEGER NOT NULL, 'voice_resource' TEXT NOT NULL, 'comment' TEXT NOT NULL, PRIMARY KEY('text_group_id','seq'));
+INSERT INTO `boutique_character_comment` VALUES (/*text_group_id*/1, /*seq*/1, /*face_id*/0, /*draw_ratio*/50, /*voice_resource*/"voice_boutique_0001_01", /*comment*/"ハァ～イ、どうも～。");
+INSERT INTO `boutique_character_comment` VALUES (/*text_group_id*/1, /*seq*/2, /*face_id*/6, /*draw_ratio*/50, /*voice_resource*/"voice_boutique_0001_02", /*comment*/"今日も楽しんでいくわよ～ !");
+INSERT INTO `boutique_character_comment` VALUES (/*text_group_id*/1, /*seq*/3, /*face_id*/8, /*draw_ratio*/40, /*voice_resource*/"voice_boutique_0001_03", /*comment*/"どのお洋服ちゃんも\n素敵なの ! じ～～っくり\n見ていってねン♪");
+INSERT INTO `boutique_character_comment` VALUES (/*text_group_id*/1, /*seq*/4, /*face_id*/2, /*draw_ratio*/40, /*voice_resource*/"voice_boutique_0001_04", /*comment*/"合言葉は～？\nチェケラッ ! アーンド…\nマストバイ !");
+INSERT INTO `boutique_character_comment` VALUES (/*text_group_id*/1, /*seq*/5, /*face_id*/6, /*draw_ratio*/40, /*voice_resource*/"voice_boutique_0001_05", /*comment*/"コーデの相談？\nいつでもオッケー♪");
+INSERT INTO `boutique_character_comment` VALUES (/*text_group_id*/1, /*seq*/6, /*face_id*/5, /*draw_ratio*/40, /*voice_resource*/"voice_boutique_0001_06", /*comment*/"ビビビッ ! ときたら\nそ・れ・が、運命よン♪");
+INSERT INTO `boutique_character_comment` VALUES (/*text_group_id*/1, /*seq*/7, /*face_id*/6, /*draw_ratio*/40, /*voice_resource*/"voice_boutique_0001_07", /*comment*/"『セレクトショップ\nプリヴェ』、今後も\nどうぞご贔屓に～ !");
+INSERT INTO `boutique_character_comment` VALUES (/*text_group_id*/1, /*seq*/8, /*face_id*/2, /*draw_ratio*/40, /*voice_resource*/"voice_boutique_0001_08", /*comment*/"変えてみない？\nアナタの世界を、\n一着のお洋服で♪");
+INSERT INTO `boutique_character_comment` VALUES (/*text_group_id*/1, /*seq*/9, /*face_id*/0, /*draw_ratio*/30, /*voice_resource*/"voice_boutique_0001_09", /*comment*/"店長はね、いつでも\nみんなのオシャレの味方。\nそれだけは、覚えておいて？");
+INSERT INTO `boutique_character_comment` VALUES (/*text_group_id*/1, /*seq*/10, /*face_id*/2, /*draw_ratio*/30, /*voice_resource*/"voice_boutique_0001_10", /*comment*/"店長のウワサ、そのいち～ !\n髪の巻き方には、\nこだわりがあるの♪");
 CREATE INDEX 'boutique_character_comment_0_text_group_id' on 'boutique_character_comment'('text_group_id');
