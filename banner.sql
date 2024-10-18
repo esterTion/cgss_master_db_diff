@@ -2304,3 +2304,11 @@ INSERT INTO `banner` VALUES (/*banner_id*/2340, /*type*/1, /*img_id*/31029, /*tr
 INSERT INTO `banner` VALUES (/*banner_id*/2341, /*type*/17, /*img_id*/2, /*transition*/0, /*page_index*/0, /*order_num*/50, /*start_date*/"2024-10-11 00:00:00", /*end_date*/"2024-10-31 23:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/2342, /*type*/17, /*img_id*/3, /*transition*/1, /*page_index*/0, /*order_num*/50, /*start_date*/"2024-11-01 00:00:00", /*end_date*/"2024-12-31 23:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/2343, /*type*/2, /*img_id*/2064, /*transition*/0, /*page_index*/0, /*order_num*/46, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
+INSERT INTO `banner` VALUES (/*banner_id*/2344, /*type*/1, /*img_id*/31030, /*transition*/0, /*page_index*/31030, /*order_num*/3, /*start_date*/"2024-10-18 15:00:00", /*end_date*/"2024-10-21 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/2345, /*type*/1, /*img_id*/60378, /*transition*/3, /*page_index*/60378, /*order_num*/1, /*start_date*/"2024-10-18 15:00:00", /*end_date*/"2024-10-19 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/2346, /*type*/1, /*img_id*/60379, /*transition*/3, /*page_index*/60379, /*order_num*/1, /*start_date*/"2024-10-19 15:00:00", /*end_date*/"2024-10-20 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/2347, /*type*/1, /*img_id*/60380, /*transition*/3, /*page_index*/60380, /*order_num*/1, /*start_date*/"2024-10-20 15:00:00", /*end_date*/"2024-10-21 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/2348, /*type*/1, /*img_id*/31031, /*transition*/0, /*page_index*/31031, /*order_num*/4, /*start_date*/"2024-10-18 15:00:00", /*end_date*/"2024-10-21 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/2349, /*type*/1, /*img_id*/60381, /*transition*/3, /*page_index*/60381, /*order_num*/2, /*start_date*/"2024-10-18 15:00:00", /*end_date*/"2024-10-19 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/2350, /*type*/1, /*img_id*/60382, /*transition*/3, /*page_index*/60382, /*order_num*/2, /*start_date*/"2024-10-19 15:00:00", /*end_date*/"2024-10-20 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/2351, /*type*/1, /*img_id*/60383, /*transition*/3, /*page_index*/60383, /*order_num*/2, /*start_date*/"2024-10-20 15:00:00", /*end_date*/"2024-10-21 14:59:59");
