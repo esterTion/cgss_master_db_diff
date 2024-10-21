@@ -2095,3 +2095,9 @@ INSERT INTO `card_location` VALUES (/*index*/2109, /*text*/"終わりに沈む�
 INSERT INTO `card_location` VALUES (/*index*/2110, /*text*/"始まりへ飛び立つ楽園");
 INSERT INTO `card_location` VALUES (/*index*/2111, /*text*/"ハウススタジオ・大広間");
 INSERT INTO `card_location` VALUES (/*index*/2112, /*text*/"看板娘、休憩中");
+INSERT INTO `card_location` VALUES (/*index*/2113, /*text*/"ハロウィンパーティー");
+INSERT INTO `card_location` VALUES (/*index*/2114, /*text*/"主人の部屋");
+INSERT INTO `card_location` VALUES (/*index*/2115, /*text*/"VR体験施設");
+INSERT INTO `card_location` VALUES (/*index*/2116, /*text*/"生まれ変わるゴーストタウン");
+INSERT INTO `card_location` VALUES (/*index*/2117, /*text*/"タワーオフィス");
+INSERT INTO `card_location` VALUES (/*index*/2118, /*text*/"美術館・パーティー会場");

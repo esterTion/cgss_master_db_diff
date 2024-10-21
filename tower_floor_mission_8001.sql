@@ -2105,7 +2105,7 @@ INSERT INTO `tower_floor_mission_8001` VALUES (/*id*/10300303, /*target_type*/3,
 INSERT INTO `tower_floor_mission_8001` VALUES (/*id*/10300304, /*target_type*/3, /*target_value*/3, /*target_value_2*/10);
 INSERT INTO `tower_floor_mission_8001` VALUES (/*id*/10300401, /*target_type*/3, /*target_value*/4, /*target_value_2*/1);
 INSERT INTO `tower_floor_mission_8001` VALUES (/*id*/10300402, /*target_type*/3, /*target_value*/4, /*target_value_2*/10);
-INSERT INTO `tower_floor_mission_8001` VALUES (/*id*/10300403, /*target_type*/3, /*target_value*/4, /*target_value_2*/15);
+INSERT INTO `tower_floor_mission_8001` VALUES (/*id*/10300403, /*target_type*/3, /*target_value*/4, /*target_value_2*/8);
 INSERT INTO `tower_floor_mission_8001` VALUES (/*id*/10410101, /*target_type*/4, /*target_value*/101, /*target_value_2*/0);
 INSERT INTO `tower_floor_mission_8001` VALUES (/*id*/10410201, /*target_type*/4, /*target_value*/102, /*target_value_2*/0);
 INSERT INTO `tower_floor_mission_8001` VALUES (/*id*/10410301, /*target_type*/4, /*target_value*/103, /*target_value_2*/0);

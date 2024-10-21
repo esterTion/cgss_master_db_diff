@@ -725,7 +725,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/12, /*discription*
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/9, /*discription*/"楽曲・ユニットおすすめ設定を使えば、\nおすすめのBOOTH設定を自動で選択してくれます。\n楽曲Lvや条件を決めて、活用しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/10, /*discription*/"BOOTHには、それぞれBOOTH効果という、\nアイドルのアピール値が上がる効果が設定されています。\nその効果に合うユニットでLIVEする事で、\nVoltageが上がりやすくなります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/11, /*discription*/"イベント専用ユニットには、他のプロデューサーさんのアイドルを\n1ユニットにつき1人までゲストアイドルとして\n編成することが出来ます。\nゲストアイドルの力を借りてBOOTHを攻略しましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/1, /*discription*/"「イベントpt報酬」、「アイドルpt報酬」、「ハイスコアランキング報酬」で、\nイベント限定のSレアアイドルやルームアイテムが獲得できます。\n本イベントではさらに「マイスタイルアイドル」の獲得と育成を\n行えます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/1, /*discription*/"「イベントpt報酬」、「アイドルpt報酬」で、\nイベント限定のSレアアイドルやルームアイテムが獲得できます。\n本イベントではさらに「マイスタイルアイドル」の獲得と育成を\n行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/2, /*discription*/"まずは育成する「マイスタイルアイドル」を選択して\nタワーに挑戦しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/2, /*discription*/"「マイスタイルアイドル」はタワーのフロア課題を達成していくことで、\n育成ptによって各ステータスが上昇したり、\nレアリティやスターランクがアップしていく特別なアイドルです。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/2, /*discription*/"過去のイベントで育成したことがあるマイスタイルアイドルも\n獲得が可能です。加入済みのアイドルと同じアイドルを選択すると、\n新たに別のマイスタイルアイドルとして加入します。\n");
@@ -740,8 +740,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/7, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/8, /*discription*/"「イベントpt」はイベント開催期間中に\nLIVEやイベント限定営業、「LIVE PARTY!!」を\n行うことで獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/8, /*discription*/"「アイドルpt」は育成アイドルごとに獲得できるptです。\nイベントptと同様、LIVEやイベント限定営業、「LIVE PARTY!!」を\n行うことで、タワーを進行中のアイドルのptを獲得できます。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/9, /*discription*/"メインタワーの50階をクリアすると、\nアイドルごとのイベント限定称号が獲得できます。\n※称号の獲得は各アイドルごとに1度までです");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/10, /*discription*/"今回のイベントで獲得できる報酬の一部をご紹介します !\n「Myスターレッスントレーナーチケット」\nセンター効果バッジ「トリコロール・メイク」\n「クール・クロス・パッション」「パッション・クロス・クール」");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/10, /*discription*/"特技バッジ「アンコール」「ライフスパークル」「チューニング」\n「フリックアクト」「コンセントレーション」\n※獲得できるバッジはイベント開催ごとに異なり、\n次回開催時には獲得できない場合があります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/10, /*discription*/"今回のイベントで獲得できる報酬の一部をご紹介します !\n「Myスターレッスントレーナーチケット」\nセンター効果バッジ「トリコロール・ボイス」「シンデレラチャーム」\n「パッション・クロス・キュート」「クール・クロス・パッション」");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80901, /*img*/10, /*discription*/"特技バッジ「PERFECTサポート」「オールラウンド」\n「ロングアクト」「SCOREボーナス」\n※獲得できるバッジはイベント開催ごとに異なり、\n次回開催時には獲得できない場合があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/81001, /*img*/1, /*discription*/"「イベント参加報酬」、「イベントpt報酬」、「アイドルpt報酬」、\n「イベントptランキング報酬」、「アイドルptランキング報酬」で、\nイベント限定のSレアアイドルやルームアイテムを手にいれましょう。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/81001, /*img*/2, /*discription*/"アイドルptランキングで50万位に入賞すると、\n自分の順位が入ったイベント称号を獲得できます。\n各称号のデザインは順位によって異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/81001, /*img*/3, /*discription*/"本イベントでは、スタミナを消費するとお仕事を行います。\nお仕事を行うと、「イベントpt」と「アイドルpt」が獲得できます。");
