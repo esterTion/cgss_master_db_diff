@@ -150,6 +150,7 @@ INSERT INTO `music_info` VALUES (/*id*/2065, /*discription*/"星街すいせい\
 INSERT INTO `music_info` VALUES (/*id*/2066, /*discription*/"小早川紗枝（CV：立花理香）\n塩見周子（CV：ルゥ ティン）\n\n\n作詞・作曲・編曲：ウツミタカアキ", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/2067, /*discription*/"宮本フレデリカ（CV：髙野麻美）\n速水奏（CV：飯田友子）\n\n\n作詞・作曲・編曲：PandaBoY", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/2068, /*discription*/"関裕美（CV：会沢紗弥）\n白菊ほたる（CV：天野聡美）\n森久保乃々（CV：高橋花林）\n\n\n作詞・作曲・編曲：トミタカズキ(SUPA LOVE)", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/2069, /*discription*/"二宮飛鳥（CV：青木志貴）\n白雪千夜（CV：関口理咲）\n\n\n作詞：アオワイファイ\n作曲・編曲：Powerless", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/2070, /*discription*/"片桐早苗（CV：和氣あず未）\n及川雫（CV：のぐちゆり）\n堀裕子（CV：鈴木絵理）\n\n\n作詞：fumi\n作曲・編曲：小野貴光", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/2071, /*discription*/"鷺沢文香（CV：M・A・O）\n鷹富士茄子（CV：森下来奈）\n\n\n作詞：井筒日美\n作曲・編曲：井上馨太（MONACA）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/2072, /*discription*/"ナターリア（CV：生田輝）\nライラ（CV：市ノ瀬加那）\n\n\n作詞・作曲・編曲：アオワイファイ", /*android_url*/"", /*ios_url*/"");
