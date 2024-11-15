@@ -1,0 +1,2 @@
+CREATE TABLE 'meetup_wipe_position' ('id' INTEGER NOT NULL, 'area_position_x' INTEGER NOT NULL, 'area_position_y' INTEGER NOT NULL, 'memory_position_x' INTEGER NOT NULL, 'memory_position_y' INTEGER NOT NULL, 'area_smart_position_x' INTEGER NOT NULL, 'area_smart_position_y' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `meetup_wipe_position` VALUES (/*id*/1, /*area_position_x*/0, /*area_position_y*/0, /*memory_position_x*/0, /*memory_position_y*/0, /*area_smart_position_x*/0, /*area_smart_position_y*/0);

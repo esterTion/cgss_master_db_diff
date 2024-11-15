@@ -5837,6 +5837,9 @@ INSERT INTO `text_data` VALUES (/*category*/95, /*index*/129, /*text*/"カテゴ
 INSERT INTO `text_data` VALUES (/*category*/95, /*index*/130, /*text*/"∞+{0}");
 INSERT INTO `text_data` VALUES (/*category*/95, /*index*/131, /*text*/"チャンスタイム");
 INSERT INTO `text_data` VALUES (/*category*/95, /*index*/132, /*text*/"セリフ全獲得で[ff228a]「{0}」[-]が\n獲得できます");
+INSERT INTO `text_data` VALUES (/*category*/95, /*index*/133, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/95, /*index*/134, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/95, /*index*/135, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/96, /*index*/1, /*text*/"もう一度\nLIVE開始");
 INSERT INTO `text_data` VALUES (/*category*/96, /*index*/2, /*text*/"LIVE開始確認");
 INSERT INTO `text_data` VALUES (/*category*/96, /*index*/3, /*text*/"同じ楽曲とユニットで\nLIVEを開始します。");
