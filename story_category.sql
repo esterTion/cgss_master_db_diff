@@ -575,3 +575,4 @@ INSERT INTO `story_category` VALUES (/*id*/599, /*type*/4, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/600, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"ヘレン / 輿水幸子", /*sub_title*/"ヘレン / 輿水幸子", /*disp_order*/249, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/601, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Fin[e]～美しき終焉～", /*sub_title*/"Fin[e]～美しき終焉～", /*disp_order*/250, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/602, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"EPHEMERAL AЯROW", /*sub_title*/"EPHEMERAL AЯROW", /*disp_order*/251, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/605, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"アイドルプロデュース～愛をこめて♡グルメ・フォー・ユー～", /*sub_title*/"アイドルプロデュース～愛をこめて♡グルメ・フォー・ユー～", /*disp_order*/252, /*filter_type*/0);

@@ -5774,8 +5774,8 @@ INSERT INTO `text_data` VALUES (/*category*/95, /*index*/66, /*text*/"プロデ�
 INSERT INTO `text_data` VALUES (/*category*/95, /*index*/67, /*text*/"イベントpt");
 INSERT INTO `text_data` VALUES (/*category*/95, /*index*/68, /*text*/"アイドルptランキング");
 INSERT INTO `text_data` VALUES (/*category*/95, /*index*/69, /*text*/"千川ちひろ");
-INSERT INTO `text_data` VALUES (/*category*/95, /*index*/70, /*text*/"ばぁっ♪ 私もプロデューサーさんを捕まえにきちゃいましたっ♪\n清良ちゃん、愛海ちゃんと真夏の逃避行、アツアツですねっ !\n走り回って疲れちゃいましたか？ もしかしてピンチだったり……？");
-INSERT INTO `text_data` VALUES (/*category*/95, /*index*/71, /*text*/"それじゃあ、この差し入れで、もっとアツくなっちゃいましょうっ !\nこの先も、アイドルとしっかり手をつないで、\n引っ張っていってあげてくださいね。レッツ・エスケープ♪");
+INSERT INTO `text_data` VALUES (/*category*/95, /*index*/70, /*text*/"じゃんっ ! ご結婚おめでとうございま～す !\n……なんて、私ったらはっちゃけちゃいました♪\n愛情たっぷりの料理道、楽しんでますか？");
+INSERT INTO `text_data` VALUES (/*category*/95, /*index*/71, /*text*/"では、も～っと楽しめるようにこちらを ! 栄養補給して、\nのあちゃんと時子ちゃんの愛、受け止めてくださいね♪\nもちろんお料理も……お残しは、めっ、ですよ？");
 INSERT INTO `text_data` VALUES (/*category*/95, /*index*/72, /*text*/"ねだる");
 INSERT INTO `text_data` VALUES (/*category*/95, /*index*/73, /*text*/"アイプロ");
 INSERT INTO `text_data` VALUES (/*category*/95, /*index*/74, /*text*/"アイドルプロデュース");
@@ -5837,8 +5837,8 @@ INSERT INTO `text_data` VALUES (/*category*/95, /*index*/129, /*text*/"カテゴ
 INSERT INTO `text_data` VALUES (/*category*/95, /*index*/130, /*text*/"∞+{0}");
 INSERT INTO `text_data` VALUES (/*category*/95, /*index*/131, /*text*/"チャンスタイム");
 INSERT INTO `text_data` VALUES (/*category*/95, /*index*/132, /*text*/"セリフ全獲得で[ff228a]「{0}」[-]が\n獲得できます");
-INSERT INTO `text_data` VALUES (/*category*/95, /*index*/133, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/95, /*index*/134, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/95, /*index*/133, /*text*/"[2d2d2d]{0}\n([-][3DA1FF]+{1}[-][2d2d2d])[-]");
+INSERT INTO `text_data` VALUES (/*category*/95, /*index*/134, /*text*/"上限に達しているため\n受け取れない報酬が\nありました。");
 INSERT INTO `text_data` VALUES (/*category*/95, /*index*/135, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/96, /*index*/1, /*text*/"もう一度\nLIVE開始");
 INSERT INTO `text_data` VALUES (/*category*/96, /*index*/2, /*text*/"LIVE開始確認");
