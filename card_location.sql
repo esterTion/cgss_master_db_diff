@@ -2115,3 +2115,5 @@ INSERT INTO `card_location` VALUES (/*index*/2129, /*text*/"寿司屋・修行�
 INSERT INTO `card_location` VALUES (/*index*/2130, /*text*/"オフィス街・愛に満ちた朝");
 INSERT INTO `card_location` VALUES (/*index*/2131, /*text*/"調理場");
 INSERT INTO `card_location` VALUES (/*index*/2132, /*text*/"新婚♡の愛の巣");
+INSERT INTO `card_location` VALUES (/*index*/2133, /*text*/"文化祭後の静かな教室");
+INSERT INTO `card_location` VALUES (/*index*/2134, /*text*/"希望に続く空");

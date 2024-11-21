@@ -331,3 +331,4 @@ INSERT INTO `gift_message` VALUES (/*id*/20125, /*discription*/"「祝9周年 ! 
 INSERT INTO `gift_message` VALUES (/*id*/20126, /*discription*/"「デレステ特訓パズルクエスト」キャンペーンのプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20127, /*discription*/"「STARLIGHT FANTASY連動キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20128, /*discription*/"「ノスタルジーあにぷち」追加記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20129, /*discription*/"「THE IDOLM@STER CINDERELLA GIRLS アニバーサリー生配信 ～NEXT STEP!!!～」放送記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
