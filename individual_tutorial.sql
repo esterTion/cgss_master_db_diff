@@ -284,7 +284,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーは\n倉庫収納数から除外されます。\n収納していても、収納数にカウントされません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ルーム倉庫の収納数上限と\nマイセットを保存できる数が増加 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/2, /*discription*/"「リビルド・キャッスル」テーマのアイテムとコーデを追加 !\n少女たちの魔法で、かつての姿を取り戻したお城です !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"セレクトショップで販売している私服の衣装スタンド\n『衣装スタンド/愛纏う、ロイヤルマリッジドレス』\n『衣装スタンド/ゴー ! ゴー ! チアー ! 』を追加 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"セレクトショップで販売している私服の衣装スタンド\n『衣装スタンド/夏咲く乙女ワンピース』を追加 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -1158,10 +1158,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90703, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90703, /*img*/3, /*discription*/"「やる気UPにんじん」は初めて特設ページに入った際に獲得でき、\nキャンペーン期間中の12/13～12/24の間にLIVEをプレイするか\n1日1回限定のスペシャル営業のプレイでも獲得できます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90703, /*img*/4, /*discription*/"やる気レベルが上がったら、特設ページ右にある「アイドルに会う」\nボタンをタップしてプレゼントを渡すアイドルを選択しましょう ! \nやる気レベルに応じて最大5人まで選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90703, /*img*/5, /*discription*/"プレゼントは12/25 00:00以降にアイドルへ渡すことができます。\nブリッツェンと一緒にクリスマスプレゼントをアイドルに渡して\nクリスマスを楽しみましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90801, /*img*/1, /*discription*/"「第5回セレクトショップアナザーサイズリクエスト」\nが始まりました ! ");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90801, /*img*/1, /*discription*/"「第6回セレクトショップアナザーサイズリクエスト」\nが始まりました ! ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90801, /*img*/1, /*discription*/"セレクトショップで販売中の私服の中から、\nリクエスト投票が最も多い私服を、全てのアイドルが\n着られるように店長が追加オーダーしてくれます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90801, /*img*/1, /*discription*/"リクエスト用紙で、\nお気に入りの私服にリクエスト投票しましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90801, /*img*/1, /*discription*/"投票期間は8月13日15:00～\n8月20日23:59までの8日間です。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90801, /*img*/1, /*discription*/"投票期間は12月5日15:00～\n12月12日23:59までの8日間です。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90801, /*img*/2, /*discription*/"リクエスト用紙は、\n投票期間中にログインすることで\n1枚獲得することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90801, /*img*/2, /*discription*/"リクエスト用紙を使用して投票に参加すると、\n報酬として「魔法の生地」20個を獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90801, /*img*/2, /*discription*/"衣装の詳細は本特設ページの「i」ボタンで開く\n衣装詳細から確認できます。");
