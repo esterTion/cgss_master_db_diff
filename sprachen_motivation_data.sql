@@ -14,5 +14,15 @@ INSERT INTO `sprachen_motivation_data` VALUES (/*campaign_id*/3002, /*motivation
 INSERT INTO `sprachen_motivation_data` VALUES (/*campaign_id*/3002, /*motivation_pt*/6000, /*step_id*/8, /*slot_num*/5, /*reward_type*/5, /*reward_id*/1005, /*reward_value*/15);
 INSERT INTO `sprachen_motivation_data` VALUES (/*campaign_id*/3002, /*motivation_pt*/8000, /*step_id*/9, /*slot_num*/5, /*reward_type*/5, /*reward_id*/30007, /*reward_value*/1);
 INSERT INTO `sprachen_motivation_data` VALUES (/*campaign_id*/3002, /*motivation_pt*/10000, /*step_id*/10, /*slot_num*/5, /*reward_type*/5, /*reward_id*/20001, /*reward_value*/1);
+INSERT INTO `sprachen_motivation_data` VALUES (/*campaign_id*/3003, /*motivation_pt*/0, /*step_id*/1, /*slot_num*/1, /*reward_type*/0, /*reward_id*/0, /*reward_value*/0);
+INSERT INTO `sprachen_motivation_data` VALUES (/*campaign_id*/3003, /*motivation_pt*/100, /*step_id*/2, /*slot_num*/2, /*reward_type*/7, /*reward_id*/7010, /*reward_value*/1);
+INSERT INTO `sprachen_motivation_data` VALUES (/*campaign_id*/3003, /*motivation_pt*/300, /*step_id*/3, /*slot_num*/3, /*reward_type*/5, /*reward_id*/30006, /*reward_value*/5);
+INSERT INTO `sprachen_motivation_data` VALUES (/*campaign_id*/3003, /*motivation_pt*/600, /*step_id*/4, /*slot_num*/4, /*reward_type*/5, /*reward_id*/30025, /*reward_value*/1);
+INSERT INTO `sprachen_motivation_data` VALUES (/*campaign_id*/3003, /*motivation_pt*/1000, /*step_id*/5, /*slot_num*/5, /*reward_type*/5, /*reward_id*/20001, /*reward_value*/1);
+INSERT INTO `sprachen_motivation_data` VALUES (/*campaign_id*/3003, /*motivation_pt*/2500, /*step_id*/6, /*slot_num*/5, /*reward_type*/5, /*reward_id*/74002, /*reward_value*/10);
+INSERT INTO `sprachen_motivation_data` VALUES (/*campaign_id*/3003, /*motivation_pt*/4000, /*step_id*/7, /*slot_num*/5, /*reward_type*/5, /*reward_id*/74003, /*reward_value*/10);
+INSERT INTO `sprachen_motivation_data` VALUES (/*campaign_id*/3003, /*motivation_pt*/6000, /*step_id*/8, /*slot_num*/5, /*reward_type*/5, /*reward_id*/1005, /*reward_value*/15);
+INSERT INTO `sprachen_motivation_data` VALUES (/*campaign_id*/3003, /*motivation_pt*/8000, /*step_id*/9, /*slot_num*/5, /*reward_type*/5, /*reward_id*/30007, /*reward_value*/1);
+INSERT INTO `sprachen_motivation_data` VALUES (/*campaign_id*/3003, /*motivation_pt*/10000, /*step_id*/10, /*slot_num*/5, /*reward_type*/5, /*reward_id*/20001, /*reward_value*/1);
 CREATE INDEX 'sprachen_motivation_data_0_campaign_id' on 'sprachen_motivation_data'('campaign_id');
 CREATE INDEX 'sprachen_motivation_data_0_step_id' on 'sprachen_motivation_data'('step_id');

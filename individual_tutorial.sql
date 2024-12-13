@@ -1155,7 +1155,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90702, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90702, /*img*/3, /*discription*/"用意したプレゼントは3月14日0:00以降にアイドルへ\n渡すことができます。あなたが選んだプレゼントを\nアイドルに渡して感謝の気持ちを伝えましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90703, /*img*/1, /*discription*/"ハッピークリスマスキャンペーン開催 !\n特設ページにいるブリッツェンのやる気を上げて\nアイドルにクリスマスプレゼントを渡しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90703, /*img*/2, /*discription*/"集めた「やる気UPにんじん」を特設ページにいるブリッツェンに\n渡すとやる気ゲージが溜まります ! やる気ゲージが満タンになると\nやる気レベルが上がり、報酬を獲得することができます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90703, /*img*/3, /*discription*/"「やる気UPにんじん」は初めて特設ページに入った際に獲得でき、\nキャンペーン期間中の12/13～12/24の間にLIVEをプレイするか\n1日1回限定のスペシャル営業のプレイでも獲得できます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90703, /*img*/3, /*discription*/"「やる気UPにんじん」は初めて特設ページに入った際に獲得でき、\nキャンペーン期間中の12/13～12/24の間にLIVEをプレイするか\n1日1回限定のキャンペーン営業のプレイでも獲得できます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90703, /*img*/4, /*discription*/"やる気レベルが上がったら、特設ページ右にある「アイドルに会う」\nボタンをタップしてプレゼントを渡すアイドルを選択しましょう ! \nやる気レベルに応じて最大5人まで選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90703, /*img*/5, /*discription*/"プレゼントは12/25 00:00以降にアイドルへ渡すことができます。\nブリッツェンと一緒にクリスマスプレゼントをアイドルに渡して\nクリスマスを楽しみましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90801, /*img*/1, /*discription*/"「第6回セレクトショップアナザーサイズリクエスト」\nが始まりました ! ");
