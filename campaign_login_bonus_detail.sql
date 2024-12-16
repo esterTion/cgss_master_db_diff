@@ -82,3 +82,4 @@ INSERT INTO `campaign_login_bonus_detail` VALUES (/*id*/9259, /*bg_music_img*/90
 INSERT INTO `campaign_login_bonus_detail` VALUES (/*id*/9261, /*bg_music_img*/1034, /*plate_img_id*/3, /*pos_y_diff*/0);
 INSERT INTO `campaign_login_bonus_detail` VALUES (/*id*/9262, /*bg_music_img*/1001, /*plate_img_id*/1, /*pos_y_diff*/0);
 INSERT INTO `campaign_login_bonus_detail` VALUES (/*id*/9263, /*bg_music_img*/1001, /*plate_img_id*/1, /*pos_y_diff*/0);
+INSERT INTO `campaign_login_bonus_detail` VALUES (/*id*/9264, /*bg_music_img*/1037, /*plate_img_id*/17, /*pos_y_diff*/-15);
