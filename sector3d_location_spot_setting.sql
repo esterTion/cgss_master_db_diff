@@ -27,4 +27,8 @@ INSERT INTO `sector3d_location_spot_setting` VALUES (/*id*/25, /*location_id*/20
 INSERT INTO `sector3d_location_spot_setting` VALUES (/*id*/26, /*location_id*/20000004, /*location_spot_id*/6, /*tile_size_x*/9, /*tile_size_y*/9, /*tile_size_z*/2, /*default_room_item_id*/0);
 INSERT INTO `sector3d_location_spot_setting` VALUES (/*id*/27, /*location_id*/20000004, /*location_spot_id*/7, /*tile_size_x*/5, /*tile_size_y*/5, /*tile_size_z*/2, /*default_room_item_id*/0);
 INSERT INTO `sector3d_location_spot_setting` VALUES (/*id*/28, /*location_id*/20000004, /*location_spot_id*/8, /*tile_size_x*/3, /*tile_size_y*/2, /*tile_size_z*/1, /*default_room_item_id*/0);
+INSERT INTO `sector3d_location_spot_setting` VALUES (/*id*/29, /*location_id*/20000005, /*location_spot_id*/0, /*tile_size_x*/3, /*tile_size_y*/3, /*tile_size_z*/1, /*default_room_item_id*/10000023);
+INSERT INTO `sector3d_location_spot_setting` VALUES (/*id*/30, /*location_id*/20000005, /*location_spot_id*/1, /*tile_size_x*/2, /*tile_size_y*/2, /*tile_size_z*/1, /*default_room_item_id*/10000024);
+INSERT INTO `sector3d_location_spot_setting` VALUES (/*id*/31, /*location_id*/20000005, /*location_spot_id*/2, /*tile_size_x*/2, /*tile_size_y*/2, /*tile_size_z*/1, /*default_room_item_id*/20000036);
+INSERT INTO `sector3d_location_spot_setting` VALUES (/*id*/32, /*location_id*/20000005, /*location_spot_id*/3, /*tile_size_x*/3, /*tile_size_y*/2, /*tile_size_z*/1, /*default_room_item_id*/0);
 CREATE INDEX 'sector3d_location_spot_setting_0_location_id' on 'sector3d_location_spot_setting'('location_id');

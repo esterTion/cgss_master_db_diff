@@ -470,7 +470,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40007, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40008, /*img*/1, /*discription*/"レッスンパートナーは最大250人まで選択でき、\n一度にレッスンできます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40008, /*img*/2, /*discription*/"一度のレッスンで特技Lvを複数上昇させることができます");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40008, /*img*/3, /*discription*/"おすすめ選択では、特技Lvを条件にして\n自動的にパートナー選択ができます。\n※選択されたパートナーの内容は必ずご確認ください");
-INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/1, /*discription*/"最大27ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/1, /*discription*/"最大45ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/3, /*discription*/"お気に入りのアイドルを編成することができます。\nお気に入りのアイドルはホームとルームに登場します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40101, /*img*/4, /*discription*/"特訓後のアイドルは、特訓前の状態にすることができます。\n切り替えを行うと、ホームやルームで登場するアイドルが\n特訓前の状態になります。");
@@ -484,6 +484,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/40301, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/40301, /*img*/3, /*discription*/"女子寮はショップからスタージュエルを使用して\n追加することができます。\n※女子寮機能公開後、第1女子寮は無条件で使用できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40401, /*img*/1, /*discription*/"ユニットは最大「27」まで編成することができます。\n「切り替えボタン」を押すと表示するユニットの切り替えができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40401, /*img*/2, /*discription*/"LIVEでは、左下の「ユニットボタン」を押すことで\n表示するユニットの切り替えができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40402, /*img*/1, /*discription*/"ユニットは最大「45」まで編成することができます。\n「切り替えボタン」を押すと表示するユニットの切り替えができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/40402, /*img*/2, /*discription*/"LIVEでは、左下の「ユニットボタン」を押すことで\n表示するユニットの切り替えができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40501, /*img*/1, /*discription*/"「2D衣装変更機能」を利用すると、\n2DLIVEやルームでアイドルたちの衣装を\n変更することができます !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40501, /*img*/2, /*discription*/"2D衣装はアイドル編成、お気に入り編成、\nおよびMVモードのユニット確認画面にて変更することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40502, /*img*/1, /*discription*/"「ドレスコーデ」では、対応衣装の\n色を自由に変更して衣装をコーディネイトできます !");
