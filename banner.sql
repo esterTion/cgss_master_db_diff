@@ -2356,5 +2356,10 @@ INSERT INTO `banner` VALUES (/*banner_id*/2394, /*type*/1, /*img_id*/31049, /*tr
 INSERT INTO `banner` VALUES (/*banner_id*/2395, /*type*/1, /*img_id*/60393, /*transition*/3, /*page_index*/60393, /*order_num*/2, /*start_date*/"2024-12-16 15:00:00", /*end_date*/"2024-12-17 14:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/2396, /*type*/1, /*img_id*/60394, /*transition*/3, /*page_index*/60394, /*order_num*/2, /*start_date*/"2024-12-17 15:00:00", /*end_date*/"2024-12-18 14:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/2397, /*type*/1, /*img_id*/60395, /*transition*/3, /*page_index*/60395, /*order_num*/2, /*start_date*/"2024-12-18 15:00:00", /*end_date*/"2024-12-19 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/2398, /*type*/2, /*img_id*/6044, /*transition*/0, /*page_index*/0, /*order_num*/46, /*start_date*/"2015-04-01 15:00:00", /*end_date*/"2030-04-01 14:00:00");
 INSERT INTO `banner` VALUES (/*banner_id*/2399, /*type*/17, /*img_id*/2, /*transition*/0, /*page_index*/0, /*order_num*/50, /*start_date*/"2024-12-18 00:00:00", /*end_date*/"2024-12-31 23:59:59");
 INSERT INTO `banner` VALUES (/*banner_id*/2400, /*type*/1, /*img_id*/31050, /*transition*/0, /*page_index*/31050, /*order_num*/1, /*start_date*/"2024-12-19 15:00:00", /*end_date*/"2024-12-25 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/2401, /*type*/12, /*img_id*/2401, /*transition*/0, /*page_index*/0, /*order_num*/26, /*start_date*/"2024-12-27 00:00:00", /*end_date*/"2025-02-12 23:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/2402, /*type*/1, /*img_id*/31051, /*transition*/0, /*page_index*/31051, /*order_num*/1, /*start_date*/"2024-12-25 15:00:00", /*end_date*/"2024-12-27 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/2403, /*type*/1, /*img_id*/31052, /*transition*/0, /*page_index*/31052, /*order_num*/2, /*start_date*/"2024-12-25 15:00:00", /*end_date*/"2024-12-27 14:59:59");
+INSERT INTO `banner` VALUES (/*banner_id*/2404, /*type*/1, /*img_id*/31053, /*transition*/0, /*page_index*/31053, /*order_num*/3, /*start_date*/"2024-12-25 15:00:00", /*end_date*/"2024-12-27 14:59:59");

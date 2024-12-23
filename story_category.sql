@@ -577,3 +577,4 @@ INSERT INTO `story_category` VALUES (/*id*/601, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/602, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"EPHEMERAL AЯROW", /*sub_title*/"EPHEMERAL AЯROW", /*disp_order*/251, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/605, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"アイドルプロデュース～愛をこめて♡グルメ・フォー・ユー～", /*sub_title*/"アイドルプロデュース～愛をこめて♡グルメ・フォー・ユー～", /*disp_order*/252, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/606, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"We wish your smile", /*sub_title*/"We wish your smile", /*disp_order*/253, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/607, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"原田美世 / 向井拓海", /*sub_title*/"原田美世 / 向井拓海", /*disp_order*/254, /*filter_type*/0);
