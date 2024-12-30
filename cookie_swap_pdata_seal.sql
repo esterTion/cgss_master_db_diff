@@ -3,4 +3,8 @@ INSERT INTO `cookie_swap_pdata_seal` VALUES (/*id*/1, /*campaign_id*/20007, /*ev
 INSERT INTO `cookie_swap_pdata_seal` VALUES (/*id*/2, /*campaign_id*/20007, /*evaluation_min*/30, /*evaluation_max*/49, /*seal_result*/2);
 INSERT INTO `cookie_swap_pdata_seal` VALUES (/*id*/3, /*campaign_id*/20007, /*evaluation_min*/50, /*evaluation_max*/79, /*seal_result*/3);
 INSERT INTO `cookie_swap_pdata_seal` VALUES (/*id*/4, /*campaign_id*/20007, /*evaluation_min*/80, /*evaluation_max*/100, /*seal_result*/4);
+INSERT INTO `cookie_swap_pdata_seal` VALUES (/*id*/5, /*campaign_id*/20008, /*evaluation_min*/1, /*evaluation_max*/29, /*seal_result*/1);
+INSERT INTO `cookie_swap_pdata_seal` VALUES (/*id*/6, /*campaign_id*/20008, /*evaluation_min*/30, /*evaluation_max*/49, /*seal_result*/2);
+INSERT INTO `cookie_swap_pdata_seal` VALUES (/*id*/7, /*campaign_id*/20008, /*evaluation_min*/50, /*evaluation_max*/79, /*seal_result*/3);
+INSERT INTO `cookie_swap_pdata_seal` VALUES (/*id*/8, /*campaign_id*/20008, /*evaluation_min*/80, /*evaluation_max*/100, /*seal_result*/4);
 CREATE INDEX 'cookie_swap_pdata_seal_0_campaign_id' on 'cookie_swap_pdata_seal'('campaign_id');

@@ -58,3 +58,8 @@ INSERT INTO `cookie_swap_story_detail` VALUES (/*id*/6580, /*campaign_id*/20007,
 INSERT INTO `cookie_swap_story_detail` VALUES (/*id*/6581, /*campaign_id*/20007, /*type*/0, /*next_detail_id*/6582);
 INSERT INTO `cookie_swap_story_detail` VALUES (/*id*/6582, /*campaign_id*/20007, /*type*/0, /*next_detail_id*/6583);
 INSERT INTO `cookie_swap_story_detail` VALUES (/*id*/6583, /*campaign_id*/20007, /*type*/2, /*next_detail_id*/0);
+INSERT INTO `cookie_swap_story_detail` VALUES (/*id*/7037, /*campaign_id*/20008, /*type*/1, /*next_detail_id*/0);
+INSERT INTO `cookie_swap_story_detail` VALUES (/*id*/7038, /*campaign_id*/20008, /*type*/0, /*next_detail_id*/7037);
+INSERT INTO `cookie_swap_story_detail` VALUES (/*id*/7039, /*campaign_id*/20008, /*type*/0, /*next_detail_id*/7038);
+INSERT INTO `cookie_swap_story_detail` VALUES (/*id*/7040, /*campaign_id*/20008, /*type*/0, /*next_detail_id*/7039);
+INSERT INTO `cookie_swap_story_detail` VALUES (/*id*/7041, /*campaign_id*/20008, /*type*/2, /*next_detail_id*/0);

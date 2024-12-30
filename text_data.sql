@@ -2591,7 +2591,11 @@ INSERT INTO `text_data` VALUES (/*category*/29, /*index*/101, /*text*/"活動報
 INSERT INTO `text_data` VALUES (/*category*/29, /*index*/102, /*text*/"キャンペーンログインボーナス獲得 !");
 INSERT INTO `text_data` VALUES (/*category*/29, /*index*/103, /*text*/"オールスターカウントダウンLIVE開催中 !");
 INSERT INTO `text_data` VALUES (/*category*/29, /*index*/104, /*text*/"{0}～{1}");
-INSERT INTO `text_data` VALUES (/*category*/29, /*index*/105, /*text*/"期間限定オートLIVEチケットが新登場 !\nLIVEをプレイして豪華景品を獲得しましょう !");
+INSERT INTO `text_data` VALUES (/*category*/29, /*index*/105, /*text*/"期間限定オートLIVEチケット配布中 !\nLIVEをプレイして豪華景品を獲得しましょう !");
+INSERT INTO `text_data` VALUES (/*category*/29, /*index*/106, /*text*/"アイドル獲得回数合計");
+INSERT INTO `text_data` VALUES (/*category*/29, /*index*/107, /*text*/"獲得アイドル種数");
+INSERT INTO `text_data` VALUES (/*category*/29, /*index*/108, /*text*/"絆Lv");
+INSERT INTO `text_data` VALUES (/*category*/29, /*index*/109, /*text*/"種");
 INSERT INTO `text_data` VALUES (/*category*/29, /*index*/10001, /*text*/"チケットドロップ率アップ!");
 INSERT INTO `text_data` VALUES (/*category*/29, /*index*/20001, /*text*/"ログイン情報");
 INSERT INTO `text_data` VALUES (/*category*/29, /*index*/20002, /*text*/"LIVE情報");
@@ -3233,6 +3237,7 @@ INSERT INTO `text_data` VALUES (/*category*/44, /*index*/41, /*text*/"ドレス�
 INSERT INTO `text_data` VALUES (/*category*/44, /*index*/42, /*text*/"　このドレスチケットはスターピース交換、\nドレスチケット交換で入手できないチケットです。");
 INSERT INTO `text_data` VALUES (/*category*/44, /*index*/43, /*text*/"　このドレスチケットはドレスチケット交換で\n入手できないチケットです。");
 INSERT INTO `text_data` VALUES (/*category*/44, /*index*/44, /*text*/"　交換できるドレスチケットを所持しています");
+INSERT INTO `text_data` VALUES (/*category*/44, /*index*/45, /*text*/"まとめて\n選択");
 INSERT INTO `text_data` VALUES (/*category*/45, /*index*/1, /*text*/"フリー枠アイドル");
 INSERT INTO `text_data` VALUES (/*category*/45, /*index*/2, /*text*/"フリー枠\nクリア");
 INSERT INTO `text_data` VALUES (/*category*/45, /*index*/3, /*text*/"フリー枠クリア確認");

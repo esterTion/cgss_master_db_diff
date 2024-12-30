@@ -2,9 +2,9 @@ CREATE TABLE 'live_part_sing' ('live_data_id' INTEGER NOT NULL, 'type' INTEGER N
 INSERT INTO `live_part_sing` VALUES (/*live_data_id*/2, /*type*/1, /*member*/5, /*chara_id*/"101,150,167,197,198,227,234", /*chara_slot_id*/"");
 INSERT INTO `live_part_sing` VALUES (/*live_data_id*/23, /*type*/1, /*member*/3, /*chara_id*/"108,112,134", /*chara_slot_id*/"");
 INSERT INTO `live_part_sing` VALUES (/*live_data_id*/25, /*type*/1, /*member*/2, /*chara_id*/"185,198,227", /*chara_slot_id*/"");
-INSERT INTO `live_part_sing` VALUES (/*live_data_id*/41, /*type*/1, /*member*/5, /*chara_id*/"101,111,127,134,154", /*chara_slot_id*/"");
-INSERT INTO `live_part_sing` VALUES (/*live_data_id*/42, /*type*/1, /*member*/5, /*chara_id*/"167,178,185,197,198", /*chara_slot_id*/"");
-INSERT INTO `live_part_sing` VALUES (/*live_data_id*/43, /*type*/1, /*member*/5, /*chara_id*/"234,243,267,268,271", /*chara_slot_id*/"");
+INSERT INTO `live_part_sing` VALUES (/*live_data_id*/41, /*type*/5, /*member*/5, /*chara_id*/"101,111,127,134,154", /*chara_slot_id*/"1,2,3,4,5");
+INSERT INTO `live_part_sing` VALUES (/*live_data_id*/42, /*type*/5, /*member*/5, /*chara_id*/"167,178,185,197,198", /*chara_slot_id*/"1,2,3,4,5");
+INSERT INTO `live_part_sing` VALUES (/*live_data_id*/43, /*type*/5, /*member*/5, /*chara_id*/"234,243,267,268,271", /*chara_slot_id*/"1,2,3,4,5");
 INSERT INTO `live_part_sing` VALUES (/*live_data_id*/54, /*type*/1, /*member*/5, /*chara_id*/"126,131,220,223,267", /*chara_slot_id*/"");
 INSERT INTO `live_part_sing` VALUES (/*live_data_id*/61, /*type*/1, /*member*/5, /*chara_id*/"101,126,127,167,197,220,263,267,280", /*chara_slot_id*/"");
 INSERT INTO `live_part_sing` VALUES (/*live_data_id*/62, /*type*/1, /*member*/5, /*chara_id*/"115,180,188,237,243,283", /*chara_slot_id*/"");
