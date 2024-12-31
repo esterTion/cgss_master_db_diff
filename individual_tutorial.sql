@@ -239,6 +239,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/11135, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/11135, /*img*/1, /*discription*/"プラチナ10連ガシャチケットなどの\nアイテム2種がセットに含まれます !\n※有償スタージュエルでのみ購入することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11135, /*img*/2, /*discription*/"「スカウトチケット」はアイドルをスカウトできるアイテム\nです。スカウトできるアイドルは、「対象アイドル」ボタン\nからご確認ください。※スカウトチケットの種類によって\nスカウトできるアイドルは異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11135, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で登場します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11137, /*img*/1, /*discription*/"スペシャルガシャセットは期間限定販売です。\n一部の期間限定アイドルもスカウトできる\nチケット2種と");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11137, /*img*/1, /*discription*/"プラチナ10連ガシャチケットなどの\nアイテム3種がセットに含まれます !\n※有償スタージュエルでのみ購入することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11137, /*img*/2, /*discription*/"「スカウトチケット」はアイドルをスカウトできるアイテム\nです。スカウトできるアイドルは、「対象アイドル」ボタン\nからご確認ください。※スカウトチケットの種類によって\nスカウトできるアイドルは異なります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11137, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で登場します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/12003, /*img*/1, /*discription*/"「CM記念 ! ハッピーウサイヤーガシャ」を引くと、\n『ウサシャイン』が獲得できます。\n※『ウサシャイン』は提供期間が決まっています。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/12003, /*img*/2, /*discription*/"期間中に『ウサシャイン』を必要数獲得すると、\n対象のアイドルを1人スカウトすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/12003, /*img*/3, /*discription*/"提供期間を過ぎた『ウサシャイン』は、\n『スターピース』に自動で変換されます。\n『スターピース』は、アイテムと交換することができます。");
@@ -334,8 +338,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20209, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20210, /*img*/1, /*discription*/"完了時間を迎えると自動で再出発する\n「オート再出発」機能を追加しました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20210, /*img*/1, /*discription*/"営業開始時点で実行可能な回数分まで、自動で再出発を行います !\n回数制限に達している場合や\n期間が終了している場合は再出発できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20210, /*img*/1, /*discription*/"オート再出発した営業は、報酬がストックとして溜まります !\nストックされた報酬は「受取」ボタンから\nいつでも受け取ることができます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「LIVE Carnival開催直前 ! 強化合宿限定\n育成強化キャンペーン」開催中 ! !\n強化合宿キャンペーン中は、トレチケが獲得できる\nキャンペーン営業を追加 ! 詳細はお知らせよりご確認ください。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/2, /*discription*/"「LIVE Carnival開催直前 ! 強化合宿限定\n特訓支援キャンペーン」開催中 ! ! 強化合宿キャンペーン中は、\n必ず複数の特訓アイテムが獲得できるキャンペーン営業が\n1日3回行えます ! 詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「プロデューサーExp「超」獲得キャンペーン」開催中 ! !\n大量のプロデューサーExpが獲得できるキャンペーン営業が\nキャンペーン期間中1回可能です !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「プレミアムパス」や、「プロデュース方針」の\n『営業回数アップ』『営業獲得プロデューサーExpアップ』で\nさらにExpを獲得 !\n詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/2, /*discription*/"「新春 ! ハッピーニューイヤー\nマニー獲得キャンペーン」開催中 ! ! キャンペーン中は、\nたくさんのマニーが獲得できるキャンペーン営業が\n1日1回行えます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/2, /*discription*/"「プレミアムパス」や、「プロデュース方針」の\n『営業回数アップ』『営業獲得マニーアップ』で\nさらにマニーを獲得 ! \n詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21001, /*img*/1, /*discription*/"拘束のまゆからの攻撃を避けつつ、ハピネシウムを集めよう。\n集めたハピネシウムをラボに届けるとスコアをゲットできるよ ! \nラボにまとめて届けるとスコアがアップ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21002, /*img*/1, /*discription*/"誘惑の奏の攻撃や障害物を回避して、ハピネシウムを集めよう。\nタップするとうさぎロボがジャンプ ! \nうさぎロボは1回だけ空中ジャンプが可能だよ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21003, /*img*/1, /*discription*/"グラスザニンジャあやめの攻撃をはじきつつ、ハピネシウムを集めよう。\nフリック操作で、照準に入った障害物をはじけ ! \n飛んでくるハピネシウムを見極めてスコアをゲットしよう ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
@@ -436,9 +442,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/30032, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/30032, /*img*/1, /*discription*/"まず「セット中スタンプ」の中から、変更したいスタンプを選択し、\n次にスタンプの一覧から、設定したいスタンプを選択しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30032, /*img*/2, /*discription*/"スタンプの設定が済んだら、最後に「保存」ボタンを押しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/30032, /*img*/2, /*discription*/"スタンプの設定を初期状態に戻したい場合は、\n「初期設定」ボタンを押しましょう。\nおすすめのスタンプ設定が適用されます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「Happy Christmas ! 今年もプロデュースお疲れ様でした\nスペシャルLIVEキャンペーン」開催中 ! !\n期間中にLIVEをクリアすると、\n期間限定のアイテムを獲得できます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「LIVE Carnival開催直前 ! 強化合宿限定\nスペシャルLIVEキャンペーン」開催中 ! !\n期間中にクリアしたLIVEでは、期間限定のアイテムと\n今まで出現した限定トレチケを獲得できます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/3, /*discription*/"「LIVE Carnival開催直前 ! 強化合宿限定\n特訓支援キャンペーン」開催中 ! ! 強化合宿キャンペーン中は、\nLIVE成功時のティアラと魔法のドレスのドロップ率が\nさらにアップします ! 詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/1, /*discription*/"「新春 ! ハッピーニューイヤースペシャルLIVEキャンペーン」\n開催中 ! 期間中にLIVEをクリアすると、\n期間限定のアイテムを獲得できます !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/30099, /*img*/2, /*discription*/"「特訓支援キャンペーン」開催中 ! !\nLIVE成功時にティアラと魔法のドレスのドロップ率が\nアップします ! 詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"LIVEに登場するユニットを編成することができます。\nユニットは5人編成で、5人未満ではLIVEに参加できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/1, /*discription*/"最大9ユニットまで編成することができます。\nメインユニットのセンターアイドルが同僚のゲストや\nプロフィール画面に設定されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/40001, /*img*/2, /*discription*/"最適化する楽曲タイプやステータスを設定し、\n簡単におすすめ編成をすることができます。");
