@@ -3522,7 +3522,7 @@ INSERT INTO `text_data` VALUES (/*category*/49, /*index*/70, /*text*/"キャン�
 INSERT INTO `text_data` VALUES (/*category*/49, /*index*/71, /*text*/"全て解除");
 INSERT INTO `text_data` VALUES (/*category*/49, /*index*/72, /*text*/"決定");
 INSERT INTO `text_data` VALUES (/*category*/49, /*index*/73, /*text*/"{0}回目で解放 !");
-INSERT INTO `text_data` VALUES (/*category*/49, /*index*/74, /*text*/"-");
+INSERT INTO `text_data` VALUES (/*category*/49, /*index*/74, /*text*/"---");
 INSERT INTO `text_data` VALUES (/*category*/49, /*index*/75, /*text*/"{0}回目");
 INSERT INTO `text_data` VALUES (/*category*/49, /*index*/76, /*text*/"交換アイテム入手 !");
 INSERT INTO `text_data` VALUES (/*category*/49, /*index*/77, /*text*/"ストップアイテムを入手したため、\nカーニバルメダル[D33D98]{0}[-]個を使い\nガシャ[D33D98]{1}[-]回をした所で、交換を停止しました。");
