@@ -27,3 +27,4 @@ INSERT INTO `brand_data` VALUES (/*id*/25, /*brand_name*/"Bridal Grace", /*brand
 INSERT INTO `brand_data` VALUES (/*id*/26, /*brand_name*/"CHEER MATE", /*brand_text*/"CHEER MATE");
 INSERT INTO `brand_data` VALUES (/*id*/27, /*brand_name*/"MILKTEA PARTY", /*brand_text*/"MILKTEA PARTY");
 INSERT INTO `brand_data` VALUES (/*id*/28, /*brand_name*/"Hug me", /*brand_text*/"Hug me");
+INSERT INTO `brand_data` VALUES (/*id*/29, /*brand_name*/"& Need...", /*brand_text*/"& Need...");
