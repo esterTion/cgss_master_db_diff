@@ -239,6 +239,7 @@ INSERT INTO `music_info` VALUES (/*id*/3078, /*discription*/"西園寺琴歌（C
 INSERT INTO `music_info` VALUES (/*id*/3079, /*discription*/"イヴ・サンタクロース（CV：松永あかね）\n\n\n作詞：七条レタス（IOSYS）\n作曲・編曲：D.watt（IOSYS）", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/3080, /*discription*/"白雪千夜（CV：関口理咲）\n\n\n作詞・作曲・編曲：竹市佳伸", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/3081, /*discription*/"浅利七海（CV：井上ほの花）\n\n\n作詞：八城雄太\n作曲：俊龍\n編曲：Sizuk", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/3082, /*discription*/"難波笑美（CV：伊達朱里紗）\n\n\n作詞：fumi\n作曲・編曲：小野貴光", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/3201, /*discription*/"島村卯月（CV：大橋彩香）\n\n\n作詞：森由里子\n作曲・編曲：滝澤俊輔（TRYTONELABO）", /*android_url*/"https://columbia.jp/sl-stage/haishin/COCC-17141_02.html", /*ios_url*/"https://columbia.jp/sl-stage/haishin/COCC-17141_02.html");
 INSERT INTO `music_info` VALUES (/*id*/3202, /*discription*/"渋谷凛（CV：福原綾香）\n\n\n作詞・作曲・編曲：yasushi", /*android_url*/"https://columbia.jp/sl-stage/haishin/COCC-17141_03.html", /*ios_url*/"https://columbia.jp/sl-stage/haishin/COCC-17141_03.html");
 INSERT INTO `music_info` VALUES (/*id*/3203, /*discription*/"本田未央（CV：原紗友里）\n\n\n作詞：Manami（TRYTONELABO）\n作曲：no_my\n編曲：岡野裕次郎（TRYTONELABO）", /*android_url*/"https://columbia.jp/sl-stage/haishin/COCC-17142_02.html", /*ios_url*/"https://columbia.jp/sl-stage/haishin/COCC-17142_02.html");

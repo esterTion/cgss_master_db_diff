@@ -68,3 +68,5 @@ INSERT INTO `mv_list_data` VALUES (/*stage_id*/66, /*start_date*/"2024-08-05 15:
 INSERT INTO `mv_list_data` VALUES (/*stage_id*/67, /*start_date*/"2024-08-05 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/34, /*day*/2, /*name*/"UNIT LIVE TOUR ConnecTrip! 東京公演　夜公演");
 INSERT INTO `mv_list_data` VALUES (/*stage_id*/68, /*start_date*/"2024-08-05 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/35, /*day*/1, /*name*/"UNIT LIVE TOUR ConnecTrip! 石川公演　昼公演");
 INSERT INTO `mv_list_data` VALUES (/*stage_id*/69, /*start_date*/"2024-08-05 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/35, /*day*/2, /*name*/"UNIT LIVE TOUR ConnecTrip! 石川公演　夜公演");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/70, /*start_date*/"2025-01-14 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/36, /*day*/1, /*name*/"STARLIGHT FANTASY　\n1日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/71, /*start_date*/"2025-01-14 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/36, /*day*/2, /*name*/"STARLIGHT FANTASY　\n2日目");
