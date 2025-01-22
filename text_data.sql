@@ -1890,12 +1890,12 @@ INSERT INTO `text_data` VALUES (/*category*/18, /*index*/13, /*text*/"プラチ�
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/14, /*text*/"景品内容を確認できます");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/15, /*text*/"以下の景品を獲得しました ! ");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/16, /*text*/"[FF7A7A]景品はプレゼント一覧にてお受け取りください[-]");
-INSERT INTO `text_data` VALUES (/*category*/18, /*index*/17, /*text*/"スタージュエル[D33D98]{0}[-]個 X {1}");
-INSERT INTO `text_data` VALUES (/*category*/18, /*index*/18, /*text*/"{0} [D33D98]{1}[-]{2} X {3}");
-INSERT INTO `text_data` VALUES (/*category*/18, /*index*/19, /*text*/"[D33D98]{0}[-]友情pt X {1}");
-INSERT INTO `text_data` VALUES (/*category*/18, /*index*/20, /*text*/"[D33D98]{0}[-]マニー X {1}");
-INSERT INTO `text_data` VALUES (/*category*/18, /*index*/21, /*text*/"{0} X {1}");
-INSERT INTO `text_data` VALUES (/*category*/18, /*index*/22, /*text*/"X [D33D98]{0}[-]当選 ! ");
+INSERT INTO `text_data` VALUES (/*category*/18, /*index*/17, /*text*/"スタージュエル[D33D98]{0}[-]個×{1}");
+INSERT INTO `text_data` VALUES (/*category*/18, /*index*/18, /*text*/"{0} [D33D98]{1}[-]{2}×{3}");
+INSERT INTO `text_data` VALUES (/*category*/18, /*index*/19, /*text*/"[D33D98]{0}[-]友情pt×{1}");
+INSERT INTO `text_data` VALUES (/*category*/18, /*index*/20, /*text*/"[D33D98]{0}[-]マニー×{1}");
+INSERT INTO `text_data` VALUES (/*category*/18, /*index*/21, /*text*/"{0}×{1}");
+INSERT INTO `text_data` VALUES (/*category*/18, /*index*/22, /*text*/"×[D33D98]{0}[-]当選 ! ");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/23, /*text*/"キャンペーン期間終了");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/24, /*text*/"キャンペーン期間は終了しました。\nタイトル画面に戻ります。");
 INSERT INTO `text_data` VALUES (/*category*/18, /*index*/25, /*text*/"スタージュエル[D33D98]{0}[-]個");
@@ -6314,7 +6314,7 @@ INSERT INTO `text_data` VALUES (/*category*/10006, /*index*/61, /*text*/"キャ�
 INSERT INTO `text_data` VALUES (/*category*/10006, /*index*/62, /*text*/"キャンペーン期間が終了しているため、\nタイトルに戻ります。");
 INSERT INTO `text_data` VALUES (/*category*/10006, /*index*/63, /*text*/"動作詳細設定");
 INSERT INTO `text_data` VALUES (/*category*/10006, /*index*/64, /*text*/"詳細設定を使う");
-INSERT INTO `text_data` VALUES (/*category*/10006, /*index*/65, /*text*/"表示補完処理設定");
+INSERT INTO `text_data` VALUES (/*category*/10006, /*index*/65, /*text*/"表示補間処理設定");
 INSERT INTO `text_data` VALUES (/*category*/10006, /*index*/66, /*text*/"アイドルの表示の滑らかさの設定です。");
 INSERT INTO `text_data` VALUES (/*category*/10006, /*index*/67, /*text*/"フレームレート設定");
 INSERT INTO `text_data` VALUES (/*category*/10006, /*index*/68, /*text*/"最大フレームレートの設定です。");
