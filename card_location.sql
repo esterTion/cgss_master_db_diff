@@ -2145,3 +2145,8 @@ INSERT INTO `card_location` VALUES (/*index*/2159, /*text*/"豪華客船のデ�
 INSERT INTO `card_location` VALUES (/*index*/2160, /*text*/"大人のサロン");
 INSERT INTO `card_location` VALUES (/*index*/2161, /*text*/"ガーリーな撮影スタジオ");
 INSERT INTO `card_location` VALUES (/*index*/2162, /*text*/"陽光射しこむ温室");
+INSERT INTO `card_location` VALUES (/*index*/2163, /*text*/"体育館の前");
+INSERT INTO `card_location` VALUES (/*index*/2164, /*text*/"天空へと延びる道");
+INSERT INTO `card_location` VALUES (/*index*/2165, /*text*/"天真山脈・山頂");
+INSERT INTO `card_location` VALUES (/*index*/2166, /*text*/"荒野");
+INSERT INTO `card_location` VALUES (/*index*/2167, /*text*/"天真飯店");
