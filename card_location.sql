@@ -2150,3 +2150,7 @@ INSERT INTO `card_location` VALUES (/*index*/2164, /*text*/"天空へと延び�
 INSERT INTO `card_location` VALUES (/*index*/2165, /*text*/"天真山脈・山頂");
 INSERT INTO `card_location` VALUES (/*index*/2166, /*text*/"荒野");
 INSERT INTO `card_location` VALUES (/*index*/2167, /*text*/"天真飯店");
+INSERT INTO `card_location` VALUES (/*index*/2168, /*text*/"りあむちゃんの部屋・配信中");
+INSERT INTO `card_location` VALUES (/*index*/2169, /*text*/"愛の街・決戦場");
+INSERT INTO `card_location` VALUES (/*index*/2170, /*text*/"街角のカフェ");
+INSERT INTO `card_location` VALUES (/*index*/2171, /*text*/"バレンタイン♡マーケット");

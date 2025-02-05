@@ -291,7 +291,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーは\n倉庫収納数から除外されます。\n収納していても、収納数にカウントされません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"ルームショップに『巳の門松①』『巳の門松②』を追加 !\nルームに飾って、新年を迎える準備をしましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"セレクトショップで販売している私服の衣装スタンド\n『衣装スタンド/ロリータワンピ・白薔薇姫の夢想』\n『衣装スタンド/レディの華やかキメ時コーデ』を追加 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"セレクトショップで販売している私服の衣装スタンド\n『衣装スタンド/くまさんと一緒♪おでかけワンピ』\n『衣装スタンド/真冬のときめきホワイトニット』を追加 !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -1154,7 +1154,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90616, /*img*/7, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90616, /*img*/7, /*discription*/"本選応援セットは購入すると「プラチナ10連ガシャ\nチケット」を1枚、「本選投票券」を300枚、");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90616, /*img*/7, /*discription*/"「スタミナドリンク50」を3個獲得できます。\n※有償スタージュエルでのみ購入することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90616, /*img*/7, /*discription*/"※本選の投票終了時間と応援セットの\n販売終了時間は異なります。ご注意ください。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/90701, /*img*/1, /*discription*/"ハッピーバレンタインキャンペーン開催 !\n2/14～2/29に特設ページにアクセスすると、\n5名のアイドルから特製チョコをプレゼント !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90701, /*img*/1, /*discription*/"ハッピーバレンタインキャンペーン開催 !\n2/14～2/28に特設ページにアクセスすると、\n5名のアイドルから特製チョコをプレゼント !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90701, /*img*/2, /*discription*/"特製チョコは、2月14日0:00時点のリーダーアイドルから\n必ず1個もらうことができます。\nその他の4個のチョコがどのアイドルからもらえるか\n当日まで楽しみにお待ちください !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90702, /*img*/1, /*discription*/"ハッピーホワイトデーキャンペーン開催 !\n3/14～3/31に特設ページにアクセスして、\n5名のアイドルへプレゼントを贈りましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90702, /*img*/2, /*discription*/"特設ページ右上にある『用意したプレゼント』ボタンを\nタップすると、アイドルに渡せるプレゼントを\n選ぶことができます。\n※3/14以降にアクセスした場合もプレゼントは選択可能です。");
