@@ -504,4 +504,5 @@ INSERT INTO `music_info` VALUES (/*id*/9912, /*discription*/"的場梨沙（CV�
 INSERT INTO `music_info` VALUES (/*id*/9913, /*discription*/"結城晴（CV：小市眞琴）\n\n\n作詞：ミズノゲンキ\n作曲・編曲：睦月周平", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/9914, /*discription*/"古賀小春（CV：小森結梨）\n\n\n作詞：朝倉路\n作曲・編曲：渡部チェル", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/9915, /*discription*/"桐生つかさ（CV：河瀬茉希）\n\n\n作詞・作曲・編曲：鶴﨑輝一", /*android_url*/"", /*ios_url*/"");
+INSERT INTO `music_info` VALUES (/*id*/9916, /*discription*/"佐城雪美（CV：中澤ミナ）\n\n\n作詞・作曲・編曲：森本練", /*android_url*/"", /*ios_url*/"");
 INSERT INTO `music_info` VALUES (/*id*/90001, /*discription*/"？", /*android_url*/"", /*ios_url*/"");
