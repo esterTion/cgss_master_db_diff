@@ -2154,3 +2154,4 @@ INSERT INTO `card_location` VALUES (/*index*/2168, /*text*/"りあむちゃん�
 INSERT INTO `card_location` VALUES (/*index*/2169, /*text*/"愛の街・決戦場");
 INSERT INTO `card_location` VALUES (/*index*/2170, /*text*/"街角のカフェ");
 INSERT INTO `card_location` VALUES (/*index*/2171, /*text*/"バレンタイン♡マーケット");
+INSERT INTO `card_location` VALUES (/*index*/2172, /*text*/"カラフルポップバトル");
