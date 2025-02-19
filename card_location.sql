@@ -2155,3 +2155,6 @@ INSERT INTO `card_location` VALUES (/*index*/2169, /*text*/"愛の街・決戦�
 INSERT INTO `card_location` VALUES (/*index*/2170, /*text*/"街角のカフェ");
 INSERT INTO `card_location` VALUES (/*index*/2171, /*text*/"バレンタイン♡マーケット");
 INSERT INTO `card_location` VALUES (/*index*/2172, /*text*/"カラフルポップバトル");
+INSERT INTO `card_location` VALUES (/*index*/2173, /*text*/"春がやってきた街");
+INSERT INTO `card_location` VALUES (/*index*/2174, /*text*/"Cuteなカフェ");
+INSERT INTO `card_location` VALUES (/*index*/2175, /*text*/"Lovelyフォトスタジオ");
