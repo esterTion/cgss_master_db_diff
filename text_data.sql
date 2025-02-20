@@ -1113,9 +1113,9 @@ INSERT INTO `text_data` VALUES (/*category*/14, /*index*/233, /*text*/"本機能
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/234, /*text*/"所持スタージュエル");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/235, /*text*/"いいえ");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/236, /*text*/"LIVEリタイア");
-INSERT INTO `text_data` VALUES (/*category*/14, /*index*/237, /*text*/"リタイアするとLIVEの報酬を\n獲得することができません");
-INSERT INTO `text_data` VALUES (/*category*/14, /*index*/238, /*text*/"この公演中にイベント楽曲のLIVEを行っていた場合、");
-INSERT INTO `text_data` VALUES (/*category*/14, /*index*/239, /*text*/"ハイスコアランキングへ反映されなくなります");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/237, /*text*/"LIVEをリタイアしますか？");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/238, /*text*/"リタイアするとLIVEの報酬を");
+INSERT INTO `text_data` VALUES (/*category*/14, /*index*/239, /*text*/"獲得することができません");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/250, /*text*/"[2D2D2D]OFF[-]");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/251, /*text*/"[D33D98]ON[-]");
 INSERT INTO `text_data` VALUES (/*category*/14, /*index*/252, /*text*/"ソロ\nver");
