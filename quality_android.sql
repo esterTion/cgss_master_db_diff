@@ -6,6 +6,7 @@ Adreno,Adreno (TM) 4,3
 Adreno,Adreno (TM) 5,3
 Adreno,Adreno (TM) 6,3
 Adreno,Adreno (TM) 7,3
+Adreno,Adreno (TM) 8,3
 Mali,400,1
 Mali,450,1
 Mali,T6,2
