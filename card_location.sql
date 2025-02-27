@@ -2158,3 +2158,8 @@ INSERT INTO `card_location` VALUES (/*index*/2172, /*text*/"カラフルポッ�
 INSERT INTO `card_location` VALUES (/*index*/2173, /*text*/"春がやってきた街");
 INSERT INTO `card_location` VALUES (/*index*/2174, /*text*/"Cuteなカフェ");
 INSERT INTO `card_location` VALUES (/*index*/2175, /*text*/"Lovelyフォトスタジオ");
+INSERT INTO `card_location` VALUES (/*index*/2176, /*text*/"カワイイボクの祭壇");
+INSERT INTO `card_location` VALUES (/*index*/2177, /*text*/"カワイすぎる宇宙");
+INSERT INTO `card_location` VALUES (/*index*/2178, /*text*/"VR・ウェディング会場");
+INSERT INTO `card_location` VALUES (/*index*/2179, /*text*/"スターライトLIVE");
+INSERT INTO `card_location` VALUES (/*index*/2180, /*text*/"VR・駅の構内");
