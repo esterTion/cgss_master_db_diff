@@ -109,4 +109,5 @@ INSERT INTO `onetime_story` VALUES (/*id*/112, /*name*/"オールスターカウ
 INSERT INTO `onetime_story` VALUES (/*id*/113, /*name*/"『大阪タコちゃんラブちゃん』登場 !", /*story_id*/7044, /*transition*/0, /*page_index*/0, /*start_date*/"2025-01-14 15:00:00", /*end_date*/"2025-01-17 14:59:59", /*play_order*/789, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/114, /*name*/"『とくとく…… とく……』登場 !", /*story_id*/7045, /*transition*/0, /*page_index*/0, /*start_date*/"2025-02-10 15:00:00", /*end_date*/"2025-02-14 14:59:59", /*play_order*/790, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/115, /*name*/"Live Before ～大阪公演編～", /*story_id*/7135, /*transition*/6, /*page_index*/0, /*start_date*/"2025-03-05 15:00:00", /*end_date*/"2025-03-08 15:59:59", /*play_order*/791, /*notice_type*/2);
+INSERT INTO `onetime_story` VALUES (/*id*/116, /*name*/"『おめざめめーめー』登場 !", /*story_id*/7046, /*transition*/0, /*page_index*/0, /*start_date*/"2025-03-10 15:00:00", /*end_date*/"2025-03-14 14:59:59", /*play_order*/792, /*notice_type*/2);
 CREATE INDEX 'onetime_story_0_story_id' on 'onetime_story'('story_id');
