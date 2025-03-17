@@ -2167,3 +2167,5 @@ INSERT INTO `card_location` VALUES (/*index*/2181, /*text*/"北海道・雪の�
 INSERT INTO `card_location` VALUES (/*index*/2182, /*text*/"桜のむこう、ひとひらの雪");
 INSERT INTO `card_location` VALUES (/*index*/2183, /*text*/"休日のファッションビル");
 INSERT INTO `card_location` VALUES (/*index*/2184, /*text*/"夜のゲームセンター");
+INSERT INTO `card_location` VALUES (/*index*/2185, /*text*/"閉園まぎわの遊園地");
+INSERT INTO `card_location` VALUES (/*index*/2186, /*text*/"キラキラのパレード☆");

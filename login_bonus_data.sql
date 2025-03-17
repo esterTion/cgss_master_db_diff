@@ -181,3 +181,4 @@ INSERT INTO `login_bonus_data` VALUES (/*id*/9266, /*name*/"新春 ! ハッピ�
 INSERT INTO `login_bonus_data` VALUES (/*id*/9267, /*name*/"バレンタインログインボーナス", /*type*/4, /*count_num*/24, /*rap*/1, /*img*/0, /*start_date*/"2025-01-22 00:00:00", /*end_date*/"2025-02-14 23:59:59");
 INSERT INTO `login_bonus_data` VALUES (/*id*/9268, /*name*/"ひなまつりログインボーナス", /*type*/4, /*count_num*/13, /*rap*/1, /*img*/0, /*start_date*/"2025-02-19 00:00:00", /*end_date*/"2025-03-03 23:59:59");
 INSERT INTO `login_bonus_data` VALUES (/*id*/9269, /*name*/"ホワイトデーログインボーナス", /*type*/4, /*count_num*/11, /*rap*/1, /*img*/0, /*start_date*/"2025-03-04 00:00:00", /*end_date*/"2025-03-14 23:59:59");
+INSERT INTO `login_bonus_data` VALUES (/*id*/9270, /*name*/"新生活応援ログインボーナス", /*type*/4, /*count_num*/19, /*rap*/1, /*img*/0, /*start_date*/"2025-03-19 00:00:00", /*end_date*/"2025-04-06 23:59:59");

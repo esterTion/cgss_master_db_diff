@@ -346,7 +346,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20209, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20210, /*img*/1, /*discription*/"完了時間を迎えると自動で再出発する\n「オート再出発」機能を追加しました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20210, /*img*/1, /*discription*/"営業開始時点で実行可能な回数分まで、自動で再出発を行います !\n回数制限に達している場合や\n期間が終了している場合は再出発できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20210, /*img*/1, /*discription*/"オート再出発した営業は、報酬がストックとして溜まります !\nストックされた報酬は「受取」ボタンから\nいつでも受け取ることができます !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「ホワイトデー親愛度アップキャンペーン」開催中 ! !\nキャンペーン中は、必ず複数のギフトアイテムが獲得できる\nキャンペーン営業を3種類追加 !\n詳細はお知らせよりご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20299, /*img*/1, /*discription*/"「特訓支援キャンペーン」開催中 ! !\n必ず複数の特訓アイテムを獲得できる\nキャンペーン営業が1日1回行えます !\n詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21001, /*img*/1, /*discription*/"拘束のまゆからの攻撃を避けつつ、ハピネシウムを集めよう。\n集めたハピネシウムをラボに届けるとスコアをゲットできるよ ! \nラボにまとめて届けるとスコアがアップ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21002, /*img*/1, /*discription*/"誘惑の奏の攻撃や障害物を回避して、ハピネシウムを集めよう。\nタップするとうさぎロボがジャンプ ! \nうさぎロボは1回だけ空中ジャンプが可能だよ ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/21003, /*img*/1, /*discription*/"グラスザニンジャあやめの攻撃をはじきつつ、ハピネシウムを集めよう。\nフリック操作で、照準に入った障害物をはじけ ! \n飛んでくるハピネシウムを見極めてスコアをゲットしよう ! \nスコアに応じて、獲得できるゲームメダルの枚数がアップするよ !");
