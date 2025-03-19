@@ -1,3 +1,10 @@
 CREATE TABLE 'meetup_commu_condition_text' ('id' INTEGER NOT NULL, 'event_id' INTEGER NOT NULL, 'commu_type' INTEGER NOT NULL, 'use_type' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
-INSERT INTO `meetup_commu_condition_text` VALUES (/*id*/1, /*event_id*/9003, /*commu_type*/1, /*use_type*/1, /*description*/"");
+INSERT INTO `meetup_commu_condition_text` VALUES (/*id*/1, /*event_id*/9004, /*commu_type*/1, /*use_type*/1, /*description*/"コミュイベント発生!");
+INSERT INTO `meetup_commu_condition_text` VALUES (/*id*/2, /*event_id*/9004, /*commu_type*/1, /*use_type*/2, /*description*/"グッド、パーフェクトで[FF228a]1ハートpt[-] 獲得");
+INSERT INTO `meetup_commu_condition_text` VALUES (/*id*/3, /*event_id*/9004, /*commu_type*/2, /*use_type*/1, /*description*/"スペシャルコミュイベント発生!");
+INSERT INTO `meetup_commu_condition_text` VALUES (/*id*/4, /*event_id*/9004, /*commu_type*/2, /*use_type*/2, /*description*/"グッドで[FF228a]1ハートpt[-]、\nパーフェクトで[FF228a]3ハートpt[-] 獲得");
+INSERT INTO `meetup_commu_condition_text` VALUES (/*id*/5, /*event_id*/9004, /*commu_type*/3, /*use_type*/1, /*description*/"ロックイベント発生!");
+INSERT INTO `meetup_commu_condition_text` VALUES (/*id*/6, /*event_id*/9004, /*commu_type*/3, /*use_type*/2, /*description*/"ロッカー、ロッケストで[FF228a]1ハートpt[-] 獲得");
+INSERT INTO `meetup_commu_condition_text` VALUES (/*id*/7, /*event_id*/9004, /*commu_type*/4, /*use_type*/1, /*description*/"キャットイベント発生!");
+INSERT INTO `meetup_commu_condition_text` VALUES (/*id*/8, /*event_id*/9004, /*commu_type*/4, /*use_type*/2, /*description*/"ニャンと ! ？、ニャンダフルで[FF228a]1ハートpt[-] 獲得");
 CREATE INDEX 'meetup_commu_condition_text_0_event_id' on 'meetup_commu_condition_text'('event_id');

@@ -5,4 +5,6 @@ INSERT INTO `meetup_memory_exchange_data` VALUES (/*id*/3, /*memory_group_id*/3,
 INSERT INTO `meetup_memory_exchange_data` VALUES (/*id*/4, /*memory_group_id*/4, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/9, /*start_date*/"2024-08-27 15:00:00", /*end_date*/"");
 INSERT INTO `meetup_memory_exchange_data` VALUES (/*id*/5, /*memory_group_id*/5, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/9, /*start_date*/"2024-12-27 15:00:00", /*end_date*/"");
 INSERT INTO `meetup_memory_exchange_data` VALUES (/*id*/6, /*memory_group_id*/6, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/9, /*start_date*/"2024-12-27 15:00:00", /*end_date*/"");
+INSERT INTO `meetup_memory_exchange_data` VALUES (/*id*/7, /*memory_group_id*/7, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/9, /*start_date*/"2025-04-25 15:00:00", /*end_date*/"");
+INSERT INTO `meetup_memory_exchange_data` VALUES (/*id*/8, /*memory_group_id*/8, /*cost_type*/5, /*cost_id*/1001, /*cost_value*/9, /*start_date*/"2025-04-25 15:00:00", /*end_date*/"");
 CREATE INDEX 'meetup_memory_exchange_data_0_memory_group_id' on 'meetup_memory_exchange_data'('memory_group_id');

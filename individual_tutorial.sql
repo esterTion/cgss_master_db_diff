@@ -778,7 +778,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/81001, /*img*/9, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/81002, /*img*/1, /*discription*/"アイプロ応援セットは期間限定販売です。\n購入すると「プラチナ10連ガシャチケット」を1枚、\n「高級プロデュースギフト」を30個、");
 INSERT INTO `individual_tutorial` VALUES (/*id*/81002, /*img*/1, /*discription*/"「スタミナドリンク50」を3個獲得できます。\n※有償スタージュエルでのみ購入することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/81002, /*img*/2, /*discription*/"「高級プロデュースギフト」はイベント「アイドルプロデュース」\nのコミュイベントで使用でき、\n使用するとコミュ結果が必ず「パーフェクト」になるアイテムです。\n");
-INSERT INTO `individual_tutorial` VALUES (/*id*/81002, /*img*/2, /*discription*/"※イベント終了日時である「11月27日 20:59」まで使用が可能です。\n※使用しきれなかった「高級プロデュースギフト」は\nイベント結果発表のタイミングで、\n「スタミナドリンク10」に変換され、プレゼントに贈られます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/81002, /*img*/2, /*discription*/"※イベント終了日時である「3月26日 20:59」まで使用が可能です。\n※使用しきれなかった「高級プロデュースギフト」は\nイベント結果発表のタイミングで、\n「スタミナドリンク10」に変換され、プレゼントに贈られます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/81002, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に開催中の\nプラチナ10連ガシャを引けるチケットです。プラチナガシャと同様に、\nSレア以上のアイドル1人が確定で登場します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/81002, /*img*/3, /*discription*/"※本ガシャチケットに利用期限はありません");
 INSERT INTO `individual_tutorial` VALUES (/*id*/83001, /*img*/1, /*discription*/"「プラチナスカウトチケット」はレア、Sレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");

@@ -584,3 +584,4 @@ INSERT INTO `story_category` VALUES (/*id*/608, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/610, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"イーリャンサンキュー", /*sub_title*/"イーリャンサンキュー", /*disp_order*/256, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/611, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"スターライトステージ", /*sub_title*/"スターライトステージ", /*disp_order*/257, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/612, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"10th ANNIVERSARY TOUR Let's AMUSEMENT!!!連動企画", /*sub_title*/"10th ANNIVERSARY TOUR Let's AMUSEMENT!!!連動企画", /*disp_order*/46, /*filter_type*/401);
+INSERT INTO `story_category` VALUES (/*id*/613, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"アイドルプロデュース～にゃんとロックな学園生活～", /*sub_title*/"アイドルプロデュース～にゃんとロックな学園生活～", /*disp_order*/258, /*filter_type*/0);

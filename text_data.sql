@@ -5803,8 +5803,8 @@ INSERT INTO `text_data` VALUES (/*category*/95, /*index*/66, /*text*/"プロデ�
 INSERT INTO `text_data` VALUES (/*category*/95, /*index*/67, /*text*/"イベントpt");
 INSERT INTO `text_data` VALUES (/*category*/95, /*index*/68, /*text*/"アイドルptランキング");
 INSERT INTO `text_data` VALUES (/*category*/95, /*index*/69, /*text*/"千川ちひろ");
-INSERT INTO `text_data` VALUES (/*category*/95, /*index*/70, /*text*/"じゃんっ ! ご結婚おめでとうございま～す !\n……なんて、私ったらはっちゃけちゃいました♪\n愛情たっぷりの料理道、楽しんでますか？");
-INSERT INTO `text_data` VALUES (/*category*/95, /*index*/71, /*text*/"では、も～っと楽しめるようにこちらを ! 栄養補給して、\nのあちゃんと時子ちゃんの愛、受け止めてくださいね♪\nもちろんお料理も……お残しは、めっ、ですよ？");
+INSERT INTO `text_data` VALUES (/*category*/95, /*index*/70, /*text*/"きゅんっ ! 李衣菜ちゃん、みくちゃんとの学園生活は順調ですか？\n甘酸っぱい青春の恋路に、ときめきが止まりませんよね♪ でも、\nボルテージをも～っと高めるために……できることがあるんです !");
+INSERT INTO `text_data` VALUES (/*category*/95, /*index*/71, /*text*/"よくできました♪ そ・れ・で・は……お待ちかねの差し入れですっ♪\n学園の生徒になりきって、も～っとドキドキ ! きゅんきゅん !\nときめきバトルの行方を見届けてくださいね !");
 INSERT INTO `text_data` VALUES (/*category*/95, /*index*/72, /*text*/"ねだる");
 INSERT INTO `text_data` VALUES (/*category*/95, /*index*/73, /*text*/"アイプロ");
 INSERT INTO `text_data` VALUES (/*category*/95, /*index*/74, /*text*/"アイドルプロデュース");

@@ -11,4 +11,6 @@ INSERT INTO `meetup_story_detail` VALUES (/*id*/7052, /*event_id*/9003, /*type*/
 INSERT INTO `meetup_story_detail` VALUES (/*id*/7053, /*event_id*/9003, /*type*/2, /*open_event_point*/0, /*next_detail_id*/0);
 INSERT INTO `meetup_story_detail` VALUES (/*id*/7054, /*event_id*/9003, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
 INSERT INTO `meetup_story_detail` VALUES (/*id*/7055, /*event_id*/9003, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
+INSERT INTO `meetup_story_detail` VALUES (/*id*/7137, /*event_id*/9004, /*type*/1, /*open_event_point*/0, /*next_detail_id*/7138);
+INSERT INTO `meetup_story_detail` VALUES (/*id*/7138, /*event_id*/9004, /*type*/2, /*open_event_point*/0, /*next_detail_id*/0);
 CREATE INDEX 'meetup_story_detail_0_event_id_1_type' on 'meetup_story_detail'('event_id','type');

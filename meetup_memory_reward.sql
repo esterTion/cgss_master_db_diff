@@ -5,4 +5,6 @@ INSERT INTO `meetup_memory_reward` VALUES (/*id*/3, /*memory_group_id*/3, /*rewa
 INSERT INTO `meetup_memory_reward` VALUES (/*id*/4, /*memory_group_id*/4, /*reward_type*/4, /*reward_id*/0, /*reward_value*/150, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `meetup_memory_reward` VALUES (/*id*/5, /*memory_group_id*/5, /*reward_type*/4, /*reward_id*/0, /*reward_value*/150, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 INSERT INTO `meetup_memory_reward` VALUES (/*id*/6, /*memory_group_id*/6, /*reward_type*/4, /*reward_id*/0, /*reward_value*/150, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `meetup_memory_reward` VALUES (/*id*/7, /*memory_group_id*/7, /*reward_type*/4, /*reward_id*/0, /*reward_value*/150, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `meetup_memory_reward` VALUES (/*id*/8, /*memory_group_id*/8, /*reward_type*/4, /*reward_id*/0, /*reward_value*/150, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
 CREATE INDEX 'meetup_memory_reward_0_memory_group_id' on 'meetup_memory_reward'('memory_group_id');
