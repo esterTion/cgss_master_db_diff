@@ -585,8 +585,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/5, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/6, /*discription*/"「衣装変更」では、スタジオにいる\nアイドルが着用できる衣装の中から\n好きな衣装に変更することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/7, /*discription*/"「スポット変更」では、撮影スポットを\n変更することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60027, /*img*/9, /*discription*/"「スターピース交換」では、フォト\nスタジオで使用できるスポットや\nポーズの獲得が可能です。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/60029, /*img*/1, /*discription*/"デレステ公式Xアカウントから、アイドルの誕生日を\nお祝いした特別なイラストを約1年にわたって投稿していきます。\nみんなでアイドルの誕生日をお祝いしましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/60029, /*img*/2, /*discription*/"誕生日イラストはアイドルトピックス内の\n誕生日ギャラリーに随時追加されます。\n※追加まで時間がかかる場合があります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60029, /*img*/1, /*discription*/"デレステ公式Xアカウントから、アイドルの誕生日を\nお祝いした特別なイラストを約1年にわたって投稿いたしました。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60029, /*img*/2, /*discription*/"誕生日イラストはアイドルトピックス内の\n誕生日ギャラリーから確認できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60029, /*img*/3, /*discription*/"誕生日の週の月曜日から日曜日までの期間、\nLIVEや営業でファンからプレゼントを\n貰うことができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60029, /*img*/3, /*discription*/"誕生日アイドルを編成してLIVEや営業を\n成功させることでもプレゼントが貰えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60030, /*img*/1, /*discription*/"誕生日ギャラリーでは、アイドルたちの\n誕生日記念イラストを見ることができます。");
@@ -683,7 +683,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/3, /*discription*/"LIVE Grooveでは、その3曲で連続してLIVEを行います。\n※3曲の間ライフは引き継がれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/4, /*discription*/"LIVE中、盛り上がりに応じて「ハコユレLv」が計測されます。\n3曲合わせた「ハコユレLv」が17以上になると、\nアンコールが発生します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/5, /*discription*/"難易度がMASTER以上で、ハコユレLvが21以上の場合、\nアンコール楽曲の難易度で「MASTER+」が選択できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/6, /*discription*/"LIVE Groove Dance burstでは、ダンスのアピール値が\n通常よりアップします。\nダンスアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80201, /*img*/6, /*discription*/"LIVE Groove Visual burstでは、ビジュアルのアピール値が\n通常よりアップします。\nビジュアルアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80202, /*img*/1, /*discription*/" ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/1, /*discription*/"「達成pt報酬」、「イベントptランキング報酬」、\n「ハイスコアランキング報酬」で、イベント限定の\nSレアアイドルやルームアイテムが獲得できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/1, /*discription*/"イベント限定営業で「イベントpt」を獲得できます。\nイベント限定営業はイベント期間中のみ\nプレイすることができます。");
@@ -692,7 +692,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/3, /*discription*/"LIVE Grooveでは、その3曲で連続してLIVEを行います。\n※3曲の間ライフは引き継がれます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/4, /*discription*/"LIVE中、盛り上がりに応じて「ハコユレLv」が計測されます。\n3曲合わせた「ハコユレLv」が17以上になると、\nアンコールが発生します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/5, /*discription*/"難易度がMASTER以上で、ハコユレLvが21以上の場合、\nアンコール楽曲の難易度で「MASTER+」が選択できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/6, /*discription*/"LIVE Groove Dance burstでは、ダンスのアピール値が\n通常よりアップします。\nダンスアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/80203, /*img*/6, /*discription*/"LIVE Groove Visual burstでは、ビジュアルのアピール値が\n通常よりアップします。\nビジュアルアピールが高いアイドルを編成して、\nイベント上位を目指しましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/1, /*discription*/"「達成pt報酬」で、イベント限定のSレアアイドルや\nルームアイテムを手にいれましょう。\nまた期間中にイベントのLIVEをプレイすると、\n限定のアイドルを確率で手に入れることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。\n楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80301, /*img*/3, /*discription*/"本イベントは、専用ユニットでLIVEを行います。ユニットには5つの「ポジション」があります。\n各プロデューサーのアイドルが、ポジションを1つずつ担当し、5人の共通ユニットが編成されます。\n※自分のアイドルがどのポジションを担当するかはランダムで決定されます。\n※楽曲タイプとポジションごとにアイドルを設定できます。");

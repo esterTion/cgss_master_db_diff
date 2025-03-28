@@ -2171,3 +2171,9 @@ INSERT INTO `card_location` VALUES (/*index*/2185, /*text*/"閉園まぎわの�
 INSERT INTO `card_location` VALUES (/*index*/2186, /*text*/"キラキラのパレード☆");
 INSERT INTO `card_location` VALUES (/*index*/2187, /*text*/"伝説の像の傍");
 INSERT INTO `card_location` VALUES (/*index*/2188, /*text*/"卒業式の体育館");
+INSERT INTO `card_location` VALUES (/*index*/2189, /*text*/"ホテルのバルコニー");
+INSERT INTO `card_location` VALUES (/*index*/2190, /*text*/"薔薇の咲くラウンジ");
+INSERT INTO `card_location` VALUES (/*index*/2191, /*text*/"祭具が眠る蔵");
+INSERT INTO `card_location` VALUES (/*index*/2192, /*text*/"神楽殿");
+INSERT INTO `card_location` VALUES (/*index*/2193, /*text*/"村の入り口");
+INSERT INTO `card_location` VALUES (/*index*/2194, /*text*/"幻惑の森");
