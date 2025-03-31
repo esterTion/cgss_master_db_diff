@@ -251,6 +251,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/11143, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/11143, /*img*/1, /*discription*/"プラチナ10連ガシャチケットなどの\nアイテム2種がセットに含まれます !\n※有償スタージュエルでのみ購入することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11143, /*img*/2, /*discription*/"「スカウトチケット」はアイドルをスカウトできるアイテム\nです。スカウトできるアイドルは、「対象アイドル」ボタン\nからご確認ください。※スカウトチケットの種類によって\nスカウトできるアイドルは異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11143, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で登場します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11145, /*img*/1, /*discription*/"スペシャルガシャセットは期間限定販売です。\n一部の期間限定アイドルもスカウトできる\nチケット2種と");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11145, /*img*/1, /*discription*/"プラチナ10連ガシャチケットなどの\nアイテム2種がセットに含まれます !\n※有償スタージュエルでのみ購入することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11145, /*img*/2, /*discription*/"「スカウトチケット」はアイドルをスカウトできるアイテム\nです。スカウトできるアイドルは、「対象アイドル」ボタン\nからご確認ください。※スカウトチケットの種類によって\nスカウトできるアイドルは異なります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11145, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で登場します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/12003, /*img*/1, /*discription*/"「CM記念 ! ハッピーウサイヤーガシャ」を引くと、\n『ウサシャイン』が獲得できます。\n※『ウサシャイン』は提供期間が決まっています。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/12003, /*img*/2, /*discription*/"期間中に『ウサシャイン』を必要数獲得すると、\n対象のアイドルを1人スカウトすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/12003, /*img*/3, /*discription*/"提供期間を過ぎた『ウサシャイン』は、\n『スターピース』に自動で変換されます。\n『スターピース』は、アイテムと交換することができます。");
@@ -1056,6 +1060,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/90513, /*img*/3, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/90513, /*img*/4, /*discription*/"高評価のヒントをチェック ! \nこれらのヒントを意識してアイドルを撮ってみよう ! ");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90514, /*img*/1, /*discription*/"ぴにゃにゃ ! ぴーにゃぴにゃにゃぴ、ぴにゃぴーぴにゃ !\n（一大事だ ! 研究所のぴにゃたちが脱走した ! ）\nぴにゃにゃーにゃぴにゃぴ、ぴにゃぴにゃぴー、ぴにゃ !\n（ミニゲームを遊び、ぴにゃエナジーを集めるのだ ! ）");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90514, /*img*/2, /*discription*/"ぴにゃぴにゃぴー、ぴにゃにゃぴにゃ、ぴぴにゃーぴ !\n（ぴにゃエナジーを集めてきたら、よいものをやろう ! ）\nぴーにゃーにゃぴにゃ ! ぴにゃぴーにゃ ! ぴにゃにゃ !\n（ランキングもあるぞ ! 賞品はないがな ! ははは ! ）");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90515, /*img*/1, /*discription*/"ぴにゃ ! ？ぴにゃはははー、ぴにゃはははははー !\n（なぬ ! ？あやつの研究所で、またもや脱走じゃと ! ）\nぴにゃひひひひ、ぴにゃぴにゃぴー、ぴにゃははははは。\n（ミニゲームを遊び、ぴにゃエナジーを集めてやるかのう。）");
+INSERT INTO `individual_tutorial` VALUES (/*id*/90515, /*img*/2, /*discription*/"ぴにゃぴ、ぴにゃはは、ぴにゃひひひひひ。\n（博士のヤツめ、たっぷり、ねぎらうつもりのようじゃ。）\nぴーにゃーにゃぴにゃ。ぴにゃははは。ぴにゃふふふ……。\n（ランキングもあるぞ。賞品はないがな。ふふふ……。）");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90601, /*img*/1, /*discription*/"「第10回シンデレラガール総選挙」が始まりました !\n「第10回シンデレラガール総選挙」は、\nソーシャルゲーム「アイドルマスター シンデレラガールズ」\nとの合同開催となります。※得票数は各アプリの合算となります");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90601, /*img*/2, /*discription*/"ログインボーナスや期間限定ミッション、\n総選挙応援セットなどで投票券を入手して、\nお気に入りのアイドルに投票しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/90601, /*img*/3, /*discription*/"全体順位上位5名のアイドルは、本アプリ内のイベントに登場 !\nさらに、イベント時の衣装を、3DLIVEで着用可能になります !\n");
