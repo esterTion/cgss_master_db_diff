@@ -2177,3 +2177,5 @@ INSERT INTO `card_location` VALUES (/*index*/2191, /*text*/"祭具が眠る蔵")
 INSERT INTO `card_location` VALUES (/*index*/2192, /*text*/"神楽殿");
 INSERT INTO `card_location` VALUES (/*index*/2193, /*text*/"村の入り口");
 INSERT INTO `card_location` VALUES (/*index*/2194, /*text*/"幻惑の森");
+INSERT INTO `card_location` VALUES (/*index*/2195, /*text*/"校舎前・青春の予感");
+INSERT INTO `card_location` VALUES (/*index*/2196, /*text*/"楽しいが始まる街");
