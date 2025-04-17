@@ -2179,3 +2179,8 @@ INSERT INTO `card_location` VALUES (/*index*/2193, /*text*/"村の入り口");
 INSERT INTO `card_location` VALUES (/*index*/2194, /*text*/"幻惑の森");
 INSERT INTO `card_location` VALUES (/*index*/2195, /*text*/"校舎前・青春の予感");
 INSERT INTO `card_location` VALUES (/*index*/2196, /*text*/"楽しいが始まる街");
+INSERT INTO `card_location` VALUES (/*index*/2197, /*text*/"レイナサマ・メイクアップ !");
+INSERT INTO `card_location` VALUES (/*index*/2198, /*text*/"夢見る帰り道");
+INSERT INTO `card_location` VALUES (/*index*/2199, /*text*/"優しき姫の館");
+INSERT INTO `card_location` VALUES (/*index*/2200, /*text*/"ないまぜのこども部屋");
+INSERT INTO `card_location` VALUES (/*index*/2201, /*text*/"隕九▽縺代◆");
