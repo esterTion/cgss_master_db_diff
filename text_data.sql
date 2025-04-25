@@ -6354,7 +6354,7 @@ INSERT INTO `text_data` VALUES (/*category*/10006, /*index*/77, /*text*/"8K画�
 INSERT INTO `text_data` VALUES (/*category*/10006, /*index*/78, /*text*/"★キャンペーン中!");
 INSERT INTO `text_data` VALUES (/*category*/10006, /*index*/79, /*text*/"変更する");
 INSERT INTO `text_data` VALUES (/*category*/10006, /*index*/80, /*text*/"セット中");
-INSERT INTO `text_data` VALUES (/*category*/10006, /*index*/81, /*text*/"★ドリームユニットキャンペーン中!好きなアイドルを編成可能!");
+INSERT INTO `text_data` VALUES (/*category*/10006, /*index*/81, /*text*/"★ドリームユニットキャンペーン!好きなアイドルを編成可能");
 INSERT INTO `text_data` VALUES (/*category*/10006, /*index*/82, /*text*/"～");
 INSERT INTO `text_data` VALUES (/*category*/10006, /*index*/83, /*text*/"着せ替え");
 INSERT INTO `text_data` VALUES (/*category*/10007, /*index*/1, /*text*/"範囲外です");
