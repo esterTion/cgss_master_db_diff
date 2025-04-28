@@ -290,5 +290,6 @@ INSERT INTO `grimm_index_msc` VALUES (/*id*/1208, /*data_1*/608, /*data_2*/9060)
 INSERT INTO `grimm_index_msc` VALUES (/*id*/1209, /*data_1*/610, /*data_2*/9061);
 INSERT INTO `grimm_index_msc` VALUES (/*id*/1210, /*data_1*/611, /*data_2*/9062);
 INSERT INTO `grimm_index_msc` VALUES (/*id*/1211, /*data_1*/614, /*data_2*/2076);
+INSERT INTO `grimm_index_msc` VALUES (/*id*/1212, /*data_1*/615, /*data_2*/2077);
 CREATE INDEX 'grimm_index_msc_0_data_1' on 'grimm_index_msc'('data_1');
 CREATE INDEX 'grimm_index_msc_0_data_2' on 'grimm_index_msc'('data_2');

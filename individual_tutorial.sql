@@ -255,6 +255,10 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/11145, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/11145, /*img*/1, /*discription*/"プラチナ10連ガシャチケットなどの\nアイテム2種がセットに含まれます !\n※有償スタージュエルでのみ購入することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11145, /*img*/2, /*discription*/"「スカウトチケット」はアイドルをスカウトできるアイテム\nです。スカウトできるアイドルは、「対象アイドル」ボタン\nからご確認ください。※スカウトチケットの種類によって\nスカウトできるアイドルは異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11145, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で登場します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11146, /*img*/1, /*discription*/"スペシャルガシャセットは期間限定販売です。\n一部の期間限定アイドルもスカウトできる\nチケット2種と");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11146, /*img*/1, /*discription*/"プラチナ10連ガシャチケットなどの\nアイテム2種がセットに含まれます !\n※有償スタージュエルでのみ購入することができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11146, /*img*/2, /*discription*/"「スカウトチケット」はアイドルをスカウトできるアイテム\nです。スカウトできるアイドルは、「対象アイドル」ボタン\nからご確認ください。※スカウトチケットの種類によって\nスカウトできるアイドルは異なります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/11146, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で登場します。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/12003, /*img*/1, /*discription*/"「CM記念 ! ハッピーウサイヤーガシャ」を引くと、\n『ウサシャイン』が獲得できます。\n※『ウサシャイン』は提供期間が決まっています。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/12003, /*img*/2, /*discription*/"期間中に『ウサシャイン』を必要数獲得すると、\n対象のアイドルを1人スカウトすることができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/12003, /*img*/3, /*discription*/"提供期間を過ぎた『ウサシャイン』は、\n『スターピース』に自動で変換されます。\n『スターピース』は、アイテムと交換することができます。");

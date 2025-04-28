@@ -179,3 +179,13 @@ INSERT INTO `sp_gacha_draw_num` VALUES (/*gacha_id*/18, /*draw_id*/7, /*draw_num
 INSERT INTO `sp_gacha_draw_num` VALUES (/*gacha_id*/18, /*draw_id*/8, /*draw_num*/80);
 INSERT INTO `sp_gacha_draw_num` VALUES (/*gacha_id*/18, /*draw_id*/9, /*draw_num*/90);
 INSERT INTO `sp_gacha_draw_num` VALUES (/*gacha_id*/18, /*draw_id*/10, /*draw_num*/100);
+INSERT INTO `sp_gacha_draw_num` VALUES (/*gacha_id*/19, /*draw_id*/1, /*draw_num*/10);
+INSERT INTO `sp_gacha_draw_num` VALUES (/*gacha_id*/19, /*draw_id*/2, /*draw_num*/20);
+INSERT INTO `sp_gacha_draw_num` VALUES (/*gacha_id*/19, /*draw_id*/3, /*draw_num*/30);
+INSERT INTO `sp_gacha_draw_num` VALUES (/*gacha_id*/19, /*draw_id*/4, /*draw_num*/40);
+INSERT INTO `sp_gacha_draw_num` VALUES (/*gacha_id*/19, /*draw_id*/5, /*draw_num*/50);
+INSERT INTO `sp_gacha_draw_num` VALUES (/*gacha_id*/19, /*draw_id*/6, /*draw_num*/60);
+INSERT INTO `sp_gacha_draw_num` VALUES (/*gacha_id*/19, /*draw_id*/7, /*draw_num*/70);
+INSERT INTO `sp_gacha_draw_num` VALUES (/*gacha_id*/19, /*draw_id*/8, /*draw_num*/80);
+INSERT INTO `sp_gacha_draw_num` VALUES (/*gacha_id*/19, /*draw_id*/9, /*draw_num*/90);
+INSERT INTO `sp_gacha_draw_num` VALUES (/*gacha_id*/19, /*draw_id*/10, /*draw_num*/100);

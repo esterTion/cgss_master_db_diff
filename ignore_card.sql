@@ -7,3 +7,5 @@ INSERT INTO `ignore_card` VALUES (/*card_id*/201383, /*card_name*/"［ジュビ�
 INSERT INTO `ignore_card` VALUES (/*card_id*/201384, /*card_name*/"［ジュビリー］星街すいせい＋");
 INSERT INTO `ignore_card` VALUES (/*card_id*/201385, /*card_name*/"［ジュビリー］高垣楓");
 INSERT INTO `ignore_card` VALUES (/*card_id*/201386, /*card_name*/"［ジュビリー］高垣楓＋");
+INSERT INTO `ignore_card` VALUES (/*card_id*/201465, /*card_name*/"［ありすとワンダーランド］橘ありす");
+INSERT INTO `ignore_card` VALUES (/*card_id*/201466, /*card_name*/"［ありすとワンダーランド］橘ありす＋");
