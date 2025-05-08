@@ -63,4 +63,14 @@ INSERT INTO `sp_campaign_reward_disp_order` VALUES (/*campaign_id*/10017, /*rewa
 INSERT INTO `sp_campaign_reward_disp_order` VALUES (/*campaign_id*/10017, /*reward_type*/5, /*item_id*/81034, /*discription*/"スカウトチケット", /*disp_order*/10);
 INSERT INTO `sp_campaign_reward_disp_order` VALUES (/*campaign_id*/10017, /*reward_type*/5, /*item_id*/81035, /*discription*/"Sレアスカウトチケット", /*disp_order*/12);
 INSERT INTO `sp_campaign_reward_disp_order` VALUES (/*campaign_id*/10017, /*reward_type*/5, /*item_id*/86001, /*discription*/"カムバックSレアスカウトチケット", /*disp_order*/42);
+INSERT INTO `sp_campaign_reward_disp_order` VALUES (/*campaign_id*/70009, /*reward_type*/5, /*item_id*/83501, /*discription*/"チャレンジスカウトチケット", /*disp_order*/1);
+INSERT INTO `sp_campaign_reward_disp_order` VALUES (/*campaign_id*/70009, /*reward_type*/5, /*item_id*/20001, /*discription*/"プラチナガシャチケット", /*disp_order*/2);
+INSERT INTO `sp_campaign_reward_disp_order` VALUES (/*campaign_id*/70009, /*reward_type*/5, /*item_id*/1006, /*discription*/"プレミアムフィルム", /*disp_order*/3);
+INSERT INTO `sp_campaign_reward_disp_order` VALUES (/*campaign_id*/70009, /*reward_type*/5, /*item_id*/4, /*discription*/"スタミナドリンク100", /*disp_order*/4);
+INSERT INTO `sp_campaign_reward_disp_order` VALUES (/*campaign_id*/70009, /*reward_type*/5, /*item_id*/10032, /*discription*/"魔法のドレス", /*disp_order*/5);
+INSERT INTO `sp_campaign_reward_disp_order` VALUES (/*campaign_id*/70009, /*reward_type*/5, /*item_id*/4421, /*discription*/"ティアラセット（各タイプ1個）", /*disp_order*/6);
+INSERT INTO `sp_campaign_reward_disp_order` VALUES (/*campaign_id*/70009, /*reward_type*/5, /*item_id*/4411, /*discription*/"ペンダントセット（各タイプ3個）", /*disp_order*/7);
+INSERT INTO `sp_campaign_reward_disp_order` VALUES (/*campaign_id*/70009, /*reward_type*/5, /*item_id*/4401, /*discription*/"イヤリングセット（各タイプ5個）", /*disp_order*/8);
+INSERT INTO `sp_campaign_reward_disp_order` VALUES (/*campaign_id*/70009, /*reward_type*/5, /*item_id*/30004, /*discription*/"マスタートレーナーチケット", /*disp_order*/9);
+INSERT INTO `sp_campaign_reward_disp_order` VALUES (/*campaign_id*/70009, /*reward_type*/5, /*item_id*/4403, /*discription*/"マフィンセット（各タイプ3個）", /*disp_order*/10);
 CREATE UNIQUE INDEX 'sp_campaign_reward_disp_order_0_campaign_id_1_reward_type_2_item_id' on 'sp_campaign_reward_disp_order'('campaign_id','reward_type','item_id');

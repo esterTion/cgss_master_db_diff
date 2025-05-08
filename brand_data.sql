@@ -28,3 +28,4 @@ INSERT INTO `brand_data` VALUES (/*id*/26, /*brand_name*/"CHEER MATE", /*brand_t
 INSERT INTO `brand_data` VALUES (/*id*/27, /*brand_name*/"MILKTEA PARTY", /*brand_text*/"MILKTEA PARTY");
 INSERT INTO `brand_data` VALUES (/*id*/28, /*brand_name*/"Hug me", /*brand_text*/"Hug me");
 INSERT INTO `brand_data` VALUES (/*id*/29, /*brand_name*/"& Need...", /*brand_text*/"& Need...");
+INSERT INTO `brand_data` VALUES (/*id*/30, /*brand_name*/"一姫桃仙", /*brand_text*/"一姫桃仙");
