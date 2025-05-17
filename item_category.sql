@@ -27,3 +27,4 @@ INSERT INTO `item_category` VALUES (/*category_type*/26, /*category_name*/"ア�
 INSERT INTO `item_category` VALUES (/*category_type*/27, /*category_name*/"あにぷちガシャチケット");
 INSERT INTO `item_category` VALUES (/*category_type*/28, /*category_name*/"あにぷち交換チケット");
 INSERT INTO `item_category` VALUES (/*category_type*/29, /*category_name*/"ロケチケット");
+INSERT INTO `item_category` VALUES (/*category_type*/30, /*category_name*/"シンデレラフォト素材");

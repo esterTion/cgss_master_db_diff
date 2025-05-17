@@ -6,6 +6,7 @@ INSERT INTO `paper_idol_item` VALUES (/*id*/10103, /*chara_id*/101, /*name*/"島
 INSERT INTO `paper_idol_item` VALUES (/*id*/10104, /*chara_id*/101, /*name*/"島村卯月ネーム④", /*disp_order*/10104, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/10105, /*chara_id*/101, /*name*/"島村卯月（マイスタジオ）", /*disp_order*/10105, /*start_date*/"2023/11/28 00:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/10106, /*chara_id*/101, /*name*/"島村卯月（マイスタジオ②）", /*disp_order*/10106, /*start_date*/"2024/11/28 00:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
+INSERT INTO `paper_idol_item` VALUES (/*id*/10107, /*chara_id*/101, /*name*/"島村卯月（All for YOU!!!）", /*disp_order*/10107, /*start_date*/"2025/5/17 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/0);
 INSERT INTO `paper_idol_item` VALUES (/*id*/10200, /*chara_id*/102, /*name*/"中野有香プレート", /*disp_order*/10200, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/10201, /*chara_id*/102, /*name*/"中野有香ネーム①", /*disp_order*/10201, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/10202, /*chara_id*/102, /*name*/"中野有香ネーム②", /*disp_order*/10202, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
@@ -181,6 +182,7 @@ INSERT INTO `paper_idol_item` VALUES (/*id*/12603, /*chara_id*/126, /*name*/"一
 INSERT INTO `paper_idol_item` VALUES (/*id*/12604, /*chara_id*/126, /*name*/"一ノ瀬志希ネーム④", /*disp_order*/12604, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/12605, /*chara_id*/126, /*name*/"一ノ瀬志希（マイスタジオ）", /*disp_order*/12605, /*start_date*/"2023/11/28 00:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/12606, /*chara_id*/126, /*name*/"一ノ瀬志希（マイスタジオ②）", /*disp_order*/12606, /*start_date*/"2024/11/28 00:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
+INSERT INTO `paper_idol_item` VALUES (/*id*/12607, /*chara_id*/126, /*name*/"一ノ瀬志希（All for YOU!!!）", /*disp_order*/12607, /*start_date*/"2025/5/17 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/0);
 INSERT INTO `paper_idol_item` VALUES (/*id*/12700, /*chara_id*/127, /*name*/"前川みくプレート", /*disp_order*/12700, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/12701, /*chara_id*/127, /*name*/"前川みくネーム①", /*disp_order*/12701, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/12702, /*chara_id*/127, /*name*/"前川みくネーム②", /*disp_order*/12702, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
@@ -440,6 +442,7 @@ INSERT INTO `paper_idol_item` VALUES (/*id*/16703, /*chara_id*/167, /*name*/"渋
 INSERT INTO `paper_idol_item` VALUES (/*id*/16704, /*chara_id*/167, /*name*/"渋谷凛ネーム④", /*disp_order*/16704, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/16705, /*chara_id*/167, /*name*/"渋谷凛（マイスタジオ）", /*disp_order*/16705, /*start_date*/"2023/11/28 00:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/16706, /*chara_id*/167, /*name*/"渋谷凛（マイスタジオ②）", /*disp_order*/16706, /*start_date*/"2024/11/28 00:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
+INSERT INTO `paper_idol_item` VALUES (/*id*/16707, /*chara_id*/167, /*name*/"渋谷凛（All for YOU!!!）", /*disp_order*/16707, /*start_date*/"2025/5/17 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/0);
 INSERT INTO `paper_idol_item` VALUES (/*id*/16800, /*chara_id*/168, /*name*/"黒川千秋プレート", /*disp_order*/16800, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/16801, /*chara_id*/168, /*name*/"黒川千秋ネーム①", /*disp_order*/16801, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/16802, /*chara_id*/168, /*name*/"黒川千秋ネーム②", /*disp_order*/16802, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
@@ -650,6 +653,7 @@ INSERT INTO `paper_idol_item` VALUES (/*id*/19703, /*chara_id*/197, /*name*/"高
 INSERT INTO `paper_idol_item` VALUES (/*id*/19704, /*chara_id*/197, /*name*/"高垣楓ネーム④", /*disp_order*/19704, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/19705, /*chara_id*/197, /*name*/"高垣楓（マイスタジオ）", /*disp_order*/19705, /*start_date*/"2023/11/28 00:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/19706, /*chara_id*/197, /*name*/"高垣楓（マイスタジオ②）", /*disp_order*/19706, /*start_date*/"2024/11/28 00:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
+INSERT INTO `paper_idol_item` VALUES (/*id*/19707, /*chara_id*/197, /*name*/"高垣楓（All for YOU!!!）", /*disp_order*/19707, /*start_date*/"2025/05/17 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/0);
 INSERT INTO `paper_idol_item` VALUES (/*id*/19800, /*chara_id*/198, /*name*/"神崎蘭子プレート", /*disp_order*/19800, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/19801, /*chara_id*/198, /*name*/"神崎蘭子ネーム①", /*disp_order*/19801, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/19802, /*chara_id*/198, /*name*/"神崎蘭子ネーム②", /*disp_order*/19802, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
@@ -881,6 +885,7 @@ INSERT INTO `paper_idol_item` VALUES (/*id*/23403, /*chara_id*/234, /*name*/"本
 INSERT INTO `paper_idol_item` VALUES (/*id*/23404, /*chara_id*/234, /*name*/"本田未央ネーム④", /*disp_order*/23404, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/23405, /*chara_id*/234, /*name*/"本田未央（マイスタジオ）", /*disp_order*/23405, /*start_date*/"2023/11/28 00:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/23406, /*chara_id*/234, /*name*/"本田未央（マイスタジオ②）", /*disp_order*/23406, /*start_date*/"2024/11/28 00:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
+INSERT INTO `paper_idol_item` VALUES (/*id*/23407, /*chara_id*/234, /*name*/"本田未央（All for YOU!!!）", /*disp_order*/23407, /*start_date*/"2025/05/17 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/0);
 INSERT INTO `paper_idol_item` VALUES (/*id*/23500, /*chara_id*/235, /*name*/"高森藍子プレート", /*disp_order*/23500, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/23501, /*chara_id*/235, /*name*/"高森藍子ネーム①", /*disp_order*/23501, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/23502, /*chara_id*/235, /*name*/"高森藍子ネーム②", /*disp_order*/23502, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
@@ -1287,6 +1292,7 @@ INSERT INTO `paper_idol_item` VALUES (/*id*/30403, /*chara_id*/304, /*name*/"辻
 INSERT INTO `paper_idol_item` VALUES (/*id*/30404, /*chara_id*/304, /*name*/"辻野あかりネーム④", /*disp_order*/30404, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/30405, /*chara_id*/304, /*name*/"辻野あかり（マイスタジオ）", /*disp_order*/30405, /*start_date*/"2023/11/28 00:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/30406, /*chara_id*/304, /*name*/"辻野あかり（マイスタジオ②）", /*disp_order*/30406, /*start_date*/"2024/11/28 00:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
+INSERT INTO `paper_idol_item` VALUES (/*id*/30407, /*chara_id*/304, /*name*/"辻野あかり（All for YOU!!!）", /*disp_order*/30407, /*start_date*/"2025/05/17 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/0);
 INSERT INTO `paper_idol_item` VALUES (/*id*/30500, /*chara_id*/305, /*name*/"砂塚あきらプレート", /*disp_order*/30500, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/30501, /*chara_id*/305, /*name*/"砂塚あきらネーム①", /*disp_order*/30501, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/30502, /*chara_id*/305, /*name*/"砂塚あきらネーム②", /*disp_order*/30502, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
@@ -1294,6 +1300,7 @@ INSERT INTO `paper_idol_item` VALUES (/*id*/30503, /*chara_id*/305, /*name*/"砂
 INSERT INTO `paper_idol_item` VALUES (/*id*/30504, /*chara_id*/305, /*name*/"砂塚あきらネーム④", /*disp_order*/30504, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/30505, /*chara_id*/305, /*name*/"砂塚あきら（マイスタジオ）", /*disp_order*/30505, /*start_date*/"2023/11/28 00:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/30506, /*chara_id*/305, /*name*/"砂塚あきら（マイスタジオ②）", /*disp_order*/30506, /*start_date*/"2024/11/28 00:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
+INSERT INTO `paper_idol_item` VALUES (/*id*/30507, /*chara_id*/305, /*name*/"砂塚あきら（All for YOU!!!）", /*disp_order*/30507, /*start_date*/"2025/05/17 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/0);
 INSERT INTO `paper_idol_item` VALUES (/*id*/30600, /*chara_id*/306, /*name*/"夢見りあむプレート", /*disp_order*/30600, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/30601, /*chara_id*/306, /*name*/"夢見りあむネーム①", /*disp_order*/30601, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/30602, /*chara_id*/306, /*name*/"夢見りあむネーム②", /*disp_order*/30602, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
@@ -1301,6 +1308,7 @@ INSERT INTO `paper_idol_item` VALUES (/*id*/30603, /*chara_id*/306, /*name*/"夢
 INSERT INTO `paper_idol_item` VALUES (/*id*/30604, /*chara_id*/306, /*name*/"夢見りあむネーム④", /*disp_order*/30604, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/30605, /*chara_id*/306, /*name*/"夢見りあむ（マイスタジオ）", /*disp_order*/30605, /*start_date*/"2023/11/28 00:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/30606, /*chara_id*/306, /*name*/"夢見りあむ（マイスタジオ②）", /*disp_order*/30606, /*start_date*/"2024/11/28 00:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
+INSERT INTO `paper_idol_item` VALUES (/*id*/30607, /*chara_id*/306, /*name*/"夢見りあむ（All for YOU!!!）", /*disp_order*/30607, /*start_date*/"2025/05/17 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/0);
 INSERT INTO `paper_idol_item` VALUES (/*id*/30700, /*chara_id*/307, /*name*/"黒埼ちとせプレート", /*disp_order*/30700, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/30701, /*chara_id*/307, /*name*/"黒埼ちとせネーム①", /*disp_order*/30701, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/30702, /*chara_id*/307, /*name*/"黒埼ちとせネーム②", /*disp_order*/30702, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
@@ -1322,6 +1330,7 @@ INSERT INTO `paper_idol_item` VALUES (/*id*/30903, /*chara_id*/309, /*name*/"久
 INSERT INTO `paper_idol_item` VALUES (/*id*/30904, /*chara_id*/309, /*name*/"久川凪ネーム④", /*disp_order*/30904, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/30905, /*chara_id*/309, /*name*/"久川凪（マイスタジオ）", /*disp_order*/30905, /*start_date*/"2023/11/28 00:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/30906, /*chara_id*/309, /*name*/"久川凪（マイスタジオ②）", /*disp_order*/30906, /*start_date*/"2024/11/28 00:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
+INSERT INTO `paper_idol_item` VALUES (/*id*/30907, /*chara_id*/309, /*name*/"久川凪（All for YOU!!!）", /*disp_order*/30907, /*start_date*/"2025/05/17 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/0);
 INSERT INTO `paper_idol_item` VALUES (/*id*/31000, /*chara_id*/310, /*name*/"久川颯プレート", /*disp_order*/31000, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/31001, /*chara_id*/310, /*name*/"久川颯ネーム①", /*disp_order*/31001, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);
 INSERT INTO `paper_idol_item` VALUES (/*id*/31002, /*chara_id*/310, /*name*/"久川颯ネーム②", /*disp_order*/31002, /*start_date*/"2022/07/25 15:00:00", /*end_date*/"2030/04/01 14:00:00", /*default_disp*/1);

@@ -4649,6 +4649,7 @@ INSERT INTO `text_data` VALUES (/*category*/77, /*index*/5106, /*text*/"ギャ�
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/5201, /*text*/"エラー");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/5202, /*text*/"エラーが発生しました。\nタイトルへ戻ります。");
 INSERT INTO `text_data` VALUES (/*category*/77, /*index*/5301, /*text*/"プレビュー生成エラー");
+INSERT INTO `text_data` VALUES (/*category*/77, /*index*/9001, /*text*/"シンデレラ×フォト素材 [c][d33d98]{0}[-][/c]個");
 INSERT INTO `text_data` VALUES (/*category*/78, /*index*/1, /*text*/"特技変更");
 INSERT INTO `text_data` VALUES (/*category*/78, /*index*/2, /*text*/"センター効果変更");
 INSERT INTO `text_data` VALUES (/*category*/78, /*index*/3, /*text*/"特技変更確認");
@@ -5043,7 +5044,7 @@ INSERT INTO `text_data` VALUES (/*category*/85, /*index*/2, /*text*/"シリア�
 INSERT INTO `text_data` VALUES (/*category*/85, /*index*/3, /*text*/"シリアルコードを入力してください");
 INSERT INTO `text_data` VALUES (/*category*/85, /*index*/4, /*text*/"一定時間内に無効なシリアルコードを\n5回連続で入力すると30分入力ができなくなります");
 INSERT INTO `text_data` VALUES (/*category*/85, /*index*/5, /*text*/"シリアルコード入力結果");
-INSERT INTO `text_data` VALUES (/*category*/85, /*index*/6, /*text*/"報酬がプレゼントに送られました。");
+INSERT INTO `text_data` VALUES (/*category*/85, /*index*/6, /*text*/"報酬がプレゼントに贈られました。");
 INSERT INTO `text_data` VALUES (/*category*/85, /*index*/7, /*text*/"コード内容");
 INSERT INTO `text_data` VALUES (/*category*/85, /*index*/8, /*text*/"報酬");
 INSERT INTO `text_data` VALUES (/*category*/85, /*index*/9, /*text*/"シリアルコードエラー");
