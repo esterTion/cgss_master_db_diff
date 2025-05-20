@@ -39,3 +39,5 @@ INSERT INTO `card_subtype` VALUES (/*card_data_id*/301339, /*sub_attribute*/1);
 INSERT INTO `card_subtype` VALUES (/*card_data_id*/301340, /*sub_attribute*/1);
 INSERT INTO `card_subtype` VALUES (/*card_data_id*/301359, /*sub_attribute*/2);
 INSERT INTO `card_subtype` VALUES (/*card_data_id*/301360, /*sub_attribute*/2);
+INSERT INTO `card_subtype` VALUES (/*card_data_id*/301361, /*sub_attribute*/1);
+INSERT INTO `card_subtype` VALUES (/*card_data_id*/301362, /*sub_attribute*/1);
