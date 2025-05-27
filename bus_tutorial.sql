@@ -1,2 +1,2 @@
 CREATE TABLE 'bus_tutorial' ('id' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('id'));
-INSERT INTO `bus_tutorial` VALUES (/*id*/120, /*start_date*/"2025-05-13 00:00:00", /*end_date*/"2025-05-28 23:59:59");
+INSERT INTO `bus_tutorial` VALUES (/*id*/121, /*start_date*/"2025-05-29 00:00:00", /*end_date*/"2025-06-16 23:59:59");
