@@ -113,4 +113,5 @@ INSERT INTO `onetime_story` VALUES (/*id*/116, /*name*/"『おめざめめーめ
 INSERT INTO `onetime_story` VALUES (/*id*/117, /*name*/"エイプリルフール2025 OP", /*story_id*/7099, /*transition*/204, /*page_index*/0, /*start_date*/"2025-04-01 00:00:00", /*end_date*/"2025-04-01 23:59:59", /*play_order*/793, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/118, /*name*/"『碧空ノ一路』登場 !", /*story_id*/7047, /*transition*/0, /*page_index*/0, /*start_date*/"2025-04-08 15:00:00", /*end_date*/"2025-04-14 14:59:59", /*play_order*/794, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/119, /*name*/"Live Before ～東京公演編～", /*story_id*/7173, /*transition*/6, /*page_index*/0, /*start_date*/"2025-04-23 15:00:00", /*end_date*/"2025-04-26 16:59:59", /*play_order*/795, /*notice_type*/2);
+INSERT INTO `onetime_story` VALUES (/*id*/120, /*name*/"Live Before ～沖縄公演編～", /*story_id*/7192, /*transition*/6, /*page_index*/0, /*start_date*/"2025-06-04 15:00:00", /*end_date*/"2025-06-07 15:59:59", /*play_order*/796, /*notice_type*/2);
 CREATE INDEX 'onetime_story_0_story_id' on 'onetime_story'('story_id');

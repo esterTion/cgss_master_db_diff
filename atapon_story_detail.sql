@@ -863,4 +863,11 @@ INSERT INTO `atapon_story_detail` VALUES (/*id*/7129, /*event_id*/1096, /*type*/
 INSERT INTO `atapon_story_detail` VALUES (/*id*/7130, /*event_id*/1096, /*type*/2, /*open_event_point*/0, /*next_detail_id*/0);
 INSERT INTO `atapon_story_detail` VALUES (/*id*/7131, /*event_id*/1096, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
 INSERT INTO `atapon_story_detail` VALUES (/*id*/7132, /*event_id*/1096, /*type*/0, /*open_event_point*/0, /*next_detail_id*/0);
+INSERT INTO `atapon_story_detail` VALUES (/*id*/7183, /*event_id*/1097, /*type*/1, /*open_event_point*/0, /*next_detail_id*/7184);
+INSERT INTO `atapon_story_detail` VALUES (/*id*/7184, /*event_id*/1097, /*type*/0, /*open_event_point*/500, /*next_detail_id*/7185);
+INSERT INTO `atapon_story_detail` VALUES (/*id*/7185, /*event_id*/1097, /*type*/0, /*open_event_point*/1000, /*next_detail_id*/7186);
+INSERT INTO `atapon_story_detail` VALUES (/*id*/7186, /*event_id*/1097, /*type*/0, /*open_event_point*/2000, /*next_detail_id*/7187);
+INSERT INTO `atapon_story_detail` VALUES (/*id*/7187, /*event_id*/1097, /*type*/0, /*open_event_point*/3000, /*next_detail_id*/7188);
+INSERT INTO `atapon_story_detail` VALUES (/*id*/7188, /*event_id*/1097, /*type*/0, /*open_event_point*/5000, /*next_detail_id*/7189);
+INSERT INTO `atapon_story_detail` VALUES (/*id*/7189, /*event_id*/1097, /*type*/2, /*open_event_point*/0, /*next_detail_id*/0);
 CREATE INDEX 'atapon_story_detail_0_event_id_1_type' on 'atapon_story_detail'('event_id','type');

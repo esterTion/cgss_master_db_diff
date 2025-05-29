@@ -2200,3 +2200,7 @@ INSERT INTO `card_location` VALUES (/*index*/2214, /*text*/"大空のブラン�
 INSERT INTO `card_location` VALUES (/*index*/2215, /*text*/"魔法の街");
 INSERT INTO `card_location` VALUES (/*index*/2216, /*text*/"光降りそそぐチャペル");
 INSERT INTO `card_location` VALUES (/*index*/2217, /*text*/"スウィーティールーム");
+INSERT INTO `card_location` VALUES (/*index*/2218, /*text*/"変わらない夕暮れの土手");
+INSERT INTO `card_location` VALUES (/*index*/2219, /*text*/"音楽に愛された国");
+INSERT INTO `card_location` VALUES (/*index*/2220, /*text*/"テレビ局の廊下");
+INSERT INTO `card_location` VALUES (/*index*/2221, /*text*/"オーディション会場");
