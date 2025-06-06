@@ -2204,3 +2204,7 @@ INSERT INTO `card_location` VALUES (/*index*/2218, /*text*/"変わらない夕�
 INSERT INTO `card_location` VALUES (/*index*/2219, /*text*/"音楽に愛された国");
 INSERT INTO `card_location` VALUES (/*index*/2220, /*text*/"テレビ局の廊下");
 INSERT INTO `card_location` VALUES (/*index*/2221, /*text*/"オーディション会場");
+INSERT INTO `card_location` VALUES (/*index*/2222, /*text*/"ふたりだけのチャペル");
+INSERT INTO `card_location` VALUES (/*index*/2223, /*text*/"マジックアワーのバルセロナ");
+INSERT INTO `card_location` VALUES (/*index*/2224, /*text*/"光射す閉ざされたチャペル");
+INSERT INTO `card_location` VALUES (/*index*/2225, /*text*/"開放的な庭園");
