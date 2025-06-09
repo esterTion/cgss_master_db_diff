@@ -529,7 +529,8 @@ INSERT INTO `story_category` VALUES (/*id*/544, /*type*/1, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/545, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第79話", /*sub_title*/"Life is A Will", /*disp_order*/280, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/546, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第80話", /*sub_title*/"Fish ! Step ! Jump !", /*disp_order*/281, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/547, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第81話", /*sub_title*/"Let My Prayers Reach You", /*disp_order*/282, /*filter_type*/0);
-INSERT INTO `story_category` VALUES (/*id*/548, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第82話", /*sub_title*/"coming soon", /*disp_order*/283, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/548, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第82話", /*sub_title*/"Hello, idol++", /*disp_order*/283, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/549, /*type*/1, /*chara_type*/0, /*chara_id*/0, /*title*/"第83話", /*sub_title*/"coming soon", /*disp_order*/284, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/556, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"なつっこ音頭", /*sub_title*/"なつっこ音頭", /*disp_order*/214, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/557, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"奥山沙織 / 水木聖來", /*sub_title*/"奥山沙織 / 水木聖來", /*disp_order*/215, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/558, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"燿城夜祭 -かがやきよまつり-連動企画", /*sub_title*/"燿城夜祭 -かがやきよまつり-連動企画", /*disp_order*/37, /*filter_type*/401);

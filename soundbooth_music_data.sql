@@ -272,6 +272,7 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200209, /*name*/"スマ�
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200210, /*name*/"イーリャンサンキュー（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/60);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200211, /*name*/"スターライトステージ（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/61);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200212, /*name*/"禍魂朧夜（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/62);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200213, /*name*/"Morgana（BGM arrange Mix）", /*album_id*/10, /*jacket_id*/200001, /*sort*/63);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/300001, /*name*/"#01 動き出す物語", /*album_id*/11, /*jacket_id*/300001, /*sort*/1);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/300002, /*name*/"#02 想いを声にのせて", /*album_id*/11, /*jacket_id*/300001, /*sort*/2);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/300003, /*name*/"#03 思い出はカラフルに", /*album_id*/11, /*jacket_id*/300001, /*sort*/3);
