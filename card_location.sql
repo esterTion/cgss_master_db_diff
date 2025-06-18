@@ -2208,3 +2208,6 @@ INSERT INTO `card_location` VALUES (/*index*/2222, /*text*/"ふたりだけの�
 INSERT INTO `card_location` VALUES (/*index*/2223, /*text*/"マジックアワーのバルセロナ");
 INSERT INTO `card_location` VALUES (/*index*/2224, /*text*/"光射す閉ざされたチャペル");
 INSERT INTO `card_location` VALUES (/*index*/2225, /*text*/"開放的な庭園");
+INSERT INTO `card_location` VALUES (/*index*/2226, /*text*/"眼鏡的電視広告");
+INSERT INTO `card_location` VALUES (/*index*/2227, /*text*/"陽だまりのツリーハウス");
+INSERT INTO `card_location` VALUES (/*index*/2228, /*text*/"明日のための旅立ち");
