@@ -295,3 +295,10 @@ INSERT INTO `sticker_gacha_top_lot_list` VALUES (/*sticker_id*/297, /*start_date
 INSERT INTO `sticker_gacha_top_lot_list` VALUES (/*sticker_id*/298, /*start_date*/"2025-06-16 15:00:00", /*end_date*/"2030-04-01 14:59:59");
 INSERT INTO `sticker_gacha_top_lot_list` VALUES (/*sticker_id*/299, /*start_date*/"2025-06-16 15:00:00", /*end_date*/"2030-04-01 14:59:59");
 INSERT INTO `sticker_gacha_top_lot_list` VALUES (/*sticker_id*/300, /*start_date*/"2025-06-16 15:00:00", /*end_date*/"2030-04-01 14:59:59");
+INSERT INTO `sticker_gacha_top_lot_list` VALUES (/*sticker_id*/301, /*start_date*/"2025-06-27 15:00:00", /*end_date*/"2030-04-01 14:59:59");
+INSERT INTO `sticker_gacha_top_lot_list` VALUES (/*sticker_id*/302, /*start_date*/"2025-06-27 15:00:00", /*end_date*/"2030-04-01 14:59:59");
+INSERT INTO `sticker_gacha_top_lot_list` VALUES (/*sticker_id*/303, /*start_date*/"2025-06-27 15:00:00", /*end_date*/"2030-04-01 14:59:59");
+INSERT INTO `sticker_gacha_top_lot_list` VALUES (/*sticker_id*/304, /*start_date*/"2025-06-27 15:00:00", /*end_date*/"2030-04-01 14:59:59");
+INSERT INTO `sticker_gacha_top_lot_list` VALUES (/*sticker_id*/305, /*start_date*/"2025-06-27 15:00:00", /*end_date*/"2030-04-01 14:59:59");
+INSERT INTO `sticker_gacha_top_lot_list` VALUES (/*sticker_id*/306, /*start_date*/"2025-06-27 15:00:00", /*end_date*/"2030-04-01 14:59:59");
+INSERT INTO `sticker_gacha_top_lot_list` VALUES (/*sticker_id*/307, /*start_date*/"2025-06-27 15:00:00", /*end_date*/"2030-04-01 14:59:59");
