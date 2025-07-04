@@ -2219,3 +2219,7 @@ INSERT INTO `card_location` VALUES (/*index*/2233, /*text*/"熱情のリゾー�
 INSERT INTO `card_location` VALUES (/*index*/2234, /*text*/"南風吹く熱帯夜");
 INSERT INTO `card_location` VALUES (/*index*/2235, /*text*/"熱情のコロシアム");
 INSERT INTO `card_location` VALUES (/*index*/2236, /*text*/"星空の見える古城");
+INSERT INTO `card_location` VALUES (/*index*/2237, /*text*/"リゾートビーチの浜辺");
+INSERT INTO `card_location` VALUES (/*index*/2238, /*text*/"カリスマギャルのステージ");
+INSERT INTO `card_location` VALUES (/*index*/2239, /*text*/"ふたりきりのプールサイド");
+INSERT INTO `card_location` VALUES (/*index*/2240, /*text*/"煌めくドレッサールーム");
