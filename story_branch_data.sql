@@ -1,0 +1,1 @@
+CREATE TABLE 'story_branch_data' ('chara_id' INTEGER NOT NULL, 'category_id' INTEGER NOT NULL, 'branch_1' INTEGER NOT NULL, 'branch_2' INTEGER NOT NULL, 'branch_3' INTEGER NOT NULL, 'branch_4' INTEGER NOT NULL, 'branch_5' INTEGER NOT NULL, 'branch_6' INTEGER NOT NULL, 'branch_7' INTEGER NOT NULL, PRIMARY KEY('chara_id'));

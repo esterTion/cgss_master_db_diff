@@ -115,4 +115,5 @@ INSERT INTO `onetime_story` VALUES (/*id*/118, /*name*/"『碧空ノ一路』登
 INSERT INTO `onetime_story` VALUES (/*id*/119, /*name*/"Live Before ～東京公演編～", /*story_id*/7173, /*transition*/6, /*page_index*/0, /*start_date*/"2025-04-23 15:00:00", /*end_date*/"2025-04-26 16:59:59", /*play_order*/795, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/120, /*name*/"Live Before ～沖縄公演編～", /*story_id*/7192, /*transition*/6, /*page_index*/0, /*start_date*/"2025-06-04 15:00:00", /*end_date*/"2025-06-07 15:59:59", /*play_order*/796, /*notice_type*/2);
 INSERT INTO `onetime_story` VALUES (/*id*/121, /*name*/"Live Before ～福岡公演編～", /*story_id*/7215, /*transition*/6, /*page_index*/0, /*start_date*/"2025-06-25 15:00:00", /*end_date*/"2025-06-28 15:59:59", /*play_order*/797, /*notice_type*/2);
+INSERT INTO `onetime_story` VALUES (/*id*/122, /*name*/"『青春のWanna!』登場 !", /*story_id*/7048, /*transition*/0, /*page_index*/0, /*start_date*/"2025-07-08 15:00:00", /*end_date*/"2025-07-14 14:59:59", /*play_order*/798, /*notice_type*/2);
 CREATE INDEX 'onetime_story_0_story_id' on 'onetime_story'('story_id');

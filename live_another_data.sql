@@ -13,3 +13,4 @@ INSERT INTO `live_another_data` VALUES (/*id*/11, /*live_data_id*/385, /*live_da
 INSERT INTO `live_another_data` VALUES (/*id*/12, /*live_data_id*/313, /*live_data_id_another*/912);
 INSERT INTO `live_another_data` VALUES (/*id*/13, /*live_data_id*/421, /*live_data_id_another*/913);
 INSERT INTO `live_another_data` VALUES (/*id*/14, /*live_data_id*/366, /*live_data_id_another*/914);
+INSERT INTO `live_another_data` VALUES (/*id*/15, /*live_data_id*/470, /*live_data_id_another*/671);

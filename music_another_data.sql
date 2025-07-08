@@ -5,6 +5,7 @@ INSERT INTO `music_another_data` VALUES (/*music_id*/"1032_another", /*name*/"Ta
 INSERT INTO `music_another_data` VALUES (/*music_id*/"1038_another", /*name*/"キミのそばでずっと（EVENT VERSION）", /*type*/4, /*music_data_id*/1033);
 INSERT INTO `music_another_data` VALUES (/*music_id*/"1047_another", /*name*/"恋が咲く季節（EVENT VERSION）", /*type*/4, /*music_data_id*/1036);
 INSERT INTO `music_another_data` VALUES (/*music_id*/"1048_another", /*name*/"always（EVENT VERSION）", /*type*/4, /*music_data_id*/1040);
+INSERT INTO `music_another_data` VALUES (/*music_id*/"1074_another", /*name*/"認めてくれなくたっていいよ（EVENT VERSION）", /*type*/4, /*music_data_id*/1070);
 INSERT INTO `music_another_data` VALUES (/*music_id*/"1201_call", /*name*/"お願い ! シンデレラ（GRAND CHEER VERSION）", /*type*/4, /*music_data_id*/1201);
 INSERT INTO `music_another_data` VALUES (/*music_id*/"1903_another", /*name*/"きらりんロボのテーマ（SE VERSION）", /*type*/4, /*music_data_id*/1903);
 INSERT INTO `music_another_data` VALUES (/*music_id*/"1904_another", /*name*/"∀NSWER ～ののの物語～（VOCAL VERSION）", /*type*/4, /*music_data_id*/1904);

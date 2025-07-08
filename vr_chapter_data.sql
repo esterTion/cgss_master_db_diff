@@ -7,3 +7,4 @@ INSERT INTO `vr_chapter_data` VALUES (/*id*/5, /*cappuccino_data_id*/10023, /*ch
 INSERT INTO `vr_chapter_data` VALUES (/*id*/6, /*cappuccino_data_id*/10030, /*chapter_time_list*/0);
 INSERT INTO `vr_chapter_data` VALUES (/*id*/7, /*cappuccino_data_id*/10040, /*chapter_time_list*/"0,195,400,520,710");
 INSERT INTO `vr_chapter_data` VALUES (/*id*/8, /*cappuccino_data_id*/10050, /*chapter_time_list*/"0,115,400,660,995");
+CREATE INDEX 'vr_chapter_data_0_cappuccino_data_id' on 'vr_chapter_data'('cappuccino_data_id');
