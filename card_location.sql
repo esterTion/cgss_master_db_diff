@@ -2223,3 +2223,8 @@ INSERT INTO `card_location` VALUES (/*index*/2237, /*text*/"リゾートビー�
 INSERT INTO `card_location` VALUES (/*index*/2238, /*text*/"カリスマギャルのステージ");
 INSERT INTO `card_location` VALUES (/*index*/2239, /*text*/"ふたりきりのプールサイド");
 INSERT INTO `card_location` VALUES (/*index*/2240, /*text*/"煌めくドレッサールーム");
+INSERT INTO `card_location` VALUES (/*index*/2241, /*text*/"レジャープール貸し切り中♪");
+INSERT INTO `card_location` VALUES (/*index*/2242, /*text*/"キラキラの海の中♪");
+INSERT INTO `card_location` VALUES (/*index*/2243, /*text*/"ときめきのターミナル");
+INSERT INTO `card_location` VALUES (/*index*/2244, /*text*/"帰りの馬車☆ウサミン星行き");
+INSERT INTO `card_location` VALUES (/*index*/2245, /*text*/"月影のバルコニー");
