@@ -526,5 +526,14 @@ INSERT INTO `caravan_data` VALUES (/*event_id*/2073, /*date*/"2025/07/12", /*dat
 INSERT INTO `caravan_data` VALUES (/*event_id*/2073, /*date*/"2025/07/13", /*date_order*/6, /*bonus_type*/2, /*disp*/2);
 INSERT INTO `caravan_data` VALUES (/*event_id*/2073, /*date*/"2025/07/14", /*date_order*/7, /*bonus_type*/3, /*disp*/2);
 INSERT INTO `caravan_data` VALUES (/*event_id*/2073, /*date*/"2025/07/15", /*date_order*/8, /*bonus_type*/5, /*disp*/2);
+INSERT INTO `caravan_data` VALUES (/*event_id*/2074, /*date*/"2025/08/12", /*date_order*/1, /*bonus_type*/3, /*disp*/1);
+INSERT INTO `caravan_data` VALUES (/*event_id*/2074, /*date*/"2025/08/13", /*date_order*/2, /*bonus_type*/1, /*disp*/1);
+INSERT INTO `caravan_data` VALUES (/*event_id*/2074, /*date*/"2025/08/14", /*date_order*/3, /*bonus_type*/2, /*disp*/1);
+INSERT INTO `caravan_data` VALUES (/*event_id*/2074, /*date*/"2025/08/15", /*date_order*/4, /*bonus_type*/3, /*disp*/1);
+INSERT INTO `caravan_data` VALUES (/*event_id*/2074, /*date*/"2025/08/16", /*date_order*/5, /*bonus_type*/1, /*disp*/2);
+INSERT INTO `caravan_data` VALUES (/*event_id*/2074, /*date*/"2025/08/17", /*date_order*/6, /*bonus_type*/2, /*disp*/2);
+INSERT INTO `caravan_data` VALUES (/*event_id*/2074, /*date*/"2025/08/18", /*date_order*/7, /*bonus_type*/3, /*disp*/2);
+INSERT INTO `caravan_data` VALUES (/*event_id*/2074, /*date*/"2025/08/19", /*date_order*/8, /*bonus_type*/1, /*disp*/2);
+INSERT INTO `caravan_data` VALUES (/*event_id*/2074, /*date*/"2025/08/20", /*date_order*/9, /*bonus_type*/5, /*disp*/2);
 CREATE INDEX 'caravan_data_0_event_id' on 'caravan_data'('event_id');
 CREATE INDEX 'caravan_data_0_event_id_1_date_order' on 'caravan_data'('event_id','date_order');
