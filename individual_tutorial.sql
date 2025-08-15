@@ -1314,9 +1314,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/91029, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/91029, /*img*/1, /*discription*/"・プロデューサーLvが20に達している\n・2ndパネルミッションを解放している\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91029, /*img*/2, /*discription*/"「プラチナチャンスミッション」を20個達成すると結果発表時に\n「5等確定のチャンスチケット」をゲットできます !\n※9等以上の当選条件を満たしていない場合は\n獲得できません。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91029, /*img*/2, /*discription*/"「プラチナチャンスミッション」は\nプレイ次第で1日で達成可能となっています。\n自分のプレイスタイルでミッションを\n達成していきましょう !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/91030, /*img*/1, /*discription*/"8/15 15:00から「SSレアアイドル勧誘チャレンジ」を開催予定です !\nチャレンジミッションをクリアし、\nアイドルの信頼を得て正式加入を目指しましょう !\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/91030, /*img*/1, /*discription*/"8/15 15:00より「SSレアアイドル勧誘チャレンジ」を開催中です !\nチャレンジミッションをクリアし、\nアイドルの信頼を得て正式加入を目指しましょう !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91030, /*img*/2, /*discription*/"「SSレアアイドル勧誘チャレンジ」開催期間中は\n「プラチナチャレンジパス」が登場します !\n※有償スタージュエルでのみ購入することができます。\n");
-INSERT INTO `individual_tutorial` VALUES (/*id*/91030, /*img*/2, /*discription*/"累計信頼度に応じて「スカウトチケット」や\n「プラチナガシャチケット」「プレミアムフィルム」などの\n追加報酬を獲得することができます !\n※詳細はキャンペーン開催時のお知らせをご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/91030, /*img*/2, /*discription*/"累計信頼度に応じて「スカウトチケット」や\n「プラチナガシャチケット」「プレミアムフィルム」などの\n追加報酬を獲得することができます !\n※詳細はお知らせよりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91031, /*img*/1, /*discription*/"各2セット購入できるプラチナスペシャルガシャセット !\n「リミテッドver」3種、「フェスver」2種の全5種をラインナップ !\nセット内容が異なる第2弾を後日販売予定 !\n※第1弾と第2弾のスカウト可能なアイドルは同じです");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91031, /*img*/2, /*discription*/"第1弾の「リミテッドver（Cu）」では、キュートアイドルの\n期間限定SSレア、ドミナントガシャ限定SSレアがスカウトできる特別な\nスカウトチケットを獲得できます。対象アイドルと\nセット内容の詳細は購入画面よりご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91031, /*img*/3, /*discription*/"第1弾の「リミテッドver（Co）」では、クールアイドルの\n期間限定SSレア、ドミナントガシャ限定SSレアがスカウトできる特別な\nスカウトチケットを獲得できます。対象アイドルと\nセット内容の詳細は購入画面よりご確認ください。");
@@ -1332,4 +1332,5 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/91032, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/91032, /*img*/1, /*discription*/"また、8月以降に開催するシンデレラフェス ブランから\nブラン限定アイドル1人確定のプレミアムオーディション ブランが\n「セレクトピックアップガシャ」形式で開催予定です !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91033, /*img*/1, /*discription*/"メモリアルガシャ 7th近日公開 !\nSレアとSSレアは対象の限定アイドルのみ登場します !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91033, /*img*/2, /*discription*/"さらにメモリアルガシャ 8thも同日公開予定 !\nSレアとSSレアは対象の限定アイドルのみ登場します !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/91034, /*img*/1, /*discription*/"チャンスチケットの配布は終了しました。\n結果発表までお楽しみに !");
 CREATE INDEX 'individual_tutorial_0_id' on 'individual_tutorial'('id');
