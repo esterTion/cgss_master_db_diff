@@ -30,6 +30,8 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/10018, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/10019, /*img*/1, /*discription*/"メモリアルガシャ5thが新たに追加されました ! \n画面右上ボタンで各メモリアルガシャを切り替えることが可能です。\n※登場するアイドルはアイドル詳細でご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10020, /*img*/1, /*discription*/"メモリアルガシャ6thが新たに追加されました ! \n画面右上ボタンで各メモリアルガシャを切り替えることが可能です。\n※登場するアイドルはアイドル詳細でご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/10020, /*img*/2, /*discription*/"メモリアルガシャ ブランが新たに追加されました !\n画面右上ボタンで各メモリアルガシャを切り替えることが可能です。\n引いた時に獲得できる「ルナシャイン」は他のメモリアルガシャを\n引いた時に獲得できる「ルナシャイン」と共通です。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/10021, /*img*/1, /*discription*/"メモリアルガシャ8thが新たに追加されました ! \n画面右上ボタンで各メモリアルガシャを切り替えることが可能です。\n※登場するアイドルはアイドル詳細でご確認ください。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/10021, /*img*/2, /*discription*/"メモリアルガシャ7thが新たに追加されました ! \n画面右上ボタンで各メモリアルガシャを切り替えることが可能です。\n※登場するアイドルはアイドル詳細でご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/1, /*discription*/"スペシャルガシャセットは期間限定販売です。\n購入すると「スカウトチケット」と「プラチナ10連ガシャ\nチケット」を1枚ずつ獲得できます。\n※有償スタージュエルでのみ購入することができます");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/2, /*discription*/"「スカウトチケット」はレア、Sレア、SSレアのアイドル\nをスカウトできるチケットです。\nスカウトできるアイドルは、「対象アイドル」ボタンから\nご確認ください。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/11001, /*img*/3, /*discription*/"「プラチナ10連ガシャチケット」は、チケット使用時に\n開催中のプラチナ10連ガシャを引けるチケットです。\nプラチナガシャと同様に、Sレア以上のアイドル1人が\n確定で出現します。");
@@ -1330,7 +1332,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/91031, /*img*/10, /*discription*
 INSERT INTO `individual_tutorial` VALUES (/*id*/91031, /*img*/11, /*discription*/"第1弾とセット内容が異なる第2弾「フェスver（Noir）」販売予定 !\nセット内容の詳細は販売開始後、購入画面よりご確認ください。\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91032, /*img*/1, /*discription*/"リミテッドプレミアムオーディションガシャと\nプレミアムドミナントガシャが「セレクトピックアップガシャ」形式で\n開催予定です !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91032, /*img*/1, /*discription*/"また、8月以降に開催するシンデレラフェス ブランから\nブラン限定アイドル1人確定のプレミアムオーディション ブランが\n「セレクトピックアップガシャ」形式で開催予定です !\n");
-INSERT INTO `individual_tutorial` VALUES (/*id*/91033, /*img*/1, /*discription*/"メモリアルガシャ 7th近日公開 !\nSレアとSSレアは対象の限定アイドルのみ登場します !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/91033, /*img*/2, /*discription*/"さらにメモリアルガシャ 8thも同日公開予定 !\nSレアとSSレアは対象の限定アイドルのみ登場します !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/91033, /*img*/1, /*discription*/"メモリアルガシャ7th公開中 !\nSレアとSSレアは対象の限定アイドルのみ登場します !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/91033, /*img*/2, /*discription*/"メモリアルガシャ8th公開中 !\nSレアとSSレアは対象の限定アイドルのみ登場します !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91034, /*img*/1, /*discription*/"チャンスチケットの配布は終了しました。\n結果発表までお楽しみに !");
 CREATE INDEX 'individual_tutorial_0_id' on 'individual_tutorial'('id');

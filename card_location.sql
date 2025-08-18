@@ -2238,3 +2238,5 @@ INSERT INTO `card_location` VALUES (/*index*/2252, /*text*/"リゾートホテ�
 INSERT INTO `card_location` VALUES (/*index*/2253, /*text*/"あんきらエクスプレス");
 INSERT INTO `card_location` VALUES (/*index*/2254, /*text*/"黄昏時のプライベートビーチ");
 INSERT INTO `card_location` VALUES (/*index*/2255, /*text*/"あんきら王国・上空");
+INSERT INTO `card_location` VALUES (/*index*/2256, /*text*/"ふたりで過ごす煌めく浜辺");
+INSERT INTO `card_location` VALUES (/*index*/2257, /*text*/"光と音のLIVEステージ");
