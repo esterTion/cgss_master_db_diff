@@ -90,6 +90,16 @@ INSERT INTO `premium_sc_constant` VALUES (/*item_id*/80126, /*limit_disp*/3948, 
 INSERT INTO `premium_sc_constant` VALUES (/*item_id*/80127, /*limit_disp*/3948, /*rarity*/"5,3,1");
 INSERT INTO `premium_sc_constant` VALUES (/*item_id*/80128, /*limit_disp*/3948, /*rarity*/7);
 INSERT INTO `premium_sc_constant` VALUES (/*item_id*/80129, /*limit_disp*/3948, /*rarity*/"5,3,1");
+INSERT INTO `premium_sc_constant` VALUES (/*item_id*/80130, /*limit_disp*/3948, /*rarity*/7);
+INSERT INTO `premium_sc_constant` VALUES (/*item_id*/80131, /*limit_disp*/3948, /*rarity*/"5,3,1");
+INSERT INTO `premium_sc_constant` VALUES (/*item_id*/80132, /*limit_disp*/3948, /*rarity*/7);
+INSERT INTO `premium_sc_constant` VALUES (/*item_id*/80133, /*limit_disp*/3948, /*rarity*/"5,3,1");
+INSERT INTO `premium_sc_constant` VALUES (/*item_id*/80134, /*limit_disp*/3948, /*rarity*/7);
+INSERT INTO `premium_sc_constant` VALUES (/*item_id*/80135, /*limit_disp*/3948, /*rarity*/"5,3,1");
+INSERT INTO `premium_sc_constant` VALUES (/*item_id*/80136, /*limit_disp*/3948, /*rarity*/7);
+INSERT INTO `premium_sc_constant` VALUES (/*item_id*/80137, /*limit_disp*/3948, /*rarity*/"5,3,1");
+INSERT INTO `premium_sc_constant` VALUES (/*item_id*/80138, /*limit_disp*/3948, /*rarity*/7);
+INSERT INTO `premium_sc_constant` VALUES (/*item_id*/80139, /*limit_disp*/3948, /*rarity*/"5,3,1");
 INSERT INTO `premium_sc_constant` VALUES (/*item_id*/81020, /*limit_disp*/3000, /*rarity*/"7,5,3");
 INSERT INTO `premium_sc_constant` VALUES (/*item_id*/81021, /*limit_disp*/3000, /*rarity*/"5,3");
 INSERT INTO `premium_sc_constant` VALUES (/*item_id*/81022, /*limit_disp*/3152, /*rarity*/"7,5,3,1");

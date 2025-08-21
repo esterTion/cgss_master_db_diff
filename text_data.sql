@@ -1199,7 +1199,7 @@ INSERT INTO `text_data` VALUES (/*category*/16, /*index*/5, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/6, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/7, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/8, /*text*/"");
-INSERT INTO `text_data` VALUES (/*category*/16, /*index*/9, /*text*/"9周年カウントダウン");
+INSERT INTO `text_data` VALUES (/*category*/16, /*index*/9, /*text*/"10周年カウントダウン");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/10, /*text*/"1年間の思い出を振り返りましょう");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/11, /*text*/"Twitterフォロー＆RTキャンペーン");
 INSERT INTO `text_data` VALUES (/*category*/16, /*index*/12, /*text*/"　");
