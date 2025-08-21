@@ -1309,7 +1309,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/91024, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/91025, /*img*/1, /*discription*/"ソーシャルゲーム版「アイドルマスター シンデレラガールズ」の\nミニゲーム「ダイスDEシンデレラ」の素材を追加しました !\n冒険の一幕を切り取ったフォトを\n作成してみましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91025, /*img*/2, /*discription*/"「ゆるっとふわっと シンデレラ×フォト」をアップデート !\nアプリ起動の度に一部ダウンロードデータを\n削除できる設定を追加しました。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91026, /*img*/1, /*discription*/"「プラチナオーディションガシャ1日1回10連無料キャンペーン」を\n8月下旬に開催予定です !\nキャンペーン期間中1日1回無料で10連ガシャを引くことができます。\n開催をお楽しみに !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/91027, /*img*/1, /*discription*/"デレスポの各機能がデレステで楽しめるようになります !\nさらにフォトスタジオの撮影設定もアップデート予定 !\n公開をお楽しみに !\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/91027, /*img*/1, /*discription*/"「デレスポ」モードを追加しました !\nデレスポの「フォトスタジオ」「3Dコミュ」\n「VR LIVE」「サウンドブース」\nがデレステで楽しめますよ !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/91027, /*img*/2, /*discription*/"フォトスタジオのAR VIEWに新たな撮影設定を追加しました !\n「地形認識」や「遮蔽設定」などの設定で、\nアイドルをよりリアルに感じられますよ !\n※端末によって一部非対応の機能があります。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/91027, /*img*/2, /*discription*/"新しい撮影設定は他にも盛りだくさん !\n詳細はお知らせをご覧ください !\n※端末によって一部非対応の機能があります。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91028, /*img*/1, /*discription*/"これまでイベントとして実施していた「LIVE Infinity」の仕様を\n一部変更し、9月下旬ごろに常設コンテンツとして改修を予定しています。\n公開をお楽しみに !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91029, /*img*/1, /*discription*/"本キャンペーンは期間中に「チャンスチケット」を\n集めることで参加できます ! チケットはログインボーナスと\nプラチナチャンスミッション達成で獲得できます。\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91029, /*img*/1, /*discription*/"※8月16日 23:59までに次ページの\n条件を満たしていないプロデューサーは、\n必ず「10等」が当選します。\n");
