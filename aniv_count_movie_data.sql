@@ -1,4 +1,14 @@
 CREATE TABLE 'aniv_count_movie_data' ('id' INTEGER NOT NULL, 'aniv' INTEGER NOT NULL, 'count' INTEGER NOT NULL, 'number' INTEGER NOT NULL, 'enable_skip' INTEGER NOT NULL, 'play_bgm' INTEGER NOT NULL, 'next_play' INTEGER NOT NULL, PRIMARY KEY('id'));
 INSERT INTO `aniv_count_movie_data` VALUES (/*id*/1, /*aniv*/10, /*count*/1, /*number*/101, /*enable_skip*/0, /*play_bgm*/0, /*next_play*/0);
 INSERT INTO `aniv_count_movie_data` VALUES (/*id*/2, /*aniv*/10, /*count*/1, /*number*/102, /*enable_skip*/0, /*play_bgm*/0, /*next_play*/1);
+INSERT INTO `aniv_count_movie_data` VALUES (/*id*/3, /*aniv*/10, /*count*/2, /*number*/201, /*enable_skip*/0, /*play_bgm*/0, /*next_play*/0);
+INSERT INTO `aniv_count_movie_data` VALUES (/*id*/4, /*aniv*/10, /*count*/2, /*number*/202, /*enable_skip*/0, /*play_bgm*/0, /*next_play*/1);
+INSERT INTO `aniv_count_movie_data` VALUES (/*id*/5, /*aniv*/10, /*count*/3, /*number*/301, /*enable_skip*/0, /*play_bgm*/0, /*next_play*/0);
+INSERT INTO `aniv_count_movie_data` VALUES (/*id*/6, /*aniv*/10, /*count*/3, /*number*/302, /*enable_skip*/0, /*play_bgm*/0, /*next_play*/1);
+INSERT INTO `aniv_count_movie_data` VALUES (/*id*/7, /*aniv*/10, /*count*/4, /*number*/401, /*enable_skip*/0, /*play_bgm*/0, /*next_play*/1);
+INSERT INTO `aniv_count_movie_data` VALUES (/*id*/8, /*aniv*/10, /*count*/5, /*number*/501, /*enable_skip*/0, /*play_bgm*/0, /*next_play*/0);
+INSERT INTO `aniv_count_movie_data` VALUES (/*id*/9, /*aniv*/10, /*count*/5, /*number*/502, /*enable_skip*/0, /*play_bgm*/0, /*next_play*/0);
+INSERT INTO `aniv_count_movie_data` VALUES (/*id*/10, /*aniv*/10, /*count*/5, /*number*/503, /*enable_skip*/0, /*play_bgm*/0, /*next_play*/1);
+INSERT INTO `aniv_count_movie_data` VALUES (/*id*/11, /*aniv*/10, /*count*/6, /*number*/601, /*enable_skip*/0, /*play_bgm*/0, /*next_play*/0);
+INSERT INTO `aniv_count_movie_data` VALUES (/*id*/12, /*aniv*/10, /*count*/6, /*number*/602, /*enable_skip*/0, /*play_bgm*/0, /*next_play*/1);
 CREATE INDEX 'aniv_count_movie_data_0_aniv' on 'aniv_count_movie_data'('aniv');

@@ -593,3 +593,4 @@ INSERT INTO `story_category` VALUES (/*id*/615, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/616, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"オトメゴコロ更新中", /*sub_title*/"オトメゴコロ更新中", /*disp_order*/261, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/617, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"熱情エナモラル", /*sub_title*/"熱情エナモラル", /*disp_order*/262, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/618, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"がおちゅー♪さふぁりぱーく !", /*sub_title*/"がおちゅー♪さふぁりぱーく !", /*disp_order*/263, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/619, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Driving My Way", /*sub_title*/"Driving My Way", /*disp_order*/264, /*filter_type*/0);

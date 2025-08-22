@@ -1,0 +1,1 @@
+CREATE TABLE 'tower_data_re' ('term_id' INTEGER NOT NULL, 'item_id' INTEGER NOT NULL, 'bg_id' INTEGER NOT NULL, 'bg_id2' INTEGER NOT NULL, 'start_date' TEXT NOT NULL, 'end_date' TEXT NOT NULL, PRIMARY KEY('term_id'));
