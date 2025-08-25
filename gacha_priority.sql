@@ -1,7 +1,9 @@
 CREATE TABLE 'gacha_priority' ('id' INTEGER NOT NULL, 'id_type' INTEGER NOT NULL, 'priority' INTEGER NOT NULL, PRIMARY KEY('id','id_type'));
-INSERT INTO `gacha_priority` VALUES (/*id*/60432, /*id_type*/1, /*priority*/900);
-INSERT INTO `gacha_priority` VALUES (/*id*/60433, /*id_type*/1, /*priority*/1000);
-INSERT INTO `gacha_priority` VALUES (/*id*/31123, /*id_type*/1, /*priority*/1100);
+INSERT INTO `gacha_priority` VALUES (/*id*/31124, /*id_type*/1, /*priority*/900);
+INSERT INTO `gacha_priority` VALUES (/*id*/31125, /*id_type*/1, /*priority*/1000);
+INSERT INTO `gacha_priority` VALUES (/*id*/31126, /*id_type*/1, /*priority*/1100);
+INSERT INTO `gacha_priority` VALUES (/*id*/60432, /*id_type*/1, /*priority*/2000);
+INSERT INTO `gacha_priority` VALUES (/*id*/60433, /*id_type*/1, /*priority*/2100);
 INSERT INTO `gacha_priority` VALUES (/*id*/159, /*id_type*/2, /*priority*/3000);
 INSERT INTO `gacha_priority` VALUES (/*id*/160, /*id_type*/2, /*priority*/3100);
 INSERT INTO `gacha_priority` VALUES (/*id*/161, /*id_type*/2, /*priority*/3200);

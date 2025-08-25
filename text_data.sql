@@ -609,7 +609,7 @@ INSERT INTO `text_data` VALUES (/*category*/12, /*index*/28, /*text*/"デレス�
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/29, /*text*/"#デレステ1日1回無料");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/30, /*text*/"デレステでプラチナオーディションガシャ1日1回10連無料キャンペーン中!!\n{0}さんの本日の結果はこちら!!\n {1}");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/31, /*text*/"#デレステ\n {0}");
-INSERT INTO `text_data` VALUES (/*category*/12, /*index*/32, /*text*/"#デレステ10連ガシャ無料");
+INSERT INTO `text_data` VALUES (/*category*/12, /*index*/32, /*text*/"#デレステ10周年\n #デレステ10連ガシャ無料");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/33, /*text*/"プレゼント一覧にてお受け取りください");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/34, /*text*/"{0} [D33D98]{1}[FFFFFF]個");
 INSERT INTO `text_data` VALUES (/*category*/12, /*index*/35, /*text*/"所持数が上限に達しているため\nプレゼントに送られました。");

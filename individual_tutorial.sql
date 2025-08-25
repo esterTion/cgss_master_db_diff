@@ -1353,4 +1353,6 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/91032, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/91033, /*img*/1, /*discription*/"メモリアルガシャ7th公開中 !\nSレアとSSレアは対象の限定アイドルのみ登場します !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91033, /*img*/2, /*discription*/"メモリアルガシャ8th公開中 !\nSレアとSSレアは対象の限定アイドルのみ登場します !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91034, /*img*/1, /*discription*/"チャンスチケットの配布は終了しました。\n結果発表までお楽しみに !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/91035, /*img*/1, /*discription*/"「プラチナオーディションガシャ1日1回10連無料キャンペーン」を開催中 !\nキャンペーン期間中1日1回無料で10連ガシャを引くことができます。\n1日1回無料で引ける10連ガシャは、\n毎日24時にリセットされます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/91035, /*img*/2, /*discription*/"今回のキャンペーンで引いたガシャの結果は、\nアプリからX（旧Twitter）に投稿することができます。");
 CREATE INDEX 'individual_tutorial_0_id' on 'individual_tutorial'('id');
