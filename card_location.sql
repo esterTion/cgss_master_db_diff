@@ -2244,3 +2244,5 @@ INSERT INTO `card_location` VALUES (/*index*/2258, /*text*/"アメリカ・ダ�
 INSERT INTO `card_location` VALUES (/*index*/2259, /*text*/"ロックな魂が集う土地");
 INSERT INTO `card_location` VALUES (/*index*/2260, /*text*/"海岸沿いの町");
 INSERT INTO `card_location` VALUES (/*index*/2261, /*text*/"先の見えない長い道");
+INSERT INTO `card_location` VALUES (/*index*/2262, /*text*/"夕暮れの原宿");
+INSERT INTO `card_location` VALUES (/*index*/2263, /*text*/"閉店後の静かなジャズバー");

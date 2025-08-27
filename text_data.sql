@@ -3179,7 +3179,7 @@ INSERT INTO `text_data` VALUES (/*category*/42, /*index*/21, /*text*/"カテゴ�
 INSERT INTO `text_data` VALUES (/*category*/42, /*index*/22, /*text*/"絞り込み");
 INSERT INTO `text_data` VALUES (/*category*/42, /*index*/23, /*text*/"アイドル名検索");
 INSERT INTO `text_data` VALUES (/*category*/42, /*index*/24, /*text*/"キャンセル");
-INSERT INTO `text_data` VALUES (/*category*/42, /*index*/25, /*text*/"現在、公開されているコミュはありません");
+INSERT INTO `text_data` VALUES (/*category*/42, /*index*/25, /*text*/"公開されているコミュはありません");
 INSERT INTO `text_data` VALUES (/*category*/42, /*index*/26, /*text*/"コミュ連続視聴確認");
 INSERT INTO `text_data` VALUES (/*category*/42, /*index*/27, /*text*/"連続で視聴できるコミュがあります。\n視聴しますか？");
 INSERT INTO `text_data` VALUES (/*category*/42, /*index*/28, /*text*/"[FF7A7A]視聴する場合、ボイスデータをダウンロードします。[-]");
@@ -3205,6 +3205,7 @@ INSERT INTO `text_data` VALUES (/*category*/42, /*index*/47, /*text*/"コミュ�
 INSERT INTO `text_data` VALUES (/*category*/42, /*index*/48, /*text*/"検索結果");
 INSERT INTO `text_data` VALUES (/*category*/42, /*index*/50, /*text*/"");
 INSERT INTO `text_data` VALUES (/*category*/42, /*index*/51, /*text*/"");
+INSERT INTO `text_data` VALUES (/*category*/42, /*index*/52, /*text*/"全てのコミュを解放済みです");
 INSERT INTO `text_data` VALUES (/*category*/43, /*index*/1, /*text*/"ダウンロード管理");
 INSERT INTO `text_data` VALUES (/*category*/43, /*index*/2, /*text*/"楽曲データ");
 INSERT INTO `text_data` VALUES (/*category*/43, /*index*/3, /*text*/"ゲームデータ");
