@@ -23,4 +23,5 @@ INSERT INTO `aniv_count_top_data` VALUES (/*id*/21, /*aniv*/10, /*count*/11, /*n
 INSERT INTO `aniv_count_top_data` VALUES (/*id*/22, /*aniv*/10, /*count*/11, /*number*/2, /*position*/1, /*chara_id*/253, /*name*/"雫", /*message*/"私もよくダンスのお誘いをしていますからねー。\n　　　　持ち上げてあげると照れちゃって、とぉっても可愛いんですよー♪", /*time*/6500);
 INSERT INTO `aniv_count_top_data` VALUES (/*id*/23, /*aniv*/10, /*count*/12, /*number*/1, /*position*/0, /*chara_id*/238, /*name*/"夏樹", /*message*/"ヘイ、涼。\n　　　また3人でドライブはどうかって、ちとせから誘いがあったぜ。\n　　　　プランはなし、風まかせの旅だ。　　　　　　　　　　", /*time*/5500);
 INSERT INTO `aniv_count_top_data` VALUES (/*id*/24, /*aniv*/10, /*count*/12, /*number*/2, /*position*/1, /*chara_id*/194, /*name*/"涼", /*message*/"ハハッ、いいね !\n　　　気ままな道を進んで、一番アタシたちらしい……　　　　おっと。\n言いそうになっちまったな、キーワード♪", /*time*/5500);
+INSERT INTO `aniv_count_top_data` VALUES (/*id*/25, /*aniv*/10, /*count*/13, /*number*/1, /*position*/0, /*chara_id*/-1, /*name*/"ちひろ", /*message*/"アイドルマスター シンデレラガールズ スターライトステージが\n　　10周年を迎えましたよ !", /*time*/3000);
 CREATE INDEX 'aniv_count_top_data_0_aniv' on 'aniv_count_top_data'('aniv');

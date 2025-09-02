@@ -60,6 +60,8 @@ INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100058, /*name*/"あに�
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100059, /*name*/"8周年カウントダウン", /*album_id*/8, /*jacket_id*/100001, /*sort*/59);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100060, /*name*/"アイドルプロデュース", /*album_id*/8, /*jacket_id*/100001, /*sort*/60);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100061, /*name*/"アイドルプロデュース ～コミュイベント", /*album_id*/8, /*jacket_id*/100001, /*sort*/61);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100062, /*name*/"9周年カウントダウン", /*album_id*/8, /*jacket_id*/100001, /*sort*/62);
+INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/100063, /*name*/"10周年カウントダウン", /*album_id*/8, /*jacket_id*/100001, /*sort*/63);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200001, /*name*/"アタシポンコツアンドロイド（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/1);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200002, /*name*/"Nation Blue（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/2);
 INSERT INTO `soundbooth_music_data` VALUES (/*music_id*/200003, /*name*/"Orange Sapphire（BGM arrange Mix）", /*album_id*/9, /*jacket_id*/200001, /*sort*/3);

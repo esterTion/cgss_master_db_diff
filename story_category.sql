@@ -595,4 +595,5 @@ INSERT INTO `story_category` VALUES (/*id*/616, /*type*/3, /*chara_type*/0, /*ch
 INSERT INTO `story_category` VALUES (/*id*/617, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"熱情エナモラル", /*sub_title*/"熱情エナモラル", /*disp_order*/262, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/618, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"がおちゅー♪さふぁりぱーく !", /*sub_title*/"がおちゅー♪さふぁりぱーく !", /*disp_order*/263, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/619, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"Driving My Way", /*sub_title*/"Driving My Way", /*disp_order*/264, /*filter_type*/0);
+INSERT INTO `story_category` VALUES (/*id*/620, /*type*/3, /*chara_type*/0, /*chara_id*/0, /*title*/"EVERAFTER", /*sub_title*/"EVERAFTER", /*disp_order*/265, /*filter_type*/0);
 INSERT INTO `story_category` VALUES (/*id*/621, /*type*/4, /*chara_type*/0, /*chara_id*/0, /*title*/"10th MEMORIAL LIVE STARLIGHT STAGE連動企画", /*sub_title*/"10th MEMORIAL LIVE STARLIGHT STAGE連動企画", /*disp_order*/48, /*filter_type*/401);

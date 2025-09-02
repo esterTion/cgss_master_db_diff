@@ -352,8 +352,9 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/20013, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/1, /*discription*/"ルームアイテムの並べ替えを行うことができます。\n「追加順」、「必要面積順」など並べ替え条件を選択できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/2, /*discription*/"ルームアイテムの絞り込みと検索を行えます。\n任意の条件を選択した絞り込みと、\nルームアイテム名での検索が行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20014, /*img*/3, /*discription*/"アイドルのポスターとイベントトロフィーは\n倉庫収納数から除外されます。\n収納していても、収納数にカウントされません。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"U149コミックス18巻,最終19巻発売記念 !\nコラボルームアイテム『うさちゃんのぬいぐるみ/U149』\n『第3芸能課単独ライブ応援グッズ』を販売開始しました !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"セレクトショップで販売している私服の衣装スタンド\n『衣装スタンド/ミッドナイトブルーワンピ』を追加 !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"過去のイベント報酬ルームアイテムを\nルームショップにて販売開始しました !\n※トロフィー、一部ルームアイテムは対象外です");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20098, /*img*/1, /*discription*/"対象のイベント報酬ルームアイテムは、\n売却ができるようになりました。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/20099, /*img*/1, /*discription*/"楽曲「EVERAFTER」の公開を記念して、\n「衣装スタンド/スターライト・エタニティ」を\nルームショップに追加しました !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/1, /*discription*/"ルームはお気に入りメンバーが集う場所です。\nいろいろなルームアイテムを配置して、\nあなた好みの空間を作りましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"ルームアイテムの中には設置する事で、様々な効果を発揮する物があります。\n※一部の効果付きルームアイテムは、収納中でも効果を発揮します\n\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/20101, /*img*/2, /*discription*/"さらに、一部の効果付きルームアイテムは、\nマニーを使ってレベルアップできます。\n効果付きルームアイテムでLIVEを有利にしましょう。");
@@ -698,7 +699,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60044, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60044, /*img*/1, /*discription*/"「セレクトショップ ホーム」では、\nプリヴェに入荷した新作の確認や\n「試着室」でプリヴェの商品を試着することができます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60044, /*img*/1, /*discription*/"「私服購入」から気に入った私服を購入したり\n「ロケ撮」からアイドルの撮影を行うこともできます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60045, /*img*/1, /*discription*/"「試着室」では、アイドルごとに着用可能な私服を試着できます。\n試着中の私服の詳細を確認したり、\nそのまま購入することもできますよ !");
-INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/1, /*discription*/"「LIVE PARTY!!」では、協力LIVEを行うことで、\n「スターエンブレム」が獲得できます。\n「スターエンブレム」を集めると、過去イベントの報酬や、\nアイテムとの交換ができます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/1, /*discription*/"「LIVE PARTY!!」では、協力LIVEを行うことで、\n「スターエンブレム」が獲得できます。「スターエンブレム」を集めると、\nイベント限定アイドルスカウトチケット、\nプラチナガシャチケット、バッジなどのアイテムと交換できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/2, /*discription*/"同じ難易度を選んだプロデューサー5人でマッチングが行われ、\nマッチングされたメンバーと協力してLIVEを行います。\n楽曲はランダムで選曲され、\nメンバー全員が同時にその楽曲でLIVEを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/3, /*discription*/"カジュアルマッチを有効にした場合は、\n異なる難易度を選択したプロデューサーもマッチング対象となり、\nLIVEを行います。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60100, /*img*/4, /*discription*/"本機能では、専用ユニットでLIVEを行います。ユニットには5つの「ポジション」があります。\n各プロデューサーのアイドルが、ポジションを1つずつ担当し、5人の共通ユニットが編成されます。\n※自分のアイドルがどのポジションを担当するかはランダムで決定されます。\n※楽曲タイプとポジションごとにアイドルを設定できます。");
@@ -803,7 +804,6 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/7, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/8, /*discription*/"最終RankであるCarnivalRank SSSに到達すると、\n「VoltagePointランキング」に参加できます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/8, /*discription*/"「VoltagePointランキング」は、CarnivalRank SSSでの\nVoltagePointの合計を競うランキングとなります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/8, /*discription*/"「VoltagePointランキング」では、\n結果に応じて限定のルームアイテムや\nイベント限定の順位付き称号を入手できます。");
-INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/12, /*discription*/"ランキングで手に入るトロフィー/虹は\n次回開催時のLIVE Carnivalイベントにて効果のある\n特別なトロフィーとなっています。\nカーニバルメダルの獲得量がアップする効果を予定しております !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/9, /*discription*/"楽曲・ユニットおすすめ設定を使えば、\nおすすめのBOOTH設定を自動で選択してくれます。\n楽曲Lvや条件を決めて、活用しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/10, /*discription*/"BOOTHには、それぞれBOOTH効果という、\nアイドルのアピール値が上がる効果が設定されています。\nその効果に合うユニットでLIVEする事で、\nVoltageが上がりやすくなります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80801, /*img*/11, /*discription*/"イベント専用ユニットには、他のプロデューサーさんのアイドルを\n1ユニットにつき1人までゲストアイドルとして\n編成することが出来ます。\nゲストアイドルの力を借りてBOOTHを攻略しましょう !");

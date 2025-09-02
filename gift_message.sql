@@ -115,8 +115,8 @@ INSERT INTO `gift_message` VALUES (/*id*/1019, /*discription*/"イベント「{0
 INSERT INTO `gift_message` VALUES (/*id*/1020, /*discription*/"イベント「{0}」累計観客動員数{1}人の達成報酬です。", /*type_1*/19, /*type_2*/20, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1021, /*discription*/"イベント「{0}」公演クリアで加入したアイドルです。", /*type_1*/19, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1022, /*discription*/"イベント「{0}」公演クリア報酬です。", /*type_1*/19, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/1023, /*discription*/"「{0}」のスターエンブレム交換所で獲得した報酬です。", /*type_1*/33, /*type_2*/0, /*type_3*/0, /*type_4*/0);
-INSERT INTO `gift_message` VALUES (/*id*/1024, /*discription*/"「{0}」のスターエンブレム交換所でスカウトしたアイドルです。", /*type_1*/33, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/1023, /*discription*/"スターエンブレム交換所で獲得した報酬です。", /*type_1*/33, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/1024, /*discription*/"スターエンブレム交換所でスカウトしたアイドルです。", /*type_1*/33, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1025, /*discription*/"「{0}」の協力報酬で獲得した報酬です。", /*type_1*/33, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1026, /*discription*/"「{0}」の個人報酬で獲得した報酬です。", /*type_1*/33, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/1027, /*discription*/"「{0}」の協力報酬で加入したアイドルです。", /*type_1*/33, /*type_2*/0, /*type_3*/0, /*type_4*/0);
@@ -343,3 +343,5 @@ INSERT INTO `gift_message` VALUES (/*id*/20136, /*discription*/"「ありがと�
 INSERT INTO `gift_message` VALUES (/*id*/20137, /*discription*/"「ありがとう10周年 ! プラチナチャンス」{0}等C賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20138, /*discription*/"「ありがとう10周年 ! プラチナチャンス」特別賞当選のプレゼントです。", /*type_1*/32, /*type_2*/0, /*type_3*/0, /*type_4*/0);
 INSERT INTO `gift_message` VALUES (/*id*/20139, /*discription*/"「10周年記念!!カウントダウンログインボーナス」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20140, /*discription*/"「THE IDOLM@STER CINDERELLA GIRLS 10th MEMORIAL LIVE STARLIGHT STAGE」開催記念のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);
+INSERT INTO `gift_message` VALUES (/*id*/20143, /*discription*/"「10th MEMORIAL LIVE連動キャンペーン」のプレゼントです。", /*type_1*/0, /*type_2*/0, /*type_3*/0, /*type_4*/0);

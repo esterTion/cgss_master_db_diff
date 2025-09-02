@@ -2246,3 +2246,13 @@ INSERT INTO `card_location` VALUES (/*index*/2260, /*text*/"海岸沿いの町")
 INSERT INTO `card_location` VALUES (/*index*/2261, /*text*/"先の見えない長い道");
 INSERT INTO `card_location` VALUES (/*index*/2262, /*text*/"夕暮れの原宿");
 INSERT INTO `card_location` VALUES (/*index*/2263, /*text*/"閉店後の静かなジャズバー");
+INSERT INTO `card_location` VALUES (/*index*/2264, /*text*/"夕焼けに染まる通学路");
+INSERT INTO `card_location` VALUES (/*index*/2265, /*text*/"Crossing Generation");
+INSERT INTO `card_location` VALUES (/*index*/2266, /*text*/"陽の沈んだ眩ゆい渋谷");
+INSERT INTO `card_location` VALUES (/*index*/2267, /*text*/"Timeless Generation");
+INSERT INTO `card_location` VALUES (/*index*/2268, /*text*/"光射す街");
+INSERT INTO `card_location` VALUES (/*index*/2269, /*text*/"Battle Generation");
+INSERT INTO `card_location` VALUES (/*index*/2270, /*text*/"LIVEを前に");
+INSERT INTO `card_location` VALUES (/*index*/2271, /*text*/"あなたの前");
+INSERT INTO `card_location` VALUES (/*index*/2272, /*text*/"手紙を読んで");
+INSERT INTO `card_location` VALUES (/*index*/2273, /*text*/"光を前に");

@@ -1,0 +1,2 @@
+CREATE TABLE 'mo_p_idol_rank_reward' ('id' INTEGER NOT NULL, 'chara_id' INTEGER NOT NULL, 'rank_min' INTEGER NOT NULL, 'rank_max' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_value' INTEGER NOT NULL, 'add_value_1' INTEGER NOT NULL, 'add_value_2' INTEGER NOT NULL, 'add_value_3' INTEGER NOT NULL, PRIMARY KEY('id'));
+CREATE INDEX 'mo_p_idol_rank_reward_0_chara_id' on 'mo_p_idol_rank_reward'('chara_id');
