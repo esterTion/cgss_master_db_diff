@@ -89,3 +89,13 @@ INSERT INTO `card_level` VALUES (/*level*/87, /*rare_1_exp*/0, /*rare_3_exp*/0, 
 INSERT INTO `card_level` VALUES (/*level*/88, /*rare_1_exp*/0, /*rare_3_exp*/0, /*rare_5_exp*/0, /*rare_7_exp*/204450, /*rare_9_exp*/0);
 INSERT INTO `card_level` VALUES (/*level*/89, /*rare_1_exp*/0, /*rare_3_exp*/0, /*rare_5_exp*/0, /*rare_7_exp*/209000, /*rare_9_exp*/0);
 INSERT INTO `card_level` VALUES (/*level*/90, /*rare_1_exp*/0, /*rare_3_exp*/0, /*rare_5_exp*/0, /*rare_7_exp*/213600, /*rare_9_exp*/0);
+INSERT INTO `card_level` VALUES (/*level*/91, /*rare_1_exp*/0, /*rare_3_exp*/0, /*rare_5_exp*/0, /*rare_7_exp*/0, /*rare_9_exp*/0);
+INSERT INTO `card_level` VALUES (/*level*/92, /*rare_1_exp*/0, /*rare_3_exp*/0, /*rare_5_exp*/0, /*rare_7_exp*/0, /*rare_9_exp*/0);
+INSERT INTO `card_level` VALUES (/*level*/93, /*rare_1_exp*/0, /*rare_3_exp*/0, /*rare_5_exp*/0, /*rare_7_exp*/0, /*rare_9_exp*/0);
+INSERT INTO `card_level` VALUES (/*level*/94, /*rare_1_exp*/0, /*rare_3_exp*/0, /*rare_5_exp*/0, /*rare_7_exp*/0, /*rare_9_exp*/0);
+INSERT INTO `card_level` VALUES (/*level*/95, /*rare_1_exp*/0, /*rare_3_exp*/0, /*rare_5_exp*/0, /*rare_7_exp*/0, /*rare_9_exp*/0);
+INSERT INTO `card_level` VALUES (/*level*/96, /*rare_1_exp*/0, /*rare_3_exp*/0, /*rare_5_exp*/0, /*rare_7_exp*/0, /*rare_9_exp*/0);
+INSERT INTO `card_level` VALUES (/*level*/97, /*rare_1_exp*/0, /*rare_3_exp*/0, /*rare_5_exp*/0, /*rare_7_exp*/0, /*rare_9_exp*/0);
+INSERT INTO `card_level` VALUES (/*level*/98, /*rare_1_exp*/0, /*rare_3_exp*/0, /*rare_5_exp*/0, /*rare_7_exp*/0, /*rare_9_exp*/0);
+INSERT INTO `card_level` VALUES (/*level*/99, /*rare_1_exp*/0, /*rare_3_exp*/0, /*rare_5_exp*/0, /*rare_7_exp*/0, /*rare_9_exp*/0);
+INSERT INTO `card_level` VALUES (/*level*/100, /*rare_1_exp*/0, /*rare_3_exp*/0, /*rare_5_exp*/0, /*rare_7_exp*/0, /*rare_9_exp*/0);

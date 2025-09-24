@@ -7,3 +7,5 @@ INSERT INTO `card_rarity` VALUES (/*rarity*/5, /*base_max_level*/60, /*add_max_l
 INSERT INTO `card_rarity` VALUES (/*rarity*/6, /*base_max_level*/70, /*add_max_level*/0, /*max_love*/300, /*base_give_money*/7500, /*base_give_exp*/1500, /*add_param*/0, /*max_star_rank*/20);
 INSERT INTO `card_rarity` VALUES (/*rarity*/7, /*base_max_level*/80, /*add_max_level*/0, /*max_love*/200, /*base_give_money*/10000, /*base_give_exp*/3000, /*add_param*/0, /*max_star_rank*/20);
 INSERT INTO `card_rarity` VALUES (/*rarity*/8, /*base_max_level*/90, /*add_max_level*/0, /*max_love*/600, /*base_give_money*/15000, /*base_give_exp*/4500, /*add_param*/0, /*max_star_rank*/20);
+INSERT INTO `card_rarity` VALUES (/*rarity*/9, /*base_max_level*/95, /*add_max_level*/0, /*max_love*/300, /*base_give_money*/20000, /*base_give_exp*/3000, /*add_param*/0, /*max_star_rank*/20);
+INSERT INTO `card_rarity` VALUES (/*rarity*/10, /*base_max_level*/100, /*add_max_level*/0, /*max_love*/999, /*base_give_money*/25000, /*base_give_exp*/4500, /*add_param*/0, /*max_star_rank*/20);

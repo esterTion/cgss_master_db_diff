@@ -21,5 +21,6 @@ INSERT INTO `campaign_description` VALUES (/*id*/114, /*title*/"デレスポ", /
 INSERT INTO `campaign_description` VALUES (/*id*/115, /*title*/"キャンペーン", /*description*/"SSレアアイドル勧誘チャレンジ開催中 !", /*page_index*/4000, /*panel_icon_id*/2, /*panel_frame_id*/0, /*disp_order*/105);
 INSERT INTO `campaign_description` VALUES (/*id*/201, /*title*/"オートLIVEチケット", /*description*/"ログインボーナスでオートLIVE\nチケットを追加獲得 ! ", /*page_index*/100, /*panel_icon_id*/4, /*panel_frame_id*/0, /*disp_order*/0);
 INSERT INTO `campaign_description` VALUES (/*id*/202, /*title*/"LIVE PARTY!!", /*description*/"LIVE PARTY!!の獲得スター\nエンブレムが2倍 !", /*page_index*/2900, /*panel_icon_id*/13, /*panel_frame_id*/0, /*disp_order*/0);
+INSERT INTO `campaign_description` VALUES (/*id*/203, /*title*/"LIVE Infinity", /*description*/"フロアの課題進捗が2倍 !", /*page_index*/3950, /*panel_icon_id*/15, /*panel_frame_id*/0, /*disp_order*/0);
 INSERT INTO `campaign_description` VALUES (/*id*/205, /*title*/"LIVE", /*description*/"LIVEでスターエンブレムを\n確率で獲得 !", /*page_index*/100, /*panel_icon_id*/4, /*panel_frame_id*/0, /*disp_order*/0);
 INSERT INTO `campaign_description` VALUES (/*id*/206, /*title*/"当日限定スタミナドリンク", /*description*/"ログインボーナスで当日限定\nスタミナドリンク50を獲得 !", /*page_index*/703, /*panel_icon_id*/17, /*panel_frame_id*/0, /*disp_order*/0);

@@ -78,3 +78,5 @@ INSERT INTO `mv_list_data` VALUES (/*stage_id*/76, /*start_date*/"2025-07-25 15:
 INSERT INTO `mv_list_data` VALUES (/*stage_id*/77, /*start_date*/"2025-07-25 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/39, /*day*/2, /*name*/"10th ANNIVERSARY TOUR Let’s AMUSEMENT!!! \n沖縄公演 2日目");
 INSERT INTO `mv_list_data` VALUES (/*stage_id*/78, /*start_date*/"2025-07-25 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/40, /*day*/1, /*name*/"10th ANNIVERSARY TOUR Let’s AMUSEMENT!!! \n福岡公演 1日目");
 INSERT INTO `mv_list_data` VALUES (/*stage_id*/79, /*start_date*/"2025-07-25 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/40, /*day*/2, /*name*/"10th ANNIVERSARY TOUR Let’s AMUSEMENT!!! \n福岡公演 2日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/80, /*start_date*/"2025-09-24 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/41, /*day*/1, /*name*/"10th MEMORIAL LIVE STARLIGHT STAGE \n1日目");
+INSERT INTO `mv_list_data` VALUES (/*stage_id*/81, /*start_date*/"2025-09-24 15:00:00", /*end_date*/"2099-12-31 14:59:59", /*stage_group_id*/41, /*day*/2, /*name*/"10th MEMORIAL LIVE STARLIGHT STAGE \n2日目");

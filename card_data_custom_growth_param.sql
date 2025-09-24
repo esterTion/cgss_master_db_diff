@@ -29,3 +29,9 @@ INSERT INTO `card_data_custom_growth_param` VALUES (/*point*/27, /*add_vocal*/39
 INSERT INTO `card_data_custom_growth_param` VALUES (/*point*/28, /*add_vocal*/4070, /*add_dance*/4070, /*add_visual*/4070, /*add_life*/76);
 INSERT INTO `card_data_custom_growth_param` VALUES (/*point*/29, /*add_vocal*/4185, /*add_dance*/4185, /*add_visual*/4185, /*add_life*/78);
 INSERT INTO `card_data_custom_growth_param` VALUES (/*point*/30, /*add_vocal*/4300, /*add_dance*/4300, /*add_visual*/4300, /*add_life*/80);
+INSERT INTO `card_data_custom_growth_param` VALUES (/*point*/31, /*add_vocal*/4415, /*add_dance*/4415, /*add_visual*/4415, /*add_life*/82);
+INSERT INTO `card_data_custom_growth_param` VALUES (/*point*/32, /*add_vocal*/4530, /*add_dance*/4530, /*add_visual*/4530, /*add_life*/84);
+INSERT INTO `card_data_custom_growth_param` VALUES (/*point*/33, /*add_vocal*/4645, /*add_dance*/4645, /*add_visual*/4645, /*add_life*/86);
+INSERT INTO `card_data_custom_growth_param` VALUES (/*point*/34, /*add_vocal*/4760, /*add_dance*/4760, /*add_visual*/4760, /*add_life*/88);
+INSERT INTO `card_data_custom_growth_param` VALUES (/*point*/35, /*add_vocal*/4875, /*add_dance*/4875, /*add_visual*/4875, /*add_life*/90);
+INSERT INTO `card_data_custom_growth_param` VALUES (/*point*/36, /*add_vocal*/5000, /*add_dance*/5000, /*add_visual*/5000, /*add_life*/92);

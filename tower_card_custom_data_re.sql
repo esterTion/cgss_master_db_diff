@@ -1,1 +1,11 @@
 CREATE TABLE 'tower_card_custom_data_re' ('rarity' INTEGER NOT NULL, 'growth_point_max' INTEGER NOT NULL, 'skill_level' INTEGER NOT NULL, PRIMARY KEY('rarity'));
+INSERT INTO `tower_card_custom_data_re` VALUES (/*rarity*/1, /*growth_point_max*/6, /*skill_level*/10);
+INSERT INTO `tower_card_custom_data_re` VALUES (/*rarity*/2, /*growth_point_max*/6, /*skill_level*/10);
+INSERT INTO `tower_card_custom_data_re` VALUES (/*rarity*/3, /*growth_point_max*/12, /*skill_level*/10);
+INSERT INTO `tower_card_custom_data_re` VALUES (/*rarity*/4, /*growth_point_max*/12, /*skill_level*/10);
+INSERT INTO `tower_card_custom_data_re` VALUES (/*rarity*/5, /*growth_point_max*/24, /*skill_level*/10);
+INSERT INTO `tower_card_custom_data_re` VALUES (/*rarity*/6, /*growth_point_max*/24, /*skill_level*/10);
+INSERT INTO `tower_card_custom_data_re` VALUES (/*rarity*/7, /*growth_point_max*/30, /*skill_level*/10);
+INSERT INTO `tower_card_custom_data_re` VALUES (/*rarity*/8, /*growth_point_max*/30, /*skill_level*/10);
+INSERT INTO `tower_card_custom_data_re` VALUES (/*rarity*/9, /*growth_point_max*/33, /*skill_level*/10);
+INSERT INTO `tower_card_custom_data_re` VALUES (/*rarity*/10, /*growth_point_max*/36, /*skill_level*/10);

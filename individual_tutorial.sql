@@ -722,6 +722,17 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/60102, /*img*/2, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/60102, /*img*/2, /*discription*/"スタンプの設定を初期状態に戻したい場合は、\n「初期設定」ボタンを押しましょう。\nおすすめのスタンプ設定が適用されます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60103, /*img*/1, /*discription*/"マッチングルームでホストが楽曲タイプを選択できるように\nなりました。楽曲タイプの変更は、マッチングルーム内\n「ルーム設定」からも行えます。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/60104, /*img*/1, /*discription*/"異なる難易度のプロデューサーと\n一緒にLIVEが楽しめる「カジュアルマッチ」が\n選択できるようになりました。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60200, /*img*/2, /*discription*/"「マイスタイルアイドルスカウトチケット」を使って\nアイドルを獲得し、育成する「マイスタイルアイドル」\nを選択してタワーに挑戦しましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60200, /*img*/2, /*discription*/"「マイスタイルアイドル」はタワーのフロア課題を達成していくことで、\n育成ptによって各ステータスが上昇したり、\nレアリティやスターランクがアップしていく特別なアイドルです。\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60200, /*img*/2, /*discription*/"既に育成したことがあるマイスタイルアイドルも\n獲得が可能です。加入済みのアイドルと同じアイドルを選択すると、\n新たに別のマイスタイルアイドルとして加入します。\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60200, /*img*/3, /*discription*/"育成ptは、特定のフロアの課題達成で獲得できます。\n育成ptには「ボーカルpt」「ダンスpt」「ビジュアルpt」「ライフpt」\nがあり、獲得したptの種類によって、マイスタイルアイドルの\nステータスが成長します。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60200, /*img*/3, /*discription*/"メインタワーには育成pt以外にも\n「レアリティアップ」「スターランクアップ」が獲得できるフロアがあり、\nマイスタイルアイドルのレアリティやスターランクが成長します。\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60200, /*img*/3, /*discription*/"メインタワーのフロア課題を達成していくと、\n新しいタワーやフロアが解放されます。\nタワーごとに獲得できる育成ptなどに特色があるので、\nアイドルの育成方針にあわせて挑戦するタワーを選びましょう。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60200, /*img*/4, /*discription*/"マイスタイルアイドルは、LIVE Infinityの課題クリアで\nのみ育成できます。メインタワーを進行していくと、SSレアのさらに上の\nレアリティ「USレア」までアイドルを成長させられます。\n※USレアはマイスタイルアイドル専用のレアリティとなります");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60200, /*img*/5, /*discription*/"「マイスタイルアイドル」は専用アイテム「バッジ」を使用することで、\n自分の好きなセンター効果や特技を習得できます。\n※バッジはマイスタイルアイドルの詳細画面から使用できます。\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60200, /*img*/5, /*discription*/"バッジは、フロアの課題クリア報酬で獲得できます。\n※バッジはプレゼントに送られず、直接獲得できます。\n");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60200, /*img*/6, /*discription*/"「マイスタイルアイドル」の見た目は、自分のアルバムに\n登録されているアイドルの中から選択できます。またフレーズ名や特技名も変更できます。\n※見た目、フレーズ名、特技名はマイスタイルアイドルの詳細画面\nから変更できます。");
+INSERT INTO `individual_tutorial` VALUES (/*id*/60200, /*img*/7, /*discription*/"メインタワーの50階をクリアすると、\nアイドルごとの称号が獲得できます。\n※称号の獲得は各アイドルごとに1度までです");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/1, /*discription*/"「イベントptランキング報酬」、「イベントpt報酬」、\n「ハイスコアランキング報酬」で、イベント限定の\nSレアアイドルやルームアイテムを手にいれましょう。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/2, /*discription*/"イベントptランキングで50万位に入賞すると、\n自分の順位が入ったイベント称号を獲得できます。\n各称号のデザインは順位によって異なります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/80001, /*img*/3, /*discription*/"通常楽曲とイベント限定営業をプレイすると、\nカーモニカとイベントptを獲得できます。\nカーモニカは、スタミナ消費量と\nSCOREランクが高いほど多く獲得できます。");
@@ -1332,7 +1343,7 @@ INSERT INTO `individual_tutorial` VALUES (/*id*/91026, /*img*/1, /*discription*/
 INSERT INTO `individual_tutorial` VALUES (/*id*/91027, /*img*/1, /*discription*/"「デレスポ」モードを追加しました !\nデレスポの「フォトスタジオ」「3Dコミュ」\n「VR LIVE」「サウンドブース」\nがデレステで楽しめますよ !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91027, /*img*/2, /*discription*/"フォトスタジオのAR VIEWに新たな撮影設定を追加しました !\n「地形認識」や「遮蔽設定」などの設定で、\nアイドルをよりリアルに感じられますよ !\n※端末によって一部非対応の機能があります。");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91027, /*img*/2, /*discription*/"新しい撮影設定は他にも盛りだくさん !\n詳細はお知らせをご覧ください !\n※端末によって一部非対応の機能があります。\n");
-INSERT INTO `individual_tutorial` VALUES (/*id*/91028, /*img*/1, /*discription*/"これまでイベントとして実施していた「LIVE Infinity」の仕様を\n一部変更し、9月下旬ごろに常設コンテンツとして改修を予定しています。\n公開をお楽しみに !");
+INSERT INTO `individual_tutorial` VALUES (/*id*/91028, /*img*/1, /*discription*/"常設コンテンツ版「LIVE Infinity」を公開しました !\n「マイスタイルアイドル」がいつでも育成できますよ !\nその他のアップデートの詳細につきましては\nお知らせをご覧ください !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91029, /*img*/1, /*discription*/"現在当選結果を発表中です。\n配布期間中にチャンスチケットを獲得した方は\n当選結果を確認しましょう !");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91030, /*img*/1, /*discription*/"8/15 15:00より「SSレアアイドル勧誘チャレンジ」を開催中です !\nチャレンジミッションをクリアし、\nアイドルの信頼を得て正式加入を目指しましょう !\n");
 INSERT INTO `individual_tutorial` VALUES (/*id*/91030, /*img*/2, /*discription*/"「SSレアアイドル勧誘チャレンジ」開催期間中は\n「プラチナチャレンジパス」が登場します !\n※有償スタージュエルでのみ購入することができます。\n");

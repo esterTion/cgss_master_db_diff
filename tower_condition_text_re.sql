@@ -1,1 +1,11 @@
 CREATE TABLE 'tower_condition_text_re' ('id' INTEGER NOT NULL, 'use_type' INTEGER NOT NULL, 'condition_type' INTEGER NOT NULL, 'description' TEXT NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `tower_condition_text_re` VALUES (/*id*/1, /*use_type*/1, /*condition_type*/1, /*description*/"{0}のファン数を{1}人獲得");
+INSERT INTO `tower_condition_text_re` VALUES (/*id*/2, /*use_type*/1, /*condition_type*/2, /*description*/"{0}をLIVEで{1}回クリア");
+INSERT INTO `tower_condition_text_re` VALUES (/*id*/3, /*use_type*/1, /*condition_type*/3, /*description*/"{0}のLIVEを{1}回クリア");
+INSERT INTO `tower_condition_text_re` VALUES (/*id*/4, /*use_type*/1, /*condition_type*/4, /*description*/"{0}を編成してLIVEをクリア");
+INSERT INTO `tower_condition_text_re` VALUES (/*id*/5, /*use_type*/1, /*condition_type*/5, /*description*/"合計スコア{0}以上");
+INSERT INTO `tower_condition_text_re` VALUES (/*id*/6, /*use_type*/1, /*condition_type*/6, /*description*/"MAXコンボ合計数{0}以上");
+INSERT INTO `tower_condition_text_re` VALUES (/*id*/7, /*use_type*/1, /*condition_type*/7, /*description*/"PERFECT、GREATが合計{0}回以上");
+INSERT INTO `tower_condition_text_re` VALUES (/*id*/8, /*use_type*/1, /*condition_type*/8, /*description*/"合計楽曲Lv{0}以上");
+INSERT INTO `tower_condition_text_re` VALUES (/*id*/9, /*use_type*/1, /*condition_type*/9, /*description*/"合計リズムアイコン数{0}以上");
+INSERT INTO `tower_condition_text_re` VALUES (/*id*/10, /*use_type*/1, /*condition_type*/10, /*description*/"フルコンボを{0}回以上");
