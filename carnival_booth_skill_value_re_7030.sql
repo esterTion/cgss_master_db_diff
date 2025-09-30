@@ -1,0 +1,11 @@
+CREATE TABLE 'carnival_booth_skill_value_re_7030' ('group_id' INTEGER NOT NULL, 'skill_id' INTEGER NOT NULL, 'effect_value' INTEGER NOT NULL);
+INSERT INTO `carnival_booth_skill_value_re_7030` VALUES (/*group_id*/1, /*skill_id*/11, /*effect_value*/550);
+INSERT INTO `carnival_booth_skill_value_re_7030` VALUES (/*group_id*/1, /*skill_id*/23, /*effect_value*/550);
+INSERT INTO `carnival_booth_skill_value_re_7030` VALUES (/*group_id*/1, /*skill_id*/18, /*effect_value*/550);
+INSERT INTO `carnival_booth_skill_value_re_7030` VALUES (/*group_id*/2, /*skill_id*/12, /*effect_value*/550);
+INSERT INTO `carnival_booth_skill_value_re_7030` VALUES (/*group_id*/2, /*skill_id*/24, /*effect_value*/550);
+INSERT INTO `carnival_booth_skill_value_re_7030` VALUES (/*group_id*/2, /*skill_id*/18, /*effect_value*/550);
+INSERT INTO `carnival_booth_skill_value_re_7030` VALUES (/*group_id*/3, /*skill_id*/13, /*effect_value*/550);
+INSERT INTO `carnival_booth_skill_value_re_7030` VALUES (/*group_id*/3, /*skill_id*/25, /*effect_value*/550);
+INSERT INTO `carnival_booth_skill_value_re_7030` VALUES (/*group_id*/3, /*skill_id*/18, /*effect_value*/550);
+CREATE INDEX 'carnival_booth_skill_value_re_7030_0_group_id' on 'carnival_booth_skill_value_re_7030'('group_id');

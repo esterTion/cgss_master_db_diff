@@ -1,0 +1,10 @@
+CREATE TABLE 'carnival_reward_rank_cenere_re_7032' ('id' INTEGER NOT NULL, 'rank' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_value' INTEGER NOT NULL, 'add_value_1' INTEGER NOT NULL, 'add_value_2' INTEGER NOT NULL, 'add_value_3' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `carnival_reward_rank_cenere_re_7032` VALUES (/*id*/1, /*rank*/2, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_cenere_re_7032` VALUES (/*id*/2, /*rank*/3, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_cenere_re_7032` VALUES (/*id*/3, /*rank*/4, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_cenere_re_7032` VALUES (/*id*/4, /*rank*/5, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_cenere_re_7032` VALUES (/*id*/5, /*rank*/6, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_cenere_re_7032` VALUES (/*id*/6, /*rank*/7, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_cenere_re_7032` VALUES (/*id*/7, /*rank*/8, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_cenere_re_7032` VALUES (/*id*/8, /*rank*/9, /*reward_type*/4, /*reward_id*/0, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_cenere_re_7032` VALUES (/*id*/9, /*rank*/10, /*reward_type*/5, /*reward_id*/6401, /*reward_value*/5, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);

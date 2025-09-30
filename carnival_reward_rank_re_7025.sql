@@ -1,0 +1,15 @@
+CREATE TABLE 'carnival_reward_rank_re_7025' ('id' INTEGER NOT NULL, 'rank' INTEGER NOT NULL, 'reward_type' INTEGER NOT NULL, 'reward_id' INTEGER NOT NULL, 'reward_value' INTEGER NOT NULL, 'add_value_1' INTEGER NOT NULL, 'add_value_2' INTEGER NOT NULL, 'add_value_3' INTEGER NOT NULL, PRIMARY KEY('id'));
+INSERT INTO `carnival_reward_rank_re_7025` VALUES (/*id*/1, /*rank*/2, /*reward_type*/5, /*reward_id*/64021, /*reward_value*/10, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_re_7025` VALUES (/*id*/2, /*rank*/3, /*reward_type*/5, /*reward_id*/64021, /*reward_value*/20, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_re_7025` VALUES (/*id*/3, /*rank*/4, /*reward_type*/5, /*reward_id*/64021, /*reward_value*/30, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_re_7025` VALUES (/*id*/4, /*rank*/5, /*reward_type*/5, /*reward_id*/64021, /*reward_value*/30, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_re_7025` VALUES (/*id*/5, /*rank*/6, /*reward_type*/5, /*reward_id*/64021, /*reward_value*/30, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_re_7025` VALUES (/*id*/6, /*rank*/7, /*reward_type*/5, /*reward_id*/64021, /*reward_value*/40, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_re_7025` VALUES (/*id*/7, /*rank*/8, /*reward_type*/5, /*reward_id*/64021, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_re_7025` VALUES (/*id*/8, /*rank*/9, /*reward_type*/5, /*reward_id*/64021, /*reward_value*/50, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_re_7025` VALUES (/*id*/9, /*rank*/10, /*reward_type*/5, /*reward_id*/64021, /*reward_value*/100, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_re_7025` VALUES (/*id*/10, /*rank*/11, /*reward_type*/5, /*reward_id*/64021, /*reward_value*/100, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_re_7025` VALUES (/*id*/11, /*rank*/12, /*reward_type*/5, /*reward_id*/64021, /*reward_value*/200, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_re_7025` VALUES (/*id*/12, /*rank*/13, /*reward_type*/7, /*reward_id*/7301, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_re_7025` VALUES (/*id*/13, /*rank*/14, /*reward_type*/7, /*reward_id*/7302, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
+INSERT INTO `carnival_reward_rank_re_7025` VALUES (/*id*/14, /*rank*/15, /*reward_type*/7, /*reward_id*/7303, /*reward_value*/1, /*add_value_1*/0, /*add_value_2*/0, /*add_value_3*/0);
