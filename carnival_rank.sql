@@ -11,7 +11,7 @@ INSERT INTO `carnival_rank` VALUES (/*event_id*/0, /*rank*/9, /*rank_bg*/1, /*ra
 INSERT INTO `carnival_rank` VALUES (/*event_id*/0, /*rank*/10, /*rank_bg*/1, /*rank_icon*/6, /*need_point*/50000, /*boothnum*/7, /*medal_rate*/1260, /*resetflag*/1, /*ranking_entry_flag*/0);
 INSERT INTO `carnival_rank` VALUES (/*event_id*/0, /*rank*/11, /*rank_bg*/1, /*rank_icon*/5, /*need_point*/69000, /*boothnum*/8, /*medal_rate*/1260, /*resetflag*/1, /*ranking_entry_flag*/0);
 INSERT INTO `carnival_rank` VALUES (/*event_id*/0, /*rank*/12, /*rank_bg*/1, /*rank_icon*/4, /*need_point*/104500, /*boothnum*/9, /*medal_rate*/1260, /*resetflag*/1, /*ranking_entry_flag*/0);
-INSERT INTO `carnival_rank` VALUES (/*event_id*/0, /*rank*/13, /*rank_bg*/1, /*rank_icon*/3, /*need_point*/150000, /*boothnum*/10, /*medal_rate*/1580, /*resetflag*/1, /*ranking_entry_flag*/0);
+INSERT INTO `carnival_rank` VALUES (/*event_id*/0, /*rank*/13, /*rank_bg*/1, /*rank_icon*/3, /*need_point*/150000, /*boothnum*/9, /*medal_rate*/1580, /*resetflag*/1, /*ranking_entry_flag*/0);
 INSERT INTO `carnival_rank` VALUES (/*event_id*/0, /*rank*/14, /*rank_bg*/1, /*rank_icon*/2, /*need_point*/250000, /*boothnum*/10, /*medal_rate*/1800, /*resetflag*/1, /*ranking_entry_flag*/0);
 INSERT INTO `carnival_rank` VALUES (/*event_id*/0, /*rank*/15, /*rank_bg*/1, /*rank_icon*/1, /*need_point*/0, /*boothnum*/10, /*medal_rate*/3600, /*resetflag*/1, /*ranking_entry_flag*/1);
 CREATE INDEX 'carnival_rank_0_rank' on 'carnival_rank'('rank');
