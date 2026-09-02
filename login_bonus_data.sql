@@ -192,3 +192,4 @@ INSERT INTO `login_bonus_data` VALUES (/*id*/9277, /*name*/"「ありがとう10
 INSERT INTO `login_bonus_data` VALUES (/*id*/9278, /*name*/"Go up the stairsログインボーナス", /*type*/4, /*count_num*/37, /*rap*/1, /*img*/0, /*start_date*/"2025-07-28 00:00:00", /*end_date*/"2025-09-02 23:59:59");
 INSERT INTO `login_bonus_data` VALUES (/*id*/9279, /*name*/"Go up the stairsログインボーナス", /*type*/4, /*count_num*/28, /*rap*/1, /*img*/0, /*start_date*/"2025-09-03 00:00:00", /*end_date*/"2025-09-30 23:59:59");
 INSERT INTO `login_bonus_data` VALUES (/*id*/9280, /*name*/"デレステ10周年記念あにぷち配布用ログインボーナス", /*type*/12, /*count_num*/1, /*rap*/1, /*img*/0, /*start_date*/"2025-09-03 00:00:00", /*end_date*/"2030-04-01 23:59:59");
+INSERT INTO `login_bonus_data` VALUES (/*id*/9281, /*name*/"ありがとう11周年 ! ログインボーナス", /*type*/4, /*count_num*/1, /*rap*/1, /*img*/0, /*start_date*/"2026-09-03 00:00:00", /*end_date*/"2026-09-30 23:59:59");

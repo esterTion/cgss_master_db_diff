@@ -326,4 +326,5 @@ INSERT INTO `free_gacha_data` VALUES (/*free_gacha_id*/90324, /*type_detail*/3, 
 INSERT INTO `free_gacha_data` VALUES (/*free_gacha_id*/90325, /*type_detail*/1, /*start_date*/"2028-09-24 00:00:00", /*end_date*/"2028-09-30 23:59:59", /*gacha_id*/"50001,50002,50003,50004,50005,50006,50007,50008,50009,31320,31321");
 INSERT INTO `free_gacha_data` VALUES (/*free_gacha_id*/90326, /*type_detail*/2, /*start_date*/"2028-09-24 00:00:00", /*end_date*/"2028-09-30 23:59:59", /*gacha_id*/"50001,50002,50003,50004,50005,50006,50007,50008,50009,31320,31321");
 INSERT INTO `free_gacha_data` VALUES (/*free_gacha_id*/90327, /*type_detail*/3, /*start_date*/"2028-09-24 00:00:00", /*end_date*/"2028-09-30 23:59:59", /*gacha_id*/"50001,50002,50003,50004,50005,50006,50007,50008,50009,31320,31321");
+INSERT INTO `free_gacha_data` VALUES (/*free_gacha_id*/90328, /*type_detail*/6, /*start_date*/"2026-09-03 00:00:00", /*end_date*/"2026-09-22 23:59:59", /*gacha_id*/"50001,50002,50003,50004,50005,50006,50007,50008,50009,31197,31198,31199");
 CREATE INDEX 'free_gacha_data_0_type_detail' on 'free_gacha_data'('type_detail');
